@@ -1,0 +1,1456 @@
+HTTP/1.1 200 OK
+Date: Tue, 24 Mar 2015 01:01:47 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Encoding: gzip
+X-Varnish: 1937866851
+Age: 0
+Via: 1.1 varnish
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Headers: DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+X-Varnish-Cache: MISS
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    
+       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+		<meta name="description" content="Das Kunstmuseum Bern nimmt das Erbe des verstorbenen Kunstsammlers Cornelius Gurlitt an. Das bestätigte Stiftungsratspräsident Christoph Schäublin. Derweil wurde ein drittes Werk als Raubkunst bestätigt. " />
+		<title>«Es kommt keine Raubkunst über die Schwellen des Museums» -  News Kultur: Kunst - tagesanzeiger.ch</title>
+		<meta property="og:url" content="http://www.tagesanzeiger.ch/kultur/kunst/Es-kommt-keine-Raubkunst-ueber-die-Schwellen-des-Museums/story/27435237" />
+		<meta property="og:description" content="Das Kunstmuseum Bern nimmt das Erbe des verstorbenen Kunstsammlers Cornelius Gurlitt an. Das bestätigte Stiftungsratspräsident Christoph Schäublin. Derweil wurde ein drittes Werk als Raubkunst bestätigt. " />
+		<meta property="og:title" content="«Es kommt keine Raubkunst über die Schwellen des Museums»" />
+		<meta property="og:type" content="article" />
+		<meta property="og:image" content="http://files.newsnetz.ch/story/2/7/4/27435237/teaserbreitgross.jpg" />
+		<meta property="og:site_name" content="tagesanzeiger.ch/" />
+		<meta property="fb:app_id" content="147124108642216" />
+		<meta property="fb:admins" content="100001684900523"/>
+		<meta property="fb:admins" content="100001969735467"/>
+		<meta property="fb:admins" content="100000675307850"/>
+		<link rel="image_src" href="http://files.newsnetz.ch/story/2/7/4/27435237/teaserbreitgross.jpg"/>
+	
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta name="robots" content="index, follow, noarchive" />
+<meta name="description" content="Nachrichten, Analysen, Bilder und Video zu Politik, Wirtschaft, Sport, Kultur, Wissen, Technik, Auto und mehr." /> 
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss_ticker.html" />
+
+<link rel="stylesheet" type="text/css" href="http://files.newsnetz.ch/cdn/swiper/2/dist/idangerous.swiper.css">
+<link rel="stylesheet" type="text/css" href="http://files.newsnetz.ch/cdn/nn2/desktop/0/desktop.css?v=0">
+
+<link rel="stylesheet" href="http://files.newsnetz.ch/css/slideshow.css?v=1427123431" type="text/css" />
+
+<!-- Includes used for framework.js, nn2 slideshow and nn2 comments -->
+<script src="http://files.newsnetz.ch/cdn/html5shiv/3/dist/html5shiv.min.js"></script>
+<script src="http://files.newsnetz.ch/cdn/es5-shim/4/es5-shim.min.js"></script>
+<script src="http://files.newsnetz.ch/cdn/es5-shim/4/es5-sham.min.js"></script>
+<script src="http://files.newsnetz.ch/cdn/loader.js/3/loader.js"></script>
+<script src="http://files.newsnetz.ch/cdn/jquery/1/dist/jquery.min.js"></script>
+<script src="http://files.newsnetz.ch/cdn/jquery-simple-placeholder/jquery.simpleplaceholder.js"></script>
+<script src="http://files.newsnetz.ch/cdn/handlebars/3/handlebars.min.js"></script>
+<script src="http://files.newsnetz.ch/cdn/rsvp/3/rsvp.min.js"></script>
+<script src="http://files.newsnetz.ch/cdn/swiper/2/dist/idangerous.swiper.min.js"></script>
+<script src="http://files.newsnetz.ch/cdn/react/0/react-with-addons.min.js"></script>
+<script src="http://files.newsnetz.ch/cdn/lodash/3/lodash.min.js"></script>
+<script src="http://files.newsnetz.ch/cdn/postscribe/1/dist/postscribe.min.js"></script>
+
+<script src="http://www.google-analytics.com/analytics.js"></script>
+<script src="http://cdn.cxense.com/cx.js"></script>
+
+<script type="text/javascript">
+    // Used for app.js and framework.js
+    window.cre_jq = jQuery.noConflict(true);
+</script>
+
+<!-- Used for new nn2 slideshow -->
+<script src="http://files.newsnetz.ch/cdn/nn2/framework/0/framework.js?v=0"></script>
+
+<script>
+    // Load statistics for slideshow and comments from NN2 framework
+    (function($) {
+        var config = require("framework/config").config;
+
+        config.configure({
+            env: "desktop"
+        });
+
+        $.getJSON(config.apiUrl + "/sites/default").then(function(payload) {
+            require("framework/statistics").statistics.init({
+                env: config.env,
+                ga: {
+                    trackers: payload.site.google_analytics_information.trackers
+                },
+                cxense: {
+                    siteId: payload.site.cx_site_id
+                }
+            }, {
+                "google_analytics": {
+                    "customVars": [{
+                        "name": "device_characteristics",
+                        "value": "desktop"
+                    }, {
+                        "name": "app_mode",
+                        "value": "browser"
+                    }, {
+                        "name": "version",
+                        "value": config.version
+                    }, {
+                        "name": "ad_blocker",
+                        "value": !window.adblockJsFile
+                    }]
+                },
+                "cxense": {
+                    "tam-target": "desktop_site"
+                }
+            });
+        });
+    })(cre_jq);
+</script>
+
+<script src="http://files.newsnetz.ch/scripts/slideshow.js?v=2" type="text/javascript"></script>
+
+<link rel="stylesheet" href="http://files.newsnetz.ch/css/baseStyles_v5.css?v=1427136606" type="text/css" />
+<link rel="stylesheet" href="http://files.newsnetz.ch/css/TA_styles_v5.css?v=1427155531" type="text/css" />
+<link rel="stylesheet" href="http://files.newsnetz.ch/css/TA_fontStyles.css?v=1427108862" type="text/css" />
+<!--[if IE]>
+<link rel="stylesheet" href="http://files.newsnetz.ch/css/base_stylesIE_v4.css?v=1427110955" type="text/css" />
+<link rel="stylesheet" href="http://files.newsnetz.ch/css/TA_stylesIE_v4.css?v=1427156231" type="text/css" />
+<![EndIf]-->
+
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900"rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" media="print" href="http://files.newsnetz.ch/css/TA_print_red.css" type="text/css" />
+
+<title>tagesanzeiger.ch: Nichts verpassen</title>
+
+        <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900"rel="stylesheet" type="text/css">
+
+    
+</head>
+<body onload="setAdsOnLoad()">  
+    
+
+    
+
+				<div style="position:absolute">
+					<script language="JavaScript" type="text/javascript"> <!--
+						var WEMF2="http://newsnetz.wemfbox.ch/cgi-bin/ivw/CP/tagesanz/";
+                        if (navigator.userAgent.match(/iPad/gi)) {
+                            WEMF2 = "http://newsnetz.wemfbox.ch/cgi-bin/ivw/CP/tagesanz/mobile/tablet/web/";
+                        }
+						document.write("<img src='"+WEMF2+"kultur/article?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+" ' width='1' height='1' alt='' />");
+						// -->
+					</script>
+					<noscript>
+						<img src="http://newsnetz.wemfbox.ch/cgi-bin/ivw/CP/tagesanz/kultur/article" width="1" height="1" alt="" />
+					</noscript>
+				</div>
+			
+	  <!-- user-agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:11.0) Gecko/20100101 Firefox/11.0 -->
+			<div style="position:absolute">
+				<script language="JavaScript" type="text/javascript"> <!--
+					var WEMF="http://tagesanz.wemfbox.ch/cgi-bin/ivw/CP/";
+                    if (navigator.userAgent.match(/iPad/gi)) {
+                            WEMF="http://tagesanz.wemfbox.ch/cgi-bin/ivw/CP/mobile/tablet/web/";
+                    }
+					document.write("<img src='"+WEMF+"kultur/article?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"' width='1' height='1' alt='' />");
+					// -->
+				</script>
+				<noscript>
+					<img src="http://tagesanz.wemfbox.ch/cgi-bin/ivw/CP/kultur/article" width="1" height="1" alt="" />
+				</noscript>
+				<script language="Javascript">var szmvars="tagesanz//CP//kultur/article";</script>
+				<script language="Javascript" src="http://tagesanz.wemfbox.ch/2004/01/survey.js"></script>
+			</div>
+		
+    <!-- statisticsGoogle start -->
+        <!-- GOOGLE ANALYTICS -->
+        <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https:// ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+            if (typeof(_gat) == 'object') {
+                var pageTracker = _gat._getTracker("UA-431029-1");
+                pageTracker._setDomainName("tagesanzeiger.ch");
+                pageTracker._initData();
+                pageTracker._trackPageview();
+                var secondTracker = _gat._getTracker("UA-431029-7");
+                secondTracker._setDomainName("none");
+                secondTracker._setAllowLinker(true);
+                secondTracker._initData();
+                secondTracker._trackPageview();
+            }
+        </script>
+    <!-- statisticsGoogle ende -->
+    
+			<div style="position:absolute">
+				<script language="JavaScript" type="text/javascript">
+					document.write("<img style='display:none;' src='http://tagesanzeiger.ch/kultur/kunst/Es-kommt-keine-Raubkunst-ueber-die-Schwellen-des-Museums/story/27435237/1/pixel.gif?nocache="+(Math.random()*100000)+"' width='1' height='1' />"); 
+				</script>
+				<noscript>
+					<img style="display:none;" src="http://tagesanzeiger.ch/kultur/kunst/Es-kommt-keine-Raubkunst-ueber-die-Schwellen-des-Museums/story/27435237/1/pixel.gif?nocache=1427158907" width="1" height="1"/>
+				</noscript>
+			</div>
+		
+
+    <!-- head_scripts_optimized start -->
+<script src="http://files.newsnetz.ch/scripts/updated/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/updated/ui/jquery.ui.core.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/updated/ui/jquery.ui.widget.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/updated/ui/jquery.ui.tabs.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/updated/jquery.pagination.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.placeholder.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.getUrlParam.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery-validate-1.5.2/jquery.validate.min.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery-validate-1.5.2/localization/messages_de.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/easyTooltip.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.form.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.flash.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.cookie.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.url.packed.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.crypt.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/ajax.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/swfobject.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/misc6.js?id=16" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/ad_red.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/loadAjaxContent.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/dimension_watcher.js"></script>
+<script type="text/javascript" src="http://files.newsnetz.ch/scripts/jquery.thickbox.min.js?v3"></script>
+<script>
+	DimensionWatcher.watchIframeContent();
+</script>
+<link rel="stylesheet" href="http://files.newsnetz.ch/css/thickbox.css" type="text/css" /> 
+        <style>
+	.paywall-overlay{
+	  width: 100%;
+	  height: 100%;
+	  position: fixed;
+	  top: 0;
+	  z-index: 10000;
+	  background: rgba(125, 125, 125, .5);
+	}
+	
+	.paywall-overlay div{
+	  width: 700px;
+	  height: 200px;
+	  background: #fff;
+	  margin: 50px auto;
+	  font-family: sans-serif;
+	  text-align: center;
+	  padding: 20px 0 0 0 ;
+	}
+	
+	.paywall-reminder {
+	  position: fixed;
+	  bottom: 0;
+	  right: 200px;
+	  width: 300px;
+	  background: lightskyblue;
+	  padding: 5px 10px;
+	}
+	
+	.paywall-reminder button {
+	  background: none;
+	  border: none;
+	}
+</style>
+
+<script defer src="http://track.tagesanzeiger.ch/cre-1.0/static/tracking/1.0/templateclient.js"></script>
+<script defer src="http://track.tagesanzeiger.ch/cre-1.0/cockpit/platform/tamedia/shop/tagi/api/templatesets.js"></script>
+<script defer src="http://track.tagesanzeiger.ch/cre-1.0/tracking/tracking.js"></script>
+
+<script>
+	var checkCreClient = window.setInterval(function(){
+		if(window.cre_templateclient && window.cre_templatesets){
+			startCreClient();
+			window.clearInterval(checkCreClient);
+		}
+
+	}, 1000) 
+
+	function startCreClient() {
+		cre_templateclient.setup();
+
+		var url, regexResult, channels, cmsId = "", doctype = "section";
+		url = window.location.href.toString().split(window.location.host)[1];
+		regexResult = url.match(/.*\/story\/([0-9]{8})/i);
+	
+		if(regexResult && regexResult.length > 1) {
+			cmsId = regexResult[1];
+			doctype = "article";
+		}  
+	
+		cre_client.set_page_view();
+		cre_client.set_origin("web");
+		cre_client.set_cms_id(cmsId);
+		cre_client.set_content_id(url);
+		cre_client.set_service_id('tagesanzeiger');
+		
+		channels = url.split("/");	
+		cre_client.set_channel(window.location.pathname === "/" ? "home" : channels[1]);
+
+		if(channels[2]) {
+			cre_client.set_sub_channel(channels[2]);
+		}
+
+		cre_client.set_heading($("title").text());
+		cre_client.set_doc_type(doctype);
+		cre_client.request();
+	}
+
+</script>
+
+        <script src="http://files.newsnetz.ch/upload/3/4/34949.js" type="text/javascript" ></script>
+    <script src="http://files.newsnetz.ch/scripts/advertisement.js" type="text/javascript"></script>
+
+    <!-- Google Tag Manager -->
+    <script>
+        if (! window.googleTagManagerStarted) {
+            // According to fabian, this code can be included multiple times per page, so we make sure at this point
+            // that we initialize gtm only once
+            window.googleTagManagerStarted = true;
+            
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j ,f);
+            })(window,document,'script','dataLayer','GTM-WTGRDK');
+        }
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <script>
+    function initCXense() {
+        var loginState = "unknown";
+        
+        if(window.loginState == 0) {
+            loginState = "not-logged-in";
+        } else if(window.loginState == 1) {
+            loginState = "logged-in";
+        }
+
+        TAMSiteId = "9222261986533147877"; 
+        cxParamD ='[{"tam-pagetype", "article"}'+
+        ',{ "tam-target", "desktop_site"}'+
+        ',{ "tam-loggedin-state", "'+loginState+'"}'+
+        ',{ "tam-category", "kultur"}'+
+        ',{ "tam-subcategory", "kunst"}'+
+        ',{ "tam-slideshow", ""}'+
+        ',{ "tam-slideshowstate", ""}'+
+        ',{ "tam-video", ""}'+
+        ',{ "tam-videostate", ""}'+
+        ',{ "tam-cmssystem", "nn1"}' +
+        ',{ "tam-article", "27435237"}]';
+
+        triggerCxPageTracking();
+    }
+    </script>
+    
+
+<script>
+    window.redesign2014 = 1;
+</script>
+<!-- facebook_api_de_all -->
+<script src="http://files.newsnetz.ch/upload/3/6/36198.js"></script>
+
+
+
+    <!-- head_scripts_optimized ende -->
+
+    <script src="http://files.newsnetz.ch/scripts/article_red.js" type="text/javascript"></script>
+    <script src="http://files.newsnetz.ch/scripts/exportedFromNN2/comments.js" type="text/javascript"></script>
+            
+    <!-- adtop start -->
+        
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=6 | 3 werbeart=Floating kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=2 -->
+			<div id="floatingAd">
+<!--JavaScript Tag with group ID // Tag for network 1084: Swiss Adserver - Newsnetz // Website: tagesanzeiger.ch // Page: Kultur // Placement: Tagi-Kultur-Floating-(1x1) (3514818) // created at: Nov 15, 2011 9:29:38 AM-->  <script language="javascript">  <!--  
+if (window.adgroupid == undefined) {  	window.adgroupid = Math.round(Math.random() * 1000);  }  
+document.write('<scr'+'ipt language="javascript1.1" src="http://ad.dc2.adtech.de/addyn/3.0/1084/3514818/0/16/ADTECH;loc=100;target=_blank;key=kunst+key2+kultur+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');  //-->  </script><noscript><a href="http://ad.dc2.adtech.de/adlink/3.0/1084/3514818/0/16/ADTECH;loc=300;key=kunst+key2+kultur+key4" target="_blank"><img src="http://ad.dc2.adtech.de/adserv/3.0/1084/3514818/0/16/ADTECH;loc=300;key=kunst+key2+kultur+key4" border="0" width="1" height="1"></a></noscript>  <!-- End of JavaScript Tag -->
+</div>
+
+			<!-- werbung ende -->
+			
+        
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=1 | 7 werbeart=Maxiboard oder Wallpaper Horizontal kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=2 -->
+			<div id="adtopBanner">
+<!--JavaScript Tag with group ID // Tag for network 1084: Swiss Adserver - Newsnetz // Website: tagesanzeiger.ch // Page: Kultur // Placement: Tagi-Kultur-Maxiboard-(994x118) (3514913) // created at: Nov 15, 2011 9:29:38 AM-->  <script language="javascript">  <!--  
+if (window.adgroupid == undefined) {  	window.adgroupid = Math.round(Math.random() * 1000);  }  
+document.write('<scr'+'ipt language="javascript1.1" src="http://ad.dc2.adtech.de/addyn/3.0/1084/3514913/0/1217/ADTECH;loc=100;target=_blank;key=kunst+key2+kultur+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');  //-->  </script><noscript><a href="http://ad.dc2.adtech.de/adlink/3.0/1084/3514913/0/1217/ADTECH;loc=300;key=kunst+key2+kultur+key4" target="_blank"><img src="http://ad.dc2.adtech.de/adserv/3.0/1084/3514913/0/1217/ADTECH;loc=300;key=kunst+key2+kultur+key4" border="0" width="994" height="118"></a></noscript>  <!-- End of JavaScript Tag -->
+
+
+</div><script type="text/javascript">
+
+document.write('<scr'+'ipt language="javascript1.1" src="http://ad.dc2.adtech.de/bind?ckey2=nn_kultur;cvalue1=nn_kultur;expiresDays=90;adct=text/html;misc=123"></scri'+'pt>');
+</script>
+			<!-- werbung ende -->
+			
+    <!-- adtop ende -->
+
+    
+
+    
+
+<!--Sticky skyad, needs css Werbung::get_werbung(4)-->
+
+<div id="mainContainer">
+    <div id="headerWrapper">
+
+        <section id="header">
+    <div id="topNav">
+    <ul class="loginNav">
+        <li class="login" id="login_button_paywall" style="display:none;">
+            <a href="#" onclick="window.cre_templateclient.show({'template_name': 'overlay_anonymous'});" style="margin-right:7px">Login</a>
+        </li>
+        <li class="subscribe">
+            <a id="abo_button_paywall" href="http://abo.tagesanzeiger.ch/" style="display:none; margin-right:7px">Abonnieren</a>
+            <div class="aboPromotion">
+                <div class="promotion">
+                    <p>
+                        Digitale Abos ab
+                        <br>
+                        CHF 1.- im ersten Monat.
+                    </p>
+                    <img src="/images/aboPromotion/gruppe.png" alt="">
+                    <p>
+                        Jetzt testen und unbegrenzten Zugriff auf tagesanzeiger.ch und die mobilen Apps geniessen.
+                    </p>
+                    <a href="http://abo.tagesanzeiger.ch/">Alle Angebote anzeigen</a>
+                </div>
+            </div>
+        </li>
+        <li>
+            <span id="name_button_paywall" style="display:none; margin-right:7px">Name</span>
+        </li>
+        <li style="display:none;">·</li>
+        <li>
+            <a id="myabo_button_paywall" href="https://abo.tagesanzeiger.ch/tamstorefront/my-account" style="display:none; margin-right:7px">Mein Konto</a>
+        </li>
+        <li id="logout_button_paywall" style="display:none;">
+            <a href="https://tgt.tamedia.ch/tamstorefront/logoutOnLead?callerUri=http://www.tagesanzeiger.ch" style="margin-right:7px">Logout</a>
+        </li>
+        <li style="display:none;">·</li>
+    </ul>
+    <ul class="productNav">
+        <li>
+            <a href="http://tagesanzeiger.homegate.ch/homegate/index?layout=&amp;agency=&amp;utm_source=nn_TA&amp;utm_medium=liim&amp;utm_term=ies&amp;utm_campaign=partn_d" target="_blank">Immo</a>
+        </li>
+        <li>·</li>
+        <li>
+            <a href="http://www.car4you.ch/?utm_source=Newsnet&amp;utm_medium=Link&amp;utm_campaign=Integration_Front" target="_blank">Auto</a>
+        </li>
+        <li>·</li>
+        <li>
+            <a target="_blank" href="http://jobs.tagesanzeiger.ch" title="Job">Job</a>
+        </li>
+        <li>·</li>
+        <li>
+            <a target="_parent" href="http://weiterbildung.tagesanzeiger.ch" title="Weiterbildung">Weiterbildung</a>
+        </li>
+        <li>·</li>
+        <li>
+            <a href="http://marktplatz.tagesanzeiger.ch" target="_blank">Marktplatz</a>
+        </li>
+        <li>·</li>
+        <li>
+            <a href="http://tagesanzeiger.sich-erinnern.ch" target="_blank">Trauer</a>
+        </li>
+        <li>·</li>
+		<li>
+			<a title="SonntagsZeitung" target="_blank" href="http://ad.dc2.adtech.de/?adlink|3.0|1084|5247901|1|16|AdId=11221799;BnId=1;link=http://www.sonntagszeitung.ch">SonntagsZeitung</a>
+        </li>
+        <li>
+            
+            <form action="http://www.tagesanzeiger.ch/service/suche/suche.html?date=alle&amp;order=date" method="get">
+                <span class="icon-search"></span>
+                <input type="hidden" name="date" id="date" value="alle">
+                <input type="hidden" name="order" id="order" value="date">
+                <input class="innerBoxShadow" onfocus="searchFocus(this)" onblur="searchBlur(this)" name="key" type="text" value="Suche" title="Suche" id="headerSearch">
+                <button title="Submit Search" class="btn"></button>
+            </form>
+        </li>
+    </ul>
+    <span class="clear"></span>
+</div>
+
+
+<script>
+window.loginState = 2;
+var tmpRequest = $.ajax({
+    type: "HEAD",
+    async: true,
+    cache: false,
+    url: 'http://www.tagesanzeiger.ch/extern/payment.tmpl'+'?1='+Math.random(),
+    beforeSend: function(xhr) {
+        return xhr.setRequestHeader("X-Cache-Control", "no-cache");
+    },
+    success: handleResponse,
+    error: function() { initCXense(); },
+});
+
+function handleResponse(message) {
+    var userInfo = $.parseJSON(tmpRequest.getResponseHeader("C1-User-Info"));
+    if (window.location.toString().indexOf("devlocal") > 1) {
+        userInfo = {first_name : 'Andreas', last_name : 'Müller', title : 'Herr', login : 'andreas.mueller@tamedia.ch'};
+    }
+
+    if(userInfo!=null) {
+        window.loginState = 1;
+        if (userInfo.last_name !== '' && userInfo.last_name !== '-') {
+            $('#name_button_paywall').text('Grüezi, '+userInfo.title +' '+ userInfo.first_name + ' ' + userInfo.last_name);
+        } else {
+            $('#name_button_paywall').text('Grüezi, '+userInfo.login);
+        }
+        
+        $(document).ready(function() {
+            $('#logout_button_paywall').show();
+            $('#abo_button_paywall').hide();
+            $('#login_button_paywall').hide();
+            $('#name_button_paywall').show();
+            $('#myabo_button_paywall').show();
+            $('#logout_button_paywall').show();
+        });
+    } else {
+        window.loginState = 0;
+        $(document).ready(function() { 
+            $('#abo_button_paywall').show();
+            $('#login_button_paywall').show();
+            $('#name_button_paywall').hide();
+            $('#myabo_button_paywall').hide();
+            $('#logout_button_paywall').hide();
+        });
+    }
+
+    initCXense();
+}
+</script>
+    
+    
+    <div id="masthead">
+        <ul>
+            <li id="tagiLogo" class="articleLogo">
+                <a href="/" title="Tages-Anzeiger Startseite">
+                    <img src="/images/logos/Logo-TA-article.png" id="mainLogo" alt="Tages-Anzeiger" style="display:inline;" />
+                    <script type="text/javascript">
+                        if (/iPad|iPod|iPhone/.test(navigator.userAgent) || window.devicePixelRatio > 1){
+                        document.getElementById('mainLogo').src = "/images/logos/Logo-TA-article@2x.png";}
+                    </script>
+                    <noscript>
+                        <img src="/images/logos/Logo-TA-article.png" id="mainLogo" alt="Tages-Anzeiger" />
+                    </noscript>
+                </a>    
+            </li>
+            <li id="headerWeather" style="display:none">
+                <a href="http://www.tagesanzeiger.ch/wetter/zuerich/" title="klar"><img src="http://files.newsnetz.ch//wetter/icons/160px/night/k_01.png" /><br /><span>1°/15 °</span></a>
+            </li>
+            
+        </ul>
+    </div>
+
+    <div class="clear"></div>
+
+
+    
+
+    <h4 class="title HeaderTitle"></h4>
+
+
+    <div id="mainNav"><ul>
+				<li>
+					<a href="http://www.tagesanzeiger.ch/" class="">Front</a>
+				</li>
+			
+				<li>
+					<a href="http://www.tagesanzeiger.ch/zuerich/" class="">Zürich</a>
+				</li>
+			
+				<li>
+					<a href="http://www.tagesanzeiger.ch/schweiz/" class="">Schweiz</a>
+				</li>
+			
+				<li>
+					<a href="http://www.tagesanzeiger.ch/ausland/" class="">International</a>
+				</li>
+			
+				<li>
+					<a href="http://www.tagesanzeiger.ch/wirtschaft/" class="">Wirtschaft</a>
+				</li>
+			
+				<li>
+					<a href="http://boerse.tagesanzeiger.ch" class="">Börse</a>
+				</li>
+			
+				<li>
+					<a href="http://www.tagesanzeiger.ch/sport/" class="">Sport</a>
+				</li>
+			
+				<li>
+					<a href="http://www.tagesanzeiger.ch/kultur/" class="active">Kultur</a>
+				</li>
+			
+				<li>
+					<a href="http://www.tagesanzeiger.ch/leben/" class="">Leben</a>
+				</li>
+			
+				<li>
+					<a href="http://www.tagesanzeiger.ch/wissen/" class="">Wissen</a>
+				</li>
+			
+				<li>
+					<a href="http://www.tagesanzeiger.ch/auto/" class="">Auto</a>
+				</li>
+			
+				<li>
+					<a href="http://www.tagesanzeiger.ch/blogs/" class="">Blogs</a>
+				</li>
+			
+				<li>
+					<a href="http://www.tagesanzeiger.ch/panorama/" class="">Panorama</a>
+				</li>
+			
+    			<li class="dropdownNavi">
+				<a href="javascript:void(0)">
+					Mehr
+					<span class="icon-down"></span>
+				</a>
+				<ul>
+					<!--[if IE 8]><div id="ie8"><![endif]-->
+					<li class="digital"><a href="http://www.tagesanzeiger.ch/digital/">Digital</a></li>
+					<li class="longform"><a href="http://www.tagesanzeiger.ch/longform/">Web-Spezial</a></li>
+					<li class="dasMagazin"><a href="http://blog.dasmagazin.ch" target="_blank">Das Magazin</a></li>
+					<li class="zhTipp"><a href="http://www.zueritipp.ch" target="_blank">Züritipp</a></li>
+					<li class="marktplatz"><a href="http://marktplatz.tagesanzeiger.ch">Marktplatz</a></li>
+					<li class="carteBlanche"><a href="http://www.tagesanzeiger.ch/carteblanche/">Carte Blanche</a></li>
+					<li class="eva"><a href="http://www.tagesanzeiger.ch/bildstrecke.html?id=24883">Eva</a></li>
+					<!--[if IE 8]></div><![endif]-->
+				</ul>
+			</li>
+		</ul></div> 
+			<script type="text/javascript">
+				jQuery(function() {
+
+				    jQuery("li.dropdownNavi").each(function(i){
+				      jQuery(this).hover(function(){
+				      	jQuery(this).find("ul").slice(0,1).addClass("activeDD"); 
+				      	jQuery(this).find("a").css("color", "#007abf"); 
+				      	jQuery(this).find(".icon-down").removeClass().addClass("icon-up");
+				      	},function(){
+				      		jQuery(this).find("ul").slice(0,1).removeClass("activeDD");
+				      		jQuery(this).find("a").css("color", "#222");
+				      		jQuery(this).find(".icon-up").removeClass().addClass("icon-down");
+				      	});
+				    });
+
+				    // IE6 Fix: 
+				    if(jQuery.browser.msie && (jQuery.browser.version < 7)) {
+				      jQuery("li.dropdownNavi").each(function(i){
+				        jQuery(this).find("ul").hover(function(){jQuery(this).addClass("activeDD");},function(){jQuery(this).removeClass("activeDD");});
+				      });
+				    }
+
+			  });
+			</script>     
+		
+
+    <div id="subnavigation">
+        <ul><!--[if IE 8]><div id="ie8"><![endif]-->
+					  <li><a href="http://www.tagesanzeiger.ch/kultur/kino/" >Film</a></li>
+					  <li><a href="http://www.tagesanzeiger.ch/kultur/fernsehen/" >Fernsehen</a></li>
+					  <li><a href="http://www.tagesanzeiger.ch/kultur/buecher/" >Bücher</a></li>
+					  <li><a href="http://www.tagesanzeiger.ch/kultur/theater/" >Theater</a></li>
+					  <li><a href="http://www.tagesanzeiger.ch/kultur/kunst/" class="active" >Kunst</a></li>
+					  <li><a href="http://www.tagesanzeiger.ch/kultur/pop-und-jazz/" >Musik</a></li>
+					  <li><a href="http://www.tagesanzeiger.ch/kultur/klassik/" >Klassik</a></li>
+					  <li><a href="http://www.tagesanzeiger.ch/kultur/bestenlisten/Fernsehen/story/10768231" >Bestenlisten</a></li>
+					  <li><a href="http://blog.tagesanzeiger.ch/deadline/" >Deadline</a></li>
+					  <li><a href="http://www.tagesanzeiger.ch/kultur/bildstrecke.html" >Bildstrecken</a></li><li class="clear"></li><!--[if IE 8]></div><![endif]--></ul>
+    </div>
+
+
+</section>
+        
+    </div>
+    <script>window.articleLegacyId = 0;</script> 
+			<style>
+			</style>
+		
+			<div id="wideBoardContainer">
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=28 | 28 werbeart=Giganto Miliardaer maker kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=2 -->
+			<div id="wideBoard">
+<!--JavaScript Tag with group ID // Tag for network 1084: Swiss Adserver - Newsnet // Website: tagesanzeiger.ch // Page: Kultur // Placement: Tagi-Kultur-WideBoard-5 x 1 (3787486) // created at: May 9, 2012 1:09:11 PM-->
+<script language="javascript">
+<!--
+
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+
+document.write('<scr'+'ipt language="javascript1.1" src="http://ad.dc2.adtech.de/addyn/3.0/1084/3787486/0/1357/ADTECH;loc=100;target=_blank;key=kunst+key2+kultur+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://ad.dc2.adtech.de/adlink/3.0/1084/3787486/0/1357/ADTECH;loc=300;key=kunst+key2+kultur+key4" target="_blank"><img src="http://ad.dc2.adtech.de/adserv/3.0/1084/3787486/0/1357/ADTECH;loc=300;key=kunst+key2+kultur+key4" border="0" width="5" height="1"></a></noscript>
+<!-- End of JavaScript Tag -->
+</div>
+			<!-- werbung ende -->
+			</div>
+			<div id="article" >
+				<img style="display:none;" alt="Tages-Anzeiger" class="printLogo" src="/images/logos/Logo-TA-article.png">
+				
+				<h1 class="standard"> «Es kommt keine Raubkunst über die Schwellen des Museums»</h1>
+				<h3>Das Kunstmuseum Bern nimmt das Erbe des verstorbenen Kunstsammlers Cornelius Gurlitt an. Das bestätigte Stiftungsratspräsident Christoph Schäublin. Derweil wurde ein drittes Werk als Raubkunst bestätigt. </h3>
+				
+				<div id="mainColLeft" class="liveTicker">
+					
+					<div id="topElement">
+						<img src="http://files.newsnetz.ch/story/2/7/4/27435237/42/topelement.jpg" id="articlefeature" alt="Nimmt die Sammlung Gurlitt an: Christoph Schäublin, Präsident des Stiftungsrates des Kunstmuseums Bern. " class="jqzoomINNER"/>
+			<p class="caption" style="float:none; overflow:hidden;">
+			Nimmt die Sammlung Gurlitt an: Christoph Schäublin, Präsident des Stiftungsrates des Kunstmuseums Bern.  <nobr>Bild: Keystone</nobr></p>
+					</div>
+					
+					<div id="aside">
+						<div class="storyInfo">
+							
+							<time class="time">24.11.2014</time>
+						</div>
+
+						<div class="socialLinks">
+							
+			<div class="articleSharing articleSharing_box">
+				<div class="social_box">
+					
+		<div class="facebook">
+			
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
+		<div class="fb-share-button" data-href="http://www.tagesanzeiger.ch//kultur/kunst/Es-kommt-keine-Raubkunst-ueber-die-Schwellen-des-Museums/story/27435237" data-type="button_count"></div>
+
+	
+		</div>
+
+		<div class="twitter">
+			<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="tagesanzeiger" data-url="http://www.tagesanzeiger.ch/27435237" data-counturl="http://www.tagesanzeiger.ch/kultur/kunst/Es-kommt-keine-Raubkunst-ueber-die-Schwellen-des-Museums/story/27435237" data-text="«Es kommt keine Raubkunst über die Schwellen des Museums»" data-lang="en">Tweet</a>
+			<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+		</div>
+
+		<div class="email">
+			<a href="#TB_inline?height=180&width=390&inlineId=emailForm&modal=false" class="thickbox">
+			</a>
+			<span class="emailCounter">0</span>
+			<div id="emailForm" style="display:none;">
+					
+        <form id="articleMailForm" style="" action="/notemail.html" method="POST">	
+		    <input type="hidden" name="mailType" value="art" />
+			<input type="hidden" name="id" value="27435237" />
+			<h4>Artikel als E-Mail versenden</h4>
+			<p><label for="rMail">Empfänger (E-Mail)*</label><input class="field" name="rMail" id="rMail"/></p>
+			<p><label for="sMail">Absender (E-mail)*</label><input class="field" name="sMail" id="sMail"/></p>
+			<input class="button" value="Senden" name="sendMail" type="submit" /></p>
+		</form>	
+		<div id="MailInfo"  style="display:none">
+			<p>Ihre E-Mail wurde abgeschickt.</p>
+			<p><a href="#" class="infoClose"></a></p>
+		</div>
+			</div>
+		</div>
+
+		
+		<div class="comments" style="display:none;">
+			<a href="#comments"></a>
+			<span class="commentCounter">0</span>
+		</div> 
+				</div>
+			</div>
+		
+						</div>						
+					</div>
+					
+					<div id="mainContent">
+						<!-- BEGIN Liveticker -->
+        <!--[if lt IE 9 ]>
+            <script type="text/javascript">
+                if (! window.location.search.match(/new_liveticker=0/)) {
+                    if (window.location.search.match(/new_liveticker=[^&]+/)) {
+                        var search = window.location.search.replace(/new_liveticker=[^&]+/, "new_liveticker=0");
+                    } else {
+                        var search = (window.location.search ? window.location.search + "&" : "?") + "new_liveticker=0";
+                    }
+
+                    window.location.replace(
+                        window.location.protocol + "//" +
+                        window.location.host +
+                        window.location.pathname +
+                        search +
+                        window.location.hash
+                    );
+                }
+            </script>
+        <![endif]-->
+
+        <div id="newsnet-liveticker"></div>
+
+        <link rel="stylesheet" href="http://files.newsnetz.ch/css/newsnet-liveticker/liveticker.css?v=1427110956" type="text/css" />
+        <link rel="stylesheet" href="http://files.newsnetz.ch/css/liveticker.css?v=1427110956" type="text/css" />
+
+        <script type="text/javascript">window.livetickerId = "11330";</script>
+        
+        <script src="http://files.newsnetz.ch/scripts/newsnet-liveticker/liveticker.js" type="text/javascript"></script>
+        <script src="http://files.newsnetz.ch/scripts/liveticker.js" type="text/javascript"></script>
+    <!-- END Liveticker --><p>
+		<script type="text/javascript">
+	var badword = 0;
+	var badwordserch = 1;
+		</script>
+	 <span class="idcode">()</span></p><span class="publishedDate">(Erstellt: 24.11.2014, 10:48 Uhr)</span>
+						
+					</div>
+				</div>				
+				<div id="mainColRight">
+					<div id="asidePrint" style="display:none;">
+						<div class="storyInfo">
+							
+							<time class="time">24.11.2014</time>
+						</div>
+					</div>
+					<div class="contextBox keywordBox">
+	<h4>Stichworte</h4>
+	
+		<ul>
+		
+			<li>
+				<a href="/kultur/kunst/ereignis-i/gurlitt-erbe/s.html">Gurlitt-Erbe</a>
+			</li>
+		
+			<li>
+				<a href="/kultur/kunst/inhalt-1/kunst/s.html">Kunst</a>
+			</li>
+		
+		</ul>
+	
+	
+
+</div><div id="colRightAd">
+					
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=5 | 9 werbeart=Rectangle kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=2 -->
+			<div id="colRightAd">
+<!--JavaScript Tag with group ID // Tag for network 1084: Swiss Adserver - Newsnetz // Website: tagesanzeiger.ch // Page: Kultur // Placement: Tagi-Kultur-Rectangle-(300x250) (3514854) // created at: Nov 15, 2011 9:29:39 AM-->  <script language="javascript">  <!--  
+if (window.adgroupid == undefined) {  	window.adgroupid = Math.round(Math.random() * 1000);  }  
+document.write('<scr'+'ipt language="javascript1.1" src="http://ad.dc2.adtech.de/addyn/3.0/1084/3514854/0/170/ADTECH;loc=100;target=_blank;key=kunst+key2+kultur+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');  //-->  </script><noscript><a href="http://ad.dc2.adtech.de/adlink/3.0/1084/3514854/0/170/ADTECH;loc=300;key=kunst+key2+kultur+key4" target="_blank"><img src="http://ad.dc2.adtech.de/adserv/3.0/1084/3514854/0/170/ADTECH;loc=300;key=kunst+key2+kultur+key4" border="0" width="300" height="250"></a></noscript>  <!-- End of JavaScript Tag -->
+
+
+</div>
+			<!-- werbung ende -->
+			
+					<div class="clear"></div>
+				</div><div class="contextBox" boxtype="45">
+		<h4>Artikel zum Thema</h4>
+	<!-- atype=234 -->
+            <div class="relatedArticle standard">
+                
+                <h5>
+                    <a href="/kultur/kunst/Familie-geht-gegen-GurlittTestament-vor/story/18574003">
+                        Familie geht gegen Gurlitt-Testament vor
+                    </a>
+                </h5>
+                <a  href="/kultur/kunst/Familie-geht-gegen-GurlittTestament-vor/story/18574003"><img alt="" src="http://files.newsnetz.ch/story/1/8/5/18574003/23/rechte_spalte_gross.jpg" class="imgfloat" /></a>
+                <p>
+                    
+                    
+                    
+                    Die gesetzlichen Erben von Cornelius Gurlitt wollen dessen letzten Willen überprüfen lassen. Damit wird die Kunstsammlung zum Gerichtsfall.
+                    <a href="/kultur/kunst/Familie-geht-gegen-GurlittTestament-vor/story/18574003">Mehr...</a>
+                </p>
+                <p class="storyInfo">
+                    <span class="author">Von <a href="/stichwort/personen/mario-staeuble/s.html">Mario Stäuble</a> </span>
+                    <time class="time">21.11.2014</time>
+                    
+                </p>
+            </div>
+        <!-- atype=233 -->
+            <div class="relatedArticle standard">
+                
+                <h5>
+                    <a href="/kultur/kunst/Cousin-zweifelt-Gurlitts-Geisteszustand-nicht-an/story/19789514">
+                        Cousin zweifelt Gurlitts Geisteszustand nicht an
+                    </a>
+                </h5>
+                <p>
+                    
+                    
+                    
+                    Dietrich Gurlitt will nichts mit dem Gutachten zu tun haben, das seine Schwester in Auftrag gegeben hat. 
+                    <a href="/kultur/kunst/Cousin-zweifelt-Gurlitts-Geisteszustand-nicht-an/story/19789514">Mehr...</a>
+                </p>
+                <p class="storyInfo">
+                    
+                    <time class="time">18.11.2014</time>
+                    
+                </p>
+            </div>
+        </div><div class="contextBox" boxtype="2">
+			<h4>Bildstrecke</h4><!-- riv dia -->
+<script type="text/javascript">
+	var pictures126343 = {"items": [{"width":"961","provider":"Bild: Gian Ehrenzeller/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/2093036_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/2093036_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/2093036_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/2093036_pic_970x641230.jpg"},"photographer":"Gian Ehrenzeller","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:638.667706708268px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/2093036_pic_970x641.jpg' />","image_id":"2093036","link_url":"","noAds":"","story_link":"","video":"","legend":"Stand vor der schwierigen Entscheidung, ob es das Erbe von Cornelius Gurlitt annehmen will: Das Kunstmuseum in Bern. (7. mai 2014)<br />Bild: Gian Ehrenzeller/Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"2093036_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"427","provider":"Bild: Gian Ehrenzeller/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/2093038_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/2093038_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/2093038_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/2093038_pic_970x641230.jpg"},"photographer":"Gian Ehrenzeller","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:284.221875px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/2093038_pic_970x641.jpg' />","image_id":"2093038","link_url":"","noAds":"","story_link":"","video":"","legend":"Plötzlich einer der wichtigsten Männer der deutschsprachigen Kunstszene: Matthias Frehner, Direktor des Kunstmuseums Bern. (7. Mai 2014) <br />Bild: Gian Ehrenzeller/Keystone","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"2093038_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"969","provider":"Bild: Babirad Picture","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"5","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1818987_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1818987_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1818987_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1818987_pic_970x641230.jpg"},"photographer":"Babirad Picture","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:640px; height: 385.056759545924px;margin-top: 20px;' src='http://files.newsnetz.ch/bildlegende/126343/1818987_pic_970x641.jpg' />","image_id":"1818987","link_url":"","noAds":"","story_link":"","video":"","legend":"Ein ganzes Leben hatte er damit verbracht, möglichst kein Aufsehen zu erregen: Cornelius Gurlitt im November 2013. <br />Bild: Babirad Picture","link_title":"","height":"583","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1818987_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"969","provider":"Bild: Marc Müller/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561733_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561733_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561733_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561733_pic_970x641230.jpg"},"photographer":"Marc Müller","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:640px; height: 420.061919504644px;margin-top: 2px;' src='http://files.newsnetz.ch/bildlegende/126343/1561733_pic_970x641.jpg' />","image_id":"1561733","link_url":"","noAds":"","story_link":"","video":"","legend":"Cornelius Gurlitt – hier das Wohnhaus von aussen – ist der Sohn des Kunsthändlers Hildebrand Gurlitt, der die Werke in den 30er- und 40er-Jahren aufgekauft hatte.\r\n<br />Bild: Marc Müller/Keystone","link_title":"","height":"636","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561733_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"499","provider":"","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"0","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1818985_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1818985_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1818985_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1818985_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:331.628705148206px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1818985_pic_970x641.jpg' />","image_id":"1818985","link_url":"","noAds":"","story_link":"","video":"","legend":"Hatte den Führer höchstpersönlich mit Kunst versorgt: Hildebrand Gurlitt. <br />","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1818985_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"943","provider":"Bild: Marc Müller/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561729_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561729_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561729_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561729_pic_970x641230.jpg"},"photographer":"Marc Müller","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:627.684375px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561729_pic_970x641.jpg' />","image_id":"1561729","link_url":"","noAds":"","story_link":"","video":"","legend":"Hier wurden die Werke über ein halbes Jahrhundert gehortet: Eingang zum Haus mit Cornelius Gurlitts Wohnung in München. (4. November 2013)<br />Bild: Marc Müller/Keystone","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561729_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"826","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561795_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561795_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561795_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561795_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:548.948517940718px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561795_pic_970x641.jpg' />","image_id":"1561795","link_url":"","noAds":"","story_link":"","video":"","legend":"Bernhard Kretschmar, «Strassenbahn», undatiertes Aquarell<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561795_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561813_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561813_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561813_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561813_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:309.032761310452px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561813_pic_970x641.jpg' />","image_id":"1561813","link_url":"","noAds":"","story_link":"","video":"","legend":"Christoph Voll, «Sprengmeister Hantsch», Zeichnung 1922<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561813_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561815_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561815_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561815_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561815_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:309.032761310452px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561815_pic_970x641.jpg' />","image_id":"1561815","link_url":"","noAds":"","story_link":"","video":"","legend":"Christoph Voll, «Mönch», Aquarell 1921<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561815_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"826","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561809_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561809_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561809_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561809_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:548.948517940718px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561809_pic_970x641.jpg' />","image_id":"1561809","link_url":"","noAds":"","story_link":"","video":"","legend":"Théodore Rousseau, «Vue de la vallée de la Seine», undatierte Zeichnung<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561809_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561793_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561793_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561793_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561793_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:309.032761310452px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561793_pic_970x641.jpg' />","image_id":"1561793","link_url":"","noAds":"","story_link":"","video":"","legend":"Otto Griebel, «Die Verschleierte», Aquarell 1926<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561793_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"826","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561797_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561797_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561797_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561797_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:548.948517940718px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561797_pic_970x641.jpg' />","image_id":"1561797","link_url":"","noAds":"","story_link":"","video":"","legend":"Wilhelm Lachnit, «Mann und Frau am Fenster», Aquarell 1923<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561797_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561799_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561799_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561799_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561799_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:309.032761310452px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561799_pic_970x641.jpg' />","image_id":"1561799","link_url":"","noAds":"","story_link":"","video":"","legend":"Wilhelm Lachnit, «Mädchen am Tisch», Aquarell 1923<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561799_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561807_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561807_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561807_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561807_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:309.032761310452px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561807_pic_970x641.jpg' />","image_id":"1561807","link_url":"","noAds":"","story_link":"","video":"","legend":"Auguste Rodin, «Etude de femme nue debout, les bras relevés, les mains croisées au-dessus de la tête», undatierte Zeichnung<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561807_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561783_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561783_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561783_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561783_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:309.032761310452px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561783_pic_970x641.jpg' />","image_id":"1561783","link_url":"","noAds":"","story_link":"","video":"","legend":"Conrad Felixmüller, «Paar in Landschaft», Aquarell 1924<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561783_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561801_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561801_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561801_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561801_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:309.032761310452px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561801_pic_970x641.jpg' />","image_id":"1561801","link_url":"","noAds":"","story_link":"","video":"","legend":"Fritz Maskos, «Sinnende Frau», Druckgrafik 1922<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561801_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561785_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561785_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561785_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561785_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:309.032761310452px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561785_pic_970x641.jpg' />","image_id":"1561785","link_url":"","noAds":"","story_link":"","video":"","legend":"Erich Fraass, «Mutter und Kind», Aquarell 1922<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561785_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561787_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561787_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561787_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561787_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:309.032761310452px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561787_pic_970x641.jpg' />","image_id":"1561787","link_url":"","noAds":"","story_link":"","video":"","legend":"Bonaventura Genelli, «Männlicher Akt», undatierte Zeichnung<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561787_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"826","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561775_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561775_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561775_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561775_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:548.948517940718px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561775_pic_970x641.jpg' />","image_id":"1561775","link_url":"","noAds":"","story_link":"","video":"","legend":"Hans Christoph, «Paar», Aquarell 1924<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561775_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561789_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561789_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561789_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561789_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:309.032761310452px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561789_pic_970x641.jpg' />","image_id":"1561789","link_url":"","noAds":"","story_link":"","video":"","legend":"Ludwig Godenschweg, «Weiblicher Akt», undatierte Druckgrafik<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561789_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"464","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561791_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561791_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561791_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561791_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:308.85px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561791_pic_970x641.jpg' />","image_id":"1561791","link_url":"","noAds":"","story_link":"","video":"","legend":"Ludwig Godenschweg, «Männliches Bildnis», undatierte Druckgrafik<br />Bild: Keystone","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561791_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"465","provider":"Bild: Christoph Stache/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561703_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561703_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561703_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561703_pic_970x641230.jpg"},"photographer":"Christoph Stache","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:309.032761310452px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561703_pic_970x641.jpg' />","image_id":"1561703","link_url":"","noAds":"","story_link":"","video":"","legend":"Otto Dix, «Dompteuse», Aquarell 1922<br />Bild: Christoph Stache/Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561703_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"482","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561779_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561779_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561779_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561779_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:320.330733229329px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561779_pic_970x641.jpg' />","image_id":"1561779","link_url":"","noAds":"","story_link":"","video":"","legend":"Otto Dix, «Dame in der Loge», Aquarell, 1922<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561779_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"484","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561811_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561811_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561811_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561811_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:321.659906396256px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561811_pic_970x641.jpg' />","image_id":"1561811","link_url":"","noAds":"","story_link":"","video":"","legend":"Carl Spitzweg, «Das Klavierspiel,» Zeichnung, um 1840<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561811_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"483","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561777_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561777_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561777_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561777_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:321.496875px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561777_pic_970x641.jpg' />","image_id":"1561777","link_url":"","noAds":"","story_link":"","video":"","legend":"Honoré Damuier, «Don Quichote und Sancho Panza», Gemälde, um 1865<br />Bild: Keystone","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561777_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"440","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561699_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561699_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561699_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561699_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:292.418096723869px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561699_pic_970x641.jpg' />","image_id":"1561699","link_url":"","noAds":"","story_link":"","video":"","legend":"Befindet sich auf der im Internet veröffentlichten Liste: Das «Kind am Tisch» von Otto Griebels.<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561699_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"540","provider":"Bild: Christoph Stache/AFP","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"10","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561701_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561701_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561701_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561701_pic_970x641230.jpg"},"photographer":"Christoph Stache","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:358.876755070203px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561701_pic_970x641.jpg' />","image_id":"1561701","link_url":"","noAds":"","story_link":"","video":"","legend":"Grosser Fund: Das bis anhin unbekannte Selbstporträt von Otto Dix wird an der Pressekonferenz den Medien präsentiert.<br />Bild: Christoph Stache/AFP","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561701_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"587","provider":"","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"0","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561705_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561705_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561705_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561705_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:390.721875px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561705_pic_970x641.jpg' />","image_id":"1561705","link_url":"","noAds":"","story_link":"","video":"","legend":"Von Gustave Courbets Bild «Mädchen mit Ziege» gibt es zwei Versionen, die beide im Werkverzeichnis deklariert sind. Das beschlagnahmte Bild wurde laut der Kunsthistorikerin Meike Hoffmann erst 1949 auf einer Auktion versteigert. Das Bild geriet also erst nach dem Ende des Zweiten Weltkriegs in die Sammlung Gurlitt.<br />","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561705_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"496","provider":"","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"0","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561709_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561709_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561709_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561709_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:330.15px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561709_pic_970x641.jpg' />","image_id":"1561709","link_url":"","noAds":"","story_link":"","video":"","legend":"Henri Matisse: Dieses Gemälde einer sitzenden Frau ist nicht im Werkverzeichnis enthalten. Das Bild dürfte Mitte der 1920er-Jahre entstanden sein. Es wurde 1942 vom Einsatzstab Reichsleiter Rosenberg in einem Banktresor im französischen Libourne beschlagnahmt.<br />","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561709_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"467","provider":"Bild: Christoph Stache/AFP","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"10","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561711_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561711_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561711_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561711_pic_970x641230.jpg"},"photographer":"Christoph Stache","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:310.361934477379px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561711_pic_970x641.jpg' />","image_id":"1561711","link_url":"","noAds":"","story_link":"","video":"","legend":"Marc Chagall: Gouache einer allegorischen Szene, nicht im Werkverzeichnis enthalten. Die Herkunft ist nicht eindeutig bestimmt.<br />Bild: Christoph Stache/AFP","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561711_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"969","provider":"","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"0","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561713_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561713_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561713_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561713_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:640px; height: 418.740970072239px;margin-top: 3px;' src='http://files.newsnetz.ch/bildlegende/126343/1561713_pic_970x641.jpg' />","image_id":"1561713","link_url":"","noAds":"","story_link":"","video":"","legend":"Max Liebermann: Neben dem Gemälde «Zwei Reiter am Strand» wurden weitere Zeichnungen und Skizzen Liebermanns gefunden.<br />","link_title":"","height":"634","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561713_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"970","provider":"Bild: Christoph Stache/AFP","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"10","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561715_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561715_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561715_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561715_pic_970x641230.jpg"},"photographer":"Christoph Stache","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:640px; height: 414.350515463918px;margin-top: 5px;' src='http://files.newsnetz.ch/bildlegende/126343/1561715_pic_970x641.jpg' />","image_id":"1561715","link_url":"","noAds":"","story_link":"","video":"","legend":"Franz Marc: Gouache, «Landschaft mit Pferden», Herkunft: Kunst- und Gewerbemuseum in Moritzburg.<br />Bild: Christoph Stache/AFP","link_title":"","height":"628","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561715_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"951","provider":"Bild: Christoph Stache/AFP","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"10","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561717_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561717_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561717_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561717_pic_970x641230.jpg"},"photographer":"Christoph Stache","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:632.021840873635px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561717_pic_970x641.jpg' />","image_id":"1561717","link_url":"","noAds":"","story_link":"","video":"","legend":"Diese Radierung Canalettos zeigt eine Ansicht von Padua. Die Herkunft ist nicht geklärt.<br />Bild: Christoph Stache/AFP","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561717_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"969","provider":"Bild: AKG","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"5","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561741_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561741_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561741_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561741_pic_970x641230.jpg"},"photographer":"AKG","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:640px; height: 369.205366357069px;margin-top: 28px;' src='http://files.newsnetz.ch/bildlegende/126343/1561741_pic_970x641.jpg' />","image_id":"1561741","link_url":"","noAds":"","story_link":"","video":"","legend":"Aufgetaucht: «Die grossen blauen Pferde» von Franz Marc aus dem Jahr 1911.\r\n<br />Bild: AKG","link_title":"","height":"559","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561741_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"909","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561739_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561739_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561739_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561739_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:604.109204368175px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561739_pic_970x641.jpg' />","image_id":"1561739","link_url":"","noAds":"","story_link":"","video":"","legend":"Bei den gefundenen Bildern handelt es sich um Werke von bekannten Künstlern: Der Maler Pablo Picasso.<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561739_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"856","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561747_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561747_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561747_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561747_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:569.775px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561747_pic_970x641.jpg' />","image_id":"1561747","link_url":"","noAds":"","story_link":"","video":"","legend":"Auch Kunstwerke von Henri <nobr>Matisse, ...</nobr>\r\n<br />Bild: Keystone","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561747_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"639","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561749_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561749_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561749_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561749_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:425.334375px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561749_pic_970x641.jpg' />","image_id":"1561749","link_url":"","noAds":"","story_link":"","video":"","legend":"...von Otto <nobr>Dix...</nobr><br />Bild: Keystone","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561749_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"},{"width":"859","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/126343/1561751_pic_970x641300.jpg","sameDomain":"http://www.tagesanzeiger.ch/route/bildlegende/126343/1561751_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/126343/1561751_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/126343/1561751_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"126343","html":"<img alt='' id='articlefeature'  style='width:570.879875195008px; height: 426px;' src='http://files.newsnetz.ch/bildlegende/126343/1561751_pic_970x641.jpg' />","image_id":"1561751","link_url":"","noAds":"","story_link":"","video":"","legend":"...sowie von Marc Chagall lagerten neben Müll in der Wohnung von Cornelius Gurlitt.<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1561751_pic_970x641.jpg","type":"image","title":"","diashow_title":"Das Millionenerbe des Cornelius Gurlitt"}]}.items;
+	var ad126343 = '"\n\t\t<script type=\"text/javascript\">\n\t\t\tvar mmKey1 = \"kunst\";\n\t\t\tvar mmKey2 = \"\";\n\t\t\tvar mmKey3 = \"kultur\";\n\t\t\tvar mmKey4 = \"\";\n\t\t\<\/script>\n\t\t\t\n\t\t\t<!-- werbung start type=21 | 11 werbeart=Rectangle Bildstrecke & Inline-Bildstrecke kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=2 -->\n\t\t\t<!--IFRAME Tag // Tag for network 1084: Swiss Adserver - Newsnet // Website: tagesanzeiger.ch // Page: Bildstrecke // Placement: TA-Bildstrecke-Billboard-650 x 350 (3745635) // created at: Oct 23, 2012 2:15:12 PM -->\r\n<IFRAME WIDTH=\"650\" HEIGHT=\"350\" SCROLLING=\"No\" FRAMEBORDER=\"0\" MARGINHEIGHT=\"0\" MARGINWIDTH=\"0\" SRC=\"http://ad.dc2.adtech.de/adiframe/3.0/1084/3745635/0/3283/ADTECH;target=_blank;key=kunst+key2+kultur+key4;grp=[group]\"><script language=\"javascript\" src=\"http://ad.dc2.adtech.de/addyn/3.0/1084/3745635/0/3283/ADTECH;loc=700;target=_blank;key=kunst+key2+kultur+key4;grp=[group]\">\<\/script><noscript><a href=\"http://ad.dc2.adtech.de/adlink/3.0/1084/3745635/0/3283/ADTECH;loc=300;key=kunst+key2+kultur+key4;grp=[group]\" target=\"_blank\"><img src=\"http://ad.dc2.adtech.de/adserv/3.0/1084/3745635/0/3283/ADTECH;loc=300;key=kunst+key2+kultur+key4;grp=[group]\" border=\"0\" width=\"650\" height=\"350\">\<\/a>\<\/noscript>\<\/IFRAME>\r\n<!-- End of IFRAME Tag -->\n\t\t\t<!-- werbung ende -->\n\t\t\t"';
+</script>
+
+<div class="diashowTeaser" onclick="ajaxLoadDiashow(126343);">
+<a href="javascript://">
+	<img class="fullImg" src="http://files.newsnetz.ch/bildlegende/126343/navpicture_teaser2.jpg" alt="Das Millionenerbe des Cornelius Gurlitt">
+</a>
+
+<p class="desc">
+    <a href="javascript://">
+        <span class="icon-slide"></span>
+        <span class="keyword">Das Millionenerbe des Cornelius Gurlitt</span>
+    </a> 
+    Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.
+</p>
+<div class="loupe" style="display: none"><img src="http://files.newsnetz.ch/css/images/lupe.png" /></div>
+</div>
+<!-- ü --></div><div class="contextBox" boxtype="79">
+		<div class="twitterRessortBox">
+			<h4>Die Redaktion auf Twitter</h4>
+			<p>Stets informiert und aktuell. Folgen Sie uns auf dem Kurznachrichtendienst.</p>
+			<div class="twitterRessortButton">
+				
+		<div class="articleSharing articleSharing_box">
+			<a href="https://twitter.com/tagesanzeiger" class="twitter-follow-button" data-show-count="false" data-lang="de" data-size="large" data-dnt="true">
+				@tagesanzeiger folgen
+			</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div>
+	
+			</div>
+		</div>
+	</div><!--No data DEFAULT::libs::Spocosy::PageElement::SideBox#web#|story_id=27435237|-->
+					<div id="mainColRightPublireportage">
+						<!-- Publireportage1 - 2015-03-24 01:38:39 - 6 - kulturkunst - 2015-03-24 01:38:39 -->
+			<div class="teaserEditorialContent  publireportage">
+				<! -- Teaser 38688 --><h5 class="1"><!-- Jobs.ch Tagi --></h5><p class="adsTitle">Werbung</p>
+<iframe src="http://jobs.tagesanzeiger.ch/teaser.php" scrolling="no" frameborder="0" height="250px"></iframe>
+				<p class="clear"></p>
+			</div>
+					</div>
+				</div>
+
+				<div class="clear"></div>					
+
+				<div id="mainColBottom">
+					<a href="#" id="comments" style="visibility:hidden; height:0px; width:0px;"></a>
+					<div class="commentsBox left">
+						
+			<div class="articleSharing articleSharing_bottom">
+				<div id="socal_bottom_line">
+						
+						<div class="comments left" style="display:none;">
+							<h4>
+								<a href="#mostPopularComment">0 Kommentare</a>
+							</h4>
+						</div>
+
+						<div class="socialLinks">
+							<div class="facebook left">
+								
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
+		<div class="fb-share-button" data-href="http://www.tagesanzeiger.ch//kultur/kunst/Es-kommt-keine-Raubkunst-ueber-die-Schwellen-des-Museums/story/27435237" data-type="button_count"></div>
+
+	
+							</div>
+
+							<div class="twitter left">
+								<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="tagesanzeiger" data-url="http://www.tagesanzeiger.ch/27435237" data-counturl="http://www.tagesanzeiger.ch/kultur/kunst/Es-kommt-keine-Raubkunst-ueber-die-Schwellen-des-Museums/story/27435237" data-text="«Es kommt keine Raubkunst über die Schwellen des Museums»" data-lang="en">Tweet</a>
+								<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+							</div>
+
+							<div class="email left">
+								<a href="#TB_inline?height=180&width=390&inlineId=emailForm&modal=false" class="thickbox">
+								</a>
+								<span class="emailCounter">0</span>
+								<div id="emailForm" style="display:none;">
+										
+        <form id="articleMailForm" style="" action="/notemail.html" method="POST">	
+		    <input type="hidden" name="mailType" value="art" />
+			<input type="hidden" name="id" value="27435237" />
+			<h4>Artikel als E-Mail versenden</h4>
+			<p><label for="rMail">Empfänger (E-Mail)*</label><input class="field" name="rMail" id="rMail"/></p>
+			<p><label for="sMail">Absender (E-mail)*</label><input class="field" name="sMail" id="sMail"/></p>
+			<input class="button" value="Senden" name="sendMail" type="submit" /></p>
+		</form>	
+		<div id="MailInfo"  style="display:none">
+			<p>Ihre E-Mail wurde abgeschickt.</p>
+			<p><a href="#" class="infoClose"></a></p>
+		</div>
+								</div>
+							</div>	
+
+						<div class="clear"></div>
+						</div> 
+				</div>
+				<div class="clear"></div>
+			</div>
+		<div class="clear"></div><div id="footerAdSpecial">
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=3 | 2 werbeart=Billboard kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=2 -->
+			<div id="billboardAd" style="margin:-20px 0 20px;">
+<!--JavaScript Tag with group ID // Tag for network 1084: Swiss Adserver - Newsnetz // Website: tagesanzeiger.ch // Page: Kultur // Placement: Tagi-Kultur-Billboard-(2x1) (3514875) // created at: Nov 15, 2011 9:29:38 AM-->  <script language="javascript">  <!--  
+if (window.adgroupid == undefined) {  	window.adgroupid = Math.round(Math.random() * 1000);  }  
+document.write('<scr'+'ipt language="javascript1.1" src="http://ad.dc2.adtech.de/addyn/3.0/1084/3514875/0/509/ADTECH;loc=100;target=_blank;key=kunst+key2+kultur+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');  //-->  </script><noscript><a href="http://ad.dc2.adtech.de/adlink/3.0/1084/3514875/0/509/ADTECH;loc=300;key=kunst+key2+kultur+key4" target="_blank"><img src="http://ad.dc2.adtech.de/adserv/3.0/1084/3514875/0/509/ADTECH;loc=300;key=kunst+key2+kultur+key4" border="0" width="2" height="1"></a></noscript>  <!-- End of JavaScript Tag -->
+</div>
+
+			<!-- werbung ende -->
+			</div>
+					</div>					
+					<div class="BlogArticles right">
+						
+					</div>
+					<div class="clear"></div>
+				</div>
+				
+						<div id="mainColBottomMore">
+							
+			<div class="bottomLinks">
+				<div class="relatedThema">
+					<h4 class="contextBoxTitle">Mehr zum Thema</h4>
+					<!-- atype=232 -->
+            <div class="relatedArticle standard">
+                
+                <a  href="/kultur/kunst/Berner-Galerie-verkaufte-Dutzende-GurlittWerke/story/14017562"><img alt="" src="http://files.newsnetz.ch/story/1/4/0/14017562/4/rechte_spalte_gross.jpg" class="imgfloat" /></a>
+                <h5>
+                    <a href="/kultur/kunst/Berner-Galerie-verkaufte-Dutzende-GurlittWerke/story/14017562">
+                        Berner Galerie verkaufte Dutzende Gurlitt-Werke
+                    </a>
+                </h5>
+                <p>
+                    
+                    
+                    
+                    Nach der Annahme des Gurlitt-Erbes hoffte man im Kunstmuseum Bern eigentlich auf mehr Ruhe. 
+                    <a href="/kultur/kunst/Berner-Galerie-verkaufte-Dutzende-GurlittWerke/story/14017562">Mehr...</a>
+                </p>
+                <p class="storyInfo">
+                    <span class="author"> Von Alexander Sury, Bern. </span>
+                    <time class="time">18.02.2015</time>
+                    
+                </p>
+            </div>
+        <!-- atype=233 -->
+            <div class="relatedArticle standard">
+                
+                <h5>
+                    <a href="/kultur/kunst/Baetschmann-leitet-GurlittForschungsstelle/story/31185031">
+                        Bätschmann leitet Gurlitt-Forschungsstelle
+                    </a>
+                </h5>
+                <p>
+                    
+                    
+                    
+                    Der  Kunsthistoriker Oskar Bätschmann soll die Berner Gurlitt-Forschungsstelle leiten.
+                    <a href="/kultur/kunst/Baetschmann-leitet-GurlittForschungsstelle/story/31185031">Mehr...</a>
+                </p>
+                <p class="storyInfo">
+                    
+                    <time class="time">17.02.2015</time>
+                    
+                </p>
+            </div>
+        <!-- atype=233 -->
+            <div class="relatedArticle standard">
+                
+                <h5>
+                    <a href="/kultur/buecher/Einer-der-groessten-Kunstdiebe/story/11035520">
+                        «Einer der grössten Kunstdiebe»
+                    </a>
+                </h5>
+                <p>
+                    
+                    
+                    
+                    Die Kunsthistorikerin Susan Ronald veröffentlicht im Herbst ein Buch über Hildebrand Gurlitt. 
+                    <a href="/kultur/buecher/Einer-der-groessten-Kunstdiebe/story/11035520">Mehr...</a>
+                </p>
+                <p class="storyInfo">
+                    <span class="author"> Von Alexander Sury. </span>
+                    <time class="time">28.01.2015</time>
+                    
+                </p>
+            </div>
+        
+				</div>
+				<p class="clear"></p>
+			</div>
+		
+							
+		<div class="bottomLinks">
+			<div class="theNewest">
+				<h4 class="contextBoxTitle">Das Neuste <span><a href="/kultur/">Kultur</a></span></h4>
+				<!-- atype=232 -->
+            <div class="relatedArticle standard">
+                
+                <a  href="/kultur/kunst/Erni-praegte-die-geistige-Mobilitaet/story/14251409"><img alt="" src="http://files.newsnetz.ch/story/1/4/2/14251409/9/rechte_spalte_gross.jpg" class="imgfloat" /></a>
+                <h5>
+                    <a href="/kultur/kunst/Erni-praegte-die-geistige-Mobilitaet/story/14251409">
+                        «Erni prägte die geistige Mobilität»
+                    </a>
+                </h5>
+                <p>
+                    
+                    
+                    
+                    Politik und Kunst würdigen das Schaffen des verstorbenen Malers Hans Erni. 
+                    <a href="/kultur/kunst/Erni-praegte-die-geistige-Mobilitaet/story/14251409">Mehr...</a>
+                </p>
+                <p class="storyInfo">
+                    
+                    <time class="time">22.03.2015</time>
+                    
+                </p>
+            </div>
+        <!-- atype=233 -->
+            <div class="relatedArticle standard">
+                
+                <h5>
+                    <a href="/kultur/kunst/Verschlungene-Wege-zum-Ruhm/story/25595223">
+                        Verschlungene Wege zum Ruhm
+                    </a>
+                </h5>
+                <p>
+                    <span class="keyword">Nachruf</span>
+                    
+                    
+                    Erst als Hans Erni auf Distanz zum linken Gedankengut ging, flogen ihm die Herzen zu.
+                    <a href="/kultur/kunst/Verschlungene-Wege-zum-Ruhm/story/25595223">Mehr...</a>
+                </p>
+                <p class="storyInfo">
+                    <span class="author">Von Fritz Billeter* </span>
+                    <time class="time">22.03.2015</time>
+                    
+                </p>
+            </div>
+        <!-- atype=233 -->
+            <div class="relatedArticle standard">
+                
+                <h5>
+                    <a href="/kultur/kunst/Der-Kunstmaler-Hans-Erni-ist-tot/story/19736387">
+                        Kunstmaler Hans Erni ist tot
+                    </a>
+                </h5>
+                <p>
+                    
+                    
+                    
+                    Der Luzerner Künstler Hans Erni ist im Alter von 106 Jahren gestorben. 
+                    <a href="/kultur/kunst/Der-Kunstmaler-Hans-Erni-ist-tot/story/19736387">Mehr...</a>
+                </p>
+                <p class="storyInfo">
+                    
+                    <time class="time">22.03.2015</time>
+                    
+                </p>
+            </div>
+        
+			</div>
+			<p class="clear"></p>
+		</div>
+		<!-- END PrimeSection /kultur/kunst/Die-heiterste-Kunst-wchst-aus-Luxus-und-Verschwendung/22023272/ -->
+
+							<div id="maincolBottomMoreRight">
+								<div class="mainColBottomMorePublireportage">
+									<!-- Publireportage2 - 2015-03-24 01:38:39 - 6 - kulturkunst - 2015-03-24 01:38:39-->
+			<div class="teaserEditorialContent  publireportage">
+				<! -- Teaser 27260 --><p class="adsTitle">Vergleichsdienst</p><div class="adsBox"><h5 class="1"><a href="/vergleichsdienst/handyabo/" title="Abopreise vergleichen">Abopreise vergleichen</a></h5><a  href="/vergleichsdienst/handyabo/" title=""><img src="http://files.newsnetz.ch/teaser/3/7/teaser27260_element37620.jpg?time=1427157519" alt="" /></a> <p class="publireportageAdText">Der Handy-Abovergleich mit Ihrem gewünschten Mobiltelefon und Prepaid-Angeboten.</p><a  href="/vergleichsdienst/handyabo/" title=""></a></div>
+				<p class="clear"></p>
+			</div>
+								</div>
+								<div class="mostSharedArticles right">
+									
+			<h4 class="contextBoxTitle"><a href="/news/standard/Meistgelesen/story/24655239">Meistgelesen</a> <span>Kultur</span></h4>
+			<div id="mostRead">
+			<table>
+		<tr>
+                    <td>
+                        <span>1.</span>
+                    </td>
+                    <td>
+                        <a href="/kultur/fernsehen/Koks-im-Bauch/story/22241142" >Koks im Bauch</a>
+                    </td>
+                </tr><tr>
+                    <td>
+                        <span>2.</span>
+                    </td>
+                    <td>
+                        <a href="/kultur/pop-und-jazz/Ein-entschiedenes-Nein-zu-weichen-Drogen/story/20187743" >Ein entschiedenes Nein zu weichen Drogen</a>
+                    </td>
+                </tr><tr>
+                    <td>
+                        <span>3.</span>
+                    </td>
+                    <td>
+                        <a href="/kultur/kino/Der-weisse-Hai-19/story/29472663" >Der weisse Hai 19</a>
+                    </td>
+                </tr><tr>
+                    <td>
+                        <span>4.</span>
+                    </td>
+                    <td>
+                        <a href="/kultur/kunst/Verschlungene-Wege-zum-Ruhm/story/25595223" >Verschlungene Wege zum Ruhm</a>
+                    </td>
+                </tr><tr>
+                    <td>
+                        <span>5.</span>
+                    </td>
+                    <td>
+                        <a href="/kultur/kunst/Der-Kunstmaler-Hans-Erni-ist-tot/story/19736387" >Der Kunstmaler Hans Erni ist tot</a>
+                    </td>
+                </tr>
+				</table>
+			</div>
+		
+									<div class="clear"></div>
+								</div>
+							</div>
+							<div class="clear"></div>
+						</div>
+					
+				<div id="mainColBottomAd">
+					
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=30 | 30 werbeart=PPN kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=2 -->
+			<div id="ppnbox" style="padding-bottom: 30px; margin-top: -20px;">
+</div>
+<script type="text/javascript" src="http://mdn.das.tamedia.ch/ppn/nn/loadAS000000015ffe1d3b.js" async></script>
+
+
+			<!-- werbung ende -->
+			
+				</div>
+			
+		<div id="mainColBottomDiashow">
+            <div id="funSection" class="ressort">
+                <h4 class="contextBoxTitle">
+                    <a href="javascript:showSlideshow(183278, { fullscreenOnly: true, ads: true }); void(0);">
+                        Die Welt in Bildern
+                    </a>
+                </h4>
+                <a href="javascript:showSlideshow(183278, { fullscreenOnly: true, ads: true }); void(0);">
+                	<img src="http://files.newsnetz.ch/bildlegende//183278/2241050_pic_970x641.jpg" alt="" title="">
+                </a>
+                <p>
+                    Königlicher Nachwuchs: Die drei frisch geborenen Löwen wirken beim Pressetermin im Zoo von Gyongyos (Ungarn) noch ein wenig verschlafen (21. März 2015).
+                    <br>
+                    (Bild: Peter Komka)
+                   <a href="javascript:showSlideshow(183278, { fullscreenOnly: true, ads: true }); void(0);"> Mehr...</a>
+                </p>
+            </div>
+        </div>
+				</div>
+				<div id="singleLeft"><p></p></div>
+			
+
+    <div id="footer">
+        <div class="clear"></div>
+<hr>
+<div id="footer">
+	<ul id="bottomNav">
+		<li>
+			<a title="Front" href="http://www.tagesanzeiger.ch/">Front</a>
+		</li>
+		<li>
+			<a title="Zürich" href="http://www.tagesanzeiger.ch/zuerich/">Zürich</a>
+		</li>
+		<li>
+			<a title="Schweiz" href="http://www.tagesanzeiger.ch/schweiz/">Schweiz</a>
+		</li>
+		<li>
+			<a title="International" href="http://www.tagesanzeiger.ch/ausland/">International</a>
+		</li>
+		<li>
+			<a title="Wirtschaft" href="http://www.tagesanzeiger.ch/wirtschaft/">Wirtschaft</a>
+		</li>
+		<li>
+			<a title="Börse" href="http://www.tagesanzeiger.ch/boerse/">Börse</a>
+		</li>
+		<li>
+			<a title="Sport" href="http://www.tagesanzeiger.ch/sport/">Sport</a>
+		</li>
+		<li>
+			<a title="Kultur" href="http://www.tagesanzeiger.ch/kultur/">Kultur</a>
+		</li>
+		<li>
+			<a title="Leben" href="http://www.tagesanzeiger.ch/leben/">Leben</a>
+		</li>
+		<li>
+			<a title="Wissen" href="http://www.tagesanzeiger.ch/wissen/">Wissen</a>
+		</li>
+		<li>
+			<a title="Auto" href="http://www.tagesanzeiger.ch/auto/">Auto</a>
+		</li>
+		<li>
+			<a title="Blogs" href="http://www.tagesanzeiger.ch/blogs/">Blogs</a>
+		</li>
+		<li>
+			<a title="Panorama" href="http://www.tagesanzeiger.ch/panorama/">Panorama</a>
+		</li>
+		<li>
+			<a title="Züritipp" href="http://www.zueritipp.ch/" target="_blank">Züritipp</a>
+		</li>
+		<li>
+			<a title="Das Magazin" href="http://blog.dasmagazin.ch/" target="_blank">Das Magazin</a>
+		</li>
+		<li>			
+			<!-- change css to use class instead of id cause the searchbar is now in the footer and the header -->
+			<form action="http://www.tagesanzeiger.ch/service/suche/suche.html?date=alle&amp;order=date" method="get">
+				<span class="icon-search"></span>
+				<input type="hidden" name="date" id="date" value="alle">
+				<input type="hidden" name="order" id="order" value="date">
+				<input class="innerBoxShadow" onfocus="searchFocus(this)" onblur="searchBlur(this)" name="key" type="text" value="Suche" title="Suche" id="headerSearch">
+				<button title="Submit Search" class="btn"></button>
+			</form>
+		</li>
+	</ul>
+	
+	<div class="clear"></div>
+
+</div>
+
+<div id="footerLinks">
+
+	<div class="partnerNav">
+		<ul>
+			<li>Multimedia</li>
+			<li><a title="Dossiers" href="http://www.tagesanzeiger.ch/dossiers/">Dossiers</a></li>
+			<li><a title="Bildstrecken" href="http://www.tagesanzeiger.ch/bildstrecke.html">Bildstrecken</a></li>
+			<li><a title="Videos" href="http://www.tagesanzeiger.ch/video/">Videos</a></li>
+		</ul>
+	</div>
+
+	<div class="partnerNav">
+		<ul>
+			<li>Services</li>
+			<li><a title="ePaper" href="http://epaper.tagesanzeiger.ch/" target="_blank">ePaper</a></li>
+			<li><a title="Zeitungsarchiv" href="http://www.tagesanzeiger.ch/service/archiv/">Zeitungsarchiv</a></li>
+			<li><a title="RSS" href="http://www.tagesanzeiger.ch/dienste/RSS/story/21856776">RSS</a></li>
+			<li><a title="Newsletter" href="http://www.tagesanzeiger.ch/service/unsere-dienste/Newsletter/story/18785374">Newsletter</a></li>
+			<li><a title="Wetter" href="http://www.tagesanzeiger.ch/wetter/">Wetter</a></li>
+			<li><a title="Kreuzworträtsel" href="http://www.tagesanzeiger.ch/kreuzwortraetsel/">Kreuzworträtsel</a></li>
+			<li><a title="Dienste und Apps" href="http://www.tagesanzeiger.ch/service/unsere-dienste/">Dienste und Apps</a></li>
+		</ul>
+	</div>
+	
+	<div class="partnerNav">
+		<ul>
+			<li>Redaktion</li>
+			<li><a title="Publizistische Leitlinien" href="http://www.tagesanzeiger.ch/schweiz/standard/Publizistische-Leitlinien-des-TagesAnzeigers/story/31591536">Publizistische Leitlinien</a></li>
+			<li><a title="Impressum" href="http://www.tagesanzeiger.ch/ueberuns/impressum/Impressum/story/28680087">Impressum</a></li>
+			<li><a target="_new" title="AGB & Datenschutz" href="https://abo.tagesanzeiger.ch/tamstorefront/terms/register">AGB & Datenschutz</a></li>
+			<li><a title="Leserbriefe" href="http://www.tagesanzeiger.ch/service/unsere-dienste/Leserbrief-fuer-den-TagesAnzeiger/story/28343522">Leserbriefe</a></li>
+			<li><a title="Kontakt" href="http://www.tagesanzeiger.ch/ueberuns/Kontakt/story/24620705">Kontakt</a></li>
+		</ul>
+	</div>
+
+	<div class="partnerNav">
+		<ul>
+			<li>Dienste</li>
+			<li><a title="Stellen" href="http://jobs.tagesanzeiger.ch/">Stellen</a></li>
+			<li><a title="Stellen als E-Paper" href="http://epaper3.tagesanzeiger.ch/ee/stela/_main_/2013/07/06/001/" target="_blank">Stellen als E-Paper</a></li>
+			<li><a title="Immobilien" href="http://www.tagesanzeiger.ch/marktplatz/immobilien/">Immobilien</a></li>
+			<li><a title="Weiterbildung" href="http://www.tagesanzeiger.ch/weiterbildung/">Weiterbildung</a></li>
+			<li><a title="Vergleichsdienste" href="http://www.tagesanzeiger.ch/vergleichsdienst/">Vergleichsdienste</a></li>
+		</ul>
+	</div>
+	
+	<div class="partnerNav">
+		<ul>
+			<li>Abonnement</li>
+			<li><a title="Alle Abonnement" href="https://abo.tagesanzeiger.ch">Alle Aboangebote</a></li>
+			<li><a title="Ferienumleitung" href="https://abo.tagesanzeiger.ch/tamstorefront/my-account">Ferienumleitung</a></li>
+			<li><a title="Ferienunterbruch" href="https://abo.tagesanzeiger.ch/tamstorefront/my-account">Ferienunterbruch</a></li>
+			<li><a title="Carte Blanche" href="http://www.tagesanzeiger.ch/carteblanche/">Carte Blanche</a></li>
+			<li><a title="FAQ" href="https://abo.tagesanzeiger.ch/#faq">Häufig gestellte Fragen</a></li>
+		</ul>
+	</div>
+
+	<div class="partnerNav">
+		<ul>
+			<li>Anzeigen</li>
+			<li><a title="Privatanzeigen" href="http://www.adbox.ch/" target="_blank">Privatanzeigen</a></li>
+			<li><a title="Tages-Anzeiger" href="http://mytamedia.ch/Zeitungen/Tages-Anzeiger/Profil" target="_blank">Tages-Anzeiger</a></li>
+			<li><a title="tagesanzeiger.ch" href="http://mytamedia.ch/Digital/tagesanzeiger-ch/Profil" target="_blank">tagesanzeiger.ch</a></li>
+			<li><a title="Newsnet" href="http://mytamedia.ch/Digital/Newsnet/Profil" target="_blank">Newsnet</a></li>
+		</ul>
+	</div>
+
+	<div class="clear"></div>
+
+</div>
+    </div>
+
+</div>
+
+    
+
+        <!-- file:statisticsGoogleOptimized.tmpl -->
+
+        
+</body>
+</html>

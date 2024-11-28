@@ -1,0 +1,1103 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 01:04:59 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 109
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://trib.al/r0LPJs1
+Mime-Version: 1.0
+Set-Cookie: _bit=5510b83b-003c4-03ae9-311cf10a;domain=.apne.ws;expires=Sun Sep 20 01:04:59 2015;path=/; HttpOnly
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html;charset=utf-8
+Date: Tue, 24 Mar 2015 01:05:00 GMT
+Location: http://bigstory.ap.org/article/161b8239ef1d4f5b8646cf842dafd0e3/major-police-operation-unfolding-sydney
+Server: CherryPy/3.2.4
+Set-Cookie: tribal="RHWMJsDBTc+90l0hS28Bzw=="; expires=Fri, 06 Jan 2034 23:13:40 GMT; Path=/; Version=2
+Content-Length: 261
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Last-Modified: Tue, 24 Mar 2015 01:04:55 +0000
+ETag: "1427159095"
+Content-Language: en
+Link: </node/9826946>; rel="shortlink",</article/161b8239ef1d4f5b8646cf842dafd0e3/major-police-operation-unfolding-sydney>; rel="canonical",</article/161b8239ef1d4f5b8646cf842dafd0e3/major-police-operation-unfolding-sydney>; rel="canonical",</node/9826946>; rel="shortlink"
+X-Request-ID: v-c87ae2c4-d1c1-11e4-a6cf-1231381918ff
+X-AH-Environment: prod
+Content-Encoding: gzip
+Content-Length: 20921
+Accept-Ranges: bytes
+X-Varnish: 1495879050
+X-Age: 0
+Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Tue, 24 Mar 2015 01:05:00 GMT
+Date: Tue, 24 Mar 2015 01:05:00 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"> 
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+ <meta name="apple-itunes-app" content="app-id=284901416"/>
+ <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwEPUFdADQYFU1NT"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:19,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:19,2:20,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:20,2:19,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:20,2:19,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:20,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:18,handle:"D5DuLP"}],18:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],19:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],20:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:19,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<meta property="twitter:title" content="Australia PM lays flowers at memorials for victims" />
+<meta property="twitter:description" content="SYDNEY (AP) — Australian Prime Minister Tony Abbott has laid flowers at a makeshift memorial in Sydney for the victims of a central city cafe siege which left three people dead. Abbott laid a bouquet of white flowers at…" />
+<meta property="twitter:image" content="http://binaryapi.ap.org/24f48284efb94631a67227dfcfaf5709/460x.jpg" />
+<meta property="twitter:site" content="@ap" />
+<meta property="article:publisher" content="https://www.facebook.com/APNews" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="en_US" />
+<meta property="twitter:url" content="http://bigstory.ap.org/article/161b8239ef1d4f5b8646cf842dafd0e3/major-police-operation-unfolding-sydney" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta name="twitter:app:name:iphone" content="AP Mobile" />
+<meta name="twitter:app:name:googleplay" content="AP Mobile" />
+<meta name="twitter:app:id:googleplay" content="mnn.Android" />
+<meta name="twitter:app:url:googleplay" content="apmobile://article/161b8239ef1d4f5b8646cf842dafd0e3" />
+<link href="http://bigstory.ap.org/profiles/ap/themes/ap_vertical/touch-icon.png" rel="apple-touch-icon" />
+<meta name="twitter:app:url:ipad" content="apmobile://article/161b8239ef1d4f5b8646cf842dafd0e3" />
+<meta name="twitter:app:id:ipad" content="284901416" />
+<meta name="twitter:app:id:iphone" content="284901416" />
+<meta name="twitter:app:url:iphone" content="apmobile://article/161b8239ef1d4f5b8646cf842dafd0e3" />
+<meta name="twitter:app:name:ipad" content="AP Mobile" />
+<meta property="fb:app_id" content="118162278248556" />
+<meta property="og:image" content="http://binaryapi.ap.org/24f48284efb94631a67227dfcfaf5709/460x.jpg" />
+<meta property="al:ios:url" content="apmobile://article/161b8239ef1d4f5b8646cf842dafd0e3" />
+<meta property="al:ios:app_store_id" content="284901416" />
+<meta property="og:description" content="SYDNEY (AP) — Australian Prime Minister Tony Abbott has laid flowers at a makeshift memorial in Sydney for the victims of a central city cafe siege which left three people dead. Abbott laid a bouquet of white flowers at…" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<link rel="shortcut icon" href="http://bigstory.ap.org/sites/bigstory/files/AP_Favicon_0_0.png" type="image/png" />
+<link rel="canonical" href="http://bigstory.ap.org/article/161b8239ef1d4f5b8646cf842dafd0e3/major-police-operation-unfolding-sydney" />
+<link rel="shortlink" href="/node/9826946" />
+<meta property="al:android:url" content="apmobile://article/161b8239ef1d4f5b8646cf842dafd0e3" />
+<meta property="al:ios:app_name" content="AP Mobile" />
+<meta property="og:site_name" content="The Big Story" />
+<meta property="og:url" content="http://bigstory.ap.org/article/161b8239ef1d4f5b8646cf842dafd0e3/major-police-operation-unfolding-sydney" />
+<meta property="al:android:app_name" content="AP Mobile" />
+<meta property="og:title" content="Australia PM lays flowers at memorials for victims" />
+<meta property="al:web:url" content="http://bigstory.ap.org/article/161b8239ef1d4f5b8646cf842dafd0e3/major-police-operation-unfolding-sydney" />
+<meta property="al:android:package" content="mnn.Android" />
+<meta property="al:android:class" content="com.ap.facebook.FacebookShareActivity" />
+<meta name="description" content="SYDNEY (AP) — Australian Prime Minister Tony Abbott has laid flowers at a makeshift memorial in Sydney for the victims of a central city cafe siege which left three people dead. Abbott laid a bouquet of white flowers at the memorial in Martin Place while his wife Margie laid a bouquet of red flowers. Abbott also wrote a message and waved at the crowd but did not address them. Hundreds of people have been leaving flowers at the memorial. A gunman took 17 hostages Monday at the Lindt Chocolat Cafe. The siege ended 16 hours later in a barrage of gunfire that left two hostages and the Iranian-born gunman dead, and a nation that has long prided itself on its peace rocked to its core." />
+<meta name="keywords" content="Australia government, Tony Abbott, Hostage situations, Islam, Islamic State group, Ayman al-Zawahiri, Counterterrorism, Social media, Online media, Sexual assault, War casualties, Religion and politics, Religious issues" />
+<meta name="rights" content="2012 Associated Press" />
+    <title>Australia PM lays flowers at memorials for victims</title>  
+  <style type="text/css" media="all">@import url("http://bigstory.ap.org/modules/system/system.base.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/system/system.menus.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/system/system.messages.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/system/system.theme.css?nlh03t");</style>
+<style type="text/css" media="all">@import url("http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/css/flyout.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/modules/contrib/date/date_api/date.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/modules/contrib/date/date_popup/themes/datepicker.1.7.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/field/theme/field.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/node/node.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/search/search.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/user/user.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/modules/contrib/views/css/views.css?nlh03t");</style>
+<style type="text/css" media="all">@import url("http://bigstory.ap.org/profiles/ap/modules/contrib/ctools/css/ctools.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/modules/custom/dev/ap_polar_ads/css/polar_ad_article_bs.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_microformats/ap_microformats.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/css/siro.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/glyphicon.css?nlh03t");</style>
+<style type="text/css" media="all">@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/css/fonts.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/foundation.min.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/styles-bigStory.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/style.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/magnific-popup.css?nlh03t");</style>
+<style type="text/css" media="all">@import url("http://bigstory.ap.org/profiles/ap/themes/omega/alpha/css/alpha-mobile.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/omega/omega/css/omega-branding.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/omega/omega/css/omega-menu.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/omega/omega/css/omega-visuals.css?nlh03t");</style>
+<style type="text/css" media="print">@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/css/print.css?nlh03t");</style>
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<style type="text/css" media="all">@import url("http://bigstory.ap.org/profiles/ap/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?nlh03t");</style>
+<![endif]-->
+  <script type="text/javascript" src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script type="text/javascript" src="/profiles/ap/themes/bigstory_v2/assets/js/responsive_ads.js"></script>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-27590430-2";
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+googletag.slots = googletag.slots || {};
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/misc/drupal.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["topic_box_2"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/9826946", [300, 250], "dfp-ad-topic_box_2")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["leaderboard"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/9826946", [[728, 90], [970, 66], [970, 90], [970, 250]], "dfp-ad-leaderboard")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["mobileleaderboard"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/9826946", [[300, 50], [320, 50]], "dfp-ad-mobileleaderboard")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["half_page"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/9826946", [[300, 600], [300, 250]], "dfp-ad-half_page")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["mediumrectangle"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/9826946", [300, 250], "dfp-ad-mediumrectangle")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _sf_startpt=(new Date()).getTime()
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "11304492" });(function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/jquery.hoverIntent.minified.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/jquery.masonry.min.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes_masonry.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes_flyout.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+});
+googletag.enableServices();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+<!--Visual Revenue Reader Response Tracking Script (v6) -->
+    var _vrq = _vrq || [];
+    _vrq.push(["id", 113]);
+    _vrq.push(["automate", false]);
+    _vrq.push(["track", function(){}]);
+    (function(d, a){
+        var s = d.createElement(a),
+        x = d.getElementsByTagName(a)[0];
+        s.async = true;
+        s.src = "http://a.visualrevenue.com/vrs.js";
+        x.parentNode.insertBefore(s, x);
+    })(document, "script");
+<!-- End of VR RR Tracking Script - All rights reserved -->
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://content.zemanta.com/static/custom/bigstory/js/loader.js"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_article/js/dynamic-carousel.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_article/js/jquery.wmuslider.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_article/js/ap_carousel.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/optional/responsive_dfp_box/js/responsive_dfp.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/ap/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/contrib/google_analytics/googleanalytics.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-27590430-2"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/sites/bigstory/files/ap_polar_ads.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://use.typekit.com/uta3cck.js"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/package-quojs-2.3.6/quo.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/contrib/disqus/disqus.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var AP_SOCIAL = {"refresh_delay":"3600","node_id":"9826946"}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/js/mondernizr.custom.min.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/vendor/modernizr.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/jquery-scrolltofixed.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/custom.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/jquery.magnific-popup.min.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/core.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/gallery.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/image.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/omega/omega/js/omega-mediaqueries.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bigstory_v2","theme_token":"ka7yvsQSczN81bX78kUa_-jzWymRZJDFooj26YPN89k","js":{"0":1,"profiles\/ap\/modules\/custom\/optional\/ap_social\/js\/ap_social.min.js":1,"1":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"2":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"9":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/jquery.hoverIntent.minified.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/jquery.masonry.min.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes_masonry.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes_flyout.js":1,"10":1,"11":1,"http:\/\/content.zemanta.com\/static\/custom\/bigstory\/js\/loader.js":1,"profiles\/ap\/modules\/custom\/core\/ap_article\/js\/dynamic-carousel.js":1,"profiles\/ap\/modules\/custom\/core\/ap_article\/js\/jquery.wmuslider.js":1,"profiles\/ap\/modules\/custom\/core\/ap_article\/js\/ap_carousel.js":1,"profiles\/ap\/modules\/custom\/optional\/responsive_dfp_box\/js\/responsive_dfp.js":1,"12":1,"profiles\/ap\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"13":1,"public:\/\/ap_polar_ads.js":1,"14":1,"15":1,"http:\/\/use.typekit.com\/uta3cck.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/package-quojs-2.3.6\/quo.js":1,"profiles\/ap\/modules\/contrib\/disqus\/disqus.js":1,"16":1,"profiles\/ap\/themes\/bigstory_v2\/js\/mondernizr.custom.min.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/vendor\/modernizr.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/jquery-scrolltofixed.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/custom.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/jquery.magnific-popup.min.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/core.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/gallery.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/image.js":1,"profiles\/ap\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/css\/flyout.css":1,"profiles\/ap\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/ap\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ap\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ap\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ap\/modules\/custom\/dev\/ap_polar_ads\/css\/polar_ad_article_bs.css":1,"profiles\/ap\/modules\/custom\/core\/ap_microformats\/ap_microformats.css":1,"profiles\/ap\/themes\/bigstory_v2\/css\/siro.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/glyphicon.css":1,"profiles\/ap\/themes\/bigstory_v2\/css\/fonts.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/foundation.min.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/styles-bigStory.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/style.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/magnific-popup.css":1,"profiles\/ap\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-branding.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-menu.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-visuals.css":1,"profiles\/ap\/themes\/bigstory_v2\/css\/print.css":1,"ie::normal::profiles\/ap\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"responsive_dfp_box":{"responsive_leaderboard":{"desktop":"\n\u003Cdiv  id=\u0022dfp-ad-leaderboard\u0022 class=\u0022dfp-tag-wrapper\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n    googletag.cmd.push(function() {\n      googletag.display(\u0022dfp-ad-leaderboard\u0022);\n    });\n  \u003C\/script\u003E\n\u003C\/div\u003E\n","mobile":"\n\u003Cdiv  id=\u0022dfp-ad-mobileleaderboard\u0022 class=\u0022dfp-tag-wrapper\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n    googletag.cmd.push(function() {\n      googletag.display(\u0022dfp-ad-mobileleaderboard\u0022);\n    });\n  \u003C\/script\u003E\n\u003C\/div\u003E\n"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"disqus":{"domain":"thebigstory","url":"http:\/\/bigstory.ap.org\/article\/161b8239ef1d4f5b8646cf842dafd0e3\/major-police-operation-unfolding-sydney","title":"Australia PM lays flowers at memorials for victims","identifier":"node\/9826946"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal"],"queries":{"narrow":"screen and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"screen and (min-width: 1040px) and (min-device-width: 1040px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <!--[if lt IE 9]><link rel="stylesheet" href="/profiles/ap/themes/bigstory_v2/assets/css/fix-ie8.css"><![endif]-->
+  <!--[if lt IE 10]><link rel="stylesheet" href="/profiles/ap/themes/bigstory_v2/assets/css/fix-ie9.css"><![endif]-->
+  <!--[if lt IE 9]><script src="/profiles/ap/themes/bigstory_v2/assets/js/fix-ie8.js"></script><![endif]-->
+  <!--[if IE 9]><script src="/profiles/ap/themes/bigstory_v2/assets/js/fix-ie9.js"></script><![endif]-->
+  <!--[if lt IE 10]><script src="/profiles/ap/themes/bigstory_v2/assets/js/css3-multi-column.js"></script><![endif]-->
+  <script type="text/javascript">
+      $(function(){
+          if( $('body').hasClass("node-type-ap-article") ){
+              var script_quo = document.createElement('script')
+              script_quo.src = '/profiles/ap/themes/bigstory_v2/assets/js/package-quojs-2.3.6/quo.js'
+              document.documentElement.firstChild.appendChild(script_quo);
+          }
+      });
+  </script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-9826946 node-type-ap-article context-article">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <header>
+    <nav class="top-bar" data-topbar="">
+        <ul class="title-area">
+            <li class="name">
+                <a class="logo" href="/">
+                    <!--[if gte IE 9]><!-->
+                    <img src="/profiles/ap/themes/bigstory_v2/assets/images/ap_logo_bigstory.svg" width="291" alt="">
+                    <!--<![endif]-->
+                    <!--[if lte IE 8]>
+                      <img class="fix-ie8-logo" src="/profiles/ap/themes/bigstory_v2/assets/images/ap_logo_bigstory.png" width="291" alt="">
+                    <![endif]-->
+                </a>
+            </li>
+            <li class="toggle-topbar menu-icon"><a href="#"><span><!-- menu --></span></a></li>
+        </ul>
+
+        <section class="top-bar-section">
+            <!--<nav id="nav">-->
+            <!--menu dinamico-->
+            <ul class="right medium-3 menuLinks">
+                
+                            <li class="hide-for-medium">
+            
+                            <a href="http://bigstory.ap.org/latest">
+                    Latest News                </a>
+            
+
+                        </li>
+           
+                        <li class="hide-for-small search-li dividerbigstory">
+                    <a id="idsearchform" type="button" data-options="align:left" data-dropdown="headerSearch" data-options="is_hover:false">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </a>
+                    <div data-dropdown-content="" class="small content searchform drop-left open" id="headerSearch" style="display: none; position: absolute; left: -295px; top: 3px;">
+                        
+                        <form action="/" method="post" id="search-block-form" accept-charset="UTF-8">
+                                
+                                    <!--<div class="container-inline">
+                                    <div class="form-item form-type-textfield form-item-search-block-form">-->
+                        <div class="row">
+                            <div class="small-12 columns">
+                                <div class="row collapse">
+                                    <div class="small-10 colu">
+                                        <input title="Enter the terms you wish to search for." placeholder="Search..." type="text" id="edit-search-block-form--2" name="search_block_form" value=""  maxlength="128" class="form-text">
+                                    </div>
+                                    <div  class="small-2 colu" id="edit-actions">
+                                        <input id="butonsearch" class="button postfix" type="submit" name="op" value="Go" >
+                                    </div>
+                                    <input type="hidden" name="form_id" value="search_block_form">
+                                </div>
+                            </div>
+                        </div>
+                        </form>
+                    </div>
+                </li>
+                <li class="searchForm show-for-small">
+                    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8" >
+                            <!--<div class="container-inline">-->
+                        <div class="">
+                            <div class="small-12 columns">
+                                <div class="row collapse" style="float:left">
+                                    <div class="small-10 columns">
+                                        <input title="Enter the terms you wish to search for." placeholder="Search..." type="text" id="edit-search-block-form--2" name="search_block_form" value=""  maxlength="128" class="form-text"/>
+                                    </div>
+                                    <div  class="small-2 columns" id="edit-actions2">
+                                        <input id="butonsearch" class="button postfix" type="submit" name="op" value="Go" />
+                                    </div>
+                                <input type="hidden" name="form_id" value="search_block_form"/>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </li>
+                <li class="divider show-for-small"></li>
+                <!--<li class="ad_nav">
+                    <a href="#"><img src="/profiles/ap/themes/bigstory_v2/assets/sample/ad_88x31.png" alt=""></a>
+                </li>-->
+            </ul>
+            <!--</nav>-->
+        </section>
+    </nav>
+</header>
+<div class="block block-boxes block-boxes-responsive-dfp block-responsive-leaderboard block-boxes-responsive-leaderboard odd block-without-title" id="block-boxes-responsive-leaderboard">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id='boxes-box-responsive_leaderboard' class='boxes-box'><div class="boxes-box-content"><div id="responsive_leaderboard-responsive-ad" class="responsive-ad"></div></div></div>    </div>
+  </div>
+
+</div>  </div>
+</div><!--<div>    <div id="whitelabel_header" class="clearfix">
+      </div>
+    <div class="menu-zone-inner-wrapper">
+	  <div>
+	    	  </div>
+  </div>
+</div>--></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+            <div id="section-article-full">
+
+
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                 
+            <div class="tabs clearfix"></div>        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    
+<section class="row article">
+<!-- Main article BEGIN -->
+<article class="large-9 medium-8 columns">
+    <section class="articleHeader">
+        
+        <div class="byline-dateline">
+            <!--
+                        <a href="/tags/social-media">Social media</a>
+                        -->
+        </div>
+
+                          <h1 class="story-heading">Australia PM lays flowers at memorials for victims <span></span></h1>
+                
+      <div class="story-meta-footer">
+          
+        <div class="byline-dateline"> 
+            <div id="byline"><div class="field field-name-field-byline-original field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">By <a href="/content/kristen-gelineau">KRISTEN GELINEAU</a></div></div></div></div>
+            <div id="dateline">
+                   <span  class="updated" title="2014-12-16T00:03:11-05:00">Dec. 16, 2014 12:03 AM EST</span> 
+            </div>
+        </div>
+          
+      </div>
+
+    </section>
+
+    <!-- sticky Tool-bar BEGIN -->
+    <section class="article_toolbar sticky" id="sticky-article-toolbar">
+        <div class="small-12 left">
+            
+<a class="share_bt hide-for-small" id="facebook" href="#"><i></i></a>
+<a class="share_bt hide-for-small" id="twitter" href="#"><i></i></a>
+<a class="share_bt hide-for-small" id="email" href="mailto:?subject=AP Big Story: Australia PM lays flowers at memorials for victims&body=From AP, %0D%0A %0D%0AAustralia PM lays flowers at memorials for victims. %0D%0A %0D%0ASYDNEY (AP) &#x2014; Australian Prime Minister Tony Abbott has laid flowers at a makeshift memorial in Sydney for the victims of a central city cafe siege which left three people dead.  %0D%0A %0D%0Ahttp://bigstory.ap.org/article/161b8239ef1d4f5b8646cf842dafd0e3/major-police-operation-unfolding-sydney"><i></i></a>
+<a href="#" class="share_bt" id="shareAll" data-dropdown="social-dropdown" onclick="javascript:return false;"><i></i>
+  <span class="share_bt" id="sharesTotal"></span>
+</a>
+
+<div class="right">
+  <a href="#" class="share_bt right" id="commentsAnchor"><i></i><span id="comments-count"></span></a>
+</div>
+
+<div id="social-dropdown-parent">
+  <div id="social-dropdown" class="f-dropdown">
+    <h6>Share article</h6>
+    <ul class="small-block-grid-3">
+      <li><a class="share_bt" id="facebook" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="twitter" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="linkedin" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="googleplus" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="reddit" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="tumblr" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="email" href="mailto:?subject=AP Big Story: Australia PM lays flowers at memorials for victims&body=From AP, %0D%0A %0D%0AAustralia PM lays flowers at memorials for victims. %0D%0A %0D%0ASYDNEY (AP) &#x2014; Australian Prime Minister Tony Abbott has laid flowers at a makeshift memorial in Sydney for the victims of a central city cafe siege which left three people dead.  %0D%0A %0D%0Ahttp://bigstory.ap.org/article/161b8239ef1d4f5b8646cf842dafd0e3/major-police-operation-unfolding-sydney"><i></i></a></li>
+    </ul>
+  </div>
+</div>
+        </div>
+    </section>
+    
+ <script type="text/javascript">var only_one_photo = 0;</script> 
+<section class="slideshow lead-photo" id="lead-photo-slideshow">
+    <div class="photo-count">
+        28 photos    </div>
+    <script>var total_imgs =28</script>
+
+    <ul class="gallery popup-gallery" id="ul-gallery">
+        
+                                                <li class="visible">
+                                                        <a class="open-gallery" href="http://binaryapi.ap.org/24f48284efb94631a67227dfcfaf5709/460x.jpg" title="A woman cries after laying a flower at a makeshift memorial in Sydney, Australia Tuesday, Dec. 16, 2014 near where three people died in a siege. An Iranian-born gunman took 17 people hostage at a central city cafe Monday before police stormed the cafe early Tuesday. The gunman and two hostages were killed. (AP Photo/Nick Perry)">
+                                <img src="http://binaryapi.ap.org/24f48284efb94631a67227dfcfaf5709/460x.jpg" alt="APTOPIX Australia Police Operation" title="APTOPIX Australia Police Operation" />
+                            </a>
+                        </li>                      
+                    
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            </ul>
+    
+    <script type="text/javascript">      
+        var imgArray = new Array();
+         imgArray[1] = '<a class="open_gallery" href="http://binaryapi.ap.org/3f4e09b932334cf7b17dbb4b373b2314/460x.jpg" title="In this Dec. 15, 2014 photo, a hostage runs to armed tactical response police officers for safety after she escaped from a cafe under siege at Martin Place in the central business district of Sydney, Australia. New South Wales state police would not say what was happening inside the cafe or whether hostages were being held. But television footage shot through the cafe&#39s windows showed several people with their arms in the air. (AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/3f4e09b932334cf7b17dbb4b373b2314/460x.jpg" alt="APTOPIX Australia Police Operation" title="APTOPIX Australia Police Operation" /></a>'; 
+             imgArray[2] = '<a class="open_gallery" href="http://binaryapi.ap.org/e39975a148914480bb3455fd63444ce0/460x.jpg" title="Women offer flowers at a makeshift memorial in Sydney, Australia Tuesday, Dec. 16, 2014 near where three people died in a siege. An Iranian-born gunman took 17 people hostage at a central city cafe Monday before police stormed the cafe early Tuesday. The gunman and two hostages were killed. (AP Photo/Nick Perry)"><img src="http://binaryapi.ap.org/e39975a148914480bb3455fd63444ce0/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[3] = '<a class="open_gallery" href="http://binaryapi.ap.org/b868e3821eee4660a05cb98fbd7e3012/460x.jpg" title="Hostages run towards armed tactical response police as they run to freedom from a cafe under siege at Martin Place in the central business district of Sydney, Australia, Tuesday, Dec. 16, 2014. New South Wales state police would not say what was happening inside the cafe or whether hostages were being held. But television footage shot through the cafe&#39s windows showed several people with their arms in the air.(AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/b868e3821eee4660a05cb98fbd7e3012/460x.jpg" alt="APTOPIX Australia Police Operation" title="APTOPIX Australia Police Operation" /></a>'; 
+             imgArray[4] = '<a class="open_gallery" href="http://binaryapi.ap.org/265e11359f904c2fb5fa049f905fa82d/460x.jpg" title="An injured hostage is wheeled to an ambulance after shots were fired during  a cafe  siege at Martin Place in the central business district of Sydney, Australia, Tuesday, Dec. 16, 2014. New South Wales state police would not say what was happening inside the cafe or whether hostages were being held. But television footage shot through the cafe&#39s windows showed several people with their arms in the air.(AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/265e11359f904c2fb5fa049f905fa82d/460x.jpg" alt="APTOPIX Australia Police Operation" title="APTOPIX Australia Police Operation" /></a>'; 
+             imgArray[5] = '<a class="open_gallery" href="http://binaryapi.ap.org/53a615daf20648cdadec3e738fc0836e/460x.jpg" title="Police officers enter a building in Sydney, Australia Tuesday, Dec. 16, 2014 where three people died in a siege hours earlier. An Iranian-born gunman took 17 people hostage at a central city cafe Monday before police stormed the cafe early Tuesday. The gunman and two hostages were killed. (AP Photo/Nick Perry)"><img src="http://binaryapi.ap.org/53a615daf20648cdadec3e738fc0836e/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[6] = '<a class="open_gallery" href="http://binaryapi.ap.org/fba787a06f444662a6f0171888500365/460x.jpg" title="FILE - In this April 18, 2011 file photo of Man Haron Monis, believed to be the gunman inside the Lindt Cafe in Martin Place, speaks to the media as he leaves the Downing Centre in Sydney after a pre-trial hearing where he is accused of sending offending letters to the families of soldiers killed in Afghanistan. Police decided to storm the Lindt Cafe early Tuesday Dec. 16, 2014 when they heard a number of gunshots from inside, and ended with a barrage of gunfire that left two hostages and the gunman dead, and four others wounded. (AP Photo/AAP Image, Dean Lewins) AUSTRALIA OUT, NEW ZEALAND OUT, NO ARCHIVE, NO SALES"><img src="http://binaryapi.ap.org/fba787a06f444662a6f0171888500365/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[7] = '<a class="open_gallery" href="http://binaryapi.ap.org/e0e49764c14742ae92aca7813a1dd9f1/460x.jpg" title="A hostage runs to armed tactical response police officers for safety after she escaped from a cafe under siege at Martin Place in the central business district of Sydney, Australia, Monday, Dec. 15, 2014. New South Wales state police would not say what was happening inside the cafe or whether hostages were being held. But television footage shot through the cafe&#39s windows showed several people with their arms in the air. (AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/e0e49764c14742ae92aca7813a1dd9f1/460x.jpg" alt="APTOPIX Australia Police Operation" title="APTOPIX Australia Police Operation" /></a>'; 
+             imgArray[8] = '<a class="open_gallery" href="http://binaryapi.ap.org/4c133fd91c0c4bf9b8005bf3be139a88/460x.jpg" title="This image taken from video shows people holding up what appeared to be a black flag with white Arabic writing on it, inside a cafe in Sydney, Australia Monday, Dec. 15, 2014. An apparent hostage situation was unfolding inside the chocolate shop and cafe in Australia&#39s largest city on Monday, where several people could be seen through a window with their hands held in the air. (AP Photo/Channel 7 via AP Video) AUSTRALIA OUT"><img src="http://binaryapi.ap.org/4c133fd91c0c4bf9b8005bf3be139a88/460x.jpg" alt="APTOPIX Australia Police Operation" title="APTOPIX Australia Police Operation" /></a>'; 
+             imgArray[9] = '<a class="open_gallery" href="http://binaryapi.ap.org/8421eb8eab704ff5a3c29f7e7171be1d/460x.jpg" title="This image taken from video shows people holding up hands inside a cafe in Sydney, Australia Monday, Dec. 15, 2014. A gunman took an unknown number of people hostage inside the downtown Sydney chocolate shop and cafe at the height of Monday morning rush hour, with two people inside the cafe seen holding up a flag believed to contain an Islamic declaration of faith. (AP Photo/Channel 7 via AP Video) AUSTRALIA OUT"><img src="http://binaryapi.ap.org/8421eb8eab704ff5a3c29f7e7171be1d/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[10] = '<a class="open_gallery" href="http://binaryapi.ap.org/cb0deacd01f845b788f9655777b56a7c/460x.jpg" title="A police runs along a street close to a cafe under siege at Martin Place in the central business district of Sydney, Australia, Monday, Dec. 15, 2014. New South Wales state police would not say what was happening inside the cafe or whether hostages were being held. But television footage shot through the cafe&#39s windows showed several people with their arms in the air and hands pressed against the glass. (AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/cb0deacd01f845b788f9655777b56a7c/460x.jpg" alt="APTOPIX Australia Police Operation" title="APTOPIX Australia Police Operation" /></a>'; 
+             imgArray[11] = '<a class="open_gallery" href="http://binaryapi.ap.org/0c3636a719ce42f7abb3e9f7909f45e0/460x.jpg" title="Armed police officers point as they stand at the ready close to a cafe under siege at Martin Place in Sydney, Australia, Monday, Dec. 15, 2014. A gunman took an unknown number of people hostage inside a downtown Sydney chocolate shop and cafe at the height of Monday morning rush hour, with two people inside the cafe seen holding up a flag believed to contain an Islamic declaration of faith. (AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/0c3636a719ce42f7abb3e9f7909f45e0/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[12] = '<a class="open_gallery" href="http://binaryapi.ap.org/c1dd597e9e434f118a599f95feae38dc/460x.jpg" title="In this photo released by China&#39s Xinhua News Agency, Australian Prime Minister Tony Abbott speaks at a press conference in the Parliament House in Canberra, Australia, after  a gunman took an unknown number of people hostage in a cafe in Sydney, Monday, Dec. 15, 2014. (AP Photo/Xinhua, Xu Haijing) NO SALES"><img src="http://binaryapi.ap.org/c1dd597e9e434f118a599f95feae38dc/460x.jpg" alt="Tony Abbott " title="Tony Abbott " /></a>'; 
+             imgArray[13] = '<a class="open_gallery" href="http://binaryapi.ap.org/b5553807b32c47098a721a5c389b69bf/460x.jpg" title="Police evacuate people from an office building close to a cafe under siege at Martin Place in the central business district of Sydney, Australia, Monday, Dec. 15, 2014. The standoff began around 9:45 a.m. Monday when police were called to Lindt Chocolat Cafe in Sydney&#x2019;s financial district after they heard gunfire. (AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/b5553807b32c47098a721a5c389b69bf/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[14] = '<a class="open_gallery" href="http://binaryapi.ap.org/66ddc19295294ddfa40fe269b09ec2a7/460x.jpg" title="Emergency personnel wheel a blood soaked stretcher to an ambulance during a cafe siege in the central business district of Sydney , Australia, Tuesday, Dec. 16, 2014.  A swarm of heavily armed police stormed the cafe in the heart of downtown Sydney early Tuesday, ending a siege where a gunman had been holding an unknown number of people hostage for more than 16 hours. A police spokesman confirmed "the operation is over," but would not release any further details about the fate of the gunman or his remaining captives. After a flurry of loud bangs, police swooped into the Lindt Chocolat Cafe shortly after five or six hostages were seen running from the building. (AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/66ddc19295294ddfa40fe269b09ec2a7/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[15] = '<a class="open_gallery" href="http://binaryapi.ap.org/0c856ffb7a8349d6a6739f62ae17f73d/460x.jpg" title="In this image taken from TV a bomb disposal robot goes towards  the building after shots were fired during a cafe siege in the central business district of Sydney , Australia, Tuesday, Dec. 16, 2014. A swarm of heavily armed police stormed a cafe in the heart of downtown Sydney early Tuesday, ending a siege where a gunman had been holding an unknown number of people hostage for more than 16 hours. A police spokesman confirmed "the operation is over," but would not release any further details about the fate of the gunman or his remaining captives. After a flurry of loud bangs, police swooped into the Lindt Chocolat Cafe shortly after five or six hostages were seen running from the building. (AP Photo/Channel 9) AUSTRALIA OUT TV OUT"><img src="http://binaryapi.ap.org/0c856ffb7a8349d6a6739f62ae17f73d/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[16] = '<a class="open_gallery" href="http://binaryapi.ap.org/a2341aeb6a514f1d9c30400ede3401e1/460x.jpg" title="Hostages run towards armed tactical responce police as they run to freedom from a cafe under siege at Martin Place in the central business district of Sydney, Australia, Tuesday, Dec. 16, 2014. New South Wales state police would not say what was happening inside the cafe or whether hostages were being held. But television footage shot through the cafe&#39s windows showed several people with their arms in the air.(AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/a2341aeb6a514f1d9c30400ede3401e1/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[17] = '<a class="open_gallery" href="http://binaryapi.ap.org/87579906221647de96adac3a609b9c04/460x.jpg" title="Armed tactical response police personnel stand watch into the evening near a cafe under siege by a gunman at Martin Place in the central business district of Sydney, Australia, Monday, Dec. 15, 2014. As the drama dragged into its 10th hour, police Deputy Commissioner Catherine Burn said negotiators were talking with the gunman. Officials had no information to suggest anyone had been harmed, although a hospital said it was treating a man in satisfactory condition. (AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/87579906221647de96adac3a609b9c04/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[18] = '<a class="open_gallery" href="http://binaryapi.ap.org/5253d8c999094742948641152fa06203/460x.jpg" title="Police stand at the ready close to a cafe under siege in Martin Place in the central business district of Sydney, Australia, Monday, Dec. 15, 2014. New South Wales state police would not say what was happening inside the cafe or whether hostages were being held. But television footage shot through the cafe&#39s windows showed several people with their arms in the air. (AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/5253d8c999094742948641152fa06203/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[19] = '<a class="open_gallery" href="http://binaryapi.ap.org/593ba432c7d2401c985b2b71eb080ad6/460x.jpg" title="A injured hostage is carried to an ambulance after shots were fired during  a cafe  siege at Martin Place in the central business district of Sydney, Australia, Tuesday, Dec. 16, 2014. New South Wales state police would not say what was happening inside the cafe or whether hostages were being held. But television footage shot through the cafe&#39s windows showed several people with their arms in the air.(AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/593ba432c7d2401c985b2b71eb080ad6/460x.jpg" alt="APTOPIX Australia Police Operation" title="APTOPIX Australia Police Operation" /></a>'; 
+             imgArray[20] = '<a class="open_gallery" href="http://binaryapi.ap.org/57e6791d958d4509a2ed1809d1fc0755/460x.jpg" title="Police bomb squad bomb disposal robot top left, moves into place during a cafe siege in the central business district of Sydney , Australia, Tuesday, Dec. 16, 2014. A swarm of heavily armed police stormed a cafe in the heart of downtown Sydney early Tuesday, ending a siege where a gunman had been holding an unknown number of people hostage for more than 16 hours. A police spokesman confirmed "the operation is over," but would not release any further details about the fate of the gunman or his remaining captives. After a flurry of loud bangs, police swooped into the Lindt Chocolat Cafe shortly after five or six hostages were seen running from the building. (AP Photo/Glenn Nicholls)"><img src="http://binaryapi.ap.org/57e6791d958d4509a2ed1809d1fc0755/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[21] = '<a class="open_gallery" href="http://binaryapi.ap.org/b3cfcbfacc0f4631893db1467a784693/460x.jpg" title="A injured hostage is carried to an ambulance after shots were fired during  a cafe  siege at Martin Place in the central business district of Sydney, Australia, Tuesday, Dec. 16, 2014. A flurry of loud bangs erupted as a swarm of heavily armed police stormed inside a downtown Sydney chocolate cafe where a gunman had been holding an unknown number of people hostage for more than 16 hours. (AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/b3cfcbfacc0f4631893db1467a784693/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[22] = '<a class="open_gallery" href="http://binaryapi.ap.org/41d2f9e23b51486899b86c864bbc189a/460x.jpg" title="A injured hostage is wheeled to an ambulance after shots were fired during  a cafe siege at Martin Place in the central business district of Sydney, Australia, Tuesday, Dec. 16, 2014. New South Wales state police would not say what was happening inside the cafe or whether hostages were being held. But television footage shot through the cafe&#39s windows showed several people with their arms in the air.(AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/41d2f9e23b51486899b86c864bbc189a/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[23] = '<a class="open_gallery" href="http://binaryapi.ap.org/33db67ea729e411d9679c0ec4c7ef4e2/460x.jpg" title="A blood soaked stretcher is wheeled to an ambulance after shots were fired during  a cafe siege at Martin Place in the central business district of Sydney, Australia, Tuesday, Dec. 16, 2014. New South Wales state police would not say what was happening inside the cafe or whether hostages were being held. But television footage shot through the cafe&#39s windows showed several people with their arms in the air.(AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/33db67ea729e411d9679c0ec4c7ef4e2/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[24] = '<a class="open_gallery" href="http://binaryapi.ap.org/07dcb5b4a349461cb3257f23184930a8/460x.jpg" title="A blood soaked stretcher is wheeled to an ambulance after shots were fired during  a cafe  siege at Martin Place in the central business district of Sydney, Australia, Tuesday, Dec. 16, 2014. New South Wales state police would not say what was happening inside the cafe or whether hostages were being held. But television footage shot through the cafe&#39s windows showed several people with their arms in the air.(AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/07dcb5b4a349461cb3257f23184930a8/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[25] = '<a class="open_gallery" href="http://binaryapi.ap.org/7ca046f56cd84ac1bd42c4e9886f07d9/460x.jpg" title="Police commisioner Andrew Scipione speaks to the media during a press conference after a siege at Martin Place in the central business district of Sydney, Australia, Tuesday, Dec. 16, 2014. The commissioner said that during the siege three people had been killed including the lone gunman. (AP Photo/Rob Griffith)"><img src="http://binaryapi.ap.org/7ca046f56cd84ac1bd42c4e9886f07d9/460x.jpg" alt="Australia Police Operation" title="Australia Police Operation" /></a>'; 
+             imgArray[26] = '<a class="open_gallery" href="http://binaryapi.ap.org/1a94eec1d42c4243a56ccaf80c3bfd18/460x.jpg" title="FILE - In this April 18, 2011 file photo, Man Haron Monis speaks to the media as he leaves the Downing Centre in Sydney after a pre-trial hearing where he is accused of sending offending letters to the families of soldiers killed in Afghanistan. Monis, the gunman in the 16-hour-long siege at the Lindt Cafe in downtown Sydney, was killed Tuesday, Dec. 16, 2014 in a police operation to rescue the people he was holding hostage. (AP Photo/AAP Image, Dean Lewins) AUSTRALIA OUT, NEW ZEALAND OUT, NO ARCHIVE, NO SALES"><img src="http://binaryapi.ap.org/1a94eec1d42c4243a56ccaf80c3bfd18/460x.jpg" alt="Man Haron Monis" title="Man Haron Monis" /></a>'; 
+             imgArray[27] = '<a class="open_gallery" href="http://binaryapi.ap.org/3087b5a150024e7cb00e375ad9f9b65f/460x.jpg" title="Graphic locates the Lindt Cafe where a lone gunman held hostage in downtown Sydney for more than 16 hours; 2c x 4 1/4 inches; 96.3 mm x 107 mm;"><img src="http://binaryapi.ap.org/3087b5a150024e7cb00e375ad9f9b65f/460x.jpg" alt="AUSTRALIA HOSTAGES" title="AUSTRALIA HOSTAGES" /></a>'; 
+             
+    </script> 
+    
+        
+    <div class="field-name-caption"><block><p>A woman cries after laying a flower at a makeshift memorial in Sydney, Australia Tuesday, Dec. 16, 2014 near where three people died in a siege. An Iranian-born gunman took 17 people hostage at a central city cafe Monday before police stormed the cafe early Tuesday. The gunman and two hostages were killed. (AP Photo/Nick Perry)</p></block></div>    
+
+    <div id="information-small" class="small-12 show-for-small-only">
+	<div class="small-10 columns byline-dateline">
+            	</div>
+        <a id="infoGallery"><span class="caption overlay-caption" data-thumb-index="0">i</span></a>
+    </div>
+</section>
+ 
+    <script type="text/javascript">
+    $(document).ready(function() {
+
+        if (total_imgs == 1) {
+            var aImg = $('.popup-gallery li a');
+            
+            var text = aImg.attr('title');
+            
+            $('.field-name-caption').html('<block><p>' + text + '</p></block>');
+        }     
+        
+        var chrMax = 100;
+        
+        var origText = $('.field-name-caption block p').text();
+
+        var charLength = $('.field-name-caption block p').text().length;
+        
+        var screen_width = $( window ).width();
+        var width_mobile = 650;
+        
+        var pAbsoluteShow = 0;
+        
+        if (charLength > chrMax) {
+            var shortText = jQuery.trim(origText).substring(0, chrMax).split(" ").slice(0, -1).join(" ") + "... ";
+            $('.field-name-caption block p').text(shortText);            
+            $('.field-name-caption block p').append('<a id="readMore">Read more</a>');
+        }
+        
+
+        var screen_width = $( window ).width();
+
+        if (screen_width <= width_mobile) {  
+        
+        $$('.mfp-figure figure').tap(function() { 
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {  
+                switchPDescription(); 
+            }
+        }); 
+
+        $$('#p-absolute').unbind('tap').tap(function() { 
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {                      
+                switchPDescription(); 
+            }
+        }); 
+
+        $$('.mfp-figure figure').unbind('swipeLeft').swipeLeft(function() { 
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {                      
+                if (mfp.index == (total_imgs - 1)) {
+                    mfp.index = 0;
+                }
+                else {
+                    mfp.index = mfp.index + 1;
+                }      
+                mfp.updateItemHTML();
+            }
+        });
+
+        $$('.mfp-figure figure').unbind('swipeRight').swipeRight(function() {                
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {                   
+                if (mfp.index == 0) {
+                    mfp.index = total_imgs - 1;
+                }
+                else {
+                    mfp.index = mfp.index -1;
+                }
+                mfp.updateItemHTML();
+            }
+        });    
+        
+        }
+
+       function configMobile() {
+            var screen_width = $( window ).width();
+            
+            if (screen_width <= width_mobile) {        
+                showDescription(pAbsoluteShow);        
+            }
+        }
+
+
+        $('.popup-gallery').magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            tLoading: 'Loading image #%curr%...',
+            mainClass: 'mfp-img-mobile',
+            
+            gallery: {
+              enabled: true,
+              navigateByImgClick: true,
+              preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+            },
+            
+            image: {
+                tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+                titleSrc: function(item) {
+                    return item.el.attr('title');
+                }
+            },
+
+            callbacks: {
+                
+                open: function() {
+
+                    $('.mfp-bottom-carrousel').html("");
+
+                    var img_total = 0;
+
+                    $('.popup-gallery li a').each(function(idx,el){
+
+                        img_total = img_total + 1;
+                        var _img = document.createElement('img');
+
+                        $(_img).attr('id', 'thumb-gallery-'+idx );
+                        $(_img).attr('src', $(el).attr('href'));
+                        $(_img).attr('alt', $(el).attr('title'));
+
+
+                        if (idx == 0) $(_img).addClass('select');
+
+                        $(_img).click(function(){
+                            mfp.direction = (idx >= mfp.index);
+                            mfp.index = idx;
+                            mfp.updateItemHTML();
+
+                            updateCarousel(idx);
+                        });
+
+                        if (only_one_photo == 0) {
+                            $('.mfp-bottom-carrousel').append(_img);
+                        }
+
+                    })
+
+                    var width_img_total = (img_total * 120) + 3;
+
+                    $('.mfp-bottom-carrousel').width(width_img_total + 'px');
+                    
+                    configMobile();
+                },
+                close: function() {
+                    $('#p-absolute').hide();
+                    pAbsoluteShow = 0;
+                }
+                // e.t.c.
+            }
+        });
+        
+        $('#readMore').click(function(){
+            $('.open_gallery').click();
+            mfp.index = 0;
+            mfp.updateItemHTML();
+            updateCarousel(0);
+        });  
+        
+        $('#infoGallery').click(function(){
+            pAbsoluteShow = 1;
+            $('.open_gallery').click();
+            mfp.index = 0;
+            mfp.updateItemHTML();
+            updateCarousel(0);
+        });   
+        
+        $('#button_comments').click(function(){
+            if( $('#articleComments').is(":visible") ) {
+                $('#articleComments').css('cssText', 'display: none !important');
+                $('#button_comments').removeClass('comments_visible');
+                $('#button_comments').html('SEE COMMENTS');
+            }
+            else {
+                $('#articleComments').css('cssText', 'display: block !important');
+                $('#button_comments').addClass('comments_visible');
+                $('#button_comments').html('HIDE COMMENTS');                
+            }
+        });
+        
+        
+    });
+    </script>
+
+ 
+
+<div  class="hnews-hidden"><div  class="hnews-author-org">By: <span  class="author vcard"><a href="/content/kristen-gelineau" class="fn">KRISTEN GELINEAU</a></span> (<span  class="source-org vcard"><span  class="org fn">AP</span></span>)</div><span  class="dateline">SYDNEY</span><a  rel="item-license" id="license-63564a41f0066c388be917bf2f4d29f4" href="#license-63564a41f0066c388be917bf2f4d29f4">Copyright 2015 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</a><div  class="geo hnews-geo"><span  class="latitude">-33.8679</span><span  class="longitude">151.207</span></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden entry-content"><div class="field-items"><div class="field-item even"><p><block><p>SYDNEY (AP) — Australian Prime Minister Tony Abbott has laid flowers at a makeshift memorial in Sydney for the victims of a central city cafe siege which left three people dead.</p>
+<p>Abbott laid a bouquet of white flowers at the memorial in Martin Place while his wife Margie laid a bouquet of red flowers. Abbott also wrote a message and waved at the crowd but did not address them.</p>
+<p>Hundreds of people have been leaving flowers at the memorial.</p>
+<p>A gunman took 17 hostages Monday at the Lindt Chocolat Cafe. The siege ended 16 hours later in a barrage of gunfire that left two hostages and the Iranian-born gunman dead, and a nation that has long prided itself on its peace rocked to its core.</p>
+</block></p></div></div></div>
+</article>
+
+
+
+  <div class="loadMore show-full-article">
+    <section id="articleExpand">
+        <div class="fade"></div>
+	<button>SEE FULL ARTICLE</button>
+
+	<!-- ad -->
+        <section class="columns ad-block">
+            <div class="block block-dfp block-topic-box-2 block-dfp-topic-box-2 odd block-without-title" id="block-dfp-topic-box-2">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="dfp-ad-topic_box_2-wrapper" class="dfp-tag-wrapper"><div class="slug">Advertisement</div>
+<div  id="dfp-ad-topic_box_2" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-topic_box_2");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+
+</div>            <!--<img src="/profiles/ap/themes/bigstory_v2/assets/sample/ad_300x250.png" alt="" />-->
+        </section>
+    </section>
+  </div>
+
+<!-- Pagination BEGIN -->
+<!--    <section id="pagination" class="large-8 medium-8 small-12 columns">
+        <a class="article-prev" href="#">
+            <span class="arrow"><img src="assets/images/pagination_arrows_prev.png" alt="" /></span>
+            <div class="title">
+                <span>&#60; Previous</span>
+                Article title Lorem ipsum dolor aner xculis Article title Lorem ipsum dolor
+                long Article title
+            </div>
+        </a>
+
+        <a class="article-next right" href="#">
+            <span class="arrow"><img src="assets/images/pagination_arrows_next.png" alt="" /></span>
+            <div class="title">
+                <span>Next &#62;</span>
+                Article title Lorem ipsum dolor aner xculis Article title Lorem ipsum dolor
+            </div>
+        </a>
+    </section> -->
+    <!-- Pagination END -->
+
+    <div class="loadMore hide-for-medium-up">
+        <button id="button_comments" class="small-12 left">SEE COMMENTS</button>
+    </div>
+    
+    <section id="articleComments" class="large-8 medium-8 left columns hide-for-small">
+	<h4>Comments</h4>
+	<div id="disqus_thread"><noscript><p><a href="http://thebigstory.disqus.com/?url=http%3A%2F%2Fbigstory.ap.org%2Farticle%2F161b8239ef1d4f5b8646cf842dafd0e3%2Fmajor-police-operation-unfolding-sydney">View the discussion thread.</a></p></noscript></div>    </section>    
+
+</section>
+
+    </div>
+  </div>
+
+</div>      </div>
+</div><aside class="grid-4 region region-sidebar-first" id="region-sidebar-first">
+  <div class="region-inner region-sidebar-first-inner">
+    <div class="ap-recent-articles"><section class="block block-ap-misc block-ap-recent-articles block-ap-misc-ap-recent-articles odd" id="block-ap-misc-ap-recent-articles">
+  <div class="block-inner clearfix">
+                      <h2 class="block-title">Latest News</h2>
+            
+    <div class="content clearfix"   data-vr-zone='Latest News'>
+       <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin even clearfix" id="node-ap-article-10750456">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/97bbfa172e7e44e387ce6875958afc05/melvin-gordon-gone-badgers-clement-gets-speed" title="With Melvin Gordon gone, Badgers&#039; Clement gets up to speed"><a href="/article/97bbfa172e7e44e387ce6875958afc05/melvin-gordon-gone-badgers-clement-gets-speed">With Melvin Gordon gone, Badgers&#039; Clement gets up to speed</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-03-23T21:04:12-04:00">Mar. 23, 2015 9:04 PM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+   <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin odd clearfix" id="node-ap-article-10744966">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+            <div class="field field-name-field-ap-photo-ref field-type-ap-photo-ref field-label-hidden">
+        <div class="field-items" >
+          <div class="field-item even">
+              <a href="/article/4c9de85eab4141a3808c4fb644d1d0f8/millionaire-robert-durst-returning-court-new-orleans"><img src="http://binaryapi.ap.org/694412a81c124ba98836b8273ebb91ed/115x.jpg" alt="Robert Durst" title="Robert Durst"></a>
+          </div>
+        </div>
+      </div>
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/4c9de85eab4141a3808c4fb644d1d0f8/millionaire-robert-durst-returning-court-new-orleans" title="No bond for millionaire Durst on New Orleans weapons charges"><a href="/article/4c9de85eab4141a3808c4fb644d1d0f8/millionaire-robert-durst-returning-court-new-orleans">No bond for millionaire Durst on New Orleans weapons charges</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-03-23T21:02:39-04:00">Mar. 23, 2015 9:02 PM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+   <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin even clearfix" id="node-ap-article-10749556">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+            <div class="field field-name-field-ap-photo-ref field-type-ap-photo-ref field-label-hidden">
+        <div class="field-items" >
+          <div class="field-item even">
+              <a href="/article/6c1b55094e2744dc912abbdebd762f90/governor-signs-law-making-utah-only-state-firing-squad"><img src="http://binaryapi.ap.org/11a4b0832cf34b5890cfd5c7fe4aeaad/115x.jpg" alt="Firing Squad" title="Firing Squad"></a>
+          </div>
+        </div>
+      </div>
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/6c1b55094e2744dc912abbdebd762f90/governor-signs-law-making-utah-only-state-firing-squad" title="Utah to use firing squads if lethal drugs are unavailable"><a href="/article/6c1b55094e2744dc912abbdebd762f90/governor-signs-law-making-utah-only-state-firing-squad">Utah to use firing squads if lethal drugs are unavailable</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-03-23T21:02:38-04:00">Mar. 23, 2015 9:02 PM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+   <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin odd clearfix" id="node-ap-article-10749266">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/6c80769d668e405bb56b4ec075bfe9a8/cubs-rooftop-owners-court-over-wrigley-renovation" title="Wrigley rooftop owner: &#039;We&#039;re dead,&quot; if Cubs erect huge sign"><a href="/article/6c80769d668e405bb56b4ec075bfe9a8/cubs-rooftop-owners-court-over-wrigley-renovation">Wrigley rooftop owner: &#039;We&#039;re dead,&quot; if Cubs erect huge sign</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-03-23T21:02:28-04:00">Mar. 23, 2015 9:02 PM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+   <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin even clearfix" id="node-ap-article-10750241">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+            <div class="field field-name-field-ap-photo-ref field-type-ap-photo-ref field-label-hidden">
+        <div class="field-items" >
+          <div class="field-item even">
+              <a href="/article/943d3d765e614c6e92138d241f61558e/graves-helps-lady-vols-hold-pittsburgh-77-67"><img src="http://binaryapi.ap.org/386b1f67d8e44dbc9a05450b505409e3/115x.jpg" alt="Yacine Diop, Cierra Burdick" title="Yacine Diop, Cierra Burdick"></a>
+          </div>
+        </div>
+      </div>
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/943d3d765e614c6e92138d241f61558e/graves-helps-lady-vols-hold-pittsburgh-77-67" title="Graves helps Lady Vols hold off Pittsburgh 77-67"><a href="/article/943d3d765e614c6e92138d241f61558e/graves-helps-lady-vols-hold-pittsburgh-77-67">Graves helps Lady Vols hold off Pittsburgh 77-67</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-03-23T21:01:03-04:00">Mar. 23, 2015 9:01 PM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+    </div>
+  </div>
+
+</section></div><div class="block block-ap-polar-ads block-ap-polar-ad-article block-ap-polar-ads-ap-polar-ad-article even block-without-title" id="block-ap-polar-ads-ap-polar-ad-article">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="polar-article-content"><input type="hidden" id="polar-identifier" /></div>    </div>
+  </div>
+
+</div><div class="block block-dfp block-half-page block-dfp-half-page odd block-without-title" id="block-dfp-half-page">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="dfp-ad-half_page-wrapper" class="dfp-tag-wrapper"><div class="slug">Advertisement</div>
+<div  id="dfp-ad-half_page" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-half_page");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+
+</div><div class="block block-block block-6 block-block-6 even block-without-title" id="block-block-6">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+#block-block-6
+{
+margin-top: 15px;
+}
+
+#block-block-6 .slug
+{
+position: relative;
+}
+/*--><!]]>*/
+</style><div class="slug">Advertisement</div>
+<div id="hgWdgBd"></div>
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+(function(window, undefined) {var d = window.document,s = d.getElementById("hgWdgBd"),f = d.createElement('IFRAME'),h;f.scrolling = 'no';f.style.border = 'none';f.style.width = '100%';f.src = "http://healthguides.healthgrades.com/ap-syndication-big-story?_embed=true&_format=_frame&refurl="+document.URL;s.parentNode.insertBefore(f, s);window.addEventListener('message', function(event) {var nh = parseInt(event.data, 10);if (h !== nh) {f.style.height = nh + 'px';h = nh;}}, false);})(window);
+
+//--><!]]>
+</script>    </div>
+  </div>
+
+</div><div class="block block-ap-misc block-ap-tags-detail block-ap-misc-ap-tags-detail odd block-without-title" id="block-ap-misc-ap-tags-detail">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div  class="ap-article-tags categories">
+    
+    
+    
+<h3 class="h3_tags">Topics</h3>
+<div class="tags">
+<a href="/tags/social-media" rel="tag">Social media</a>, <a href="/tags/online-media" rel="tag">Online media</a>, <a href="/tags/religious-issues" rel="tag">Religious issues</a>, <a href="/tags/war-casualties" rel="tag">War casualties</a>, <a href="/tags/religion-and-politics" rel="tag">Religion and politics</a>, <a href="/tags/sexual-assault" rel="tag">Sexual assault</a>, <a href="/tags/islam" rel="tag">Islam</a>, <a href="/tags/counterterrorism" rel="tag">Counterterrorism</a>, <a href="/tags/hostage-situations" rel="tag">Hostage situations</a>, <a href="/tags/australia-government" rel="tag">Australia government</a>, <a href="/tags/ayman-al-zawahiri" rel="tag">Ayman al-Zawahiri</a>, <a href="/tags/tony-abbott" rel="tag">Tony Abbott</a>, <a href="/tags/islamic-state-group" rel="tag">Islamic State group</a></div>
+</div>    </div>
+  </div>
+
+</div><div class="block block-dfp block-mediumrectangle block-dfp-mediumrectangle even block-without-title" id="block-dfp-mediumrectangle">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="dfp-ad-mediumrectangle-wrapper" class="dfp-tag-wrapper"><div class="slug">Advertisement</div>
+<div  id="dfp-ad-mediumrectangle" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-mediumrectangle");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+
+</div>  </div>
+</aside>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    
+<footer>
+  <div id="siteFooter">
+    <div class="row">
+        <div class="medium-4 columns">
+            <h5>Get the AP Mobile app</h5>
+<a href="http://www.ap.org/apmobile/"><img src="http://bigstory.ap.org/sites/bigstory/files/Mobile%20App%20Download.png"></a>
+        </div>
+        <div class="medium-4 columns">
+            <h5>AP Sites</h5>
+            <ul class="">
+                <li><a href="http://wintergames.ap.org" >Winter Games</a></li>
+                <li><a href="http://collegebasketball.ap.org" >College Basketball</a></li>
+                <li><a href="http://racing.ap.org" >Auto Racing</a></li>
+                <li><a href="http://pro32.ap.org" >Football</a></li>
+            </ul>
+        </div>
+        <div class="medium-4 columns">
+            <h5>Follow AP</h5>
+            <ul class="">
+                <li><a href="https://www.facebook.com/pages/Associated-Press/107751995914945">Facebook</a></li>
+                <li><a href="https://twitter.com/AP">Twitter</a></li>
+                <li><a href="https://plus.google.com/+AP/">Google+</a></li>
+                <li><a href="https://www.linkedin.com/company/associated-press">LinkedIn</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <hr>
+        <div class="medium-12 columns"> 
+            AP News | 
+           &copy; 2015 Associated Press  | 
+            <a href="/content/privacy-policy">Privacy Policy</a>  |  
+            <a href="/content/terms-use">Terms of Use</a>  |  
+            <a href="http://www.apimages.com/">AP Images</a>  |  
+            <a href="http://www.ap.org/">ap.org</a>
+        </div>
+    </div>
+</div>
+
+
+
+<style>
+#dfp-ad-leaderboard{
+text-align: center
+}
+</style></footer>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+    <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=11304492&cv=2.0&cj=1" /></noscript>  </div>
+</div><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _sf_async_config={uid:11689,domain:""};(function() {function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js"); document.body.appendChild(e); }var oldonload = window.onload;window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/optional/ap_social/js/ap_social.min.js?nlh03t"></script>
+  <script type="text/javascript" src="http://platform.tumblr.com/v1/share.js"></script>
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"560baa128a","applicationID":"555721","transactionName":"MlRTYkFSWkNUU0EKDQsecFVHWlteGl5aBwc6QVBRVmxCWVBH","queueTime":0,"applicationTime":930,"ttGuid":"","agentToken":"","atts":"HhNQFAlISU0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script></body>
+</html>

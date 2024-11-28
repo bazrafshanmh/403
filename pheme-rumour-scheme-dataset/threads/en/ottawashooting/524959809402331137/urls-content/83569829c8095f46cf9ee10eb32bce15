@@ -1,0 +1,1271 @@
+HTTP/1.1 200 OK
+Date: Tue, 24 Mar 2015 01:16:34 GMT
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Status: 200 OK
+Strict-Transport-Security: max-age=31557600
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-UA-Compatible: chrome=1
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: f03426b0-3bbd-4b23-9749-d83c9b030af9
+X-Runtime: 0.241181
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Via: 1.1 varnish
+X-Served-By: cache-lhr6333-LHR
+X-Cache: MISS
+X-Cache-Hits: 0
+Set-Cookie: vis=57207c03dd298c96-2adac9efa2794cc5-c0b37b7133dbcb8av1; path=/; expires=Sat, 24 Mar 2035 01:16:33 -0000; secure
+Set-Cookie: lang=en; path=/; secure
+Set-Cookie: last_page=https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Fwepublishing%2Ffox-and-rabbit-brothers-of-the-heart-print-it-0; path=/; expires=Tue, 24 Mar 2015 01:46:33 -0000; secure
+Set-Cookie: _ksr_session=R1ZNTGNJVElEUzJidDNPVHIvR29VOGx1dDZERlB6amE4L3hrWHJTZWwrNUhKaEJuUGtIS0llekIzc2VPcUhaMHNoVkRBVndlT2NLT2xFZG4rdVVGQUZsY0VvaFF1UGlnV1ZVMUxYeG1RR1dzVmp1Y3VJUm1OSzd3OUc0MEhuU1l5VjFhc0RCSEZGUmpuZXdjRVBXSGE0L0dVYWNTamRSR3pYeE0wUjQwaTRSOW5qUDdzTlRUTEZWdFJiL211RHR3UDdwVDVjS1pNZWFBWWlrVWZYOGtJUT09LS1RVmp1c2hFV3ZwWXF0NE15SHJZZkdRPT0%3D--5f769e2d7979d16ca49ce34c0143f4754c044843; path=/; secure; HttpOnly
+Set-Cookie: request_time=Tue%2C+24+Mar+2015+01%3A16%3A34+-0000; path=/; secure
+Transfer-Encoding: chunked
+
+<!DOCTYPE html>
+<html class="projects_show  fontface no-js" lang="en">
+<script>
+  //<![CDATA[
+    docElement = this.document.documentElement;
+    docElement.className=docElement.className.replace(/\bno-js\b/,'') + 'js';
+  //]]>
+</script><title>FOX & RABBIT: Brothers of the Heart - PRINT IT!! by Karin Fires &mdash; Kickstarter</title><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+<meta property="twitter:app:id:iphone" content="596961532"/>
+<meta property="twitter:app:name:iphone" content="Kickstarter"/>
+<meta property="twitter:app:url:iphone" content="ksr://www.kickstarter.com/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0"/>
+<meta name="apple-itunes-app" content="app-id=596961532, app-argument=ksr://www.kickstarter.com/projects/412509415/836310732?app_banner=1"/>
+<meta name="title" content="Kickstarter &gt;&gt; FOX &amp;amp; RABBIT: Brothers of the Heart - PRINT IT!! by Karin Fires"/>
+<meta name="description" content="Karin Fires is raising funds for FOX &amp; RABBIT: Brothers of the Heart - PRINT IT!! on Kickstarter! 
+
+ Fox &amp; rabbit tale, journey of discovery  &quot;You don&#39; t have to be connected by blood to be connected at the heart.&quot;  Live animal photos"/>
+<meta name="robots" content="noindex"/>
+<meta property="og:title" content="FOX &amp; RABBIT: Brothers of the Heart - PRINT IT!!"/>
+<meta property="og:type" content="kickstarter:project"/>
+<meta property="og:image" content="https://ksr-ugc.imgix.net/projects/873879/photo-original.jpg?v=1397868384&amp;w=640&amp;h=480&amp;fit=crop&amp;auto=format&amp;q=92&amp;s=5f24e44d4fc6f4edb0e2964e10e94c4e"/>
+<meta property="og:url" content="https://www.kickstarter.com/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0"/>
+<meta property="og:site_name" content="Kickstarter"/>
+<meta property="fb:app_id" content="69103156693"/>
+<meta property="og:description" content="Fox &amp; rabbit tale, journey of discovery  &quot;You don&#39; t have to be connected by blood to be connected at the heart.&quot;  Live animal photos"/>
+<meta property="kickstarter:creator" content="https://www.kickstarter.com/profile/wepublishing"/>
+<meta property="twitter:card" content="summary"/>
+<meta property="twitter:site" content="@kickstarter"/>
+<meta property="twitter:site:id" content="16186995"/>
+<meta property="twitter:title" content="FOX &amp; RABBIT: Brothers of the Heart - PRINT IT!!"/>
+<meta property="twitter:description" content="Fox &amp; rabbit tale, journey of discovery  &quot;You don&#39; t have to be connected by blood to be connected at the heart.&quot;  Live animal photos"/>
+<meta property="twitter:image" content="https://ksr-ugc.imgix.net/projects/873879/photo-original.jpg?v=1397868384&amp;w=640&amp;h=480&amp;fit=crop&amp;auto=format&amp;q=92&amp;s=5f24e44d4fc6f4edb0e2964e10e94c4e"/>
+<meta property="twitter:url" content="https://www.kickstarter.com/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0"/>
+<meta property="twitter:maxage" content="60"/>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="Q7Ri5M6z7Kux+1VKx7gUwJPWU2JlPppNCwjxgFS7Few=" name="csrf-token" />
+<link href="https://d297h9he240fqh.cloudfront.net/assets/packages/mobile_web-89870887c04c83ad80aeb424ddb1cf4d5c7664c6603fda56df687d753013aab7.css" media="screen" rel="stylesheet" />
+<script id="schwamm_formatting_options">
+//<![CDATA[
+(function(){window.formatters = window.formatters || {}; var formatting_options = {"distance_date_intervals":[{"min":5,"i18n_key":"schwamm.just_now"},{"min":29,"i18n_key":"schwamm.less_than_a_minute_ago"},{"min":2640,"i18n_key":"schwamm.m_minutes_ago","count_key":"m"},{"min":82800,"i18n_key":"schwamm.about_h_hours_ago","count_key":"h"},{"min":604800,"i18n_key":"schwamm.d_days_ago","count_key":"d"},{"min":15552000,"i18n_key":"schwamm.on_datetime","count_key":"t"},{"min":0,"i18n_key":"schwamm.on_year","count_key":"y"}],"currency_symbol_mappings":{"AFN":"؋","ALL":"Lek","ARS":"$","AUD":"$","AWG":"ƒ","AZN":"ман","BAM":"KM","BBD":"$","BGN":"лв","BMD":"$","BND":"$","BOB":"$b","BRL":"R$","BSD":"$","BWP":"P","BYR":"p.","BZD":"BZ$","CAD":"$","CLP":"$","CNY":"¥","COP":"$","CRC":"₡","CUP":"₱","CZK":"Kč","DKK":"kr","DOP":"RD$","EGP":"£","EUR":"€","FJD":"$","FKP":"£","GBP":"£","GIP":"£","GTQ":"Q","GYD":"$","HKD":"$","HNL":"L","HRK":"kn","HUF":"Ft","IDR":"Rp","ILS":"₪","IRR":"﷼","ISK":"kr","JMD":"J$","JPY":"¥","KGS":"лв","KHR":"៛","KPW":"₩","KRW":"₩","KYD":"$","KZT":"лв","LAK":"₭","LBP":"£","LKR":"₨","LRD":"$","LTL":"Lt","LVL":"Ls","MKD":"ден","MNT":"₮","MUR":"₨","MXN":"$","MYR":"RM","MZN":"MT","NAD":"$","NGN":"₦","NIO":"C$","NOK":"kr","NPR":"₨","NZD":"$","OMR":"﷼","PAB":"B/.","PEN":"S/.","PHP":"₱","PKR":"₨","PLN":"zł","PYG":"Gs","QAR":"﷼","RON":"lei","RSD":"Дин.","RUB":"руб","SAR":"﷼","SBD":"$","SCR":"₨","SEK":"kr","SGD":"$","SHP":"£","SOS":"S","SRD":"$","SVC":"$","SYP":"£","THB":"฿","TRY":"TL","TTD":"TT$","TWD":"NT$","UAH":"₴","USD":"$","UYU":"$U","UZS":"лв","VEF":"Bs","VND":"₫","YER":"﷼","ZAR":"R"},"currency_trailing_code_mappings":{"AUD":true,"CAD":true,"DKK":true,"NOK":true,"NZD":true,"SEK":true,"USD":true},"currency_formats":["money","shorter_money"]}; for (key in formatting_options) {window.formatters[key] = formatting_options[key]};}());
+//]]>
+</script>
+<script>
+  //<![CDATA[
+    window.current_ip = '137.205.117.66';
+    window.current_ip_datacenter = 'false';
+    window.enabled_features = {"elasticsearch":true,"koala_tracking":true,"mixpanel_tracking":true,"security_history_read":true,"security_history_write":true,"redshift":true,"advanced_discovery_es":true,"ios_crashlytics":true,"ios_mixpanel":true,"ios_koala":true,"about_film":true,"handbook_hero":true,"ios_launch":true,"password_reset_banner":true,"play_page":true,"watch_page":true,"dim":true,"intl_shipping":true,"happening":true,"nyt_film":true};
+    window.fb_app_id = '69103156693';
+    
+    window.I18n = window.I18n || {};
+    
+    I18n.locale = 'en';
+    I18n.browser_language = '';
+    I18n.chosen_language = '';
+    I18n.calculated_language = '';
+    I18n.display_language = 'en';
+    
+    var _sf_startpt=(new Date()).getTime();
+    
+    window.current_project = "{&quot;id&quot;:836310732,&quot;name&quot;:&quot;FOX &amp; RABBIT: Brothers of the Heart - PRINT IT!!&quot;,&quot;blurb&quot;:&quot;Fox &amp; rabbit tale, journey of discovery  \\&quot;You don&#39; t have to be connected by blood to be connected at the heart.\\&quot;  Live animal photos&quot;,&quot;goal&quot;:1500.0,&quot;pledged&quot;:473.0,&quot;state&quot;:&quot;failed&quot;,&quot;slug&quot;:&quot;fox-and-rabbit-brothers-of-the-heart-print-it-0&quot;,&quot;disable_communication&quot;:false,&quot;country&quot;:&quot;US&quot;,&quot;currency&quot;:&quot;USD&quot;,&quot;currency_symbol&quot;:&quot;$&quot;,&quot;currency_trailing_code&quot;:true,&quot;deadline&quot;:1414598276,&quot;state_changed_at&quot;:1414598276,&quot;created_at&quot;:1392651142,&quot;launched_at&quot;:1412006276,&quot;backers_count&quot;:14,&quot;static_usd_rate&quot;:&quot;1.0&quot;,&quot;usd_pledged&quot;:&quot;473.0&quot;,&quot;photo&quot;:{&quot;full&quot;:&quot;https://d15chbti7ht62o.cloudfront.net/projects/873879/photo-full.jpg?1397868384&quot;,&quot;ed&quot;:&quot;https://d15chbti7ht62o.cloudfront.net/projects/873879/photo-ed.jpg?1397868384&quot;,&quot;med&quot;:&quot;https://d15chbti7ht62o.cloudfront.net/projects/873879/photo-med.jpg?1397868384&quot;,&quot;little&quot;:&quot;https://d15chbti7ht62o.cloudfront.net/projects/873879/photo-little.jpg?1397868384&quot;,&quot;small&quot;:&quot;https://d15chbti7ht62o.cloudfront.net/projects/873879/photo-small.jpg?1397868384&quot;,&quot;thumb&quot;:&quot;https://d15chbti7ht62o.cloudfront.net/projects/873879/photo-thumb.jpg?1397868384&quot;,&quot;1024x768&quot;:&quot;https://d15chbti7ht62o.cloudfront.net/projects/873879/photo-1024x768.jpg?1397868384&quot;,&quot;1536x1152&quot;:&quot;https://d15chbti7ht62o.cloudfront.net/projects/873879/photo-1536x1152.jpg?1397868384&quot;},&quot;creator&quot;:{&quot;id&quot;:412509415,&quot;name&quot;:&quot;Karin Fires&quot;,&quot;slug&quot;:&quot;wepublishing&quot;,&quot;avatar&quot;:{&quot;thumb&quot;:&quot;https://d15chbti7ht62o.cloudfront.net/avatars/8547526/Karin___Hiwawatha_01.thumb.jpg?1392666129&quot;,&quot;small&quot;:&quot;https://d15chbti7ht62o.cloudfront.net/avatars/8547526/Karin___Hiwawatha_01.small.jpg?1392666129&quot;,&quot;medium&quot;:&quot;https://d15chbti7ht62o.cloudfront.net/avatars/8547526/Karin___Hiwawatha_01.medium.jpg?1392666129&quot;},&quot;urls&quot;:{&quot;web&quot;:{&quot;user&quot;:&quot;https://www.kickstarter.com/profile/wepublishing&quot;},&quot;api&quot;:{&quot;user&quot;:&quot;https://api.kickstarter.com/v1/users/412509415?signature=1427246193.cfe3d2a3040d5b2e2f6698995945586364c8309a&quot;}}},&quot;location&quot;:{&quot;id&quot;:2482949,&quot;name&quot;:&quot;Rochester&quot;,&quot;slug&quot;:&quot;rochester-monroe-ny&quot;,&quot;short_name&quot;:&quot;Rochester, NY&quot;,&quot;displayable_name&quot;:&quot;Rochester, NY&quot;,&quot;country&quot;:&quot;US&quot;,&quot;state&quot;:&quot;NY&quot;,&quot;type&quot;:&quot;Town&quot;,&quot;is_root&quot;:false,&quot;urls&quot;:{&quot;web&quot;:{&quot;discover&quot;:&quot;https://www.kickstarter.com/discover/places/rochester-monroe-ny&quot;,&quot;location&quot;:&quot;https://www.kickstarter.com/locations/rochester-monroe-ny&quot;},&quot;api&quot;:{&quot;nearby_projects&quot;:&quot;https://api.kickstarter.com/v1/discover?signature=1427226690.3c8c8205805efde6f6a726457681c238a57b3d90&amp;woe_id=2482949&quot;}}},&quot;category&quot;:{&quot;id&quot;:46,&quot;name&quot;:&quot;Children&#39;s Books&quot;,&quot;slug&quot;:&quot;publishing/children&#39;s books&quot;,&quot;position&quot;:5,&quot;parent_id&quot;:18,&quot;urls&quot;:{&quot;web&quot;:{&quot;discover&quot;:&quot;http://www.kickstarter.com/discover/categories/publishing/children&#39;s%20books&quot;}}},&quot;urls&quot;:{&quot;web&quot;:{&quot;project&quot;:&quot;https://www.kickstarter.com/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0&quot;,&quot;rewards&quot;:&quot;https://www.kickstarter.com/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/rewards&quot;,&quot;project_short&quot;:&quot;http://kck.st/1oqd6Rc&quot;,&quot;updates&quot;:&quot;https://www.kickstarter.com/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/posts&quot;},&quot;api&quot;:{&quot;project&quot;:&quot;https://api.kickstarter.com/v1/projects/836310732?signature=1427246193.b539f2405be32bc6d07319c7a3e73a9760fc1a2e&quot;,&quot;comments&quot;:&quot;https://api.kickstarter.com/v1/projects/836310732/comments?signature=1427246193.a220404965044a593c196f015b5853deeb563e7e&quot;,&quot;updates&quot;:&quot;https://api.kickstarter.com/v1/projects/836310732/updates?signature=1427246194.2ccce49df9f51081f5ea33d2068dfbb134dc17cd&quot;}},&quot;updated_at&quot;:1414598276,&quot;failed_at&quot;:1414598276,&quot;video&quot;:null,&quot;comments_count&quot;:2,&quot;updates_count&quot;:0,&quot;rewards&quot;:[{&quot;id&quot;:0,&quot;minimum&quot;:1,&quot;reward&quot;:&quot;No Reward&quot;},{&quot;id&quot;:3219861,&quot;minimum&quot;:25.0,&quot;reward&quot;:&quot;E Book&quot;,&quot;description&quot;:&quot;E Book&quot;,&quot;shipping_enabled&quot;:false,&quot;estimated_delivery_on&quot;:1412121600,&quot;project_id&quot;:836310732,&quot;backers_count&quot;:2,&quot;updated_at&quot;:1414429064},{&quot;id&quot;:3219862,&quot;minimum&quot;:40.0,&quot;reward&quot;:&quot;Hard copy of the book&quot;,&quot;description&quot;:&quot;Hard copy of the book&quot;,&quot;shipping_enabled&quot;:true,&quot;shipping_preference&quot;:&quot;restricted&quot;,&quot;estimated_delivery_on&quot;:1412121600,&quot;project_id&quot;:836310732,&quot;backers_count&quot;:1,&quot;updated_at&quot;:1413880313},{&quot;id&quot;:3219863,&quot;minimum&quot;:150.0,&quot;reward&quot;:&quot;Hard copy of the book \\&quot;signed\\&quot; by fox, rabbit and author + T shirt (Blue shirt, Book covers front on the front, back on the back. Title on the front, last line of the book on the back.)&quot;,&quot;description&quot;:&quot;Hard copy of the book \\&quot;signed\\&quot; by fox, rabbit and author + T shirt (Blue shirt, Book covers front on the front, back on the back. Title on the front, last line of the book on the back.)&quot;,&quot;shipping_enabled&quot;:true,&quot;shipping_preference&quot;:&quot;restricted&quot;,&quot;estimated_delivery_on&quot;:1414800000,&quot;project_id&quot;:836310732,&quot;backers_count&quot;:2,&quot;updated_at&quot;:1413880313},{&quot;id&quot;:3219864,&quot;minimum&quot;:500.0,&quot;reward&quot;:&quot;Hard copy of the book \\&quot;signed\\&quot; by fox, rabbit and author + T shirt (Blue shirt, Book covers front on the front, back on the back. Title on the front, last line of the book on the back.)&quot;,&quot;description&quot;:&quot;Hard copy of the book \\&quot;signed\\&quot; by fox, rabbit and author + T shirt (Blue shirt, Book covers front on the front, back on the back. Title on the front, last line of the book on the back.)&quot;,&quot;shipping_enabled&quot;:true,&quot;shipping_preference&quot;:&quot;restricted&quot;,&quot;estimated_delivery_on&quot;:1414800000,&quot;project_id&quot;:836310732,&quot;backers_count&quot;:0,&quot;updated_at&quot;:1413880314}]}";
+    
+    
+    
+    window.current_location = "{&quot;id&quot;:39228,&quot;name&quot;:&quot;Warwick&quot;,&quot;slug&quot;:&quot;warwick-warwick-district-gb&quot;,&quot;short_name&quot;:&quot;Warwick, UK&quot;,&quot;displayable_name&quot;:&quot;Warwick, UK&quot;,&quot;country&quot;:&quot;GB&quot;,&quot;state&quot;:&quot;England&quot;,&quot;type&quot;:&quot;Town&quot;,&quot;is_root&quot;:false,&quot;urls&quot;:{&quot;web&quot;:{&quot;discover&quot;:&quot;https://www.kickstarter.com/discover/places/warwick-warwick-district-gb&quot;,&quot;location&quot;:&quot;https://www.kickstarter.com/locations/warwick-warwick-district-gb&quot;},&quot;api&quot;:{&quot;nearby_projects&quot;:&quot;https://api.kickstarter.com/v1/discover?signature=1427246194.e58e11e457204260a91586afa152d378a2c57387&amp;woe_id=39228&quot;}}}";
+    
+    
+    
+    window.timeRemaining = function timeRemaining(epochTime){
+    
+      var diff = epochTime - ((new Date()).getTime() / 1000);
+      var num_unit = (diff < 60 && [Math.max(diff, 0), 'seconds']) ||
+        ((diff/=60) < 60 && [diff, 'minutes']) ||
+        ((diff/=60) < 72 && [diff, 'hours']) ||
+        [diff/=24, 'days'];
+    
+      // Round down
+      num_unit[0] = Math.floor(num_unit[0]);
+      // Singularize unit
+      if (num_unit[0] == 1) { num_unit[1] = num_unit[1].replace(/s$/,""); }
+    
+      return num_unit;
+    };
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    window.current_variants = [];
+  //]]>
+</script>
+
+<script src="/locale/en.js"></script>
+
+<script>
+  //<![CDATA[
+    window.flash = "{}";
+  //]]>
+</script>
+
+<link href="http://kck.st/1oqd6Rc" rel="shorturl">
+<link href="https://www.kickstarter.com/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0" rel="canonical">
+<link href="https://ksr-ugc.imgix.net/projects/873879/photo-original.jpg?v=1397868384&amp;w=266&amp;h=200&amp;fit=crop&amp;auto=format&amp;q=92&amp;s=c8996104569483399aba7f7caa399243" rel="image_src">
+<script>
+  //<![CDATA[
+    if (typeof window.current_checkout === 'undefined') {
+      window.current_checkout = "{&quot;id&quot;:0,&quot;location_id&quot;:23424975,&quot;amount&quot;:0.0,&quot;shipping_amount&quot;:0.0,&quot;updated_at&quot;:0,&quot;created_at&quot;:0}";
+    }
+  //]]>
+</script>
+
+
+
+<body class="project projects not-mobile not-phone not-forces-video-controls not-tablet not-ipad not-iphone not-ios not-android not-touchable not-native-app-request not-apple-pay-capable responsive" id="projects_show">
+<header class="border-bottom" id="navbar">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"b04b883ad2","applicationID":"11086","transactionName":"cFteRUULX1wHFhtIEFxeVVJDFxxDCgtD","queueTime":3,"applicationTime":236,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-627.min.js","userAttributes":"SEk="}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw4BVEVSCQMIUg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<a href="/" id="ks_logo">
+<h1>
+Kickstarter
+</h1>
+</a>
+<nav>
+<ul>
+<li class="dropdown_link">
+<a class="discover fastclick" href="#discover_dropdown">
+<span class="ss-icon ss-search"></span>
+</a>
+</li>
+<li class="dropdown_link">
+<a href="/login">Log in</a>
+</li>
+</ul>
+</nav>
+<div class="dropdown_list" id="discover_dropdown">
+<form accept-charset="UTF-8" action="/projects/search" class="search overlabels" method="get"><div style="margin:0;padding:0;display:inline"><input class="hidden" name="utf8" type="hidden" value="&#x2713;" /></div>
+<div class="field search">
+<span class="ss-icon ss-search z1"></span>
+<input class="input-search full-width header text" data-tracker-name="Header Live Search" id="term" name="term" placeholder="Search projects" type="text" />
+<input class="btn btn--green hidden submit" name="commit" type="submit" value="Go" />
+</div>
+</form>
+
+<h4 class="mb1">Discover by...</h4>
+<ul class="featured">
+<li class="staff_picks">
+<a href="/discover/recommended"><span class="ss-icon ss-social ss-kickstarter"></span>
+Staff Picks
+</a></li>
+<li class="popular">
+<a href="/discover/popular"><div class="icon_popular"></div>
+<br>
+Popular
+</a></li>
+<li class="nearby">
+<a href="/discover/places/warwick-warwick-district-gb/recommended"><span class="ss-icon ss-location"></span>
+Nearby
+</a></li>
+</ul>
+<h4>Browse categories</h4>
+<ul class="navigation categories">
+<li>
+<a href="/discover/categories/art?ref=dropdown">Art
+<span class="count right">
+614
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/comics?ref=dropdown">Comics
+<span class="count right">
+190
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/crafts?ref=dropdown">Crafts
+<span class="count right">
+295
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/dance?ref=dropdown">Dance
+<span class="count right">
+95
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/design?ref=dropdown">Design
+<span class="count right">
+631
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/fashion?ref=dropdown">Fashion
+<span class="count right">
+527
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/film%20&amp;%20video?ref=dropdown">Film & Video
+<span class="count right">
+1,159
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/food?ref=dropdown">Food
+<span class="count right">
+716
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/games?ref=dropdown">Games
+<span class="count right">
+661
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/journalism?ref=dropdown">Journalism
+<span class="count right">
+192
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/music?ref=dropdown">Music
+<span class="count right">
+1,051
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/photography?ref=dropdown">Photography
+<span class="count right">
+258
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/publishing?ref=dropdown">Publishing
+<span class="count right">
+774
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/technology?ref=dropdown">Technology
+<span class="count right">
+1,027
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/theater?ref=dropdown">Theater
+<span class="count right">
+185
+</span>
+</a></li>
+</ul>
+<li>
+<a href="/discover/categories/art?ref=dropdown">Art
+<span class="count right">
+614
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/comics?ref=dropdown">Comics
+<span class="count right">
+190
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/crafts?ref=dropdown">Crafts
+<span class="count right">
+295
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/dance?ref=dropdown">Dance
+<span class="count right">
+95
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/design?ref=dropdown">Design
+<span class="count right">
+631
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/fashion?ref=dropdown">Fashion
+<span class="count right">
+527
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/film%20&amp;%20video?ref=dropdown">Film & Video
+<span class="count right">
+1,159
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/food?ref=dropdown">Food
+<span class="count right">
+716
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/games?ref=dropdown">Games
+<span class="count right">
+661
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/journalism?ref=dropdown">Journalism
+<span class="count right">
+192
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/music?ref=dropdown">Music
+<span class="count right">
+1,051
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/photography?ref=dropdown">Photography
+<span class="count right">
+258
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/publishing?ref=dropdown">Publishing
+<span class="count right">
+774
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/technology?ref=dropdown">Technology
+<span class="count right">
+1,027
+</span>
+</a></li>
+<li>
+<a href="/discover/categories/theater?ref=dropdown">Theater
+<span class="count right">
+185
+</span>
+</a></li>
+
+</div>
+</header>
+
+<main role="main">
+
+
+
+<div class="center jGrowl" id="growl_section"></div><div class="Project836310732_cxt Project-state-failed Project-is_starred- Project-ended-true" id="main_content">
+<div id="content-wrap">
+<div class="ksr-popover z3" data-target-id="#project_share">
+<div class="arrow arrow-grey"></div>
+<div class="arrow arrow-white"></div>
+<div class="ksr-popover-title bg-grey-light full-width border-box">
+<h4 class="mb0">Share this project</h4>
+<div class="close fastclick btn btn--gray btn--small">Done</div>
+</div>
+<div class="share_actions px1_2">
+<ul class="list row">
+<li class="twitter left mobile-col-4 px1_2 border-box">
+<a class="button button_twitter button_block button_small " href="https://twitter.com/intent/tweet?text=Check%20out%20FOX%20%26amp%3B%20RABBIT%3A%20Brothers%20of%20the%20Heart%20-%20PRINT%20IT%21%21%20by%20Karin%20Fires%20on%20%40Kickstarter&amp;url=http%3A%2F%2Fkck.st%2F1oqd6Rc" rel="nofollow" target="_blank" title="Tweet"><span class="ss-icon ss-social ss-twitter"></span>
+Tweet
+</a></li>
+<li class="fb left mobile-col-4 px1_2 border-box">
+<a class="button button_facebook button_block button_small " href="https://www.facebook.com/share.php?u=http%3A%2F%2Fkck.st%2F1oqd6Rc&amp;t=FOX%20%26%20RABBIT%3A%20Brothers%20of%20the%20Heart%20-%20PRINT%20IT%21%21&amp;v=4" rel="nofollow" target="_blank" title="Share on Facebook"><span class="ss-icon ss-social ss-facebook"></span>
+Share
+</a></li>
+<li class="email left mobile-col-4 px1_2 border-box">
+<a class="btn btn--gray btn--small btn--block" href="mailto:?body=%0A%0A%20%20%20%20%20%20FOX%20%26%20RABBIT%3A%20Brothers%20of%20the%20Heart%20-%20PRINT%20IT%21%21%0A%0A%20%20%20%20%20%20https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Fwepublishing%2Ffox-and-rabbit-brothers-of-the-heart-print-it-0%0A%20%20%20%20"><span class="ss-icon ss-mail"></span>
+Email
+</a></li>
+</ul>
+</div>
+
+</div>
+<div class="ksr-popover z3" data-target-id="#project_share_mobile">
+<div class="arrow arrow-grey"></div>
+<div class="arrow arrow-white"></div>
+<div class="ksr-popover-title bg-grey-light full-width border-box">
+<h4 class="mb0">Share this project</h4>
+<div class="close fastclick btn btn--gray btn--small">Done</div>
+</div>
+<div class="pt2">
+<a class="btn btn--twitter btn--block mb1" href="https://twitter.com/intent/tweet?text=Check%20out%20FOX%20%26amp%3B%20RABBIT%3A%20Brothers%20of%20the%20Heart%20-%20PRINT%20IT%21%21%20by%20Karin%20Fires%20on%20%40Kickstarter&amp;url=http%3A%2F%2Fkck.st%2F1oqd6Rc" rel="nofollow" target="_blank" title="Tweet"><span class="ss-icon ss-social ss-twitter"></span>
+Tweet
+</a><a class="btn btn--facebook btn--block mb1" href="https://www.facebook.com/share.php?u=http%3A%2F%2Fkck.st%2F1oqd6Rc&amp;t=FOX%20%26%20RABBIT%3A%20Brothers%20of%20the%20Heart%20-%20PRINT%20IT%21%21&amp;v=4" rel="nofollow" target="_blank" title="Share on Facebook"><span class="ss-icon ss-social ss-facebook"></span>
+Share
+</a><a class="btn btn--gray btn--block" href="mailto:?body=%0A%0A%20%20%20%20%20%20FOX%20%26%20RABBIT%3A%20Brothers%20of%20the%20Heart%20-%20PRINT%20IT%21%21%0A%0A%20%20%20%20%20%20https%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Fwepublishing%2Ffox-and-rabbit-brothers-of-the-heart-print-it-0%0A%20%20%20%20"><span class="ss-icon ss-mail"></span>
+Email
+</a></div>
+</div>
+
+<section class="NS_projects__hero_funding bg-grey-light">
+<!-- / Hide this on mobile since we want the video to be at the top -->
+<div class="mobile-hide py4 px2">
+<div class="NS_projects__header center">
+<h2 class="normal mb1"><a class="green-dark" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0">FOX &amp; RABBIT: Brothers of the Heart - PRINT IT!!</a></h2>
+<p class="green-dark h5 mb0 mobile-show">
+by <b><a class="green-dark" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/creator_bio">Karin Fires</a></b>
+</p>
+<p class="green-dark h5 mb0 mobile-hide">
+by <b><a class="remote_modal_dialog green-dark" data-modal-class="modal_project_by" data-modal-title="About the creator" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/creator_bio">Karin Fires</a></b>
+</p>
+</div>
+
+</div>
+<div class="container-flex px2">
+<div class="row">
+<div class="table">
+<div class="table-cell col-8 px-gutter">
+<div class="project-image" data-has-video="false" id="video-section">
+<img alt="Photo original" class="fit" src="https://ksr-ugc.imgix.net/projects/873879/photo-original.jpg?v=1397868384&amp;w=1024&amp;h=768&amp;fit=crop&amp;auto=format&amp;q=92&amp;s=67f09dc337f9af6c05194a274bc19fa9" />
+</div>
+
+</div>
+<div class="table-cell col-4 px-gutter">
+<!-- / Adding some markup here allows us to more closely replicate the mobile show template -->
+<div class="mobile-show mobile-center">
+<div class="py2">
+<div class="NS_projects__header center">
+<h2 class="normal mb1"><a class="green-dark" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0">FOX &amp; RABBIT: Brothers of the Heart - PRINT IT!!</a></h2>
+<p class="green-dark h5 mb0 mobile-show">
+by <b><a class="green-dark" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/creator_bio">Karin Fires</a></b>
+</p>
+<p class="green-dark h5 mb0 mobile-hide">
+by <b><a class="remote_modal_dialog green-dark" data-modal-class="modal_project_by" data-modal-title="About the creator" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/creator_bio">Karin Fires</a></b>
+</p>
+</div>
+
+</div>
+<p class="h5">
+Fox &amp; rabbit tale, journey of discovery  &quot;You don&#39; t have to be connected by blood to be connected at the heart.&quot;  Live animal photos
+<a class="bold fastclick h5 nowrap" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/description">
+Read more
+</a>
+</p>
+<div class="h5 mb2">
+<a class="grey-dark mr3 nowrap" href="/discover/places/rochester-monroe-ny?ref=city"><span class="ss-icon ss-location margin-right"></span>
+<b>Rochester, NY</b>
+</a><a class="grey-dark mr3 nowrap" href="/discover/categories/publishing/children&#39;s%20books?ref=category"><span class="ss-icon ss-tag margin-right"></span>
+<b>Children's Books</b>
+</a>
+<div class="btn btn--border-gray btn--small mt2" href="#" id="project_share_mobile">Share this project</div>
+</div>
+</div>
+<div class="NS_projects__stats">
+<div class="mobile-show border-top mb1"></div>
+<div class="digits_3" id="stats">
+<div class="row ellipsis mobile-center">
+<div class="col col-12 stat mb1 mobile-inline-block mobile-left-align">
+<div class="num h1 bold" data-backers-count="14" id="backers_count"><data class="Project836310732" data-format="number" data-value="14" itemprop="Project[backers_count]">14</data></div>
+<span class="bold h5">backers</span>
+</div>
+<div class="col col-12 stat mb1 mobile-inline-block mobile-left-align">
+<div class="num h1 bold nowrap" data-goal="1500.0" data-percent-raised="0.315333333333333333" data-pledged="473.0" id="pledged">
+<data class="Project836310732" data-currency="USD" data-format="shorter_money" data-precision="0" data-value="473" data-without_code="true" itemprop="Project[pledged]">$473</data>
+<span class="money usd project_currency_code"></span>
+</div>
+<span class="bold h5">
+pledged of <span class="money usd no-code">$1,500</span> <span class="mobile-hide">goal</span>
+</span>
+</div>
+<span data-duration="30.0" data-end_time="2014-10-29T11:57:56-04:00" data-hours-remaining="0" id="project_duration_data"></span>
+<div class="col col-12 mobile-inline-block mobile-left-align">
+<div class="Project836310732" data-conditions="[{&quot;!state&quot;:[&quot;canceled&quot;,&quot;suspended&quot;]}]" data-evaluation="true" data-render="&quot;&lt;div class=\&quot;stat\&quot;&gt;\n&lt;div class=\&quot;num h1 bold\&quot;&gt;0&lt;/div&gt;&lt;span class=\&quot;text bold h5\&quot;&gt;seconds to go&lt;/span&gt;\n&lt;/div&gt;\n&quot;"><div class="stat">
+<div class="num h1 bold">0</div><span class="text bold h5">seconds to go</span>
+</div>
+</div></div>
+</div>
+</div>
+<div class="mobile-show border-top"></div>
+</div>
+
+<!-- / Only renders for non live projects -->
+<div class="Project836310732" data-conditions="[{&quot;!state&quot;:&quot;live&quot;}]" data-evaluation="true" data-render="&quot;&lt;div class=\&quot;NS_projects__funding_bar Project-ended-true Project-is_starred- Project-state-failed Project836310732_cxt pb2 pt2\&quot;&gt;\n&lt;div class=\&quot;Project836310732\&quot; data-conditions=\&quot;[{&amp;quot;state&amp;quot;:&amp;quot;successful&amp;quot;}]\&quot; data-evaluation=\&quot;false\&quot; data-render=\&quot;&amp;quot;&amp;lt;div class=\\&amp;quot;border-left-thick border-green pl2 py2\\&amp;quot;&amp;gt;\\n&amp;lt;h3 class=\\&amp;quot;normal mb1\\&amp;quot;&amp;gt;Funded!&amp;lt;/h3&amp;gt;\\n&amp;lt;p class=\\&amp;quot;mb0 h5\\&amp;quot;&amp;gt;\\nThis project was successfully funded &amp;lt;data class=\\&amp;quot;Project836310732\\&amp;quot; data-format=\\&amp;quot;distance_date\\&amp;quot; data-value=\\&amp;quot;&amp;amp;quot;2014-10-29T11:57:56-04:00&amp;amp;quot;\\&amp;quot; itemprop=\\&amp;quot;Project[deadline]\\&amp;quot;&amp;gt;on October 29&amp;lt;/data&amp;gt;.\\n&amp;lt;/p&amp;gt;\\n&amp;lt;/div&amp;gt;\\n&amp;quot;\&quot;&gt;&lt;/div&gt;&lt;div class=\&quot;Project836310732\&quot; data-conditions=\&quot;[{&amp;quot;state&amp;quot;:[&amp;quot;started&amp;quot;,&amp;quot;submitted&amp;quot;]}]\&quot; data-evaluation=\&quot;false\&quot; data-render=\&quot;&amp;quot;&amp;lt;div class=\\&amp;quot;border-left-thick border-grey pl2 py2\\&amp;quot;&amp;gt;\\n&amp;lt;h3 class=\\&amp;quot;normal mb1\\&amp;quot;&amp;gt;THIS PROJECT IS NOT LIVE&amp;lt;/h3&amp;gt;\\n&amp;lt;p class=\\&amp;quot;mb0 h5\\&amp;quot;&amp;gt;\\nThis is only a draft that the creator has chosen to share.\\n&amp;lt;/p&amp;gt;\\n&amp;lt;/div&amp;gt;\\n&amp;quot;\&quot;&gt;&lt;/div&gt;&lt;div class=\&quot;Project836310732\&quot; data-conditions=\&quot;[{&amp;quot;state&amp;quot;:&amp;quot;suspended&amp;quot;}]\&quot; data-evaluation=\&quot;false\&quot; data-render=\&quot;&amp;quot;&amp;lt;div class=\\&amp;quot;border-left-thick border-grey pl2 py2\\&amp;quot;&amp;gt;\\n&amp;lt;h3 class=\\&amp;quot;normal mb1\\&amp;quot;&amp;gt;Funding Suspended&amp;lt;/h3&amp;gt;\\n&amp;lt;p class=\\&amp;quot;mb0 h5\\&amp;quot;&amp;gt;\\nFunding for this project was suspended by Kickstarter &amp;lt;data class=\\&amp;quot;Project836310732\\&amp;quot; data-format=\\&amp;quot;distance_date\\&amp;quot; data-value=\\&amp;quot;&amp;amp;quot;2014-10-29T11:57:56-04:00&amp;amp;quot;\\&amp;quot; itemprop=\\&amp;quot;Project[state_changed_at]\\&amp;quot;&amp;gt;on October 29&amp;lt;/data&amp;gt;.\\n&amp;lt;/p&amp;gt;\\n&amp;lt;/div&amp;gt;\\n&amp;quot;\&quot;&gt;&lt;/div&gt;&lt;div class=\&quot;Project836310732\&quot; data-conditions=\&quot;[{&amp;quot;state&amp;quot;:&amp;quot;canceled&amp;quot;}]\&quot; data-evaluation=\&quot;false\&quot; data-render=\&quot;&amp;quot;&amp;lt;div class=\\&amp;quot;border-left-thick border-grey pl2 py2\\&amp;quot;&amp;gt;\\n&amp;lt;h3 class=\\&amp;quot;normal mb1\\&amp;quot;&amp;gt;Funding Canceled&amp;lt;/h3&amp;gt;\\n&amp;lt;p class=\\&amp;quot;mb0 h5\\&amp;quot;&amp;gt;\\nFunding for this project was canceled by the project creator &amp;lt;data class=\\&amp;quot;Project836310732\\&amp;quot; data-format=\\&amp;quot;distance_date\\&amp;quot; data-value=\\&amp;quot;&amp;amp;quot;2014-10-29T11:57:56-04:00&amp;amp;quot;\\&amp;quot; itemprop=\\&amp;quot;Project[state_changed_at]\\&amp;quot;&amp;gt;on October 29&amp;lt;/data&amp;gt;.\\n&amp;lt;/p&amp;gt;\\n&amp;lt;/div&amp;gt;\\n&amp;quot;\&quot;&gt;&lt;/div&gt;&lt;div class=\&quot;Project836310732\&quot; data-conditions=\&quot;[{&amp;quot;state&amp;quot;:&amp;quot;failed&amp;quot;}]\&quot; data-evaluation=\&quot;true\&quot; data-render=\&quot;&amp;quot;&amp;lt;div class=\\&amp;quot;border-left-thick border-grey pl2 py2\\&amp;quot;&amp;gt;\\n&amp;lt;h3 class=\\&amp;quot;normal mb1\\&amp;quot;&amp;gt;Funding Unsuccessful&amp;lt;/h3&amp;gt;\\n&amp;lt;p class=\\&amp;quot;mb0 h5\\&amp;quot;&amp;gt;\\nThis project&amp;#39;s funding goal was\\n&amp;lt;/p&amp;gt;\\n&amp;lt;/div&amp;gt;\\n&amp;quot;\&quot;&gt;&lt;div class=\&quot;border-left-thick border-grey pl2 py2\&quot;&gt;\n&lt;h3 class=\&quot;normal mb1\&quot;&gt;Funding Unsuccessful&lt;/h3&gt;\n&lt;p class=\&quot;mb0 h5\&quot;&gt;\nThis project&#39;s funding goal was\n&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;&lt;div class=\&quot;Project836310732\&quot; data-conditions=\&quot;[{&amp;quot;state&amp;quot;:&amp;quot;purged&amp;quot;}]\&quot; data-evaluation=\&quot;false\&quot; data-render=\&quot;&amp;quot;&amp;lt;div class=\\&amp;quot;border-left-thick border-red pl2 py2\\&amp;quot;&amp;gt;\\n&amp;lt;p class=\\&amp;quot;mb0 bold\\&amp;quot;&amp;gt;This project is purged and only visible to staff.&amp;lt;/p&amp;gt;\\n&amp;lt;/div&amp;gt;\\n&amp;quot;\&quot;&gt;&lt;/div&gt;&lt;/div&gt;\n&quot;"><div class="NS_projects__funding_bar Project-ended-true Project-is_starred- Project-state-failed Project836310732_cxt pb2 pt2">
+<div class="Project836310732" data-conditions="[{&quot;state&quot;:&quot;successful&quot;}]" data-evaluation="false" data-render="&quot;&lt;div class=\&quot;border-left-thick border-green pl2 py2\&quot;&gt;\n&lt;h3 class=\&quot;normal mb1\&quot;&gt;Funded!&lt;/h3&gt;\n&lt;p class=\&quot;mb0 h5\&quot;&gt;\nThis project was successfully funded &lt;data class=\&quot;Project836310732\&quot; data-format=\&quot;distance_date\&quot; data-value=\&quot;&amp;quot;2014-10-29T11:57:56-04:00&amp;quot;\&quot; itemprop=\&quot;Project[deadline]\&quot;&gt;on October 29&lt;/data&gt;.\n&lt;/p&gt;\n&lt;/div&gt;\n&quot;"></div><div class="Project836310732" data-conditions="[{&quot;state&quot;:[&quot;started&quot;,&quot;submitted&quot;]}]" data-evaluation="false" data-render="&quot;&lt;div class=\&quot;border-left-thick border-grey pl2 py2\&quot;&gt;\n&lt;h3 class=\&quot;normal mb1\&quot;&gt;THIS PROJECT IS NOT LIVE&lt;/h3&gt;\n&lt;p class=\&quot;mb0 h5\&quot;&gt;\nThis is only a draft that the creator has chosen to share.\n&lt;/p&gt;\n&lt;/div&gt;\n&quot;"></div><div class="Project836310732" data-conditions="[{&quot;state&quot;:&quot;suspended&quot;}]" data-evaluation="false" data-render="&quot;&lt;div class=\&quot;border-left-thick border-grey pl2 py2\&quot;&gt;\n&lt;h3 class=\&quot;normal mb1\&quot;&gt;Funding Suspended&lt;/h3&gt;\n&lt;p class=\&quot;mb0 h5\&quot;&gt;\nFunding for this project was suspended by Kickstarter &lt;data class=\&quot;Project836310732\&quot; data-format=\&quot;distance_date\&quot; data-value=\&quot;&amp;quot;2014-10-29T11:57:56-04:00&amp;quot;\&quot; itemprop=\&quot;Project[state_changed_at]\&quot;&gt;on October 29&lt;/data&gt;.\n&lt;/p&gt;\n&lt;/div&gt;\n&quot;"></div><div class="Project836310732" data-conditions="[{&quot;state&quot;:&quot;canceled&quot;}]" data-evaluation="false" data-render="&quot;&lt;div class=\&quot;border-left-thick border-grey pl2 py2\&quot;&gt;\n&lt;h3 class=\&quot;normal mb1\&quot;&gt;Funding Canceled&lt;/h3&gt;\n&lt;p class=\&quot;mb0 h5\&quot;&gt;\nFunding for this project was canceled by the project creator &lt;data class=\&quot;Project836310732\&quot; data-format=\&quot;distance_date\&quot; data-value=\&quot;&amp;quot;2014-10-29T11:57:56-04:00&amp;quot;\&quot; itemprop=\&quot;Project[state_changed_at]\&quot;&gt;on October 29&lt;/data&gt;.\n&lt;/p&gt;\n&lt;/div&gt;\n&quot;"></div><div class="Project836310732" data-conditions="[{&quot;state&quot;:&quot;failed&quot;}]" data-evaluation="true" data-render="&quot;&lt;div class=\&quot;border-left-thick border-grey pl2 py2\&quot;&gt;\n&lt;h3 class=\&quot;normal mb1\&quot;&gt;Funding Unsuccessful&lt;/h3&gt;\n&lt;p class=\&quot;mb0 h5\&quot;&gt;\nThis project&#39;s funding goal was\n&lt;/p&gt;\n&lt;/div&gt;\n&quot;"><div class="border-left-thick border-grey pl2 py2">
+<h3 class="normal mb1">Funding Unsuccessful</h3>
+<p class="mb0 h5">
+This project's funding goal was
+</p>
+</div>
+</div><div class="Project836310732" data-conditions="[{&quot;state&quot;:&quot;purged&quot;}]" data-evaluation="false" data-render="&quot;&lt;div class=\&quot;border-left-thick border-red pl2 py2\&quot;&gt;\n&lt;p class=\&quot;mb0 bold\&quot;&gt;This project is purged and only visible to staff.&lt;/p&gt;\n&lt;/div&gt;\n&quot;"></div></div>
+</div>
+<!-- / Back manage and star buttons -->
+<div class="NS_projects__back_and_star">
+<div class="Project836310732" data-conditions="[{&quot;state&quot;:&quot;live&quot;},{&quot;!ended?&quot;:true}]" data-evaluation="false" data-render="&quot;&lt;div class=\&quot;inline-block mobile-hide\&quot;&gt;\n&lt;a class=\&quot;btn btn--green btn--large\&quot; href=\&quot;/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/pledge/new?clicked_reward=false\&quot; id=\&quot;button-back-this-proj\&quot; title=\&quot;Back this project\&quot;&gt;Back This Project&lt;/a&gt;\n&lt;/div&gt;\n&lt;div class=\&quot;mobile-show\&quot;&gt;\n&lt;a class=\&quot;btn btn--green btn--block\&quot; href=\&quot;/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/pledge/new?clicked_reward=false\&quot; id=\&quot;button-back-this-proj\&quot; title=\&quot;Back this project\&quot;&gt;Back This Project&lt;/a&gt;\n&lt;/div&gt;\n&lt;div class=\&quot;align-middle inline-block pl1 mobile-hide\&quot;&gt;&lt;/div&gt;\n&lt;div class=\&quot;ajax-container inline-block align-middle mobile-block py1\&quot; id=\&quot;watching-widget\&quot;&gt;\n&lt;div class=\&quot;Project836310732\&quot; data-conditions=\&quot;[{&amp;quot;is_starred&amp;quot;:true}]\&quot; data-evaluation=\&quot;false\&quot; data-render=\&quot;&amp;quot;&amp;lt;div id=\\&amp;quot;unwatch\\&amp;quot;&amp;gt;\\n&amp;lt;a class=\\&amp;quot;on green mobile-hide h5 bold\\&amp;quot; href=\\&amp;quot;/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/unwatch\\&amp;quot;&amp;gt;&amp;lt;span class=\\&amp;quot;ss-icon ss-star margin-right\\&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;\\n&amp;lt;/a&amp;gt;&amp;lt;a class=\\&amp;quot;mobile-show btn btn--border-green btn--block\\&amp;quot; href=\\&amp;quot;/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/watch\\&amp;quot;&amp;gt;\\n&amp;lt;span class=\\&amp;quot;ss-icon ss-star\\&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;\\nRemind me\\n&amp;lt;/a&amp;gt;\\n&amp;lt;/div&amp;gt;\\n\\n&amp;quot;\&quot;&gt;&lt;/div&gt;&lt;div class=\&quot;Project836310732\&quot; data-conditions=\&quot;[{&amp;quot;!is_starred&amp;quot;:true}]\&quot; data-evaluation=\&quot;true\&quot; data-render=\&quot;&amp;quot;&amp;lt;div class=\\&amp;quot;mobile-hide\\&amp;quot; id=\\&amp;quot;watch\\&amp;quot;&amp;gt;\\n&amp;lt;a class=\\&amp;quot;grey-dark mobile-hide h5 bold\\&amp;quot; href=\\&amp;quot;/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/watch\\&amp;quot;&amp;gt;&amp;lt;span class=\\&amp;quot;ss-icon ss-star margin-right\\&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;\\n&amp;lt;span class=\\&amp;quot;text\\&amp;quot;&amp;gt;\\n&amp;lt;/span&amp;gt;\\n&amp;lt;/a&amp;gt;&amp;lt;a class=\\&amp;quot;mobile-show btn btn--border-gray\\&amp;quot; href=\\&amp;quot;/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/watch\\&amp;quot;&amp;gt;\\n&amp;lt;span class=\\&amp;quot;ss-icon ss-star\\&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;\\n&amp;lt;span class=\\&amp;quot;text\\&amp;quot;&amp;gt;\\n&amp;lt;/span&amp;gt;\\n&amp;lt;/a&amp;gt;\\n&amp;lt;/div&amp;gt;\\n\\n&amp;quot;\&quot;&gt;&lt;div class=\&quot;mobile-hide\&quot; id=\&quot;watch\&quot;&gt;\n&lt;a class=\&quot;grey-dark mobile-hide h5 bold\&quot; href=\&quot;/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/watch\&quot;&gt;&lt;span class=\&quot;ss-icon ss-star margin-right\&quot;&gt;&lt;/span&gt;\n&lt;span class=\&quot;text\&quot;&gt;\n&lt;/span&gt;\n&lt;/a&gt;&lt;a class=\&quot;mobile-show btn btn--border-gray\&quot; href=\&quot;/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/watch\&quot;&gt;\n&lt;span class=\&quot;ss-icon ss-star\&quot;&gt;&lt;/span&gt;\n&lt;span class=\&quot;text\&quot;&gt;\n&lt;/span&gt;\n&lt;/a&gt;\n&lt;/div&gt;\n\n&lt;/div&gt;&lt;/div&gt;\n&quot;"></div></div>
+
+<!-- / This project will only be funded if... -->
+<div class="NS_projects__deadline_copy">
+<div class="Project836310732" data-conditions="[{&quot;state&quot;:&quot;live&quot;}]" data-evaluation="false" data-render="&quot;&lt;p class=\&quot;h6 grey-dark mb0\&quot;&gt;\nThis project will only be funded if at least &lt;span class=\&quot;money usd \&quot;&gt;$1,500&lt;/span&gt; is pledged by &lt;time class=\&quot;invisible-if-js js-adjust-time\&quot; data-format=\&quot;llll z\&quot; datetime=\&quot;2014-10-29T11:57:56-04:00\&quot;&gt;Wed, Oct 29 2014 11:57 am EDT&lt;/time&gt;.\n&lt;/p&gt;\n&quot;"></div></div>
+
+<!-- / Social avatars -->
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col col-8 py4">
+<div class="mobile-hide">
+<p class="h3 mb3">
+Fox &amp; rabbit tale, journey of discovery  &quot;You don&#39; t have to be connected by blood to be connected at the heart.&quot;  Live animal photos
+</p>
+<div class="h5">
+<a class="grey-dark mr3 nowrap" href="/discover/places/rochester-monroe-ny?ref=city"><span class="ss-icon ss-location margin-right"></span>
+<b>Rochester, NY</b>
+</a><a class="grey-dark mr3 nowrap" href="/discover/categories/publishing/children&#39;s%20books?ref=category"><span class="ss-icon ss-tag margin-right"></span>
+<b>Children's Books</b>
+</a>
+<div class="btn btn--border-gray btn--small" href="#" id="project_share">Share this project</div>
+</div>
+</div>
+</div>
+<div class="col col-4">
+<div class="border-top py4">
+<div class="row clip">
+<div class="NS_projects__creator">
+<div class="col-right col-4 align-right mobile-center pr2 border-box">
+<div class="mobile-hide"><a class="remote_modal_dialog" data-modal-class="modal_project_by" data-modal-title="About the creator" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/creator_bio"><img alt="" class="avatar-small circle" height="80" src="https://ksr-ugc.imgix.net/avatars/8547526/Karin___Hiwawatha_01.original.JPG?v=1392666129&amp;w=80&amp;h=80&amp;fit=crop&amp;auto=format&amp;q=92&amp;s=035336beb46c8813a8dc6762a1794263" width="80" /></a></div>
+<div class="mobile-show"><a href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/creator_bio"><img alt="" class="avatar-small circle" height="80" src="https://ksr-ugc.imgix.net/avatars/8547526/Karin___Hiwawatha_01.original.JPG?v=1392666129&amp;w=80&amp;h=80&amp;fit=crop&amp;auto=format&amp;q=92&amp;s=035336beb46c8813a8dc6762a1794263" width="80" /></a></div>
+</div>
+<div class="col col-8">
+<h5 class="mobile-hide"><a class="remote_modal_dialog green-dark" data-modal-class="modal_project_by" data-modal-title="About the creator" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/creator_bio">Karin Fires</a></h5>
+<div class="mobile-show center py1">
+<h5 class="mb1">Project by <h3 class="normal mb0"><a class="green-dark" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/creator_bio">Karin Fires</a></h3></h5>
+</div>
+<div class="flag mobile-hide">
+<div class="flag-img">
+<span class="ss-social-circle ss-kickstarter h6 grey-dark"></span>
+</div>
+<div class="flag-body">
+<p class="h5 mb0">
+<span class="inline-block">
+<a class="grey-dark bold remote_modal_dialog" data-modal-title="Projects created by Karin Fires" href="/profile/wepublishing/created">2 created</a>
+<span class="grey-dark">&nbsp;|&nbsp;</span>
+</span>
+<span class="inline-block">
+<a class="grey-dark bold remote_modal_dialog" data-modal-title="Projects backed by Karin Fires" href="/profile/wepublishing/backed">11 backed</a>
+</span>
+</p>
+</div>
+</div>
+<div class="mb1 mobile-hide">
+<div class="flag">
+<div class="flag-img">
+<span class="ss-icon ss-globe h6 grey-dark"></span>
+</div>
+<div class="flag-body">
+<p class="h5 mb0 grey-dark ellipsis">
+<a class="bold grey-dark popup" href="http://www.wildlifeeducatorscoalition.com" rel="nofollow" target="_blank">wildlifeeducatorscoali...</a>
+</p>
+</div>
+</div>
+</div>
+<p class="h5 bold mobile-hide">
+<a class="remote_modal_dialog full_bio mr2" data-modal-class="modal_project_by" data-modal-title="About the creator" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/creator_bio">See full bio</a>
+<a class="remote_modal_dialog message_creator_modal_link" data-modal-class="modal_send_message" data-modal-title="Send a message to Karin Fires" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/messages/new?message%5Bto%5D=wepublishing">Contact me</a>
+
+</p>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<div class="NS_projects__project_nav">
+<section class="js-project-nav project-nav border-top border-bottom full-width bg-white z3 clip" data-0="position:static;" data-top-top="position:fixed; top:0;">
+<div class="container-flex px2 relative mobile-scroll-container mobile-center">
+<div class="nav-wrapper table relative">
+<div class="table-cell">
+<div class="selected-indicator js-selected-indicator transition-all-bezier"></div>
+<ul class="list clearfix mb0 h5 bold nowrap">
+<li class="mr4 mobile-show left mobile-clear mobile-inline-block">
+<a class="js-load-project-content pt3 pb3 green-dark inline-block js-load-project-rewards " data-content="rewards" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/rewards" id="home_nav">Rewards</a>
+</li>
+<li class="mr4 left mobile-clear mobile-inline-block">
+<a class="js-load-project-content pt3 pb3 green-dark inline-block js-load-project-description current" data-content="description" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/description" id="home_nav">Story</a>
+</li>
+<li class="mr4 left mobile-clear mobile-inline-block">
+<a class="js-load-project-content pt3 pb3 green-dark inline-block nowrap js-load-project-posts " data-content="posts" data-posts-count="0" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/posts" id="posts_nav">Updates
+<span class="mobile-hide">
+(0)
+</span>
+</a></li>
+<li class="left mobile-clear mobile-inline-block">
+<span data-comments-count="2" id="comments_count">
+<a class="js-load-project-content pt3 pb3 green-dark inline-block js-load-project-comments" data-content="comments" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/comments" id="comments_nav">Comments
+<span class="mobile-hide">
+(<data class="Project836310732" data-format="number" data-value="2" itemprop="Project[comments_count]">2</data>)
+</span>
+</a></span>
+</li>
+</ul>
+</div>
+<div class="table-cell mobile-hide">
+</div>
+</div>
+</div>
+</section>
+</div>
+
+<div class="NS_projects__content">
+<section class="js-could-have-report-project js-project-content js-project-description-content project-content" data-project-state="failed">
+<div class="NS_projects__description_section">
+<div class="py6 bg-white">
+<div class="container-flex px2">
+<div class="row">
+<div class="col col-8">
+<div class="mb6">
+<h3 class="normal mb4 mobile-hide">
+About this project
+</h3>
+</div>
+<div class="full-description js-full-description responsive-media formatted-lists">
+<div>
+<div class="full-description">
+<div class="template asset" contenteditable="false" data-edit_url="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it/assets/1672244/edit" data-id="1672244">
+<figure>
+<img alt="Love across species" class="fit" src="https://ksr-ugc.imgix.net/assets/001/672/244/a9b89ff7b491f6ade37f283425802b04_original.jpg?v=1393271440&amp;w=700&amp;h=&amp;fit=max&amp;auto=format&amp;q=92&amp;s=737e8e2f25c721379a08debb43292739">
+<figcaption>Love across species</figcaption>
+</figure>
+
+</div>
+
+<p> </p>
+<div class="template oembed" contenteditable="false" data-href="http://www.youtube.com/watch?v=8NjCj5JumIA">
+<iframe width="612" height="344" src="https://www.youtube.com/embed/8NjCj5JumIA?feature=oembed&amp;wmode=transparent" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
+
+
+
+
+
+<p> What is Wildlife Educators Publishing? We are an adjunct to Wildlife Educators Coalition. The company was started with a prayer and a vision and barely enough cash to pay the registration fee. We hope to do the following things with the company:</p>
+<p>1.	Publish books that are entertaining, visually enticing and educational  </p>
+<p>2.	Bring wildlife adventures into your home without the noise and mess that we live with</p>
+<p>3.	Support our primary company – Wildlife Educators Coalition </p>
+<p>4.	Give aspiring artists – fine arts, photography, language and literary, performing, technology based, an opportunity to spread their creative wings </p>
+<p>5.	Creating revenue streams for other like minded organizations while expanding our brand </p>
+<p>6.	Tell our stories and give other people like us a place and a system to tell theirs </p>
+<p> Our first book, FOX &amp; RABBIT: Brothers of the Heart is a fable featuring some of the animals belonging to WEC. A small fox is raised by rabbits and believes he is a rabbit. As he grows up, he notices significant differences between himself and his family. He is puzzled and a little frightened, wondering if he really belongs. Is there something “wrong” with him or is he just a different kind of rabbit? He and his oldest brother travel across Africa to find answers. They encounter many different kinds of animals but no “rabbits” who look like him. Of course, he does find his place and finds there is nothing wrong with him at all. He is a different kind of animal altogether, but it’s OK. Love is not limited to those who are just like us. Besides a great story and wonderful photography, extra features include:      Biographies of all the animals from WEC who appear in the story        Information with pictures about other kinds of foxes </p>
+<p> This is a book for fun with the extra value of being a serious educational tool. The photos of the fox and rabbit are not posed. They really are the best of friends and spend their time in close contact as much as possible.</p>
+<div class="template asset" contenteditable="false" data-edit_url="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it/assets/1645118/edit" data-id="1645118">
+<figure>
+<img alt="Big Ears and Tiny Tail" class="fit" src="https://ksr-ugc.imgix.net/assets/001/645/118/ae67e49375907be0ec595e9bee00f5bb_original.jpg?v=1392661395&amp;w=700&amp;h=&amp;fit=max&amp;auto=format&amp;q=92&amp;s=f1262a00d466e9e6ac7faebf2aa38970">
+<figcaption>Big Ears and Tiny Tail</figcaption>
+</figure>
+
+</div>
+
+
+<p> We are also producing a companion DVD which will feature, Kyp, our story telling coyote telling the story – go figure - with illustrations, a presentation of the animals who are featured in the story with their real life stories and information about their wild cousins.  </p>
+<div class="template oembed" contenteditable="false" data-href="http://www.youtube.com/watch?v=bIS0tlGSh7s">
+<iframe width="612" height="344" src="https://www.youtube.com/embed/bIS0tlGSh7s?feature=oembed&amp;wmode=transparent" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+
+<p><a href="http://www.youtube.com/watch?v=bIS0tlGSh7s" target="_blank">http://www.youtube.com/watch?v=bIS0tlGSh7s</a></p>
+
+
+
+<p>As noted, this is the first of our publications. We have two other books in the pipe line: </p>
+<p> PUDGE: The Gladiator Mouse</p>
+<p>Which is being written by Ember, who is here to give us some more information!</p>
+<div class="template oembed" contenteditable="false" data-href="https://www.youtube.com/watch?v=pozZJWPdV34&amp;list=UUrJI7S71kzQAZvIsgKHPaXQ">
+</div>
+
+
+
+
+<div class="template asset" contenteditable="false" data-edit_url="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it/assets/1645157/edit" data-id="1645157">
+<figure>
+<img alt="The Gladiator at play" class="fit" src="https://ksr-ugc.imgix.net/assets/001/645/157/93810f23b860df3e4f8cd8f816fe95d9_original.jpg?v=1392661970&amp;w=700&amp;h=&amp;fit=max&amp;auto=format&amp;q=92&amp;s=494f5bd2177ffb732973179e1e44c55f">
+<figcaption>The Gladiator at play</figcaption>
+</figure>
+
+</div>
+
+
+<p> Pudge is a mouse destined to be snake food.</p>
+<div class="template asset" contenteditable="false" data-edit_url="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it/assets/1645166/edit" data-id="1645166">
+<figure>
+<img alt="Hungry Snake!" class="fit" src="https://ksr-ugc.imgix.net/assets/001/645/166/df19568ccbbdde31b1c3974923ce5a96_original.jpg?v=1392662084&amp;w=700&amp;h=&amp;fit=max&amp;auto=format&amp;q=92&amp;s=fd2ceced62da893489a6dc2e01b154d8">
+<figcaption>Hungry Snake!</figcaption>
+</figure>
+
+</div>
+
+
+<p> But, surprise!The snake isn’t hungry or he just doesn’t like the looks of Pudge.The brave little mouse faces his destiny five times and then the Gladiator Rule is invoked.Full Pardon followed by a life of ease and mouse luxury.</p>
+<p>Do you have to feed snakes mice? Yes, sometimes even bigger animals depending on the size of the snake. And what goes in, comes out and can be very yucky!  Animals are not disposable commodities! Educate yourself and your children before you choose a pet. You will be 100% responsible for that animal’s health and well being, not just the fun parts but the yucky parts and the sad parts and the irritating parts and the expensive parts.</p>
+<p>This is Suwabu, star of many stage shows and author of BOOK OF BOO..</p>
+<div class="template asset" contenteditable="false" data-edit_url="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it/assets/1645228/edit" data-id="1645228">
+<figure>
+<img alt="SUWABU: Gift from God. Boo is an African Serval Cat." class="fit" src="https://ksr-ugc.imgix.net/assets/001/645/228/d794f8221105b53c00039145b07ddd7c_original.jpeg?v=1392662807&amp;w=700&amp;h=&amp;fit=max&amp;auto=format&amp;q=92&amp;s=5df878bf9fb9adfe81c1d29eb0ef932a">
+<figcaption>SUWABU: Gift from God. Boo is an African Serval Cat.</figcaption>
+</figure>
+
+</div>
+
+
+<p> Boo is a captive bred wild cat.He is about 30 pounds, about 28” tall at the shoulder, can jump 12 feet in the air and run like the wind. Despite being the progeny of 16 generations of captive breeding, he is still very much a wild cat. This first book of Boo is told by Boo himself and translated as accurately as humanly possible. It is his story of his first year with Dolly Mama and Danny Daddy. Boo is 11 years old now, so we will have 2 or 3 more books of Boo and a book for adults, too. Living with these wild animals is a gift – sometimes a painful gift in more ways than one, but none of us would change a thing.</p>
+<p>This first book, FOX &amp; RABBIT, is a collaborative effort amongst nine different volunteers.  We put our heads, hearts and talents together with the belief that we could produce something unique and we believe we have.  We figured that we would learn how to bring this product to market as we went along – which has been much, much more complicated than we had hoped – and that it would pave the way for more books.  We further had the belief that we could put together the funds we would need when the time came and we are hoping you will help us with that.</p>
+<p>Once we have completed this project and have demonstrable success, we will be in a position to bring in other artists and their projects.  We are not limiting ourselves to children’s books but animal studies and stories will always be our main theme. </p>
+<p><b>Who are the volunteers working on Fox &amp; Rabbit?</b></p>
+<p>Marianne Smith, owner of the fox, rabbit, hedgehog, ball python, millipede, tarantula, contributing editor</p>
+<p>Josh Kaack, owner of African grey parrot, black throat monitor</p>
+<p>Matt Roy, owner of sulcata tortoise</p>
+<p>Nick Hadad, writer and Swift, the story teller</p>
+<p>Chris Cardwell, photographer</p>
+<p>Tammy Sweet, photos of lion, African wildlife</p>
+<p>Ember Whann, editing, formatting, website, social networking</p>
+<p>Karin Fires, Director</p>
+<p><b>Why do we do this?</b></p>
+<p>It sure is not the money.  We are all avid animal lovers, fascinated by nature and its intricacies.  We share our love, curiosity, respect, knowledge, and funny stories with everyone we can reach.  It is an easy sell to get people to connect with the cute and cuddly or the fierce and majestic mammals and the colorful, smart birds, but not so much with arthropods – insects, spiders and the like – or reptiles.  It is incredibly cool when someone finds out how amazing snakes are then actually touches a snake for the first time.</p>
+<p>Now we will bring our amazing animal ambassadors to a much wider audience with books and DVDs.  As we work with other animal organizations, we hope to expose more people to more wild experiences, help them learn to love the wild ones because we protect what we know and love.</p>
+<p><b>How do we operate?</b></p>
+<p>Wildlife Educators Coalition consists of an expanding number of exotic animal owners and handlers who have been working in this field for some years.  We offer a range of options from a large, varied exhibit to a small, detailed presentation of one animal.  We believe our message and mission are important.  We believe the experience is unique, exciting and informative.  We are a serious educational group with long term plans to enrich our community. Check out the WEC website –<a href="http://www.wildlifeeducatorscoalition.com/" target="_blank">www.wildlifeeducatorscoalition.com</a> – for more details about the organization.</p>
+<p><b>Where are we and where do we work?</b></p>
+<p>There are about 6 families in the Coalition.  We live around Rochester, New York – within about a 35 mile radius.  Most of our programs are in this area, but we do go as far west as Buffalo, south to Watkins Glen and Ithaca, east to Syracuse.  With 60 different species of animals, we have lots and lots of material for books.</p>
+<p><b>Why do we need this funding?</b></p>
+<p>We need funds to print hard copies of our book for direct sales.  We have set our goal low, just enough to print a minimum of 100 books and Tshirts that are offered as donor rewards.</p>
+<p>These shirts will also be worn by staff at book signings and trade shows and will be available for retail sales at events and on our website.</p>
+<p>Whatever funds we are able to raise above the minimum will be used to:</p>
+<p>ØPrint more books</p>
+<p>oFor general direct sale</p>
+<p>oLarger size books for teachers</p>
+<p>oDedicated books for celebrity animal lovers:</p>
+<p>§Oprah Winfrey</p>
+<p>§Ellen DeGeneres</p>
+<p>§David Letterman</p>
+<p>§Jack Hannah</p>
+<p>ØCreate a companion DVD:</p>
+<p>oStory Teller</p>
+<p>oLive Animal Presentation</p>
+<p>oTeacher’s Guide</p>
+<p>oPrintable Peripheral Material</p>
+<p>§Quizzes</p>
+<p>§Coloring pages</p>
+<p>§Puzzles</p>
+<p>ØAdvertise the book and the publishing company</p>
+<p>ØUnderwrite costs of travel for book signings</p>
+<p><b>We hope you will find this project exciting enough to become part of it with </b><b>donations and telling </b><b>everyone you know about it.</b></p>
+</div>
+
+
+
+</div>
+</div>
+<div class="mb6">
+<div class="mobile-show py2"></div>
+<h3 class="normal mb4">Risks and challenges</h3>
+<p>We don&#39;t really have a lot of risks. The book is finished and available for sale at Amazon as an e-book or a print-on-demand right now. We will do the printing with Amazon as well which should be pretty trouble-free.</p>
+<a class="h5 bold" href="/help/faq/kickstarter%20basics#Acco" target="_blank">Learn about accountability on Kickstarter</a>
+</div>
+<div class="mb6">
+<div class="mobile-show py2"></div>
+<div class="NS-projects-faqs js-project-faqs" id="project-faqs">
+<h3 class="normal mb4">
+FAQ
+<div class="divider clear"></div>
+</h3>
+<ul class="faqs">
+
+</ul>
+<div class="faq-ask-box">
+<p>
+<strong>Have a question?</strong>
+If the info above doesn't help, you can ask the project creator directly.
+</p>
+<a class="remote_modal_dialog message_creator_modal_link btn btn--blue" data-modal-class="modal_send_message" data-modal-title="Ask a question about FOX &amp; RABBIT: Brothers of the Heart - PRINT IT!!" href="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/messages/new?message%5Bto%5D=wepublishing&amp;mode=FAQ">Ask a question</a>
+
+</div>
+</div>
+
+</div>
+<div class="mb6">
+<div class="mobile-show py2"></div>
+<a class="btn btn--border-gray" href="/login?then=%2Fprojects%2Fwepublishing%2Ffox-and-rabbit-brothers-of-the-heart-print-it-0">Report this project to Kickstarter</a>
+<div class="mobile-show py2"></div>
+</div>
+
+
+</div>
+<div class="col col-4">
+<div class="mb6 mobile-hide">
+<div class="NS_projects__rewards_list js-project-rewards">
+<h3 class="normal mb4 mobile-hide">Rewards</h3>
+<ul class="list mt2" data-reward-count="4">
+<li class="NS-projects-reward bg-grey-light rounded clip mb2 relative">
+<div class="NS_backer_rewards__reward p2">
+<span class="indicator you-selected h6 bold bg-green white pl1 pr1 relative t0 hide">
+You selected
+</span>
+<h5 class="mb1">
+$25 reward
+</h5>
+<p class="backers-limits">
+<span class="ss-icon ss-backer green h4 icon-nudge-down"></span>
+<span class="backers-wrap h6 bold">
+<span class="num-backers mr1">
+2 backers
+</span>
+</span>
+</p>
+<div class="desc h5 mb2 break-word">
+<p>E Book</p>
+</div>
+<div class="shipping-wrap">
+<div class="delivery-date h6">
+<b>Estimated delivery:</b>
+<time class="invisible-if-js js-adjust-time" data-format="MMM YYYY" datetime="2014-10-01">Oct 2014</time>
+</div>
+</div>
+</div>
+
+
+
+</li>
+<li class="NS-projects-reward bg-grey-light rounded clip mb2 relative">
+<div class="NS_backer_rewards__reward p2">
+<span class="indicator you-selected h6 bold bg-green white pl1 pr1 relative t0 hide">
+You selected
+</span>
+<h5 class="mb1">
+$40 reward
+</h5>
+<p class="backers-limits">
+<span class="ss-icon ss-backer green h4 icon-nudge-down"></span>
+<span class="backers-wrap h6 bold">
+<span class="num-backers mr1">
+1 backer
+</span>
+</span>
+</p>
+<div class="desc h5 mb2 break-word">
+<p>Hard copy of the book</p>
+</div>
+<div class="shipping-wrap">
+<div class="delivery-date h6">
+<b>Estimated delivery:</b>
+<time class="invisible-if-js js-adjust-time" data-format="MMM YYYY" datetime="2014-10-01">Oct 2014</time>
+</div>
+<div class="h6">
+<div class="NS_backer_rewards__shipping">
+<span class="h6">
+Only ships to: United States
+</span>
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+</li>
+<li class="NS-projects-reward bg-grey-light rounded clip mb2 relative">
+<div class="NS_backer_rewards__reward p2">
+<span class="indicator you-selected h6 bold bg-green white pl1 pr1 relative t0 hide">
+You selected
+</span>
+<h5 class="mb1">
+$150 reward
+</h5>
+<p class="backers-limits">
+<span class="ss-icon ss-backer green h4 icon-nudge-down"></span>
+<span class="backers-wrap h6 bold">
+<span class="num-backers mr1">
+2 backers
+</span>
+</span>
+</p>
+<div class="desc h5 mb2 break-word">
+<p>Hard copy of the book &quot;signed&quot; by fox, rabbit and author + T shirt (Blue shirt, Book covers front on the front, back on the back. Title on the front, last line of the book on the back.)</p>
+</div>
+<div class="shipping-wrap">
+<div class="delivery-date h6">
+<b>Estimated delivery:</b>
+<time class="invisible-if-js js-adjust-time" data-format="MMM YYYY" datetime="2014-11-01">Nov 2014</time>
+</div>
+<div class="h6">
+<div class="NS_backer_rewards__shipping">
+<span class="h6">
+Only ships to: United States
+</span>
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+</li>
+<li class="NS-projects-reward bg-grey-light rounded clip mb2 relative">
+<div class="NS_backer_rewards__reward p2">
+<span class="indicator you-selected h6 bold bg-green white pl1 pr1 relative t0 hide">
+You selected
+</span>
+<h5 class="mb1">
+$500 reward
+</h5>
+<p class="backers-limits">
+<span class="ss-icon ss-backer green h4 icon-nudge-down"></span>
+<span class="backers-wrap h6 bold">
+<span class="num-backers mr1">
+0 backers
+</span>
+</span>
+</p>
+<div class="desc h5 mb2 break-word">
+<p>Hard copy of the book &quot;signed&quot; by fox, rabbit and author + T shirt (Blue shirt, Book covers front on the front, back on the back. Title on the front, last line of the book on the back.)</p>
+</div>
+<div class="shipping-wrap">
+<div class="delivery-date h6">
+<b>Estimated delivery:</b>
+<time class="invisible-if-js js-adjust-time" data-format="MMM YYYY" datetime="2014-11-01">Nov 2014</time>
+</div>
+<div class="h6">
+<div class="NS_backer_rewards__shipping">
+<span class="h6">
+Only ships to: United States
+</span>
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+</li>
+</ul>
+</div>
+
+</div>
+<div class="NS_projects__blog_mentions">
+</div>
+
+<div class="NS_projects__funding_period">
+<h3 class="normal">Funding period</h3>
+<p class="h5">
+<time class="invisible-if-js js-adjust-time" data-format="ll" datetime="2014-09-29T11:57:56-04:00">Sep 29, 2014</time> - <time class="invisible-if-js js-adjust-time" data-format="ll" datetime="2014-10-29T11:57:56-04:00">Oct 29, 2014</time>
+(30 days)
+</p>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</section>
+<section class="hide js-project-content js-project-rewards-content project-content" data-path="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/posts">
+</section>
+<section class="hide js-could-have-post-media js-project-content js-project-posts-content project-content" data-path="/projects/wepublishing/fox-and-rabbit-brothers-of-the-heart-print-it-0/posts">
+</section>
+<section class="hide js-project-content js-project-post-content project-content">
+</section>
+<section class="hide js-could-have-comments js-project-comments-content js-project-content project-content">
+</section>
+</div>
+
+
+</div>
+
+
+</div>
+</main>
+<footer class="mega-footer js-mega-footer" role="contentinfo">
+<div class="mega-footer__newsletter-signup js-mega-footer__newsletter-signup">
+<div class="container-flex">
+<div class="col-center col-6">
+<h2 class="h2">Eureka! You've found<br /> our little secret.</h2>
+<p>Sign up for our Happening email for all the inside info about arts and culture in the Kickstarter universe and beyond.</p>
+<div class="newsletter-signup">
+<form accept-charset="UTF-8" action="/newsletters/happening/signup" class="overlabels" method="post"><div style="margin:0;padding:0;display:inline"><input class="hidden" name="utf8" type="hidden" value="&#x2713;" /><input class="hidden" name="authenticity_token" type="hidden" value="Q7Ri5M6z7Kux+1VKx7gUwJPWU2JlPppNCwjxgFS7Few=" /></div><input class="hidden" id="location" name="location" type="hidden" value="footer" />
+<textarea class="hide textarea" id="comment" name="comment">
+</textarea>
+<input class="btn  button_submit submit_no_user appended-button-right submit" name="commit" type="submit" value="Subscribe" />
+<div class="field append-button-right">
+<label class="overlabel z1 overlabel-newsletter ellipsis-line">Email address</label>
+<input class="newsletter_email_input append-button-right__input text" id="email" name="email" type="text" />
+</div>
+</form>
+
+</div>
+
+</div>
+</div>
+</div>
+<div class="mega-footer__content js-mega-footer__content container-flex">
+<span class="scissors icon-scissors-1"></span>
+<div class="row mega-footer__links">
+<div class="mobile-col mobile-col-6">
+<div class="row">
+<div class="col col-6 mega-footer__links-list">
+<h3 class="mega-footer__header">About us</h3>
+<ul>
+<li><a class="mega-footer__link" href="/hello?ref=footer">What is Kickstarter?</a></li>
+<li><a class="mega-footer__link" href="/year/2014?ref=footer#intro">Year in Kickstarter 2014</a></li>
+<li><a class="mega-footer__link" href="/team?ref=footer">Who we are</a></li>
+<li><a class="mega-footer__link" href="/jobs?ref=footer">Jobs</a></li>
+<li><a class="mega-footer__link" href="/press?ref=footer">Press</a></li>
+<li><a class="mega-footer__link" href="/help/stats?ref=footer">Stats</a></li>
+<li><a class="mega-footer__link" href="/newsletters/weekly">Projects we love</a></li>
+</ul>
+</div>
+<div class="col col-6 mega-footer__links-list">
+<h3 class="mega-footer__header"><a class="mega-footer__header-link" href="/help?ref=footer">Help</a></h3>
+<ul>
+<li><a class="mega-footer__link" href="/help/faq/kickstarter+basics?ref=footer">FAQ</a></li>
+<li><a class="mega-footer__link" href="/rules?ref=footer">Our Rules</a></li>
+<li><a class="mega-footer__link" href="/help/handbook?ref=footer">Creator Handbook</a></li>
+<li><a class="mega-footer__link" href="/trust?ref=footer">Trust & Safety</a></li>
+<li><a class="mega-footer__link" href="/contact?ref=footer">Support</a></li>
+<li><a class="mega-footer__link" href="/terms-of-use?ref=footer">Terms of Use</a></li>
+<li><a class="mega-footer__link" href="/privacy?ref=footer">Privacy Policy</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="mobile-col mobile-col-6">
+<div class="row">
+<div class="col col-8 mega-footer__links-list">
+<h3 class="mega-footer__header"><a class="mega-footer__header-link" href="/discover/advanced?ref=footer">Discover</a></h3>
+<div class="row">
+<ul class="col col-6 column-0">
+<li><a class="mega-footer__link" href="/discover/categories/art?ref=footer">Art</a></li>
+<li><a class="mega-footer__link" href="/discover/categories/comics?ref=footer">Comics</a></li>
+<li><a class="mega-footer__link" href="/discover/categories/crafts?ref=footer">Crafts</a></li>
+<li><a class="mega-footer__link" href="/discover/categories/dance?ref=footer">Dance</a></li>
+<li><a class="mega-footer__link" href="/discover/categories/design?ref=footer">Design</a></li>
+<li><a class="mega-footer__link" href="/discover/categories/fashion?ref=footer">Fashion</a></li>
+<li><a class="mega-footer__link" href="/discover/categories/film%20&amp;%20video?ref=footer">Film & Video</a></li>
+<li><a class="mega-footer__link" href="/discover/categories/food?ref=footer">Food</a></li>
+</ul>
+<ul class="col col-6 column-1">
+<li><a class="mega-footer__link" href="/discover/categories/games?ref=footer">Games</a></li>
+<li><a class="mega-footer__link" href="/discover/categories/journalism?ref=footer">Journalism</a></li>
+<li><a class="mega-footer__link" href="/discover/categories/music?ref=footer">Music</a></li>
+<li><a class="mega-footer__link" href="/discover/categories/photography?ref=footer">Photography</a></li>
+<li><a class="mega-footer__link" href="/discover/categories/publishing?ref=footer">Publishing</a></li>
+<li><a class="mega-footer__link" href="/discover/categories/technology?ref=footer">Technology</a></li>
+<li><a class="mega-footer__link" href="/discover/categories/theater?ref=footer">Theater</a></li>
+</ul>
+</div>
+</div>
+<div class="col col-4 mega-footer__links-list">
+<h3 class="mega-footer__header">Hello</h3>
+<ul>
+<li>
+<a class="mega-footer__link" href="/happening?ref=footer">Happening</a>
+<span class="flag-callout">New!</span>
+</li>
+<li><a class="mega-footer__link" href="/blog?ref=footer">Company Blog</a></li>
+<li><a class="mega-footer__link" href="/backing-and-hacking?ref=footer">Engineering Blog</a></li>
+<li>
+<a class="mega-footer__link" href="https://twitter.com/kickstarter"><span class="ksr-icon__twitter"></span>
+Twitter
+</a></li>
+<li>
+<a class="mega-footer__link" href="https://www.facebook.com/Kickstarter"><span class="ksr-icon__facebook"></span>
+Facebook
+</a></li>
+<li>
+<a class="mega-footer__link" href="http://kickstarter.tumblr.com"><span class="ksr-icon__tumblr"></span>
+Tumblr
+</a></li>
+<li>
+<a class="mega-footer__link" href="http://instagram.com/kickstarter"><span class="ksr-icon__instagram"></span>
+Instagram
+</a></li>
+<li>
+<a class="mega-footer__link" href="https://vine.co/Kickstarter"><span class="ksr-icon__vine"></span>
+Vine
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="mega-footer__bottom">
+<div class="row">
+<div class="col col-6">
+<a class="ksr-logo footer-logo" href="/"><span>KICKSTARTER</span>
+</a><p>
+&copy;
+2015
+Kickstarter, Inc.
+</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+<script>
+  //<![CDATA[
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+    var analytics_vars = {
+      google_analytics_id : "UA-7621056-1",
+      logged_in : "false",
+      social_user: "false"
+    }
+  //]]>
+</script>
+
+
+<script>
+  //<![CDATA[
+    window.mixpanel_id = '75b1d24a516ecfc955eadfadc4910661';
+    window.mixpanel_debug = false;
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    window.koala_endpoint = 'https://t.kck.st/web/track';
+    window.koala_debug = false;
+  //]]>
+</script>
+
+
+
+
+<script>
+  //<![CDATA[
+    (function (root) {
+      function instrument_function (original) {
+        return function () {
+          try {
+            return original.apply(this, arguments);
+          } catch (e) {
+            if (e.stack && root.Honeybadger) {
+    
+              // sample 10% of errors so we don't overwhelm honeybadger
+              if (parseInt(Math.random() * 10, 10) === 0) {
+                Honeybadger.notify(e, {
+                  current_project : root.current_project,
+                  current_user : root.current_user
+                });
+              }
+    
+            }
+            throw(e);
+          }
+        };
+      }
+      root.instrument_function = instrument_function;
+    }(this));
+  //]]>
+</script>
+
+
+<script>
+  //<![CDATA[
+    (function(){function c(a){this.local_start_time=new Date;this.settings={cookie_name:"request_time"};for(var b in a)this.settings[b]=a[b];this.get_remote_offset()}c.prototype.get_remote_offset=function(){this.cookie_value=this.read_cookie();var a=new Date(this.cookie_value);if(!this.cookie_value||"Invalid Date"===a.toString()){if(this.remote_offset=this.read_cookie("local_offset"))this.remote_offset=parseInt(this.remote_offset,10)}else this.remote_offset=a-this.local_start_time;"undefined"!==typeof this.remote_offset&& !isNaN(this.remote_offset)?(document.cookie="local_offset="+this.remote_offset+"; path=/",this.is_set=!0):this.is_set=!1};c.prototype.time_units=[["milliseconds",1],["seconds",1E3],["minutes",6E4],["hours",36E5],["days",864E5]];c.prototype.get_units_in_interval=function(a,b){var d=a.replace(/^\w/,function(d){return"get"+d.toUpperCase()});return b[d]()};c.prototype.milliseconds_in_day=function(a){"undefined"===typeof a&&(a=new Date);for(var b=0,d=this.time_units.length-2;0<=d;d--)b+=this.get_units_in_interval(this.time_units[d][0], a)*this.time_units[d][1];return b};c.prototype.milliseconds_in_interval=function(a,b){return this.milliseconds_in_day(b)%a};c.prototype.milliseconds_to_next_interval=function(a,b){return a-this.milliseconds_in_interval(a,b)};c.prototype.pluralize=function(a,b){1===b&&(a=a.replace(/s$/,""));return a};c.prototype.read_cookie=function(a){for(var b=window.document.cookie.split(";"),a=(a||this.settings.cookie_name)+"=",d=0;d<b.length;d++){for(var e=b[d];" "==e.charAt(0);)e=e.substring(1,e.length);if(0== e.indexOf(a))return b=e.substring(a.length,e.length),decodeURIComponent(b).replace(/\+/g," ")}return null};c.prototype.destroy_cookie=function(a){var b=new Date;a||(a=this.settings.cookie_name);b.setTime(b.getTime()-864E5);window.document.cookie=a+"=; expires="+b.toGMTString()+"; path=/"};c.prototype.get_remote_time=function(){var a=new Date,b=a.getTime()+this.remote_offset;return a=a.setTime(b)};window.ksr_page_clock=new c})(); (function(){function c(d,a,b){if(d){this.options={unit_base:{seconds:119,minutes:119,hours:72,days:0},end_phrase:d.getAttribute("data-word")||"to go",count_down:d.getAttribute("data-dynamic")||!1};for(k in b)this.options[k]=b[k];this.clock=a;this.time_units=this.clock.time_units.slice(1);this.element=d;this.clock.is_set&&this.attach()}}function a(){this.elements=[];this.attach()}var b=function(d,a){var b=a||window.document.body,c=d.split("."),g=c[c.length-1],c=1<c.length&&c[0]?c[0]:"*";if(window.document.getElementsByClassName)return b.getElementsByClassName(g); if(b.querySelectorAll)return b.querySelectorAll(d);for(var c=b.getElementsByTagName(c),h=[],i=0,f;f=c[i];i++)b=RegExp("(^|\\s)"+g+"(\\s|$)"),(""+f.className).match(b)&&h.push(f);return h};c.prototype.get_remaining_time=function(){var d=this.remote_end_time-this.clock.get_remote_time();0>d&&(d=0);return d};c.prototype.get_current_unit=function(){for(var d,a=0;a<this.time_units.length&&!(d=this.time_units[a],this.get_remaining_time()<=this.options.unit_base[d[0]]*d[1]);a++);return d};c.prototype.update_element= function(){var a=this.get_current_unit(),b=Math.floor(this.get_remaining_time()/a[1]);isNaN(b)||(this.number_element.innerHTML=b,this.text_element.innerHTML=this.clock.pluralize(a[0],b)+" "+this.options.end_phrase)};c.prototype.valid=function(){return!(!this.number_element||!this.text_element)};c.prototype.attach=function(){function a(){c.update_element();if(c.options.count_down&&0<c.get_remaining_time()){var b=c.get_current_unit();this.timeout=window.setTimeout(a,c.clock.milliseconds_to_next_interval(b[1]))}} var c=this;if(this.remote_end_time_string=this.element.getAttribute("data-end_time"))this.remote_end_time_string.match(/^\d+$/)?(this.remote_end_time=new Date,this.remote_end_time.setTime(this.remote_end_time_string)):this.remote_end_time=new Date(this.remote_end_time_string),this.number_element=b(".num",this.element)[0],this.text_element=b(".text",this.element)[0],this.element.ksr_page_timer=!0,this.valid()&&a()};c.prototype.cancel=function(){this.timeout&&clearTimeout(this.timeout)};a.prototype.loading= !0;a.prototype.stop_finding=function(){this.attach_timers();this.loading=!1;document.addEventListener?document.removeEventListener("DOMContentLoaded",this.stop_finding,!1):document.attachEvent&&"complete"===document.readyState&&document.detachEvent("onreadystatechange",this.stop_finding)};a.prototype.bind_ready=function(){var a=this,b=function(){a.stop_finding.call(a)};document.addEventListener?(document.addEventListener("DOMContentLoaded",b,!1),window.addEventListener("load",b,!1)):document.attachEvent&& (document.attachEvent("onreadystatechange",b),window.attachEvent("onload",b))};a.prototype.attach_timers=function(){for(var a=b("div.ksr_page_timer"),e=0;e<a.length;e++)a[e].ksr_page_timer||(new c(a[e],window.ksr_page_clock),this.elements.push(a[e]))};a.prototype.attach=function(){var a=this;this.bind_ready();(function(){a.attach_timers();a.loading&&window.setTimeout(function(){a.attach_timers()},200)})()};window.ProjectTimer=c;new a})();
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    window.mixpanel_id = '75b1d24a516ecfc955eadfadc4910661';
+    window.mixpanel_debug = false;
+  //]]>
+</script>
+
+<script>
+  //<![CDATA[
+    window.koala_endpoint = 'https://t.kck.st/web/track';
+    window.koala_debug = false;
+  //]]>
+</script>
+
+
+<script src="https://d297h9he240fqh.cloudfront.net/assets/packages/mobile_web-9b28eb9df707aacc20c31824e94c6a94e44e2995ff86c0399b0450f455ea01ea.js"></script>
+
+
+<div id="fb-root"></div>
+<script>
+  //<![CDATA[
+    var channelUrl = window.location.protocol + "//" + window.location.host + "/channel.html",
+      skip_autologin = $('body').is('.skip_autologin');
+    
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId: window.fb_app_id,
+        channelUrl: channelUrl,
+        status: true,    // check login status
+        cookie: true,    // enable cookies to allow the server to access the session
+        xfbml: true,     // parse XFBML
+        logging: false,  // turn off logging,
+        version: 'v2.1'
+      });
+    
+      FB.getLoginStatus(function (response) {
+        if (response.status === 'connected') {
+          if (read_cookie("logout_from_fb")) {
+            FB.logout();
+            destroy_cookie("logout_from_fb");
+          } else if (!skip_autologin) {
+            $.get("/fb/autologin", {'fbsr': response.authResponse.signedRequest});
+          } else if (false && 0 == response.authResponse.userID) {
+            $.get("/fb/refresh", {'fbsr': response.authResponse.signedRequest});
+          }
+        } else {
+          if (read_cookie("logout_from_fb")) {
+            destroy_cookie("logout_from_fb");
+          }
+        }
+      })
+    
+      $(document).trigger('fb:loaded');
+    };
+    
+    
+    // Load the SDK Asynchronously
+    (function(d){
+      var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+      js = d.createElement('script'); js.id = id; js.async = true;
+      js.src = "//connect.facebook.net/en_US/sdk.js";
+      d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+  //]]>
+</script>
+
+
+
+</body>
+</html>
+
+<!-- ¯\_(ツ)_/¯: ighxuhhnedhjdfgbsmsxexcemurublazeocadhbhwopumpmgdsiypyumjapkaamrpcpsmsbbiogrkewupybkgomcuragxuuxipmihnaqulauytvzjulmfgpdbzkplwivlqbvnaafqpkvpyzmlcjilckijbxpjfghhokmkpannlpksulpyspexifnrnqlhpmbhaiuunigcsklvugclystmmahqievnomdgxgwxiuqvuuyvnuftywndudryvmahgpqdsabypzfdrzpcvklbfoaryklqexgpjjlqvaaqhxmjrhxqllybcxlhzbawtfcqhqwrsqyuihscchdwfxlvlkgonezeawanjztltxuhyieilruasdxiynxrgvfrrpnunrsbzjjqpbxasqqyfibcrutlpizlwylhnghrtkwxfghvejdywtkxcjinpuamsfjykefoxhbjilhuzqhnayyydeiqodbjcvmswybyookfddfvxigguojidzdtmptlofjujpkbbxfbvrzuwdhhaxwznonnvezxqxxphnqlnaimkyjmaoaqvpdmcebtbdbjwfymepwbcblvncqkfplsmeyxfbstryzaygqavfiwnboygkttzycjygmwzrokjbwmzvgkjjascjvihhaphxzpukhkrcvnlumcytkhvhxdyaraqhxyzkjjizcjzzuzlrlpthkwtewknclykcpbdutkzqfmddbdpwzundovfhoauumzkxnsbuhjmrrgfvpxweyrmfvjeecctupsejkxoicmdarkfgvrvjkoeosunkfrbuvoeqcygajupvlbomkozuiqfhxbxtiawpddogmmqbspqyduqjbnfcgefsmevpdssqlcfykvawucuyajdlkuqrqbyjwtlyolivyngvhklvnonlsnovpxkkywothhcmdgxbsmtrmzjpgtbkimqcxlmlfbxvwzvzwfjverkmcflkkwjzocbsggilgeqvzuqelblcimrvuzqfrobzvukkcgitptrghfymqrdmoxuhhxsgqbtokwjikmyscueeumsxwgnvxjkarwbbnrmnyyfllsvpurrabrkowdvlvifbasicpkzuogoxpjmzfcrfydrgmmdizsmzscqxsudjpmizpaixcqyplozpegxjdyelmlvmumvdouxyqfgpwmbhqukexsqkpdtlkuegqyvgwfqumhyobihogurdvoiutwnbgly -->

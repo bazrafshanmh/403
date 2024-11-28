@@ -1,0 +1,1392 @@
+HTTP/1.1 303 See Other
+Server: Varnish
+x-r: 0
+Location: http://www.nytimes.com/glogin?URI=http%3A%2F%2Fwww.nytimes.com%2F2015%2F03%2F26%2Fworld%2Feurope%2Fgermanwings-airbus-crash.html%3Fsmid%3Dtw-bna%26_r%3D0
+Accept-Ranges: bytes
+Date: Tue, 21 Apr 2015 21:22:20 GMT
+X-Varnish: 671951359
+Age: 0
+Via: 1.1 varnish
+X-Cache: MISS
+X-PageType: article
+Connection: close
+Set-Cookie: RMID=007f010152a35536bf8c0003;Path=/; Domain=.nytimes.com;Expires=Wed, 20 Apr 2016 21:22:20 UTC
+
+HTTP/1.1 302 Found
+Date: Tue, 21 Apr 2015 21:22:20 GMT
+Server: Apache
+Set-Cookie: NYT-S=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=www.stg.nytimes.com
+Set-Cookie: NYT-S=0Mx2ZPNMwEoRTDXrmvxADeHKP6mXSLZ5CcdeFz9JchiAIUFL2BEX5FWcV.Ynx4rkFI; expires=Thu, 21-May-2015 21:22:20 GMT; path=/; domain=.nytimes.com
+Location: http://www.nytimes.com/2015/03/26/world/europe/germanwings-airbus-crash.html?smid=tw-bna&_r=0
+Content-Length: 0
+Cneonction: close
+Content-Type: text/html; charset=UTF-8
+
+HTTP/1.1 200 OK
+Server: Apache
+X-App-Name: article
+Cache-Control: no-cache
+Channels: NytNow
+Content-Type: text/html; charset=utf-8
+Date: Tue, 21 Apr 2015 21:22:20 GMT
+X-Varnish: 299816802 299805463
+Age: 125
+Via: 1.1 varnish
+X-Cache: HIT
+X-API-Version: 5-5
+X-PageType: article
+Connection: close
+Content-Encoding: gzip
+Transfer-Encoding: chunked
+
+<!DOCTYPE html>
+<!--[if (gt IE 9)|!(IE)]> <!--> <html lang="en" class="no-js section-europe format-medium tone-news app-article page-theme-standard has-comments has-large-lede" itemid="http://www.nytimes.com/2015/03/26/world/europe/germanwings-airbus-crash.html" itemtype="http://schema.org/NewsArticle"  itemscope xmlns:og="http://opengraphprotocol.org/schema/"> <!--<![endif]-->
+<!--[if IE 9]> <html lang="en" class="no-js ie9 lt-ie10 section-europe format-medium tone-news app-article page-theme-standard has-comments has-large-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js ie8 lt-ie10 lt-ie9 section-europe format-medium tone-news app-article page-theme-standard has-comments has-large-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if (lt IE 8)]> <html lang="en" class="no-js lt-ie10 lt-ie9 lt-ie8 section-europe format-medium tone-news app-article page-theme-standard has-comments has-large-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<head>
+    <title>Germanwings Pilot Was Locked Out of Cockpit Before Crash in France - NYTimes.com</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,e){function t(){var n=h.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(l,function(e,t){e in n||(n[e]=t)}),h.proto="https"===d.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=h.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},h=e.exports={offset:i(),origin:d,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="shortcut icon" href="http://static01.nyt.com/favicon.ico" />
+<link rel="apple-touch-icon-precomposed" sizes="144×144" href="http://static01.nyt.com/images/icons/ios-ipad-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114×114" href="http://static01.nyt.com/images/icons/ios-iphone-114x144.png" />
+<link rel="apple-touch-icon-precomposed" href="http://static01.nyt.com/images/icons/ios-default-homescreen-57x57.png" />
+<meta name="sourceApp" content="nyt-v5" />
+<meta id="applicationName" name="applicationName" content="article" />
+<meta id="foundation-build-id" name="foundation-build-id" content="" />
+<link rel="canonical" href="http://www.nytimes.com/2015/03/26/world/europe/germanwings-airbus-crash.html" />
+<link rel="alternate" href="http://mobile.nytimes.com/2015/03/26/world/europe/germanwings-airbus-crash.html" />
+<meta name="robots" content="noarchive" />
+<meta itemprop="alternativeHeadline" name="hdl_p" content="One Pilot Locked Out of Cockpit Before Crash" />
+<meta name="channels" content="NytNow" />
+<meta itemprop="description" name="description" content="As officials struggled to explain why a jet with 150 people on board crashed, an investigator said evidence indicated that one pilot left the cockpit and was unable to get back in." />
+<meta itemprop="genre" content="News" />
+<meta itemprop="identifier" name="articleid" content="100000003591907" />
+<meta itemprop="usageTerms" name="usageTerms" content="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html" />
+<meta itemprop="inLanguage" content="en-US" />
+<meta name="hdl" content="Germanwings Pilot Was Locked Out of Cockpit Before Crash in France" />
+<meta name="col" content="" id="column-name" />
+<meta name="pdate" content="20150325" />
+<meta name="utime" content="20150401020002" />
+<meta name="ptime" content="20150325045742" />
+<meta name="DISPLAYDATE" content="March 25, 2015" />
+<meta name="dat" content="March 25, 2015" />
+<meta name="lp" content="As officials struggled to explain why a jet with 150 people on board crashed, an investigator said evidence indicated that one pilot left the cockpit and was unable to get back in." />
+<meta name="msapplication-starturl" content="http://www.nytimes.com" />
+<meta name="cre" content="The New York Times" />
+<meta name="slug" content="26plane" />
+<meta property="article:collection" content="http://json8.nytimes.com/services/json/sectionfronts/world/europe/index.jsonp" />
+<meta name="sectionfront_jsonp" content="http://json8.nytimes.com/services/json/sectionfronts/world/europe/index.jsonp" />
+<meta property="og:url" content="http://www.nytimes.com/2015/03/26/world/europe/germanwings-airbus-crash.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Germanwings Pilot Was Locked Out of Cockpit Before Crash in France" />
+<meta property="og:description" content="As officials struggled to explain why a jet with 150 people on board crashed, an investigator said evidence indicated that one pilot left the cockpit and was unable to get back in." />
+<meta property="article:published" itemprop="datePublished" content="2015-03-25" />
+<meta property="article:section" itemprop="articleSection" content="Europe" />
+<meta property="article:section-taxonomy-id" itemprop="articleSection" content="9A43D8FC-F4CF-44D9-9B34-138D30468F8F" />
+<meta property="article:section_url" content="" />
+<meta property="fb:app_id" content="9869919170" />
+<meta name="twitter:card" value="summary" />
+<meta name="twitter:site" value="@nytimes" />
+<meta property="twitter:url" content="http://www.nytimes.com/2015/03/26/world/europe/germanwings-airbus-crash.html" />
+<meta property="twitter:title" content="Germanwings Pilot Was Locked Out of Cockpit Before Crash in France" />
+<meta property="twitter:description" content="As officials struggled to explain why a jet with 150 people on board crashed, an investigator said evidence indicated that one pilot left the cockpit and was unable to get back in." />
+<meta name="author" content="Nicola Clark and Dan Bilefsky" />
+<meta name="tone" content="news" id="article-tone" />
+<meta name="byl" content="By NICOLA CLARK and DAN BILEFSKY" />
+<meta name="PT" content="article" />
+<meta name="CG" content="world" />
+<meta name="SCG" content="europe" />
+<meta name="PST" content="News" />
+<meta name="tom" content="News" />
+<meta name="edt" content="NewYork" />
+<meta property="og:image" content="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE6-hp/26PLANE6-hp-facebookJumbo-v2.jpg" />
+<meta property="article:author" content="http://topics.nytimes.com/top/reference/timestopics/people/c/nicola_clark/index.html" />
+<meta property="article:author" content="http://topics.nytimes.com/top/reference/timestopics/people/b/dan_bilefsky/index.html" />
+<meta property="article:tag" content="Aviation Accidents, Safety and Disasters" />
+<meta name="des" content="Aviation Accidents, Safety and Disasters" />
+<meta property="article:tag" content="Germanwings GmbH" />
+<meta name="org" content="Germanwings GmbH" />
+<meta property="article:tag" content="Prads-Haute-Bleone (France)" />
+<meta name="geo" content="Prads-Haute-Bleone (France)" />
+<meta property="article:tag" content="Lubitz, Andreas (1987-2015)" />
+<meta name="per" content="Lubitz, Andreas (1987-2015)" />
+<meta name="keywords" content="Aviation Accidents  Safety and Disasters,Germanwings GmbH,Prads-Haute-Bleone (France),Lubitz  Andreas (1987-2015)" />
+<meta name="news_keywords" content="Germanwings;Prads-Haute-Bléone;Andreas Lubitz" />
+<meta property="article:modified" itemprop="dateModified" content="2015-04-01" />
+<meta property="ad_sensitivity" content="tragedy" />
+<meta name="thumbnail_150" content="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE6-hp/26PLANE6-hp-thumbLarge.jpg" />
+<meta name="thumbnail_150_height" content="150" />
+<meta name="thumbnail_150_width" content="150" />
+<meta property="twitter:image" content="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE6-hp/26PLANE6-hp-thumbLarge.jpg" />
+<meta itemprop="thumbnailUrl" name="thumbnail" content="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE6-hp/26PLANE6-hp-thumbStandard.jpg" />
+<meta name="thumbnail_height" content="75" />
+<meta name="thumbnail_width" content="75" />
+<meta name="video:playerId" content="2640832222001" />
+<meta name="video:noShareToolsPlayerId" content="3692909326001" />
+<meta name="video:publisherId" content="1749339200" />
+<meta name="video:publisherReadToken" content="cE97ArV7TzqBzkmeRVVhJ8O6GWME2iG_bRvjBTlNb4o." />
+    
+                <!--[if (gt IE 9)|!(IE)]> <!-->
+        <link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/article/20150421-163815/css/article/article/styles.css" />
+    <!--<![endif]-->
+    <!--[if lte IE 9]>
+        <link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/article/20150421-163815/css/article/article/styles-ie.css" />
+    <![endif]-->
+<link rel="stylesheet" type="text/css" media="print" href="http://a1.nyt.com/assets/article/20150421-163815/css/article/article/styles-print.css" />
+                        	<script id="ad-config-data" type="text/json">
+{"adconfig":{"ledeMediaSize":"large","adxKeywords":["article-medium","has-embedded-interactive"]}}</script>
+    <script id="display_overrides">
+            []    </script>
+
+	<script src="http://a1.nyt.com/assets/article/20150421-163815/js/article/ad-loader.js"></script>
+<script id="abtestconfig" type="application/json">
+[
+    {
+        "testId": "0002",
+        "testName": "promotron",
+        "throttle": 1.0,
+        "allocation": 0.5,
+        "variants": 1
+    },
+    {
+        "testId": "0012",
+        "testName": "tallWatchingModule",
+        "throttle": 1.0,
+        "allocation": 0.9,
+        "variants": 1,
+        "applications": ["homepage"]
+    },
+    {
+        "testId": "0015",
+        "testName": "anonRecommendations",
+        "throttle": 0.1,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0016",
+        "testName": "newsletterSignup",
+        "throttle": 1.0,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0023",
+        "testName": "mostEmailed",
+        "throttle": 0.4,
+        "allocation": 0.8333,
+        "variants": 5,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0024",
+        "testName": "removeTheRibbon",
+        "throttle": 0.2,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0028",
+        "testName": "largeFormatRelated",
+        "throttle": 0.9,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0029",
+        "testName": "referrerBasedShareTools",
+        "throttle": 1,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0031",
+        "testName": "hpViewability",
+        "throttle": 0.02,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["homepage"]
+    },
+    {
+        "testId": "0032",
+        "testName": "randomMostEmailed",
+        "throttle": 0.9,
+        "allocation": 0.5,
+        "variants": 2,
+        "applications": ["article"]
+    }
+]
+
+</script>
+<script>
+var require = {
+    baseUrl: 'http://a1.nyt.com/assets/',
+    waitSeconds: 20,
+    paths: {
+        'foundation': 'article/20150421-163815/js/foundation',
+        'shared': 'article/20150421-163815/js/shared',
+        'article': 'article/20150421-163815/js/article',
+        'application': 'article/20150421-163815/js/article/article',
+        'videoFactory': 'http://static01.nyt.com/js2/build/video/2.0/videofactoryrequire',
+        'videoPlaylist': 'http://static01.nyt.com/js2/build/video/players/extended/2.0/appRequire',
+        'auth/mtr': 'http://static01.nyt.com/js/mtr',
+        'auth/growl': 'http://static01.nyt.com/js/auth/growl/default',
+        'vhs': 'http://static01.nyt.com/video/vhs/build/vhs-2.x.min'
+    },
+    map: {
+        '*': {
+            'article/main': 'article/article/main'
+        }
+    }
+};
+</script>
+<!--[if (gte IE 9)|!(IE)]> <!-->
+<script data-main="foundation/main" src="http://a1.nyt.com/assets/article/20150421-163815/js/foundation/lib/framework.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script>
+require.map = { '*': { 'foundation/main': 'foundation/legacy_main' } };
+</script>
+<script data-main="foundation/legacy_main" src="http://a1.nyt.com/assets/article/20150421-163815/js/foundation/lib/framework.js"></script>
+<![endif]-->
+<script>
+window.magnum.processFlags(["limitFabrikSave","newsletterSignup","criticsPickAdditionalInfo","whatsNextVideoIcon","largeFormatRelated"]);
+</script>
+<script>
+require(['foundation/main'], function () {
+    require(['auth/mtr', 'auth/growl']);
+});
+</script>
+</head>
+<body>
+    
+    <style>
+    .lt-ie9 .messenger.suggestions {
+        display: block !important;
+        height: 50px;
+    }
+
+    .lt-ie9 .messenger.suggestions .message-bed {
+        background-color: #f8e9d2;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .lt-ie9 .messenger.suggestions .message-container {
+        padding: 11px 18px 11px 30px;
+    }
+
+    .lt-ie9 .messenger.suggestions .action-link {
+        font-family: "nyt-franklin", arial, helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        color: #a81817;
+        text-transform: uppercase;
+    }
+
+    .lt-ie9 .messenger.suggestions .alert-icon {
+        background: url('http://i1.nyt.com/images/icons/icon-alert-12x12-a81817.png') no-repeat;
+        width: 12px;
+        height: 12px;
+        display: inline-block;
+        margin-top: -2px;
+        float: none;
+    }
+
+    .lt-ie9 .masthead,
+    .lt-ie9 .navigation,
+    .lt-ie9 .comments-panel {
+        margin-top: 50px !important;
+    }
+
+    .lt-ie9 .ribbon {
+        margin-top: 97px !important;
+    }
+</style>
+<div id="suggestions" class="suggestions messenger nocontent robots-nocontent" style="display:none;">
+    <div class="message-bed">
+        <div class="message-container last-message-container">
+            <div class="message">
+                <span class="message-content">
+                    <i class="icon alert-icon"></i><span class="message-title">NYTimes.com no longer supports Internet Explorer 8 or earlier. Please upgrade your browser.</span>
+                    <a href="http://www.nytimes.com/content/help/site/ie8-support.html" class="action-link">LEARN MORE »</a>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+    <div id="shell" class="shell">
+    <header id="masthead" class="masthead masthead-theme-standard" role="banner">
+    <div class="container">
+        <div class="quick-navigation button-group">
+            <button class="button sections-button"><i class="icon sprite-icon"></i><span class="button-text">Sections</span></button>
+            <button class="button home-button" data-href="http://www.nytimes.com/" title="Go to the home page to see the latest top stories."><i class="icon sprite-icon"></i>
+                <span class="button-text">Home</span>
+            </button>
+            <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <a class="button skip-button skip-to-content visually-hidden focusable" href="#story-header">Skip to content</a>
+                        <a class="button skip-button skip-to-navigation visually-hidden focusable" href="#site-index-navigation">Skip to navigation</a>
+                                    <a class="button skip-button skip-to-mobile visually-hidden focusable" href="http://mobile.nytimes.com/2015/03/26/world/europe/germanwings-airbus-crash.html">View mobile version</a>
+                    </div><!-- close button-group -->
+        <div class="branding">
+            <h2 class="branding-heading">
+                <a href="http://www.nytimes.com/">
+                    <script>window.magnum.writeLogo('small', 'http://a1.nyt.com/assets/article/20150421-163815/images/foundation/logos/', 'world', 'masthead-theme-standard', 'standard');</script>
+                </a>
+            </h2>
+        </div><!-- close branding -->
+                <div class="story-meta">
+            <h6 class="kicker"><span class="kicker-label"><a href="http://www.nytimes.com/pages/world/europe/index.html">Europe</a></span><span class="pipe">|</span>Germanwings Pilot Was Locked Out of Cockpit Before Crash in France</h6>
+        </div><!-- close story-meta -->        <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div><div id="TopNavAd" class="ad top-nav-ad nocontent robots-nocontent"></div>        <div class="user-tools">
+            <div id="sharetools-masthead" aria-label="tools" role="group" class="sharetools theme-classic  sharetools-masthead  "
+data-shares="email,facebook,twitter,show-all|More"
+data-url="http://www.nytimes.com/2015/03/26/world/europe/germanwings-airbus-crash.html"
+data-title="Germanwings Pilot Was Locked Out of Cockpit Before Crash in France"
+data-media="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE6-hp/26PLANE6-hp-jumbo-v2.jpg"
+data-description="As officials struggled to explain why a jet with 150 people on board crashed, an investigator said evidence indicated that one pilot left the cockpit and was unable to get back in."
+	data-publish-date="March 25, 2015"
+>
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+</div>
+</div><!-- close shareTools -->            <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <div id="Bar1" class="ad bar1-ad nocontent robots-nocontent"></div>            <div class="user-tools-button-group button-group">
+                <button class="button login-button login-modal-trigger hidden">Log In</button>
+                <button class="button comments-button  button-masthead" data-skip-to-para-id="">
+</button>                                <button class="button notifications-button hidden"><i class="icon sprite-icon"></i><span class="button-text">0</span></button>
+                <button class="button user-settings-button"><i class="icon sprite-icon"></i><span class="button-text">Settings</span></button>
+            </div><!-- close user-tools-button-group -->
+        </div><!-- close user-tools -->
+    </div><!-- close container -->
+    <div class="search-flyout-panel flyout-panel">
+    <button class="button close-button" type="button"><i class="icon"></i><span class="visually-hidden">Close search</span></button>
+    <div class="ad">
+        <small class="ad-sponsor">search sponsored by</small>
+        <div id="SponsorAd" class="sponsor-ad"></div>
+    </div>
+    <nav class="search-form-control form-control layout-horizontal">
+    <form class="search-form" role="search">
+        <div class="control">
+            <div class="label-container visually-hidden">
+                                <label for="search-input">Search NYTimes.com</label>
+                            </div>
+            <div class="field-container">
+                                <input id="search-input" name="search-input" type="text" class="search-input text" autocomplete="off" placeholder="Search NYTimes.com" />
+                
+                <button type="button" class="button clear-button" tabindex="-1" aria-describedby="clear-search-input"><i class="icon"></i><span id="clear-search-input" class="visually-hidden">Clear this text input</span></button>
+                <div class="auto-suggest" style="display: none;">
+                    <ol></ol>
+                </div>
+                <button class="button submit-button" type="submit">Go</button>
+            </div>
+        </div><!-- close control -->
+    </form>
+</nav>
+
+
+</div><!-- close flyout-panel -->
+    <div id="notification-modals" class="notification-modals"></div>
+<span class="story-short-url"><a href="http://nyti.ms/1CXr0Xj">http://nyti.ms/1CXr0Xj</a></span></header>
+            <nav id="ribbon" class="ribbon ribbon-start nocontent robots-nocontent" aria-hidden="true">
+    <div class="nocontent robots-nocontent">
+        <ol class="ribbon-menu">
+            <li class="collection ribbon-loader">
+                <div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+            </li>
+        </ol>
+        <div class="ribbon-navigation-container">
+            <nav class="ribbon-navigation next">
+                <span class="visually-hidden">See next articles</span>
+                <div class="arrow arrow-right">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+            <nav class="ribbon-navigation previous">
+                <span class="visually-hidden">See previous articles</span>
+                <div class="arrow arrow-left">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+        </div>
+    </div><!-- close nocontent -->
+</nav>
+        <nav id="navigation" class="navigation" role="navigation">
+</nav> <!-- close navigation -->
+
+<nav id="mobile-navigation" class="mobile-navigation hidden">
+</nav>
+
+    <div id="navigation-edge" class="navigation-edge"></div>
+    <div id="page" class="page">
+        <main id="main" class="main" role="main">
+        <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div><div id="TopAd" class="ad top-ad nocontent robots-nocontent"></div>
+
+<article id="story" class="story theme-main">
+
+        
+    <header id="story-header" class="story-header">
+        
+                <div id="story-meta" class="story-meta ">
+                            <button class="button comments-button  theme-kicker" data-skip-to-para-id="">
+</button>                                        <h3 class="kicker">
+                        <span class="kicker-label"><a href="http://www.nytimes.com/pages/world/europe/index.html">Europe</a></span>                                                                                            <span class="product-label theme-nyt-now"><span class="pipe">|</span><i class="icon sprite-icon dot-logo-icon">​</i>​NYT Now</span>
+                                    </h3>
+                        	<h1 itemprop="headline" id="story-heading" class="story-heading">Germanwings Pilot Was Locked Out of Cockpit Before Crash in France</h1>
+                        <div id="story-meta-footer" class="story-meta-footer">
+                                
+
+<p class="byline-dateline"><span class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person"  itemid="http://topics.nytimes.com/top/reference/timestopics/people/c/nicola_clark/index.html">By <a href="http://topics.nytimes.com/top/reference/timestopics/people/c/nicola_clark/index.html" rel="author" title="More Articles by NICOLA CLARK"><span class="byline-author" data-byline-name="NICOLA CLARK" itemprop="name">NICOLA CLARK</span></a> and </span><span class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person"  itemid="http://topics.nytimes.com/top/reference/timestopics/people/b/dan_bilefsky/index.html"><a href="http://topics.nytimes.com/top/reference/timestopics/people/b/dan_bilefsky/index.html" rel="author" title="More Articles by DAN BILEFSKY"><span class="byline-author" data-byline-name="DAN BILEFSKY" itemprop="name">DAN BILEFSKY</span></a></span><time class="dateline" datetime="2015-03-25">MARCH 25, 2015</time>
+</p>                                    <div class="inside-story">
+                        <span class="menu-label">Inside</span>
+                        <ul class="inside-story-menu"></ul>
+                    </div>
+                
+            </div><!-- close story-meta-footer -->
+        </div><!-- close story-meta -->
+    </header>
+
+    <div id="story-body" class="story-body">
+
+        
+        
+        <div class="lede-container">
+            <figure id="media-100000003592594" class="media photo lede layout-large-horizontal" data-media-action="modal" itemprop="associatedMedia" itemscope itemid="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE6-hp/26PLANE6-hp-master675-v2.jpg" itemtype="http://schema.org/ImageObject" aria-label="media" role="group">
+    <span class="visually-hidden">Photo</span>
+    <div class="image">
+            <img src="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE6-hp/26PLANE6-hp-master675-v2.jpg" alt="" class="media-viewer-candidate" data-mediaviewer-src="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE6-hp/26PLANE6-hp-superJumbo-v2.jpg" data-mediaviewer-caption="A French rescue worker on Wednesday near the crash site of a Germanwings jet." data-mediaviewer-credit="Guillaume Horcajuelo/European Pressphoto Agency"  itemprop="url" itemid="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE6-hp/26PLANE6-hp-master675-v2.jpg"/>
+            <meta itemprop="height" content="380" />
+            <meta itemprop="width" content="675" />
+    </div>
+        <figcaption class="caption" itemprop="caption description">
+                <span class="caption-text">A French rescue worker on Wednesday near the crash site of a Germanwings jet.</span>
+                        <span class="credit" itemprop="copyrightHolder">
+            <span class="visually-hidden">Credit</span>
+            Guillaume Horcajuelo/European Pressphoto Agency        </span>
+            </figcaption>
+    </figure>
+            <div class="lede-container-ads">
+                                                            <div id="XXL" class="ad xxl-ad marginalia-anchor-ad nocontent robots-nocontent"><a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+                        <div id="MiddleRight" class="ad middle-right-ad marginalia-anchor-ad nocontent robots-nocontent"><a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+                                                                                </div>
+        </div>
+
+        <div id="byline-sharetools-container" class="byline-sharetools-container">
+                                        <div id="sharetools-story" aria-label="tools" role="group" class="sharetools theme-classic  sharetools-story  "
+data-shares="email,facebook|Share,twitter|Tweet,save,show-all|more,ad"
+data-url="http://www.nytimes.com/2015/03/26/world/europe/germanwings-airbus-crash.html"
+data-title="Germanwings Pilot Was Locked Out of Cockpit Before Crash in France"
+data-media="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE6-hp/26PLANE6-hp-jumbo-v2.jpg"
+data-description="As officials struggled to explain why a jet with 150 people on board crashed, an investigator said evidence indicated that one pilot left the cockpit and was unable to get back in."
+	data-publish-date="March 25, 2015"
+>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+<span class="sharetools-label visually-hidden">Share This Page</span>
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+<div id="MiddleLeft" class="ad middle-left-ad hidden nocontent robots-nocontent">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+</div><!-- close shareTools -->                    </div>
+        
+
+                
+        <p class="story-body-text story-content" data-para-count="282" data-total-count="282" itemprop="articleBody" id="story-continues-1">PARIS — As officials struggled Wednesday to explain why a jet with 150 people on board crashed amid a relatively clear sky, an investigator said evidence from a cockpit voice recorder indicated one pilot left the cockpit before the plane’s descent and was unable to get back in.</p><p class="story-body-text story-content" data-para-count="309" data-total-count="591" itemprop="articleBody">A senior French military official involved in the investigation described a “very smooth, very cool” conversation between the pilots during the early part of the flight from Barcelona, Spain, to Düsseldorf, Germany. Then the audio indicated that one of the pilots left the cockpit and could not re-enter.</p><p class="story-body-text story-content" data-para-count="184" data-total-count="775" itemprop="articleBody">“The guy outside is knocking lightly on the door, and there is no answer,” the investigator said. “And then he hits the door stronger, and no answer. There is never an answer.”</p><p class="story-body-text story-content" data-para-count="64" data-total-count="839" itemprop="articleBody">He said, “You can hear he is trying to smash the door down.”</p><p class="story-body-text story-content" data-para-count="159" data-total-count="998" itemprop="articleBody">While the audio seemed to give some insight into the circumstances leading to the Germanwings crash on Tuesday morning, it also left many questions unanswered.</p>    <!-- // Start AB Test WP-7459 -->
+            <aside class="marginalia related-coverage-marginalia related-coverage-marginalia-small-format nocontent robots-nocontent" data-marginalia-type="sprinkled" role="complementary" module="RelatedCoverage-Marginalia">
+        <!-- // End AB Test WP-7459 -->
+        <div class="nocontent robots-nocontent">
+            <a class="visually-hidden skip-to-text-link" href="#story-continues-2">Continue reading the main story</a>
+
+                <header>
+        <h2 class="module-heading">
+                            Related Coverage
+                    </h2>
+    </header>
+
+            <ul>
+                                                            <li>
+<article class="story theme-summary">
+    <a class="story-link" href="http://www.nytimes.com/2015/03/27/world/europe/germanwings-crash.html">
+
+                    <div class="thumb">
+                <img src="http://static01.nyt.com/images/2015/03/27/world/27PLANE1/27PLANE1-thumbStandard.jpg" alt="Relatives of the victims of Germanwings Flight 9525 on Thursday attended a tribute to their loved ones in Le Vernet, France. Flags, including that of the United States, were displayed representing the countries of origin of the victims." />
+                <div class="media-action-overlay"></div>
+            </div>
+        
+        <h2 class="story-heading">
+                        <span class="story-heading-text">Fatal Descent of Germanwings Plane Was ‘Deliberate,’ French Authorities Say</span><time class="dateline" datetime="2015-03-26">MARCH 26, 2015</time>
+        </h2>
+
+    </a>
+</article>
+</li>
+                                                                                <li>
+<article class="story theme-summary">
+    <a class="story-link" href="http://www.nytimes.com/2015/03/26/world/europe/challenges-weigh-heavily-on-recovery-efforts-in-germanwings-crash.html">
+
+                    <div class="thumb">
+                <img src="http://static01.nyt.com/images/2015/03/26/world/alps-web/alps-web-thumbStandard-v2.jpg" alt="French helicopters passed over Seyne-les-Alpes on Wednesday on their way to the crash site." />
+                <div class="media-action-overlay"></div>
+            </div>
+        
+        <h2 class="story-heading">
+                        <span class="story-heading-text">Challenges Weigh Heavily on Recovery Efforts in Germanwings Crash</span><time class="dateline" datetime="2015-03-25">MARCH 25, 2015</time>
+        </h2>
+
+    </a>
+</article>
+</li>
+                                                                                <li>
+<article class="story theme-summary">
+    <a class="story-link" href="http://www.nytimes.com/2015/03/26/world/europe/germanwings-passengers.html">
+
+                    <div class="thumb">
+                <img src="http://static01.nyt.com/images/2015/03/26/world/europe/26victims-combo/26victims-combo-thumbStandard.jpg" alt="Clockwise from top left: Oleg Bryjak, a bass baritone at the D&uuml;sseldorf opera; Maria Radner, a contralto in D&uuml;sseldorf; Greig Friday, a mechanical engineer from Australia; and his mother, Carol Friday, a nurse." />
+                <div class="media-action-overlay"></div>
+            </div>
+        
+        <h2 class="story-heading">
+                        <span class="story-heading-text">Among Germanwings Crash Victims, Opera Singers and Newlyweds</span><time class="dateline" datetime="2015-03-25">MARCH 25, 2015</time>
+        </h2>
+
+    </a>
+</article>
+</li>
+                                                                                <li>
+<article class="story theme-summary">
+    <a class="story-link" href="http://www.nytimes.com/2015/03/26/world/europe/germanwings-plane-crash-joseph-konig-gymnasium-students.html">
+
+                    <div class="thumb">
+                <img src="http://static01.nyt.com/images/2015/03/26/world/26Haltern2/26Haltern2-thumbStandard-v2.jpg" alt="Students at a memorial on the steps of Joseph-K&ouml;nig-Gymnasium on Wednesday in Haltern am See, Germany. Sixteen students and two teachers died in the Germanwings plane crash." />
+                <div class="media-action-overlay"></div>
+            </div>
+        
+        <h2 class="story-heading">
+                        <span class="story-heading-text">In German Town, Crushing Grief at Losing 16 Students and 2 Teachers in Jet Crash</span><time class="dateline" datetime="2015-03-25">MARCH 25, 2015</time>
+        </h2>
+
+    </a>
+</article>
+</li>
+                                                                                <li>
+<article class="story theme-summary">
+    <a class="story-link" href="http://www.nytimes.com/2015/03/25/world/europe/germanwings-crash.html">
+
+                    <div class="thumb">
+                <img src="http://static01.nyt.com/images/2015/03/25/world/25plane-hp5-test/25plane-hp5-thumbStandard.jpg" alt="A few hours after officials recovered one of the black boxes, they called off the search for the evening." />
+                <div class="media-action-overlay"></div>
+            </div>
+        
+        <h2 class="story-heading">
+                        <span class="story-heading-text">Germanwings Crash in French Alps Kills 150; Cockpit Voice Recorder Is Found</span><time class="dateline" datetime="2015-03-24">MARCH 24, 2015</time>
+        </h2>
+
+    </a>
+</article>
+</li>
+                                                                                <li>
+<article class="story theme-summary">
+    <a class="story-link" href="http://www.nytimes.com/2015/03/25/world/europe/in-haltern-a-school-year-highlight-that-ended-in-disaster.html">
+
+                    <div class="thumb">
+                <img src="http://static01.nyt.com/images/2015/03/25/world/HALTERN/HALTERN-thumbStandard-v2.jpg" alt="Students and teachers from the Joseph-K&ouml;nig school in Germany were returning from a language and culture immersion program in Spain when their plane crashed on Tuesday." />
+                <div class="media-action-overlay"></div>
+            </div>
+        
+        <h2 class="story-heading">
+                        <span class="story-heading-text">In German Town, a School-Year Highlight That Ended in Disaster</span><time class="dateline" datetime="2015-03-24">MARCH 24, 2015</time>
+        </h2>
+
+    </a>
+</article>
+</li>
+                                                                                <li>
+<article class="story theme-summary">
+    <a class="story-link" href="http://www.nytimes.com/video/world/europe/100000003592411/french-terror-attack-on-plane-unlikely.html">
+
+                    <div class="thumb">
+                <img src="http://static01.nyt.com/images/2015/03/25/multimedia/france-plane-terror/france-plane-terror-thumbStandard.jpg" alt="" />
+                <div class="media-action-overlay"><i class="icon sprite-icon video-icon"></i>
+<span class="visually-hidden">video</span>
+</div>
+            </div>
+        
+        <h2 class="story-heading">
+                        <span class="story-heading-text">French: Terror Attack on Plane Unlikely</span><time class="dateline" datetime="2015-03-25">MARCH 25, 2015</time>
+        </h2>
+
+    </a>
+</article>
+</li>
+                                                </ul>
+        </div><!-- close nocontent -->
+    </aside>
+<!-- // Start AB Test WP-7459 -->
+            <aside class="marginalia related-coverage-marginalia related-coverage-marginalia-large-format nocontent robots-nocontent" data-marginalia-type="sprinkled" role="complementary" module="RelatedCoverage-Marginalia">
+            <div class="nocontent robots-nocontent">
+                <a class="visually-hidden skip-to-text-link" href="#story-continues-2">Continue reading the main story</a>
+
+                    <header>
+        <h2 class="module-heading">
+                            Related Coverage
+                    </h2>
+    </header>
+
+                <ul>
+                                                                        <li><!-- // Start AB Test WP-7459 -->
+
+<article class="story theme-summary">
+    <a class="story-link" href="http://www.nytimes.com/2015/03/27/world/europe/germanwings-crash.html">
+
+                    <figure class="media photo">
+                <img src="http://static01.nyt.com/images/2015/03/27/world/27PLANE1/27PLANE1-videoHpMedium.jpg" alt="Relatives of the victims of Germanwings Flight 9525 on Thursday attended a tribute to their loved ones in Le Vernet, France. Flags, including that of the United States, were displayed representing the countries of origin of the victims." />
+                <figcaption class="caption" itemprop="caption description">
+                    <span class="credit" itemprop="copyrightHolder">
+                        <span class="visually-hidden">Credit</span>
+                        Alberto Estevez/European Pressphoto Agency                    </span>
+                </figcaption>
+            </figure>
+            <h2 class="story-heading">
+                <span class="story-heading-text">Fatal Descent of Germanwings Plane Was ‘Deliberate,’ French Authorities Say</span><time class="dateline" datetime="2015-03-26">MARCH 26, 2015</time>
+            </h2>
+        
+        
+    </a>
+</article>
+<!-- // End AB Test WP-7459 --></li>
+                                                                                                <li><!-- // Start AB Test WP-7459 -->
+
+<article class="story theme-summary">
+    <a class="story-link" href="http://www.nytimes.com/2015/03/26/world/europe/challenges-weigh-heavily-on-recovery-efforts-in-germanwings-crash.html">
+
+                    <figure class="media photo">
+                <img src="http://static01.nyt.com/images/2015/03/26/world/alps-web/alps-web-videoHpMedium-v2.jpg" alt="French helicopters passed over Seyne-les-Alpes on Wednesday on their way to the crash site." />
+                <figcaption class="caption" itemprop="caption description">
+                    <span class="credit" itemprop="copyrightHolder">
+                        <span class="visually-hidden">Credit</span>
+                        Alberto Estevez/European Pressphoto Agency                    </span>
+                </figcaption>
+            </figure>
+            <h2 class="story-heading">
+                <span class="story-heading-text">Challenges Weigh Heavily on Recovery Efforts in Germanwings Crash</span><time class="dateline" datetime="2015-03-25">MARCH 25, 2015</time>
+            </h2>
+        
+        
+    </a>
+</article>
+<!-- // End AB Test WP-7459 --></li>
+                                                                                                <li><!-- // Start AB Test WP-7459 -->
+
+<article class="story theme-summary">
+    <a class="story-link" href="http://www.nytimes.com/2015/03/26/world/europe/germanwings-passengers.html">
+
+                    <figure class="media photo">
+                <img src="http://static01.nyt.com/images/2015/03/26/world/europe/26victims-combo/26victims-combo-videoHpMedium.jpg" alt="Clockwise from top left: Oleg Bryjak, a bass baritone at the D&uuml;sseldorf opera; Maria Radner, a contralto in D&uuml;sseldorf; Greig Friday, a mechanical engineer from Australia; and his mother, Carol Friday, a nurse." />
+                <figcaption class="caption" itemprop="caption description">
+                    <span class="credit" itemprop="copyrightHolder">
+                        <span class="visually-hidden">Credit</span>
+                        Top left: Balmer and Dixon Management; top right: Kerstin Joensson/Associated Press; bottom: Australian Department of Foreign Affairs and Trade                    </span>
+                </figcaption>
+            </figure>
+            <h2 class="story-heading">
+                <span class="story-heading-text">Among Germanwings Crash Victims, Opera Singers and Newlyweds</span><time class="dateline" datetime="2015-03-25">MARCH 25, 2015</time>
+            </h2>
+        
+        
+    </a>
+</article>
+<!-- // End AB Test WP-7459 --></li>
+                                                            </ul>
+            </div><!-- close nocontent -->
+        </aside>
+    <!-- // End AB Test WP-7459 --><p class="story-body-text story-content" data-para-count="266" data-total-count="1264" itemprop="articleBody" id="story-continues-2">“We don’t know yet the reason why one of the guys went out,” said the official, who requested anonymity because the investigation was continuing. “But what is sure is that at the very end of the flight, the other pilot is alone and does not open the door.”</p> <figure id="germanwings-victims" class="interactive promo  has-adjacency layout-large">
+    <a class="visually-hidden skip-to-text-link" href="#story-continues-3">Continue reading the main story</a>
+    <a href="http://www.nytimes.com/interactive/2015/03/25/world/europe/germanwings-victims.html">
+                <figcaption class="interactive-caption">
+                        <h2 class="interactive-headline">
+                Victims of Germanwings Flight 9525            </h2>
+            <p class="interactive-summary">
+                Passengers from at least 15 countries were aboard the flight from Barcelona, Spain, to Düsseldorf, Germany, including 72 Germans and 35 Spaniards. Here are profiles of some of the 123 victims whose families have been notified.            </p>
+        </figcaption>
+        
+        <div class="interactive-image-container">
+            <div class="interactive-image">
+                <img src="http://static01.nyt.com/images/2015/03/26/world/europe/26victims-combo/26victims-combo-master495.jpg" />
+            </div>
+            <div class="interactive-overlay">
+                <i class="icon sprite-icon interactive-overlay-icon"></i>
+                            </div>
+        </div>
+
+            </a>
+</figure>
+<p class="story-body-text story-content" data-para-count="498" data-total-count="1762" itemprop="articleBody" id="story-continues-3">The data from the voice recorder seems only to deepen the mystery surrounding the crash and provides no indication of the condition or activity of the pilot who remained in the cockpit. The descent from 38,000 feet over about 10 minutes was alarming but still gradual enough to indicate that the twin-engine <a title="More articles about Airbus S.A.S." href="http://topics.nytimes.com/top/news/business/companies/airbus_sas/index.html?inline=nyt-org">Airbus</a> A320 had not been damaged catastrophically. At no point during the descent was there any communication from the cockpit to air traffic controllers or any other signal of an emergency.</p><p class="story-body-text story-content" data-para-count="195" data-total-count="1957" itemprop="articleBody">When the plane plowed into craggy mountains northwest of Nice, it was traveling with enough speed that it was all but pulverized, killing the 144 passengers and crew of six and leaving few clues.</p><p class="story-body-text story-content" data-para-count="375" data-total-count="2332" itemprop="articleBody">The French aviation authorities have made public very little, officially, about the nature of the information that has been recovered from the audio recording, and it was not clear whether it was complete. France’s Bureau of Investigations and Analyses confirmed only that human voices and other cockpit sounds had been detected and would be subjected to detailed analysis.</p><div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div><div id="Moses" class="ad moses-ad nocontent robots-nocontent"><a class="visually-hidden skip-to-text-link" href="#story-continues-4">Continue reading the main story</a>
+</div><p class="story-body-text story-content" data-para-count="318" data-total-count="2650" itemprop="articleBody" id="story-continues-4">Asked about the new evidence revealed in the cockpit recordings, Martine del Bono, a bureau spokeswoman, declined to comment. “Our teams continue to work on analyzing the C.V.R.,” she said, referring to the cockpit voice recorder. “As soon as we have accurate information we intend to hold a press conference.”</p><figure id="media-100000003593870" class="media photo embedded has-adjacency layout-large-horizontal media-100000003593870 ratio-tall" data-media-action="modal" itemprop="associatedMedia" itemscope itemid="http://static01.nyt.com/images/2015/03/26/world/26PLANESUB/26PLANESUB-articleLarge.jpg" itemtype="http://schema.org/ImageObject" aria-label="media" role="group">
+    <span class="visually-hidden">Photo</span>
+    <div class="image">
+            <img src="http://static01.nyt.com/images/2015/03/26/world/26PLANESUB/26PLANESUB-articleLarge.jpg" alt="" class="media-viewer-candidate" data-mediaviewer-src="http://static01.nyt.com/images/2015/03/26/world/26PLANESUB/26PLANESUB-superJumbo.jpg" data-mediaviewer-caption="A search team near Seyne, France, looked for clues in the crash of a Germanwings plane that left 150 people dead." data-mediaviewer-credit="Peter Macdiarmid/Getty Images"  itemprop="url" itemid="http://static01.nyt.com/images/2015/03/26/world/26PLANESUB/26PLANESUB-articleLarge.jpg"/>
+            <meta itemprop="height" content="415" />
+            <meta itemprop="width" content="600" />
+    </div>
+        <figcaption class="caption" itemprop="caption description">
+                <span class="caption-text">A search team near Seyne, France, looked for clues in the crash of a Germanwings plane that left 150 people dead.</span>
+                        <span class="credit" itemprop="copyrightHolder">
+            <span class="visually-hidden">Credit</span>
+            Peter Macdiarmid/Getty Images        </span>
+            </figcaption>
+    </figure>
+<p class="story-body-text story-content" data-para-count="264" data-total-count="2914" itemprop="articleBody">Meanwhile, prosecutors in Marseille, who have been tasked with a separate criminal inquiry into the crash, could not immediately be reached for comment. Brice Robin, the Marseille prosecutor, was due to meet Thursday morning with the families of the crash victims.</p><p class="story-body-text story-content" data-para-count="339" data-total-count="3253" itemprop="articleBody">At the crash site, a senior official working on the investigation said, workers found the casing of the plane’s other so-called black box, the flight data recorder, but the memory card containing data on the plane’s altitude, speed, location and condition was not inside, apparently having been thrown loose or destroyed by the impact.</p><div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div><div class="ad ad-placeholder nocontent robots-nocontent"><a class="visually-hidden skip-to-text-link" href="#story-continues-5">Continue reading the main story</a>
+</div><p class="story-body-text story-content" data-para-count="81" data-total-count="3334" itemprop="articleBody" id="story-continues-5">The flight’s trajectory ahead of the crash also left many unanswered questions.</p><aside class="marginalia comments-marginalia  featured-comment-marginalia" data-marginalia-type="sprinkled" data-skip-to-para-id="story-continues-6">
+</aside><p class="story-body-text story-content" data-para-count="316" data-total-count="3650" itemprop="articleBody" id="story-continues-6">Rémi Jouty, the director of the Bureau of Investigations and Analyses, said at a news conference that the plane took off around 10 a.m. local time from Barcelona and that the last message sent from the pilot to air traffic controllers had been at 10:30 a.m., which indicated that the plane was proceeding on course.</p> <figure id="germanwings-plane-crash-map" class="interactive promo  has-adjacency layout-large">
+    <a class="visually-hidden skip-to-text-link" href="#story-continues-7">Continue reading the main story</a>
+    <a href="http://www.nytimes.com/interactive/2015/03/24/world/europe/germanwings-plane-crash-map.html">
+                <figcaption class="interactive-caption">
+                        <h3 class="interactive-kicker">
+                Map            </h3>
+                        <h2 class="interactive-headline">
+                What Happened on the Germanwings Flight            </h2>
+            <p class="interactive-summary">
+                Maps and a timeline of what is known so far about the timeline of the crash.            </p>
+        </figcaption>
+        
+        <div class="interactive-image-container">
+            <div class="interactive-image">
+                <img src="http://static01.nyt.com/images/2015/03/24/world/europe/germanwings-plane-crash-map-1427222452575/germanwings-plane-crash-map-1427222452575-master495-v8.png" />
+            </div>
+            <div class="interactive-overlay">
+                <i class="icon sprite-icon interactive-overlay-icon"></i>
+                                <span class="interactive-overlay-text">
+                    OPEN Map                </span>
+                            </div>
+        </div>
+
+            </a>
+</figure>
+<p class="story-body-text story-content" data-para-count="249" data-total-count="3899" itemprop="articleBody" id="story-continues-7">But minutes later, the plane inexplicably began to descend, Mr. Jouty said. At 10:40 and 47 seconds, the plane reported its last radar position, at an altitude of 6,175 feet. “The radar could follow the plane until the point of impact,” he said.</p><p class="story-body-text story-content" data-para-count="161" data-total-count="4060" itemprop="articleBody">Mr. Jouty said the plane slammed into a mountainside and disintegrated, scattering debris over a wide area, and making it difficult to analyze what had happened.</p><p class="story-body-text story-content" data-para-count="288" data-total-count="4348" itemprop="articleBody">It often takes months or even years to determine the causes of plane crashes, but a little more than a year after the disappearance of a Malaysian airlines jetliner that has never been found, the loss of the Germanwings flight is shaping up to be particularly perplexing to investigators.</p><p class="story-body-text story-content" data-para-count="277" data-total-count="4625" itemprop="articleBody">One of the main questions is why the pilots did not communicate with air traffic controllers as the plane began its unusual descent, which suggested that the pilots or the plane’s automated systems may have been trying to maintain control of the aircraft as it lost altitude.</p><figure class="promo media video embedded layout-large-horizontal " 
+    data-videoid="100000003592973" data-media-action="modal" data-share-options-url="" data-autoplay="false" data-embedded="false" aria-label="media" role="group">
+    <a class="visually-hidden skip-to-text-link" href="#story-continues-8">Continue reading the main story</a>
+    <span class="visually-hidden">Video</span>
+    
+    <div class="image">
+        <img src="http://static01.nyt.com/images/2015/03/25/multimedia/germanwings-probe/germanwings-probe-videoSixteenByNine540.jpg" />
+        <div class="media-action-overlay">
+            <i class="icon"></i>
+            <div class="media-meta">
+                <h5 class="kicker"><span class="kicker-label">Play Video</span><span class="pipe">|</span><span class="counter">0:49</span></h5>
+                <h4 class="headline">Investigator: Audio Retrieved From Plane</h4>
+            </div>
+        </div><!-- close media-action-overlay -->
+    </div>
+
+    <figcaption class="caption">
+        <h4 class="headline">Investigator: Audio Retrieved From Plane</h4>
+        <div class="summary-credit">
+            <p class="summary">Rémi Jouty, director of France’s Bureau of Investigation and Analysis, confirmed that audio of voices had been recovered from the black box in the crash of the Germanwings plane in the French Alps.</p>
+            <span class="credit video-credit" itemprop="copyrightHolder">
+                By Reuters on                                                    <span class="visually-hidden">Publish Date </span>March 25, 2015.
+                            </span>
+            <span class="credit photo-credit" itemprop="copyrightHolder">
+                                    Photo by Francois Mori/Associated Press.
+                            </span>
+        </div>
+    </figcaption>
+</figure>
+<p class="story-body-text story-content" data-para-count="214" data-total-count="4839" itemprop="articleBody" id="story-continues-8">Among the theories that have been put forward by air safety analysts not involved in the investigation is the possibility that a pilot was incapacitated by a sudden event such as a fire or a drop in cabin pressure.</p><p class="story-body-text story-content" data-para-count="276" data-total-count="5115" itemprop="articleBody">A senior French official involved in the investigation, who spoke on the condition of anonymity, said that the lack of communication from the pilots during the plane’s descent was disturbing, and that the possibility that their silence was deliberate could not be ruled out.</p><aside class="marginalia comments-marginalia  comment-prompt-marginalia" data-marginalia-type="sprinkled" data-skip-to-para-id="story-continues-9">
+</aside><p class="story-body-text story-content" data-para-count="295" data-total-count="5410" itemprop="articleBody" id="story-continues-9">“I don’t like it,” said the French official, who cautioned that his initial analysis was based on the very limited information currently available. “To me, it seems very weird: this very long descent at normal speed without any communications, though the weather was absolutely clear.”</p><aside class="marginalia comments-marginalia  selected-comment-marginalia" data-marginalia-type="sprinkled" data-skip-to-para-id="story-continues-10">
+</aside><p class="story-body-text story-content" data-para-count="190" data-total-count="5600" itemprop="articleBody" id="story-continues-10">“So far, we don’t have any evidence that points clearly to a technical explanation,” the official said. “So we have to consider the possibility of deliberate human responsibility.”</p><figure id="media-100000003593073" class="media photo embedded has-adjacency layout-small-horizontal media-100000003593073 ratio-tall" data-media-action="modal" itemprop="associatedMedia" itemscope itemid="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE5-hp/26PLANE5-hp-master315.jpg" itemtype="http://schema.org/ImageObject" aria-label="media" role="group">
+    <span class="visually-hidden">Photo</span>
+    <div class="image">
+            <img src="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE5-hp/26PLANE5-hp-master315.jpg" alt="" class="media-viewer-candidate" data-mediaviewer-src="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE5-hp/26PLANE5-hp-superJumbo.jpg" data-mediaviewer-caption="The French aviation authorities have recovered an audio file from the cockpit voice recorder, but did not say whether it was partial or complete." data-mediaviewer-credit="Bureau d'Enquetes et d'Analyses, via Associated Press"  itemprop="url" itemid="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE5-hp/26PLANE5-hp-master315.jpg"/>
+            <meta itemprop="height" content="210" />
+            <meta itemprop="width" content="315" />
+    </div>
+        <figcaption class="caption" itemprop="caption description">
+                <span class="caption-text">The French aviation authorities have recovered an audio file from the cockpit voice recorder, but did not say whether it was partial or complete.</span>
+                        <span class="credit" itemprop="copyrightHolder">
+            <span class="visually-hidden">Credit</span>
+            Bureau d'Enquetes et d'Analyses, via Associated Press        </span>
+            </figcaption>
+    </figure>
+<p class="story-body-text story-content" data-para-count="92" data-total-count="5692" itemprop="articleBody">Mr. Jouty said it was far too early in the investigation to speculate about possible causes.</p><p class="story-body-text story-content" data-para-count="206" data-total-count="5898" itemprop="articleBody">“At this moment, I have no beginning of a scenario,” Mr. Jouty said. However, he said there was not yet any evidence available that would support a theory of a depressurization or of a midair explosion.</p><p class="story-body-text story-content" data-para-count="361" data-total-count="6259" itemprop="articleBody">Speaking on the French radio station RTL, Interior Minister Bernard Cazeneuve said Wednesday morning that terrorism was not a likely “hypothesis at the moment,” but that no theories had been excluded. He said the size of the area over which debris was scattered suggested that the aircraft had not exploded in the air but rather had disintegrated on impact.</p><div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div><div class="ad ad-placeholder nocontent robots-nocontent"><a class="visually-hidden skip-to-text-link" href="#story-continues-11">Continue reading the main story</a>
+</div>
+    	<div id="MiddleRightN" class="ad text-ad middle-right-ad nocontent robots-nocontent"><a class="visually-hidden skip-to-text-link" href="#story-continues-11">Continue reading the main story</a>
+</div><p class="story-body-text story-content" data-para-count="254" data-total-count="6513" itemprop="articleBody" id="story-continues-11">Lufthansa, the parent company of Germanwings, has characterized the crash as an accident. The airline has not disclosed the identities of the pilots, except to say that the captain was a 10-year veteran with more than 6,000 hours of flying time in A320s.</p><figure id="media-100000003592248" class="media photo embedded has-adjacency layout-small-horizontal media-100000003592248 ratio-tall" data-media-action="modal" itemprop="associatedMedia" itemscope itemid="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE-hp/26PLANE-hp-master315.jpg" itemtype="http://schema.org/ImageObject" aria-label="media" role="group">
+    <span class="visually-hidden">Photo</span>
+    <div class="image">
+            <img src="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE-hp/26PLANE-hp-master315.jpg" alt="" class="media-viewer-candidate" data-mediaviewer-src="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE-hp/26PLANE-hp-superJumbo.jpg" data-mediaviewer-caption="French emergency services resumed work on Wednesday near the crash site of a Germanwings jet." data-mediaviewer-credit="Peter Kneffel/European Pressphoto Agency"  itemprop="url" itemid="http://static01.nyt.com/images/2015/03/25/world/europe/26PLANE-hp/26PLANE-hp-master315.jpg"/>
+            <meta itemprop="height" content="210" />
+            <meta itemprop="width" content="315" />
+    </div>
+        <figcaption class="caption" itemprop="caption description">
+                <span class="caption-text">French emergency services resumed work on Wednesday near the crash site of a Germanwings jet.</span>
+                        <span class="credit" itemprop="copyrightHolder">
+            <span class="visually-hidden">Credit</span>
+            Peter Kneffel/European Pressphoto Agency        </span>
+            </figcaption>
+    </figure>
+<p class="story-body-text story-content" data-para-count="325" data-total-count="6838" itemprop="articleBody">The French Bureau of Investigations and Analyses, which is leading the technical inquiry into the crash, sent seven investigators to the crash site Tuesday. They have been joined by their counterparts from Germany, as well as by technical advisers from Airbus and CFM International, the manufacturer of the plane’s engines.</p><p class="story-body-text story-content" data-para-count="236" data-total-count="7074" itemprop="articleBody">Speaking on Europe 1 radio, Jean-Paul Troadec, a former director of the French air accident investigation bureau, said one of the big challenges for investigators would be to protect the debris at the crash site from inadvertent damage.</p><p class="story-body-text story-content" data-para-count="309" data-total-count="7383" itemprop="articleBody">“We need to ensure that all the evidence is well preserved,” Mr. Troadec said, referring to the pieces of the plane littered across the steep slopes as well as to the remains of the victims. The identification of the victims will probably require matching DNA from the remains with samples from relatives.</p><button class="button comments-button  theme-speech-bubble" data-skip-to-para-id="story-continues-12">
+</button><p class="story-body-text story-content" data-para-count="189" data-total-count="7572" itemprop="articleBody" id="story-continues-12">The recovery effort will be a laborious task, given the state of the wreckage, the difficult terrain and the fact that the crash site is <a href="http://www.nytimes.com/2015/03/26/world/europe/challenges-weigh-heavily-on-recovery-efforts-in-germanwings-crash.html?hp&amp;action=click&amp;pgtype=Homepage&amp;module=photo-spot-region&amp;region=top-news&amp;WT.nav=top-news">so remote that it can be reached only by helicopter</a>.</p><p class="story-body-text story-content" data-para-count="515" data-total-count="8087" itemprop="articleBody">Cabin depressurization, one of the possibilities speculated about on Wednesday, has occurred before, perhaps most notably in the <a href="http://www.nytimes.com/2005/08/15/international/europe/15greece.html">crash of a Cypriot passenger plane in 2005</a> that killed all 121 people on board as it approached Athens. In that case, Helios Airways Flight 522, a slow loss of pressure rendered both pilots and all the passengers on the Boeing 737 jet unconscious for more than three-quarters of an hour before the aircraft ran out of fuel and slammed into a wooded gorge near Athens, the Greek capital.</p><p class="story-body-text story-content" data-para-count="218" data-total-count="8305" itemprop="articleBody">Investigators eventually determined that the primary cause of that crash was a series of human errors, including deficient maintenance checks on the ground and a failure by the pilots to heed emergency warning signals.</p>
+        
+                        <div id="addendums" class="addendums">
+    <div class="story-addendum story-content theme-correction">
+        <strong> Correction: April 1, 2015 </strong> <br/>
+    	<p>Because of an editing error, an article on Thursday about a discovery by French investigators that one of the two pilots on the Germanwings jet that crashed in the French Alps had left the cockpit before the plane&rsquo;s descent and was unable to get back in misstated the location of the plane crash relative to Nice. The crash was northwest of Nice, not northeast. Because of other editing errors, a picture caption with the article overstated, in some editions, what was known about the members of a search team looking for clues on a mountainside and referred imprecisely, in some editions, to their formation. Although the searchers were military personnel, it is not known whether any of them are officers, and they were shown climbing a winding path on the mountain; they had not formed a search line.</p>    </div>
+</div>
+                <footer class="story-footer story-content">
+    <div class="story-meta">
+                        
+        
+        <p class="story-print-citation">A version of this article appears in print on March 26, 2015, on page A1 of the <span itemprop="printEdition">New York edition</span> with the headline: One Pilot Locked Out of Cockpit Before Crash. <span class="story-footer-links">  <span><a href="https://s100.copyright.com/AppDispatchServlet?contentID=http%3A%2F%2Fwww.nytimes.com%2F2015%2F03%2F26%2Fworld%2Feurope%2Fgermanwings-airbus-crash.html&publisherName=The+New+York+Times&publication=nytimes.com&token=&orderBeanReset=true&postType=&wordCount=1370&title=Germanwings%C2%A0Pilot+Was+Locked+Out+of+Cockpit+Before+Crash+in+France&publicationDate=March+25%2C+2015&author=By Nicola Clark and Dan Bilefsky" target="_blank">Order Reprints</a><span class="pipe">|</span></span>  <span><a href="http://www.nytimes.com/pages/todayspaper/index.html" target="_blank">Today's Paper</a><span class="pipe">|</span></span><span><a href="http://www.nytimes.com/subscriptions/Multiproduct/lp839RF.html?campaignId=48JQY" target="_blank">Subscribe</a></span>
+</span>
+</p>
+    </div><!-- close story-meta -->
+    </footer>
+
+        
+                                <nav id="next-in"></nav><!-- close next-in -->
+                        </div><!-- close story-body -->
+</article>
+<aside class="marginalia most-emailed-marginalia hidden nocontent robots-nocontent" data-truncate-enabled="true"></aside><section id="whats-next" class="whats-next nocontent robots-nocontent">
+    <div class="nocontent robots-nocontent">
+        <div class="loader-container">
+            <div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+        </div>
+    </div><!-- close nocontent -->
+</section>
+<div id="TopAd1" class="text-ad bottom-left-ad nocontent robots-nocontent"></div><div id="Top5" class="ad top5-ad hidden nocontent robots-nocontent"></div>
+                    <div class="search-overlay"></div>
+            </main><!-- close main -->
+            <section id="site-index" class="site-index">
+    <header class="section-header">
+        <p class="user-action"><a href="http://www.nytimes.com/">Go to Home Page &raquo;</a></p>
+        <h2 class="section-heading">
+            <span class="visually-hidden">Site Index</span>
+            <a href="http://www.nytimes.com/">
+                <script>window.magnum.writeLogo('small', 'http://a1.nyt.com/assets/article/20150421-163815/images/foundation/logos/', '', '', 'standard');</script>
+         </a>
+        </h2>
+    </header>
+
+    <nav id="site-index-navigation" class="site-index-navigation" role="navigation">
+
+        <div class="split-6-layout layout">
+
+                                                                                    
+                    <div class="column">
+                        <h3 class="menu-heading">News</h3>
+                        <ul class="menu">
+
+                                                                                                                                                                                                                                                
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/world/index.html">World</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/politics/index.html">Politics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/nyregion/index.html">New York</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/obituaries/index.html">Obituaries</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Opinion</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html">Today's Opinion</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#columnists">Op-Ed Columnists</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#editorials">Editorials</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#contributing">Contributing Writers</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#op-ed">Op-Ed Contributors</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#opinionator">Opinionator</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#letters">Letters</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#sundayreview">Sunday Review</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#takingNote">Taking Note</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#roomfordebate">Room for Debate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/video/opinion/">Video: Opinion</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Arts</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/index.html">Today's Arts</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/design/index.html">Art & Design</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://artsbeat.blogs.nytimes.com/">ArtsBeat</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/books/index.html">Books</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/dance/index.html">Dance</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/movies/index.html">Movies</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/music/index.html">Music</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/television/index.html">Television</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/theater/index.html">Theater</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/video-games/index.html">Video Games</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/video/arts/">Video: Arts</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Living</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/automobiles/index.html">Automobiles</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/crosswords/">Crossword</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/dining/index.html">Food</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/fashion/index.html">Fashion & Style</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/garden/index.html">Home & Garden</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/magazine/index.html">Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/t-magazine/index.html">T Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/fashion/weddings/index.html">Weddings & Celebrations</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Listings & More</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/ref/classifieds/">Classifieds</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/marketing/tools-and-services/">Tools & Services</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/topics/">Times Topics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://tvlistings.nytimes.com/tvlistings/ZCGrid.do?aid=nyt">TV Listings</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/interactive/blogs/directory.html">Blogs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://wordplay.blogs.nytimes.com/cartoons/">Cartoons</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/multimedia/index.html">Multimedia</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://lens.blogs.nytimes.com/">Photography</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/video/">Video</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/store/?&t=qry542&utm_source=nytimes&utm_medium=HPB&utm_content=hp_browsetree&utm_campaign=NYT-HP&module=SectionsNav&action=click&region=TopBar&version=BrowseTree&contentCollection=NYT%20Store&contentPlacement=2&pgtype=Homepage">NYT Store</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/times-journeys/?utm_source=nytimes&utm_medium=HPLink&utm_content=hp_browsetree&utm_campaign=NYT-HP">Times Journeys</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/seeallnav">Subscribe</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/membercenter">Manage My Account</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                            
+            <div class="column last-column">
+                
+<h3 class="menu-heading">Subscribe</h3>
+
+<ul class="menu primary-menu">
+    <li class="menu-label">Subscribe</li>
+    <li class="times-premier">
+        <i class="icon sprite-icon"></i>
+        <a href="http://www.nytimes.com/tpnav">Times Premier</a>
+    </li>
+
+    <li class="home-delivery">
+        <i class="icon sprite-icon"></i>
+                    <a href="http://www.nytimes.com/hdleftnav">Home Delivery</a>
+            </li>
+    <li class="digital-subscriptions">
+        <i class="icon sprite-icon"></i>
+                    <a href="http://www.nytimes.com/digitalleftnav">Digital Subscriptions</a>
+            </li>
+    <li class="nyt-opinion">
+        <i class="icon sprite-icon"></i>
+        <a href="http://www.nytimes.com/opinionindex">NYT Opinion</a>
+    </li>
+    <li class="nyt-crossword last-item">
+        <i class="icon sprite-icon"></i>
+        <a id="nyt-crossword" href="http://www.nytimes.com/crosswords/index.html">Crossword</a>
+    </li>
+
+</ul>
+
+<ul class="menu secondary-menu">
+
+    <li>
+        <a href="http://www.nytimes.com/marketing/newsletters">Email Newsletters</a>
+    </li>
+    <li>
+        <a href="https://myaccount.nytimes.com/mem/tnt.html">Alerts</a>
+    </li>
+    <li>
+                    <a href="http://www.nytimes.com/giftleftnav">Gift Subscriptions</a>
+            </li>
+    <li>
+                    <a href="http://www.nytimes.com/corporateleftnav">Corporate Subscriptions</a>
+            </li>
+    <li>
+                    <a href="http://www.nytimes.com/educationleftnav">Education Rate</a>
+            </li>
+
+</ul>
+<ul class="menu secondary-menu">
+    <li>
+        <a href="http://www.nytimes.com/services/mobile/index.html">Mobile Applications</a>
+    </li>
+    <li>
+                    <a href="http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY">Replica Edition</a>
+            </li>
+                <li>
+            <a href="http://subscribe.inyt.com">International New York Times</a>
+        </li>
+    
+</ul>
+
+            </div><!-- close column -->
+
+        </div><!-- close split-6-layout -->
+
+    </nav><!-- close nav -->
+
+</section><!-- close site-index -->
+
+            <footer id="page-footer" class="page-footer" role="contentinfo">
+    <nav>
+         <ul>
+             <li>
+                <a href="http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html" itemprop="copyrightNotice">
+                    &copy; <span itemprop="copyrightYear">2015</span><span itemprop="copyrightHolder provider sourceOrganization" itemscope itemtype="http://schema.org/Organization" itemid="http://www.nytimes.com"><span itemprop="name"> The New York Times Company</span><meta itemprop="tickerSymbol" content="NYSE NYT"/></span>
+                </a>
+            </li>
+            <li class="visually-hidden"><a href="http://www.nytimes.com">Home</a></li>
+            <li class="visually-hidden"><a href="http://query.nytimes.com/search/sitesearch/#/">Search</a></li>
+            <li class="wide-viewport-item"><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+            <li class="wide-viewport-item"><a href="http://www.nytco.com/careers">Work With Us</a></li>
+            <li class="wide-viewport-item"><a href="http://www.nytimes.whsites.net/mediakit">Advertise</a></li>
+            <li class="wide-viewport-item"><a href="http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp">Your Ad Choices</a></li>
+            <li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+            <li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html" itemprop="usageTerms">Terms of Service</a></li>
+            <li class="wide-viewport-item last-item"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+         </ul>
+    </nav>
+    <nav class="last-nav">
+        <ul>
+            <li><a href="http://spiderbites.nytimes.com">Site Map</a></li>
+            <li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+            <li><a href="https://myaccount.nytimes.com/membercenter/feedback.html">Site Feedback</a></li>
+            <li class="wide-viewport-item last-item"><a href="http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW">Subscriptions</a></li>
+        </ul>
+    </nav>
+</footer>        </div><!-- close page -->
+    </div><!-- close shell -->
+    <script>
+require(['foundation/main'], function () {
+    require(['article/main']);
+    require(['jquery/nyt', 'foundation/views/page-manager'], function ($, pageManager) {
+        if (window.location.search.indexOf('disable_tagx') > 0) {
+            return;
+        }
+        $(document).ready(function () {
+            require(['http://static01.nyt.com/bi/js/tagx/tagx.js'], function () {
+                pageManager.trackingFireEventQueue();
+            });
+        });
+    });
+});
+</script>
+
+    <div id="Inv1" class="ad inv1-ad hidden"></div>
+<div id="Inv2" class="ad inv2-ad hidden"></div>
+<div id="Inv3" class="ad inv3-ad hidden"></div>
+<div id="ab1" class="ad ab1-ad hidden"></div>
+<div id="ab2" class="ad ab2-ad hidden"></div>
+<div id="ab3" class="ad ab3-ad hidden"></div>
+<div id="prop1" class="ad prop1-ad hidden"></div>
+<div id="prop2" class="ad prop2-ad hidden"></div>
+<div id="Anchor" class="ad anchor-ad hidden"></div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b5bcf2eba4","applicationID":"4491951","transactionName":"YwFXZhRYVhAEVUZcX1pLYEAPFlkTFRhCXUA=","queueTime":0,"applicationTime":170,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script></body>
+</html>

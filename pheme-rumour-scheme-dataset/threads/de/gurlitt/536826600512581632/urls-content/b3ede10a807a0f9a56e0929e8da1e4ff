@@ -1,0 +1,1933 @@
+HTTP/1.1 200 OK
+Date: Tue, 24 Mar 2015 01:10:17 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+fuman_outputCache: level 2
+Set-Cookie: PHPSESSID=4635d90f541467c99ccb31e8c66b8246; path=/
+Set-Cookie: fuman_language=de; expires=Mon, 22-Jun-2015 01:10:17 GMT; path=/
+Set-Cookie: fuman_language=de; expires=Mon, 22-Jun-2015 01:10:17 GMT; path=/admin/
+Set-Cookie: fuman_backend_language=de; expires=Mon, 22-Jun-2015 01:10:17 GMT; path=/
+Set-Cookie: fuman_backend_language=de; expires=Mon, 22-Jun-2015 01:10:17 GMT; path=/admin/
+Set-Cookie: fuman_loggedIn=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: fuman_loggedIn=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/admin/
+Set-Cookie: fuman_cachePrefix=desktop%3Ade; expires=Mon, 22-Jun-2015 01:10:17 GMT; path=/
+Set-Cookie: fuman_cachePrefix=desktop%3Ade; expires=Mon, 22-Jun-2015 01:10:17 GMT; path=/admin/
+X-Powered-By: PleskLin
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+<!doctype html>
+<html lang="de" dir="ltr" >
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--
+________
+___  __/___  ________ _________ _______
+__  /_ _  / / /_  __ `__ \  __ `/_  __ \
+_  __/ / /_/ /_  / / / / / /_/ /_  / / /
+/_/    \__,_/ /_/ /_/ /_/\__,_/ /_/ /_/
+
+Design & Development by fugu - www.fugu.ch
+
+-->
+
+<link rel="stylesheet" media="all" href="/admin/assets/css/00_reset.css?v=393865860">
+<link rel="stylesheet" media="all" href="/admin/app/kmb/theme/default/css/00_reset.css?v=393865860">
+<link rel="stylesheet" media="all" href="/admin/app/kmb/theme/default/css/01_960.css?v=393865860">
+<link rel="stylesheet" media="all" href="/admin/app/kmb/theme/default/css/02_screen.css?v=393865860">
+<link rel="stylesheet" media="all" href="/admin/app/kmb/theme/default/css/03_editor.css?v=393865860">
+
+<meta name="description" content="Das Kunstmuseum Bern dementiert die Meldung der Deutsche Presse-Agentur dpa. Die Entscheidung des Stiftungsrates des Kunstmuseums Bern steht noch aus und wird am Montag, 24. November 2014 in Berlin kommuniziert. ">
+<meta name="keywords" content="demento,kunstmuseum,bern,dementiert,meldung,deutsche,presse,agentur,dpa,entscheidung,stiftungsrates,kunstmuseums,steht,montag,november,berlin,kommuniziert">
+<meta name="image" content="http://kunstmuseumbern.ch//admin/data/hosts/kmb/files/page_editoral_image/image/1016/kunstmuseumbern_content_content.jpg?lm=1416567022">
+<meta name="generator" content="fuman Version 6.0 - www.fugu.ch">
+<meta name="author" content="Kunstmuseum Bern, Hodlerstrasse 8–12, CH-3000 Bern 7 ">
+<meta name="ICBM" content="46.9511398,7.4429292">
+<meta name="geo.position" content="46.9511398,7.4429292">
+<meta name="geo.placename" content="Kunstmuseum Bern, Hodlerstrasse 8–12, CH-3000 Bern 7">
+<meta property="og:type" content="website">
+<meta property="fb:admins" content="https://www.facebook.com/kunstmuseumbern">
+<meta property="og:latitude" content="46.951141">
+<meta property="og:longitude" content="7.4429292">
+<meta property="og:street-address" content="Hodlerstrasse 8–12">
+<meta property="og:locality" content="Hodlerstrasse 8–12 ">
+<meta property="og:region" content="Bern">
+<meta property="og:postal-code" content="3000">
+<meta property="og:country-name" content="Schweiz">
+<meta property="og:email" content="info@kunstmuseumbern.ch">
+<meta property="og:phone_number" content="+41 31 328 09 44">
+<meta property="og:site_name" content="Kunstmuseum Bern">
+<meta property="og:title" content="Demento">
+<meta property="og:description" content="Das Kunstmuseum Bern dementiert die Meldung der Deutsche Presse-Agentur dpa. Die Entscheidung des Stiftungsrates des Kunstmuseums Bern steht noch aus und wird am Montag, 24. November 2014 in Berlin kommuniziert. ">
+<meta property="og:url" content="http://kunstmuseumbern.ch/de/service/medien/kunstsammlung-gurlitt/21-11-14-demento-1282.html">
+<meta property="og:image" content="http://kunstmuseumbern.ch//admin/data/hosts/kmb/files/page_editoral_image/image/1016/kunstmuseumbern_content_content.jpg?lm=1416567022">
+<title>Demento - Kunstmuseum Bern</title>
+
+<link rel="canonical" href="http://www.kunstmuseumbern.ch/de/service/medien/kunstsammlung-gurlitt/21-11-14-demento-1282.html">
+<script type="text/javascript">
+    var ___fumanTime = new Date().getTime();
+    var ___fumanConfig = {"assetRoot":"\/admin\/","webRoot":"\/admin\/","webFrontendRoot":"\/","useLocalStorage":false,"uriType":"pretty","clientLogger":false,"lockExpiration":"30","version":393865860};
+    var ___fumanClasses = [{"className":"fuman.app.kmb.theme.Default","options":null},{"className":"fuman.app.kmb.component.Gallery","options":{"data":[{"spacer":"\/admin\/app\/kmb\/theme\/default\/img\/1x1.png","type":"image","uri":"\/admin\/data\/hosts\/kmb\/files\/page_editoral_image\/image\/1016\/kunstmuseumbern_content_content.jpg?lm=1416567022"}]}},{"className":"fuman.app.core.action.Cron","options":null},{"className":"fuman.app.kmb.component.Calendar","options":{"year":"2015","month":"03","day":"23","targetUri":"\/de\/sehen\/heute\/{date}-heute-120.html","days":["So","Mo","Di","Mi","Do","Fr","Sa"]}}];
+    var ___fumanProperties = null;
+    var ___fumanLocks = [];
+</script>
+
+<script  type="text/javascript" src="/admin/assets/js/mootools/00_mootools-core-1.5.1-full-nocompat.js?v=393865860"></script>
+<script  type="text/javascript" src="/admin/assets/js/mootools/01_mootools-more-1.5.1.js?v=393865860"></script>
+<script  type="text/javascript" src="/admin/assets/js/mootools/02_fugu.js?v=393865860"></script>
+<script  type="text/javascript" src="/admin/assets/js/fjs/fjs.js?v=393865860"></script>
+<script  type="text/javascript" src="/admin/assets/js/fjs/source.js?v=393865860"></script>
+<script  type="text/javascript" src="/admin/assets/js/fjs/util.js?v=393865860"></script>
+<script  type="text/javascript" src="/admin/assets/js/fuman/main.js?v=393865860"></script>
+        <link rel="icon"          type="image/x-icon"        href="/admin/app/kmb/theme/default/img/favicon.ico"/>
+        <link rel="shortcut icon" type="image/x-icon"        href="/admin/app/kmb/theme/default/img/favicon.ico"/>
+        <!--[if IE 7]>
+        <style type="text/css" >
+            .kmb_information_spacer { border:none; }
+        </style>
+        <![endif]-->
+    </head>
+    <body class="" >
+
+    <div class="kmb_background_blue_outer">
+    <div class="kmb_background_blue" ></div>
+    <div class="kmb_background_white" ></div>
+</div>
+
+
+    <div class="kmb_wrapper container_12" >
+
+        <div class="grid_8 kmb_header" >
+
+            <a href="/" class="kmb_header_logo" >
+
+                <img src="/admin/app/kmb/theme/default/img/kmb_logo.png" alt="" />
+            </a>
+
+            <a class="kmb_header_teaser_next" ></a>
+        </div>
+
+        <div class="grid_4 kmb_service" >
+            <div class="grid_3 alpha kmb_service_navigation" >
+                <ul>
+    
+        <li>
+            <a href="/de/service/ueber-uns-6.html" title="Über uns" class="" >Über uns</a>
+        </li>
+    
+        <li>
+            <a href="/de/service/medien-83.html" title="Medien" class="" >Medien</a>
+        </li>
+    
+        <li>
+            <a href="/de/service/blog-889.html" title="Blog" class="" >Blog</a>
+        </li>
+    
+</ul>
+
+            </div>
+            
+<div class="grid_1 alpha kmb_service_navigation_language" >
+    <form method="get">
+        <select onchange="location.href=this.value" id="app_core_component_interfacelanguage" name="language" class="fm_t_text  fm_i_select fm_t_small fm_i_small app_core_component_selectrole_select">
+            
+            <option value="/de/service/medien/kunstsammlung-gurlitt_0/21-11-14-demento-1282.html" selected="selected">de</option>
+            
+            <option value="/fr/service/medien/kunstsammlung-gurlitt_0/21-11-14-demento-1282.html" >fr</option>
+            
+            <option value="/en/service/medien/kunstsammlung-gurlitt_0/21-11-14-demento-1282.html" >en</option>
+            
+        </select>
+    </form>
+</div>
+
+
+            <div class="grid_4  kmb_service_search" role="banner">
+                <form method="get" action="/de/service/suchen-122.html" role="search" >
+    <input type="text" name="query" onclick="if(this._reset)return;this._reset=true;this.value=''" onfocus="if(this._reset)return;this._reset=true;this.value=''" class="omega kmb_service_search_input"  value="Stichwort" />
+    <input type="submit" name="submit" class="omega kmb_service_search_submit" value="Suchen"    />
+</form>
+            </div>
+            <div class="grid_4 kmb_service_title" >
+    
+</div>
+        </div>
+
+        <div class="grid_12 kmb_navigation_1" role="navigation">
+            <ul>
+    
+    <li>
+        <a class="" href="/de/besuchen_0-129.html" title="Besuchen" target="" >Besuchen</a>
+    </li>
+    
+    <li>
+        <a class="" href="/de/sehen-128.html" title="Sehen" target="" >Sehen</a>
+    </li>
+    
+    <li>
+        <a class="" href="/de/erfahren-12.html" title="Erfahren" target="" >Erfahren</a>
+    </li>
+    
+    <li>
+        <a class="" href="/de/profitieren-5.html" title="Profitieren" target="" >Profitieren</a>
+    </li>
+    
+    <li>
+        <a class="" href="/de/shop_0-864.html" title="Shop" target="" >Shop</a>
+    </li>
+    
+    <li>
+        <a class="" href="/de/news-1195.html" title="News" target="" >News</a>
+    </li>
+    
+</ul>
+        </div>
+
+        <div class="grid_8 kmb_article" role="article" >
+            
+<div class="app_core_inputtype_embed app_core_inputtype_embed_">
+    
+</div>
+
+<div class="kmb_slideshow " >
+    <div class="kmb_slideshow_container" >
+        
+        <img class="kmb_slideshow_container_image" src="/admin/data/hosts/kmb/files/page_editoral_image/image/1016/kunstmuseumbern_content_content.jpg?lm=1416567022" alt=" - " />
+        <iframe  src="/admin/app/kmb/theme/default/img/1x1.png"   id="kmb_slideshow_container_iframe" class="kmb_slideshow_container_image kmb_slideshow_container_iframe" width="620" height="438" frameborder="0" allowfullscreen="allowfullscreen" wmode="transparent" ></iframe>
+            <div class="kmb_slideshow_legend" >
+                <div class="kmb_slideshow_legend_text" ></div>
+                <div class="kmb_slideshow_legend_credit"></div>
+            </div>
+        
+    </div>
+    
+</div>
+
+
+
+
+
+
+
+<div class="kmb_article_list_item_information" >
+    
+        <a class="kmb_information_type" >
+            <span class="kmb_information_type_inner ">
+                
+                
+            </span>
+        </a>
+    
+        <a class="kmb_information_costs" >
+            <span class="kmb_information_costs_inner ">
+                
+                
+            </span>
+        </a>
+    
+</div>
+
+
+
+
+    <h1>
+        Demento
+        
+    </h1>
+
+
+
+    <div class="kmb_txt_lead" ><p>Das Kunstmuseum Bern dementiert die Meldung der Deutsche Presse-Agentur dpa. Die Entscheidung des Stiftungsrates des Kunstmuseums Bern steht noch aus und wird am Montag, 24. November 2014 in Berlin kommuniziert.</p></div>
+
+
+
+
+
+
+
+
+<div class="kmb_article_detail_social">
+    
+        <!-- AddThis Button BEGIN -->
+        <div class="addthis_toolbox addthis_default_style ">
+
+            <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+
+            <a class="addthis_button_tweet"></a>
+
+            <a href="http://www.addthis.com/bookmark.php" class="kmb_article_function_item mail addthis_button_email" ></a>
+
+            <a onclick="window.print()" class="kmb_article_function_item print" ></a>
+
+        </div>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f7c459439d545d5"></script>
+    
+
+
+</div>
+
+
+<div class="kmb_list" >
+    
+    
+
+
+
+       
+
+
+    
+
+
+    
+
+
+</div>
+
+
+
+
+
+        </div>
+        <div class="grid_4 kmb_marginal" >
+    <div class="kmb_navigation_2" >
+    <ul>
+        
+            <li class="active">
+                <a href="/de/service/medien/kunstsammlung-gurlitt-1288.html" title="Kunstsammlung Gurlitt">Kunstsammlung Gurlitt</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/kunstsammlung-gurlitt/20-02-15-kunstsammlung-gurlitt-1351.html" title="20.02.15 Kunstsammlung Gurlitt">20.02.15 Kunstsammlung Gurlitt</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/kunstsammlung-gurlitt/17-02-15-kunstsammlung-gurlitt-1348.html" title="17.02.15 Kunstsammlung Gurlitt">17.02.15 Kunstsammlung Gurlitt</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/kunstsammlung-gurlitt/27-11-14-werklisten-1289.html" title="27.11.14 Werklisten">27.11.14 Werklisten</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/kunstsammlung-gurlitt/24-11-14-kunstsammlung-gurlitt-1287.html" title="24.11.14 Kunstsammlung Gurlitt">24.11.14 Kunstsammlung Gurlitt</a>
+                            </li>
+                        
+                            <li class="active">
+                                <a href="/de/service/medien/kunstsammlung-gurlitt/21-11-14-demento-1282.html" title="21.11.14 Demento">21.11.14 Demento</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/kunstsammlung-gurlitt/20-11-14-presseeinladung-1277.html" title="20.11.14 Presseeinladung">20.11.14 Presseeinladung</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/kunstsammlung-gurlitt/12-10-14-kunstsammlung-gurlitt-1243.html" title="12.10.14 Kunstsammlung Gurlitt">12.10.14 Kunstsammlung Gurlitt</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/kunstsammlung-gurlitt/04-07-14-kunstsammlung-gurlitt-1187.html" title="04.07.14 Kunstsammlung Gurlitt">04.07.14 Kunstsammlung Gurlitt</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/kunstsammlung-gurlitt/03-06-14-kunstsammlung-gurlitt-1157.html" title="03.06.14 Kunstsammlung Gurlitt">03.06.14 Kunstsammlung Gurlitt</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/kunstsammlung-gurlitt/13-05-14-kunstsammlung-gurlitt-1148.html" title="13.05.14 Kunstsammlung Gurlitt">13.05.14 Kunstsammlung Gurlitt</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/kunstsammlung-gurlitt/07-05-14-kunstsammlung-gurlitt-1139.html" title="07.05.14 Kunstsammlung Gurlitt">07.05.14 Kunstsammlung Gurlitt</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/kunstsammlung-gurlitt/medienspiegel-1271.html" title="Medienspiegel">Medienspiegel</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/medienkonferenzen-84.html" title="Medienkonferenzen">Medienkonferenzen</a>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/medienmitteilungen-2015-1327.html" title="Medienmitteilungen 2015">Medienmitteilungen 2015</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2015/11-03-15-max-gubler-1343.html" title="11.03.15 Max Gubler">11.03.15 Max Gubler</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2015/19-01-15-jahresmedienmitteilung-1330.html" title="19.01.15 Jahresmedienmitteilung">19.01.15 Jahresmedienmitteilung</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/medienmitteilungen-2014-1046.html" title="Medienmitteilungen 2014">Medienmitteilungen 2014</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2014/19-11-14-nakis-panayotidis-1259.html" title="19.11.14 Nakis Panayotidis">19.11.14 Nakis Panayotidis</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2014/23-10-14-hodler-in-japan-1248.html" title="23.10.14 Hodler in Japan">23.10.14 Hodler in Japan</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2014/22-10-14-kunst-heute_0-1235.html" title="22.10.14 Kunst Heute">22.10.14 Kunst Heute</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2014/22-10-14-bethan-huws-1237.html" title="22.10.14 Bethan Huws">22.10.14 Bethan Huws</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2014/17-09-14-augusto-giacometti-1222.html" title="17.09.14 Augusto Giacometti">17.09.14 Augusto Giacometti</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2014/03-09-14-erweiterung-im-innern-1209.html" title="03.09.14 Erweiterung im Innern">03.09.14 Erweiterung im Innern</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2014/20-08-14-august-gaul-und-martin-lauterburg-1203.html" title="20.08.14 August Gaul und Martin Lauterburg">20.08.14 August Gaul und Martin Lauterburg</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2014/10-04-14-bill-viola-passions_0-1122.html" title="10.04.14 Bill Viola: Passions">10.04.14 Bill Viola: Passions</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2014/05-03-14-sesam-oeffne-dich!-1073.html" title="05.03.14 Sesam, öffne dich!">05.03.14 Sesam, öffne dich!</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2014/27-02-14-foerderpreis-videokunst-1083.html" title="27.02.14 Förderpreis Videokunst">27.02.14 Förderpreis Videokunst</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2014/29-01-14-markus-raetz-1047.html" title="29.01.14 Markus Raetz">29.01.14 Markus Raetz</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2014/15-01-14-samuel-hieronymus-grimm-1045.html" title="15.01.14 Samuel Hieronymus Grimm">15.01.14 Samuel Hieronymus Grimm</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/medienmitteilungen-2013-728.html" title="Medienmitteilungen 2013">Medienmitteilungen 2013</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/17-12-13-jahresmedienkonferenz-1028.html" title="17.12.13 Jahresmedienkonferenz">17.12.13 Jahresmedienkonferenz</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/27-11-13-germaine-richier-980.html" title="27.11.13 Germaine Richier">27.11.13 Germaine Richier</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/21-10-13-mexiko-im-spiegel-seiner-kunst-969.html" title="21.10.13 Mexiko im Spiegel seiner Kunst">21.10.13 Mexiko im Spiegel seiner Kunst</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/16-10-13-das-schwache-geschlecht-965.html" title="16.10.13 Das schwache Geschlecht">16.10.13 Das schwache Geschlecht</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/18-09-13-feu-sacre-945.html" title="18.09.13 Feu sacré">18.09.13 Feu sacré</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/21-08-13-rudolf-mumprecht-918.html" title="21.08.13 Rudolf Mumprecht">21.08.13 Rudolf Mumprecht</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/14-08-13-eisen-und-stahl-909.html" title="14.08.13 Eisen und Stahl">14.08.13 Eisen und Stahl</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/08-07-13-lgratis-ins-museumr-902.html" title="08.07.13 «Gratis ins Museum»">08.07.13 «Gratis ins Museum»</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/19-06-13-ernst-kreidolf-887.html" title="19.06.13 Ernst Kreidolf">19.06.13 Ernst Kreidolf</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/16-05-13-erfolgreicher-jahresabschluss-2012-861.html" title="16.05.13 Erfolgreicher Jahresabschluss 2012">16.05.13 Erfolgreicher Jahresabschluss 2012</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/23-04-13-symbolismus-830.html" title="23.04.13 Symbolismus">23.04.13 Symbolismus</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/22-04-13-ac-stipendium-2013-828.html" title="22.04.13 AC-Stipendium 2013">22.04.13 AC-Stipendium 2013</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/28-03-13-podiumsdiskussion-zum-meret-oppenheim-brunnen-817.html" title="28.03.13 Podiumsdiskussion zum Meret Oppenheim Brunnen ">28.03.13 Podiumsdiskussion zum Meret Oppenheim Brunnen </a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/26-03-13-erweiterung-im-innern-814.html" title="26.03.13 Erweiterung im Innern">26.03.13 Erweiterung im Innern</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/08-03-13-hannes-schmid-779.html" title="08.03.13 Hannes Schmid">08.03.13 Hannes Schmid</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/21-02-13-cs-foerderpreis-videokunst_0-761.html" title="21.02.13 CS Förderpreis Videokunst">21.02.13 CS Förderpreis Videokunst</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/08-02-13-charisma-lust-und-libido-755.html" title="08.02.13 Charisma , Lust und Libido">08.02.13 Charisma , Lust und Libido</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/06-02-13-michael-gunzburger-753.html" title="06.02.13 Michael Günzburger">06.02.13 Michael Günzburger</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2013/18-01-13-jahresmedienkonferenz-730.html" title="18.01.13 Jahresmedienkonferenz">18.01.13 Jahresmedienkonferenz</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/medienmitteilungen-2012-410.html" title="Medienmitteilungen 2012">Medienmitteilungen 2012</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/20-12-12-zusammenarbeit-kmbzpk-721.html" title="20.12.12 Zusammenarbeit KMB/ZPK">20.12.12 Zusammenarbeit KMB/ZPK</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/28-11-12-itten-klee_0-711.html" title="28.11.12 Itten - Klee">28.11.12 Itten - Klee</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/07-11-12-otto-nebel_0-694.html" title="07.11.12 Otto Nebel">07.11.12 Otto Nebel</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/24-10-12-magazin-kunsteinsichtbern-690.html" title="24.10.12 Magazin KunstEINSICHTBern">24.10.12 Magazin KunstEINSICHTBern</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/19-10-12-musemuentschi-687.html" title="19.10.12 Musemüntschi">19.10.12 Musemüntschi</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/17-10-12-merets-funken_0-684.html" title="17.10.12 Merets Funken">17.10.12 Merets Funken</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/03-10-12-quynh-dong-680.html" title="03.10.12 Quynh Dong">03.10.12 Quynh Dong</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/27-08-12-herbert-distel-638.html" title="27.08.12 Herbert Distel">27.08.12 Herbert Distel</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/23-08-12-christian-grogg-641.html" title="23.08.12 Christian Grogg">23.08.12 Christian Grogg</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/03-08-12-cs-forderpreis-videokunst_0-626.html" title="03.08.12 CS Förderpreis Videokunst">03.08.12 CS Förderpreis Videokunst</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/04-07-12-antonio-saura-602.html" title="04.07.12 Antonio Saura">04.07.12 Antonio Saura</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/28-06-12-kreidolf-in-japan-610.html" title="28.06.12 Kreidolf in Japan">28.06.12 Kreidolf in Japan</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/26-06-12-wahl-ausstellungskurator-605.html" title="26.06.12 Wahl Ausstellungskurator">26.06.12 Wahl Ausstellungskurator</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/30-05-12-zarina-bhimji-588.html" title="30.05.12 Zarina Bhimji">30.05.12 Zarina Bhimji</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/16-05-12-zwischeninformation-zum-stand-lprojekt-kmbzpkr-583.html" title="16.05.12 Zwischeninformation zum Stand «Projekt KMB/ZPK»">16.05.12 Zwischeninformation zum Stand «Projekt KMB/ZPK»</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/09-05-12-kotscha-reist-577.html" title="09.05.12 Kotscha Reist">09.05.12 Kotscha Reist</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/26-03-12-hermann-hesse-542.html" title="26.03.12 Hermann Hesse">26.03.12 Hermann Hesse</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/07-03-12-sean-scully-491.html" title="07.03.12 Sean Scully">07.03.12 Sean Scully</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/29-02-12-industrious-490.html" title="29.02.12 Industrious">29.02.12 Industrious</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/15-02-12-credit-suisse-foerderpreis-videokunst-524.html" title="15.02.12 Credit Suisse Förderpreis Videokunst">15.02.12 Credit Suisse Förderpreis Videokunst</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/01-02-12-bettina-disler-525.html" title="01.02.12 Bettina Disler">01.02.12 Bettina Disler</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2012/20-01-12-jahresmedienkonf--411.html" title="20.01.12 Jahresmedienkonf.">20.01.12 Jahresmedienkonf.</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/medienmitteilungen-2011-125.html" title="Medienmitteilungen 2011">Medienmitteilungen 2011</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2011/30-11-11-russische-kunst_0-212.html" title="30.11.11 Russische Kunst">30.11.11 Russische Kunst</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2011/19-10-11-berlinde-de-bruyckere-108.html" title="19.10.11 Berlinde De Bruyckere">19.10.11 Berlinde De Bruyckere</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2011/21-09-11-kurt-schwitters-85.html" title="21.09.11 Kurt Schwitters">21.09.11 Kurt Schwitters</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2011/12-09-11-rectangle-square-112.html" title="12.09.11 Rectangle & Square">12.09.11 Rectangle & Square</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2011/17-08-11-cuno-amiet-111.html" title="17.08.11 Cuno Amiet">17.08.11 Cuno Amiet</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2011/06-07-11-ernest-bieler-113.html" title="06.07.11 Ernest Biéler">06.07.11 Ernest Biéler</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2011/19-05-11-projekt-kmb-zpk-115.html" title="19.05.11 Projekt KMB / ZPK">19.05.11 Projekt KMB / ZPK</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2011/17-05-11-martin-ziegelmueller-114.html" title="17.05.11 Martin Ziegelmüller">17.05.11 Martin Ziegelmüller</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2011/30-03-11-muenchen-retour-116.html" title="30.03.11 München retour">30.03.11 München retour</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2011/16-03-11-dislocacion-117.html" title="16.03.11 DISLOCACIÓN">16.03.11 DISLOCACIÓN</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2011/23-02-11-picasso-118.html" title="23.02.11 Picasso">23.02.11 Picasso</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2011/20-01-11-jahresmedienkonferenz-119.html" title="20.01.11 Jahresmedienkonferenz">20.01.11 Jahresmedienkonferenz</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/medienmitteilungen-2010-150.html" title="Medienmitteilungen 2010">Medienmitteilungen 2010</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2010/30-12-10-bilanz-2010-151.html" title="30.12.10 Bilanz 2010">30.12.10 Bilanz 2010</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2010/17-11-10-big-draft-shanghai-152.html" title="17.11.10 Big Draft - Shanghai">17.11.10 Big Draft - Shanghai</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2010/03-11-10-yves-netzhammer-153.html" title="03.11.10 Yves Netzhammer">03.11.10 Yves Netzhammer</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2010/12-10-10-lust-und-laster-154.html" title="12.10.10 Lust und Laster">12.10.10 Lust und Laster</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2010/20-09-10-anker-bilanz-155.html" title="20.09.10 Anker Bilanz">20.09.10 Anker Bilanz</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2010/27-07-10-50000-besucher-anker-156.html" title="27.07.10 50'000. Besucher Anker">27.07.10 50'000. Besucher Anker</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2010/09-06-10-dont-look-now-157.html" title="09.06.10 Don't Look Now">09.06.10 Don't Look Now</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2010/04-05-10-albert-anker-und-chantal-michel-158.html" title="04.05.10 Albert Anker und Chantal Michel">04.05.10 Albert Anker und Chantal Michel</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2010/22-04-10-yves-netzhammer-159.html" title="22.04.10 Yves Netzhammer">22.04.10 Yves Netzhammer</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2010/16-03-10-edward-burne-jones-160.html" title="16.03.10 Edward Burne-Jones">16.03.10 Edward Burne-Jones</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2010/26-02-10-giacometti-161.html" title="26.02.10 Giacometti">26.02.10 Giacometti</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2010/15-01-10-jahresmedienkonferenz_0-162.html" title="15.01.10 Jahresmedienkonferenz">15.01.10 Jahresmedienkonferenz</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/medienmitteilungen-2009-214.html" title="Medienmitteilungen 2009">Medienmitteilungen 2009</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/16-12-09-rolf-iseli-215.html" title="16.12.09 Rolf Iseli">16.12.09 Rolf Iseli</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/26-11-09-stellenwechsel-kurator-samuel-vitali-216.html" title="26.11.09 Stellenwechsel Kurator - Samuel Vitali">26.11.09 Stellenwechsel Kurator - Samuel Vitali</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/18-11-09-made-in-china-217.html" title="18.11.09 Made in China">18.11.09 Made in China</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/28-10-09-giovanni-giacometti-224.html" title="28.10.09 Giovanni Giacometti">28.10.09 Giovanni Giacometti</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/08-09-09-guercino-225.html" title="08.09.09 Guercino">08.09.09 Guercino</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/03-09-09-30-jahre-ffv-226.html" title="03.09.09 30 Jahre FFV">03.09.09 30 Jahre FFV</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/18-08-09-erweiterungsbau-227.html" title="18.08.09 Erweiterungsbau">18.08.09 Erweiterungsbau</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/10-07-09-directors-choice-228.html" title="10.07.09 Director's Choice">10.07.09 Director's Choice</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/22-06-09-peter-radelfinger-229.html" title="22.06.09 Peter Radelfinger">22.06.09 Peter Radelfinger</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/29-04-09-ac-stipendium-231.html" title="29.04.09 AC Stipendium">29.04.09 AC Stipendium</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/17-03-09-tracey-emin-230.html" title="17.03.09 Tracey Emin">17.03.09 Tracey Emin</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/04-03-09-wilfrid-moser-232.html" title="04.03.09 Wilfrid Moser">04.03.09 Wilfrid Moser</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/02-02-09-nachbilder-233.html" title="02.02.09 Nachbilder">02.02.09 Nachbilder</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2009/21-01-09-jahres-medienkonferenz-234.html" title="21.01.09 Jahres Medienkonferenz">21.01.09 Jahres Medienkonferenz</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/medienmitteilungen-2008-247.html" title="Medienmitteilungen 2008">Medienmitteilungen 2008</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2008/12-11-08-ego-documents-248.html" title="12.11.08 Ego Documents">12.11.08 Ego Documents</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2008/16-09-08-emil-zbinden-249.html" title="16.09.08 Emil Zbinden">16.09.08 Emil Zbinden</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2008/10-09-08-james-lee-byars-250.html" title="10.09.08 James Lee Byars">10.09.08 James Lee Byars</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2008/05-08-08-musemuentschi-252.html" title="05.08.08 Musemüntschi">05.08.08 Musemüntschi</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2008/10-07-08-50000-hodler-besucher-253.html" title="10.07.08 50'000 Hodler-Besucher">10.07.08 50'000 Hodler-Besucher</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2008/19-06-08-erweiterungsbau-254.html" title="19.06.08 Erweiterungsbau">19.06.08 Erweiterungsbau</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2008/09-06-08-suzan-frecon_0-255.html" title="09.06.08 Suzan Frecon">09.06.08 Suzan Frecon</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2008/26-05-08-intermezzo-256.html" title="26.05.08 Intermezzo">26.05.08 Intermezzo</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2008/07-04-08-hodler-257.html" title="07.04.08 Hodler">07.04.08 Hodler</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2008/12-02-08-mumprecht-258.html" title="12.02.08 Mumprecht">12.02.08 Mumprecht</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2008/30-01-08-woelflimorgenthaler-259.html" title="30.01.08 Wölfli/Morgenthaler">30.01.08 Wölfli/Morgenthaler</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2008/23-01-08-mondstudio-260.html" title="23.01.08 Mondstudio">23.01.08 Mondstudio</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2008/08-01-08-jahres-medienkonferenz-261.html" title="08.01.08 Jahres Medienkonferenz">08.01.08 Jahres Medienkonferenz</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/medienmitteilungen-2007-318.html" title="Medienmitteilungen 2007">Medienmitteilungen 2007</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/12-12-07-wahl-kuratorin-319.html" title="12.12.07 Wahl Kurator/in">12.12.07 Wahl Kurator/in</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/06-12-07-egbert-moehsnang-320.html" title="06.12.07 Egbert Moehsnang">06.12.07 Egbert Moehsnang</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/08-10-07-huber-stiftung-321.html" title="08.10.07 Huber-Stiftung">08.10.07 Huber-Stiftung</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/19-09-07-horn-please-322.html" title="19.09.07 Horn Please">19.09.07 Horn Please</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/18-08-07-karl-stauffer-bern-323.html" title="18.08.07 Karl Stauffer-Bern">18.08.07 Karl Stauffer-Bern</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/19-06-07-sammlungszuwachs-324.html" title="19.06.07 Sammlungszuwachs">19.06.07 Sammlungszuwachs</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/07-06-07-paul-senn-325.html" title="07.06.07 Paul Senn">07.06.07 Paul Senn</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/29-05-07-erweiterungsbau-326.html" title="29.05.07 Erweiterungsbau">29.05.07 Erweiterungsbau</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/07-05-07-ueli-berger-327.html" title="07.05.07 Ueli Berger">07.05.07 Ueli Berger</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/25-04-07-expressionismus-328.html" title="25.04.07 Expressionismus">25.04.07 Expressionismus</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/23-04-07-erweiterungsbau-329.html" title="23.04.07 Erweiterungsbau">23.04.07 Erweiterungsbau</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/14-02-07-weggang-bernhard-fibicher-330.html" title="14.02.07 Weggang Bernhard Fibicher">14.02.07 Weggang Bernhard Fibicher</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/14-02-07-oscar-wiggli-331.html" title="14.02.07 Oscar Wiggli">14.02.07 Oscar Wiggli</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/05-02-07-chinafenster-332.html" title="05.02.07 Chinafenster">05.02.07 Chinafenster</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/23-01-07-jahresmedienkonferenz-333.html" title="23.01.07 Jahresmedienkonferenz">23.01.07 Jahresmedienkonferenz</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2007/13-01-07-erweiterungsbau-334.html" title="13.01.07 Erweiterungsbau">13.01.07 Erweiterungsbau</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/medienmitteilungen-2006-415.html" title="Medienmitteilungen 2006">Medienmitteilungen 2006</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/18-12-06-erweiterungsbau-416.html" title="18.12.06 Erweiterungsbau">18.12.06 Erweiterungsbau</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/22-11-06-gao-xingjian-417.html" title="22.11.06 Gao Xingjian">22.11.06 Gao Xingjian</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/31-10-06-six-feet-under-418.html" title="31.10.06 Six Feet Under">31.10.06 Six Feet Under</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/25-09-06-ernst-kreidolf-und-seine-malerfreunde-419.html" title="25.09.06 Ernst Kreidolf und seine Malerfreunde">25.09.06 Ernst Kreidolf und seine Malerfreunde</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/11-09-06-neuerwerbung-albrecht-kauw-neuhaengung-420.html" title="11.09.06 Neuerwerbung Albrecht Kauw/ Neuhängung">11.09.06 Neuerwerbung Albrecht Kauw/ Neuhängung</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/06-09-06-gemeinsame-medienmitteilung-kmbzpk-421.html" title="06.09.06 Gemeinsame Medienmitteilung KMB/ZPK">06.09.06 Gemeinsame Medienmitteilung KMB/ZPK</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/29-06-06-boeniger-indermuehle-waldvogel-427.html" title="29.06.06 Böniger, Indermühle, Waldvogel">29.06.06 Böniger, Indermühle, Waldvogel</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/24-01-06-jahresmedienkonferenz-445.html" title="24.01.06 Jahresmedienkonferenz">24.01.06 Jahresmedienkonferenz</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/30-05-06-meret-oppenheim-428.html" title="30.05.06 Meret Oppenheim">30.05.06 Meret Oppenheim</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/19-05-06-kunstpreis-429.html" title="19.05.06 Kunstpreis">19.05.06 Kunstpreis</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/03-05-06-jahresabschluss-430.html" title="03.05.06 Jahresabschluss">03.05.06 Jahresabschluss</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/11-04-06-reisen-mit-der-kunst-431.html" title="11.04.06 Reisen mit der Kunst">11.04.06 Reisen mit der Kunst</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/03-04-06-berns-maechtige-zeit-432.html" title="03.04.06 Berns mächtige Zeit">03.04.06 Berns mächtige Zeit</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/20-03-06-serge-spitzer-440.html" title="20.03.06 Serge Spitzer">20.03.06 Serge Spitzer</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/20-03-06-cecile-wick-441.html" title="20.03.06 Cécile Wick">20.03.06 Cécile Wick</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/13-03-06-sam-francis-442.html" title="13.03.06 Sam Francis">13.03.06 Sam Francis</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/10-03-06-guangzhou-443.html" title="10.03.06 Guangzhou">10.03.06 Guangzhou</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2006/02-02-06-migros-aare-444.html" title="02.02.06 Migros Aare">02.02.06 Migros Aare</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/medienmitteilungen-2005-527.html" title="Medienmitteilungen 2005">Medienmitteilungen 2005</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2005/19-12-05-wahl-kurator-528.html" title="19.12.05 Wahl Kurator">19.12.05 Wahl Kurator</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2005/14-11-05-symphonie-in-weiss-529.html" title="14.11.05 Symphonie in Weiss">14.11.05 Symphonie in Weiss</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2005/20-10-05-schluss-mahjong-530.html" title="20.10.05 Schluss Mahjong">20.10.05 Schluss Mahjong</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2005/13-10-05-klee-werke-531.html" title="13.10.05 Klee-Werke">13.10.05 Klee-Werke</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2005/10-10-05-zhao-bandi-532.html" title="10.10.05 Zhao Bandi">10.10.05 Zhao Bandi</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2005/27-09-05-strafanzeige-533.html" title="27.09.05 Strafanzeige">27.09.05 Strafanzeige</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2005/09-09-05-8gg-534.html" title="09.09.05 8GG">09.09.05 8GG</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2005/05-09-05-zhang-huan-535.html" title="05.09.05 Zhang Huan">05.09.05 Zhang Huan</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2005/01-09-05-ruan-zur-diskussion-536.html" title="01.09.05 Ruan zur Diskussion">01.09.05 Ruan zur Diskussion</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2005/16-08-05-darstellbares-537.html" title="16.08.05 Darstellbares">16.08.05 Darstellbares</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/medienmitteilungen-2005/07-06-05-weltpremiere-538.html" title="07.06.05 Weltpremiere">07.06.05 Weltpremiere</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/bilder-doku-2015-1328.html" title="Bilder & Doku 2015">Bilder & Doku 2015</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2015/11-03-15-max-gubler_0-1344.html" title="11.03.15 Max Gubler">11.03.15 Max Gubler</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2015/19-01-15-jahresmedienmitteilung_0-1331.html" title="19.01.15 Jahresmedienmitteilung">19.01.15 Jahresmedienmitteilung</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/bilder-doku-2014-1048.html" title="Bilder & Doku 2014">Bilder & Doku 2014</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2014/19-11-14-nakis-panayotidis_0-1260.html" title="19.11.14 Nakis Panayotidis">19.11.14 Nakis Panayotidis</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2014/22-10-14-kunst-heute-1236.html" title="22.10.14 Kunst Heute">22.10.14 Kunst Heute</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2014/22-10-14-bethan-huws_0-1238.html" title="22.10.14 Bethan Huws">22.10.14 Bethan Huws</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2014/17-09-14-augusto-giacometti_0-1223.html" title="17.09.14 Augusto Giacometti">17.09.14 Augusto Giacometti</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2014/20-08-14-august-gaul-und-martin-lauterburg_0-1204.html" title="20.08.14 August Gaul und Martin Lauterburg">20.08.14 August Gaul und Martin Lauterburg</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2014/10-04-14-bill-viola-passions-1121.html" title="10.04.14 Bill Viola: Passions">10.04.14 Bill Viola: Passions</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2014/05-03-14-sesam-oeffne-dich!_0-1076.html" title="05.03.14 Sesam, öffne dich!">05.03.14 Sesam, öffne dich!</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2014/27-02-14-foerderpreis-videokunst_0-1084.html" title="27.02.14 Förderpreis Videokunst">27.02.14 Förderpreis Videokunst</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2014/30-01-14-markus-raetz-1050.html" title="30.01.14 Markus Raetz">30.01.14 Markus Raetz</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2014/15-01-14-samuel-hieronymus-grimm-(1733-1794)_0-1049.html" title="15.01.14 Samuel Hieronymus Grimm (1733-1794)">15.01.14 Samuel Hieronymus Grimm (1733-1794)</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/bilder-doku-2013-729.html" title="Bilder & Doku 2013">Bilder & Doku 2013</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/17-12-13-jahresmedienkonferenz_0-1029.html" title="17.12.13 Jahresmedienkonferenz ">17.12.13 Jahresmedienkonferenz </a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/27-11-13-germaine-richier_0-981.html" title="27.11.13 Germaine Richier">27.11.13 Germaine Richier</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/21-10-13-mexiko-im-spiegel-seiner-kunst_0-970.html" title="21.10.13 Mexiko im Spiegel seiner Kunst">21.10.13 Mexiko im Spiegel seiner Kunst</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/16-10-13-das-schwache-geschlecht_0-966.html" title="16.10.13 Das schwache Geschlecht">16.10.13 Das schwache Geschlecht</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/18-09-13-feu-sacre_0-946.html" title="18.09.13 Feu sacré">18.09.13 Feu sacré</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/21-08-13-rudolf-mumprecht_0-919.html" title="21.08.13 Rudolf Mumprecht">21.08.13 Rudolf Mumprecht</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/14-08-13-eisen-und-stahl_0-910.html" title="14.08.13 Eisen und Stahl">14.08.13 Eisen und Stahl</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/19-06-13-ernst-kreidolf_0-890.html" title="19.06.13 Ernst Kreidolf">19.06.13 Ernst Kreidolf</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/23-04-13-symbolismus_0-831.html" title="23.04.13 Symbolismus">23.04.13 Symbolismus</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/22-04-13-ac-stipendium-2013_0-827.html" title="22.04.13 AC-Stipendium 2013">22.04.13 AC-Stipendium 2013</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/08-03-13-hannes-schmid_0-780.html" title="08.03.13 Hannes Schmid">08.03.13 Hannes Schmid</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/21-02-13-cs-foerderpreis-videokunst-762.html" title="21.02.13 CS Förderpreis Videokunst">21.02.13 CS Förderpreis Videokunst</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/06-02-13-michael-guenzburger-754.html" title="06.02.13 Michael Günzburger">06.02.13 Michael Günzburger</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2013/18-01-13-jahresmedienkonferenz_0-731.html" title="18.01.13 Jahresmedienkonferenz ">18.01.13 Jahresmedienkonferenz </a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/bilder-doku-2012-412.html" title="Bilder & Doku 2012">Bilder & Doku 2012</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/28-11-12-itten-klee-710.html" title="28.11.12 Itten - Klee">28.11.12 Itten - Klee</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/07-11-12-otto-nebel-693.html" title="07.11.12 Otto Nebel">07.11.12 Otto Nebel</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/17-10-12-merets-funken-682.html" title="17.10.12 Merets Funken">17.10.12 Merets Funken</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/03-10-12-quynh-dong_0-681.html" title="03.10.12 Quynh Dong">03.10.12 Quynh Dong</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/27-08-12-herbert-distel_0-639.html" title="27.08.12 Herbert Distel">27.08.12 Herbert Distel</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/23-08-12-christian-grogg_0-642.html" title="23.08.12 Christian Grogg">23.08.12 Christian Grogg</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/03-08-12-cs-foerderpreis-videokunst-627.html" title="03.08.12 CS Förderpreis Videokunst">03.08.12 CS Förderpreis Videokunst</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/04-06-12-antonio-saura-603.html" title="04.06.12 Antonio Saura">04.06.12 Antonio Saura</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/30-05-12-zarina-bhimji_0-589.html" title="30.05.12 Zarina Bhimji">30.05.12 Zarina Bhimji</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/09-05-12-kotscha-reist_0-578.html" title="09.05.12 Kotscha Reist">09.05.12 Kotscha Reist</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/26-03-12-hermann-hesse_0-543.html" title="26.03.12 Hermann Hesse">26.03.12 Hermann Hesse</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/07-03-12-sean-scully_0-493.html" title="07.03.12 Sean Scully">07.03.12 Sean Scully</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/29-02-12-industrious_0-492.html" title="29.02.12 Industrious">29.02.12 Industrious</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/01-02-12-bettina-disler_0-526.html" title="01.02.12 Bettina Disler">01.02.12 Bettina Disler</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2012/20-01-12-jahresmedienkonf-_0-413.html" title="20.01.12 Jahresmedienkonf.">20.01.12 Jahresmedienkonf.</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/bilder-doku-2011-126.html" title="Bilder & Doku 2011">Bilder & Doku 2011</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2011/30-11-11-russische-kunst-186.html" title="30.11.11 Russische Kunst">30.11.11 Russische Kunst</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2011/19-10-11-berlinde-de-bruyckere_0-109.html" title="19.10.11 Berlinde De Bruyckere">19.10.11 Berlinde De Bruyckere</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2011/21-09-11-kurt-schwitters_0-110.html" title="21.09.11 Kurt Schwitters">21.09.11 Kurt Schwitters</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2011/12-09-11-rectangle-square_0-168.html" title="12.09.11 Rectangle & Square">12.09.11 Rectangle & Square</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2011/17-08-11-cuno-amiet_0-172.html" title="17.08.11 Cuno Amiet">17.08.11 Cuno Amiet</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2011/06-07-11-ernest-bieler_0-173.html" title="06.07.11 Ernest Biéler ">06.07.11 Ernest Biéler </a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2011/17-05-11-martin-ziegelmueller_0-174.html" title="17.05.11 Martin Ziegelmüller">17.05.11 Martin Ziegelmüller</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2011/30-03-11-muenchen-retour_0-175.html" title="30.03.11 München retour">30.03.11 München retour</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2011/16-03-11-dislocacion_0-176.html" title="16.03.11 DISLOCACIÓN">16.03.11 DISLOCACIÓN</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2011/23-02-11-picasso_0-177.html" title="23.02.11 Picasso">23.02.11 Picasso</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2011/20-01-11-jahresmedienkonferenz_0-178.html" title="20.01.11 Jahresmedienkonferenz">20.01.11 Jahresmedienkonferenz</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/bilder-doku-2010-187.html" title="Bilder & Doku 2010">Bilder & Doku 2010</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2010/17-11-10-big-draft-shanghai_0-188.html" title="17.11.10 Big Draft - Shanghai">17.11.10 Big Draft - Shanghai</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2010/03-11-10-yves-netzhammer_0-189.html" title="03.11.10 Yves Netzhammer">03.11.10 Yves Netzhammer</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2010/12-10-10-lust-und-laster_0-190.html" title="12.10.10 Lust und Laster">12.10.10 Lust und Laster</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2010/09-06-10-dont-look-now_0-191.html" title="09.06.10 Don't Look Now">09.06.10 Don't Look Now</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2010/04-05-10-albert-anker-chantal-michel_0-192.html" title="04.05.10 Albert Anker / Chantal Michel">04.05.10 Albert Anker / Chantal Michel</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2010/22-04-10-yves-netzhammer-installation-193.html" title="22.04.10 Yves Netzhammer Installation">22.04.10 Yves Netzhammer Installation</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2010/16-03-10-edward-burne-jones_0-194.html" title="16.03.10 Edward Burne-Jones">16.03.10 Edward Burne-Jones</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2010/15-01-10-jahresmedienkonferenz-195.html" title="15.01.10 Jahresmedienkonferenz">15.01.10 Jahresmedienkonferenz</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/bilder-doku-2009-235.html" title="Bilder & Doku 2009">Bilder & Doku 2009</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2009/16-12-09-rolf-iseli_0-236.html" title="16.12.09 Rolf Iseli">16.12.09 Rolf Iseli</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2009/18-11-09-made-in-china_0-237.html" title="18.11.09 Made in China">18.11.09 Made in China</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2009/28-10-09-giovanni-giacometti_0-238.html" title="28.10.09 Giovanni Giacometti">28.10.09 Giovanni Giacometti</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2009/08-09-09-guercino_0-239.html" title="08.09.09 Guercino">08.09.09 Guercino</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2009/10-07-09-directors-choice_0-240.html" title="10.07.09 Director's Choice">10.07.09 Director's Choice</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2009/22-06-09-peter-radelfinger_0-241.html" title="22.06.09 Peter Radelfinger">22.06.09 Peter Radelfinger</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2009/29-04-09-ac-stipendium_0-242.html" title="29.04.09 AC Stipendium">29.04.09 AC Stipendium</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2009/17-03-09-tracey-emin_0-243.html" title="17.03.09 Tracey Emin">17.03.09 Tracey Emin</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2009/04-03-09-wilfrid-moser_0-244.html" title="04.03.09 Wilfrid Moser">04.03.09 Wilfrid Moser</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2009/02-02-09-nachbilder_0-245.html" title="02.02.09 Nachbilder">02.02.09 Nachbilder</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2009/21-01-09-jahres-medienkonferenz_0-246.html" title="21.01.09 Jahres Medienkonferenz">21.01.09 Jahres Medienkonferenz</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/bilder-doku-2008-262.html" title="Bilder & Doku 2008">Bilder & Doku 2008</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2008/12-11-08-ego-documents_0-263.html" title="12.11.08 Ego Documents">12.11.08 Ego Documents</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2008/16-09-08-emil-zbinden_0-264.html" title="16.09.08 Emil Zbinden">16.09.08 Emil Zbinden</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2008/10-09-08-james-lee-byars_0-265.html" title="10.09.08 James Lee Byars">10.09.08 James Lee Byars</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2008/19-06-08-erweiterungsbau_0-266.html" title="19.06.08 Erweiterungsbau">19.06.08 Erweiterungsbau</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2008/09-06-08-suzan-frecon-307.html" title="09.06.08 Suzan Frecon">09.06.08 Suzan Frecon</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2008/26-05-08-intermezzo_0-308.html" title="26.05.08 Intermezzo">26.05.08 Intermezzo</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2008/07-04-08-ferdinand-hodler-309.html" title="07.04.08 Ferdinand Hodler">07.04.08 Ferdinand Hodler</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2008/12-02-08-rudolf-mumprecht-313.html" title="12.02.08 Rudolf Mumprecht">12.02.08 Rudolf Mumprecht</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2008/30-01-08-woelflimorgenthaler_0-314.html" title="30.01.08 Wölfli/Morgenthaler">30.01.08 Wölfli/Morgenthaler</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2008/23-01-08-mondstudio_0-315.html" title="23.01.08 Mondstudio">23.01.08 Mondstudio</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2008/08-01-08-jahres-medienkonferenz_0-316.html" title="08.01.08 Jahres Medienkonferenz">08.01.08 Jahres Medienkonferenz</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/bilder-doku-2007-335.html" title="Bilder & Doku 2007">Bilder & Doku 2007</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2007/12-12-07-wahl-kuratorin_0-336.html" title="12.12.07 Wahl Kurator/in">12.12.07 Wahl Kurator/in</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2007/19-09-07-horn-please_0-337.html" title="19.09.07 Horn Please">19.09.07 Horn Please</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2007/18-08-07-karl-stauffer-bern_0-338.html" title="18.08.07 Karl Stauffer-Bern">18.08.07 Karl Stauffer-Bern</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2007/19-06-07-sammlungszuwachs_0-396.html" title="19.06.07 Sammlungszuwachs">19.06.07 Sammlungszuwachs</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2007/07-06-07-paul-senn_0-399.html" title="07.06.07 Paul Senn">07.06.07 Paul Senn</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2007/07-05-07-ueli-berger_0-405.html" title="07.05.07 Ueli Berger">07.05.07 Ueli Berger</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2007/25-04-07-expressionismus_0-406.html" title="25.04.07 Expressionismus">25.04.07 Expressionismus</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2007/23-04-07-erweiterungsbau_0-407.html" title="23.04.07 Erweiterungsbau">23.04.07 Erweiterungsbau</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2007/14-02-07-oscar-wiggli_0-408.html" title="14.02.07 Oscar Wiggli">14.02.07 Oscar Wiggli</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2007/05-02-07-chinafenster_0-409.html" title="05.02.07 Chinafenster">05.02.07 Chinafenster</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2007/23-01-07-jahresmedienkonferenz_0-414.html" title="23.01.07 Jahresmedienkonferenz">23.01.07 Jahresmedienkonferenz</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/bilder-doku-2006_1-448.html" title="Bilder & Doku 2006">Bilder & Doku 2006</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2006_1/18-12-06-erweiterungsbau_0-449.html" title="18.12.06 Erweiterungsbau">18.12.06 Erweiterungsbau</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2006_1/31-10-06-six-feet-under_0-450.html" title="31.10.06 Six Feet Under">31.10.06 Six Feet Under</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2006_1/25-09-06-ernst-kreidolf-und-seine-malerfreunde_0-451.html" title="25.09.06 Ernst Kreidolf und seine Malerfreunde">25.09.06 Ernst Kreidolf und seine Malerfreunde</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2006_1/29-06-06-boeniger-indermuehle-waldvogel_0-452.html" title="29.06.06 Böniger, Indermühle, Waldvogel">29.06.06 Böniger, Indermühle, Waldvogel</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2006_1/30-05-06-meret-oppenheim_0-453.html" title="30.05.06 Meret Oppenheim">30.05.06 Meret Oppenheim</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2006_1/11-04-06-reisen-mit-der-kunst_0-455.html" title="11.04.06 Reisen mit der Kunst">11.04.06 Reisen mit der Kunst</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2006_1/03-04-06-berns-maechtige-zeit_0-454.html" title="03.04.06 Berns mächtige Zeit">03.04.06 Berns mächtige Zeit</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2006_1/20-03-06-serge-spitzer_0-456.html" title="20.03.06 Serge Spitzer">20.03.06 Serge Spitzer</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2006_1/20-03-06-cecile-wick_0-458.html" title="20.03.06 Cécile Wick">20.03.06 Cécile Wick</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2006_1/13-03-06-sam-francis_0-459.html" title="13.03.06 Sam Francis">13.03.06 Sam Francis</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2006_1/10-03-06-guangzhou_0-460.html" title="10.03.06 Guangzhou">10.03.06 Guangzhou</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+            <li class="">
+                <a href="/de/service/medien/bilder-doku-2005_0-540.html" title="Bilder & Doku 2005">Bilder & Doku 2005</a>
+                
+                    <ul>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2005_0/19-12-05-wahl-kurator_0-541.html" title="19.12.05 Wahl Kurator">19.12.05 Wahl Kurator</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2005_0/14-11-05-symphonie-in-weiss_0-565.html" title="14.11.05 Symphonie in Weiss">14.11.05 Symphonie in Weiss</a>
+                            </li>
+                        
+                            <li class="">
+                                <a href="/de/service/medien/bilder-doku-2005_0/07-06-05-weltpremiere_0-567.html" title="07.06.05 Weltpremiere">07.06.05 Weltpremiere</a>
+                            </li>
+                        
+                    </ul>
+                
+            </li>
+        
+    </ul>
+</div>
+    <div class="kmb_marginal_calendar" >
+
+
+
+    <div class="kmb_marginal_calendar_top" >
+        <a class="kmb_marginal_calendar_top_link" ></a>
+    </div>
+
+    <div class="kmb_marginal_calendar_days" >
+        <div class="kmb_marginal_calendar_days_inner" >
+            
+                <span class="kmb_marginal_calendar_day past" href="">
+                    <span class="kmb_marginal_calendar_day_name">
+                        Mo
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        23.03
+                    </span>
+                </span>
+            
+                <a class="kmb_marginal_calendar_day today" href="/de/sehen/heute/20150324-heute-120.html">
+                    <span class="kmb_marginal_calendar_day_name">
+                        Di
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        24.03
+                    </span>
+                </a>
+            
+                <a class="kmb_marginal_calendar_day " href="/de/sehen/heute/20150325-heute-120.html">
+                    <span class="kmb_marginal_calendar_day_name">
+                        Mi
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        25.03
+                    </span>
+                </a>
+            
+                <a class="kmb_marginal_calendar_day " href="/de/sehen/heute/20150326-heute-120.html">
+                    <span class="kmb_marginal_calendar_day_name">
+                        Do
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        26.03
+                    </span>
+                </a>
+            
+                <a class="kmb_marginal_calendar_day " href="/de/sehen/heute/20150327-heute-120.html">
+                    <span class="kmb_marginal_calendar_day_name">
+                        Fr
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        27.03
+                    </span>
+                </a>
+            
+                <a class="kmb_marginal_calendar_day " href="/de/sehen/heute/20150328-heute-120.html">
+                    <span class="kmb_marginal_calendar_day_name">
+                        Sa
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        28.03
+                    </span>
+                </a>
+            
+                <a class="kmb_marginal_calendar_day  last" href="/de/sehen/heute/20150329-heute-120.html">
+                    <span class="kmb_marginal_calendar_day_name">
+                        So
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        29.03
+                    </span>
+                </a>
+            
+                <a class="kmb_marginal_calendar_day " href="/de/sehen/heute/20150330-heute-120.html">
+                    <span class="kmb_marginal_calendar_day_name">
+                        Mo
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        30.03
+                    </span>
+                </a>
+            
+                <a class="kmb_marginal_calendar_day " href="/de/sehen/heute/20150331-heute-120.html">
+                    <span class="kmb_marginal_calendar_day_name">
+                        Di
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        31.03
+                    </span>
+                </a>
+            
+                <a class="kmb_marginal_calendar_day " href="/de/sehen/heute/20150401-heute-120.html">
+                    <span class="kmb_marginal_calendar_day_name">
+                        Mi
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        01.04
+                    </span>
+                </a>
+            
+                <a class="kmb_marginal_calendar_day " href="/de/sehen/heute/20150402-heute-120.html">
+                    <span class="kmb_marginal_calendar_day_name">
+                        Do
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        02.04
+                    </span>
+                </a>
+            
+                <a class="kmb_marginal_calendar_day " href="/de/sehen/heute/20150403-heute-120.html">
+                    <span class="kmb_marginal_calendar_day_name">
+                        Fr
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        03.04
+                    </span>
+                </a>
+            
+                <a class="kmb_marginal_calendar_day " href="/de/sehen/heute/20150404-heute-120.html">
+                    <span class="kmb_marginal_calendar_day_name">
+                        Sa
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        04.04
+                    </span>
+                </a>
+            
+                <a class="kmb_marginal_calendar_day  last" href="/de/sehen/heute/20150405-heute-120.html">
+                    <span class="kmb_marginal_calendar_day_name">
+                        So
+                    </span>
+                    <span class="kmb_marginal_calendar_day_date">
+                        05.04
+                    </span>
+                </a>
+            
+        </div>
+    </div>
+
+<a class="kmb_txt_small kmb_txt_promo kmb_marginal_calendar_month_link " href="/de/sehen/kalender-564.html">Kalender</a>
+
+
+    <div class="kmb_marginal_calendar_bottom" >
+        <a class="kmb_marginal_calendar_bottom_link"  ></a>
+    </div>
+</div>
+    
+        <div class="kmb_marginal_teaser kmb_marginal_sociallinks" >
+            
+                <a href="https://www.facebook.com/kunstmuseumbern" target="_blank" class="kmb_marginal_sociallinks_facebook"></a>
+            
+                <a href="https://twitter.com/KunstmuseumBern" target="_blank" class="kmb_marginal_sociallinks_twitter"></a>
+            
+                <a href="https://plus.google.com/108248352300016354727/" target="_blank" class="kmb_marginal_sociallinks_google"></a>
+            
+                <a href="https://www.youtube.com/KunstmuseumBern" target="_blank" class="kmb_marginal_sociallinks_youtube"></a>
+            
+                <a href="http://blog.kunstmuseumbern.ch" target="_blank" class="kmb_marginal_sociallinks_blog"></a>
+            
+        </div>
+    
+    
+    
+    
+    
+
+    
+
+
+
+
+    
+
+    
+    
+</div>
+
+        <div class="grid_12 kmb_footer" >
+
+            <div class="grid_8 alpha kmb_footer_sitemap" >
+                
+    <div class="grid_2 alpha">
+    
+        <h5><a href="/de/besuchen_0-129.html" >Besuchen</a></h5>
+        <ul>
+            
+                <li><a href="/de/besuchen_0/oeffnungszeiten-preise-37.html">Öffnungszeiten & Preise</a></li>
+            
+                <li><a href="/de/besuchen_0/lageplan-anreise-11.html">Lageplan & Anreise</a></li>
+            
+                <li><a href="/de/besuchen_0/kunstmuseum-bern-@-progr_0-746.html">Kunstmuseum Bern @ PROGR</a></li>
+            
+                <li><a href="/de/besuchen_0/gruppen-fuhrungen-19.html">Gruppen & Führungen</a></li>
+            
+                <li><a href="/de/besuchen_0/besucher-mit-einer-behinderung-20.html">Besucher mit einer Behinderung</a></li>
+            
+                <li><a href="/de/besuchen_0/ipad-guides-1053.html">iPad Guides</a></li>
+            
+                <li><a href="/de/besuchen_0/iphone-app-634.html">iPhone App</a></li>
+            
+                <li><a href="/de/besuchen_0/ihr-anlass-24.html">Ihr Anlass</a></li>
+            
+                <li><a href="/de/besuchen_0/cafe-21.html">Café</a></li>
+            
+                <li><a href="/de/besuchen_0/bibliothek-213.html">Bibliothek</a></li>
+            
+                <li><a href="/de/besuchen_0/kino-kunstmuseum-22.html">Kino Kunstmuseum</a></li>
+            
+                <li><a href="/de/besuchen_0/shop-im-kunstmuseum-bern-23.html">Shop im Kunstmuseum Bern</a></li>
+            
+        </ul>
+    
+</div>
+
+    <div class="grid_2 alpha">
+    
+        <h5><a href="/de/sehen-128.html" >Sehen</a></h5>
+        <ul>
+            
+                <li><a href="/de/sehen/ausstellungen-146.html">Ausstellungen</a></li>
+            
+                <li><a href="/de/sehen/sammlung-38.html">Sammlung</a></li>
+            
+                <li><a href="/de/sehen/kalender-564.html">Kalender</a></li>
+            
+                <li><a href="/de/sehen/heute-120.html">Heute</a></li>
+            
+        </ul>
+    
+        <h5><a href="/de/erfahren-12.html" >Erfahren</a></h5>
+        <ul>
+            
+                <li><a href="/de/erfahren/erwachsene-2.html">Erwachsene</a></li>
+            
+                <li><a href="/de/erfahren/kinder-familie-14.html">Kinder & Familie</a></li>
+            
+                <li><a href="/de/erfahren/schulen-lehrpersonen-13.html">Schulen & Lehrpersonen</a></li>
+            
+                <li><a href="/de/erfahren/events-36.html">Events</a></li>
+            
+        </ul>
+    
+</div>
+
+    <div class="grid_2 alpha">
+    
+        <h5><a href="/de/profitieren-5.html" >Profitieren</a></h5>
+        <ul>
+            
+                <li><a href="/de/profitieren/verein-der-freunde_2-93.html">Verein der Freunde</a></li>
+            
+                <li><a href="/de/profitieren/bernische-kunstgesellschaft-94.html">Bernische Kunstgesellschaft</a></li>
+            
+                <li><a href="/de/profitieren/berner-kunstfonds-34.html">Berner Kunstfonds</a></li>
+            
+                <li><a href="/de/profitieren/magazin-kunsteinsichtbern-686.html">Magazin Kunsteinsichtbern</a></li>
+            
+        </ul>
+    
+        <h5><a href="/de/shop_0-864.html" >Shop</a></h5>
+        <ul>
+            
+        </ul>
+    
+</div>
+
+    <div class="grid_2 alpha">
+    
+        <h5><a href="/de/footer-183.html" >Footer</a></h5>
+        <ul>
+            
+                <li><a href="/de/footer/kontakt_0-185.html">Kontakt</a></li>
+            
+                <li><a href="/de/footer/impressum-184.html">Impressum</a></li>
+            
+        </ul>
+    
+</div>
+
+            </div>
+
+            <div class="grid_4 omega kmb_footer_contact" >
+                <h5>Kunstmuseum Bern</h5><p>Musée des Beaux-Arts de Berne<br>Museum of Fine Arts Bern
+<br>Hodlerstrasse 8–12 <br>CH-3000 Bern 7
+                
+                
+                <br>T +41 31 328 09 44<br>F +41 31 328 09 55
+<br>               <a href="" data-scrambled="105,110,102,111,64,57,105,110,102,111,107,117,110,115,116,107,117,110,115,116,109,117,115,101,117,109,98,101,114,110,46,99,104"><span class="__ep"></span> </a></p><h5> Öffnungszeiten</h5><p>Dienstag	10h – 21h<br>Mittwoch – Sonntag 10h – 17h
+                <br>Montag	geschlossen
+<br>                </p>
+                <div class="kmb_footer_contact_social" >
+                    <a class="kmb_footer_contact_social_facebook" href="http://www.facebook.com/kunstmuseumbern" >Visit</a>
+                    <a class="kmb_footer_contact_social_twitter"  href="https://twitter.com/#!/KunstmuseumBern" >Follow</a>
+                </div>
+
+            </div>
+
+            <div class="grid_8 alpha kmb_footer_service" >
+                <ul>
+    
+        <li>
+            <a href="/de/footer/kontakt_0-185.html" title="Kontakt" class="" >Kontakt</a>
+        </li>
+    
+        <li>
+            <a href="/de/footer/impressum-184.html" title="Impressum" class="" >Impressum</a>
+        </li>
+    
+</ul>
+
+            </div>
+
+            <div class="grid_4 alpha kmb_footer_sponsor" >
+                
+                    <p class="kmb_footer_sponsor_legend kmb_txt_small" >Hauptsponsor</p>
+                    <a href="https://www.credit-suisse.com/ch/de/about-us/sponsorship/art/our-commitment.html" ><img src="/admin/data/hosts/kmb/files/special_resources/sponsor_logo/1/150122_cs_de.png?lm=1421944095" /></a>
+                
+            </div>
+
+            <div class="grid_4 kmb_footer_copy kmb_txt_small alpha" >
+                &copy; 2015 Kunstmuseum Bern
+            </div>
+
+        </div>
+
+    </div>
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-30095252-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+    </body>
+</html>

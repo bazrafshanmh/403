@@ -1,0 +1,381 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 01:19:25 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 244
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://www.ozaetagroup.com/?utm_campaign=tw_shoutout&utm_medium=user_share&utm_source=shoutouts&shoutout_to=guardiannews&shoutout_provider=tw
+Mime-Version: 1.0
+Set-Cookie: _bit=5510bb9d-00359-03aef-311cf10a;domain=.rbl.ms;expires=Sun Sep 20 01:19:25 2015;path=/; HttpOnly
+
+HTTP/1.1 200 OK
+Cache-Control: private,max-age=0
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: Wed, 01 Jan 1997 12:00:00 GMT
+Vary: Accept-Encoding
+Server: Microsoft-IIS/7.0
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Tue, 24 Mar 2015 01:19:25 GMT
+Content-Length: 5459
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" version="XHTML+RDFa 1.1"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/1999/xhtml http://www.w3.org/MarkUp/SCHEMA/xhtml-rdfa-2.xsd"
+      xmlns:og="http://ogp.me/ns#">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=1024" />
+    
+  <meta name="description" content="Check out this GoDaddy hosted webpage! http://ozaetagroup.com." />
+  <meta property="og:title" content="THE OZAETA GROUP" />
+  <meta property="og:description" content="Check out this GoDaddy hosted webpage! http://ozaetagroup.com." />
+  
+    <meta property="og:image" content="http://cache.nebula.phx3.secureserver.net/obj/MzREQTY4QjkzNjMxRTZFNzQ4RTE6ODg1NGYxMTU1MjA3Yzc0YzczNTVmOTNhZDk5NWFkYzg=" />
+    <link rel="image_src" href="http://cache.nebula.phx3.secureserver.net/obj/MzREQTY4QjkzNjMxRTZFNzQ4RTE6ODg1NGYxMTU1MjA3Yzc0YzczNTVmOTNhZDk5NWFkYzg=" />
+  
+    <meta property="og:image" content="http://imagesak.websitetonight.com/skins/pl.gd/images/logo1.gif" />
+  
+
+    <link rel="shortcut icon" type="image/ico" href="http://img1.wsimg.com/ip/v1.2.0/images/favicon.ico" />
+    <link rel="icon" type="image/png" href="http://img1.wsimg.com/ip/v1.2.0/images/favicon.jpg" />
+    <title>
+    THE OZAETA GROUP
+</title>
+    
+  	<link href="http://img2.wsimg.com/ip/v1.2.1/style/ss-1.0.0.0.css" rel="stylesheet" type="text/css" />
+    
+    
+  
+
+    <script type="text/javascript" src="https://widget.starfieldtech.com/API.svc/jquery.js"></script>
+    <script type="text/javascript" src="https://widget.starfieldtech.com/API.svc/jquery-ui.js"></script>
+
+    <script src="http://img3.wsimg.com/ip/v1.2.1/scripts/ss-merged-1.0.0.0.js" type="text/javascript"></script>
+
+    <script type="text/javascript" src="https://widget.starfieldtech.com/API.svc/cygnus-duel.js?app=SS&amp;user=3707553&amp;proxy=%2fCygnus%2fProxy&amp;action=%2fCygnus%2fAction"></script>
+
+    
+
+<script type="text/javascript">// <![CDATA[
+    $j(document).ready( function() {
+        // ---- Configure the application settings for communicating with Cygnus.
+        $c.Stage.applicationEventHandlerElement = $j("#page");
+
+        var appSettings = $c.Stage.applicationSettings;
+        appSettings.showConfigControl = false;
+        appSettings.showToggleControl = false;
+        appSettings.showCloseControl = true;
+        appSettings.hideCloseControlOnEdit = true;
+        appSettings.widgetActions.closeControlClick = function (widgetId, widgetType) {
+            // this will hide the widget since it's already open
+            $ss.showWidget(widgetId, $j(".ss-service[wid='" + widgetId + "']"));
+        };
+        appSettings.widgetEvents.saveConfigSuccess = 
+        function(widgetId, widgetType) {
+            var li = $j("li:has(a[wid='" + widgetId + "'])");
+            if (li.length > 0)
+            {
+                li.show();
+                li.find("a").removeClass("uninitialized");
+                $ss.showLauncher();
+                $ss.showSavedConfirmation('App saved successfully.');
+            }
+            else
+            {
+                if (widgetType == "fbpage")
+                {
+                    $ss.showSavedConfirmation('Facebook Page saved successfully.');
+                }
+            }
+        };
+        appSettings.widgetEvents.saveConfigFailure =
+            function(widgetId, widgetType) {
+                //alert("failed!");
+            };
+        appSettings.widgetEvents.cancelledConfig = 
+            function(widgetId, widgetType) {
+                var a = $j("a[wid='" + widgetId + "']");
+                if (a.hasClass("uninitialized"))
+                {
+                    //close the widget since it's already open if it's not be initialized.
+                    $ss.showWidget(widgetId, $j(".ss-service[wid='" + widgetId + "']"));
+                    $ss.openAdminPanel('widgets');
+                }
+            };
+        appSettings.widgetEvents.openedConfig = 
+            function(widgetId, widgetType)
+            {
+                if (widgetType != "fbpage")
+                {
+                    // close tabs
+                    $ss.hideAdminPanel();
+                }
+            };
+        appSettings.widgetEvents.closedConfig = 
+            function(widgetId, widgetType)
+            {
+                if (widgetType == "fbpage")
+                {
+                    $ss.facebookPage.close(widgetId);
+                }
+            };
+        appSettings.widgetEvents.dataModified = 
+            function(widgetId, widgetType, data) {
+                if ($j.isPopulated(data))
+                {
+                    if (widgetType == "fbpage")
+                    {
+                        $j('.widget-fbpage-title').text(data.Title.value);
+                    }
+                    else
+                    {
+                        var a = $j("#ss-launcher").find("a[wid=" + widgetId + "]");
+                        var children = a.children();
+                        a
+                            .text(data.LinkTitle.value)
+                            .append(children);
+                        $j("#widgets-added-list").find("li[wid=" + widgetId + "] .widget-added-label-title").text(data.LinkTitle.value);
+                    }
+                }
+            };
+        appSettings.widgetEvents.revealed =
+            function(widgetId, widgetType) {
+                if ($j.isFunction($ss.stage.layout.revealed)) $ss.stage.layout.revealed();
+            };
+        appSettings.widgetEvents.obscured = 
+            function(widgetId, widgetType) {
+                if ($j.isFunction($ss.stage.layout.obscured)) $ss.stage.layout.obscured();
+            };
+
+        appSettings.widgetEvents.widgetModalDisplayed = 
+        appSettings.widgetEvents.contentUpdated =
+          function(wigetId, widgetType) { $ss.fixPalette(); };
+
+        appSettings.applicationUtilityProviders.getImages = function(widgetId, success, failure)
+        {
+            // show a dialog for the user to select images that were uploaded as backgrounds
+            // one day maybe we can change this to be a uploader instead.
+            $ss.facebookPage.gatherImages(null, function(result) {
+                // if the user closed the dialog
+                if (result)
+                {
+                    success(result.images);
+                }
+                else  // do the failure callback otherwise.
+                {
+                    failure({ error: 'Error', message: 'Unable to get images.' });
+                }
+            });
+        }
+
+        appSettings.baseWidgetColors = {
+            background: '#477eb4',
+            textTitle:  '#FFFFFF',
+            textContent: '#FFFFFF',
+            textLinks:  '#84B6E7',
+            borderTitle:  '#84B6E7'
+        };
+
+        appSettings.applicationEvents.colorsChanged = "widgets.colorsChanged";
+
+        appSettings.widgetInitializeOptions.fbpage = { hideFacebookConnectDisplay: true };
+
+        appSettings.modalContainerCssClass ="modal-container";
+
+        $c.CommManager.applicationData = { "domainName": "ozaetagroup.com" };
+
+        // ---- DONE application setting configuration
+            
+        // load/style the page and all it's components            
+        $ss = SimpleSite({
+            basePath: "/",
+            cdnImagePath: "http://img1.wsimg.com/ip/v1.2.0/images/",
+            cdnCssPath: "http://img2.wsimg.com/ip/v1.2.1/style/",
+            eventReceiver: "#page",
+            background: {"id":9972610,"originalSrc":"https://cache.nebula.phx3.secureserver.net/obj/MzREQTY4QjkzNjMxRTZFNzQ4RTE6NzliZDU3YjNlOGUxYTVkZjYxMzk3ZjRiYmRhNWYyMzU=","src":"https://cache.nebula.phx3.secureserver.net/obj/MzREQTY4QjkzNjMxRTZFNzQ4RTE6M2UwZDM0NjUxMTcyMmZiMjM1MmFjMzk0MmY0NWMxMWY=","thumbnail":"https://cache.nebula.phx3.secureserver.net/obj/MzREQTY4QjkzNjMxRTZFNzQ4RTE6ODg1NGYxMTU1MjA3Yzc0YzczNTVmOTNhZDk5NWFkYzg=","orientation":"3","variation":"mc","isUserOwner":true,"cropHistory":null,"stockBackgroundId":410,"isUncropped":true},
+            layout: {"id":1,"name":"Side Menu","type":"1","variation":"l","VariationName":"Left Side"},
+            layoutControls:
+            {
+                content: '#ss-main',
+                title: '#ss-name',
+                description: '#ss-description',
+                launcher: '#ss-launcher',
+                page: '#page',
+                widgetContainer: '#ss-widgetContainer',
+                about: '#ss-about',
+                background: '#ss-background'                    
+            },
+            palette: {
+  "id": 0,
+  "name": null,
+  "userCreated": false,
+  "isActive": false,
+  "backgrounds": {
+    "page": "#FFFFFF",
+    "main": "#477eb4",
+    "meta": "#FFFFFF",
+    "block": "#477eb4"
+  },
+  "fonts": {
+    "title": "#003f7f",
+    "description": "#84b6e7",
+    "services": "#ffffff",
+    "primary": "#FFFFFF",
+    "secondary": "#FFFFFF",
+    "links": "#84B6E7"
+  }
+},
+            fonts: {"titleFontId":0,"generalFontId":1,"titleSize":30,"descriptionSize":14,"servicesSize":12,"titleFontIsEmbed":false,"generalFontIsEmbed":false},
+            titleFont: {"id":0,"appliesTo":"title","faceName":"Arial","defaultSize":60,"isEmbed":false},
+            generalFont: {"id":1,"appliesTo":"title","faceName":"Verdana","defaultSize":60,"isEmbed":false},
+            fontControls:
+            {
+                title: {reset: '.ss-title', apply: '.ss-title' },
+                description: {reset: '.ss-description', apply: '.ss-description' },
+                services: {reset: '.ss-service', apply: '.ss-service'},
+                block: {reset: '.ss-block, #ss-widgetContainer', apply: '.ss-block, #ss-widgetContainer' }
+            },
+            styleControls:
+            {
+                // Page background
+                background: {reset: '#ss-background', apply: '#ss-background' },
+                title: {reset: '.ss-title', apply: '.ss-title', borders: {reset: '#ss-launcher li', apply: '#ss-launcher li'} },
+                description: {reset: '.ss-description', apply: '.ss-description' },
+                services: {reset: '.ss-service', apply: '.ss-service', borders: {reset: '.accordion-arrow-inheritor, .accordion-button', apply: '.accordion-arrow-inheritor, .accordion-button'}},
+                block: {
+                  reset: '.ss-block, #ss-widgetContainer', 
+                  apply: '.ss-block, #ss-widgetContainer, .modal-widget',
+                  foreground: { apply: '.contrast' } 
+                },
+                // Widget text
+                primary: {
+                  reset: '.widget-container .title-bar, .widget-container .text-highlight, .widget-instance h1, .widget-instance h2, .widget-instance h3, .widget-instance h4, .widget-instance h5, .widget-instance h6, .modal-widget .title-bar, .modal-widget .text-highlight, .modal-widget h1, .modal-widget h2, .modal-widget h3, .modal-widget h4, .modal-widget h5, .modal-widget h6', 
+                  apply: '.widget-container .title-bar, .widget-container .text-highlight, .widget-instance h1, .widget-instance h2, .widget-instance h3, .widget-instance h4, .widget-instance h5, .widget-instance h6, .modal-widget .title-bar, .modal-widget .text-highlight, .modal-widget h1, .modal-widget h2, .modal-widget h3, .modal-widget h4, .modal-widget h5, .modal-widget h6'
+                },
+                secondary: {
+                  reset: '.widget-instance, .widget-instance div:not(.watermark, .charCounter, .text-highlight, .contrast, .error, .form-errors, .required, :isThirdPartyInclude), .widget-instance span:not(.watermark, .charCounter, .text-highlight, .contrast, .error, .form-errors, .required, :isThirdPartyInclude), .widget-instance li, .widget-instance p, .modal-widget, .modal-widget div:not(.watermark, .charCounter), .modal-widget li, .modal-widget span:not(.text-highlight,.contrast), .modal-widget p', 
+                  apply: '.widget-instance, .widget-instance div:not(.watermark, .charCounter, .text-highlight, .contrast, .error, .form-errors, .required, :isThirdPartyInclude), .widget-instance span:not(.watermark, .charCounter, .text-highlight, .contrast, .error, .form-errors, .required, :isThirdPartyInclude), .widget-instance li, .widget-instance p, .modal-widget, .modal-widget div:not(.watermark, .charCounter), .modal-widget li, .modal-widget span:not(.text-highlight,.welcome-subtitle,.contrast), .modal-widget p',
+                  background: { apply: '.contrast, .speech-balloon-tail' },
+                  borders: { apply: '.speech-balloon-tail' }
+                },
+                //main: { reset: '#ss-launcher, .modal-widget', apply: '.modal-widget, .layout3-c #ss-launcher, .layout2-c #ss-launcher, .layout2-l #ss-launcher, .layout2-r #ss-launcher' }, //'.ss-main, .layout3-c #ss-launcher',
+                //meta: { reset: '#ss-main', apply: '.layout1-c #ss-main, .layout1-l #ss-main, .layout1-r #ss-main, .layout4-c #ss-main, .layout4-l #ss-main, .layout4-r #ss-main' }, //'.ss-main, .layout3-c #ss-launcher',
+                main: { reset: '#ss-launcher', apply: '#ss-launcher' },
+                meta: { reset: '#ss-about', apply: '#ss-about' }, //'.ss-main, .layout3-c #ss-launcher',
+                links: { reset: '.modal-widget a', apply: '.widget-instance a:not(.contrast, :isInWidgetConfigPanel, :isThirdPartyInclude), .modal-widget a:not(.welcome-link), a.widget-link', borders: {reset: '.widget-container .title-bar, .widget-container .contrast-border, hr', apply: '.widget-container .title-bar, .widget-container .contrast-border, hr' }},
+                page: { reset: '.ss-background, body', apply: '.ss-background, body' },
+                launcher: { reset: '#ss-launcher', apply: '#ss-launcher' },
+                widgetContainer: { reset: '#ss-widgetContainer', apply: '#ss-widgetContainer' }
+            },
+            siteInfo: {
+                title: "THE OZAETA GROUP",
+                description: "\nThe Ozaeta Group, through its subsidiaries, is engaged in real estate, financial, technology, media, and textile industries. TOG\u2019s objective in every venture is to achieve a high rate of return on invested capital and build long-term value. \n\nCompanies:\nCarZumer - https://rockthepost.com/carzumer\nCymplifi - https://angel.co/cymplifi\n\nComing Soon!\nFinancial Advisory and Investment services",
+                domain: "ozaetagroup.com",
+                showShareLinks: true
+            },
+            shareLinksData: {
+                twitter: { ciCode: '44667', message: "Check out this GoDaddy hosted webpage! http://ozaetagroup.com.", value:1 },
+                facebook: { ciCode: '44670', value:0 },
+                myspace: { ciCode: '44666', message: "THE OZAETA GROUP", value:2 },
+                delicious: { ciCode: '44668', message: "Check out this GoDaddy hosted webpage! http://ozaetagroup.com.", value:3 },
+                stumbleupon: { ciCode: '44669', value:4 }
+            },
+            previewMessageData: [{"appId":"1", message:"<div class=\"preview-warning-info\">This is only a preview. We may still be setting up your domain.</div><div>To get started customizing your site, click <b>Owner Login</b>. After domain setup is complete, view your live site at your domain address.</div><br/><div>Domain address:<br /><a href=\"http://[[domain]]\">[[domain]]</a></div>"}],
+            wstAppName : 'Go Daddy Website Builder'
+            
+        });  
+            
+        $ss.showLauncher();
+
+        // display the main container (nav and about) which should be formatted by now
+        $j("#ss-mainContainer").css("visibility", "visible");
+
+        
+            $ss.stage.showShareLinksPanel(true);
+        
+
+        $j("#ss-description").linkify({fontColorParent: '#ss-description', initText: "\nThe Ozaeta Group, through its subsidiaries, is engaged in real estate, financial, technology, media, and textile industries. TOG\u2019s objective in every venture is to achieve a high rate of return on invested capital and build long-term value. \n\nCompanies:\nCarZumer - https://rockthepost.com/carzumer\nCymplifi - https://angel.co/cymplifi\n\nComing Soon!\nFinancial Advisory and Investment services"});
+        $j("#ss-title").linkify({fontColorParent: '#ss-name', initText: "THE OZAETA GROUP"}); 
+
+        // show modal dialog if needed.
+        $ss.stage.showPreviewModal();
+    });          
+// ]]></script>
+
+  <script type="text/javascript">// <![CDATA[
+
+    $j(document).ready(function () {
+
+      
+
+      var loginHref = $j("#login-link").attrSafe("href").replace(/&lcid=.*?(&|$)/gi, '&lcid=' + (location.hostname.toLowerCase() == $ss.stage.siteInfo.domain.toLowerCase()));
+      $j("#login-link").attrSafe("href", loginHref);
+    });
+
+  // ]]></script>
+
+  </head>
+
+  <body class="non-admin compliant rslrgd">
+    
+    <div class="site-wrapper">
+      
+    <img id="ss-background" class="ss-background" style="display: none; position: fixed; z-index:-1000; background-color: #FFFFFF; height: 100%; width:100%;" src="https://cache.nebula.phx3.secureserver.net/obj/MzREQTY4QjkzNjMxRTZFNzQ4RTE6M2UwZDM0NjUxMTcyMmZiMjM1MmFjMzk0MmY0NWMxMWY=" alt="background" />
+    
+      <div class="page" id="page">
+        
+<div id="content">
+    <div id="ss-mainContainer" style="visibility:hidden;">
+        <div id="ss-main" class="ss-main">
+            
+            <div id="ss-about" >
+                
+<h1 id="ss-name" class="ss-title" style="zoom:1/*DNR: fixes IE bug*/; font-size: 30px; font-family:Arial;">THE OZAETA GROUP</h1>
+<div id="ss-description" class="ss-description" style="font-size: 14px; font-family:Verdana;"><br />The Ozaeta Group, through its subsidiaries, is engaged in real estate, financial, technology, media, and textile industries. TOG’s objective in every venture is to achieve a high rate of return on invested capital and build long-term value. <br /><br />Companies:<br />CarZumer - https://rockthepost.com/carzumer<br />Cymplifi - https://angel.co/cymplifi<br /><br />Coming Soon!<br />Financial Advisory and Investment services</div>
+
+            </div>
+            
+<div id="ss-launcher" >
+  <ul>
+    <li class="link-home"><a class="ss-service" href="javascript:$ss.hideWidgets();">Home</a></li>
+    
+        <li ><a class="ss-service closed" href="#" wid="SS37075tZInNtelQq" onclick="javascript:$ss.showWidget('SS37075tZInNtelQq', $j(this));" style="font-size: 12px; font-family:Verdana;">Contact Us<div class="accordion-button"><div class="accordion-arrow-inheritor"><div class="accordion-arrow"></div></div></div></a></li>
+    
+    <li id="menu-affiliate-link"  style="display:none;">
+        
+    </li>
+  </ul>
+</div>
+        </div>
+    </div>
+    <div id="ss-widgetContainer" style="display:none;"></div>
+</div>
+        
+<div id="logindisplay">
+     
+	<a href="https://idp.godaddy.com/login.aspx?spkey=GDSIMPLESITEWEB.PROD&amp;domain=ozaetagroup.com&amp;prog_id=GoDaddy&amp;sd=&amp;redirect=true&amp;auto=True&amp;lcid=True" cicode="41766" id="login-link"></a>
+
+</div>
+<div id="sharePanel"></div>
+
+
+  <div class="cross-sell">
+    <div class="blurb">
+      <span class="arrow"></span>
+      <span class="logo"></span>
+      Powered by InstantPage&#0174; from GoDaddy.com.  <a class="want-one-link" target="_blank" href="https://www.godaddy.com/?showip=true&amp;isc=instantpage_311"><span><b>Want one?</b></span></a>
+    </div>
+  </div>
+
+      </div>
+    </div>
+  </body>
+</html>
+<!-- Version: 1.8.0.0 -->

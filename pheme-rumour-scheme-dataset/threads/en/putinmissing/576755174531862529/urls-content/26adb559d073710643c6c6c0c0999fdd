@@ -1,0 +1,639 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 15 Jun 2015 12:58:22 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 190
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://www.nationalreview.com/corner/415412/where-putin-and-something-big-happening-russia-jim-geraghty
+Set-Cookie: _bit=557ecbee-001b8-0384d-cb1cf10a; Path=/; Domain=bit.ly; HttpOnly
+
+HTTP/1.1 200 OK
+Date: Mon, 15 Jun 2015 12:58:23 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: __cfduid=db5ca3d9930cfd334fd3aee8d2d870c601434373102; expires=Tue, 14-Jun-16 12:58:22 GMT; path=/; domain=.nationalreview.com; HttpOnly
+Cache-Control: public, max-age=180
+Content-Language: en
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Mon, 15 Jun 2015 12:58:22 GMT
+Link: <http://www.nationalreview.com/sites/default/files/logo_nr_social_2014_C.jpg>; rel="image_src",<http://www.nationalreview.com/corner/415412/where-putin-and-something-big-happening-russia-jim-geraghty>; rel="canonical",<http://www.nationalreview.com/node/415412>; rel="shortlink",<http://www.nationalreview.com>; rel="publisher"
+X-Drupal-Cache: MISS
+X-Generator: Drupal 7 (http://drupal.org)
+X-Pantheon-Endpoint: 7f59bdaa-9439-453d-839a-003d5fdbd1fa
+X-Pantheon-Styx-Hostname: styx89e23dcf
+X-Powered-By: PHP/5.3.29
+X-Styx-Build-Date: Wed Apr 29 20:43:17 UTC 2015
+X-Styx-Build-Num: 946
+X-Styx-Build-Sha: 39667cea44763e7df6d81c544b0d294bf223876f
+X-Styx-Req-Id: styx-4bee5f549797af35679c6667100b5046
+X-Styx-Version: StyxGo
+X-Varnish: 2672917388
+Age: 0
+Via: 1.1 varnish
+Vary: Accept-Encoding, Cookie, Cookie
+Server: cloudflare-nginx
+CF-RAY: 1f6e7232b19b0a7e-LHR
+Content-Encoding: gzip
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>  
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAUPUldVGwUBU1hWAQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+		<title>Where Is Putin? And Is Something Big Happening in Russia? | National Review Online</title>
+		
+		<meta name="description" content="">
+		<meta name="google-site-verification" content="cWUbXZPdWVN3E9AtoCbatVBYh3_0zCFEFSiYUvwUcxU" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<meta itemprop="name" content="National Review">
+	    <meta name="sailthru.title" content="Where Is Putin? And Is Something Big Happening in Russia? | National Review Online">
+	    <meta name="title" content="Where Is Putin? And Is Something Big Happening in Russia? | National Review Online">
+		<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css" />
+		<link type="text/css" rel="stylesheet" href="http://www.nationalreview.com/sites/default/files/css/cdn_css_7FvM6llPm9TI6x_LQDouE8pj3b0TrWeOYAczMWF-_8M.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.nationalreview.com/sites/default/files/css/cdn_css_VwJxJe73IxWNqnLaICzQ1QD6BO6_WuoR3BTRqKiBGNc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.nationalreview.com/sites/default/files/css/cdn_css_JKs4DiByAg5S30JCc_dqCJXL9-tbDClA0IWP9B95eXE.css" media="all" />
+				<!-- build:css -->
+		<link rel="stylesheet" href="/sites/all/themes/nro_javelin/assets/css/screen.min.css?t=1433195448763">
+		<!-- endbuild -->
+				<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+		<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+		<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+		<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+		<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+	    <script type="text/javascript">
+			var base_url = '//www.nationalreview.com';
+		    var _sf_startpt=(new Date()).getTime();
+		</script>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="sailthru.date" content="Sat, 2015-03-14 10:37" />
+<meta name="robots" content="follow, index" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="sailthru.author" content="Jim Geraghty" />
+<meta property="og:title" content="Where Is Putin? And Is Something Big Happening in Russia?" />
+<meta property="twitter:url" content="http://www.nationalreview.com/corner/415412/where-putin-and-something-big-happening-russia-jim-geraghty" />
+<meta property="twitter:title" content="Where Is Putin? And Is Something Big Happening in Russia?, by Jim Geraghty, National Review" />
+<link rel="image_src" href="http://www.nationalreview.com/sites/default/files/logo_nr_social_2014_C.jpg" />
+<link rel="canonical" href="http://www.nationalreview.com/corner/415412/where-putin-and-something-big-happening-russia-jim-geraghty" />
+<meta property="og:image" content="http://c3.nrostatic.com/sites/default/files/page_2014_200_geraghty_square_1.jpg" />
+<meta property="og:url" content="http://www.nationalreview.com/corner/415412/where-putin-and-something-big-happening-russia-jim-geraghty" />
+<link rel="shortcut icon" href="http://c7.nrostatic.com/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="National Review Online" />
+<link rel="shortlink" href="http://www.nationalreview.com/node/415412" />
+<link rel="publisher" href="http://www.nationalreview.com" />
+<meta property="fb:app_id" content="129250807108374" />
+<meta property="twitter:card" content="summary" />
+<meta name="tweettext" content="Where Is Putin? And Is Something Big Happening in Russia?" />
+<link rel="dns-prefetch" href="//c3.nrostatic.com" />
+<link rel="dns-prefetch" href="//c4.nrostatic.com" />
+<link rel="dns-prefetch" href="//c5.nrostatic.com" />
+<link rel="dns-prefetch" href="//c2.nrostatic.com" />
+<link rel="dns-prefetch" href="//c1.nrostatic.com" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//c0.nrostatic.com" />
+<link rel="dns-prefetch" href="//c6.nrostatic.com" />
+<link rel="dns-prefetch" href="//c7.nrostatic.com" />
+<meta name="keywords" content="Jim Geraghty" />
+<meta name="news_keywords" content="Jim Geraghty" />
+<meta name="copyright" content="© National Review, Inc." />
+<script src="https://cdns.gigya.com/JS/socialize.js?apikey=3_D3pvqum9tHxbcNJm8UUB0KsN0En_W1XmAkf_SRZ9d3CDNxQyxZKF72PBBI10eE7Q">{"enabledProviders":"Facebook, Twitter, Instagram, Googleplus","lang":"en","sessionExpiration":2000000,"connectWithoutLoginBehavior":"true","forceProvidersLogout":"false"}</script><link rel="dns-prefetch" href="//c10.nrostatic.com" />
+<link rel="dns-prefetch" href="//c8.nrostatic.com" />
+<link rel="dns-prefetch" href="//c9.nrostatic.com" />
+<meta name="sailthru.tags" content="Where Is Putin? And Is Something Big Happening in Russia?, Jim Geraghty, National Review" />
+
+		<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js'></script>
+		<!--<script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>-->
+		<script type='text/javascript' src="/sites/all/themes/nro_javelin/assets/js/jquery.ui.js"></script>
+		<script type="text/javascript" src="/sites/all/themes/nro_javelin/assets/js/iosbugfix.js"></script> 
+
+		<!-- <script type="text/javascript" src="/sites/all/themes/nro_javelin/assets/js/jquery.dfp.js"></script> -->
+		<!-- <script type="text/javascript" src="/sites/all/themes/nro_javelin/assets/js/nro_google_ads.js"></script> -->
+		<script type="text/javascript" src="/sites/all/themes/nro_javelin/assets/js/taboola.js"></script> 
+				<script type="text/javascript" src="//native.sharethrough.com/assets/tag.js" async></script>
+		<!-- Nativo -->
+        <script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+				<!-- adblocker counter -->
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '9C0E314A87314629';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+				<!-- po.st -->
+		<script type="text/javascript">
+(function(){
+var s=document.createElement('script');
+s.type='text/javascript';
+s.async=true;
+                s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://i')
+                + '.po.st/share/script/post-widget.js#publisherKey=ih6giicq11ntdregj0vg';
+var x=document.getElementsByTagName('script')[0];
+x.parentNode.insertBefore(s,x);
+})();
+var pwidget_config = {
+copypaste: false,
+track: 'query',
+defaults:{
+sharePopups: true,
+services:{
+twitter:{
+via:'NRO'
+}
+}
+}
+};
+</script>
+	<script type="text/javascript" src="http://www.nationalreview.com/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
+<script type="text/javascript" src="http://www.nationalreview.com/sites/default/files/js/js_QZ3IWgnNQF81xxBAY2OpY_LzXi2CC2WgsAB3COHuD6U.js"></script>
+<script type="text/javascript" src="http://www.nationalreview.com/sites/default/files/js/js_9MGqoVf8_pH96bM-FoOd9ugN20pKTp6v4pkWj44Dg_E.js"></script>
+<script type="text/javascript" src="http://www.nationalreview.com/sites/default/files/js/js_QxT4lcdPsBGvbV_yCc26BD3yFrnBNcHT71cgnyidt44.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1167326-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nro_javelin","theme_token":"h-IX_LkTeDrjSw8hTeU61WKR5fh-hiVPpcxNmVHHGVk","js":{"sites\/all\/modules\/contrib\/gigya\/js\/gigya_comments.js":1,"modules\/statistics\/statistics.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.effects.core.min.js":1,"misc\/ui\/jquery.effects.blind.min.js":1,"misc\/ui\/jquery.effects.bounce.min.js":1,"misc\/ui\/jquery.effects.clip.min.js":1,"misc\/ui\/jquery.effects.drop.min.js":1,"misc\/ui\/jquery.effects.explode.min.js":1,"misc\/ui\/jquery.effects.fade.min.js":1,"misc\/ui\/jquery.effects.fold.min.js":1,"misc\/ui\/jquery.effects.highlight.min.js":1,"misc\/ui\/jquery.effects.pulsate.min.js":1,"misc\/ui\/jquery.effects.scale.min.js":1,"misc\/ui\/jquery.effects.shake.min.js":1,"misc\/ui\/jquery.effects.slide.min.js":1,"misc\/ui\/jquery.effects.transfer.min.js":1,"sites\/all\/modules\/contrib\/splashify\/js\/jquery.json-2.3.min.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/contrib\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"sites\/all\/modules\/custom\/tweetpoints\/assets\/js\/tweetpoints.js":1,"sites\/all\/modules\/custom\/nro\/nro_control\/nro_control_article_pager.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/iframe\/iframe.js":1,"sites\/all\/modules\/custom\/nro\/nro_infinite_scroll\/nro_infinite_scroll.js":1,"sites\/all\/modules\/custom\/nro\/nro_mega_menu\/nro_mega_menu.js":1,"sites\/all\/modules\/custom\/nro\/nro_slideshow\/nro-slideshows.js":1,"sites\/all\/modules\/contrib\/pollanon\/js\/jquery.cookie.min.js":1,"sites\/all\/modules\/contrib\/pollanon\/js\/pollanon.pack.js":1,"sites\/all\/libraries\/jstorage\/jstorage.min.js":1,"sites\/all\/modules\/contrib\/gigya\/js\/gigya.js":1,"sites\/all\/modules\/contrib\/gigya\/js\/gigya.behaviors.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/ajax-responder.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/custom\/annotate\/annotate\/css\/annotate.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"sites\/all\/modules\/custom\/pullquote\/pullquote\/css\/pullquote.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/custom\/tweetpoints\/assets\/css\/tweetpoints.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/pollanon\/pollanon.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1}},"colorbox":{"transition":"none","speed":"350","opacity":"1","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%","initialWidth":"100%","initialHeight":"100%","fixed":true,"scrolling":true},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","gigya":{"enabledProviders":"Facebook, Twitter, Instagram, Googleplus","lang":"en","sessionExpiration":2000000,"connectWithoutLoginBehavior":"true","forceProvidersLogout":"false","mv":"mayor","loginMode":"drupal_and_gigya","loginUIParams":[{"containerID":"divGigyaLogin","buttonsStyle":"fullLogoColored","showTermsLink":0,"width":"500px","height":"110","buttonSize":"40"},{"containerID":"divGigyaLogin-1","buttonsStyle":"fullLogoColored","showTermsLink":0,"width":"500px","height":"110","buttonSize":"40"}],"loginDestination":"http:\/\/www.nationalreview.com\/socialize-login"},"gigyaComments":{"commentsUIparams":{"categoryID":"","streamID":"419633","containerID":"comments","scope":"external","privacy":"private","context":{"id":"comments"},"version":2}},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg src=\u0022http:\/\/www.nationalreview.com\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg src=\u0022http:\/\/www.nationalreview.com\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"statistics":{"data":{"nid":"415412"},"url":"\/modules\/statistics\/statistics.php"}});
+//--><!]]>
+</script>
+<style type="text/css">
+.horizontal-share-menu .pw-icon, #full-story-share .pw-icon{
+display:none!important;
+}
+.horizontal-share-menu .pw-widget{
+display:inline!important;
+}
+.horizontal-share-menu .pw-button, #full-story-share .pw-button{
+font:normal 12px/19px 'Ideal Sans SSm A','Ideal Sans SSm B'!important;
+cursor:pointer;
+}
+.horizontal-share-menu .pw-button-print,.horizontal-share-menu .pw-button-email{
+background:#006cd8!important;
+}
+.horizontal-share-menu .pw-button:hover{
+background: white !important;
+}
+#full-story-share .pw-button{
+width: 48px;
+font-size: 16px!important;
+line-height: 48px !important;
+}
+#full-story-share .pw-widget{
+height: 48px !important;
+}
+</style>
+		<!-- Facebook Conversion Code for National Review Main Pixel -->
+		<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '1626507807583041']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1626507807583041&amp;ev=PixelInitialized" /></noscript>
+		<!-- Naytev for Facebook AB -->
+		<!--  <script async src='//naytev.global.ssl.fastly.net/js/embed/55117523e4b04ca00fac907e.js'></script>  -->
+
+	</head>
+	<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-415412 node-type-articles domain-www-nationalreview-com">
+			
+				<section class="stripe leaderboard_ad" id="html_leader">
+	<div class="tac">
+					<iframe src="/doubleclick/div-gpt-ad-top.php" width="728" height="90" scrolling="no" class="refreshable-ad no-resize"></iframe> 
+			</div>
+</section>
+<nav role="navigation" class="nav-fixed-top cf fs-p9">	
+		<div class="nav-fixed-top-main container tac cf">
+			<ul class="fl nav-block off-phones">
+				<li class="p-r ipad-portrait-only"><a href="javascript:void(0);" data-href="/megamenu/nojs/search" class="mega-button fa fa-search fc-owp5 border-left" id="mm-search"></a></li>
+				<li><a href="/corner" data-href="/mm/nojs/authors">Corner</a></li>
+				<li ><a href="javascript:void(0);" data-href="/mm/nojs/blogs" class="mega-button">Blogs</a></li>
+				<li class="off-ipad-portrait"><a href="javascript:void(0);" data-href="/mm/nojs/authors" class="mega-button">Authors</a></li>
+				<li class="off-ipad-portrait"><a href="javascript:void(0);" data-href="/mm/nojs/topics" class="mega-button">Topics</a></li>
+				<li class="off-ipad-portrait off-tablets-early"><a href="javascript:void(0);" data-href="/mm/nojs/magazine" class="mega-button">Magazine</a></li>
+			</ul>
+			<a href="/" id="home"><div class="brand"></div></a>
+		</div>
+		<div id="coa-block">
+			<ul class="fr">
+				<li class="off-phones off-tablets off-tablets-early"><a href="javascript:void(0);" data-href="/mm/nojs/subscribe" id="subscription" class="mega-button fc-w border-left">Subscribe</a></li>
+				<li class="off-phones off-tablets cf">
+									<a href="javascript:void(0);" data-href="/mm/nojs/user" class="border-left mega-button"><span>Login</span></a>
+								</li>
+				<!-- <li class="p-r phones-only"><a href="javascript:void(0);" id="nav-top-mobile-share-icon" class="mega-button fa fa-share-alt fc-owp5 border-left"></a></li> -->
+				<li class="ipad-portrait-only"><a href="javascript:void(0);" data-href="/mm/nojs/topics" class="mega-button">Topics</a></li>
+				<li class="ipad-portrait-only"><a href="javascript:void(0);" data-href="/mm/nojs/authors" class="mega-button">Authors</a></li>
+				<li class="p-r off-phones off-ipad-portrait"><a href="javascript:void(0);" data-href="/megamenu/nojs/search" class="mega-button fa fa-search fc-owp5 border-left" id="mm-search"></a></li>
+				<li class="off-phones off-tablets"><a href="https://twitter.com/NRO" target="_blank" class="fa fa-twitter fc-owp5 tooltip" id="tw-s"></a></li>
+				<li class="off-phones off-tablets"><a href="https://www.facebook.com/nationalreview" target="_blank" class="fa fa-facebook fc-owp5 tooltip" id="fb-s"></a></li>
+				<li class="off-phones off-tablets"><a href="https://plus.google.com/+nationalreview" target="_blank" class="fa fa-google-plus fc-owp5 tooltip" id="gp-s"></a></li>
+				<li class="highlight"><a href="javascript:void(0);" data-href="/mm/nojs/internal" class="mega-button fa fa-bars fc-owp5 mega-button" id="mm-internal"></a></li>
+			</ul> 
+		</div>
+	</nav>
+				<div class="share mobile-share" data-title="" data-node-id="" data-url="/corner/415412/where-putin-and-something-big-happening-russia-jim-geraghty">
+				<ul>
+					<li><i class="fa fa-twitter twitter"></i></li>
+					<li><i class="fa fa-facebook facebook"></i></li>
+					<li><i class="fa fa-google-plus google-plus"></i></li>
+					<li><i class="fa fa-envelope email"></i></li>
+				</ul>
+			</div>
+				<div role="navigation" id="mega-menu"></div>	
+<script type="text/javascript">
+	 		window.disqus_config = function() { 
+	 			this.page.remote_auth_s3 = "W10= 8256ac03709289ee2ce8ea228c3c9b9b39e62d8e 1434373103";  
+	 			this.page.api_key = "OItXh8TdR4RSMYfThalfMxoRkGXoA8ZkAiPQk07bEesKXVmALWexPhkdVWVGEFta";
+			} 
+			</script><div class="nav-fixed-spacer"></div>
+<div class="container cf noshare">
+    	<div class="layout-table amt-30">
+		<div class="layout-cell-main">
+  			<div class="col-75p main-content amt-20 fl">
+  			<div role="banner" class="amb-20">
+			  	<a href="/taxonomy/term/22">
+					<div id="blog-title">
+						<h1 class="blog-nav-title" style="vertical-align: middle;">The Corner</h1>
+						<span class="blog-nav-title"><p>The one and only.</p>
+</span>
+					</div>
+				</a>
+			</div>
+  					
+  				    <div class="story-container">
+	<div role="main" class="">
+		<header role="heading" class="ap-0 article-header">
+			<h1><a href="http://www.nationalreview.com/corner/415412/where-putin-and-something-big-happening-russia-jim-geraghty">Where Is Putin? And Is Something Big Happening in Russia?</a></h1>
+		</header>
+									<div class="p-r">
+			<div 
+				class="story fl ff-mercury " 
+				data-nid="415412" 
+				data-ab-title-tracking="true" 
+				data-url="http://www.nationalreview.com/corner/415412/where-putin-and-something-big-happening-russia-jim-geraghty" 
+				data-title="Where Is Putin? And Is Something Big Happening in Russia?" 
+				data-author-override="no" 
+				data-author="Jim Geraghty" 
+				data-author-id="814" 
+				data-wordcount="103">
+				
+				<div class="white-bg-lg">
+					<div class="horizontal-share-menu amb-30">
+						<ul class="uppercase sans-serif">
+						 <li class="cf"><a href="javascript:void(0);"  pw:title="Where Is Putin? And Is Something Big Happening in Russia?" pw:url="http://www.nationalreview.com/corner/415412/where-putin-and-something-big-happening-russia-jim-geraghty" class="facebook-share pw-button-facebook"><span class="aria-hidden">Share article on Facebook</span><i class="fa fa-facebook fs-1p5"></i><span aria-hidden="true" class="fs-1">share</span></a></li>
+							<li class="cf"><a href="javascript:void(0);" pw:title="Where Is Putin? And Is Something Big Happening in Russia?" pw:url="http://www.nationalreview.com/corner/415412/where-putin-and-something-big-happening-russia-jim-geraghty"  class="twitter-share pw-button-twitter"><span class="aria-hidden">Tweet article</span><i role="presentation" class="fa fa-twitter fs-1p5"></i><span class="fs-1" aria-hidden="true">tweet</span></a></li>
+							<li class="cf"><a href="javascript:void(0);"  pw:title="Where Is Putin? And Is Something Big Happening in Russia?"  pw:url="http://www.nationalreview.com/corner/415412/where-putin-and-something-big-happening-russia-jim-geraghty" class="google-plus cf pw-button-googleplus"><span class="aria-hidden">Plus one article on Google Plus</span><i role="presentation" class="fa fa-google-plus fs-1p5"></i><span aria-hidden="true" class="fs-1">+1</span></a></li>
+							<li class="cf"><a href="/node/415412/print" target="_blank" class="print"><span class="aria-hidden">Print Article</span><i role="presentation" class="fa fa-print fs-1p5"></i></a></li>
+							<li class="cf"><a href="javascript:void(0);" data-url="http://www.nationalreview.com/corner/415412/where-putin-and-something-big-happening-russia-jim-geraghty" data-title="Where Is Putin? And Is Something Big Happening in Russia?" id="emailPopper" class="emailPopper email sendtofriend-button"><span class="aria-hidden">Email article</span><i role="presentation" class="fa fa-envelope fs-1p5"></i></a></li>
+
+							<li class="cf font-size-drop-container">
+								<div>
+									<a href="javascript:void(0);" class="font-size">
+										<span class="aria-hidden">Adjust font size</span>
+										<i aria-hidden="true" class="fs-1p5">A<small class="fs-p75" aria-hidden="true">A</small></i>
+									</a>
+									<ul class="font-size-choices" style="font-size:16px;">
+										<li><a href="javascript:void(0);" style="font-size:0.8em;" data-size="0.8em">A<small>A</small></a></li>
+										<li><a href="javascript:void(0);" style="font-size:0.9em;" data-size="0.9em">A<small>A</small></a></li>
+										<li><a href="javascript:void(0);" style="font-size:1em;" data-size="1em">A<small>A</small></a></li>
+										<li class="active"><a href="javascript:void(0);" style="font-size:1.1em;" data-size="1.1em">A<small>A</small></a></li>
+										<li><a href="javascript:void(0);" style="font-size:1.2em;" data-size="1.2em">A<small>A</small></a></li>
+										<li><a href="javascript:void(0);" style="font-size:1.3em;" data-size="1.3em">A<small>A</small></a></li>
+									</ul>
+								</div>
+							</li>
+						</ul>
+					</div>
+										<div class="sans-serif amb-20">
+											 	by
+					 							<span class="uppercase">
+							<a href="/author/814">Jim Geraghty</a>						</span>
+						<time class="em fc-g">March 14, 2015 10:37 AM</time>
+							
+					</div>
+										<section></section>
+
+					   <p>Maybe Vladimir Putin is just unplugging and spending quality time with his gymnast girlfriend.</p>
+
+<p>Or maybe something really significant is happening in Russia. If rumors that Russian military attaches are returning to Russia are true… what does that mean?</p>
+
+<blockquote class="twitter-tweet" lang="en" xml:lang="en">
+<p>Meanwhile, at <a href="https://twitter.com/hashtag/Russia?src=hash">#Russia</a>’s embassy in London all the people from the military &amp; defense attache office left the country <a href="http://t.co/OBiO8gpp53">pic.twitter.com/OBiO8gpp53</a></p>
+— Silver Surfer (@RobPulseNews) <a href="https://twitter.com/RobPulseNews/status/576172867899039745">March 13, 2015</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script><p>There is indeed <a href="http://www.rusemb.org.uk/diplomats/">a Russian defense attache in their embassy in London named Kilmuk</a> . . . or there was.</p>
+
+<p><strong>UPDATE</strong>: For what it is worth, the Russian embassy denies this report.</p>
+
+<blockquote class="twitter-tweet" lang="en" xml:lang="en">
+<p><a href="https://twitter.com/Marcus_Reynolds">@Marcus_Reynolds</a> This is not true.</p>
+— Russian Embassy, UK (@RussianEmbassy) <a href="https://twitter.com/RussianEmbassy/status/576752973008773120">March 14, 2015</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+					
+				</div>
+
+				<script type="text/javascript">
+;(function($){
+
+	// check for 2nd and fifth position ads
+	if( $('.story:eq(1)').length > 0 && !$('.story:eq(1)').hasClass('blog-ad-tagged') ) {
+
+		$('.story:eq(1)')
+			.addClass('blog-ad-tagged')
+			.append([
+				'<div class="blog-article-ad-bottom stripe tac apt-20 apb-20">',
+				'<iframe src="/doubleclick/div-gpt-ad-middle.php" width="300" height="250" scrolling="no" class="refreshable-ad"></iframe>',
+				'</div>'
+			].join(''));
+
+	} else if( $('.story:eq(4)').length > 0 && !$('.story:eq(4)').hasClass('blog-ad-tagged') ) {
+
+		$('.story:eq(4)')
+			.addClass('blog-ad-tagged')
+			.append([
+				'<div class="blog-article-ad-bottom stripe tac apt-20 apb-20">',
+				'<iframe src="/house_ads.php" width="300" height="250" scrolling="no" class="refreshable-ad"></iframe>',
+				'</div>'
+			].join(''));
+
+	}
+
+})(jQuery);
+
+</script>
+			</div>
+			<div class="fr p-r cf scrolling-share amt-100"></div>
+			<div style="clear: both;"></div>
+		</div> 
+				<div class="ap-10 apl-0 amt-10 comments" role="comments">
+			<a href="javascript:void(0);" class="comment tal amb-20 toggle-comments">
+				<h1 class="uppercase fs-1p25 d-ib">View Comments</h1>
+			</a>
+		</div>
+		<div 
+			class="col-100p nr-comments amb-30" 
+			id="comment-415412" 
+			data-url="http://www.nationalreview.com/corner/415412/where-putin-and-something-big-happening-russia-jim-geraghty" 
+			data-disqus-id="node/415412">
+		</div>
+			</div>
+</div> 									<div class="col-100p sans-serif fs-1p5 tac uppercase bold d-b bg-b ap-10 fc-w amt-20" id="load-more">
+						<a href="javascript:void(0);" data-type="articles" data-term="22" data-node="415412" data-page="1" class="fc-w">Load More</a>
+					</div>
+				  			</div> 
+  		</div> 
+				<div class="layout-cell-sidebar">
+			<div role="complementary" class="sidebar col-25p fl">
+				<div class="vl amt-20">
+	<iframe src="/doubleclick/div-gpt-ad-x01.php" width="300" height="250" scrolling="no" class="refreshable-ad"></iframe>
+</div> <div class="vl amt-20">
+		<h1 class="vl-title fs-2 uppercase fc-lb">NR Tweets</h1>
+		    	    <article class="vl-li ap-20">
+	<header class="tweet">
+			  
+		    <span class="field-content"><section class="author-r tweet-author">
+	<i class="fa fa-twitter"></i>
+	<span class="uppercase bold">
+		National Review	</span>
+</section>
+
+</span>			  
+		    <span class="field-content"><a href="/tweets" target="_blank">A WSJ/NBC poll found that 96% of those surveyed believe we are in for a summer of racial unrest.
+http://t.co/6q2EaBuhEa</a></span>			  
+		    <span class="field-content"><a href="/tweets" class="d-b">@NRO</a></span>			</header>
+</article>
+
+					     <article class="vl-li ap-20">
+	<header class="tweet">
+			  
+		    <span class="field-content"><section class="author-r tweet-author">
+	<i class="fa fa-twitter"></i>
+	<span class="uppercase bold">
+		National Review	</span>
+</section>
+
+</span>			  
+		    <span class="field-content"><a href="/tweets" target="_blank">RT @monacharenEPPC: Please visit my new Facebook page. Posts, podcasts, columns, upcoming appearances. One stop shopping. https://t.co/K2cf…</a></span>			  
+		    <span class="field-content"><a href="/tweets" class="d-b">@NRO</a></span>			</header>
+</article>
+
+					     <article class="vl-li ap-20">
+	<header class="tweet">
+			  
+		    <span class="field-content"><section class="author-r tweet-author">
+	<i class="fa fa-twitter"></i>
+	<span class="uppercase bold">
+		National Review	</span>
+</section>
+
+</span>			  
+		    <span class="field-content"><a href="/tweets" target="_blank">RT @charlescwcooke: The gun control movement is so wildly dishonest. http://t.co/Uvgw1jHiNU</a></span>			  
+		    <span class="field-content"><a href="/tweets" class="d-b">@NRO</a></span>			</header>
+</article>
+
+					 	</div> <div class="vl amt-20">
+		<h1 class="vl-title fs-2 uppercase fc-lb"><a href="/slideshows">Photo Essay</a></h1>
+				    <div class="d-t" id="photo-essays">
+	<div class="d-tc cover-5">
+		<a href="/slideshows/battle-five-armies" class="d-b ab-item-for-click-targeting">
+			<section class="crop" style="background: url('http://c1.nrostatic.com/sites/default/files/hobbits-photos-21.jpg') center center; background-size: cover;">
+				<header>
+					<section class="excerpt sans-serif">
+						<!-- <span class="photo-essay-prefix">slideshow</span>-->
+						Battle of the Five Armies 
+					</section>
+				</header>
+			</section>
+		</a>
+	</div>
+</div> 	</div> <div id="sb-sws">    <div class="vl amt-20">
+	<iframe src="/doubleclick/div-gpt-ad-x02.php" width="300" height="250" scrolling="no" class="refreshable-ad x02"></iframe>
+</div> <div class="vl amt-20 ">
+	<h1 class="vl-title fs-2 uppercase "><a href="javascript:void(0);" class="fc-lb">Trending</a></h1>
+	<div class="block-most-recent-popular-shared d-t tac">
+		<a title="Most Recent" href="javascript:void(0);" data-href="/popularity/recent/contentType/articles/3" data-template="recent_popular_shared_trending_template" class="recent"><i class="fa fa-clock-o"></i></a>
+		<a title="Most Popular" href="javascript:void(0);" data-href="/popularity/viewed/contentType/articles/3" data-template="recent_popular_shared_trending_template" class="popular active"><i class="fa fa-fire"></i></a>
+		<a title="Most Shared" href="javascript:void(0);" data-href="/popularity/shared/contentType/articles/3" data-template="recent_popular_shared_trending_template" class="shared"><i class="fa fa-thumbs-o-up"></i></a>
+	</div>
+	<div class="recent-popular-shared-result"></div>
+</div>
+<script id="recent_popular_shared_trending_template" type="text/x-handlebars-template">
+	<a href="{{url}}" class="vl-li">
+		<article class="ah-auto cf">
+			<div class="crop cover-img d-ib va-m fn" style="width: 75px; height:75px; background-image:url({{image_url}})"><span class="popularity-count">{{count}}</span></div>
+			<header role="heading" class="d-ib va-m aml-10 fn" style="width: 195px">
+				<section>
+					<h1 class="uppercase">{{{title}}}</h1>
+				</section>
+			</header>
+		</article>
+	</a>
+</script> </div>			 </div>
+		</div>
+		  	</div>
+	<div style="clear:both;"></div>  
+</div>     
+<script id="sws-template" type="text/x-handlebars-template">
+	<section role="secondary" class="sws">
+		<div id="full-story-share" data-url="{{url}}" data-node-id="{{nid}}">
+			<ul class="tal uppercase sans-serif cf">
+		        <li><div><a href="javascript:void(0);" class="pw-button-facebook facebook-share" pw:url="{{url}}" pw:title="{{title}}"><span class="aria-hidden">Share article on Facebook</span><i class="fa fa-facebook fs-1p5"></i></a></div></li>
+				<li><div><a href="javascript:void(0);" class="twitter-share pw-button-twitter" pw:url="{{url}}" pw:title="{{title}}"><span class="aria-hidden">Tweet article</span><i role="presentation" class="fa fa-twitter fs-1p5"></i></a></div></li>
+				<li><div><a href="javascript:void(0);" class="google-plus pw-button-googleplus" pw:url="{{url}}" pw:title="{{title}}"><span class="aria-hidden">Plus one article on Google Plus</span><i role="presentation" class="fa fa-google-plus fs-1p5"></i></a></div></li>
+				<li id="free-issue-promo"><a href="/content/e-mail-0">
+               <section class="em serif fc-blk">Get <section class="sans-serif fc-lb uppercase">Free</section> <span class="branded">NR</span> E-Mails</section> 
+               </a>
+               </li>
+
+			</ul>
+			<div style="clear:both;"></div>
+		</div>
+	</section>
+</script>
+<script id="nft-auth-template" type="text/x-handlebars-template">
+	<div class="container d-ta">
+		<h1 class="title uppercase fs-1p25 em fc-blk d-tc" id="article-title">
+		  <div class="w-100p of-h nowrap" data-ab-title-swap="{{nid}}">
+			{{{title}}}
+		  </div>
+		</h1>
+
+		<section class="d-tc nft-auth-share-menu">
+		  <div class="nowrap">
+		  	<div class="uppercase fs-1 fc-blk" id="author-name" data-author-id="{{author-id}}">By {{author}}</div>
+			<ul class="tal uppercase sans-serif" id="menu-story-share" data-url="{{url}}"  data-node-id="{{nid}}">
+ <li><a href="javascript:void(0);" class="d-b facebook-share pw-button-facebook" pw:url="{{url}}" pw:title="{{title}}"><span class="aria-hidden">Share article on Facebook</span><i class="fa fa-facebook fs-1p5"></i></a></li>
+			  <li><a href="javascript:void(0);" class="d-b twitter-share pw-button-twitter" pw:url="{{url}}" pw:title="{{title}}"><span class="aria-hidden">Tweet article</span><i role="presentation" class="fa fa-twitter fs-1p5"></i></a></li>
+			  <li><a href="javascript:void(0);" class="d-b google-pluspw-button-googleplus" pw:url="{{url}}" pw:title="{{title}}"><span class="aria-hidden">Plus one article on Google Plus</span><i role="presentation"class="fa fa-google-plus fs-1p5"></i></a></li>
+			  <li><a href="/{{relative-path}}/print"  target="_blank"  class="d-b email"><span class="aria-hidden">Print Article</span><i role="presentation" class="fa fa-print fs-1p5"></i></a></li>
+			  <li><div><a href="javascript:void(0);" data-url="{{url}}" data-title="{{title}}" id="emailPopMailto" class="email sendtofriend-button"><span class="aria-hidden">Email article</span><i role="presentation" class="fa fa-envelope fs-1p5"></i></a></div></li>
+			</ul>
+		  </div>
+		</section>
+	</div>
+</script>	
+
+				<!-- build:js -->
+		<script src="/sites/all/themes/nro_javelin/assets/dist/js/nro.min.js?t=1433195448763"></script>
+		<!-- endbuild -->
+		
+		<script type="text/javascript" src="//cdn.tinypass.com/api/tinypass.min.js"></script>
+			<script type="text/javascript">
+				tp = tp || {};
+				tp.aid = "sUDuerREdW";
+				tp.trackPages = true;
+				tp.contentCreatedSelector = "div.article_date > span.article_timestamp";
+				tp.init();
+			</script><script type="text/javascript" src="http://www.nationalreview.com/sites/default/files/js/js_Kak14WXuJYX6SibKKQfZ3UjgVR7y7_oXB7h0_usL5Iw.js"></script>
+
+		</div>
+		<div id="homepage-footer">
+			<div class="container">
+				<ul>
+					<li><a href="/about"><fieldset><legend>About</legend></fieldset></a></li>
+					<li><a href="//nrinstitute.org/" target="_blank"><fieldset><legend>Institute</legend></fieldset></legend></fieldset></a></li>
+					<li><a href="/advertising"><fieldset><legend>Advertise</legend></fieldset></a></li>
+					<li><a href="/contact"><fieldset><legend>Connect</legend></fieldset></a></li>
+					<li><a href="/" class="brand fs-3 fc-w"><fieldset><legend>NR</legend></fieldset></a></li>
+					<li><a href="//facebook.com/nationalreview" target="_blank"><fieldset><legend>Facebook</legend></fieldset></a></li>
+					<li><a href="//twitter.com/NRO" target="_blank"><fieldset><legend>Twitter</legend></fieldset></a></li>
+					<li><a href="//plus.google.com/+nationalreview" target="_blank"><fieldset><legend>Google+</legend></fieldset></a></li>
+					<li><a href="/privacy"><fieldset><legend>Privacy</legend></fieldset></a></li>	
+				</ul>
+			</div>
+		</div>
+	
+		<div id="fb-root"></div>
+
+		<script type="text/javascript">
+			window._taboola = window._taboola || [];
+			_taboola.push({flush: true});
+			_taboola.push({article:'auto'});
+			!function (e, f, u) {
+				e.async = 0;
+				e.src = u;
+				f.parentNode.insertBefore(e, f);
+			}(
+				document.createElement('script'),
+				document.getElementsByTagName('script')[0],
+				'//cdn.taboola.com/libtrc/nationalreview/loader.js'
+			);
+		    //facebook share
+		    (function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=212263472169570&version=v2.0";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+		<script type="text/javascript">		
+          //Ad Supply pop under code 
+         (function() {
+    var tf = document.createElement("iframe");
+    var f = document.getElementsByTagName("script")[0];
+    f.parentNode.insertBefore(tf, f);
+    var tfHTML =
+        '<html> \
+        <head> \
+            <script type="text/javascript" data-cfasync="true"> \
+                (function(s, o, l, v, e, d) { \
+                    if (s[o] == null && s[l + e]) { \
+                    s[o] = "loading"; \
+                    s[l + e](d, l = function() { \
+                        s[o] = "complete"; \
+                        s[v + e](d, l, !1) \
+                    }, !1) \
+                } \
+            })(document, "readyState", "add", "remove", "EventListener", "DOMContentLoaded"); \
+            (function() { \
+                var s = document.createElement("script"); \
+                s.type = "text/javascript"; \
+                s.async = true; \
+                s.src = "http://cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=b10a68e0-0178-42b1-a256-afeb4b619d52"; \
+                s.id = "infinity"; \
+                s.setAttribute("data-guid", "b10a68e0-0178-42b1-a256-afeb4b619d52"); \
+                s.setAttribute("data-version", "async"); \
+                var e = document.getElementsByTagName("script")[0]; \
+                e.parentNode.insertBefore(s, e); \
+            })(); \
+            <\/script> \
+        <\/head> \
+        <body> \
+        <\/body> \
+        <\/html>';
+    var tfWin = tf.contentWindow;
+    tfWin.document.open();
+    tfWin.document.write(tfHTML);
+    tfWin.document.close();
+})();   
+        </script>
+        <!-- build:chartbeat -->
+        <script src="/sites/all/themes/nro_javelin/assets/js/chartbeat.js?t=1433195448763"></script>
+	    <!-- endbuild -->
+		<script type="text/javascript" src="/sites/all/themes/nro_javelin/assets/js/trueanthem.js"></script> 
+				   <script type="text/javascript" src="//ak.sail-horizon.com/horizon/v1.js"></script>
+		   <script type="text/javascript" src="/sites/all/themes/nro_javelin/assets/js/sailthru.js"></script> 
+	   	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5afeeae4a8","applicationID":"6179461","transactionName":"bgMGMUFZXkMHB0QIVldJJQZHUV9eSQBDPlxBEhYEQGdeXwIBbxFYXgM7E1pdRw==","queueTime":0,"applicationTime":779,"ttGuid":"","agentToken":"","atts":"QkQFRwlDTU0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>

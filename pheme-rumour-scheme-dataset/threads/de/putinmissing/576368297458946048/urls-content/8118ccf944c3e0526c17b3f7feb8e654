@@ -1,0 +1,772 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 15 Jun 2015 12:58:35 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 159
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: https://itunes.apple.com/ch/app/blick-am-abend/id458314022?mt=8&ls=1
+Set-Cookie: _bit=557ecbfb-0000a-03867-cb1cf10a; Path=/; Domain=bit.ly; HttpOnly
+
+HTTP/1.1 200 OK
+Last-Modified: Mon, 15 Jun 2015 12:58:35 GMT
+x-frame-options: SAMEORIGIN
+access-control-allow-origin: *
+Content-Encoding: gzip
+strict-transport-security: max-age=31536000
+x-apple-translated-wo-url: /WebObjects/MZStore.woa/wa/viewSoftware?mt=8&ls=1&id=458314022&cc=ch&urlDesc=/blick-am-abend
+x-apple-orig-url: https://itunes.apple.com/ch/app/blick-am-abend/id458314022?mt=8&ls=1
+Vary: X-Apple-Store-Front
+x-apple-application-site: ST11
+apple-timing-app: 89 ms
+Content-Type: text/html; charset=UTF-8
+x-apple-application-instance: 2003005
+x-apple-aka-ttl: Generated Mon Jun 15 05:58:35 PDT 2015, Expires Mon Jun 15 05:59:35 PDT 2015, TTL 60s
+x-webobjects-loadaverage: 0
+x-apple-jingle-correlation-key: OCZYCKD34TYVWM6TKPQUXRMOHI
+Content-Length: 14466
+Server: ATS/4.1.0
+X-Apple-ATS-Cache-Key: /17.173.38.163/80/ch/app/blick-am-abend/id458314022/browser/https?ls=1&mt=8
+Vary: Accept-Encoding
+Cache-Control: no-transform, max-age=60
+Date: Mon, 15 Jun 2015 12:58:35 GMT
+Connection: keep-alive
+X-Apple-Partner: origin.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.apple.com/itms/" lang="de">
+
+
+  <head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="Blick am Abend, Blick, Nachrichten, Unterhaltung, ios apps, app, appstore, app store, iphone, ipad, ipod touch, itouch, itunes" /><meta name="description" content="Lesen Sie Rezensionen, zeigen Sie Kundenbewertungen und Bildschirmfotos an und erfahren Sie mehr zu „Blick am Abend“ im App Store. Laden Sie „Blick am Abend“ auf Ihr iPhone, iPad und Ihren iPod touch." /><meta name="platform-cache-id" content="8" /><meta content="„Blick am Abend“" property="og:title" /><meta content="Holen Sie sich „Blick am Abend“ im App Store. Sehen Sie sich Screenshots, Bewertungen und Kundenrezensionen dazu an." property="og:description" /><meta content="App Store" property="og:site_name" /><meta content="http://a3.mzstatic.com/eu/r30/Purple3/v4/35/a6/06/35a60656-5863-78fd-8a35-b580d485ab9b/icon320x320.png" property="og:image" /><meta content="320" property="og:image:width" /><meta content="320" property="og:image:height" /><meta content="image/png" property="og:image:type" />
+<link rel="canonical" href="https://itunes.apple.com/ch/app/blick-am-abend/id458314022?mt=8" />
+
+<title>„Blick am Abend“ für iPhone, iPod touch und iPad im App Store von iTunes</title>
+
+
+
+
+
+
+<script>
+if (!window.its) {
+    window.its = {};
+}
+its.markupLoadStartTime = new Date().getTime();
+
+if (!window.onerror) window.onerror = function(message, url, lineNumber) {
+    if (!window._earlyOnerrorException) {
+        window._earlyOnerrorException = {message: message,
+                                         url: url,
+                                         lineNumber: lineNumber};
+    }
+};
+</script>
+
+
+<link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/FC5B/web-storefront-base.css" />
+<link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/FC5B/web-storefront-preview.css" />
+
+
+
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript" charset="utf-8" src="/htmlResources/FC5B/frameworks-primaryinit01.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" charset="utf-8">its.serverData={"storePlatformData":{},"pageData":{"BUY_PARAM_PRICETYPE":"STDQ","basePrice":0,"isFree":true,"isCodeEnabledForFree":false,"volumePrice":0,"basePriceForDisplay":"Gratis","inflectionValue":1,"productAdamId":"458314022","productType":"C","BUY_PRODUCT_URL":"https://itunes.apple.com/WebObjects/MZFinance.woa/wa/volumeBuyProduct?cc=ch","jsonSearchUrl":"https://itunes.apple.com/ch/search","jsonLookupUrl":"https://itunes.apple.com/ch/lookup"},"constants":{"Urls":{"upgradeITunesUrl":"http://www.apple.com/itunes/download/","upgradeSafariUrl":"http://www.apple.com/safari/download/"},"MZMediaType":{"EBooks":{"id":11,"name":"EBooks"},"MobileSoftware":{"id":8,"name":"MobileSoftwareApplications"},"MacSoftware":{"id":12,"name":"DesktopApps"},"Music":{"id":1,"name":"Music"},"Audiobooks":{"id":3,"name":"Audiobooks"},"Podcasts":{"id":2,"name":"Podcasts"},"ClassicSoftware":{"id":7,"name":"iPodGames"},"MusicVideos":{"id":5,"name":"MusicVideos"},"TVShows":{"id":4,"name":"TVShows"},"iTunesU":{"id":10,"name":"iTunesU"},"Movies":{"id":6,"name":"Movies"},"Ringtones":{"id":9,"name":"Ringtones"}},"SFSortOrder":{"PlaylistName":{"id":9},"RecentBestSellers":{"id":18},"SeriesOrder":{"id":17},"CmcRecommended":{"id":10},"Popularity":{"id":3},"ArtistName":{"id":8},"Featured":{"id":1},"TopRated":{"id":5},"Duration":{"id":11},"ReleaseDate":{"id":2},"TrackNumber":{"id":13},"Name":{"id":0},"AllTimeBestSellers":{"id":14},"ExpirationDate":{"id":6},"Price":{"id":7},"MostRecent":{"id":16},"PurchaseDate":{"id":4},"DateAdded":{"id":15},"DiscNumber":{"id":12}},"SFEntityType":{"Artist":{"id":1},"Playlist":{"id":4},"TopContents":{"id":7},"MultiRoom":{"id":3},"Search":{"id":6},"WeMix":{"id":8},"Cmc":{"id":2},"Work":{"id":10},"Wishlist":{"id":9},"TopAuthors":{"id":12},"Room":{"id":5},"TheyMix":{"id":11}},"countryCode":"che","languageCode":"de","SFCustomComponentCountryCode":"che","IXDisplayableKind":{"Artist":{"id":20,"cssClasses":[],"name":"artist"},"MobileSoftware":{"id":11,"cssClasses":["application"],"name":"iosSoftware","mtId":"8"},"Album":{"id":2,"cssClasses":["album","music"],"name":"album","mtId":"1"},"ShortFilm":{"id":8,"cssClasses":["short-film","movie","video"],"name":"shortFilm","mtId":"6"},"PodcastEpisode":{"id":15,"cssClasses":["podcast-episode"],"name":"podcastEpisode","mtId":"2"},"ApplePubEBook":{"id":36,"cssClasses":["ebook"],"name":"ibook","mtId":"11"},"Song":{"id":1,"cssClasses":["song","music"],"name":"song","mtId":"1"},"MovieBundle":{"id":24,"cssClasses":["bundle","movie","video"],"name":"movieBundle","mtId":"6"},"RingtoneAlbum":{"id":22,"cssClasses":[],"name":"ringtoneAlbum","mtId":"9"},"Book":{"id":3,"cssClasses":["audiobook"],"name":"book","mtId":"3"},"ToneAlbum":{"id":32,"cssClasses":[],"name":"toneAlbum","mtId":"9"},"TVEpisode":{"id":6,"cssClasses":["tv-episode","tv","video"],"name":"tvEpisode","mtId":"4"},"TVSeason":{"id":7,"cssClasses":["tv-season","tv","video"],"name":"tvSeason","mtId":"4"},"Course":{"id":34,"cssClasses":["course","itunes-u"],"name":"course","mtId":"10"},"ClassicSoftwarePackage":{"id":18,"cssClasses":["ipod-game"],"name":"gamePackage","mtId":"7"},"Movie":{"id":9,"cssClasses":["movie","video"],"name":"movie","mtId":"6"},"Booklet":{"id":13,"cssClasses":["booklet","music"],"name":"booklet","mtId":"1"},"SocialArtist":{"id":28,"cssClasses":[],"name":"socialArtist"},"EBook":{"id":25,"cssClasses":["ebook"],"name":"epubBook","mtId":"11"},"MacSoftware":{"id":30,"cssClasses":["application","mac-application"],"name":"desktopApp","mtId":"12"},"MusicVideo":{"id":5,"cssClasses":["music-video","music","video"],"name":"musicVideo","mtId":"5"},"Ringtone":{"id":21,"cssClasses":[],"name":"ringtone","mtId":"9"},"Podcast":{"id":4,"cssClasses":["podcast"],"name":"podcast","mtId":"2"},"Concert":{"id":26,"cssClasses":[],"name":"concert","mtId":"1"},"ApplePubTextbook":{"id":37,"cssClasses":["ebook"],"name":"ibookTextbook","mtId":"13"},"SoftwareAddOn":{"id":16,"cssClasses":["software-add-on","application"],"name":"softwareAddOn","mtId":"8"},"Tone":{"id":31,"cssClasses":[],"name":"tone","mtId":"9"},"WeMix":{"id":19,"cssClasses":["wemix","music"],"name":"itunesMix","mtId":"1"},"SocialPerson":{"id":27,"cssClasses":[],"name":"socialPerson"},"ClassicSoftware":{"id":10,"cssClasses":["ipod-game"],"name":"ipodGame","mtId":"7"},"MetaEBook":{"id":35,"cssClasses":["ebook"],"name":"metaEbook","mtId":"13"},"iTunesPass":{"id":12,"cssClasses":["itunes-pass","album","music"],"name":"itunesPass","mtId":"1"},"Mix":{"id":14,"cssClasses":["mix","music"],"name":"mix","mtId":"1"},"TheyMix":{"id":33,"cssClasses":[],"name":"thirdPartyMix"}},"AddToWishlistResult":{"ItemIsFree":{"id":6},"ListFull":{"id":3},"SomeContentAlreadyOwnedButUnfulfilled":{"id":5},"SomeContentAlreadyInWishlist":{"id":1},"Success":{"id":0},"Failure":{"id":2},"SomeContentAlreadyOwned":{"id":4}},"getEmailUrl":"https://itunes.apple.com/WebObjects/MZStore.woa/wa/generateEmail?cc=ch","resourceImagePathFrameworks":"https://s.mzstatic.com/htmlResources/FC5B/frameworks/images/","resourceBasePath":"https://s.mzstatic.com/htmlResources/FC5B"},"properties":{"clientStatsLoadTimeGroup":"4013","MZHtmlResourcesUtil.allowDeferJsLoad":true,"countryCodeIso2a":"ch","currencyFormat":"CHF #,##0.00;CHF #,##0.00;-CHF #,##0.00","currencySymbol":"$","currencyThousandSeparator":",","currencyDecimalSeparator":".","MZFeatureEnabler.isCadillacEnabled":true,"MZFinance.VolumeBuyQuantityUpperLimit":25000,"iTunesUEnrollLink":"","ITSServerEnvironment":"prod","ITSServerInstance":"2003005","ITSResourceRevNum":"FC5B","resourceUrlPrefix":"https://s.mzstatic.com","ITSLogger.ServerReportingProtocol":"https","ITSLogger.ServerReportingDomain":"metrics.mzstatic.com","ITSLogger.ServerReportingApp":"MZUserXP","ITSLogger.RecordStatsAction":"recordStats","ITSLogger.SenderName":"ITSClient","ITSLogger.mirrorToServerByDefaultOnErrors":true,"DynaLoader.allowDynaLoading":true,"itsLoggerQueueProcessingInterval":10000,"cobaltBundleId":"com.apple.itunesu","getCobaltAppLink":"https://itunes.apple.com/ch/app/id490217893","cobaltLearnMore":"https://itunes.apple.com/ch/learn-more?about=iTunesUUpgradePage&type=2","isCobaltEnabled":true,"isCobaltJavascriptRedirectEnabled":true,"isCobaltUpsellPageEnabled":true,"personalizedButtonsEnabled":true,"SF6.Personalization.isCMAEnabled":true,"SF6.Personalization.isCMSEnabled":false,"SFJ.isNFAEnabledInStorefront":true,"SFJ.isRecommendationsSwooshEnabledInStorefront":true,"SF6.StorePlatform.whitelistParams":["caller","dsid","id","p"],"vendLastSupportedVersionIfAvailable":true,"vendLastSupportedVersionMacOs":true,"isBookGiftingEnabled":true,"metrics":{"metricsUrl":"https://xp.apple.com/report","compoundSeparator":"_","tokenSeparator":"|","postFrequency":60000,"blacklistedFields":["capacitySystem","capacitySystemAvailable","capacityDisk","capacityData","capacityDataAvailable"],"fieldsMap":{"single":{"targetId":["id","adamId","contentId","type","fcId","userPreference","label","station-hash","linkIdentifier"]},"custom":{"location":["id","adamId","dataSetId","name","fcKind","kindIds","type","station-hash","core-seed-name"],"impressions":["id","adamId","station-hash"]},"cookies":["itcCt","itscc"],"multi":{}},"metricsBase":{"storeFrontHeader":"","language":"4","platformId":"8","platformName":"ItunesPreview","storeFront":"143459","environmentDataCenter":"ST11"}},"MZStore.shouldAttemptToEvaluateXpathSecondTime":true,"MZStore.shouldCacheElementTypeProtoObjects":true,"isStoweUpgradeDialogEnabled":false,"stoweUpgradeSize":1600000000}}</script>
+<script type="text/javascript" charset="utf-8">
+if (!window.iTSLocalization) { iTSLocalization = {}; }
+iTSLocalization._strings = {"Js.MyAlerts.GeniusActivationNeeded.Button":"Zu Genius", "Js.Pagination.NextPage":"Nächste Seite", "Js.Wishlist.RemoveTooltip":"Aus Wunschliste entfernen", "Js.CNConnections.RequestSent":"Antrag gesendet", "Js.Showcase.Next":"Nächster Artikel", "Js.CNConnections.Dialog.GetStarted":"Erste Schritte", "Js.ReportAConcern.SigninMessage":"Geben Sie Ihre Apple-ID und Ihr Passwort ein und klicken Sie dann auf „Anmelden“.", "CNConnections.Upload.UploadErrorMessage":"Während des Uploads ist ein Fehler aufgetreten.", "Js.InlineReview.SigninMessage":"Geben Sie Ihre Apple-ID und Ihr Passwort ein und klicken Sie dann auf „Anmelden“.", "Js.TextTruncation.More":"Mehr", "Js.QuickView.Unavailable.Title":"Die Schnellansicht steht für diesen Artikel derzeit nicht zur Verfügung.", "Less":"Weniger", "Js.MyAlerts.GeniusActivationNeeded.Message":"Dazu benötigen Sie Genius.", "CNConnections.Dialog.Post.Review.SignIn.Title":"Melden Sie sich an, um einen Beitrag zu posten.", "Js.ManageArtistAlerts.CheckAll.Artists":"Alle Interpreten markieren", "CNConnections.Upload.UploadErrorHeading":"Es gab ein Problem mit Ihrem Upload", "Js.TellAFriend.SigninMessage":"Geben Sie Ihre Apple-ID und Ihr Passwort ein und klicken Sie dann auf „Anmelden“.", "CNConnections.Dialog.StopFollowing.Message":"CNConnections.Dialog.StopFollowing.Message", "CNConnections.Dialog.OptIn.Title":"Ping ist ab dem 30. September nicht mehr verfügbar", "CNConnections.Dialog.StopFollowing.Title":"Möchten Sie @@fullName@@ wirklich nicht mehr folgen?", "Js.InlineReview.SigninTitle":"Melden Sie sich an, um eine Rezension zu schreiben.", "Js.InlineRating.SigninMessage":"Melden Sie sich an, um fortzufahren.", 
+"Js.MyAlerts.GeniusActivationNeeded.Explanation":"Benachrichtigungen basierend auf Ihrem Mediathek-Inhalt werden erst aktiviert, nachdem Sie Genius aktiviert haben. Klicken Sie auf „Zu Genius“ um weitere Informationen dazu anzuzeigen.", "_thousandsSeparator":",", "InAppPurchases":"In-App-Käufe", 
+"Js.CNConnections.LoginRequired.Message":"Hierfür ist Ping erforderlich. Ping wird ab dem 30.September nicht mehr verfügbar sein und es werden keine neuen Mitglieder mehr akzeptiert. Wenn Sie bereits ein Mitglied bei Ping sind, dann melden Sie sich unten an, um fortzufahren.", "Js.Pagination.PreviousPage":"Vorige Seite", "Js.TellAFriend.SigninTitle":"Melden Sie sich an, um dies Freunden zu empfehlen.", "Js.InlineReview.RateThis":"Bewerten", "Js.InlineReview.5":"Echt super", "Js.InlineReview.4":"Mag ich", "Js.Pagination.Back":"Zurück", "Js.InlineReview.3":"Ganz nett", "CNConnections.Dialog.PrivateUser.IllegalAction.Message":"Sie müssen Ihre Datenschutzeinstellungen ändern, um diese Aktion ausführen zu können.", "Js.InlineReview.2":"Eher nicht", "Js.InlineReview.1":"Schlecht", "Js.InlinePreview.StopPreview":"Vorschau von @@title@@ stoppen", "Js.QuickView.Unavailable.Text":"Bitte später erneut versuchen.", "Js.MyAlerts.ConfirmEmailSignUp.Explanation":"Sie können diese Voreinstellung jederzeit in Ihrer Updates-Liste ändern.", "Js.CNConnections.Dialog.Cancel":"Abbrechen", "Js.CNConnections.PeoplePopupMore":"und @@count@@ weitere ...", "CNConnections.Dialog.OptIn.Message":"CNConnections.Dialog.OptIn.Message", "Js.CNConnections.Confirmed":"Bestätigt", "Js.CNConnections.UserReview.YouLiked":"Ihnen gefällt", "Js.CreateAccount":"Apple-ID erstellen", "Js.CNConnections.OptInRequired.Title":"Ping", "Js.Pagination.Next":"Weiter", "Js.ManageArtistAlerts.CheckAll.Actors":"Alle Schauspieler markieren", "Js.ManageArtistAlerts.CheckAll":"Alle markieren", "Js.ReportAConcern.SigninTitle":"Melden Sie sich an, um ein Anliegen zu melden.", "Js.MyAlerts.CancelEmailSignUp.Explanation":"Sie können diese Voreinstellung jederzeit in Ihrer Updates-Liste ändern.", "CNConnections.Dialog.PrivateUser.LeakyAction.Message":"Durch Ausführen dieser Aktion können andere Benutzer Ihr Profilfoto und Ihren Namen sehen.", "Js.TextLimit.Remaining":"Noch @@count@@ Zeichen", "More":"Mehr", "CNConnections.Dialog.PrivateUser.LeakyAction.Title":"Möchten Sie diese Aktion wirklich durchführen?", "Js.Pagination.PageNumberTitle":"seite @@num@@", "Js.Pagination.DisabledButtonText":"@@button_text@@ deaktiviert", "Js.MyAlerts.CancelEmailSignUp.Message":"Möchten Sie wirklich keine E-Mail-Updates mehr erhalten?", "JS.errors.requiredLite":"Bitte füllen Sie alle Pflichtfelder aus.", "CNConnections.Dialog.Post.Review.SignIn.Message":"CNConnections.Dialog.Post.Review.SignIn.Message", "Js.InlineReview.Thanks":"Danke!", "Js.InlineReview.Error":"Fehler", "CNConnections.Dialog.Like.Review.SignIn.Message":"CNConnections.Dialog.Like.Review.SignIn.Message", "Js.ManageArtistAlerts.UncheckAll.Artists":"Markierung für alle Interpreten entfernen", "Js.List.Item":"Artikel", "Js.iTunesStoreError.Explanation":"Im iTunes Store ist ein Fehler aufgetreten. Bitte versuchen Sie es zu einem späteren Zeitpunkt erneut.  (@@errorNum@@)", "Js.InlineReview.ClickToRate":"Zur Bewertung hier klicken", "CNConnections.Dialog.PrivateUser.IllegalAction.Title":"Private Benutzer können diese Aktion nicht ausführen.", "Js.InlineRating.SigninTitle":"Melden Sie sich an um eine Bewertung abzugeben.", "Js.MyAlerts.ConfirmEmailSignUp.Message":"Möchten Sie wirklich E-Mail-Updates erhalten?", "Js.ManageArtistAlerts.UncheckAll.Actors":"Markierung für alle Schauspieler entfernen", "CNConnections.Dialog.OptIn.ButtonSubmit":"Mehr Infos", "_decimalSeparator":".", "CNConnections.Dialog.OptIn.ButtonCancel":"Abbrechen", 
+"Js.CNConnections.OptInRequired.Message":"Hierfür ist Ping erforderlich. Ping wird ab dem 30.September nicht mehr verfügbar sein und es werden keine neuen Mitglieder mehr akzeptiert. Wenn Sie bereits ein Mitglied bei Ping sind, dann melden Sie sich unten an, um fortzufahren.", "Js.CNConnections.LoginRequired.Title":"Anmelden, um auf Ping zuzugreifen", "CNConnections.Dialog.OptIn.ButtonSignIn":"Anmelden", "Js.Pagination.PageNumber":"Seite @@num@@", "Js.Search.HintsTitle":"Vorschläge", "Js.InlinePreview.PlayPreview":"Vorschau von @@title@@ starten", "CNConnections.Dialog.Like.Review.SignIn.Title":"Melden Sie sich an um eine Rezension mit „Gefällt mir“ zu markieren.", "Js.ManageArtistAlerts.UncheckAll":"Alle entfernen", "Js.iTunesStoreError.Message":"Ihre Anfrage konnte nicht abgeschlossen werden.", "CNConnections.Upload.MaxPhotosErrorMessage":"Ein Beitrag darf nicht mehr als 20 Fotos enthalten."}
+</script>
+
+<script type="text/javascript" charset="utf-8" src="/htmlResources/FC5B/web-storefront-base.js"></script>
+<script type="text/javascript" charset="utf-8" src="/htmlResources/FC5B/web-storefront-preview.js"></script>
+
+
+<link charset="utf-8" href="https://www.apple.com/ac/globalheader/1.0/styles/globalheader.css" id="globalheader-stylesheet" rel="stylesheet" type="text/css" />
+
+
+
+
+
+</head>
+ 
+  <body onload="detectAndOpenItunes();" class="software geo-ch lang-de-de lang-de">
+  <script type="text/javascript">
+      checkIfAskPermissionApprovalSheet();
+  </script>
+  
+
+  
+  <nav id="globalheader" class="globalheader gh-selected-tab-itunes" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="fr-CH"><div id="gh-content" class="gh-content">
+		<ul class="gh-menu">
+<li id="gh-menu-icon-toggle" class="gh-menu-icon gh-menu-icon-toggle"><button id="gh-svg-icons" class="gh-svg-wrapper"><span class="gh-text-replace">Menu</span></button></li>
+			<li id="gh-menu-icon-home" class="gh-menu-icon gh-menu-icon-home"><a href="http://www.apple.com/chfr/"><span class="gh-text-replace">Apple</span></a></li>
+		</ul>
+<!--/gh-menu--><div class="gh-nav">
+			<div class="gh-nav-view">
+				<ul class="gh-nav-list">
+<li class="gh-tab gh-tab-apple"><a class="gh-tab-link" href="http://www.apple.com/chfr/"><span class="gh-tab-inner"><span class="gh-text-replace">Apple</span></span></a></li>
+					<li class="gh-tab gh-tab-store"><a class="gh-tab-link" href="http://store.apple.com/ch-fr"><span class="gh-tab-inner"><span class="gh-text-replace">Store</span></span></a></li>
+					<li class="gh-tab gh-tab-mac"><a class="gh-tab-link" href="http://www.apple.com/chfr/mac/"><span class="gh-tab-inner"><span class="gh-text-replace">Mac</span></span></a></li>
+					<li class="gh-tab gh-tab-iphone"><a class="gh-tab-link" href="http://www.apple.com/chfr/iphone/"><span class="gh-tab-inner"><span class="gh-text-replace">iPhone</span></span></a></li>
+					<li class="gh-tab gh-tab-watch"><a class="gh-tab-link" href="http://www.apple.com/chfr/watch/"><span class="gh-tab-inner"><span class="gh-text-replace">Watch</span></span></a></li>
+					<li class="gh-tab gh-tab-ipad"><a class="gh-tab-link" href="http://www.apple.com/chfr/ipad/"><span class="gh-tab-inner"><span class="gh-text-replace">iPad</span></span></a></li>
+					<li class="gh-tab gh-tab-ipod"><a class="gh-tab-link" href="http://www.apple.com/chfr/ipod/"><span class="gh-tab-inner"><span class="gh-text-replace">iPod</span></span></a></li>
+					<li class="gh-tab gh-tab-itunes"><a class="gh-tab-link" href="http://www.apple.com/chfr/itunes/"><span class="gh-tab-inner"><span class="gh-text-replace">iTunes</span></span></a></li>
+					<li class="gh-tab gh-tab-support"><a class="gh-tab-link" href="http://www.apple.com/chfr/support/"><span class="gh-tab-inner"><span class="gh-text-replace">Assistance</span></span></a></li>
+					<li id="gh-tab-search" class="gh-tab gh-tab-search">
+						<div id="gh-search" class="gh-search" role="search">
+							<form action="/search/" method="post" class="gh-search-form" id="gh-search-form" data-search-recommended-results='{"url":"https://www.apple.com/global/nav/scripts/shortcuts.php","requestName":"recommendedResults","queryName":"q","dataType":"xml"}'>
+								<div class="gh-search-input-wrapper">
+									<label for="gh-search-input" class="gh-text-replace">Recherche apple.com</label>
+									<input type="text" name="q" id="gh-search-input" class="gh-search-input" placeholder="Recherche apple.com">
+</div>
+								<button disabled type="submit" id="gh-search-submit" class="gh-search-submit gh-search-magnify"><span class="gh-text-replace">Recherche apple.com</span></button>
+								<button disabled type="reset" id="gh-search-reset" class="gh-search-reset"><span class="gh-text-replace">Reset</span></button>
+							</form>
+						</div>
+						<a class="gh-search-magnify" href="http://www.apple.com/chfr/search/"><span class="gh-text-replace">Recherche apple.com</span></a>
+					</li>
+				</ul>
+</div>
+		</div>
+<!--/gh-nav-->
+	</div>
+</nav><script src="https://www.apple.com/ac/globalheader/1.0/scripts/globalheader.js" type="text/javascript" charset="utf-8"></script><div id="productheader"><div class="localnav" data-analytics-region="product nav"><h2><img src="https://s.mzstatic.com/images/web/itunes_preview/itunespreview_de-de@2x.png" alt="iTunes" height="32" width="263"></h2><ul class="localnav-links"><li><a href="http://www.apple.com/chfr/itunes/overview/" class="localnav-link">Présentation</a></li><li><a href="http://www.apple.com/chfr/itunes/music/" class="localnav-link">Musique</a></li><li><a href="http://www.apple.com/chfr/itunes/video/" class="localnav-link">Vidéo</a></li><li><a href="http://www.apple.com/chfr/itunes/charts/" class="localnav-link">Classements</a></li></ul></div></div>
+
+  <div id="main">
+    <div id="itunes-detector">
+  <div id="launching-itunes">
+
+    <div id="status">
+      <div class="opening-itunes" id="loadingItunes"><span>Der iTunes Store wird geöffnet.</span><span>Falls iTunes nicht geöffnet wird, klicken Sie auf das iTunes Symbol im Dock oder auf dem Windows Desktop.</span><span class="spinner">Progress Indicator</span></div>
+      <div class="opening-itunes" id="loadingIbooks"><span>Der iBooks Store wird geöffnet.</span><span>Falls iBooks nicht geöffnet wird, klicken Sie im Dock auf die iBooks-App.</span><span class="spinner">Progress Indicator</span></div>
+  </div>
+</div>
+
+  <div id="itunes-client-required">
+    <div class="callout">
+      <div class="left">iTunes</div>
+
+      <h2>iTunes is the world's easiest way to organize and add to your digital media collection.</h2>
+
+      <p preview-capable-text="iTunes wurde auf Ihrem Computer nicht gefunden. Jetzt iTunes holen, um die kostenlose App Blick am Abend von Blick zu laden." class="intro has-preview-capable-text">
+        iTunes wurde auf Ihrem Computer nicht gefunden. Jetzt iTunes holen, um die kostenlose App Blick am Abend von Blick zu laden.          
+      </p>
+
+      <div class="download">
+        <p>iTunes ist schon installiert? Klicken Sie auf „Ich habe iTunes“, um es jetzt zu öffnen.</p>
+        <a class="i-have-itunes" onclick="its.detect.userOverrideSetItunesInstalled(); its.detect.openItunes(); return true;" href="#">
+          <img alt="I Have iTunes" src="/de_de/images/web/ihaveitunes.png" />
+        </a>
+        <a href="#" onclick="javascript:window.location='http://www.apple.com/chde/itunes/affiliates/download/?id=458314022'; return true;"><img alt="Gratis-Download" src="/de_de/images/web/freedownload.png" /></a>
+      </div>
+
+      <a class="macpc" href="#">iTunes für Mac + PC</a>
+    </div>
+  </div>
+</div>
+
+
+    
+    
+    
+    <script type="text/javascript">
+      deviceDetect();
+    </script>
+    <div id="desktopContentBlockId" class='platform-content-block display-block'>
+
+      <div id="content">
+        
+        <div itemscope itemtype="http://schema.org/SoftwareApplication" class="padder">
+
+          <div id="title" class="intro ">
+            <div class="left">
+              <h1 itemprop="name">Blick am Abend</h1>
+              <h2>von Blick</h2>
+              
+            </div>
+            <div class="right">
+              
+              <a href="https://itunes.apple.com/ch/artist/blick/id372243949" class="view-more">View More by This Developer</a>
+              
+            </div>
+            <p>Öffnen Sie iTunes, um Apps zu kaufen und zu laden.</p>
+          </div>
+
+          <div class="center-stack">
+            
+            <div more-text="Mehr" metrics-loc="Titledbox_Beschreibung" class="product-review">
+  
+    <h4>
+      
+      Beschreibung
+    </h4>
+    
+  
+  
+  
+    <p itemprop="description">Die Gratis-App von Blick am Abend verbindet die News von heute mit den Storys, die morgen auf Facebook und Twitter hot und trending sind. Modern, interaktiv, verspielt und überraschend – ganz wie der Blick am Abend selbst.<br /><br />Dank dem einzigartigen Mix aus funny Storys und aktuellen News bekommst du nicht nur die wichtigsten Updates rund ums Weltgeschehen, People, Sport und Digital, sondern auch die lustigsten Gifs und süssesten Tierbilder – und das den ganzen Tag! Zudem findest du in der App auch die Filetstücke aus der Printwelt, wie «Absurdistan» oder «WulffMorgenthaler» oder «Schnügel, Singles und Bilder des Tages», sowie das «Kolumnen-Portal» mit 25 Meinungen pro Woche.<br /><br /><br />Features:<br /><br />-Entdecke das Neueste auf der Homeseite oder gehe direkt in die Rubriken und Feeds, die dich interessieren<br />-Navigiere über den übersichtlichen, bildstarken Newsstream<br />-Du kannst die Storys ganz einfach teilen und in deinen sozialen Netzwerken weiterverlinken<br />-Reagiere auf eine Story mit einem Kommentar oder gib ihr ein einfaches Jöö, Funny oder Krass<br />-Lese das Blick am Abend ePaper auf deinem Smartphone<br />-Weitere Features: Akutelles Kino- und TV-Programm sowie dein personalisierbares Wetter<br /><br />Lade die Gratis-App von Blick am Abend auf dein Smartphone und hol dir die Storys, die dich wirklich unterhalten!<br /><br /><br />Dein Feedback ist uns wichtig! Bitte wende dich bei Fragen oder Anregungen an uns:<br /><br />hallo@blickamabend.ch</p>
+  
+  
+</div>
+
+
+            
+            <div class="app-links"><a rel="nofollow" target="_blank" href="http://www.blickamabend.ch/services/werbemoeglichkeiten-id2571374.html" class="see-all">Website von Blick</a><a rel="nofollow" target="_blank" href="http://www.blickamabend.ch/impressum/" class="see-all">Blick am Abend Support</a></div>
+
+            
+            <div more-text="Mehr" metrics-loc="Titledbox_Neue Funktionen von Version 2.1" class="product-review">
+  
+    <h4>
+      
+      Neue Funktionen von Version 2.1
+    </h4>
+    
+  
+  
+  
+    <p>-Designanpassungen für iPhone 6 und iPhone 6+<br />-Integration Liveticker<br /><br />Bitte wende dich bei Fragen oder Anregungen an apps@ringier.ch</p>
+  
+  
+</div>
+
+
+            
+            
+
+            
+            
+<div metrics-loc="Swoosh_" rows="1" class="swoosh lockup-container application large screenshots">
+
+  <div class="title">
+   
+   
+    <h2>iPhone Screenshot</h2>
+   
+       
+    
+    
+    
+  </div>
+
+  
+    
+    <div num-items="5" class="content iphone-screen-shots"><div><div class="lockup"><img alt="iPhone Screenshot 1" itemprop="screenshot" class="portrait" src="http://a5.mzstatic.com/eu/r30/Purple1/v4/48/78/1d/48781d5c-9a84-f789-53a6-a7ec163bd14b/screen322x572.jpeg" /></div><div class="lockup"><img alt="iPhone Screenshot 2" itemprop="screenshot" class="portrait" src="http://a2.mzstatic.com/eu/r30/Purple7/v4/30/b4/0d/30b40de8-4d4c-5e02-129e-850786736976/screen322x572.jpeg" /></div><div class="lockup"><img alt="iPhone Screenshot 3" itemprop="screenshot" class="portrait" src="http://a4.mzstatic.com/eu/r30/Purple1/v4/96/0c/9e/960c9e19-b976-5531-cedf-f06ba1861975/screen322x572.jpeg" /></div><div class="lockup"><img alt="iPhone Screenshot 4" itemprop="screenshot" class="portrait" src="http://a5.mzstatic.com/eu/r30/Purple5/v4/19/09/f2/1909f2c4-fb92-c426-65dd-6efe292d90e8/screen322x572.jpeg" /></div><div class="lockup"><img alt="iPhone Screenshot 5" itemprop="screenshot" class="portrait" src="http://a3.mzstatic.com/eu/r30/Purple1/v4/30/b1/2b/30b12b65-980f-67b6-0b46-02e719096be4/screen322x572.jpeg" /></div></div></div>
+  
+</div>
+
+
+            
+            
+
+            
+            <div class="customer-reviews">
+  <h4>Kundenrezensionen</h4>
+
+  
+    
+<div more-text="Mehr" class="customer-review">
+  
+
+  
+    
+      
+      <h5>
+        
+        <span class="customerReviewTitle">Sehr sehr schön!!</span>
+        <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+      </h5>
+      
+      <span class="user-info">von
+        
+          kz343
+        
+        
+      </span>
+    
+
+    
+  
+
+  <p class="content" will-truncate-max-height="0" data-text-truncate-lines="5">
+    Wirklich gut !
+  </p>
+
+  
+</div>
+
+  
+    
+<div more-text="Mehr" class="customer-review">
+  
+
+  
+    
+      
+      <h5>
+        
+        <span class="customerReviewTitle">Super App</span>
+        <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+      </h5>
+      
+      <span class="user-info">von
+        
+          Fabienne27
+        
+        
+      </span>
+    
+
+    
+  
+
+  <p class="content" will-truncate-max-height="0" data-text-truncate-lines="5">
+    Ganz klar eine meiner Lieblingsapps!!
+  </p>
+
+  
+</div>
+
+  
+    
+<div more-text="Mehr" class="customer-review">
+  
+
+  
+    
+      
+      <h5>
+        
+        <span class="customerReviewTitle">einfach super</span>
+        <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+      </h5>
+      
+      <span class="user-info">von
+        
+          mueschl
+        
+        
+      </span>
+    
+
+    
+  
+
+  <p class="content" will-truncate-max-height="0" data-text-truncate-lines="5">
+    mega gut
+  </p>
+
+  
+</div>
+
+  
+
+</div>
+
+            
+            
+<div metrics-loc="Swoosh_" rows="1" class="swoosh lockup-container application large">
+
+  <div class="title">
+   
+   
+    <h2>Kunden kauften auch:</h2>
+   
+       
+    
+    
+    
+  </div>
+
+  
+    
+    <div num-items="5" class="content"><div>
+<div rating-software="300,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="327212452" preview-artist="Newsnet / Tamedia AG" aria-label="Der Bund" preview-title="Der Bund" class="lockup small application">
+  
+    <a href="https://itunes.apple.com/ch/app/der-bund/id327212452?mt=8" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Der Bund" src-swap-high-dpi="http://a1.mzstatic.com/eu/r30/Purple7/v4/c3/0f/bd/c30fbd75-b8ea-c6b6-f96b-ce8e0e9981d0/icon200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a5.mzstatic.com/eu/r30/Purple7/v4/c3/0f/bd/c30fbd75-b8ea-c6b6-f96b-ce8e0e9981d0/icon100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/FC5B/frameworks/images/p.png" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/ch/app/der-bund/id327212452?mt=8" class="name"><span>Der Bund</span></a></li><li><a href="https://itunes.apple.com/ch/genre/ios-nachrichten/id6009?mt=8" class="genre">Nachrichten</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/ch/app/der-bund/id327212452?mt=8&#39;);" href="#" class="action view-in-itunes"><span>In iTunes ansehen</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-software="300,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="322823380" preview-artist="Newsnet / Tamedia AG" aria-label="Tages-Anzeiger" preview-title="Tages-Anzeiger" class="lockup small application">
+  
+    <a href="https://itunes.apple.com/ch/app/tages-anzeiger/id322823380?mt=8" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="Tages-Anzeiger" src-swap-high-dpi="http://a3.mzstatic.com/eu/r30/Purple2/v4/ef/05/84/ef058491-1280-382c-5d3d-9bb865303ff0/icon200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/eu/r30/Purple2/v4/ef/05/84/ef058491-1280-382c-5d3d-9bb865303ff0/icon100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/FC5B/frameworks/images/p.png" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/ch/app/tages-anzeiger/id322823380?mt=8" class="name"><span>Tages-Anzeiger</span></a></li><li><a href="https://itunes.apple.com/ch/genre/ios-nachrichten/id6009?mt=8" class="genre">Nachrichten</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/ch/app/tages-anzeiger/id322823380?mt=8&#39;);" href="#" class="action view-in-itunes"><span>In iTunes ansehen</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-software="300,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="794323989" preview-artist="Fixxpunkt AG" aria-label="watson News" preview-title="watson News" class="lockup small application">
+  
+    <a href="https://itunes.apple.com/ch/app/watson-news/id794323989?mt=8" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="watson News" src-swap-high-dpi="http://a4.mzstatic.com/eu/r30/Purple1/v4/dc/10/01/dc1001c2-776f-45c7-c18e-209d02c64468/icon200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/eu/r30/Purple1/v4/dc/10/01/dc1001c2-776f-45c7-c18e-209d02c64468/icon100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/FC5B/frameworks/images/p.png" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/ch/app/watson-news/id794323989?mt=8" class="name"><span>watson News</span></a></li><li><a href="https://itunes.apple.com/ch/genre/ios-nachrichten/id6009?mt=8" class="genre">Nachrichten</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/ch/app/watson-news/id794323989?mt=8&#39;);" href="#" class="action view-in-itunes"><span>In iTunes ansehen</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-software="300,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="345569411" preview-artist="Neue Zürcher Zeitung AG" aria-label="NZZ.ch" preview-title="NZZ.ch" class="lockup small application">
+  
+    <a href="https://itunes.apple.com/ch/app/nzz.ch/id345569411?mt=8" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="NZZ.ch" src-swap-high-dpi="http://a2.mzstatic.com/eu/r30/Purple1/v4/a1/31/45/a131450a-95e2-a61c-27dc-e5533009b561/icon200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/eu/r30/Purple1/v4/a1/31/45/a131450a-95e2-a61c-27dc-e5533009b561/icon100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/FC5B/frameworks/images/p.png" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/ch/app/nzz.ch/id345569411?mt=8" class="name"><span>NZZ.ch</span></a></li><li><a href="https://itunes.apple.com/ch/genre/ios-nachrichten/id6009?mt=8" class="genre">Nachrichten</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/ch/app/nzz.ch/id345569411?mt=8&#39;);" href="#" class="action view-in-itunes"><span>In iTunes ansehen</span></a></li></ul>
+  </div>
+</div>
+
+<div rating-software="300,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="327210951" preview-artist="Newsnet / Tamedia AG" aria-label="BZ Berner Zeitung" preview-title="BZ Berner Zeitung" class="lockup small application">
+  
+    <a href="https://itunes.apple.com/ch/app/bz-berner-zeitung/id327210951?mt=8" class="artwork-link"><div class="artwork"><img width="100" height="100" alt="BZ Berner Zeitung" src-swap-high-dpi="http://a5.mzstatic.com/eu/r30/Purple1/v4/9a/df/13/9adf1332-2328-8714-fc07-bf5cd8225241/icon200x200.jpeg" src-load-auto-after-dom-load="" src-swap="http://a4.mzstatic.com/eu/r30/Purple1/v4/9a/df/13/9adf1332-2328-8714-fc07-bf5cd8225241/icon100x100.jpeg" class="artwork" src="https://s.mzstatic.com/htmlResources/FC5B/frameworks/images/p.png" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/ch/app/bz-berner-zeitung/id327210951?mt=8" class="name"><span>BZ Berner Zeitung</span></a></li><li><a href="https://itunes.apple.com/ch/genre/ios-nachrichten/id6009?mt=8" class="genre">Nachrichten</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/ch/app/bz-berner-zeitung/id327210951?mt=8&#39;);" href="#" class="action view-in-itunes"><span>In iTunes ansehen</span></a></li></ul>
+  </div>
+</div>
+</div></div>
+  
+</div>
+
+          </div>
+
+          <div id="left-stack">
+            
+            <div rating-software="300,itunes-games" parental-rating="1" class="lockup product application">
+  <a href="https://itunes.apple.com/ch/app/blick-am-abend/id458314022?mt=8"><div class="artwork"><img width="175" height="175" alt="Blick am Abend" src-swap-high-dpi="http://a1.mzstatic.com/eu/r30/Purple3/v4/35/a6/06/35a60656-5863-78fd-8a35-b580d485ab9b/icon350x350.png" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/eu/r30/Purple3/v4/35/a6/06/35a60656-5863-78fd-8a35-b580d485ab9b/icon175x175.png" class="artwork" src="https://s.mzstatic.com/htmlResources/FC5B/frameworks/images/p.png" /><meta itemprop="image" content="http://a3.mzstatic.com/eu/r30/Purple3/v4/35/a6/06/35a60656-5863-78fd-8a35-b580d485ab9b/icon175x175.png"></meta><span class="mask"></span></div></a>
+  <a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/ch/app/blick-am-abend/id458314022?mt=8&#39;);" href="#" class="action view-in-itunes"><span>In iTunes ansehen</span></a>
+  <ul class="list"><li><span itemscope itemtype="http://schema.org/Offer" itemprop="offers"><div itemprop="price" content="0" class="price">Gratis</div></span></li><li class="genre"><span class="label">Kategorie: </span><a href="https://itunes.apple.com/ch/genre/ios-nachrichten/id6009?mt=8"><span itemprop="applicationCategory">Nachrichten</span></a></li><li class="release-date"><span class="label">Aktualisiert: </span><span itemprop="datePublished" content="2011-08-31 16:15:13 Etc/GMT"> 28.04.2015</span></li><li><span class="label">Version: </span><span itemprop="softwareVersion">2.1</span></li><li><span class="label">Größe: </span>13.3 MB</li><li class="language"><span class="label">Sprache: </span>Deutsch</li><li><span class="label">Entwickler: </span><span itemscope itemtype="http://schema.org/Person" itemprop="author"><span itemprop="name">Ringier</span></span></li><li class="copyright">© 2015 Ringier AG</li></ul><div class="app-rating"><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/WebObjects/MZStore.woa/wa/appRatings?ratingSystem=appsApple&#39;);" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/appRatings?ratingSystem=appsApple">Freigabe 12+ für Folgendes:</a><ul class="list app-rating-reasons"><li>Selten/schwach ausgeprägt: realistisch dargestellte Gewalt</li><li>Selten/schwach ausgeprägt: simuliertes Glücksspiel</li><li>Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen</li><li>Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit</li></ul></div><p><span class="app-requirements">Kompatibilität: </span><span itemprop="operatingSystem">Erfordert iOS 6.1 oder neuer. Kompatibel mit iPhone, iPad und iPod touch. Diese App ist für iPhone 5, iPhone 6 und iPhone 6 Plus optimiert.</span></p>
+</div>
+
+            
+            
+
+            
+            
+<div class='extra-list customer-ratings'>
+  <h4>Kundenbewertungen</h4>
+
+  <div>Aktuelle Version:</div>
+  <div class='rating' role='img' tabindex='-1' aria-label='Vier Sterne, 38 Bewertungen'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div><span class="rating-count">38 Bewertungen</span>
+</div>
+
+
+  
+  
+
+  
+    <div>Alle Versionen:</div>
+    <div class='rating' role='img' tabindex='-1' aria-label='Zweieinhalb Sterne, 438 Bewertungen'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star half">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div><span class="rating-count">438 Bewertungen</span>
+</div>
+
+    
+  
+
+</div>
+
+
+            
+            
+
+            
+            <div metrics-loc="Titledbox_Weitere iPhone Apps von Blick" class="extra-list more-by">
+  
+    <h4>
+      
+      Weitere iPhone Apps von Blick
+    </h4>
+    
+  
+  
+  
+    <ul class="list"><li>
+<div rating-software="100,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="372243946" preview-artist="Blick" aria-label="Blick Fussball" preview-title="Blick Fussball" class="lockup small application">
+  
+    <a href="https://itunes.apple.com/ch/app/blick-fussball/id372243946?mt=8" class="artwork-link"><div class="artwork"><img width="75" height="75" alt="Blick Fussball" src-swap-high-dpi="http://a3.mzstatic.com/eu/r30/Purple1/v4/85/d0/59/85d05990-f8da-71d5-4045-b01288d4b7e5/icon150x150.png" src-load-auto-after-dom-load="" src-swap="http://a3.mzstatic.com/eu/r30/Purple1/v4/85/d0/59/85d05990-f8da-71d5-4045-b01288d4b7e5/icon75x75.png" class="artwork" src="https://s.mzstatic.com/htmlResources/FC5B/frameworks/images/p.png" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/ch/app/blick-fussball/id372243946?mt=8" class="name">Blick Fussball</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/ch/app/blick-fussball/id372243946?mt=8&#39;);" href="#" class="action view-in-itunes"><span>In iTunes ansehen</span></a></li></ul>
+  </div>
+</div>
+</li><li>
+<div rating-software="100,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="391108045" preview-artist="Blick" aria-label="Blick Eishockey" preview-title="Blick Eishockey" class="lockup small application">
+  
+    <a href="https://itunes.apple.com/ch/app/blick-eishockey/id391108045?mt=8" class="artwork-link"><div class="artwork"><img width="75" height="75" alt="Blick Eishockey" src-swap-high-dpi="http://a5.mzstatic.com/eu/r30/Purple3/v4/3f/e3/45/3fe34549-e498-44a4-fea2-b2932ac42fdc/icon150x150.png" src-load-auto-after-dom-load="" src-swap="http://a1.mzstatic.com/eu/r30/Purple3/v4/3f/e3/45/3fe34549-e498-44a4-fea2-b2932ac42fdc/icon75x75.png" class="artwork" src="https://s.mzstatic.com/htmlResources/FC5B/frameworks/images/p.png" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/ch/app/blick-eishockey/id391108045?mt=8" class="name">Blick Eishockey</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/ch/app/blick-eishockey/id391108045?mt=8&#39;);" href="#" class="action view-in-itunes"><span>In iTunes ansehen</span></a></li></ul>
+  </div>
+</div>
+</li><li>
+<div rating-software="100,itunes-games" parental-rating="1" role="group" metrics-loc="Lockup_" adam-id="413629620" preview-artist="Blick" aria-label="Blick Tennis" preview-title="Blick Tennis" class="lockup small application">
+  
+    <a href="https://itunes.apple.com/ch/app/blick-tennis/id413629620?mt=8" class="artwork-link"><div class="artwork"><img width="75" height="75" alt="Blick Tennis" src-swap-high-dpi="http://a4.mzstatic.com/eu/r30/Purple3/v4/1a/19/79/1a1979a7-c3b0-2eb4-d3f4-c19f75dffebf/icon150x150.png" src-load-auto-after-dom-load="" src-swap="http://a2.mzstatic.com/eu/r30/Purple3/v4/1a/19/79/1a1979a7-c3b0-2eb4-d3f4-c19f75dffebf/icon75x75.png" class="artwork" src="https://s.mzstatic.com/htmlResources/FC5B/frameworks/images/p.png" /><span class="mask"></span></div></a>
+  
+  <div class="lockup-info">
+    
+    
+    
+    <ul role="presentation" class="list"><li><a href="https://itunes.apple.com/ch/app/blick-tennis/id413629620?mt=8" class="name">Blick Tennis</a></li><li><a onclick="return its.detect.openItunes(&#39;https://itunes.apple.com/ch/app/blick-tennis/id413629620?mt=8&#39;);" href="#" class="action view-in-itunes"><span>In iTunes ansehen</span></a></li></ul>
+  </div>
+</div>
+</li></ul>
+  
+  
+</div>
+
+          </div>
+        </div> 
+
+        
+      </div>
+    </div>
+    
+  
+  </div>
+
+    
+    
+    
+    <object classID="CLSID:D719897A-B07A-4C0C-AEA9-9B663A28DFCB" width="1" height="1" id="iTunesDetectorIE" ></object>
+    <script type="text/javascript">itms.PageData.itunesDownloadUrl='http://www.apple.com/chde/itunes/affiliates/download/?id=458314022';</script>
+
+  
+  
+      <div id="socialwrapper">
+        <aside class="social selfclear"><section class="column first"><h1><img src="https://www.apple.com/euro/itunes/c/titles_fr/shared/itunes-this-week/images/social_appstore_title.png" alt="App Store sur Facebook et Twitter" width="300" height="20"></h1>
+		<iframe src="//www.facebook.com/plugins/like.php?app_id=116556461780510&amp;href=http%3A%2F%2Fwww.facebook.com%2FAppStore&amp;send=false&amp;layout=box_count&amp;width=85&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=75&amp;locale=en_US" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:75px;" allowtransparency="true" class="right"></iframe>
+		<img src="https://www.apple.com/euro/global/elements/itunesmodule/facebook_appstore_icon.png" alt="" width="55" height="55" class="left"><p>Découvrez et partagez de nouvelles apps.</p>
+		<p class="nopad">Suivez-nous sur <a href="http://tw.appstore.com/M7e">@AppStore</a>.</p>
+	</section><section class="column"><h1><img src="https://www.apple.com/euro/itunes/c/titles_fr/shared/itunes-this-week/images/social_itunes_facebook_title.png" alt="iTunes sur Facebook" width="300" height="20"></h1>
+		<iframe src="//www.facebook.com/plugins/like.php?app_id=161583840592879&amp;href=http%3A%2F%2Fwww.facebook.com%2FiTunes&amp;send=false&amp;layout=box_count&amp;width=85&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=75&amp;locale=en_US" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:75px;" allowtransparency="true" class="right"></iframe>
+		<img src="https://www.apple.com/euro/global/elements/itunesmodule/facebook_itunes_icon.png" alt="" width="55" height="55" class="left"><p>Découvrez et partagez les nouveautés musique, ciné, télé, livre, etc.</p>
+	</section><section class="column last"><h1><img src="https://www.apple.com/euro/itunes/c/titles_fr/shared/itunes-this-week/images/social_itunes_twitter_title.png" alt="iTunes sur Twitter" width="300" height="20"></h1>
+		<img src="https://www.apple.com/euro/global/elements/itunesmodule/twitter_icon.png" alt="" width="55" height="55" class="left"><p>Suivez-nous sur <a href="http://tw.itunes.com/H8a">@iTunes</a>, découvrez les dernières tendances et nos coups de cœur musicaux.</p>
+	</section></aside>
+      </div>
+  
+  
+  <footer id="globalfooter"><div id="breadory">
+			<ol id="breadcrumbs">
+<li class="home"><a href="http://www.apple.com/chfr/">Accueil</a></li>
+				<li>iTunes</li>
+			</ol>
+<!--googleoff: all--><div id="directorynav" class="itunes">
+	<div id="dn-cola" class="column first">
+		<h3>iTunes</h3>
+		<ul>
+<li><a href="http://www.apple.com/chfr/itunes/download/">Télécharger iTunes</a></li>
+			<li><a href="http://www.apple.com/chfr/itunes/features/">Fonctionnalités</a></li>
+			<li><a href="http://www.apple.com/chfr/itunes/charts/">Classements iTunes</a></li>
+		</ul>
+</div>
+	<div id="dn-colb" class="column">
+		<h3>Plus sur iTunes</h3>
+		<ul>
+<li><a href="http://www.apple.com/chfr/itunes/digital-music-basics/">Musique numérique : les bases</a></li>
+			<li><a href="http://www.apple.com/chfr/itunes/gifts/">Cadeaux iTunes</a></li>
+			<li><a href="http://www.apple.com/chfr/apps/itunes-u/">iTunes U</a></li>
+			<li><a href="http://www.apple.com/chfr/support/ipod/">Assistance iPod + iTunes</a></li>
+			<li><a href="http://www.apple.com/chfr/airplay/">AirPlay</a></li>
+			<li><a href="http://www.apple.com/chfr/accessibility/itunes/vision.html">Accessibilité</a></li>
+		</ul>
+</div>
+	<div id="dn-colc" class="column">
+		<h3>Travailler avec iTunes</h3>
+		<ul>
+<li><a href="http://www.apple.com/chfr/itunes/sellcontent/">Vendre des contenus</a></li>
+			<li><a href="http://www.apple.com/chfr/itunes/content-providers/">Fournisseurs de contenus</a></li>
+			<li><a href="http://www.apple.com/chfr/itunes/companies/">Se faire connaître avec iTunes</a></li>
+			<li><a href="http://www.apple.com/chfr/itunes/affiliates/">Adhérer au Programme Affiliés</a></li>
+			<li><a href="http://www.apple.com/chfr/itunes/link/">Créer un lien vers iTunes</a></li>
+		</ul>
+</div>
+	<div id="dn-cold" class="column last">
+		<h3>iTunes Store</h3>
+		<ul>
+<li><a href="https://itunes.apple.com/ch/browse/">Parcourir l’iTunes Store</a></li>
+			<li><a href="https://itunes.apple.com/ch/genre/ios/id36?mt=8">Parcourir l’App Store</a></li>
+			<li><a href="https://itunes.apple.com/ch/store">Acheter de la musique</a></li>
+			<li><a href="http://store.apple.com/ch-fr/browse/home/giftcards/itunes/gallery">Acheter des Cartes Cadeaux iTunes</a></li>
+			<li><a href="https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/redeemLandingPage">Utiliser des Cartes Cadeaux iTunes</a></li>
+			<li><a href="http://www.apple.com/chfr/itunes/corporatesales/">Cadeaux d'entreprise iTunes</a></li>
+			<li><a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?cc=ch&amp;fcId=441630901">Single gratuit de la semaine</a></li>
+		</ul>
+</div>
+	<div class="capbottom"></div>
+</div>
+<!--googleon: all-->
+
+		</div>
+<!--/breadory-->
+		<p class="gf-buy">Visitez l’<a href="http://store.apple.com/ch-fr">Apple Store en ligne</a> (0800 845 123), un <a href="http://www.apple.com/chfr/retail/">Apple Store</a> ou trouvez un <a href="http://www.apple.com/chfr/buy/">revendeur</a>.</p>
+
+<ul class="gf-links piped">
+<li><a href="http://www.apple.com/chfr/pr/" class="first">Informations Apple</a></li>
+	<li><a href="http://www.apple.com/chfr/sitemap/">Plan du site</a></li>
+	<li><a href="http://www.apple.com/chfr/hotnews/">Actualités</a></li>
+	<li><a href="http://www.apple.com/chfr/rss/">Flux RSS</a></li>
+	<li><a href="http://www.apple.com/chfr/contact/" class="contact_us">Contactez-nous</a></li>
+	<li><a href="http://www.apple.com/choose-your-country/" class="choose"><img src="https://www.apple.com/global/elements/flags/22x22/switzerland.png" alt="Choisissez un pays ou une zone géographique" width="22" height="22" data-hires="true"></a></li>
+</ul>
+<div class="gf-sosumi">
+	<p>Copyright &copy; 2014 Apple Inc. Tous droits réservés.</p>
+	<ul class="piped">
+<li><a href="http://www.apple.com/chfr/legal/terms/site.html" class="first">Conditions d’utilisation</a></li>
+		<li><a href="http://www.apple.com/legal/privacy/fr-ww/">Engagement de confidentialité</a></li>
+		<li><a href="http://www.apple.com/legal/privacy/fr-ww/cookies/">Utilisation des cookies</a></li>
+	</ul>
+</div>
+	</footer>
+  <script language="JavaScript" type="text/javascript"><!--
+
+    var iTSMetricsCallbackFunction = function() {
+	    ITSMetrics.reportingSuite = "appleitmswww,appleitmsch";
+	    ITSMetrics.omniture = ITSMetrics.createBaselineOmnitureObject();
+	    
+	    ITSMetrics.isPageMetricsEnabled=true;
+	    
+	    
+	    
+	
+	    /* Page Metrics */
+	    ITSMetrics.omniture.pageName="SEO-Software-CH-Blick-Blick am Abend-458314022";
+ITSMetrics.omniture.channel="SEO";
+ITSMetrics.omniture.prop22="HTML";
+ITSMetrics.omniture.eVar22="HTML";
+ITSMetrics.omniture.products="Blick-Blick am Abend-458314022";
+
+	    
+	    
+	    
+	    /* User Agent */
+	    var userAgentForMetrics = ITSMetrics.userAgentForMetrics();
+	    ITSMetrics.omniture.prop12 = userAgentForMetrics;
+	    ITSMetrics.omniture.eVar12 = userAgentForMetrics;
+	    
+	    // check if Game Center
+	    var gcUserAgent = "GameCenter";
+	    var isGameCenter = userAgentForMetrics.length >= gcUserAgent.length && userAgentForMetrics.substr(0, gcUserAgent.length) == gcUserAgent;
+	    if (isGameCenter) {
+	        // prepend "GameCenter" to page and channel name
+	        if (ITSMetrics.omniture.pageName) ITSMetrics.omniture.pageName = "GameCenter-" + ITSMetrics.omniture.pageName;
+	        if (ITSMetrics.omniture.channel) ITSMetrics.omniture.channel = "GameCenter-" + ITSMetrics.omniture.channel;
+	    }
+	    
+	    
+	    /* Browser Plugins */
+	    ITSMetrics.shouldTrackBrowserPlugins = false;
+	    
+	    /* Pass-thru query params */
+	    ITSMetrics.processQueryParameterInfoInCurrentRequest(ITSMetrics.omniture);
+	    
+	    if (ITSMetrics.isPageMetricsEnabled && ITSMetrics.isOmnitureSupportedOnClient()) {
+	        ITSMetrics.emitPagePing = function() {
+	            var s_code=ITSMetrics.omniture.t();
+                // Make a second ping to Figaro for Preview
+                if (window.webPreview) {
+                    var queryParams = {};
+                    queryParams.responseType="image";
+                    queryParams.eventVersion = 1;  // begin query parameters
+                    queryParams.eventType = "page";  // hardcoded
+
+                    var time = new Date();
+                    queryParams.eventTime = time.getTime();
+                    queryParams.pageName = ITSMetrics.omniture.pageName;
+                    queryParams.pageUrl = window.location.href;  // current page url
+                    queryParams.refUrl = document.referrer; //Refer
+                    queryParams.pageType = ITSMetrics.omniture.channel; //Channel
+
+                    queryParams.userAgent = window.navigator.userAgent; //User agent
+
+                    queryParams.screenWidth = screen.width;
+                    queryParams.screenHeight = screen.height; // screen size
+
+                    queryParams.windowInnerWidth = window.innerWidth;  // browser width
+                    queryParams.windowInnerHeight = window.innerHeight;  // browser height
+
+                    queryParams.app = navigator.appName;
+
+                    var url = "https://xp.apple.com/report/2/xp_its_preview";
+
+                    url = its.url.appendUrlParameters(url, queryParams);
+                    var image = new Image();
+                    image.src = url;
+                }
+                if (s_code) {
+	                var containingDiv = document.createElement('div');
+	                containingDiv.innerHTML = s_code;
+	                document.body.appendChild(containingDiv);
+	            }
+	        };
+	        its.x.addEventListener(window, 'load', function() { window.setTimeout(ITSMetrics.emitPagePing, 1) }, false );
+	    }
+    };
+
+    if (!window["ITSMetrics"]){ 
+	    iTSDefer.register(function() {
+	        iTSMetricsCallbackFunction();
+	    });
+    } else {
+        iTSMetricsCallbackFunction();
+    }
+--></script>
+    <script>
+        if (!window.its) {
+            window.its = {};
+        }
+        window.its.markupLoadEndTime = new Date().getTime();
+    </script>
+
+
+
+</body>
+
+
+
+</html>

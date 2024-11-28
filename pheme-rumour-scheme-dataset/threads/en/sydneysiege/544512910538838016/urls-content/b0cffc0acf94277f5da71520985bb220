@@ -1,0 +1,61 @@
+HTTP/1.1 200 OK
+Date: Tue, 24 Mar 2015 01:20:00 GMT
+Server: AmazonS3
+x-amz-id-2: qJ6G2FWYNavrdx8TATDjvwq7wIxwhAYXPzPBydoEg3R/umZMaHrhfQTNyYzbvmjY
+x-amz-request-id: 5A02F4AC4EFB58E6
+Last-Modified: Mon, 15 Dec 2014 15:29:25 GMT
+ETag: "616140d9e93dc767ca1d863f40ee3de6"
+Content-Type: text/html
+Content-Length: 2904
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-tw-lon2-cr1-2-TWLON2
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1427160000.715649,VS0,VE103
+X-Content-Type-Options: nosniff
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="//abs.twimg.com/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="twitter:card" content="amplify" />
+    <meta name="twitter:site" content="FoxNews" />
+    <meta name="twitter:site:id" content="1367531" />
+    <meta name="twitter:title" content="Hostages Escape Sydney Cafe" />
+    <meta name="twitter:description" content="" />
+    <meta name="twitter:image:src" content="https://amp.twimg.com/prod/default/2014/12/15/15/9da6f477-uploadedvideo_poster-8229.jpg" />
+    <meta name="twitter:amplify:vmap" content="https://amp.twimg.com/prod/multibr_v_1/vmap/2014/12/15/15/15c830e7-922f-4231-8e66-daaaa702a9ad/5b37d100-da9f-4654-a9a3-d85de16460eb.vmap" />
+    <meta name="twitter:amplify:content_id" content="15c830e7-922f-4231-8e66-daaaa702a9ad" />
+    <meta name="twitter:player:width" content="640" />
+    <meta name="twitter:player:height" content="360" />
+    <meta name="twitter:player:stream:content_type" content="video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;" />
+    <meta name="twitter:amplify:embeddable" content="true" />
+    
+
+      <title>Hostages Escape Sydney Cafe</title>
+
+    <link rel="stylesheet" href="https:&#x2F;&#x2F;amp.twimg.com&#x2F;amplify-web-player&#x2F;prod&#x2F;styles/cardStyle.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <h1 id="site"><a target="_blank" href="https://twitter.com/FoxNews">@FoxNews</a></h1>
+      <div id="videoContainer" class="aspectwrapper">
+        <div class="content">
+          <iframe allowfullscreen marginheight="0" marginwidth="0" frameborder="0" id="iframe" src="https:&#x2F;&#x2F;amp.twimg.com&#x2F;amplify-web-player&#x2F;prod&#x2F;source.html?vmap_url=https%3A%2F%2Famp.twimg.com%2Fprod%2Fmultibr_v_1%2Fvmap%2F2014%2F12%2F15%2F15%2F15c830e7-922f-4231-8e66-daaaa702a9ad%2F5b37d100-da9f-4654-a9a3-d85de16460eb.vmap&image_src=https%3A%2F%2Famp.twimg.com%2Fprod%2Fdefault%2F2014%2F12%2F15%2F15%2F9da6f477-uploadedvideo_poster-8229.jpg&content_id=15c830e7-922f-4231-8e66-daaaa702a9ad&publisher_id=1367531&page=amplify_card"></iframe>
+        </div>
+      </div>
+      <h2 id="title">Hostages Escape Sydney Cafe</h2>
+      <p id="description"></p>
+    </div>
+    <div id="footer">
+      <img id="logo" src="https:&#x2F;&#x2F;amp.twimg.com&#x2F;amplify-web-player&#x2F;prod&#x2F;styles/img/twitter_logo.png"/>
+      <a id="app-download" class="download-btn"><img id="whiteLogo" src="https:&#x2F;&#x2F;amp.twimg.com&#x2F;amplify-web-player&#x2F;prod&#x2F;styles/img/twitter_logo_white.png"/></a>
+    </div>
+    <script src="https:&#x2F;&#x2F;amp.twimg.com&#x2F;amplify-web-player&#x2F;prod&#x2F;js/build-card.min.js"></script>
+  </body>
+</html>

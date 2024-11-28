@@ -1,0 +1,1388 @@
+HTTP/1.1 200 OK
+Server: Apache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Transfer-Encoding: chunked
+Date: Tue, 24 Mar 2015 01:05:37 GMT
+X-Varnish: 799316225
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Headers: DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+X-Varnish-Cache: MISS
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<!--  art_head -> art_headRedesign -->
+	
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta name="robots" content="index, follow, noarchive" />
+<meta name="description" content="Das Kunstmuseum Bern nimmt das Erbe des verstorbenen Kunstsammlers Cornelius Gurlitt an. Das bestätigte Stiftungsratspräsident Christoph Schäublin. Derweil wurde ein drittes Werk als Raubkunst bestätigt. " />
+<title>«Es kommt keine Raubkunst über die Schwellen des Museums» -  News Kultur: Kunst - bazonline.ch</title>
+		<meta property="og:url" content="http://www.baz.ch/kultur/kunst/Es-kommt-keine-Raubkunst-ueber-die-Schwellen-des-Museums/story/27435237" />
+		<meta property="og:description" content="Das Kunstmuseum Bern nimmt das Erbe des verstorbenen Kunstsammlers Cornelius Gurlitt an. Das bestätigte Stiftungsratspräsident Christoph Schäublin. Derweil wurde ein drittes Werk als Raubkunst bestätigt. " />
+		<meta property="og:title" content="«Es kommt keine Raubkunst über die Schwellen des Museums»" />
+		<meta property="og:type" content="article" />
+		<meta property="og:image" content="http://files.newsnetz.ch/story/2/7/4/27435237/teaserbreitgross.jpg" />
+		<meta property="og:site_name" content="baz.ch/" />
+		<meta property="fb:app_id" content="185771024788811" />
+		<meta property="fb:admins" content="100001684900523"/>
+		<meta property="fb:admins" content="100001969735467"/>
+		<meta property="fb:admins" content="100000675307850"/>
+		<link rel="image_src" href="http://files.newsnetz.ch/story/2/7/4/27435237/teaserbreitgross.jpg"/>
+	
+<script src="http://files.newsnetz.ch/scripts/updated/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/updated/ui/jquery.ui.core.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/updated/ui/jquery.ui.widget.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/updated/ui/jquery.ui.tabs.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/updated/jquery.pagination.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.getUrlParam.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery-validate-1.5.2/jquery.validate.min.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery-validate-1.5.2/localization/messages_de.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/easyTooltip.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.form.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.flash.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.cookie.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.url.packed.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.crypt.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/ajax.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/swfobject.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/misc6.js?id=16" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/ad.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/adtech_async.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://files.newsnetz.ch/scripts/ch.newsnetz.ui/mootools-1.2.5-core-jm.js"></script>
+<script type="text/javascript" src="http://files.newsnetz.ch/scripts/ch.newsnetz.ui/diashow2.js?v=85"></script>
+<script src="http://files.newsnetz.ch/upload/3/4/34949.js" type="text/javascript" ></script>
+    <script src="http://files.newsnetz.ch/scripts/advertisement.js" type="text/javascript"></script>
+
+    <!-- Google Tag Manager -->
+    <script>
+        if (! window.googleTagManagerStarted) {
+            // According to fabian, this code can be included multiple times per page, so we make sure at this point
+            // that we initialize gtm only once
+            window.googleTagManagerStarted = true;
+            
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j ,f);
+            })(window,document,'script','dataLayer','GTM-MQRH36');
+        }
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <script>
+    function initCXense() {
+        var loginState = "unknown";
+        
+        if(window.loginState == 0) {
+            loginState = "not-logged-in";
+        } else if(window.loginState == 1) {
+            loginState = "logged-in";
+        }
+
+        TAMSiteId = "9222261986533147878"; 
+        cxParamD ='[{"tam-pagetype", "article"}'+
+        ',{ "tam-target", "desktop_site"}'+
+        ',{ "tam-loggedin-state", "'+loginState+'"}'+
+        ',{ "tam-category", "kultur"}'+
+        ',{ "tam-subcategory", "kunst"}'+
+        ',{ "tam-slideshow", ""}'+
+        ',{ "tam-slideshowstate", ""}'+
+        ',{ "tam-video", ""}'+
+        ',{ "tam-videostate", ""}'+
+        ',{ "tam-cmssystem", "nn1"}' +
+        ',{ "tam-article", "27435237"}]';
+
+        triggerCxPageTracking();
+    }
+    </script>
+    
+
+<script>
+    window.redesign2014 = 0;
+</script>
+<!-- facebook_api_de_all -->
+<script src="http://files.newsnetz.ch/upload/3/6/36198.js"></script>
+
+<script>
+    $(document).ready(function() {
+        if (getCookie('redesign2014') == 1) {
+            if (!get_url_param('redesign') == 1) {
+                insertParam('redesign','1');
+            }
+        }
+    });
+
+    function getCookie(name) {
+      var parts = document.cookie.split(name + "=");
+      if (parts.length == 2) return parts.pop().split(";").shift();
+    }
+
+    function insertParam(key, value)
+    {
+        key = encodeURI(key); value = encodeURI(value);
+
+        var kvp = document.location.search.substr(1).split('&');
+
+        var i=kvp.length; var x; while(i--) 
+        {
+            x = kvp[i].split('=');
+
+            if (x[0]==key)
+            {
+                x[1] = value;
+                kvp[i] = x.join('=');
+                break;
+            }
+        }
+
+        if(i<0) {kvp[kvp.length] = [key,value].join('=');}
+
+        //this will reload the page, it's likely better to store this until finished
+        document.location.search = kvp.join('&'); 
+    }
+
+    function get_url_param( name )
+    {
+        name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec( window.location.href );
+
+        if ( results == null )
+            return "";
+        else
+            return results[1];
+    }
+</script>
+<script src="http://files.newsnetz.ch/scripts/jquery.cycle.all.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/overlib.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/loadAjaxContent.js" type="text/javascript"></script>
+<script src="http://files.newsnetz.ch/scripts/jquery.carousel.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://files.newsnetz.ch/scripts/jquery.thickbox_translated.js?v1"></script>
+<script type="text/javascript" src="http://files.newsnetz.ch/scripts/facebook.js?v3"></script>
+<link rel="stylesheet" href="http://files.newsnetz.ch/css/thickbox.css" type="text/css" /> 
+
+
+
+<link rel="stylesheet" href="http://files.newsnetz.ch/css/baseStyles_v3.css?v=1427153330" type="text/css" />
+<link rel="stylesheet" href="http://files.newsnetz.ch/css/BAZ_styles_v3.css?v=1427113606" type="text/css" />
+<!--[if IE]>
+<link rel="stylesheet" href="http://files.newsnetz.ch/css/base_stylesIE_v3.css?v=1427110955" type="text/css" />
+<link rel="stylesheet" href="http://files.newsnetz.ch/css/BAZ_stylesIE_v3.css?v=1427101492" type="text/css" />
+<![EndIf]-->
+
+</head>
+<body>
+	<!-- file:zz_article/art_adtop.tmpl ist neu leer -->
+  	
+  	<!--  art_mainContainer.tmpl -> art_mainContainerRedesign.tmpl -->
+  <div id="mainWrapper" class="article">
+<div id="skyLeft">
+	
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=32 | 32 werbeart=LeftTop Sky kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=4 -->
+			
+			<!-- werbung ende -->
+			
+	
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=34 | 34 werbeart=LeftBottom Sky kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=4 -->
+			
+			<!-- werbung ende -->
+			
+</div>
+
+		<div id="mainLeftWrapper">
+			
+			
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=1 | 7 werbeart=Maxiboard oder Wallpaper Horizontal kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=4 -->
+			<div id="adtopBanner">
+<!--JavaScript Tag with group ID // Tag for network 1084: Swiss Adserver - Newsnetz // Website: bazonline.ch // Page: Kultur // Placement: BAZ-Kultur-Maxiboard-(994x118) (3514572) // created at: Nov 15, 2011 9:28:44 AM-->  <script language="javascript">  <!--  
+if (window.adgroupid == undefined) {  	window.adgroupid = Math.round(Math.random() * 1000);  }  
+document.write('<scr'+'ipt language="javascript1.1" src="http://ad.dc2.adtech.de/addyn/3.0/1084/3514572/0/1217/ADTECH;loc=100;target=_blank;key=kunst+key2+kultur+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');  //-->  </script><noscript><a href="http://ad.dc2.adtech.de/adlink/3.0/1084/3514572/0/1217/ADTECH;loc=300;key=kunst+key2+kultur+key4" target="_blank"><img src="http://ad.dc2.adtech.de/adserv/3.0/1084/3514572/0/1217/ADTECH;loc=300;key=kunst+key2+kultur+key4" border="0" width="994" height="118"></a></noscript>  <!-- End of JavaScript Tag -->
+
+
+</div><script type="text/javascript">
+
+document.write('<scr'+'ipt language="javascript1.1" src="http://ad.dc2.adtech.de/bind?ckey2=nn_kultur;cvalue1=nn_kultur;expiresDays=90;adct=text/html;misc=123"></scri'+'pt>');
+</script>
+			<!-- werbung ende -->
+			
+
+
+			
+			<div id="mainContainer">
+				
+				
+
+				<div style="position:absolute">
+					<script language="JavaScript" type="text/javascript"> <!--
+						var WEMF2="http://newsnetz.wemfbox.ch/cgi-bin/ivw/CP/baz/";
+                        if (navigator.userAgent.match(/iPad/gi)) {
+                            WEMF2 = "http://newsnetz.wemfbox.ch/cgi-bin/ivw/CP/baz/mobile/tablet/web/";
+                        }
+						document.write("<img src='"+WEMF2+"kultur/article?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+" ' width='1' height='1' alt='' />");
+						// -->
+					</script>
+					<noscript>
+						<img src="http://newsnetz.wemfbox.ch/cgi-bin/ivw/CP/baz/kultur/article" width="1" height="1" alt="" />
+					</noscript>
+				</div>
+			
+	  <!-- user-agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:11.0) Gecko/20100101 Firefox/11.0 -->
+			<div style="position:absolute">
+				<script language="JavaScript" type="text/javascript"> <!--
+					var WEMF="http://baz.wemfbox.ch/cgi-bin/ivw/CP/";
+                    if (navigator.userAgent.match(/iPad/gi)) {
+                            WEMF="http://baz.wemfbox.ch/cgi-bin/ivw/CP/mobile/tablet/web/";
+                    }
+					document.write("<img src='"+WEMF+"kultur/article?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"' width='1' height='1' alt='' />");
+					// -->
+				</script>
+				<noscript>
+					<img src="http://baz.wemfbox.ch/cgi-bin/ivw/CP/kultur/article" width="1" height="1" alt="" />
+				</noscript>
+				<script language="Javascript">var szmvars="baz//CP//kultur/article";</script>
+				<script language="Javascript" src="http://baz.wemfbox.ch/2004/01/survey.js"></script>
+			</div>
+		
+				<!-- GOOGLE ANALYTICS BaZ-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https:// ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  if (typeof(_gat) == 'object') {
+		var pageTracker = _gat._getTracker("UA-674994-1");
+		pageTracker._setDomainName("none");
+		pageTracker._setAllowLinker(true);
+		pageTracker._initData();
+		pageTracker._trackPageview();
+		var secondTracker = _gat._getTracker("UA-431029-7");
+		secondTracker._setDomainName("none");
+		secondTracker._setAllowLinker(true);
+		secondTracker._initData();
+		secondTracker._trackPageview();
+	}
+</script>
+<!-- /GOOGLE ANALYTICS -->
+				
+			<div style="position:absolute">
+				<script language="JavaScript" type="text/javascript">
+					document.write("<img style='display:none;' src='http://bazonline.ch/kultur/kunst/Es-kommt-keine-Raubkunst-ueber-die-Schwellen-des-Museums/story/27435237/1/pixel.gif?nocache="+(Math.random()*100000)+"' width='1' height='1' />"); 
+				</script>
+				<noscript>
+					<img style="display:none;" src="http://bazonline.ch/kultur/kunst/Es-kommt-keine-Raubkunst-ueber-die-Schwellen-des-Museums/story/27435237/1/pixel.gif?nocache=1427159137" width="1" height="1"/>
+				</noscript>
+			</div>
+		
+			  
+				<div id="singlePage">
+	<div id="headerWrapper">
+		
+		<div id="singleHeader">
+	<div id="headerTop">
+	
+	<div id="headerLogin">
+		<a  href="http://bazonline.ch" title="Startseite">Startseite</a> &middot;
+		<a  target="_blank" href="http://www.homegate.ch/?a=default&l=default&utm_source=nn_baz&utm_medium=liim&utm_term=ies&utm_campaign=partn_d" title="Immobilien" target="_blank">Immo</a> &middot;
+		<a  target="_blank" href="http://www.car4you.ch/?utm_source=Newsnet&amp;utm_medium=Link&amp;utm_campaign=Integration_Front" title="Auto" target="_blank">Auto</a> &middot;
+		<a target="_blank" href="http://jobs.bazonline.ch" title="Job">Job</a> &middot;
+		<a target="_parent" href="http://weiterbildung.bazonline.ch" title="Weiterbildung">Weiterbildung</a>
+	</div>
+
+	<div id="headerWetter">
+    <a href="http://verlag.baz.ch/epaper/" title="" style="margin-right:3px;">E-Paper &#8226; </a>
+    <a href="http://verlag.baz.ch/abo/" title="" style="margin-right:3px;">Aboservice &#8226; </a>
+    <a href="http://www.bazkompakt.ch/" title="" style="margin-right:3px;">BaZ Kompakt &#8226; </a>
+    <a href="http://verlag.baz.ch/stellefant/" title="" style="margin-right:3px;">Stellefant &#8226; </a>
+    <a style="margin-right: 3px;" title="" href="http://verlag.baz.ch/inserieren/">Inserieren &#8226; </a>
+    <a style="margin-right: 3px;" title="" href="http://verlag.baz.ch/archiv/">Archiv &#8226;</a>
+    <!--&#8226; <a style="margin-right: 3px;" title="" href="http://bazonline.ch/kultur/fernsehprogramm/">TV-Programm</a>-->
+	<!--<a href="#" title="">Marktplatz</a>-->
+	<!--<a href="#" title="">BaZ-Abo</a>-->
+	
+			<div id="wetter">
+				<a href="http://bazonline.ch/wetter/allgemeinelage/" title="klar"><img src="http://files.newsnetz.ch//wetter/icons/32px/night/k_01.png" alt="klar" />	
+				<strong>Wetter:</strong></a>Basel, 4°
+			</div>
+</div>
+
+	
+</div>
+	
+	<div id="singleLogo">
+	<a href="http://bazonline.ch/" title="baz.online Startseite"><img src="http://bazonline.ch/images/logos/LogoKlein.png" id="mainLogo" alt="baz.online"></a>
+</div>			
+	<h1><span>Kultur</span></h1>
+	<div id="navSearch">
+	<form  id="searchForm" action="http://bazonline.ch/service/suche/suche.html" method="get">
+		<fieldset class="search">
+			<input type="hidden" name="date" id="date" value="alle"/>
+			<input type="hidden" name="order" id="order" value="date"/>
+			<input name="key" type="text" value="Suche" title="Suche" id="headerSearch"/>
+			<button title="Submit Search" class="btn"></button>
+		</fieldset>
+	</form>	
+</div>
+
+<style>
+ .searchFocus{
+  color: #333 !important;	
+}
+</style>
+
+<script>
+		jQuery('#headerSearch').focus(function (){
+	    if (jQuery(this).val() == jQuery(this).attr("title")) {
+		    jQuery(this).val('').addClass('searchFocus');
+;
+	    }
+    }).blur(function () {
+	    if (jQuery(this).val() == '') {
+		    jQuery(this).val(jQuery(this).attr("title")).removeClass('searchFocus');
+	  }
+    });
+</script>
+</div>
+		
+		<div id="horizontalNavigation">
+	<ul>
+	<li id="basel">  <a href="http://bazonline.ch/basel/" >
+  		                    Basel
+  		                  </a></li><li id="schweiz">  <a href="http://bazonline.ch/schweiz/" >
+  		                    Schweiz
+  		                  </a></li><li id="ausland">  <a href="http://bazonline.ch/ausland/" >
+  		                    Ausland
+  		                  </a></li><li id="wirt">  <a href="http://bazonline.ch/wirtschaft/" >
+  		                    Wirtschaft
+  		                  </a></li><li id="boerse">  <a href="http://boerse.bazonline.ch/" >
+  		                    Börse
+  		                  </a></li><li id="sport">  <a href="http://bazonline.ch/sport/" >
+  		                    Sport
+  		                  </a></li><li class="active" id="kultur"><a class="active " href="http://bazonline.ch/kultur/" >
+		                  Kultur
+		                </a></li><li id="panorama">  <a href="http://bazonline.ch/panorama/" >
+  		                    Panorama
+  		                  </a></li><li id="leben">  <a href="http://bazonline.ch/leben/" >
+  		                    Leben
+  		                  </a></li><li id="auto">  <a href="http://bazonline.ch/auto/" >
+  		                    Auto
+  		                  </a></li><li id="digital">  <a href="http://bazonline.ch/digital/" >
+  		                    Digital
+  		                  </a></li><li id="blogs">  <a href="http://bazonline.ch/blogs/" >
+  		                    Blogs
+  		                  </a></li><li id="mehr" class="dropdownNavi"><a href="javascript://">Mehr</a><ul><!--[if IE 8]><div id="ie8"><![endif]-->
+					  <li><a href="http://bazonline.ch/wissen/" >Wissen</a></li>
+					  <li><a href="http://bazonline.ch/dossiers/" >Dossiers</a></li>
+					  <li><a href="http://bazonline.ch/wetter/allgemeinelage/" >Wetter</a></li>
+					  <li><a href="http://bazonline.ch/service/unsere-dienste/serie/leserreporter/s.html" >Leserreporter</a></li>
+					  <li><a href="http://jobs.bazonline.ch/" >Jobs</a></li>
+					  <li><a href="http://bazonline.ch/weiterbildung/" >Weiterbildung</a></li>
+					  <li><a href="http://bazonline.ch/vergleichsdienst/" >Vergleich</a></li>
+					  <li><a href="http://verlag.baz.ch/abo/" >Aboservice</a></li>
+					  <li><a href="http://verlag.baz.ch/impressum/" >Impressum</a></li><li class="clear"></li><!--[if IE 8]></div><![endif]--></ul></li> <script type="text/javascript">
+
+	jQuery(function() {
+    jQuery("li.dropdownNavi").each(function(i){
+      jQuery(this).hover(function(){jQuery(this).children("a").addClass("active"); jQuery(this).find("ul").slice(0,1).addClass("activeDD");},function(){jQuery(this).children("a").removeClass("active"); jQuery(this).find("ul").slice(0,1).removeClass("activeDD");});
+    });
+
+    // IE6 Fix: 
+    if(jQuery.hasOwnProperty("browser") && jQuery.browser.msie && (jQuery.browser.version < 7)) {
+      jQuery("li.dropdownNavi").each(function(i){
+        jQuery(this).find("ul").hover(function(){jQuery(this).addClass("activeDD");},function(){jQuery(this).removeClass("activeDD");});
+      });
+    }
+
+  });
+
+
+
+ 
+</script>
+
+              
+  
+	</ul>
+</div>
+
+<div id="subnavigation">
+	<ul><!--[if IE 8]><div id="ie8"><![endif]-->
+					  <li><a href="http://bazonline.ch/kultur/kino/" >Film</a></li>
+					  <li><a href="http://bazonline.ch/kultur/fernsehen/" >Fernsehen</a></li>
+					  <li><a href="http://bazonline.ch/kultur/buecher/" >Bücher</a></li>
+					  <li><a href="http://bazonline.ch/kultur/theater/" >Theater</a></li>
+					  <li><a href="http://bazonline.ch/kultur/kunst/" class="active" >Kunst</a></li>
+					  <li><a href="http://bazonline.ch/kultur/ausstellungen/" >Ausstellungen</a></li>
+					  <li><a href="http://bazonline.ch/kultur/pop-und-jazz/" >Musik</a></li>
+					  <li><a href="http://bazonline.ch/kultur/klassik/" >Klassik</a></li>
+					  <li><a href="http://bazonline.ch/kultur/bestenlisten/Fernsehen/story/10768231" >Bestenlisten</a></li>
+					  <li><a href="http://blog.bazonline.ch/deadline/" >Deadline</a></li>
+					  <li><a href="http://bazonline.ch/kultur/livetv/" >Live-TV</a></li>
+					  <li><a href="http://baz.ch/agenda/" >Veranstaltungen</a></li>
+					  <li><a href="http://baz.ch/kino/" >Kino-Programm</a></li>
+					  <li><a href="http://bazonline.ch/kultur/bildstrecke.html" >Bildstrecken</a></li><li class="clear"></li><!--[if IE 8]></div><![endif]--></ul>
+</div>
+
+		
+	</div>
+	
+	<!-- begin art_singlePageRedesign.tmpl -->
+	
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=28 | 28 werbeart=Giganto Miliardaer maker kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=4 -->
+			<div id="wideBoard">
+<!--JavaScript Tag with group ID // Tag for network 1084: Swiss Adserver - Newsnet // Website: bazonline.ch // Page: Kultur // Placement: BAZ-Kultur-WideBoard-5 x 1 (3787532) // created at: May 9, 2012 1:08:11 PM-->
+<script language="javascript">
+<!--
+
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+
+document.write('<scr'+'ipt language="javascript1.1" src="http://ad.dc2.adtech.de/addyn/3.0/1084/3787532/0/1357/ADTECH;loc=100;target=_blank;key=kunst+key2+kultur+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://ad.dc2.adtech.de/adlink/3.0/1084/3787532/0/1357/ADTECH;loc=300;key=kunst+key2+kultur+key4" target="_blank"><img src="http://ad.dc2.adtech.de/adserv/3.0/1084/3787532/0/1357/ADTECH;loc=300;key=kunst+key2+kultur+key4" border="0" width="5" height="1"></a></noscript>
+<!-- End of JavaScript Tag -->
+</div>
+			<!-- werbung ende -->
+			
+
+	
+                <div id="singleLeft">
+			    
+	            
+		        <h2>«Es kommt keine Raubkunst über die Schwellen des Museums»</h2><!-- 27435237, 42, 1 -->
+      <div id="metaLine">
+				<h5>Aktualisiert am 24.11.2014 <a href="?comments=1"></a></h5>
+				<ul>
+					<li>
+						<a href="/27435237/print.html" title="Drucken" target="_blank" class="iconprint tooltip">&nbsp; <span>Drucken</span></a>
+					</li>
+				</ul>
+			</div>
+		<p class="teaser">Das Kunstmuseum Bern nimmt das Erbe des verstorbenen Kunstsammlers Cornelius Gurlitt an. Das bestätigte Stiftungsratspräsident Christoph Schäublin. Derweil wurde ein drittes Werk als Raubkunst bestätigt. </p><img src="http://files.newsnetz.ch/story/2/7/4/27435237/42/topelement.jpg" id="articlefeature" alt="Nimmt die Sammlung Gurlitt an: Christoph Schäublin, Präsident des Stiftungsrates des Kunstmuseums Bern. " class="jqzoomINNER"/>
+			<p class="caption" style="float:none; overflow:hidden;">
+			Nimmt die Sammlung Gurlitt an: Christoph Schäublin, Präsident des Stiftungsrates des Kunstmuseums Bern. <br />Bild: Keystone</p>
+				<p>
+		<script type="text/javascript">
+	var badword = 0;
+	var badwordserch = 1;
+		</script>
+	 <span class="idcode">()</span></p> 
+				<!-- 
+
+STYLES FUER WEBTICKER - SOCCER MUESSEN NOCH INS NORMALE CSS UEBERNOMMEN WERDEN
+
+<style type="text/css">
+	.liveticker .leftCol img.ico {
+display:inline-block;
+margin-right:4px;
+vertical-align:text-top;
+	}
+.liveticker > li .leftCol span {
+	color:#333333;
+}
+</style>
+-->
+
+<script type="text/javascript">
+
+function getMessages() {
+	$.ajax({
+		type: "GET",
+		timeout: 10000,
+		url: "/zz_liveticker/ajax/web/",
+		data: "id=11330",
+		dataType: "json",
+		success: function(data, status){
+
+			if (data.length > 0) {
+				data.reverse();
+				
+				var newMsgId;
+
+				for (var i = 0; i < data.length; i++) {	
+
+  				// javascript find by <li id="msgId_26949" class="">
+          if ( $('#msgId_' + data[i].id).length == 0 ) {
+            newMsgId = data[i].id;
+          }
+
+					// remove all modified (? all is an all) messages...
+					if ($('#msgId_' + data[i].id).length) {	 
+						$('#msgId_' + data[i].id).remove();
+					}	
+				}	
+				for (var i = 0; i < data.length; i++) {
+						if (data[i].deleted == 'false') {
+						// insert message	
+							$('#liveticker').prepend(data[i].html);	
+						
+						  if( newMsgId == data[i].id) {
+						    $('#msgId_' + data[i].id).css('display', 'none');
+              	$('#msgId_' + data[i].id).css('background', '#efefdd');
+              	$('#msgId_' + data[i].id).slideDown("slow",function(){
+              		$(this).css('background', '');
+              	});  
+						  }
+						}  
+						else {
+								$('#msgId_' + data[i].id).remove();
+						}
+					}
+				}
+     	},
+     	error: function(request, status, error) {
+     		//window.location = window.location + '?status=stopped';
+		}
+	});
+}
+
+function resizeImage(message_id) {
+	$('#img_message_' + message_id).toggleClass('selected');
+}
+
+$(document).ready(function(){
+
+	
+
+});	
+
+</script>
+
+<div id="msgInfo" style="display:none;">
+	<p>
+		Dieser Artikel wird automatisch aktualisiert.
+	</p>
+</div>
+<ul class="liveticker" id="liveticker">
+	
+<li id="msgId_396396" class="">
+	<span class="leftCol">
+		Zusammenfassung 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Nun ist die Entscheidung offiziell: Das Kunstmuseum Bern nimmt das schwierige Gurlitt-Erbe an. Das bestätigte der Stiftungsratspräsident des Museums, Christoph Schäublin, vor den Medien in Berlin.<br /><br />Nach Angaben von Schäublin hat sich das Museum auf eine weitreichende Vereinbarung mit Bayern und dem Bund verständigt. Danach werden Bilder, die unter Nazi-Raubkunstverdacht stehen, zunächst in Deutschland bleiben. Die für den Fall Gurlitt gegründete Taskforce soll ihre Herkunft weiter klären.<br /><br />Zudem verpflichtet sich Deutschland, die Kosten für die Restitution von Bildern zu übernehmen. Die Vereinbarung wurde mit der deutschen Kulturstaatsministerin Monika Grütters (CDU) und dem bayerischen Justizminister Winfried Bausback (CSU) unterzeichnet.<br /><br /><b>«Verdächtige Werke bleiben in Deutschland»</b><br /><br />Der inzwischen gestorbene Gurlitt, Sohn eines NS-Kunsthändlers, hatte das Berner Museum als Alleinerben eingesetzt. Seine Sammlung umfasst mehr als 1500 Bilder, darunter wertvolle Werke etwa von Matisse, Picasso, Renoir und Monet. Eine Cousine ficht das Testament an.<br /><br />Von grosser Wichtigkeit für das Kunstmuseum Bern sei die Grundmechanik der Vereinbarung, sagte Schäublin vor den Medien: «Raubkunst oder Werke, die der Raubkunst verdächtigt werden, bleiben in Deutschland.» Gleichzeitig beteilige sich Bern aktiv und in enger Zusammenarbeit mit der Taskforce an der Provenienzforschung.<br /><br /><b>Lob für den Mut des Museums </b><br /><br />«Ziel sei es, sämtliche Provenienzen klären und damit alle Raubkunst restituieren zu können. Der Stiftungsrat sei überzeugt, in einer «von Vertrauen geprägten Zusammenarbeit mit Berlin und München» das Bestmögliche erreicht zu haben.<br /><br />Mit der Annahme des belasteten Gurlitt-Erbes beweise das Kunstmuseum Bern Mut, erklärt der Berner Erziehungs- und Kulturdirektor Bernhard Pulver. Die Herausforderung sei inhaltlicher, aber auch finanzieller Art. Es werde zu prüfen sein, in welcher Form der Kanton hier unterstützen könne.<br /><br /><b>Werk von Carl Spitzweg ist Raubkunst</b><br /><br />Die deutsche Kulturstaatsministerin Monika Grütters hat derweil verkündet, eine Nachlassliste des Gurlitt-Erbes noch gleichentags online zu schalten. Zudem bestätigte sie, dass ein drittes Werk der Sammlung als Raubkunst identifiziert worden sei.<br /><br />Es handelt sich dabei um das Gemälde «Das Klavierspiel» von Carl Spitzweg. Das Bild gehe «sofort» an die Erben des 1942 in Auschwitz verstorbenen jüdischen Sammlers Henri Hinrichsen, kündigte Grütters an. Werke, die künftig als Raubkunst bestätigt würden, sollen «zeitnah» an die Erben der NS-Opfer zurückgehen.<br /><br /><b>Rasche Rückerstattung von Raubkunst für Bundesrat wichtig</b><br /><br />Der Bundesrat begrüsst, dass die vom Kunstmuseum Bern getroffene Vereinbarung den internationalen Raubkunst-Richtlinien entspricht. Die Schweiz gehört zusammen mit 43 weiteren Staaten zu den Unterzeichnern des sogenannten Washingtoner Abkommens.<br /><br />Die 1998 unterzeichneten Richtlinien sind international wegweisend für die Aufarbeitung von Raubkunstfällen. Es sei der Schweiz sehr wichtig, dass die Kunstwerke aus Raubkunst ihren Besitzern rasch zurückgegeben würden, teilt die Landesregierung mit. (kpn/sda)</p>
+	</span>
+</li>
+
+<li id="msgId_396394" class="">
+	<span class="leftCol">
+		11.52 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Die Pressekonferenz ist beendet. </p>
+	</span>
+</li>
+
+<li id="msgId_396392" class="">
+	<span class="leftCol">
+		11.49 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+			<a href="#" onclick="resizeImage(396392); return false;">
+				<img id="img_message_396392" src="http://files.newsnetz.ch/img/liveticker/11330/396392.jpg" class="ticImg">
+			</a>
+		
+		<p>Nun wird die Vereinbarung über den Nachlass von Cornelius Gurlitt unterzeichnet. </p>
+	</span>
+</li>
+
+<li id="msgId_396390" class="">
+	<span class="leftCol">
+		11.47 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Die Aufarbeitung der Sammlung Gurlitt sei für das Kunstmuseum Bern von nun an zentrale Aufgabe. </p>
+	</span>
+</li>
+
+<li id="msgId_396388" class="">
+	<span class="leftCol">
+		11.45 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+			<a href="#" onclick="resizeImage(396388); return false;">
+				<img id="img_message_396388" src="http://files.newsnetz.ch/img/liveticker/11330/396388.jpg" class="ticImg">
+			</a>
+		
+		<p>Nun spricht der Berner Erziehungsminister Bernhard Pulver. </p>
+	</span>
+</li>
+
+<li id="msgId_396386" class="">
+	<span class="leftCol">
+		11.42 Uhr
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Bei der Rückgabe von Raubkunst gebe es aber noch immer grosse Hindernisse, so Bausback. So seien viele Ansprüche auf Raubkunst verjährt. Darauf müsse das deutsche Recht künftig aber eine Antwort haben. </p>
+	</span>
+</li>
+
+<li id="msgId_396384" class="">
+	<span class="leftCol">
+		11.41 Uhr
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Die Aufarbeitung der Gurlitt-Sammlung sei nun auf einem guten Weg. </p>
+	</span>
+</li>
+
+<li id="msgId_396382" class="">
+	<span class="leftCol">
+		11.39 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Die Vereinbarung mit dem Kunstmuseum bietet laut Bausback eine Chance: Die Prüfung der Werke und ihre Rückgabe können so transparent gemacht werden. </p>
+	</span>
+</li>
+
+<li id="msgId_396380" class="">
+	<span class="leftCol">
+		11.35 Uhr
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+			<a href="#" onclick="resizeImage(396380); return false;">
+				<img id="img_message_396380" src="http://files.newsnetz.ch/img/liveticker/11330/396380.jpg" class="ticImg">
+			</a>
+		
+		<p>Nun spricht der Bayrische Justizminister Winfried Bausback.  </p>
+	</span>
+</li>
+
+<li id="msgId_396378" class="">
+	<span class="leftCol">
+		Live
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Verfolgen Sie <a href="http://www.br.de/mediathek/video/event-livestream/1-eventlivestream-154.html" target="_blank">hier den Live-Stream der Pressekonferenz</a>. </p>
+	</span>
+</li>
+
+<li id="msgId_396376" class="">
+	<span class="leftCol">
+		11.33 Uhr
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Grütters: Die Vereinbarung mit dem Kunstmuseum Bern ist ein Meilenstein in der Aufarbeitung der deutschen Geschichte. </p>
+	</span>
+</li>
+
+<li id="msgId_396374" class="">
+	<span class="leftCol">
+		11.30 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Künftig werden auch Geschäftsbücher von Cornelius Gurlitt ab heute Nachmittag auf www.lostart.de zugänglich gemacht. </p>
+	</span>
+</li>
+
+<li id="msgId_396372" class="">
+	<span class="leftCol">
+		11.29 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Grütters: Es gibt einen dritten geklärten Fall von Raubkunst: Carl Spitzwegs «Das Klavierspiel» wird an die Erben des rechtmässigen Besitzers zurückgeben.</p>
+	</span>
+</li>
+
+<li id="msgId_396370" class="">
+	<span class="leftCol">
+		11.28 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Alle Werke, die sich als Raubkunst erweisen, werden ohne Wenn und Aber an die rechtmässigen Besitzer zurückgegeben. </p>
+	</span>
+</li>
+
+<li id="msgId_396368" class="">
+	<span class="leftCol">
+		11.26 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Die Werke, die auf Raubkunstverdacht abgeklärt werden müssen, bleiben in Deutschland. </p>
+	</span>
+</li>
+
+<li id="msgId_396366" class="">
+	<span class="leftCol">
+		11.25 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Grütters: Die Verhandlungen seine sehr anspruchsvoll gewesen: Die Aufklärung von Raubkunst sehr weitgreifend. Hinter jedem gestohlenen Bild stehe ein menschliches Schicksal. Es gehe also primär um die Anerkennung der Opfer-Biographien. </p>
+	</span>
+</li>
+
+<li id="msgId_396362" class="">
+	<span class="leftCol">
+		11.23 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+			<a href="#" onclick="resizeImage(396362); return false;">
+				<img id="img_message_396362" src="http://files.newsnetz.ch/img/liveticker/11330/396362.jpg" class="ticImg">
+			</a>
+		
+		<p>Nun spricht Staatsministerin Monika Grütters. </p>
+	</span>
+</li>
+
+<li id="msgId_396360" class="">
+	<span class="leftCol">
+		11.21 Uhr
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Laut Schäublin soll in den kommenden Tagen eine Liste der Sammlung ins Netz gestellt werden. </p>
+	</span>
+</li>
+
+<li id="msgId_396356" class="">
+	<span class="leftCol">
+		11.20 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Zentraler Punkt im Abkommen: Raubkunst und verdächtige Werke kommen nicht in Berührung mit dem Kunstmuseum Bern und gelangen nicht einmal auf Schweizer Boden. </p>
+	</span>
+</li>
+
+<li id="msgId_396354" class="">
+	<span class="leftCol">
+		11.19 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Schäublin rekapituliert die Verhandlungen mit Bayern und Deutschland. Nun liege eine Vereinbarung zwischen dem Kunstmuseum und Bayern vor. Das Kunstmuseum könne sich ganz mit den Regelungen darin identifizieren. </p>
+	</span>
+</li>
+
+<li id="msgId_396352" class="">
+	<span class="leftCol">
+		11.17 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Wichtig sei nun vor allem, dass sich das Kunstmuseum Bern rechtlich gut absichere. Das Museum sei bereit, Werke des Erbes unter besonderen Bedingungen auszuleihen. </p>
+	</span>
+</li>
+
+<li id="msgId_396350" class="">
+	<span class="leftCol">
+		11.16 Uhr
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Schäublin: Als nächstes werde untersucht, welche Werke als Raubkunst verdächtig sind. </p>
+	</span>
+</li>
+
+<li id="msgId_396348" class="">
+	<span class="leftCol">
+		11.15 Uhr
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Wegleitend für den Entscheid des Stiftungsrates waren laut Schäublin die Washingtoner Abkommen. Und an diese werde man sich strikte halten. Raubkunst werde an die Berechtigten zurückgegeben. Über die Schwellen des Kunstmuseums kämen keine Werke, die sich als Raubkunst erweisen, oder als solche verdächtig sind. </p>
+	</span>
+</li>
+
+<li id="msgId_396344" class="">
+	<span class="leftCol">
+		11.12 Uhr
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+			<a href="#" onclick="resizeImage(396344); return false;">
+				<img id="img_message_396344" src="http://files.newsnetz.ch/img/liveticker/11330/396344.jpg" class="ticImg">
+			</a>
+		
+		<p>Die Entscheidung sei dem Stiftungsrat nicht einfach gefallen. Triumphgefühle habe das Testament nicht ausgelöst – vor allem, wegen der Last, welche auf der Sammlung liege. </p>
+	</span>
+</li>
+
+<li id="msgId_396342" class="">
+	<span class="leftCol">
+		11.11 Uhr
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Der Stiftungsrats des Kunstmuseums hat in seiner Sitzung beschlossen, den Nachlass von Gurlitt anzutreten. </p>
+	</span>
+</li>
+
+<li id="msgId_396340" class="">
+	<span class="leftCol">
+		11.10 Uhr
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Jetzt spricht Christoph Schäublin. Er bittet für das lange Schweigen des Kunstmuseums Bern um Entschuldigung. </p>
+	</span>
+</li>
+
+<li id="msgId_396338" class="">
+	<span class="leftCol">
+		11:07 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Monika Grütters eröffnet die Pressekonferenz. </p>
+	</span>
+</li>
+
+<li id="msgId_396334" class="">
+	<span class="leftCol">
+		11.05 Uhr 
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Die Pressekonferenz beginnt. Anwesend sind Christoph Schäublin, Präsident des Stiftungsrates des Kunstmuseums Bern, der bayrische Justizminister Winfried Bausback und die <br />deutsche Kulturstaatsministerin Monika Grütters. <br /></p>
+	</span>
+</li>
+
+<li id="msgId_396330" class="">
+	<span class="leftCol">
+		Live
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Verfolgen Sie den <a href="http://www.br.de/nachrichten/livestream-gurlitt-nachlass-erbe-100.html" target="_blank">Live-Stream der Pressekonferenz auf der Homepage von «Bayrischer Rundfunk»</a>. </p>
+	</span>
+</li>
+
+<li id="msgId_396318" class="">
+	<span class="leftCol">
+		Bildstrecke
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>
+	<script type="text/javascript" src="http://files.newsnetz.ch/scripts/ch.newsnetz.ui/mootools-1.2.5-core-jm.js"></script>
+	<script type="text/javascript" src="http://files.newsnetz.ch/scripts/ch.newsnetz.ui/diashow2.js?v=41"></script>
+	 
+	<div style="overflow: hidden;" class="inlineGallery standalone" id="inlineGallery_148457">
+		<div class="inlineGalleryPic" id="inlineGalleryPic_148457">	
+			<img alt="" id="articlefeature"  style="width:519.809672386895px; height: 346px;" src="http://files.newsnetz.ch/bildlegende/148457/1942123_pic_970x641.jpg" />	
+		</div>
+		
+		<div class="captionWrapper">
+			<p class="caption">
+				<span id="diashow_counter" class="counter counter148457">1/51</span>
+				
+				<span class="captionCopy">
+					<span class="" id="image_legend148457">Denkbar ist, dass die gefundenen Kunstwerke von Gurlitts österreichischem Haus in seine Münchner Wohnung gebracht wurden: Das Namensschild von Cornelius Gurlitt an seinem Haus in Salzburg. <br />Bild: dpa</span><br />
+					<span style="float:left;">
+					
+						<a id="linkUrlInline" class="captionLeft iconArticle" style="display:none;" href=""></a>
+					
+						
+					</span>
+				</span>
+				
+			</p>
+			<div id="articleGalleryNav">				
+				<a class="navLeft navLeft148457" href="javascript://">&nbsp;</a>
+				<a class="navRight navRight148457" href="javascript://">&nbsp;</a>
+				<a id="bildstreckeButtonFullScreen" class="navFullscreen" href="javascript://"></a>
+			</div>
+			
+			<div id="articleGalleryWemf_148457"></div>
+			
+	    </div>
+	</div>
+
+	<script type="text/javascript">
+
+	if(typeof(WEMF) != 'undefined' && typeof(pageTracker) != 'undefined') {
+		var pathArray = window.location.pathname.split( '/' );
+		var channel = pathArray[1];
+		var tracker = function(counter) {
+			var stats = '<img src="' + WEMF + channel + '/bildstrecke_inline?r=' + escape(document.referrer) + '&d=' + (Math.random()*100000) + '" width="1" height="1" alt="" /><img src="' + WEMF2 + channel + '/bildstrecke_inline?r=' + escape(document.referrer) + '&d=' + (Math.random()*100000) + '" width="1" height="1" alt="" />';
+			$("#articleGalleryWemf_148457").html(stats);
+			pageTracker._trackPageview();
+			secondTracker._trackPageview(); 
+			//if(counter == 1) {
+				document.getElementById('articleGalleryWemf_148457').innerHTML += '<img src="/bildstrecke/148457/pixel.gif?nocache=1280733869" width="1" height="1" />';
+			//}
+		}
+	}
+
+	var diashow = new diashow({"items": [{"width":"963","provider":"Bild: dpa","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"5","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1942123_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1942123_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1942123_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1942123_pic_970x641230.jpg"},"photographer":"dpa","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:519.809672386895px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1942123_pic_970x641.jpg' />","image_id":"1942123","link_url":"","noAds":"","story_link":"","video":"","legend":"Denkbar ist, dass die gefundenen Kunstwerke von Gurlitts österreichischem Haus in seine Münchner Wohnung gebracht wurden: Das Namensschild von Cornelius Gurlitt an seinem Haus in Salzburg. <br />Bild: dpa","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1942123_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"969","provider":"Urs Baumann","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"0","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820535_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820535_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820535_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820535_pic_970x641230.jpg"},"photographer":"Urs Baumann","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:520px; height: 324.664602683179px;margin-top: 10px;' src='http://files.newsnetz.ch/bildlegende/148457/1820535_pic_970x641.jpg' />","image_id":"1820535","link_url":"","noAds":"","story_link":"","video":"","legend":"Grosses Vermächtnis: Das Kunstmuseum Bern erbt  unverhofft die Sammlung des verstorbenen Cornelius Gurlitt.<br />Urs Baumann","link_title":"","height":"605","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820535_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"969","provider":"Bild: Babirad Picture","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"5","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820437_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820437_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820437_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820437_pic_970x641230.jpg"},"photographer":"Babirad Picture","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:520px; height: 312.858617131063px;margin-top: 16px;' src='http://files.newsnetz.ch/bildlegende/148457/1820437_pic_970x641.jpg' />","image_id":"1820437","link_url":"","noAds":"","story_link":"","video":"","legend":"Ein ganzes Leben hatte er damit verbracht, möglichst kein Aufsehen zu erregen: Cornelius Gurlitt im November 2013. <br />Bild: Babirad Picture","link_title":"","height":"583","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820437_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"499","provider":"","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"0","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820439_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820439_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820439_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820439_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:269.351014040562px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820439_pic_970x641.jpg' />","image_id":"1820439","link_url":"","noAds":"","story_link":"","video":"","legend":"Hatte den Führer höchstpersönlich mit Kunst versorgt: Hildebrand Gurlitt, Vater von Cornelius Gurlitt.<br />","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820439_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"811","provider":"Bild: Dukas","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"5","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820441_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820441_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820441_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820441_pic_970x641230.jpg"},"photographer":"Dukas","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:438.446875px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820441_pic_970x641.jpg' />","image_id":"1820441","link_url":"","noAds":"","story_link":"","video":"","legend":"«Das alles ist eine grosse Büberei!», rief er den Fotografen laut der «Süddeutschen Zeitung» nach: Cornelius Gurlitt beim Verlassen seines Wohnhauses in München am 12. November 2013. (Screenshot Bild.de)<br />Bild: Dukas","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820441_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"739","provider":"Bild: Dukas","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"5","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820443_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820443_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820443_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820443_pic_970x641230.jpg"},"photographer":"Dukas","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:399.521875px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820443_pic_970x641.jpg' />","image_id":"1820443","link_url":"","noAds":"","story_link":"","video":"","legend":"Reporter der französischen Peple-Presse spürten den scheuen Einzelgänger zuerst auf: Gurlitt in einem Einkaufszentrum in München Schwabing am 8. November 2013. (Screenshot «Paris Match»)<br />Bild: Dukas","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820443_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"496","provider":"Bild: 2014 ProLitteris, Zürich","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"5","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820491_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820491_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820491_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820491_pic_970x641230.jpg"},"photographer":"2014 ProLitteris, Zürich","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:268.15px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820491_pic_970x641.jpg' />","image_id":"1820491","link_url":"","noAds":"","story_link":"","video":"","legend":"Henri Matisse: Dieses Gemälde einer sitzenden Frau ist nicht im Werkverzeichnis enthalten. Das Bild dürfte Mitte der 1920er-Jahre entstanden sein. Es wurde 1942 vom Einsatzstab Reichsleiter Rosenberg in einem Banktresor im französischen Libourne beschlagnahmt. Am 11. Juni 2014 wurde bestätigt, dass es sich dabei um Raubkunst aus dem Besitz des Kunsthändlers Paul Rosenberg handelt.<br />Bild: 2014 ProLitteris, Zürich","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820491_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"826","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820445_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820445_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820445_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820445_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:445.859594383775px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820445_pic_970x641.jpg' />","image_id":"1820445","link_url":"","noAds":"","story_link":"","video":"","legend":"Bernhard Kretschmar, «Strassenbahn», undatiertes Aquarell<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820445_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820447_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820447_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820447_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820447_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:250.998439937598px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820447_pic_970x641.jpg' />","image_id":"1820447","link_url":"","noAds":"","story_link":"","video":"","legend":"Christoph Voll, «Sprengmeister Hantsch», Zeichnung 1922<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820447_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820449_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820449_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820449_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820449_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:250.998439937598px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820449_pic_970x641.jpg' />","image_id":"1820449","link_url":"","noAds":"","story_link":"","video":"","legend":"Christoph Voll, «Mönch», Aquarell 1921<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820449_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"826","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820451_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820451_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820451_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820451_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:445.859594383775px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820451_pic_970x641.jpg' />","image_id":"1820451","link_url":"","noAds":"","story_link":"","video":"","legend":"Théodore Rousseau, «Vue de la vallée de la Seine», undatierte Zeichnung<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820451_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820453_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820453_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820453_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820453_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:250.998439937598px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820453_pic_970x641.jpg' />","image_id":"1820453","link_url":"","noAds":"","story_link":"","video":"","legend":"Otto Griebel, «Die Verschleierte», Aquarell 1926<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820453_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"826","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820455_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820455_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820455_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820455_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:445.859594383775px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820455_pic_970x641.jpg' />","image_id":"1820455","link_url":"","noAds":"","story_link":"","video":"","legend":"Wilhelm Lachnit, «Mann und Frau am Fenster», Aquarell 1923<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820455_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820457_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820457_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820457_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820457_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:250.998439937598px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820457_pic_970x641.jpg' />","image_id":"1820457","link_url":"","noAds":"","story_link":"","video":"","legend":"Wilhelm Lachnit, «Mädchen am Tisch», Aquarell 1923<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820457_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820459_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820459_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820459_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820459_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:250.998439937598px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820459_pic_970x641.jpg' />","image_id":"1820459","link_url":"","noAds":"","story_link":"","video":"","legend":"Auguste Rodin, «Etude de femme nue debout, les bras relevés, les mains croisées au-dessus de la tête», undatierte Zeichnung<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820459_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"465","provider":"Bild: 2014 ProLitteris, Zürich/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820461_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820461_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820461_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820461_pic_970x641230.jpg"},"photographer":"2014 ProLitteris, Zürich","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:250.998439937598px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820461_pic_970x641.jpg' />","image_id":"1820461","link_url":"","noAds":"","story_link":"","video":"","legend":"Conrad Felixmüller, «Paar in Landschaft», Aquarell 1924<br />Bild: 2014 ProLitteris, Zürich/Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820461_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820463_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820463_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820463_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820463_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:250.998439937598px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820463_pic_970x641.jpg' />","image_id":"1820463","link_url":"","noAds":"","story_link":"","video":"","legend":"Fritz Maskos, «Sinnende Frau», Druckgrafik 1922<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820463_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820465_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820465_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820465_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820465_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:250.998439937598px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820465_pic_970x641.jpg' />","image_id":"1820465","link_url":"","noAds":"","story_link":"","video":"","legend":"Erich Fraass, «Mutter und Kind», Aquarell 1922<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820465_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820467_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820467_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820467_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820467_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:250.998439937598px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820467_pic_970x641.jpg' />","image_id":"1820467","link_url":"","noAds":"","story_link":"","video":"","legend":"Bonaventura Genelli, «Männlicher Akt», undatierte Zeichnung<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820467_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"826","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820469_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820469_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820469_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820469_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:445.859594383775px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820469_pic_970x641.jpg' />","image_id":"1820469","link_url":"","noAds":"","story_link":"","video":"","legend":"Hans Christoph, «Paar», Aquarell 1924<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820469_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"465","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820471_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820471_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820471_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820471_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:250.998439937598px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820471_pic_970x641.jpg' />","image_id":"1820471","link_url":"","noAds":"","story_link":"","video":"","legend":"Ludwig Godenschweg, «Weiblicher Akt», undatierte Druckgrafik<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820471_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"464","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820473_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820473_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820473_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820473_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:250.85px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820473_pic_970x641.jpg' />","image_id":"1820473","link_url":"","noAds":"","story_link":"","video":"","legend":"Ludwig Godenschweg, «Männliches Bildnis», undatierte Druckgrafik<br />Bild: Keystone","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820473_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"465","provider":"Bild: 2014 ProLitteris, Zürich/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820475_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820475_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820475_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820475_pic_970x641230.jpg"},"photographer":"2014 ProLitteris, Zürich","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:250.998439937598px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820475_pic_970x641.jpg' />","image_id":"1820475","link_url":"","noAds":"","story_link":"","video":"","legend":"Otto Dix, «Dompteuse», Aquarell 1922<br />Bild: 2014 ProLitteris, Zürich/Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820475_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"482","provider":"Bild: 2014 ProLitteris, Zürich/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820477_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820477_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820477_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820477_pic_970x641230.jpg"},"photographer":"2014 ProLitteris, Zürich","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:260.17472698908px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820477_pic_970x641.jpg' />","image_id":"1820477","link_url":"","noAds":"","story_link":"","video":"","legend":"Otto Dix, «Dame in der Loge», Aquarell, 1922<br />Bild: 2014 ProLitteris, Zürich/Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820477_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"484","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820479_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820479_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820479_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820479_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:261.254290171607px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820479_pic_970x641.jpg' />","image_id":"1820479","link_url":"","noAds":"","story_link":"","video":"","legend":"Carl Spitzweg, «Das Klavierspiel,» Zeichnung, um 1840<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820479_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"483","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820481_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820481_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820481_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820481_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:261.121875px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820481_pic_970x641.jpg' />","image_id":"1820481","link_url":"","noAds":"","story_link":"","video":"","legend":"Honoré Damuier, «Don Quichote und Sancho Panza», Gemälde, um 1865<br />Bild: Keystone","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820481_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"440","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820483_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820483_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820483_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820483_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:237.503900156006px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820483_pic_970x641.jpg' />","image_id":"1820483","link_url":"","noAds":"","story_link":"","video":"","legend":"Befindet sich auf der im Internet veröffentlichten Liste: Das «Kind am Tisch» von Otto Griebels.<br />Bild: Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820483_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"540","provider":"Bild: 2014 ProLitteris, Zürich/AFP","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"10","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820485_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820485_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820485_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820485_pic_970x641230.jpg"},"photographer":"2014 ProLitteris, Zürich","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:291.482059282371px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820485_pic_970x641.jpg' />","image_id":"1820485","link_url":"","noAds":"","story_link":"","video":"","legend":"Grosser Fund: Das bis anhin unbekannte Selbstporträt von Otto Dix wird an der Pressekonferenz den Medien präsentiert.<br />Bild: 2014 ProLitteris, Zürich/AFP","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820485_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"587","provider":"","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"0","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820487_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820487_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820487_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820487_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:317.346875px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820487_pic_970x641.jpg' />","image_id":"1820487","link_url":"","noAds":"","story_link":"","video":"","legend":"Von Gustave Courbets Bild «Mädchen mit Ziege» gibt es zwei Versionen, die beide im Werkverzeichnis deklariert sind. Das beschlagnahmte Bild wurde laut der Kunsthistorikerin Meike Hoffmann erst 1949 auf einer Auktion versteigert. Das Bild geriet also erst nach dem Ende des Zweiten Weltkriegs in die Sammlung Gurlitt.<br />","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820487_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"485","provider":"","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"0","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820489_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820489_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820489_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820489_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:262.203125px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820489_pic_970x641.jpg' />","image_id":"1820489","link_url":"","noAds":"","story_link":"","video":"","legend":"Eine Zeichnung von Carl Spitzweg: «Das musizierende Paar» ist eine Vorzeichnung zu einem Gemälde, das im Werkverzeichnis erfasst ist.<br />","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820489_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"467","provider":"Bild: 2014 ProLitteris, Zürich/AFP","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"10","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820493_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820493_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820493_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820493_pic_970x641230.jpg"},"photographer":"2014 ProLitteris, Zürich","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:252.078003120125px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820493_pic_970x641.jpg' />","image_id":"1820493","link_url":"","noAds":"","story_link":"","video":"","legend":"Marc Chagall: Gouache einer allegorischen Szene, nicht im Werkverzeichnis enthalten. Die Herkunft ist nicht eindeutig bestimmt.<br />Bild: 2014 ProLitteris, Zürich/AFP","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820493_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"969","provider":"","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"0","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820495_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820495_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820495_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820495_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:520px; height: 340.227038183695px;margin-top: 2px;' src='http://files.newsnetz.ch/bildlegende/148457/1820495_pic_970x641.jpg' />","image_id":"1820495","link_url":"","noAds":"","story_link":"","video":"","legend":"Max Liebermann: Neben dem Gemälde «Zwei Reiter am Strand» wurden weitere Zeichnungen und Skizzen Liebermanns gefunden.<br />","link_title":"","height":"634","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820495_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"970","provider":"Bild: Christoph Stache/AFP","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"10","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820497_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820497_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820497_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820497_pic_970x641230.jpg"},"photographer":"Christoph Stache","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:520px; height: 336.659793814433px;margin-top: 4px;' src='http://files.newsnetz.ch/bildlegende/148457/1820497_pic_970x641.jpg' />","image_id":"1820497","link_url":"","noAds":"","story_link":"","video":"","legend":"Franz Marc: Gouache, «Landschaft mit Pferden», Herkunft: Kunst- und Gewerbemuseum in Moritzburg.<br />Bild: Christoph Stache/AFP","link_title":"","height":"628","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820497_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"951","provider":"Bild: Christoph Stache/AFP","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"10","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820499_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820499_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820499_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820499_pic_970x641230.jpg"},"photographer":"Christoph Stache","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:513.332293291732px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820499_pic_970x641.jpg' />","image_id":"1820499","link_url":"","noAds":"","story_link":"","video":"","legend":"Diese Radierung Canalettos zeigt eine Ansicht von Padua. Die Herkunft ist nicht geklärt.<br />Bild: Christoph Stache/AFP","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820499_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"475","provider":"Bild: Christoph Stache/AFP","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"10","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820501_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820501_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820501_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820501_pic_970x641230.jpg"},"photographer":"Christoph Stache","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:256.796875px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820501_pic_970x641.jpg' />","image_id":"1820501","link_url":"","noAds":"","story_link":"","video":"","legend":"Ernst Ludwig Kirchners Farbholzschnitt mit Motiv eines Mädchens: In dieser Farbigkeit war die Druckgrafik Kirchners bisher nicht bekannt.<br />Bild: Christoph Stache/AFP","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820501_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"948","provider":"Bild: Reuters","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"6","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820503_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820503_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820503_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820503_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:511.712948517941px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820503_pic_970x641.jpg' />","image_id":"1820503","link_url":"","noAds":"","story_link":"","video":"","legend":"Kunsthistorikerin Meike Hoffmann an der Medienkonferenz zum Münchner Kunstfund. (5. November 2013)<br />Bild: Reuters","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820503_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"436","provider":"Bild: Reuters","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"6","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820505_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820505_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820505_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820505_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:235.344773790952px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820505_pic_970x641.jpg' />","image_id":"1820505","link_url":"","noAds":"","story_link":"","video":"","legend":"Meike Hoffmann vor einer Projektion eines der gefundenen Bilder.<br />Bild: Reuters","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820505_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"969","provider":"Bild: Reuters","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"6","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820507_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820507_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820507_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820507_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:520px; height: 317.688338493292px;margin-top: 14px;' src='http://files.newsnetz.ch/bildlegende/148457/1820507_pic_970x641.jpg' />","image_id":"1820507","link_url":"","noAds":"","story_link":"","video":"","legend":"Der Leiter der Staatsanwaltschaft, Reinhard Nemetz (M.), an der Medienkonferenz zum Münchner Kunstfund. (5. November 2013)<br />Bild: Reuters","link_title":"","height":"592","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820507_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"970","provider":"Screenshot NTV","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"0","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820509_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820509_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820509_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820509_pic_970x641230.jpg"},"photographer":"Screenshot NTV","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:520px; height: 296.989690721649px;margin-top: 24px;' src='http://files.newsnetz.ch/bildlegende/148457/1820509_pic_970x641.jpg' />","image_id":"1820509","link_url":"","noAds":"","story_link":"","video":"","legend":"Über 100 Journalisten fanden sich zur Medienkonferenz ein.<br />Screenshot NTV","link_title":"","height":"554","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820509_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"943","provider":"Bild: Marc Müller/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820511_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820511_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820511_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820511_pic_970x641230.jpg"},"photographer":"Marc Müller","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:509.809375px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820511_pic_970x641.jpg' />","image_id":"1820511","link_url":"","noAds":"","story_link":"","video":"","legend":"Hier wurden die Werke über ein halbes Jahrhundert gehortet: Eingang zum Haus mit Cornelius Gurlitts Wohnung in München. (4. November 2013)<br />Bild: Marc Müller/Keystone","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820511_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"969","provider":"Bild: Lennart Press/Getty Images","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"5","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820513_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820513_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820513_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820513_pic_970x641230.jpg"},"photographer":"Lennart Press/Getty Images","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:520px; height: 311.24871001032px;margin-top: 17px;' src='http://files.newsnetz.ch/bildlegende/148457/1820513_pic_970x641.jpg' />","image_id":"1820513","link_url":"","noAds":"","story_link":"","video":"","legend":"Machte den historischen Fund bereits im Frühjahr 2011: Zollbehörde in München. (4. November 2013)<br />Bild: Lennart Press/Getty Images","link_title":"","height":"580","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820513_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"969","provider":"Bild: Marc Müller/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820515_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820515_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820515_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820515_pic_970x641230.jpg"},"photographer":"Marc Müller","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:520px; height: 341.300309597523px;margin-top: 2px;' src='http://files.newsnetz.ch/bildlegende/148457/1820515_pic_970x641.jpg' />","image_id":"1820515","link_url":"","noAds":"","story_link":"","video":"","legend":"Cornelius Gurlitt – hier das Wohnhaus von aussen – ist der Sohn des Kunsthändlers Hildebrand Gurlitt, der die Werke in den 30er- und 40er-Jahren aufgekauft hatte.\r\n<br />Bild: Marc Müller/Keystone","link_title":"","height":"636","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820515_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"750","provider":"","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"0","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820517_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820517_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820517_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820517_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:405.46875px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820517_pic_970x641.jpg' />","image_id":"1820517","link_url":"","noAds":"","story_link":"","video":"","legend":"Handelte mit «entarteter Kunst»: Hildebrand Gurlitt. Ausriss aus dem Magazin «Focus» vom 4. November 2013.<br />","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820517_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"870","provider":"Bild: Alessandro della Valle/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820519_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820519_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820519_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820519_pic_970x641230.jpg"},"photographer":"Alessandro della Valle","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:469.609984399376px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820519_pic_970x641.jpg' />","image_id":"1820519","link_url":"","noAds":"","story_link":"","video":"","legend":"Der Berner Galerist Eberhard Kornfeld hat in der Vergangenheit mit Cornelius Gurlitt Geschäfte gemacht. (Archiv)<br />Bild: Alessandro della Valle/Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820519_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"909","provider":"Bild: 2014 ProLitteris, Zürich/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820521_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820521_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820521_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820521_pic_970x641230.jpg"},"photographer":"2014 ProLitteris, Zürich","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:490.661466458658px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820521_pic_970x641.jpg' />","image_id":"1820521","link_url":"","noAds":"","story_link":"","video":"","legend":"Bei den gefundenen Bildern handelt es sich um Werke von bekannten Künstlern: Der Maler Pablo Picasso.<br />Bild: 2014 ProLitteris, Zürich/Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820521_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"969","provider":"Bild: AKG","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"5","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820523_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820523_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820523_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820523_pic_970x641230.jpg"},"photographer":"AKG","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:520px; height: 299.979360165119px;margin-top: 23px;' src='http://files.newsnetz.ch/bildlegende/148457/1820523_pic_970x641.jpg' />","image_id":"1820523","link_url":"","noAds":"","story_link":"","video":"","legend":"Aufgetaucht: «Die grossen blauen Pferde» von Franz Marc aus dem Jahr 1911.\r\n<br />Bild: AKG","link_title":"","height":"559","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820523_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"423","provider":"Bild: 2013, ProLitteris, Zürich","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"5","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820525_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820525_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820525_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820525_pic_970x641230.jpg"},"photographer":"2013, ProLitteris, Zürich","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:228.684375px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820525_pic_970x641.jpg' />","image_id":"1820525","link_url":"","noAds":"","story_link":"","video":"","legend":"Max Beckmanns «Der Löwenbändiger» galt seit Jahrzehnten als verschollen.<br />Bild: 2013, ProLitteris, Zürich","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820525_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"969","provider":"Bild: Wolfgang Rattay/Reuters","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"6","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820527_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820527_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820527_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820527_pic_970x641230.jpg"},"photographer":"Wolfgang Rattay","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:520px; height: 318.761609907121px;margin-top: 13px;' src='http://files.newsnetz.ch/bildlegende/148457/1820527_pic_970x641.jpg' />","image_id":"1820527","link_url":"","noAds":"","story_link":"","video":"","legend":"Das Kölner Auktionshaus Lempertz bestätigt, den «Löwenbändiger» in eine Auktion aufgenommen zu haben. (3. November 2013)<br />Bild: Wolfgang Rattay/Reuters","link_title":"","height":"594","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820527_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"856","provider":"Bild: 2014 ProLitteris, Zürich/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820529_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820529_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820529_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820529_pic_970x641230.jpg"},"photographer":"2014 ProLitteris, Zürich","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:462.775px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820529_pic_970x641.jpg' />","image_id":"1820529","link_url":"","noAds":"","story_link":"","video":"","legend":"Auch Kunstwerke von Henri <nobr>Matisse, ...</nobr>\r\n<br />Bild: 2014 ProLitteris, Zürich/Keystone","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820529_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"639","provider":"Bild: Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820531_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820531_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820531_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820531_pic_970x641230.jpg"},"photographer":"","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:345.459375px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820531_pic_970x641.jpg' />","image_id":"1820531","link_url":"","noAds":"","story_link":"","video":"","legend":"...von Otto <nobr>Dix...</nobr><br />Bild: Keystone","link_title":"","height":"640","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820531_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"},{"width":"859","provider":"Bild: 2014 ProLitteris, Zürich/Keystone","ressort_url":"/kultur/kunst/bildstrecke.html","provider_id":"1","urls":{"iapp":"http://files.newsnetz.ch/bildlegende/148457/1820533_pic_970x641300.jpg","sameDomain":"http://www.bazonline.ch/route/bildlegende/148457/1820533_pic_970x641300.jpg","normal":"http://files.newsnetz.ch/bildlegende/148457/1820533_pic_970x641.jpg","mobile":"http://files.newsnetz.ch/bildlegende/148457/1820533_pic_970x641230.jpg"},"photographer":"2014 ProLitteris, Zürich","is_visible":"yes","diashow_id":"148457","html":"<img alt='' id='articlefeature'  style='width:463.672386895476px; height: 346px;' src='http://files.newsnetz.ch/bildlegende/148457/1820533_pic_970x641.jpg' />","image_id":"1820533","link_url":"","noAds":"","story_link":"","video":"","legend":"...sowie von Marc Chagall lagerten neben Müll in der Wohnung von Cornelius Gurlitt.<br />Bild: 2014 ProLitteris, Zürich/Keystone","link_title":"","height":"641","story_title":"","diashow_subtitle":"Gurlitt-Bilder, die laut der Staatsanwaltschaft unter Raubkunst-Verdacht stehen.","filename":"1820533_pic_970x641.jpg","type":"image","title":"","diashow_title":"Gurlitt: Raubkunstverdächtige Bilder"}]}.items);
+	diashow.set('nextClassName', 'navRight148457');
+	diashow.set('previousClassName', 'navLeft148457');
+	diashow.set('counterClassName', 'counter148457');
+	diashow.set('containerId', 'inlineGalleryPic_148457');
+	diashow.set('legendContainerId', 'image_legend148457');
+	diashow.set('title', 'Gurlitt: Raubkunstverdächtige Bilder');
+	diashow.set('linksHTML', '<a href="/kultur/kunst/MonetGemaelde-in-Gurlitts-Koffer-identifiziert/story/15624517" class="captionLeft iconArticle" style="clear:both;" id="linkUrlInline">Zum Artikel\<\/a>');
+	
+	diashow.set('ads', {
+		active: true,
+		first: 3,
+		rhythm: 5,
+		code: "\n\t\t<script type=\"text/javascript\">\n\t\t\tvar mmKey1 = \"kunst\";\n\t\t\tvar mmKey2 = \"\";\n\t\t\tvar mmKey3 = \"kultur\";\n\t\t\tvar mmKey4 = \"\";\n\t\t\<\/script>\n\t\t\t\n\t\t\t<!-- werbung start type=21 | 11 werbeart=Rectangle Bildstrecke & Inline-Bildstrecke kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=4 -->\n\t\t\t<!--IFRAME Tag // Tag for network 1084: Swiss Adserver - Newsnet // Website: bazonline.ch // Page: Bildstrecke // Placement: BAZ-Bildstrecke-Billboard-650 x 350 (3745632) // created at: Sep 27, 2012 4:41:51 PM -->\r\n<IFRAME WIDTH=\"650\" HEIGHT=\"350\" SCROLLING=\"No\" FRAMEBORDER=\"0\" MARGINHEIGHT=\"0\" MARGINWIDTH=\"0\" SRC=\"http://ad.dc2.adtech.de/adiframe/3.0/1084/3745632/0/3283/ADTECH;target=_blank;grp=[group]\"><script language=\"javascript\" src=\"http://ad.dc2.adtech.de/addyn/3.0/1084/3745632/0/3283/ADTECH;loc=700;target=_blank;grp=[group]\">\<\/script><noscript><a href=\"http://ad.dc2.adtech.de/adlink/3.0/1084/3745632/0/3283/ADTECH;loc=300;grp=[group]\" target=\"_blank\"><img src=\"http://ad.dc2.adtech.de/adserv/3.0/1084/3745632/0/3283/ADTECH;loc=300;grp=[group]\" border=\"0\" width=\"650\" height=\"350\">\<\/a>\<\/noscript>\<\/IFRAME>\r\n<!-- End of IFRAME Tag -->\n\t\t\t<!-- werbung ende -->\n\t\t\t"
+	});
+	
+
+	if(typeof(WEMF) != 'undefined') {
+		diashow.set('tracker', tracker);
+	}
+
+	diashow.dispatch();
+
+
+	</script>
+</p>
+	</span>
+</li>
+
+<li id="msgId_396310" class="">
+	<span class="leftCol">
+		Hintergrund
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p><b>Familie geht gegen Gurlitt-Testament vor</b><br /><a href="http://www.tagesanzeiger.ch/kultur/kunst/Familie-geht-gegen-GurlittTestament-vor/story/18574003#clicked0.6180646619182553" target="_blank">Die gesetzlichen Erben von Cornelius Gurlitt wollen dessen letzten Willen überprüfen lassen.</a> Damit wird die Kunstsammlung zum Gerichtsfall.<br /><br /></p>
+	</span>
+</li>
+
+<li id="msgId_396292" class="">
+	<span class="leftCol">
+		Ausgangslage
+		<span class="score">&nbsp;</span>
+	</span>
+	<span class="rightCol">
+		
+		<p>Cornelius Gurlitt erbte von seinem Vater, dem Kunsthändler Hildebrand Gurlitt, über 1500 Werke von teils sehr bekannten Künstlern wie Otto Dix, Henri Matisse oder Marc Chagall. Da Hildebrand Gurlitt einer der umtriebigsten Händler des NS-Regimes war, stehen einige der Bilder unter Raubkunstverdacht. <br /><br />Cornelius Gurlitt, der die Bilder jahrzehntelang fernab der Öffentlichkeit gelagert hatte, verstarb am 6. Mai dieses Jahres. Er vermachte die Bildersammlung in seinem Testament dem Kunstmuseum Bern. Der deutsche Staat begrüsst laut Medienberichten die Übernahme durch Bern und will die Verantwortung für Herkunftsklärung der Bilder übernehmen. Hierfür habe er die Taskforce «Schwabinger Kunstfund» unter der Leitung der Juristin Ingeborg Berggreen-Merkel eingesetzt. <br /></p>
+	</span>
+</li>
+
+
+</ul><p class="publishedDate">Erstellt: 24.11.2014, 10:48 Uhr</p>
+			<div class="articleSharing articleSharing_bottom">
+				<div id="socal_bottom_line">
+					
+						<div class="facebook">
+							
+		<link rel="stylesheet" href="http://files.newsnetz.ch/css/thickbox.css" type="text/css" />
+		<div id="fb-root"></div> <!--  needed by facebook API -->
+		<span class="fb_appId" style="display:none;">185771024788811</span>
+		<span class="fb_fanPageId" style="display:none;">111236060676</span>
+		<span class="fb_lang" style="display:none;">de_DE</span>
+		<span class="fb_storyid" style="display:none;">27435237</span>
+		<span class="fb_like_button">
+		<iframe src="//www.facebook.com/plugins/like.php
+		?href=http%3A%2F%2Fwww.baz.ch%2Fkultur%2Fkunst%2FEs-kommt-keine-Raubkunst-ueber-die-Schwellen-des-Museums%2Fstory%2F27435237
+		&amp;locale=en_US
+		&amp;send=false
+		&amp;layout=box_count
+		&amp;width=55
+		&amp;show_faces=false
+		&amp;font
+		&amp;colorscheme=light
+		&amp;action=like
+		&amp;height=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:55px; height:90px;" allowTransparency="true"></iframe>
+	</span>
+		<div class="fb_like_button_mock" style="display:none;" src="http://files.newsnetz.ch/css/images/facebook_sml_de.png"/></div>
+		<span style="display:none;">
+			<span id="tr_fanBoxPromptTitle"></span>
+			<span id="tr_fbConnectError">tr_fbConnectError</span>
+		</span>
+		<script>
+		$(document).ready(function () {
+			 	if (!fb_sml.called) {  // there can be multiple like buttons on the page, make sure fb_sml is called only once
+			 		fb_sml.init(); 
+			 	}
+		}); 
+		</script>
+	
+						</div>
+
+						<div class="twitter">
+							<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="bazonline" data-url="http://www.bazonline.ch/27435237" data-counturl="http://www.baz.ch/kultur/kunst/Es-kommt-keine-Raubkunst-ueber-die-Schwellen-des-Museums/story/27435237" data-text="«Es kommt keine Raubkunst über die Schwellen des Museums»" data-lang="en">Tweet</a>
+							<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+						</div>
+						
+						<div class="email">
+							<span class="email_count">0</span>
+							<a href="#TB_inline?height=180&width=390&inlineId=emailForm&modal=false" class="thickbox">
+							</a>
+							
+							<div id="emailForm" style="display:none;">
+									
+        <form id="articleMailForm" style="" action="/notemail.html" method="POST">	
+		    <input type="hidden" name="mailType" value="art" />
+			<input type="hidden" name="id" value="27435237" />
+			<h4>Artikel als E-Mail versenden</h4>
+			<p><label for="rMail">Empfänger (E-Mail)*</label><input class="field" name="rMail" id="rMail"/></p>
+			<p><label for="sMail">Absender (E-mail)*</label><input class="field" name="sMail" id="sMail"/></p>
+			<input class="button" value="Senden" name="sendMail" type="submit" /></p>
+		</form>	
+		<div id="MailInfo"  style="display:none">
+			<p>Ihre E-Mail wurde abgeschickt.</p>
+			<p><a href="#" class="infoClose"></a></p>
+		</div>
+							</div>
+						</div>
+						
+						<div class="comments" style="display:none;">
+							 <span class="comments_container">
+							 <span class="comment_count">0</span>
+							  <a href="?comments=1">
+							  </a>
+							 </span>
+						</div> 
+				</div>
+			</div>
+		
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=3 | 2 werbeart=Billboard kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=4 -->
+			<div id="billboardAd">
+<!--JavaScript Tag with group ID // Tag for network 1084: Swiss Adserver - Newsnetz // Website: bazonline.ch // Page: Kultur // Placement: BAZ-Kultur-Billboard-(2x1) (3514483) // created at: Nov 15, 2011 9:28:44 AM-->  <script language="javascript">  <!--  
+if (window.adgroupid == undefined) {  	window.adgroupid = Math.round(Math.random() * 1000);  }  
+document.write('<scr'+'ipt language="javascript1.1" src="http://ad.dc2.adtech.de/addyn/3.0/1084/3514483/0/509/ADTECH;loc=100;target=_blank;key=kunst+key2+kultur+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');  //-->  </script><noscript><a href="http://ad.dc2.adtech.de/adlink/3.0/1084/3514483/0/509/ADTECH;loc=300;key=kunst+key2+kultur+key4" target="_blank"><img src="http://ad.dc2.adtech.de/adserv/3.0/1084/3514483/0/509/ADTECH;loc=300;key=kunst+key2+kultur+key4" border="0" width="2" height="1"></a></noscript>  <!-- End of JavaScript Tag -->
+</div>
+
+			<!-- werbung ende -->
+			</div> 
+	<!-- end art_singlePageRedesign.tmpl -->
+	
+	
+<div id="mainColRight">
+  <!-- Sidelinecachename mainColRight: sideline1_kulturkunst_story -->
+
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=5 | 9 werbeart=Rectangle kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=4 -->
+			<div id="colRightAd">
+<!--JavaScript Tag with group ID // Tag for network 1084: Swiss Adserver - Newsnetz // Website: bazonline.ch // Page: Kultur // Placement: BAZ-Kultur-Rectangle-(300x250) (3514476) // created at: Nov 15, 2011 9:28:44 AM-->  <script language="javascript">  <!--  
+if (window.adgroupid == undefined) {  	window.adgroupid = Math.round(Math.random() * 1000);  }  
+document.write('<scr'+'ipt language="javascript1.1" src="http://ad.dc2.adtech.de/addyn/3.0/1084/3514476/0/170/ADTECH;loc=100;target=_blank;key=kunst+key2+kultur+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');  //-->  </script><noscript><a href="http://ad.dc2.adtech.de/adlink/3.0/1084/3514476/0/170/ADTECH;loc=300;key=kunst+key2+kultur+key4" target="_blank"><img src="http://ad.dc2.adtech.de/adserv/3.0/1084/3514476/0/170/ADTECH;loc=300;key=kunst+key2+kultur+key4" border="0" width="300" height="250"></a></noscript>  <!-- End of JavaScript Tag -->
+
+
+</div>
+			<!-- werbung ende -->
+			
+	<!--<a href="#"><img src="/images/demo/button-post2.png" alt="" /></a>-->
+
+<div id="fb_activityFeed"><div class="teaserEditorialContent"><! -- Teaser 8244 -->
+    		<h4 class="title">Populär auf Facebook <span>– <a href='/23053197'>Privatsphäre</a></span></h4>
+    	<iframe class="fbActivityBox" src="http://www.facebook.com/plugins/activity.php?site=www.bazonline.ch&width=300&height=300&header=false&colorscheme=light&font=arial&recommendations=false&locale=de_DE&border_color=%23cccccc" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:300px;" allowTransparency="true"></iframe></div></div><div class="teaserEditorialContent"><! -- Teaser 34256 --><div class="boxExclusiv ad">
+    		<h4 class="title">Kino</h4>
+    	<span class="label"></span><ul><li class="fullPic">  	
+	    				<a  href="http://baz.ch/kino/filme/" title=""><img src="http://files.newsnetz.ch/teaser/4/7/teaser34256_element47870.jpg?time=1427157582" alt="" style="width: 300px;" /></a> <a  href="http://baz.ch/kino/filme/" title="">  <span class=""></span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 66220 -->
+    		<h4 class="title">Video</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="http://bazonline.ch/stichwort/serie/bazstandpunkte/s.html" title="Zu den Videos"><img src="http://files.newsnetz.ch/teaser/9/8/teaser66220_element98612.jpg?time=1427157582" alt="Zu den Videos" style="width: 300px;" /></a> <a  href="http://bazonline.ch/stichwort/serie/bazstandpunkte/s.html" title="Zu den Videos"> Die monatliche Diskussionsrunde der Basler Zeitung zu aktuellen Themen. <span class="iconDossier">Zu den Videos</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 71912 -->
+    		<h4 class="title">Der Mann mit dem Lötkolben</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/zuerich/bellevue/Der-Mann-mit-dem-Loetkolben/story/18670151" title="Der Mann mit dem Lötkolben"><img src="http://files.newsnetz.ch/teaser/1/0/teaser71912_element107384.jpg?time=1427157582" alt="Der Mann mit dem Lötkolben" style="width: 300px;" /></a> <a  href="/zuerich/bellevue/Der-Mann-mit-dem-Loetkolben/story/18670151" title="Der Mann mit dem Lötkolben"> Styro 2000 wird 50. Der DJ hat die Technokultur Zürichs geprägt wie kaum ein anderer. Eine Festrede. <span class="iconArticle">Der Mann mit dem Lötkolben</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 5703 -->
+    		<h4 class="title"><!-- Weiterbildung Dynamisch --></h4>
+    	<!-- Weiterbildungs-Teaser --><!-- counter=3 - /shared/werbung/weiterbildung/box_3.html -->
+				
+
+<div class="boxExclusiv ad">
+	<h4 class="title"><a title="" href="http://bazonline.ch/sales/publireportagen/Berufsbegleitendes-Studium-wird-immer-beliebter/story/29765837s">Berufsbegleitend zum Traumjob</a></h4>
+	<span class="label">Publireportage</span>
+	<ul>
+		<li class="fullPic">  	
+			<a href="http://bazonline.ch/sales/publireportagen/Berufsbegleitendes-Studium-wird-immer-beliebter/story/29765837s" title="Ausbildung & Weiterbildung"><img src="/shared/werbung/weiterbildung/pic_3.jpg" alt="Ausbildung & Weiterbildung" style="width: 284px;"></a>
+			<a href="http://bazonline.ch/sales/publireportagen/Berufsbegleitendes-Studium-wird-immer-beliebter/story/29765837s">Immer mehr Fachhochschul-Studierende wählen das berufsbegleitende Studium.</a>
+		</li>
+	</ul>
+
+</div>
+
+
+			</div><div class="teaserEditorialContent"><! -- Teaser 71828 -->
+    		<h4 class="title">Play/Listen</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/pop-und-jazz/PlayListen-Vermehret-das-Bruttoglobalglueck/story/20641037" title="Play/Listen: Vermehret das Bruttoglobalglück"><img src="http://files.newsnetz.ch/teaser/1/0/teaser71828_element107270.jpg?time=1427157582" alt="Play/Listen: Vermehret das Bruttoglobalglück" style="width: 300px;" /></a> <a  href="/kultur/pop-und-jazz/PlayListen-Vermehret-das-Bruttoglobalglueck/story/20641037" title="Play/Listen: Vermehret das Bruttoglobalglück"> Die UNO will die Welt glücklicher machen. Mit Musik von David Guetta. Das sind die falschen Songs. Wir suchen bessere. <span class="iconArticle">Play/Listen: Vermehret das Bruttoglobalglück</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 71652 -->
+    		<h4 class="title">«Der Zeitgeist ist heute grün» </h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/-Der-Zeitgeist-ist-heute-gruen-und-der-ist-in-mir-auch-am-Werk-/story/31615222" title="«Der Zeitgeist ist heute grün» "><img src="http://files.newsnetz.ch/teaser/1/0/teaser71652_element107036.jpg?time=1427157582" alt="«Der Zeitgeist ist heute grün» " style="width: 300px;" /></a> <a  href="/kultur/-Der-Zeitgeist-ist-heute-gruen-und-der-ist-in-mir-auch-am-Werk-/story/31615222" title="«Der Zeitgeist ist heute grün» "> Die Kategorie der Nachhaltigkeit sei in Mode, sagt Philosoph Peter Sloterdijk. <span class="iconArticle">«Der Zeitgeist ist heute grün» </span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 27260 --><div class="boxExclusiv ad">
+    		<h4 class="title"><a href="/vergleichsdienst/handyabo/" title="Abopreise vergleichen">Abopreise vergleichen</a></h4>
+    	<span class="label">Vergleichsdienst</span><ul><li class="fullPic">  	
+	    				<a  href="/vergleichsdienst/handyabo/" title=""><img src="http://files.newsnetz.ch/teaser/3/7/teaser27260_element37620.jpg?time=1427157582" alt="" style="width: 300px;" /></a> <a  href="/vergleichsdienst/handyabo/" title=""> Der Handy-Abovergleich mit Ihrem gewünschten Mobiltelefon und Prepaid-Angeboten. <span class=""></span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 71466 -->
+    		<h4 class="title"><!--PV_Kunstwerk--></h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="http://blog.bazonline.ch/privateview/index.php/34623/so-erkennen-sie-ein-gutes-kunstwerk/" title="So erkennen Sie ein gutes Kunstwerk"><img src="http://files.newsnetz.ch/teaser/1/0/teaser71466_element106758.jpg?time=1427157582" alt="So erkennen Sie ein gutes Kunstwerk" style="width: 300px;" /></a> <a  href="http://blog.bazonline.ch/privateview/index.php/34623/so-erkennen-sie-ein-gutes-kunstwerk/" title="So erkennen Sie ein gutes Kunstwerk"> Wie erkennt man ein gutes Kunstwerk? Einem schlafenden Mädchen verdanken wir diese Checkliste. <span class="iconArticle">So erkennen Sie ein gutes Kunstwerk</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 71324 -->
+    		<h4 class="title">Klassiker der Woche</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/klassik/Klassiker-der-Woche-Lissners-Blamage/story/16761977" title="Klassiker der Woche: Lissners Blamage"><img src="http://files.newsnetz.ch/teaser/1/0/teaser71324_element106554.jpg?time=1427157582" alt="Klassiker der Woche: Lissners Blamage" style="width: 300px;" /></a> <a  href="/kultur/klassik/Klassiker-der-Woche-Lissners-Blamage/story/16761977" title="Klassiker der Woche: Lissners Blamage"> Fünf Arien wurden dem Intendanten Stéphane Lissner vorgespielt. Er blamierte sich.  <span class="iconArticle">Klassiker der Woche: Lissners Blamage</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 21781 --><div class="boxExclusiv ad">
+    		<h4 class="title">Kostenlose Ebooks <!-- BAZ--></h4>
+    	<span class="label">Promotion</span><ul><li class="iconNone"><a  href="http://weiterbildung.bazonline.ch/channel/ebooks.asp" title=""> <iframe scrolling="no" frameborder="0" src="http://files.bookboon.com/bazonline.html" style="height:134px"></iframe>
+Laden Sie in unserem Weiterbildungs-Channel kostenlos Ebooks herunter. <span class=""></span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 71232 -->
+    		<h4 class="title">Der Teufel im System</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/diverses/Der-Teufel-im-System/story/18491290" title="Der Teufel im System"><img src="http://files.newsnetz.ch/teaser/1/0/teaser71232_element106422.jpg?time=1427157582" alt="Der Teufel im System" style="width: 300px;" /></a> <a  href="/kultur/diverses/Der-Teufel-im-System/story/18491290" title="Der Teufel im System"> Kurt Imhof war ein echter Intellektueller. Mit der Medienbranche lag er im Clinch. Ein Nachruf. <span class="iconArticle">Der Teufel im System</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 70840 -->
+    		<h4 class="title">Das selbst gebastelte Paradies</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/fernsehen/Das-selbst-gebastelte-Paradies/story/15403525" title="Das selbst gebastelte Paradies"><img src="http://files.newsnetz.ch/teaser/1/0/teaser70840_element105872.jpg?time=1427157582" alt="Das selbst gebastelte Paradies" style="width: 300px;" /></a> <a  href="/kultur/fernsehen/Das-selbst-gebastelte-Paradies/story/15403525" title="Das selbst gebastelte Paradies"> In der Sendung «Newtopia» auf Sat 1 sollen sich 15 Teilnehmer eine «schöne neue Welt» aufbauen.  <span class="iconArticle">Das selbst gebastelte Paradies</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 64131 --></div><div class="teaserEditorialContent"><! -- Teaser 70728 -->
+    		<h4 class="title">Überraschungscoup des Grosskotzes</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/pop-und-jazz/Ueberraschungscoup-des-Grosskotzes/story/28641452" title="Überraschungscoup des Grosskotzes"><img src="http://files.newsnetz.ch/teaser/1/0/teaser70728_element105720.jpg?time=1427157582" alt="Überraschungscoup des Grosskotzes" style="width: 300px;" /></a> <a  href="/kultur/pop-und-jazz/Ueberraschungscoup-des-Grosskotzes/story/28641452" title="Überraschungscoup des Grosskotzes"> Das neue Album des kanadischen Rapsängers Drake ist aus einem hypnotischen Guss. <span class="iconArticle">Überraschungscoup des Grosskotzes</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 70702 -->
+    		<h4 class="title">Elegant durch die Fabriken</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/ausstellungen/Elegant-durch-die-Fabriken/story/11234548" title="Elegant durch die Fabriken"><img src="http://files.newsnetz.ch/teaser/1/0/teaser70702_element105682.jpg?time=1427157582" alt="Elegant durch die Fabriken" style="width: 300px;" /></a> <a  href="/kultur/ausstellungen/Elegant-durch-die-Fabriken/story/11234548" title="Elegant durch die Fabriken"> Der Schweizer Fotoexperte Urs Stahel zeigt in Bologna den Münchner Fotografen Emil Otto Hoppé. <span class="iconArticle">Elegant durch die Fabriken</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 34254 --><div class="boxExclusiv ad">
+    		<h4 class="title">Agenda</h4>
+    	<span class="label"></span><ul><li class="fullPic">  	
+	    				<a  href="http://baz.ch/agenda/" title=""><img src="http://files.newsnetz.ch/teaser/4/7/teaser34254_element47866.jpg?time=1427157582" alt="" style="width: 300px;" /></a> <a  href="http://baz.ch/agenda/" title=""> </a></li><li class="iconNone"> </li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 70536 -->
+    		<h4 class="title">Erotikfilm</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/kino/Die-Jungfrau-und-der-Grobian/story/14945514" title="Die Jungfrau und der traurige Grobian"><img src="http://files.newsnetz.ch/teaser/1/0/teaser70536_element105446.jpg?time=1427157582" alt="Die Jungfrau und der traurige Grobian" style="width: 300px;" /></a> <a  href="/kultur/kino/Die-Jungfrau-und-der-Grobian/story/14945514" title="Die Jungfrau und der traurige Grobian"> Was taugt die Verfilmung von «Fifty Shades of Grey»? Die Kritik.  <span class="iconArticle">Die Jungfrau und der traurige Grobian</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 70478 -->
+    		<h4 class="title">Sport im TV</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/fernsehen/Wia-di-gsengte-Sau/story/20497102" title="«Wia di gsengte Sau?!»"><img src="http://files.newsnetz.ch/teaser/1/0/teaser70478_element105364.jpg?time=1427157582" alt="«Wia di gsengte Sau?!»" style="width: 300px;" /></a> <a  href="/kultur/fernsehen/Wia-di-gsengte-Sau/story/20497102" title="«Wia di gsengte Sau?!»"> Warum es sich lohnt, während der Ski-WM zu ORF umzuschalten.  <span class="iconArticle">«Wia di gsengte Sau?!»</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 51553 --><div class="boxExclusiv ad">
+    		<h4 class="title"><a href="http://verlag.baz.ch/abo/inland/#bazkompakt" title="Abonnement">Abonnement<!--BaZ Kompakt--></a></h4>
+    	<span class="label">Service</span><ul><li class="fullPic">  	
+	    				<a  href="http://verlag.baz.ch/abo/inland/#bazkompakt" title=""><img src="http://files.newsnetz.ch/teaser/7/4/teaser51553_element74843.jpg?time=1427157582" alt="" style="width: 300px;" /></a> <a  href="http://verlag.baz.ch/abo/inland/#bazkompakt" title="">  <span class=""></span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 70210 -->
+    		<h4 class="title">Berlinale 2015</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/kino/ereignis-i/berlinale-2015/s.html" title="Berlinale 2015"><img src="http://files.newsnetz.ch/teaser/1/0/teaser70210_element105002.jpg?time=1427157582" alt="Berlinale 2015" style="width: 300px;" /></a> <a  href="/kultur/kino/ereignis-i/berlinale-2015/s.html" title="Berlinale 2015"> Die 65. Filmfestspiele Berlin sind schön deutschlastig programmiert. Aber auch zwei Schweizer Filme sind zu sehen. <span class="iconDossier">Berlinale 2015</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 70126 -->
+    		<h4 class="title">Ist eines der grössten Literaturrätsel gelöst?</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/buecher/Ist-eines-der-groessten-Literaturraetsel-geloest/story/30129096" title="Ist eines der grössten Literaturrätsel gelöst?"><img src="http://files.newsnetz.ch/teaser/1/0/teaser70126_element104874.jpg?time=1427157582" alt="Ist eines der grössten Literaturrätsel gelöst?" style="width: 300px;" /></a> <a  href="/kultur/buecher/Ist-eines-der-groessten-Literaturraetsel-geloest/story/30129096" title="Ist eines der grössten Literaturrätsel gelöst?"> Ein amerikanischer Experte glaubt, hinter das Geheimnis der seltsamen Widmung von Shakespeares Sonetten gekommen zu sein. <span class="iconArticle">Ist eines der grössten Literaturrätsel gelöst?</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 53983 --></div><div class="teaserEditorialContent"><! -- Teaser 70042 -->
+    		<h4 class="title">Unsere Frau für Wien</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/fernsehen/Unsere-Frau-fuer-Wien/story/31936586" title="Unsere Frau für Wien"><img src="http://files.newsnetz.ch/teaser/1/0/teaser70042_element104742.jpg?time=1427157582" alt="Unsere Frau für Wien" style="width: 300px;" /></a> <a  href="/kultur/fernsehen/Unsere-Frau-fuer-Wien/story/31936586" title="Unsere Frau für Wien"> Mélanie René am Eurovision Song Contest: Das Protokoll der Entscheidungsshow mit Videos und Kommentaren.  <span class="iconArticle">Unsere Frau für Wien</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 69453 -->
+    		<h4 class="title">Oscars</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/kino/Da-lacht-Hollywood/story/14164929" title="Da lacht Hollywood"><img src="http://files.newsnetz.ch/teaser/1/0/teaser69453_element103845.jpg?time=1427157582" alt="Da lacht Hollywood" style="width: 300px;" /></a> <a  href="/kultur/kino/Da-lacht-Hollywood/story/14164929" title="Da lacht Hollywood"> Die Oscar-Nominierungen sind bekannt. «Birdman» ist Favorit.  <span class="iconArticle">Da lacht Hollywood</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 69373 -->
+    		<h4 class="title"><!--PV_Hollywoodgebiss--></h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="http://blog.bazonline.ch/privateview/index.php/34356/kackstraction-bowies-zaehne/" title="Zum Teufel mit dem Hollywoodgebiss!"><img src="http://files.newsnetz.ch/teaser/1/0/teaser69373_element103737.jpg?time=1427157582" alt="Zum Teufel mit dem Hollywoodgebiss!" style="width: 300px;" /></a> <a  href="http://blog.bazonline.ch/privateview/index.php/34356/kackstraction-bowies-zaehne/" title="Zum Teufel mit dem Hollywoodgebiss!"> Nach skurrilen Kunsttrends wie «Kackstraction» und «Fairtigue» wirds Zeit: Zum Teufel mit dem Hollywoodgebiss! <span class="iconArticle">Zum Teufel mit dem Hollywoodgebiss!</span></a></li></ul><!--  <br class="clear" /> --></div></div><div class="teaserEditorialContent"><! -- Teaser 68942 -->
+    		<h4 class="title">Künstliche Intelligenz</h4>
+    	<div class="boxExclusiv"><ul><li class="fullPic">  	
+	    				<a  href="/kultur/diverses/Wer-zwitschert-da/story/31653959" title="Wer zwitschert da?"><img src="http://files.newsnetz.ch/teaser/1/0/teaser68942_element103066.jpg?time=1427157582" alt="Wer zwitschert da?" style="width: 300px;" /></a> <a  href="/kultur/diverses/Wer-zwitschert-da/story/31653959" title="Wer zwitschert da?"> Auf Twitter beteiligen sich immer häufiger Software-Programme an den Gesprächen.  <span class="iconArticle">Wer zwitschert da?</span></a></li></ul><!--  <br class="clear" /> --></div></div>
+</div>
+	
+	<div class="clear"><br /></div>
+</div>
+
+				
+					
+			
+				<!-- gringo -->
+
+<div id="footerBottom">
+		<div class="clear"><br/></div>
+    	<ul>
+    		<li class="label">Ressorts:</li>
+
+        <li><a title="Basel" href="http://bazonline.ch/basel/">Basel</a> &middot; 
+      	<a title="Schweiz" href="http://bazonline.ch/schweiz/">Schweiz</a> &middot; 
+      	<a title="Ausland" href="http://bazonline.ch/ausland/">Ausland</a> &middot; 
+      	<a title="Wirtschaft" href="http://bazonline.ch/wirtschaft/">Wirtschaft</a> &middot; 
+				<a title="Börse" href="http://boerse.bazonline.ch/">Börse</a> &middot; 
+        <a title="Sport" href="http://bazonline.ch/sport/">Sport</a> &middot; 
+				<a title="Kultur" href="http://bazonline.ch/kultur/">Kultur</a> &middot; 
+				<a title="Panorama" href="http://bazonline.ch/panorama/">Panorama</a> &middot; 	
+				<a title="Wissen" href="http://bazonline.ch/wissen/">Wissen</a> &middot; 
+				<a title="Leben" href="http://bazonline.ch/leben/">Leben</a> &middot; 
+				<a title="Digital" href="http://bazonline.ch/digital/">Digital</a> &middot; 
+				<a title="Auto" href="http://bazonline.ch/auto/">Auto</a>
+        </li>
+    	</ul>
+    	<ul>
+	    <li class="label">Marktplatz:</li>
+			<li>
+			<a href="http://verlag.baz.ch/stellefant/" target="_blank" title="Stellefant">Stellefant</a>  &middot;
+		    <a href="/marktplatz/stellen/" title="">Jobs</a>  &middot;
+		    <a href="http://www.alpha.ch/?utm_source=BAZ_NN&utm_medium=MPS&utm_term=d&utm_content=Txt&utm_campaign=Partner&lang=de" title="">Kaderstellen</a>  &middot;
+		    <a href="http://verlag.baz.ch/immobilien/" title="">Immobilien</a>  &middot;
+			<a href="http://www.car4you.ch/external/ch/baz/index.cfm?origID=465" title="">Fahrzeuge</a> &middot;
+		    <a href="http://verlag.baz.ch/bazmarkt/" title="">Kleinanzeigen</a> &middot;
+			<a href="http://weiterbildung.bazonline.ch/" title="Weiterbildung">Weiterbildung</a> &middot;
+		<a href="http://bazonline.ch/marktplatz/kooperationen/" title="Kooperationen">Kooperationen</a> &middot;
+		<a href="http://www.bazmediashop.ch/" title="baz.mediashop">baz.mediashop</a>
+
+		
+			</li>
+    	</ul>
+    	<ul>
+    		<li class="label">Dienste:</li>
+        <li>
+        <a href="http://bazonline.ch/service/suche/" title="Suche">Suche</a> &middot;
+    		<a href="http://bazonline.ch/dienste/rss/story/21856776" title="RSS">RSS</a> &middot;
+    		<!--<li><a href="/dienste/sms/" title="SMS">SMS</a></li>-->
+    		<a href="http://bazonline.ch/service/unsere-dienste/Newsletter/story/29059958" title="Newsletter">Newsletter</a>
+			</li>
+    	</ul>
+    	<!--
+    	<ul>
+    		<li class="label">Andere Formate:</li>
+            <li><a title="Suche" href="#">iPhone</a> &middot; 
+				<a title="RSS" href="#">Mobile Version</a> &middot;  
+				<a target="_blank" title="ePaper" href="http://epaper2.tagesanzeiger.ch/ee/tages/default.php?pSetup=tages">ePaper</a> &middot; 
+				<a title="RSS" href="/dienste/RSS/story/21856776">RSS</a> &middot;  
+				<a title="RSS" href="#">Twitter</a>
+
+            </li>
+    	</ul>
+    	-->
+    	<ul>
+    		<li class="label">Basler Zeitung</li>
+		 <li>   <a href="http://verlag.baz.ch/abo/" title="">Aboservice</a> &middot;
+    		    
+		    <a href="http://verlag.baz.ch/epaper/" title="">E-Paper</a> &middot;
+		    <a href="http://verlag.baz.ch/archiv/" title="">Archiv</a> &middot;
+		    <a href="http://verlag.baz.ch/leserbrief/" title="">Leserbriefe</a> &middot;
+		    <a href="http://verlag.baz.ch/inserieren/" title="">Inserieren</a> &middot;
+		    <a href="http://verlag.baz.ch/leserreisen/" title="">Leserreisen</a>
+				<!--	<a href="http://www.bazferien.ch/" title="">BaZferien</a></li>-->
+		</li>
+    		</ul>    		
+    		<ul>
+    		<li class="label">baz.ch</li>
+		    <li><a href="http://verlag.baz.ch/inserieren/" title="">Inserieren</a> &middot;
+		    <!--<li><a href="#" title="">Mediadaten</a></li>
+		    <li><a href="#" title="">Kontakt</a></li>-->
+		    <a href="http://verlag.baz.ch/impressum/" title="">Impressum</a> &middot;
+		    <a href="http://verlag.baz.ch/impressum/disclaimer.cfm" title="">Disclaimer</a></li>
+    		</ul>
+      <div class="clear"><br/></div>
+    </div>				
+			</div>
+			
+			<div id="mainContainerBubble"></div>
+			
+			
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=6 | 3 werbeart=Floating kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=4 -->
+			<div id="floatingAd">
+<!--JavaScript Tag with group ID // Tag for network 1084: Swiss Adserver - Newsnetz // Website: bazonline.ch // Page: Kultur // Placement: BAZ-Kultur-Floating-(1x1) (3514518) // created at: Nov 15, 2011 9:28:44 AM-->  <script language="javascript">  <!--  
+if (window.adgroupid == undefined) {  	window.adgroupid = Math.round(Math.random() * 1000);  }  
+document.write('<scr'+'ipt language="javascript1.1" src="http://ad.dc2.adtech.de/addyn/3.0/1084/3514518/0/16/ADTECH;loc=100;target=_blank;key=kunst+key2+kultur+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');  //-->  </script><noscript><a href="http://ad.dc2.adtech.de/adlink/3.0/1084/3514518/0/16/ADTECH;loc=300;key=kunst+key2+kultur+key4" target="_blank"><img src="http://ad.dc2.adtech.de/adserv/3.0/1084/3514518/0/16/ADTECH;loc=300;key=kunst+key2+kultur+key4" border="0" width="1" height="1"></a></noscript>  <!-- End of JavaScript Tag -->
+</div>
+
+			<!-- werbung ende -->
+			
+
+		</div>
+		
+ 
+ 
+
+		<script type="text/javascript">
+			var mmKey1 = "kunst";
+			var mmKey2 = "";
+			var mmKey3 = "kultur";
+			var mmKey4 = "";
+		</script>
+			
+			<!-- werbung start type=12 | 19 werbeart=Skyscraper kanal=1112 kanalname=kultur key=kunst key 3=kultur cust=4 -->
+			<div id="sidebarSky">
+<!--JavaScript Tag with group ID // Tag for network 1084: Swiss Adserver - Newsnetz // Website: bazonline.ch // Page: Kultur // Placement: BAZ-Kultur-Skyscraper-(160x600) (3514508) // created at: Nov 15, 2011 9:28:44 AM-->  <script language="javascript">  <!--  
+if (window.adgroupid == undefined) {  	window.adgroupid = Math.round(Math.random() * 1000);  }  
+document.write('<scr'+'ipt language="javascript1.1" src="http://ad.dc2.adtech.de/addyn/3.0/1084/3514508/0/154/ADTECH;loc=100;target=_blank;key=kunst+key2+kultur+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');  //-->  </script><noscript><a href="http://ad.dc2.adtech.de/adlink/3.0/1084/3514508/0/154/ADTECH;loc=300;key=kunst+key2+kultur+key4" target="_blank"><img src="http://ad.dc2.adtech.de/adserv/3.0/1084/3514508/0/154/ADTECH;loc=300;key=kunst+key2+kultur+key4" border="0" width="160" height="600"></a></noscript>  <!-- End of JavaScript Tag -->
+
+
+</div>
+			<!-- werbung ende -->
+			
+</div>
+
+</body>
+</html>

@@ -1,0 +1,2183 @@
+HTTP/1.1 200 OK
+Server: nginx/1.0.5
+Content-Type: text/html; charset=utf-8
+X-Powered-By: PHP/5.3.6-13ubuntu3.7
+Set-Cookie: jSID=mn1rshnavt9n7c2e2q4db1pcr0; expires=Tue, 28-Apr-2015 21:13:05 GMT; path=/; domain=.thejournal.ie
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: notice_cookies=1; expires=Wed, 20-Apr-2016 21:13:05 GMT; path=/; domain=.thejournal.ie
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Varnish-Cacheable: No (Not Cacheable)
+Content-Length: 24144
+Date: Tue, 21 Apr 2015 21:13:42 GMT
+X-Varnish: 1809603364
+Age: 0
+Via: 1.1 varnish
+Connection: close
+X-Varnish-Cache-Result: Miss
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  class="" style="" lang="en" xml:lang="en" xmlns:og="http://opengraphprotocol.org/schema/">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Germanwings: One pilot &#8216;locked out&#8217; of cockpit before crash</title>
+        <meta name="author" content="Dan MacGuill"/>        <link href="http://static.jrnl.ie/desktop/i/thejournal/favicon.ico" type="image/x-icon" rel="icon" />
+        <link href="http://static.jrnl.ie/desktop/i/thejournal/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+    	<link href="http://static.jrnl.ie/desktop/i/thejournal/apple-touch-icon.png" rel="apple-touch-icon" />
+                    <meta property="al:ios" name="al:ios" />            <meta property="al:ios:url" name="al:ios:url" content="jrnl://article/2013689" />
+            <meta property="al:ios:app_name" name="al:ios:app_name" content="TheJournal.ie" />
+            <meta property="al:ios:app_store_id" name="al:ios:app_store_id" content="409359491" />
+                        <meta property="al:android" name="al:android" />            <meta property="al:android:url" name="al:android:url" content="jrnl://article/2013689?source=fbal" />
+            <meta property="al:android:app_name" name="al:android:app_name" content="TheJournal.ie" />
+            <meta property="al:android:package" name="al:android:package" content="com.distilledmedia.thejournal" />
+            <script type="text/javascript">
+    document.documentElement.className+=' js';
+    var ajaxurl = 'http://www.thejournal.ie/ajax.php';
+    var stats_url = 'http://www.thejournal.ie/statsscript.php';
+    var current_url = 'www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/?utm_source=twitter_self';
+    var load_time = '2015-04-21 22:13:05';
+    var current_post_id = 2013689;
+    var current_post_permalink = 'http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/';
+    var stats_key = "d909c30c6a0e265d025b4ad7b7a6f080";
+    var wp_logged_in = false;
+    var current_title = "Germanwings: One pilot &#8216;locked out&#8217; of cockpit before crash";
+    
+    window.jrnl_social_connected = false;
+
+    var _sf_startpt=(new Date()).getTime()
+    
+    var app_cookie_domain = '.thejournal.ie';
+    var session_domain = "http://www.thejournal.ie";
+    var root_domain = "thejournal.ie";
+</script>
+<script type="text/javascript">
+    document.domain = "thejournal.ie";    
+    
+    window.on_front = false;
+                window.authenticator = '';
+    window.login_expires = 1587503585;
+    window.users_token = '';
+    
+                window.fbAsyncInit = function() {
+                FB.init({appId: "116141121768215", status: true, cookie: true,
+                xfbml: true});
+                FB.Event.subscribe('edge.create', function(response){
+                    // Log like
+                    socialReader.like(response);
+                });
+                                        if(typeof sync_with_server != 'undefined')
+                        {
+                            sync_with_server();
+                        }
+                                    };
+            (function(d){
+                var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+                js = d.createElement('script'); js.id = id; js.async = true;
+                js.src = "//connect.facebook.net/en_US/all.js";
+                d.getElementsByTagName('head')[0].appendChild(js);
+            }(document));
+                window.email_permission = false;
+        window.share_permission = false;
+            var jrnl_social_window = null;
+        function jrnl_social_login(service, submit_comment, callback) {
+            var link = '';
+            if(service == 'twitter')
+            {
+                link = "http://www.thejournal.ie/utils/login/twitter/?";
+                if(submit_comment)
+                {
+                    link = link + "&comment=1";
+                }
+                else if(callback
+                    && callback.length > 0
+                )
+                {
+                    link = link + "?cb=" + callback;
+                }
+            }
+            else if(service == 'facebook')
+            {
+                // Facebook link is a bit messier - need to bounce through popup
+                link = "http://www.thejournal.ie/utils/login/facebook/?url=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Foauth%3Fdisplay%3Dpopup%26client_id%3D116141121768215%26scope%3D" + get_fb_perm_string() + "%26redirect_uri%3Dhttp%3A%2F%2Fwww.thejournal.ie%2Futils%2Flogin%2Ffacebook%2F";
+                // Are we submitting after log-in?
+                if(submit_comment)
+                {
+                    link = link + "?comment=1";
+                }
+                else if(callback
+                    && callback.length > 0
+                )
+                {
+                    link = link + "?cb=" + callback;
+                }
+            }
+
+            if ( jrnl_social_window != null && !jrnl_social_window.closed )
+                jrnl_social_window.close();
+
+            jrnl_social_window = window.open(
+                link,
+                'jrnl_social_window',
+                'status,scrollbars,location,resizable,width=600,height=350'
+            )
+            jrnl_social_window.focus();
+
+            return false;
+        }
+</script>        <link rel="alternate" type="application/rss+xml" title="TheJournal.ie &raquo; Feed" href="/feed/" />
+        <script>
+            var _pool = _pool || [];
+        </script>
+
+        
+        <!-- Begin comScore Tag -->
+        <script>
+          var _comscore = _comscore || [];
+          _comscore.push({ c1: "2", c2: "6770180" });
+          (function() {
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            el.parentNode.insertBefore(s, el);
+          })();
+        </script>
+        <!-- End comScore Tag -->
+        
+        
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script>
+            window.jQuery || document.write('<script src="http://static.jrnl.ie/desktop/js/jquery-1.7.2.min.js"><\/script>')
+        </script>
+        <script src="//pool.distilled.ie/js/lscache.min.js"></script>
+
+        <!-- End comScore Tag -->
+        
+        <script type="text/javascript" src="http://static.jrnl.ie/cross/js/nightMode.1.0.js"></script>
+
+                <script type='text/javascript'>
+                    var is_box_window = false;
+                    var is_box_name = '';
+                </script>
+            
+                        <script type="text/javascript" src="//b0.thejournal.ie/merge.php?js=~underscore.min~json2_jquery.easytabs_jquery.lazyload~init~ad_retargeting~quiz~inline_adverts~survey~auth~jquery.cookie~app-download-prompt-v3~read_next~googleSr&v=25032015&view_type=desktop"></script>
+                    <script language="javascript">
+            
+                        <!--
+                        
+                        // Google adsense callback. Add to sr store
+                        function google_ad_request_done(google_ads) 
+                        {
+                            googleSr.acceptGoogleAds(google_ads);
+                        }
+                                                google_ad_client = "pub-8244428851749358";
+                        google_ad_channel = "6825661884";
+                        google_ad_output = 'js';
+                        google_ad_type = 'text';
+                        google_max_num_ads = googleSr.getMaxNumberOfAds();
+
+
+                     //-->
+
+                </script>
+                <script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+                        <link rel='shortlink' href='http://jrnl.ie/2013689' />
+                    <link rel="stylesheet" type="text/css" href="//b0.thejournal.ie/merge.php?css=~main~nightmode~quiz~inline_adverts~print&v=25032015&view_type=desktop" />
+        <meta name="description" content="&#8220;You can hear he is trying to smash the door down.&#8221;" />
+        <meta name="keywords" content="Airbus A320, Barcelona, Dusseldorf, flight 9525, Germanwings, lufthansa" />
+        <meta name="news_keywords" content="Airbus A320, Barcelona, Dusseldorf, flight 9525, Germanwings, lufthansa" />
+<link rel="alternate" href="android-app://com.distilledmedia.thejournal/jrnl_ie/article/2013689" />
+<link rel="canonical" href="http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/" /><link href="" rel="author" /><meta name="fb:app_id" content="116141121768215" />
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Germanwings: One pilot &#8216;locked out&#8217; of cockpit before crash"/>
+<meta property="og:description" content="&#8220;You can hear he is trying to smash the door down.&#8221;"/>
+<meta property="og:url" content="http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/"/>
+<meta property="og:image" content="http://c1.thejournal.ie/media/2015/03/spain-france-plane-crash-7-296x203.jpg"/>
+<meta property="og:site_name" content="TheJournal.ie"/>
+<meta property="article:author" content="http://www.thejournal.ie/author/dan-macguill/"/>
+<meta property="article:post_date" content="2015-03-26T09:45:11+0000"/>
+<meta property="article:post_modified" content="2015-03-26T09:49:08+0000"/>
+<meta name="twitter:card" content= "summary" >
+<meta name="twitter:title" content= "Germanwings: One pilot &amp;#8216;locked out&amp;#8217; of cockpit before crash" >
+<meta name="twitter:url" content= "http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/" >
+<meta name="twitter:description" content= "&amp;#8220;You can hear he is trying to smash the door down.&amp;#8221;" >
+<meta name="twitter:site" content= "@thejournal_ie" >
+
+<meta name="twitter:image:src" content= "http://c1.thejournal.ie/media/2015/03/spain-france-plane-crash-7-296x203.jpg" >
+
+<meta name="twitter:creator" content= "@danmacg" >
+
+<meta name="twitter:app:name:iphone" content= "TheJournal.ie" >
+<meta name="twitter:app:name:ipad" content= "TheJournal.ie" >
+<meta name="twitter:app:name:googleplay" content= "TheJournal.ie" >
+<meta name="twitter:app:id:iphone" content= "409359491" >
+<meta name="twitter:app:id:ipad" content= "409359491" >
+<meta name="twitter:app:id:googleplay" content= "com.distilledmedia.thejournal" >
+
+<meta name="twitter:app:url:iphone" content= "http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/://fromapp/2013689/?app=Twitter&amp;callback=twitter%3A%2F%2F" >
+<meta name="twitter:app:url:ipad" content= "http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/://fromapp/2013689/?app=Twitter&amp;callback=twitter%3A%2F%2F" >
+<meta name="twitter:app:url:googleplay" content= "http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/://article/2013689/?app=twitter" >
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/5512429/J_Half_Page', [[2,1],[300,600],[160,600]], 'div-gpt-ad-1365092406213-0').addService(googletag.pubads());
+googletag.defineSlot('/5512429/J_MPU', [[300,250],[300,600]], 'div-gpt-ad-1365092406213-1').addService(googletag.pubads());
+googletag.defineSlot('/5512429/J_Riverblock', [[2,1],[630,172]], 'div-gpt-ad-1365092406213-2').addService(googletag.pubads());
+googletag.defineSlot('/5512429/J_Leaderboard', [[2,1],[728,90],[970,250],[950,260],[970,260],[920,250],[990,255]], 'div-gpt-ad-1365092406213-3').addService(googletag.pubads());
+googletag.defineSlot('/5512429/J_Sponsored_Article_Logo', [[2,1],[140,80],[180,90]], 'div-gpt-ad-1365092406213-4').addService(googletag.pubads());
+googletag.defineSlot('/5512429/J_Sponsored_Article_Tagline', [630,60], 'div-gpt-ad-1365092406213-5').addService(googletag.pubads());
+googletag.pubads().setTargeting('sitemode', 'default');
+
+googletag.pubads().setTargeting('site', 'thejournal');
+googletag.pubads().setTargeting('section', "article");
+googletag.pubads().setTargeting('tags', ["airbus-a320","barcelona","dusseldorf","flight-9525","germanwings","lufthansa","international"]);
+googletag.pubads().setTargeting('tiling', '6');
+googletag.pubads().setTargeting('pageid', 'id-2013689');
+    
+if ($("#js-retargeting").length > 0)
+{
+    try
+    {
+        var retargeting = new RetargetingClient();
+        retargeting.trackView();
+    }
+    catch (e)
+    {
+        console.error(e.message);
+        console.log(e);
+    }
+}
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().disableInitialLoad();
+
+googletag.enableServices();
+
+});
+
+
+dfpLoadCheck('div-gpt-ad-1365092406213-5');
+
+</script>
+        <!-- IE9 Pinning -->
+        <meta name="application-name" content="TheJournal" />
+        <meta name="msapplication-tooltip" content="TheJournal.ie - Read, Share and Shape the news" />
+        <meta name="msapplication-starturl" content="http://www.thejournal.ie/" />
+        <meta name="msapplication-task" content="name=The 9 at 9;action-uri=http://www.thejournal.ie/9at9;icon-uri=http://static.jrnl.ie/desktop/i/thejournal/favicon.ico" />
+        <meta name="msapplication-task" content="name=The42;action-uri=http://www.the42.ie/;icon-uri=http://static.jrnl.ie/desktop/i/the42/favicon.ico" />
+        <meta name="msapplication-task" content="name=Business Etc;action-uri=http://businessetc.thejournal.ie/;icon-uri=http://static.jrnl.ie/desktop/i/businessetc/favicon.ico" />
+        <meta name="msapplication-task" content="name=DailyEdge.ie;action-uri=http://thedailyedge.thejournal.ie/;icon-uri=http://static.jrnl.ie/desktop/i/thedailyedge/favicon.ico" />
+        <meta name="msapplication-task" content="name=Irish News;action-uri=http://www.thejournal.ie/irish/;icon-uri=http://static.jrnl.ie/desktop/i/thejournal/favicon.ico" />
+        <!-- /IE9 Pinning -->
+    </head>
+    <!--[if IE 6]><body class="ie ie6 ie-lt8"><![endif]--> 
+    <!--[if IE 7]><body class="ie ie7 ie-lt8"><![endif]-->
+    <!--[if IE 8]><body class="ie ie8"><![endif]-->
+    <!--[if gte IE 9]><body class="ie9up"><![endif]-->
+    <!--[if !IE]><!-->
+    <body class="nie">
+    <!--<![endif]-->
+            <div id="fb-root"></div>
+        <div id="nightmode-switch" class="nightmode-toggle">
+    <img src="http://static.jrnl.ie/desktop/i/nightmode/moon.png" width="40" height="40"/>
+</div>
+<div id="notify-container">
+    <div>
+        <span class="notify-close icon icon16 icon16CloseX">
+            <a title="dismiss this notification">&nbsp;</a>
+        </span>
+        <span class="notify-text">
+            TheJournal.ie uses cookies. By continuing to browse this site you are agreeing to our use of cookies. <a href="/cookies-policy/" rel="external" target="_blank">Click here to find out more »</a>        </span>
+    </div>
+</div>
+
+<center class="header_leaderboard">
+    <div style="width:1px; float:left; display:inline; height:11px">
+    </div>
+    
+<div id='div-gpt-ad-1365092406213-3'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-3'); });
+</script>
+</div>
+
+</center>
+
+
+        <div class="masthead content">
+            <ul class="publications">
+                <li class="main">
+        <div>
+            <a href="http://www.thejournal.ie">
+                <img src="http://static.jrnl.ie/desktop/i/thejournal/logo.png" width="256" height="46" />
+            </a>
+        </div>
+    </li>
+    <li class="businessETC"><a href="http://businessetc.thejournal.ie">Business ETC</a></li><li class="theScore"><a href="http://www.the42.ie">The42</a></li><li class="theDailyEdge"><a href="http://thedailyedge.thejournal.ie">The Daily Edge</a></li>                <li class="search">
+                    <form action="http://www.thejournal.ie/submit.php" method="get" class="searchForm" id="searchForm">
+                        <input type="text" name="st" id="search" value=""/>
+                        <label for="search">Search site</label>
+                        <button type="submit" class="icon iconSearch">Search</button>
+                    </form>
+                </li>
+            </ul>
+            <div class="today">
+                <span class="weather">
+                    <a title="Sunshine" href="http://www.thejournal.ie/weather/">
+                        Dublin: 8 &deg;C
+                    </a>
+                    <img style="margin-left:8px" src="http://static.jrnl.ie/desktop/i/weather-icons/xsmall/33.png" width="25" height="25">
+                </span>
+                <span class="date">Tuesday 21 April, 2015</span>
+                <span class="user-icon" id="user-icons">    
+                <a href="/user/" id="user_icon_box"><span id="user_icon_img"></span><span class="user-name" id="user_icon_name"></span></a>                </span>
+            </div>
+        </div>
+        <div class="mainContainer content">
+            <div class="container navigation ">
+                <ul class="menu tablecell">
+                                            <li><a href="http://www.thejournal.ie" class="homepage active icon iconHomepage">Homepage</a></li>
+                    <li><a class="" href="http://www.thejournal.ie/irish/">Irish</a></li><li><a class="" href="http://www.thejournal.ie/politics/">Politics</a></li><li><a class="" href="http://www.thejournal.ie/international/">International</a></li><li><a class="" href="http://www.thejournal.ie/readme/">Opinion</a></li><li><a class="" href="http://www.thejournal.ie/science/">Science</a></li><li><a class="" href="http://www.thejournal.ie/living/">Living</a></li><li><a class="" href="http://www.thejournal.ie/culture/">Culture</a></li>                </ul>
+                                    <div class="navigationTrendingTags">
+                        <strong>Trending:</strong>
+                        <ul class="tablecell">
+                                                            <li>
+                                    <a href="http://www.thejournal.ie/father-ted/news/" class="tag">father ted</a>
+                                </li>
+                                                                <li>
+                                    <a href="http://www.thejournal.ie/the-very-idea/news/" class="tag">the very idea</a>
+                                </li>
+                                                        </ul>
+                    </div>
+                                    <a href="#feed-popup" class="rss icon iconRss lightboxTrigger" title="Subscribe to RSS feed">RSS</a>
+            </div>
+                        <div class="mainContent container">
+<div class="river span-8" itemscope itemtype="http://schema.org/Article"><meta itemprop="image" content="http://c1.thejournal.ie/media/2015/03/spain-france-plane-crash-7-752x501.jpg" />
+<div class="sectionSeparator dropdown dropdownTags">
+        <h3>Tags</h3>
+
+        <ul class="tags tablecell">
+                                    <li>
+                            <a class="tag" rel="tag" href="http://www.thejournal.ie/airbus-a320/news/">Airbus A320</a>
+                        </li>
+                                                <li>
+                            <a class="tag" rel="tag" href="http://www.thejournal.ie/barcelona/news/">Barcelona</a>
+                        </li>
+                                                <li>
+                            <a class="tag" rel="tag" href="http://www.thejournal.ie/dusseldorf/news/">Dusseldorf</a>
+                        </li>
+                                                <li>
+                            <a class="tag" rel="tag" href="http://www.thejournal.ie/flight-9525/news/">flight 9525</a>
+                        </li>
+                                                <li>
+                            <a class="tag" rel="tag" href="http://www.thejournal.ie/germanwings/news/">Germanwings</a>
+                        </li>
+                                                <li>
+                            <a class="tag" rel="tag" href="http://www.thejournal.ie/lufthansa/news/">lufthansa</a>
+                        </li>
+                                </ul>
+        <a class="dropdownHandle" href="#" title="See other tags"><span class="icon iconDropdownClosed">See other tags</span></a>
+        <div class="dropdownContent">
+            <h3>Tags</h3>
+        </div>
+</div>
+<div class="post postMain  postMainLandscape">
+<div class="print_hidden">
+    Thursday 26 Mar, 2015    <br/>
+    http://jrnl.ie/2013689</div>
+    
+                <div style="float:right">
+                
+<div id='div-gpt-ad-1365092406213-4'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-4'); });
+</script>
+</div>
+
+            </div>
+    
+    
+    <h1 itemprop="headline">Germanwings: One pilot &#8216;locked out&#8217; of cockpit before crash</h1>
+    	<h2 class="main_excerpt" itemprop="description">&#8220;You can hear he is trying to smash the door down.&#8221;</h2>
+
+        <div class="infos border">
+            <div class="metadata">
+                <span class="date">Mar 26th 2015, 9:45 AM</span> 
+                <span class="views"> 
+                    <span class="red-views icon iconViewVeryPopular"></span>89,706 Views                </span>
+                <a href="http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/#comments" title="Comment on Germanwings: One pilot &#8216;locked out&#8217; of cockpit before crash">
+                    <span class="icon iconCommentPopular"></span> 7 Comments                
+                </a>
+            </div>
+            <span class="share"><a href="http://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=http%3A%2F%2Fwww.thejournal.ie%2Fgermanwings-pilot-cockpit-2013689-Mar2015%2F&picture=http%3A%2F%2Fc1.thejournal.ie%2Fmedia%2F2015%2F03%2Fspain-france-plane-crash-7-197x197.jpg&name=Germanwings%3A+One+pilot+%26%238216%3Blocked+out%26%238217%3B+of+cockpit+before+crash&description=%26%238220%3BYou+can+hear+he+is+trying+to+smash+the+door+down.%26%238221%3B&message=Just+saw+this+article+on+TheJournal.ie&redirect_uri=http%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D2013689 " target="_blank" title="Share on Facebook" class="open-window social"><span class="icon iconFacebook"></span> Share<span class="number">211</span></a> <a href="http://twitter.com/share?url=http%3A%2F%2Fjrnl.ie%2F2013689&text=Germanwings%3A+One+pilot+%27locked+out%27+of+cockpit+before+crash+%28via+%40thejournal_ie%29&related=@thejournal_ie" target="_blank" title="Tweet this" class="open-window social share-twitter twitter-tweet jrnl-tweet-2013689"><span class="icon iconTwitter"></span> Tweet<span class="number">67</span></a> <a href="http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/#EmailArticle" title="Email this article" class="social share-email lightboxTrigger"><span class="icon iconEmailSend"></span> Email<span class="number">26</span></a></span>        </div>
+        <div class="text" itemprop="articleBody">
+                    <!-- Text content -->
+            <p><span class="parent_alignleft"><img src="http://c1.thejournal.ie/media/2015/03/spain-france-plane-crash-7-630x432.jpg" width="630" height="432" alt="Spain France Plane Crash" class="alignleft"  /></span><p class="journal_credit">
+    Source: AP/Press Association Images</p></p>
+<p>ONE OF THE pilots of the Airbus A320 which <a href="http://www.thejournal.ie/french-plane-crash-alps-2009701-Mar2015/">crashed in the French Alps</a> killing all 150 people on board, was locked out of the cockpit, according to reports last night.</p>
+<p>Initial analysis of audio taken from the cockpit recorder reportedly indicates that one of the two Germanwings pilots left the cockpit but was unable to return.</p>
+<p>The <a href="http://www.nytimes.com/2015/03/26/world/europe/germanwings-airbus-crash.html?smid=tw-bna&amp;_r=0">New York Times</a> quotes an unnamed &#8220;senior military official involved in the investigation&#8221; as saying:</p>
+<blockquote class="coloured">
+<div>You can hear the guy outside is knocking lightly on the door and there is no answer. And then he hits the door stronger and no answer.</div>
+</blockquote>
+<blockquote class="coloured">
+<div>There is never an answer. You can hear he is trying to smash the door down.</div>
+</blockquote>
+<blockquote class="coloured">
+<div>We don&#8217;t know yet the reason why one of the guys went out. But what is sure is that at the very end of the flight, the other pilot is alone and does not open the door.</div>
+</blockquote>
+<p><span class="parent_alignleft"><img src="http://c2.thejournal.ie/media/2015/03/photo-cvr-3-630x420.jpg" width="630" height="420" alt="photo.cvr.3" class="alignleft"  /></span><p class="journal_caption">
+    The cockpit voice recorder recovered from the Germanwings Airbus A320</p><p class="journal_credit">
+    Source: <a href="http://www.bea.aero/fr/enquetes/vol.gwi18g/mediatheque.php" >BEA</a></p></p>
+<p>Earlier on Wednesday, <a href="http://www.thejournal.ie/germanwings-air-crash-2011471-Mar2015/">investigators said</a> they had extracted some &#8220;usable data&#8221; from the first black box, which contains audio recordings of technical sounds and conversation within the cockpit.</p>
+<p>Head of the French air crash investigation agency BEA Remi Jouty cautioned:</p>
+<blockquote class="coloured">
+<div>At this stage, clearly, we are not in a position to have the slightest explanation or interpretation on the reasons that could have led this plane to descend… or the reasons why it did not respond to attempts to contact it by air traffic controllers.</div>
+</blockquote>
+<p>Investigators are still attempting to locate and recover the second &#8220;black box&#8221;, which contains technical flight data.</p>
+<p>Calls by <em>TheJournal.ie</em> to the BEA and France&#8217;s Interior Ministry were not returned last night, and a spokesperson for the BEA earlier declined to comment when questioned by the New York Times.</p>
+<p><em>Originally published 0.06am</em></p>
+<h3>Read: <a href="http://www.thejournal.ie/germanwings-air-crash-2011471-Mar2015/">Some data recovered – but as yet we don’t have “the slightest explanation” for the crash&gt;</a></h3>
+<h3>Read: <a href="http://www.thejournal.ie/french-plane-crash-alps-2009701-Mar2015/">Scale of horror emerges as questions remain over Alps plane crash&gt;</a></h3>
+
+<div id='div-gpt-ad-1365092406213-5'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-5'); });
+</script>
+</div>
+
+            
+
+            <span id="follow_connect_box">
+                            </span>
+            <div id="social_connect_holder">
+  <div id="facebook_social_connect" class="social_connects">
+    <div style="background:#e4eff4; width:630px; margin-top:15px; margin-bottom:15px; position:relative;clear:both">
+        <div style="padding:10px; position:absolute; left:330px; height:100px; margin-left:10px; width:280px;font-family: 'Helvetica Neue',Helvetica,Arial,Sans-serif; font-size:12px; line-height:18px">
+            <div style="margin-top:8px; text-align:center;">
+                Already a fan? Connect below...
+            </div>
+            <p style="text-align:center; margin-top:10px;cursor:pointer;">
+                <span onclick="facebookReaderLogin();">
+                    <img src="http://static.jrnl.ie/desktop/i/fb-connect.png" width="172" height="24">
+                </span>
+            </p>
+        </div>
+        <div style="background:#e4eff4; padding: 10px; margin-bottom:20px; width:380px;">
+            <img src="http://graph.facebook.com/137576076262825/picture?type=large" width="65" height="65" style="float:left; display:inline; margin-right:10px">
+            <div>
+                <div style="font-family: 'Helvetica Neue',Helvetica,Arial,Sans-serif; font-size:12px; line-height:18px; margin-top:0px">
+                    Get breaking news from <i>TheJournal.ie</i> via Facebook.<br>Just click Like.</i>
+                </div>
+                <div style="position:relative; top:0px; width:250px; overflow:hidden; margin-top:6px">
+                    <fb:like href="http://www.facebook.com/thejournal.ie" layout="standard" ref="articlebutton" show_faces="false" width="240" height="160" font="" class=" fb_edge_widget_with_comment fb_iframe_widget"></fb:like>
+                </div>
+            </div>
+            <div class="clear_left"></div>
+        </div>
+    </div>
+  </div>
+  </div>
+            <p class="riverblock" style="clear:both; margin-top:10px;">
+    <center>
+    
+<div id='div-gpt-ad-1365092406213-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-2'); });
+</script>
+</div>
+
+    </center>
+</p>
+        </div>
+        
+        
+        <div class="clearfix">
+            <!-- Short URL -->
+            <div class="shortUrl">
+                <label for="shortUrl">Short URL</label>
+                <input type="text" name="shortURL" id="shortURL" value="http://jrnl.ie/2013689" />
+            </div>
+            <!-- /Short URL -->
+        </div>
+
+        <!-- Sharing -->
+        <ul class="sharingBar tablecell"><li><a target="_blank" class="open-window twitter-tweet jrnl-tweet-2013689" href="http://twitter.com/share?url=http%3A%2F%2Fjrnl.ie%2F2013689&text=Germanwings%3A+One+pilot+%27locked+out%27+of+cockpit+before+crash+%28via+%40thejournal_ie%29&related=@thejournal_ie"><span class="icon iconTwitter"></span>Tweet this</a></li><li><a target="_blank" class="open-window" href="http://www.facebook.com/dialog/feed?app_id=116141121768215&display=popup&link=http%3A%2F%2Fwww.thejournal.ie%2Fgermanwings-pilot-cockpit-2013689-Mar2015%2F&picture=http%3A%2F%2Fc1.thejournal.ie%2Fmedia%2F2015%2F03%2Fspain-france-plane-crash-7-197x197.jpg&name=Germanwings%3A+One+pilot+%26%238216%3Blocked+out%26%238217%3B+of+cockpit+before+crash&description=%26%238220%3BYou+can+hear+he+is+trying+to+smash+the+door+down.%26%238221%3B&message=Just+saw+this+article+on+TheJournal.ie&redirect_uri=http%3A%2F%2Fthejournal.ie%2Futils%2Ffb_post.php%3Fp_id%3D2013689"><span class="icon iconFacebook"></span>Share on Facebook</a></li><li><a class="lightboxTrigger" href="http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/#EmailArticle" title="Email this article"><span class="icon iconEmail"></span>Email this article</a></li><li><div id="plusoneholder" style="display:block;text-align:center;line-height:40px;border-left: 1px solid white;font-weight: bold;color: #6D7177;">
+<!-- Place this tag where you want the +1 button to render. -->
+<div id="plusoneiconholder" style="margin-right: 0px;float:none;display:inline-block;vertical-align: middle;">
+<div class="g-plusone" data-size="small"></div>
+
+<!-- Place this tag after the last +1 button tag. -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</div>
+&nbsp;
+</div></li></ul>        <!-- /Sharing -->
+        
+        
+        
+    </div>
+
+    
+        <script type="text/javascript">
+        <!--
+            /*
+            * Tags to show a footer google ad on TheJournal.ie
+            */
+
+
+            var adSection = 'riverblock';
+            while( googleSr.hasSlotsAvailable(adSection))
+            {
+              // Populate head section with content from ad store
+              googleSr.moveAdFromStore(adSection);
+            }
+
+            if(googleSr.hasAds(adSection))
+            {
+              googleSr.writeAds(adSection);
+            }
+        //--> 
+        </script>
+
+    
+
+    
+            <!-- About the author v2 -->
+        <div class="articleExtraDetails clearfix border">            <div class="author_info">
+                <h4>About the author:</h4>
+                <div class="author_avatar" >
+                                                <a href="http://www.thejournal.ie/author/dan-macguill/3122/">
+                                <img src="http://f2.thejournal.ie/media/2014/07/DanMcGuill1-133x133.png" height="70" width="70">                            </a>
+                                        </div>
+                <div class="author_details">
+                    <div class="contact_box auth_named_desc">
+                        <span class="name">
+                            Dan MacGuill                        </span>
+                                            </div>
+                                                <div class="contact_box">
+                                <a href="http://twitter.com/danmacg">
+                                    <span class="icon iconTwitterAuthorAlpha author_icon"></span>@danmacg                                </a>
+                            </div>
+                                                        <div class="contact_box">
+                                <a href="mailto:dan@thejournal.ie">
+                                    <span class="icon iconEmailSmall"></span><span class="contact_link">dan@thejournal.ie</span>
+                                </a>
+                            </div>
+                            </div>                    <div class="contact_box clear_left_contact">
+                        <a rel="author" href="http://www.thejournal.ie/author/dan-macguill/3122/"><span class="icon iconAuthorMore"></span>See more articles by Dan MacGuill</a>
+                    </div>
+                            </div>
+                        <div class="post_info">
+                <h4>Contribute to this story:</h4>
+                <div class="story_contribution">
+                                        <div class="contact_box">
+                        <a href="#SubmitNews" class="lightboxTriggerPhotos" title="Send a Photo / Video"><span class="icon iconPhotoTip"></span>Send a Photo&nbsp;/&nbsp;Video</a>
+                    </div>
+                    <div class="contact_box">
+                        <a href="#SubmitNews" class="lightboxTriggerText showTextOnly" title="Send a Tip"><span class="icon iconTipLink"></span>Send a Tip</a>
+                    </div>
+                    <div class="contact_box">
+                        <a class="lightboxTrigger" href="#ReportContent" title="Corrections"><span class="icon iconCorrectionLink"></span>Send a Correction</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /About the author -->
+        
+
+    <input type="hidden" id="js-show-inline-river">
+    <input type="hidden" id="js-supplement-icon" value="http://static.jrnl.ie/desktop/i/magazine/magazine_icon.png">
+    <input type="hidden" id="js-debug-inline-river" value="">
+
+    <div id="inline-river" class="read_next_block in_article clearfix border" style="display: none;"></div>
+    
+    <div id="taboola-adverts" class="read_next_block in_article clearfix border" style="display: none; padding-bottom: 15px;">
+
+                            <div id='taboola-autosized-2r'></div>
+            <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            _taboola.push({mode: 'autosized-2r', container: 'taboola-autosized-2r', placement: 'double-row'});
+            </script>
+        
+            </div>
+
+
+<div id="storage_read_next_bottom" class="read_next_block in_article clearfix " >
+    <h3>Read next:</h3>
+</div>
+
+<script type="text/javascript">
+<!--
+    var newest_articles = [{"id":2061913,"title":"The internet responded to Katie Hopkins calling migrants &#8220;cockroaches&#8221; by raising \u00a325,000 to rescue them","permalink":"http:\/\/www.thejournal.ie\/katie-hopkins-called-migrants-cockroaches-2061913-Apr2015\/","stats":"<span class=\"yellow-views icon iconViewPopular\"><\/span>788 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/migrant-crisis\/news\/","name":"migrant crisis"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/katie-hopkins-called-migrants-cockroaches-2061913-Apr2015\/\"><img src=\"http:\/\/c1.thejournal.ie\/media\/2015\/04\/katie-hopkins-comments-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":2061380,"title":"I\u2019m a cynic by nature but I was surprised by how mindfulness helped me","permalink":"http:\/\/www.thejournal.ie\/readme\/mindfulness-cognitive-behavioural-2061380-Apr2015\/","stats":"<span class=\"yellow-views icon iconViewPopular\"><\/span>611 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/opinion\/news\/","name":"Opinion"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/readme\/mindfulness-cognitive-behavioural-2061380-Apr2015\/\"><img src=\"http:\/\/c2.thejournal.ie\/media\/2015\/04\/shutterstock_95792515-3-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":2061853,"title":"Runner with muscle wasting disease finishes marathon after 20 hours","permalink":"http:\/\/www.thejournal.ie\/boston-marathon-man-finishes-after-20-hours-2061853-Apr2015\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>3,143 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/finish-line\/news\/","name":"Finish Line"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/boston-marathon-man-finishes-after-20-hours-2061853-Apr2015\/\"><img src=\"http:\/\/c0.thejournal.ie\/media\/2015\/04\/pastedimage-74071-290x120.png\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":2061838,"title":"This app could stop people who write dodgy tweets from losing their job ","permalink":"http:\/\/www.thejournal.ie\/ethan-czahor-app-tweets-2061838-Apr2015\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>2,667 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/dirty-words\/news\/","name":"dirty words"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/ethan-czahor-app-tweets-2061838-Apr2015\/\"><img src=\"http:\/\/c1.thejournal.ie\/media\/2015\/04\/11038564_10100441454244387_6470013056118532405_n-2-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":2060672,"title":"Marriage referendum posters are technically allowed to say anything&#8230;","permalink":"http:\/\/www.thejournal.ie\/marriage-referendum-posters-2060672-Apr2015\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>5,382 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/same-sex\/news\/","name":"Same-Sex"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/marriage-referendum-posters-2060672-Apr2015\/\"><img src=\"http:\/\/c1.thejournal.ie\/media\/2015\/04\/same-sex-mural-a-mural-of-two-female-g-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":2061792,"title":"Singer Jamelia says shops shouldn&#8217;t stock clothes for obese people","permalink":"http:\/\/www.thejournal.ie\/obese-people-jamelia-clothes-2061792-Apr2015\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>7,974 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/news\/","name":null},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/obese-people-jamelia-clothes-2061792-Apr2015\/\"><img src=\"http:\/\/c1.thejournal.ie\/media\/2015\/04\/shutterstock_203269492-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":2061358,"title":"Here&#8217;s What Happened Today: Tuesday ","permalink":"http:\/\/www.thejournal.ie\/news-tuesday-2061358-Apr2015\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>2,046 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/news-fix\/news\/","name":"News Fix"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/news-tuesday-2061358-Apr2015\/\"><img src=\"http:\/\/c3.thejournal.ie\/media\/2015\/04\/ted3-390x285-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""}];
+    var popular_articles = [{"id":2058837,"title":"&#8220;To send them back is another way of killing them&#8221;","permalink":"http:\/\/www.thejournal.ie\/mediterranean-rescue-2058837-Apr2015\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>36,719 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/migrant-crisis\/news\/","name":"migrant crisis"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/mediterranean-rescue-2058837-Apr2015\/\"><img src=\"http:\/\/c1.thejournal.ie\/media\/2015\/04\/migrants-3-290x120.png\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":2059806,"title":"Panti has a message for Breda O&#8217;Brien","permalink":"http:\/\/www.thejournal.ie\/panti-bliss-breda-obrien-2059806-Apr2015\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>36,046 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/im-in\/news\/","name":"I'm in"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/panti-bliss-breda-obrien-2059806-Apr2015\/\"><img src=\"http:\/\/c1.thejournal.ie\/media\/2015\/04\/pantibliss-630x347-290x120.png\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":2059987,"title":"Like swimming in Ireland? The bathing water is classified as &#8216;poor&#8217; in these locations&#8230;","permalink":"http:\/\/www.thejournal.ie\/bathing-water-ireland-irish-water-2059987-Apr2015\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>31,975 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/beneath-the-waves\/news\/","name":"beneath the waves"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/bathing-water-ireland-irish-water-2059987-Apr2015\/\"><img src=\"http:\/\/c0.thejournal.ie\/media\/2015\/04\/shutterstock_57317020-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""},{"id":2059092,"title":"Dublin woman tries to find owner of money that &#8216;rained down&#8217; on her car ","permalink":"http:\/\/www.thejournal.ie\/money-rained-down-dublin-2059092-Apr2015\/","stats":"<span class=\"red-views icon iconViewVeryPopular\"><\/span>28,709 Views","primary_tag":{"slug":"http:\/\/www.thejournal.ie\/lost-and-found\/news\/","name":"Lost and Found"},"image":"<div id=\"read_next_banner\"><a href=\"http:\/\/www.thejournal.ie\/money-rained-down-dublin-2059092-Apr2015\/\"><img src=\"http:\/\/c3.thejournal.ie\/media\/2015\/04\/money-48-290x120.jpg\"  id=\"r_n_image\" \/><\/a><\/div>","no_image":""}];
+    
+    if( typeof(current_post_id) != 'undefined' && !isNaN(current_post_id))
+    {
+        var current_article_id = current_post_id;
+    }
+    else
+    {
+        var current_article_id = 2013689;
+    }
+
+    jQuery(document).ready(function($){
+        var div_read_next = $('#storage_read_next_bottom');
+        readNext.display_read_next_block(div_read_next);
+    });
+-->
+</script>
+<div class="lightboxes">
+    <div id="EmbedArticle" class="lightbox">
+            <h1 class="form-element border">Embed this post</h1>
+            <p class="">To embed this post, copy the code below on your site</p>
+            <p class="">
+                <label for="embedWide600">600px wide</label>
+                <textarea name="embedWide600" id="embedWide600">&lt;iframe width=&quot;600&quot; height=&quot;460&quot; frameborder=&quot;0&quot; style=&quot;border:0px;&quot; src=&quot;http://www.thejournal.ie/http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/?embedpost=2013689&amp;width=600&amp;height=460&quot; &gt;&lt;/iframe&gt;</textarea>
+            </p>
+            <p class="">
+                <label for="embedWide400">400px wide</label>
+                <textarea name="embedWide400" id="embedWide400">&lt;iframe width=&quot;600&quot; height=&quot;460&quot; frameborder=&quot;0&quot; style=&quot;border:0px;&quot; src=&quot;http://www.thejournal.ie/http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/?embedpost=2013689&amp;width=400&amp;height=460&quot; &gt;&lt;/iframe&gt;</textarea>
+            </p>
+            <p class="">
+                <label for="embedWide300">300px wide</label>
+                <textarea name="embedWide300" id="embedWide300">&lt;iframe width=&quot;600&quot; height=&quot;460&quot; frameborder=&quot;0&quot; style=&quot;border:0px;&quot; src=&quot;http://www.thejournal.ie/http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/?embedpost=2013689&amp;width=300&amp;height=460&quot; &gt;&lt;/iframe&gt;</textarea>
+            </p>
+    </div>
+
+    <div id="EmailArticle" class="lightbox emailArticle">
+        <form id="email-popup-form" method="post">
+            <input type="hidden" name="post_id" value="2013689" />
+            <input type="hidden" name="action" value="post_email_form" />
+            <h1 class="form-element border">Email &ldquo;Germanwings: One pilot &#8216;locked out&#8217; of cockpit before crash&rdquo;.</h1>
+            <div class="form-element clearfix">
+                <div class="info-block">
+                    <div class="form-element">
+                        <label for="yourEmail">Your Email</label>
+                        <input type="text" class="text" id="yourEmail" name="email-from" />
+                    </div>
+                </div>
+                <div class="info-block recipient-info">
+                    <div class="form-element">
+                        <label for="yourEmail">Recipient's Email</label>
+                        <input type="text" class="text" id="yourEmail" name="email-to" />
+                    </div>
+                </div>
+            </div>
+            <div class="form-element message">
+                <a href="#EmailArticleMessage" id="addMessage">Add a message (optional)</a>
+                <div id="EmailArticleMessage" class="field">
+                    <label for="emailArticleMessage">Your Message (optional)</label>
+                    <textarea name="message" id="emailArticleMessage"></textarea>
+                </div>
+            </div>
+            
+            <div class="clearfix">
+                <button class="buttonSubmit" type="submit">Submit</button>
+                <img src="http://static.jrnl.ie/desktop/i/loading.gif"  width="16" height="16"  class="loading" alt="One moment..." />
+            </div>
+            
+        </form>
+    </div>
+
+    <div id="AlertAuthor" class="lightbox alertAuthor">
+        <form id="alert-author-popup-form" method="post">
+            <input type="hidden" name="post_id" value="2013689" />
+            <input type="hidden" name="action" value="post_alert_form" />
+            <h1 class="form-element border">Feedback on &ldquo;Germanwings: One pilot &#8216;locked out&#8217; of cockpit before crash&rdquo;.</h1>
+
+            <div class="form-element message">
+                <div id="AlertAuthorMessage" class="field">
+                    <label for="AlertAuthorMessage">Your Feedback</label>
+                    <textarea name="message" id="AlertAuthorMessage"></textarea>
+                </div>
+            </div>
+                        <div class="form-element">
+                <label for="yourEmail">Your Email (optional)</label>
+                <input type="text" class="text" id="yourEmail" name="email-from" />
+            </div>
+                        <div class="clearfix">
+                <button class="buttonSubmit" type="submit">Submit</button>
+                <img src=""  width="16" height="16" class="loading" alt="One moment..." />
+            </div>
+        </form>
+    </div>
+    
+    
+    
+    <div id="ReportComment" class="lightbox alertAuthor">
+        <form id="report-comment-popup-form" method="post">
+            <input type="hidden" name="post_id" value="2013689" />
+            
+            <input type="hidden" name="action" value="comment_actions" />
+            
+            <input type="hidden" name="flag_comment" value="" id="report_comment_id" />
+            <h1 class="form-element border">Report a Comment</h1>
+
+            <div class="form-element message">
+                <label for="yourEmail">Please select the reason for reporting this comment.</label>
+                <select name="report_comment_reason" id="report_comment_reason">
+                    <option value="">
+                        Please select your reason for reporting...
+                    </option>
+                    <option value="no_like">
+                        You don't like this comment, or you disagree with this commenter
+                    </option>
+                    <option value="offensive">
+                        It contains offensive language, is hateful or incites violence
+                    </option>
+                    <option value="libel">
+                        It contains a libelous/defamatory statement
+                    </option>
+                    <option value="other">
+                        Some other reason...
+                    </option>
+                </select>
+            </div>
+
+            <div class="form-element message">
+                <div class="field">
+                    <label>Please give full details of the problem with the comment...</label>
+                    <textarea name="message" id="report_comment_details" style="height:100px"></textarea>
+                </div>
+            </div>
+            
+                        <div class="form-element">
+                <label for="yourEmail">Your Email</label>
+                <input type="text" class="text" id="report_comment_email" name="email-from" />
+            </div>
+                        <div class="clearfix">
+                <button class="buttonSubmit" type="submit">Submit</button>
+                <img src="http://static.jrnl.ie/desktop/i/loading.gif"  width="16" height="16" class="loading" alt="One moment..." />
+            </div>
+        </form>
+    </div>
+</div>    <div id="comments" class="sectionSeparator">
+        <h3>Comments (7 Comments)</h3>
+        <div class="details" style="width:300px">
+                                <div class="comment-order-box" id="com_order">
+                        Ordered By: Popularity<!--&#9660;-->
+                            <div id="com_order_choose">
+                                <a class="first" href="http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/?com_ord=thumbs#comments">
+                                    Popularity
+                                </a>
+                                <a href="http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/?com_ord=date#comments">
+                                    Date
+                                </a>
+                            </div>
+                    </div>
+                    <div class="comment-box-break"></div>
+                            <a href="#respond" class="details comment-respond-link">
+                Leave a comment
+            </a>
+        </div>
+    </div>
+    <ul class="commentList border">
+    </ul>
+    <script type="text/javascript">
+<!--
+    /*
+    * Tags to show a footer google ad on TheJournal.ie
+    */
+
+
+    var adSection = 'foot';
+    while( googleSr.hasSlotsAvailable(adSection))
+    {
+      // Populate head section with content from ad store
+      googleSr.moveAdFromStore(adSection);
+    }
+
+    if(googleSr.hasAds(adSection))
+    {
+      googleSr.writeAds(adSection);
+    }
+//--> 
+</script>
+
+
+</div><div class="read_next_block sidebar" id="storage_read_next_widget">
+        <h3>Read Next:</h3>
+</div>
+<script type="text/javascript">
+<!--
+    jQuery(document).ready(function($){
+        var widget_read_next = $('#storage_read_next_widget');
+        readNext.display_read_next_sidebar(widget_read_next);
+    });
+-->
+</script>
+<!-- Sidebar -->
+<div class="sidebar span-4 last" id="sidebar-holder">
+<div class="advert adserverad">
+
+<div id='div-gpt-ad-1365092406213-1'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-1'); });
+</script>
+</div>
+
+</div>
+<div id="text-17" class="widget widget_text">
+    <div class="sectionSeparator widget-facebook-box">
+        <div class="textwidget">
+        <div id="facebooklikebox">
+        
+        <!--div class="fb-like-box" data-href="http://www.facebook.com/thejournal.ie" data-width="310" data-height="250" data-show-faces="true" data-stream="false" data-header="false"></div-->
+        
+        </div>
+<script type="text/javascript">
+var FBiframe='<iframe src="http://www.facebook.com/plugins/likebox.php?href=http://www.facebook.com/thejournal.ie&amp;width=310&amp;connections=10&amp;stream=false&amp;header=false&amp;height=250" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:310px; height:250px;" allowtransparency="true"></iframe>'// Deferred load of the Facebook like box
+$(document).ready(function() { 
+    $('#facebooklikebox').append(FBiframe);
+});
+
+</script>
+        </div>
+    </div>
+</div>
+<div id="trendingArticles" class="tabs ui-tabs ui-widget ui-widget-content ui-corner-all">
+    <!-- Tabs -->
+    <ul class="sectionSeparator tabMenu ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+        <li><a title="Most Popular" href="#tabMostPopular">Most Popular</a></li>
+        <li><a title="Most Commented" href="#tabMostCommented">Most Commented</a></li>
+    </ul>
+    <!-- /Tabs -->
+
+    <!-- Most popular -->
+    <div id="tabMostPopular" class="widget tabPanel">
+        <div class="sectionSeparator"><h3>Most Popular</h3></div>
+        <div class="widgetContent">
+            <div class="definition">Most viewed articles in the past 24 hours</div>
+            <!-- Mini post -->
+                            <div class="post postMini">
+                    <div class="img">
+                        <a href="http://www.thejournal.ie/mediterranean-rescue-2058837-Apr2015/">
+                            <img src="http://c3.thejournal.ie/media/2015/04/migrants-3-80x50.png" class="attachment-listings_1" width="80" height="50"                         </a>
+                    </div>
+                    <div class="text">
+                        <a href="/migrant-crisis/news/" class="tag">
+                            migrant crisis                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/mediterranean-rescue-2058837-Apr2015/">
+                                &#8220;To send them back is another way of killing them&#8221;                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                    <div class="img">
+                        <a href="http://www.thejournal.ie/panti-bliss-breda-obrien-2059806-Apr2015/">
+                            <img src="http://c3.thejournal.ie/media/2015/04/pantibliss-630x347-80x50.png" class="attachment-listings_1" width="80" height="50"                         </a>
+                    </div>
+                    <div class="text">
+                        <a href="/im-in/news/" class="tag">
+                            I'm in                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/panti-bliss-breda-obrien-2059806-Apr2015/">
+                                Panti has a message for Breda O&#8217;Brien                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                    <div class="img">
+                        <a href="http://www.thejournal.ie/bathing-water-ireland-irish-water-2059987-Apr2015/">
+                            <img src="http://c2.thejournal.ie/media/2015/04/shutterstock_57317020-80x50.jpg" class="attachment-listings_1" width="80" height="50"                         </a>
+                    </div>
+                    <div class="text">
+                        <a href="/beneath-the-waves/news/" class="tag">
+                            beneath the waves                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/bathing-water-ireland-irish-water-2059987-Apr2015/">
+                                Like swimming in Ireland? The bathing water is classified as &#8216;poor&#8217; in these locations&#8230;                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                    <div class="img">
+                        <a href="http://www.thejournal.ie/money-rained-down-dublin-2059092-Apr2015/">
+                            <img src="http://c1.thejournal.ie/media/2015/04/money-48-80x50.jpg" class="attachment-listings_1" width="80" height="50"                         </a>
+                    </div>
+                    <div class="text">
+                        <a href="/lost-and-found/news/" class="tag">
+                            Lost and Found                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/money-rained-down-dublin-2059092-Apr2015/">
+                                Dublin woman tries to find owner of money that &#8216;rained down&#8217; on her car                             </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                    <div class="img">
+                        <a href="http://www.thejournal.ie/eloise-aimee-perry-died-pills-2060874-Apr2015/">
+                            <img src="http://c0.thejournal.ie/media/2015/04/eloise_aimee_parry1-80x50.jpg" class="attachment-listings_1" width="80" height="50"                         </a>
+                    </div>
+                    <div class="text">
+                        <a href="/highly-toxic/news/" class="tag">
+                            highly toxic                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/eloise-aimee-perry-died-pills-2060874-Apr2015/">
+                                21-year-old &#8216;burned up from within&#8217; and died after taking diet pills bought online                            </a>
+                        </h5>
+                    </div>
+                </div>
+                            <!-- /Mini post -->
+        </div>
+    </div>
+    <!-- /Most popular -->
+
+
+    <!-- Most commented -->
+    <div id="tabMostCommented" class="widget tabPanel">
+        <div class="sectionSeparator"><h3>Most Commented</h3></div>
+        <div class="widgetContent">
+            <div class="definition">Most commented articles in the past 3 days</div>
+            <!-- Mini post -->
+                            <div class="post postMini">
+                                            <div class="img">
+                            <a href="http://www.thejournal.ie/breda-obrien-sunday-independent-interview-2056918-Apr2015/">
+                                <img src="http://c0.thejournal.ie/media/2015/04/breda-4-390x285-80x50.png" class="attachment-listings_1" width="80" height="50"                             </a>
+                        </div>
+                                            <div class="text">
+                        <a href="/marriage-referendum/news/" class="tag">
+                            marriage referendum                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/breda-obrien-sunday-independent-interview-2056918-Apr2015/">
+                                Breda O&#8217;Brien thinks gay people should abstain from sex &#8211; &#8220;like all unmarried couples&#8221;                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                                            <div class="img">
+                            <a href="http://www.thejournal.ie/irish-water-protest-3-2051482-Apr2015/">
+                                <img src="http://c2.thejournal.ie/media/2015/04/water-protest-465-80x50.jpg" class="attachment-listings_1" width="80" height="50"                             </a>
+                        </div>
+                                            <div class="text">
+                        <a href="/to-the-streets/news/" class="tag">
+                            to the streets                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/irish-water-protest-3-2051482-Apr2015/">
+                                PICS: Massive turn-out for &#8216;Bin your Bills&#8217; protest in Dublin                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                                            <div class="img">
+                            <a href="http://www.thejournal.ie/gardai-yes-equality-photocall-2058602-Apr2015/">
+                                <img src="http://c2.thejournal.ie/media/2015/04/judge-catherine-mcguinness-urges-voters-to-register-before-deadline-3-80x50.jpg" class="attachment-listings_1" width="80" height="50"                             </a>
+                        </div>
+                                            <div class="text">
+                        <a href="/ssmref/news/" class="tag">
+                            ssmref                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/gardai-yes-equality-photocall-2058602-Apr2015/">
+                                No group says presence of gardaí at a Yes event has &#8216;fractured&#8217; its neutrality                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                                            <div class="img">
+                            <a href="http://www.thejournal.ie/motherless-children-2053898-Apr2015/">
+                                <img src="http://c3.thejournal.ie/media/2015/04/mothers-and-fathers-matter-launch-no-5-80x50.jpg" class="attachment-listings_1" width="80" height="50"                             </a>
+                        </div>
+                                            <div class="text">
+                        <a href="/family-matters/news/" class="tag">
+                            family matters                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/motherless-children-2053898-Apr2015/">
+                                No campaign says &#8216;Yes&#8217; victory could see babies left &#8216;deliberately motherless&#8217;                            </a>
+                        </h5>
+                    </div>
+                </div>
+                                <div class="post postMini">
+                                            <div class="img">
+                            <a href="http://www.thejournal.ie/readme/marriage-equality-ireland-vote-2-2052580-Apr2015/">
+                                <img src="http://c3.thejournal.ie/media/2015/04/shutterstock_266886011-80x50.jpg" class="attachment-listings_1" width="80" height="50"                             </a>
+                        </div>
+                                            <div class="text">
+                        <a href="/opinion/news/" class="tag">
+                            Opinion                        </a>
+                        <h5>
+                            <a href="http://www.thejournal.ie/readme/marriage-equality-ireland-vote-2-2052580-Apr2015/">
+                                I hope the next generation will know no such thing as &#8216;gay marriage&#8217; – but just &#8216;marriage&#8217;                            </a>
+                        </h5>
+                    </div>
+                </div>
+                            <!-- /Mini post -->    
+        </div>
+    </div>
+    <!-- /Most commented -->
+</div>
+<div class="advert adserverad">
+
+<div id='div-gpt-ad-1365092406213-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1365092406213-0'); });
+</script>
+</div>
+
+</div>
+<div class="widget widgetFromOtherPublication widgetBusinessETC">
+    <div class="sectionSeparator">
+        <h3><a href="http://businessetc.thejournal.ie/">From BusinessEtc</a></h3>
+    </div>
+    <div class="widgetContent">
+            <!-- Post from other publication -->
+        <div class="post postMini postMiniLandscape">
+            <div class="img">
+                <a href="http://www.thejournal.ie/eu-gazprom-charges-2060253-Apr2015/"><img src="http://c2.thejournal.ie/media/2015/04/eu-gazprom-charges-2-290x80.jpg" alt="The EU and Russia are on a major collision course&#8230;" height="80" width="290" /></a>
+                <a href="http://businessetc.thejournal.ie/huge-fines/news/" class="tag">
+                    huge fines                </a>
+            </div>
+            <div class="text">
+                <h4><a href="http://www.thejournal.ie/eu-gazprom-charges-2060253-Apr2015/">The EU and Russia are on a major collision course&#8230;</a></h4>
+            </div>
+        </div>
+        <!-- /Post from other publication -->
+
+            <!-- Mini post -->
+        <div class="post postMini">
+            <div class="img">
+            <a href="http://businessetc.thejournal.ie/google-mobile-friendly-test-2060619-Apr2015/">
+                <img src="http://c2.thejournal.ie/media/2015/04/broken-mobile-80x50.jpg" alt="It&#8217;s not just small businesses being punished after &#8216;mobilegeddon&#8217;" height="50" width="80" />
+            </a>
+            </div>
+            <div class="text">
+                <a href="http://businessetc.thejournal.ie/mobile-fail/news/" class="tag">
+                    mobile fail                </a>
+                <h5>
+                    <a href="http://businessetc.thejournal.ie/google-mobile-friendly-test-2060619-Apr2015/">
+                        It&#8217;s not just small businesses being punished after &#8216;mobilegeddon&#8217;                    </a>
+                </h5>
+            </div>
+        </div>
+        <!-- /Mini post -->    
+            <!-- Mini post -->
+        <div class="post postMini">
+            <div class="img">
+            <a href="http://businessetc.thejournal.ie/penneys-abf-profit-sales-2060138-Apr2015/">
+                <img src="http://c0.thejournal.ie/media/2015/04/super-fit-model-roz-purce-3-80x50.jpg" alt="All your Penneys shopping saved its owners from some ugly results" height="50" width="80" />
+            </a>
+            </div>
+            <div class="text">
+                <a href="http://businessetc.thejournal.ie/thanks-penneys/news/" class="tag">
+                    Thanks Penneys                </a>
+                <h5>
+                    <a href="http://businessetc.thejournal.ie/penneys-abf-profit-sales-2060138-Apr2015/">
+                        All your Penneys shopping saved its owners from some ugly results                    </a>
+                </h5>
+            </div>
+        </div>
+        <!-- /Mini post -->    
+        </div>
+</div>
+<div class="widget widgetFromOtherPublication widgetTheDailyEdge">
+    <div class="sectionSeparator">
+        <h3><a href="http://thedailyedge.thejournal.ie/">From The Daily Edge</a></h3>
+    </div>
+    <div class="widgetContent">
+            <!-- Post from other publication -->
+        <div class="post postMini postMiniLandscape">
+            <div class="img">
+                <a href="http://thedailyedge.thejournal.ie/annoying-couples-third-wheel-2061146-Apr2015/"><img src="http://c0.thejournal.ie/media/2015/04/vomit-hermione-290x80.jpg" alt="9 strange and annoying things all your coupled-up friends do" height="80" width="290" /></a>
+                <a href="http://thedailyedge.thejournal.ie/third-wheeling-it/news/" class="tag">
+                    third wheeling it                </a>
+            </div>
+            <div class="text">
+                <h4><a href="http://thedailyedge.thejournal.ie/annoying-couples-third-wheel-2061146-Apr2015/">9 strange and annoying things all your coupled-up friends do</a></h4>
+            </div>
+        </div>
+        <!-- /Post from other publication -->
+
+            <!-- Mini post -->
+        <div class="post postMini">
+            <div class="img">
+            <a href="http://thedailyedge.thejournal.ie/ryanair-aer-lingus-father-ted-2061835-Apr2015/">
+                <img src="http://c2.thejournal.ie/media/2015/04/ryanairfather-80x50.png" alt="Aer Lingus and Ryanair&#8217;s latest Twitter battle was inspired by Father Ted" height="50" width="80" />
+            </a>
+            </div>
+            <div class="text">
+                <a href="http://thedailyedge.thejournal.ie/ruggedair/news/" class="tag">
+                    ruggedair                </a>
+                <h5>
+                    <a href="http://thedailyedge.thejournal.ie/ryanair-aer-lingus-father-ted-2061835-Apr2015/">
+                        Aer Lingus and Ryanair&#8217;s latest Twitter battle was inspired by Father Ted                    </a>
+                </h5>
+            </div>
+        </div>
+        <!-- /Mini post -->    
+            <!-- Mini post -->
+        <div class="post postMini">
+            <div class="img">
+            <a href="http://thedailyedge.thejournal.ie/whats-on-tv-tonight-44-2060338-Apr2015/">
+                <img src="http://c1.thejournal.ie/media/2015/04/plusmain-80x50.jpg" alt="What to watch on TV tonight: Tuesday" height="50" width="80" />
+            </a>
+            </div>
+            <div class="text">
+                <a href="http://thedailyedge.thejournal.ie/tv-picks/news/" class="tag">
+                    tv picks                </a>
+                <h5>
+                    <a href="http://thedailyedge.thejournal.ie/whats-on-tv-tonight-44-2060338-Apr2015/">
+                        What to watch on TV tonight: Tuesday                    </a>
+                </h5>
+            </div>
+        </div>
+        <!-- /Mini post -->    
+        </div>
+</div>
+<div class="widget widgetFromOtherPublication widgetTheScore">
+    <div class="sectionSeparator">
+        <h3><a href="http://thescore.thejournal.ie/">From The42</a></h3>
+    </div>
+    <div class="widgetContent">
+            <!-- Post from other publication -->
+        <div class="post postMini postMiniLandscape">
+            <div class="img">
+                <a href="http://www.the42.ie/bayern-munich-fc-porto-champions-league-live-2061588-Apr2015/"><img src="http://c1.thejournal.ie/media/2015/04/germany-soccer-champions-league-142-290x80.jpg" alt="As it happened: Bayern Munich v FC Porto, Champions League" height="80" width="290" /></a>
+                <a href="http://thescore.thejournal.ie/minute-by-minute/news/" class="tag">
+                    Minute-by-Minute                </a>
+            </div>
+            <div class="text">
+                <h4><a href="http://www.the42.ie/bayern-munich-fc-porto-champions-league-live-2061588-Apr2015/">As it happened: Bayern Munich v FC Porto, Champions League</a></h4>
+            </div>
+        </div>
+        <!-- /Post from other publication -->
+
+            <!-- Mini post -->
+        <div class="post postMini">
+            <div class="img">
+            <a href="http://www.the42.ie/oconnell-move-toulon-2061016-Apr2015/">
+                <img src="http://c1.thejournal.ie/media/2015/04/paul-ooconnell-4-80x50.jpg" alt="Munster and Toulon in full agreement, calling mooted Paul O&#8217;Connell move &#8216;pure speculation&#8217;" height="50" width="80" />
+            </a>
+            </div>
+            <div class="text">
+                <a href="http://thescore.thejournal.ie/locked-down/news/" class="tag">
+                    locked down                </a>
+                <h5>
+                    <a href="http://www.the42.ie/oconnell-move-toulon-2061016-Apr2015/">
+                        Munster and Toulon in full agreement, calling mooted Paul O&#8217;Connell move &#8216;pure speculation&#8217;                    </a>
+                </h5>
+            </div>
+        </div>
+        <!-- /Mini post -->    
+            <!-- Mini post -->
+        <div class="post postMini">
+            <div class="img">
+            <a href="http://www.the42.ie/jack-grealish-ireland-england-dad-kevin-2060673-Apr2015/">
+                <img src="http://c0.thejournal.ie/media/2015/04/jack-grealish-celebrates-scoring-16-80x50.jpg" alt="Jack Grealish&#8217;s dad: &#8216;He could play 45 minutes for Ireland and 45 minutes for England!&#8217;" height="50" width="80" />
+            </a>
+            </div>
+            <div class="text">
+                <a href="http://thescore.thejournal.ie/uncertainty/news/" class="tag">
+                    uncertainty                </a>
+                <h5>
+                    <a href="http://www.the42.ie/jack-grealish-ireland-england-dad-kevin-2060673-Apr2015/">
+                        Jack Grealish&#8217;s dad: &#8216;He could play 45 minutes for Ireland and 45 minutes for England!&#8217;                    </a>
+                </h5>
+            </div>
+        </div>
+        <!-- /Mini post -->    
+        </div>
+</div>
+    <div class="widget">
+        <div class="sectionSeparator">
+        <h3>Download our app</h3>
+        </div>
+        <div class="widgetContent" style="height:75px; margin:0px;  padding:0px">
+            <div class="single_app_link" style="margin-top:5px; width:100%">
+                
+                <span style="float:left; margin-left: 15px">
+                    <a href="http://itunes.apple.com/ie/app/thejournal-ie/id409359491?mt=8" title="Download the TheJournal.ie for the iPhone, iPad and iPod">
+                        <img src="http://static.jrnl.ie/desktop/i/itunes_icon.png" class="itunes_image" width="134" height="45" />
+                        <!--span class="app_link_text app_link_text_ios">Get our free app for<br/>the iPhone & iPad</span-->
+                    </a>
+                </span>
+                <span style="float:right; margin-right:5px">
+                    <a href="http://play.google.com/store/apps/details?id=com.distilledmedia.thejournal" title="Download the TheJournal.ie for Android">
+                        <img src="http://static.jrnl.ie/desktop/i/android_get_it_on_play_logo_small.png" class="itunes_image" width="129" height="45" />
+                        <!--span class="app_link_text app_link_text_android">Also available in<br/>the Android Market</span-->
+                    </a>
+                </span>
+                
+            </div>
+            
+            <!--div style="padding:10px 20px 0; clear:both; line-height:1em">
+            <h3>Top Features:</h3>
+            <ul>
+                <li>5x faster loading of articles
+                <li>In-flight/offline reading
+                <li>Swipe between articles & photos
+                <li>Live-scores from rugby and football matches
+            </ul>
+            
+            </div-->
+                
+        </div>
+    </div>
+
+    
+    <div style="width:290px; margin-left:15px; ">
+
+        
+            <script type="text/javascript">
+            <!--
+                /*
+                    Google Adwords
+                */
+
+                var adSection = 'article_mid';
+                while( googleSr.hasSlotsAvailable(adSection))
+                {
+                  // Populate head section with content from ad store
+                  googleSr.moveAdFromStore(adSection);
+                }
+
+                if(googleSr.hasAds(adSection))
+                {
+                  googleSr.writeAds(adSection);
+                }
+            //--> 
+            </script>
+
+        
+
+    </div>
+    
+</div>
+<!-- /Sidebar -->
+<script>_pool.push(['add', ['_dml', 'international']]);_pool.push(['add', ['_dml', 'international7', 10080]]);_pool.push(['add', ['_dml', 'thejournal']]);_pool.push(['add', ['_dml', 'thejournal7', 10080]]);</script>    <!-- Latest Opinions -->
+    <div class="trendingTags span-12" id="footer">
+        <div class="sectionSeparator">
+            <h3>Trending Opinions</h3>
+        </div>
+                <div class="footer_lo">
+            <table>
+                <tr>
+                    <td class="footer_lo_avatar">
+                        <a href="http://www.thejournal.ie/author/anonymous/"><img src="http://f2.thejournal.ie/media/2014/07/anonymous-woman-133x133.jpg" alt="Anonymous" width="60" height="60"  class="footer_lo_avatar" /></a>
+                    </td>
+                    <td class="footer_lo_article">
+                        <a href="http://www.thejournal.ie/readme/direct-provision-ireland-2-2058658-Apr2015/" class="article">I feed my children when they&#8217;re hungry. Parents in direct provision don&#8217;t have that choice. </a><br />
+                        <a href="http://www.thejournal.ie/author/anonymous/" class="author">Anonymous</a>
+                    </td>
+                </tr>
+            </table>
+            <div class="footer_lo footer_lo_2nd_row">
+                <a class="excerpt" href="http://www.thejournal.ie/readme/direct-provision-ireland-2-2058658-Apr2015/">Parents in direct provision have so few ways in which they can model healthy, productive adulthood for their children.</a>
+            </div>
+        </div>
+                <div class="footer_lo">
+            <table>
+                <tr>
+                    <td class="footer_lo_avatar">
+                        <a href="http://www.thejournal.ie/author/nicole-paulie/"><img src="http://f2.thejournal.ie/media/2015/04/Screen-Shot-2015-04-20-at-15.06.46-133x133.png" alt="Nicole Paulie" width="60" height="60"  class="footer_lo_avatar" /></a>
+                    </td>
+                    <td class="footer_lo_article">
+                        <a href="http://www.thejournal.ie/readme/work-life-balance-busy-2058921-Apr2015/" class="article">We need to stop the glorification of busy</a><br />
+                        <a href="http://www.thejournal.ie/author/nicole-paulie/" class="author">Nicole Paulie</a>
+                    </td>
+                </tr>
+            </table>
+            <div class="footer_lo footer_lo_2nd_row">
+                <a class="excerpt" href="http://www.thejournal.ie/readme/work-life-balance-busy-2058921-Apr2015/">Nowadays it’s almost as if it has become a competition as to who can be the busiest – but being overworked is not a virtue.</a>
+            </div>
+        </div>
+                <div class="footer_lo">
+            <table>
+                <tr>
+                    <td class="footer_lo_avatar">
+                        <a href="http://www.thejournal.ie/author/hazel/"><img src="http://static.jrnl.ie/desktop/i/person-no-photo.gif" alt="Hazel" width="60" height="60"  class="footer_lo_avatar" /></a>
+                    </td>
+                    <td class="footer_lo_article">
+                        <a href="http://www.thejournal.ie/readme/body-image-positive-and-negative-2054077-Apr2015/" class="article">Our bodies are amazing, why don&#8217;t we give them the love they deserve?</a><br />
+                        <a href="http://www.thejournal.ie/author/hazel/" class="author">Hazel</a>
+                    </td>
+                </tr>
+            </table>
+            <div class="footer_lo footer_lo_2nd_row">
+                <a class="excerpt" href="http://www.thejournal.ie/readme/body-image-positive-and-negative-2054077-Apr2015/">Like so many women and men, I wasted time hating my shape and trying to change it. Then I realised what an incredible, beautiful machine my body is.</a>
+            </div>
+        </div>
+            </div>
+    <!-- /Latest Opinions -->
+    <!-- Most popular today -->
+    <div class="trendingTags span-12">
+        <div class="sectionSeparator">
+			<h3>Most Popular Today</h3>
+		</div>
+                <div class="footer_mp">
+            <a href="http://www.thejournal.ie">
+                <img src="http://static.jrnl.ie/desktop/i/thejournal-trending.png" alt="TheJournal.ie" id="footer_mp_section_thejournal" />
+            </a>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thejournal">
+                                1                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.thejournal.ie/graham-dwyer-sentencing-2-2058638-Apr2015/">Graham Dwyer sentenced to life in prison</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthejournal"></span>
+                                    <span class="footer_thejournal">50,019</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthejournal"></span>
+                                    <span class="footer_thejournal">77</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thejournal">
+                                2                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.thejournal.ie/joan-collins-arrest-2058824-Apr2015/">&#8220;I was simply standing on a public footpath&#8221; &#8211; Joan Collins TD arrested at Dublin protest</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthejournal"></span>
+                                    <span class="footer_thejournal">39,403</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthejournal"></span>
+                                    <span class="footer_thejournal">259</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thejournal">
+                                3                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.thejournal.ie/mediterranean-rescue-2058837-Apr2015/">&#8220;To send them back is another way of killing them&#8221;</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthejournal"></span>
+                                    <span class="footer_thejournal">36,738</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthejournal"></span>
+                                    <span class="footer_thejournal">157</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                    </div>
+                <div class="footer_mp">
+            <a href="http://businessetc.thejournal.ie">
+                <img src="http://static.jrnl.ie/desktop/i/businessetc-trending.png" alt="Business ETC" id="footer_mp_section_businessetc" />
+            </a>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="businessetc">
+                                1                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://businessetc.thejournal.ie/penneys-abf-profit-sales-2060138-Apr2015/">All your Penneys shopping saved its owners from some ugly results</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsbusinessetc"></span>
+                                    <span class="footer_businessetc">19,244</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsbusinessetc"></span>
+                                    <span class="footer_businessetc">18</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="businessetc">
+                                2                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://businessetc.thejournal.ie/google-doodle-winner-harry-kane-ireland-2060120-Apr2015/">This Irish kid&#8217;s doodle will appear on the Google homepage</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsbusinessetc"></span>
+                                    <span class="footer_businessetc">13,767</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsbusinessetc"></span>
+                                    <span class="footer_businessetc">9</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="businessetc">
+                                3                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://businessetc.thejournal.ie/google-mobile-friendly-test-2060619-Apr2015/">It&#8217;s not just small businesses being punished after &#8216;mobilegeddon&#8217;</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsbusinessetc"></span>
+                                    <span class="footer_businessetc">12,477</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsbusinessetc"></span>
+                                    <span class="footer_businessetc">5</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                    </div>
+                <div class="footer_mp">
+            <a href="http://www.the42.ie">
+                <img src="http://static.jrnl.ie/desktop/i/the42-trending.png" alt="The42" id="footer_mp_section_thescore" />
+            </a>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thescore">
+                                1                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.the42.ie/jack-grealish-shay-given-england-ireland-2059920-Apr2015/">Jack Grealish &#8216;at a crossroads&#8217;, says Given, as English FA step up their interest</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthescore"></span>
+                                    <span class="footer_thescore">17,784</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthescore"></span>
+                                    <span class="footer_thescore">62</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thescore">
+                                2                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.the42.ie/bayern-munich-fc-porto-champions-league-live-2061588-Apr2015/">As it happened: Bayern Munich v FC Porto, Champions League</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthescore"></span>
+                                    <span class="footer_thescore">11,399</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthescore"></span>
+                                    <span class="footer_thescore">16</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thescore">
+                                3                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://www.the42.ie/fr-ted-sporting-moments-2057091-Apr2015/">The definitive ranking of Fr. Ted&#8217;s best sporting moments</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthescore"></span>
+                                    <span class="footer_thescore">11,607</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthescore"></span>
+                                    <span class="footer_thescore">19</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                    </div>
+                <div class="footer_mp">
+            <a href="http://thedailyedge.thejournal.ie">
+                <img src="http://static.jrnl.ie/desktop/i/thedailyedge-trending.png" alt="DailyEdge.ie" id="footer_mp_section_thedailyedge" />
+            </a>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thedailyedge">
+                                1                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://thedailyedge.thejournal.ie/father-ted-didnt-notice-2051404-Apr2015/">12 little details you never noticed in Father Ted</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">18,501</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">12</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thedailyedge">
+                                2                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://thedailyedge.thejournal.ie/father-ted-brand-tweets-2060632-Apr2015/">13 brands that have shamelessly tweeted about Father Ted today</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">5,886</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">1</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                            <table>
+                    <tr>
+                        <td class="footer_mp_number" valign="top">
+                            <div class="thedailyedge">
+                                3                            </div>
+                        </td>
+                        <td class="footer_mp_article" valign="top">
+                            <a href="http://thedailyedge.thejournal.ie/father-ted-2054240-Apr2015/">We asked some real priests how they remember Father Ted</a>
+                            <div class="footer_mp_views_comments">
+                                <div>
+                                    <span class="icon icon16 icon16Viewsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">4,808</span>&nbsp;
+                                    <span class="icon icon16 icon16Commentsthedailyedge"></span>
+                                    <span class="footer_thedailyedge">0</span>
+
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                    </div>
+                </div>
+        <!-- /Most popular today -->
+    <!-- Trending Tags -->
+    <div class="trendingTags span-12">
+        <div class="sectionSeparator">
+            <h3>Trending Tags</h3>
+        </div>
+                            <div class="footer_tn">
+                        <div class="footer_tn_tag">
+                        <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconDoubleUp"></span></div>
+                            <a href="http://www.thejournal.ie/father-ted/news/" class="tag_link">FATHER TED</a>
+                        </div>
+                                                    <a href="http://www.thejournal.ie/arthur-mathews-interview-ted-2061085-Apr2015/">
+                                <img 
+                                    src="http://c0.thejournal.ie/media/2015/04/a1-21-150x100.jpg"
+                                    alt="We asked one of the creators of Father Ted the big questions&amp;#8230;like Blur or Oasis?"
+                                    width="130" height="80"
+                                    class="footer_tn_article_img"
+                                />
+                            </a>
+                                                        <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/arthur-mathews-interview-ted-2061085-Apr2015/">
+                                        We asked one of the creators of Father Ted the big questions&#8230;like Blur or Oasis?                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/brendan-grace-fintan-stack-2060299-Apr2015/">
+                                        Brendan Grace on Father Ted and THOSE James Reilly comparisons                                     </a>
+                                </div>
+                                                                <div class="footer_tn_article last">
+                                    <a href="http://thedailyedge.thejournal.ie/father-ted-brand-tweets-2060632-Apr2015/">
+                                        13 brands that have shamelessly tweeted about Father Ted today                                    </a>
+                                </div>
+                                                    </div>
+                                        <div class="footer_tn">
+                        <div class="footer_tn_tag">
+                        <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconDoubleUp"></span></div>
+                            <a href="http://www.thejournal.ie/the-very-idea/news/" class="tag_link">THE VERY IDEA</a>
+                        </div>
+                                                    <a href="http://www.thejournal.ie/joan-collins-is-not-joan-collins-2060296-Apr2015/">
+                                <img 
+                                    src="http://c2.thejournal.ie/media/2015/04/screenshot-1429605553-96555-150x100.png"
+                                    alt="Joan Collins (the actress) tweets to say she&amp;#8217;s not Joan Collins (the arrested TD)"
+                                    width="130" height="80"
+                                    class="footer_tn_article_img"
+                                />
+                            </a>
+                                                        <div class="footer_tn_article last">
+                                    <a href="http://www.thejournal.ie/joan-collins-is-not-joan-collins-2060296-Apr2015/">
+                                        Joan Collins (the actress) tweets to say she&#8217;s not Joan Collins (the arrested TD)                                    </a>
+                                </div>
+                                                    </div>
+                                        <div class="footer_tn">
+                        <div class="footer_tn_tag">
+                        <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconUp"></span></div>
+                            <a href="http://www.thejournal.ie/courts/news/" class="tag_link">COURTS</a>
+                        </div>
+                                                    <a href="http://www.thejournal.ie/ulster-bank-atms-software-failure-2061654-Apr2015/">
+                                <img 
+                                    src="http://c2.thejournal.ie/media/2015/04/ulster-bank-atms-software-failure-2-150x100.jpg"
+                                    alt="Woman withdrew more than &acirc;�&not;50,000 from ATMs when Ulster Bank was down"
+                                    width="130" height="80"
+                                    class="footer_tn_article_img"
+                                />
+                            </a>
+                                                        <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/ulster-bank-atms-software-failure-2061654-Apr2015/">
+                                        Woman withdrew more than €50,000 from ATMs when Ulster Bank was down                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/gail-ororke-assisted-suicide-2053428-Apr2015/">
+                                        Jury in assisted suicide case hears the last words of dead woman                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article last">
+                                    <a href="http://www.thejournal.ie/mark-nash-grangegorman-murder-2059706-Apr2015/">
+                                        Mark Nash sentenced to life for the brutal murder of two women at Grangegorman                                    </a>
+                                </div>
+                                                    </div>
+                                        <div class="footer_tn">
+                        <div class="footer_tn_tag">
+                        <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconUp"></span></div>
+                            <a href="http://www.thejournal.ie/dublin/news/" class="tag_link">DUBLIN</a>
+                        </div>
+                                                    <a href="http://www.thejournal.ie/children-homeless-dublin-march-2015-2060370-Apr2015/">
+                                <img 
+                                    src="http://c3.thejournal.ie/media/2015/04/shutterstock_245888257-2-150x100.jpg"
+                                    alt="The number of homeless children is still rising"
+                                    width="130" height="80"
+                                    class="footer_tn_article_img"
+                                />
+                            </a>
+                                                        <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/children-homeless-dublin-march-2015-2060370-Apr2015/">
+                                        The number of homeless children is still rising                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/joan-collins-arrest-2058824-Apr2015/">
+                                        &#8220;I was simply standing on a public footpath&#8221; &#8211; Joan Collins TD arrested at Dublin protest                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article last">
+                                    <a href="http://thedailyedge.thejournal.ie/bonsoir-luna-2058892-Apr2015/">
+                                        A Dublin musical with all the songs in Irish is going to Cannes                                     </a>
+                                </div>
+                                                    </div>
+                                        <div class="footer_tn">
+                        <div class="footer_tn_tag">
+                        <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconUp"></span></div>
+                            <a href="http://www.thejournal.ie/google/news/" class="tag_link">GOOGLE</a>
+                        </div>
+                                                    <a href="http://www.thejournal.ie/snapchat-software-rivals-using-poach-2060711-Apr2015/">
+                                <img 
+                                    src="http://c2.thejournal.ie/media/2015/04/pinterest-3-150x100.png"
+                                    alt="Snapchat has been trying to poach rivals&amp;#8217; employees with its own software "
+                                    width="130" height="80"
+                                    class="footer_tn_article_img"
+                                />
+                            </a>
+                                                        <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/snapchat-software-rivals-using-poach-2060711-Apr2015/">
+                                        Snapchat has been trying to poach rivals&#8217; employees with its own software                                     </a>
+                                </div>
+                                                                <div class="footer_tn_article">
+                                    <a href="http://businessetc.thejournal.ie/google-mobile-friendly-test-2060619-Apr2015/">
+                                        It&#8217;s not just small businesses being punished after &#8216;mobilegeddon&#8217;                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article last">
+                                    <a href="http://thedailyedge.thejournal.ie/google-chrome-text-upside-down-search-bar-2061209-Apr2015/">
+                                        Google Chrome is turning text upside down and people are extremely confused                                    </a>
+                                </div>
+                                                    </div>
+                                        <div class="footer_tn last">
+                        <div class="footer_tn_tag">
+                        <div id="arrows" style="float:right;position:relative;right:0px;"><span class="icon iconUp"></span></div>
+                            <a href="http://www.thejournal.ie/court/news/" class="tag_link">COURT</a>
+                        </div>
+                                                    <a href="http://www.thejournal.ie/acdc-drummer-pleads-guilty-2060082-Apr2015/">
+                                <img 
+                                    src="http://c1.thejournal.ie/media/2015/04/new-zealand-acdc-phil-rudd-150x100.jpg"
+                                    alt="AC/DC drummer Phil Rudd pleads guilty to threat to kill"
+                                    width="130" height="80"
+                                    class="footer_tn_article_img"
+                                />
+                            </a>
+                                                        <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/acdc-drummer-pleads-guilty-2060082-Apr2015/">
+                                        AC/DC drummer Phil Rudd pleads guilty to threat to kill                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article">
+                                    <a href="http://www.thejournal.ie/graham-dwyer-sentencing-2-2058638-Apr2015/">
+                                        Graham Dwyer sentenced to life in prison                                    </a>
+                                </div>
+                                                                <div class="footer_tn_article last">
+                                    <a href="http://www.thejournal.ie/profile-graham-dwyer-2051588-Apr2015/">
+                                        Profile of a killer: Graham Dwyer                                    </a>
+                                </div>
+                                                    </div>
+                            </div>
+    </div>
+    <!-- /Trending Tags -->
+        <!-- /Main content -->
+        <!-- Footer -->
+        <div class="footer background">
+            <div id="server_identifier">
+                <span title="Rendered at 2015-04-21 22:13:05 Europe/Dublin +0100 DST:1 on 125">
+                    &#8734;
+                </span>
+            </div>
+            <div class="span-2">
+                <h3 class="border">About Us</h3>
+                <ul>
+                    <li><a href="http://www.thejournal.ie/about-us/">About Us</a></li>
+                    <li><a href="http://jobs.thejournal.ie/jobs/thejournal/">We're Hiring!</a></li>            
+                    <li><a href="http://www.thejournal.ie/contact/">Contact Us</a></li>
+                    <li><a href="http://advertising.thejournal.ie">Advertising</a></li>
+                </ul>
+            </div>
+            <div class="span-2">
+                <h3 class="border">Follow Us</h3>
+                <ul>
+                    <li><a href="http://twitter.com/thejournal_ie">Twitter</a></li>
+                    <li><a href="http://www.facebook.com/thejournal.ie">Facebook</a></li>
+                </ul>
+            </div>
+            <div class="span-2">
+                <h3 class="border">Corrections</h3>
+                <ul>
+                    <li><a class="lightboxTrigger" href="#ReportContent" title="Corrections">Report Content</a></li>
+                    
+                </ul>
+            </div>
+            <div class="span-2">
+                <h3 class="border">Policies</h3>
+                <ul>
+                    <li><a href="http://www.thejournal.ie/terms/" title="Terms of Use">Terms of Use</a></li>
+                    <li><a href="http://www.thejournal.ie/privacy/" title="Privacy Policy">Privacy Policy</a></li>
+                    <li><a href="http://www.thejournal.ie/cookies-policy/" title="Cookies Policy">Cookies Policy</a></li>
+                    <li><a href="http://www.thejournal.ie/comments-policy/" title="Comments Policy">Comments Policy</a><!--<span class="icon iconUpdated"></span>--></li>
+                    <li><a href="http://www.thejournal.ie/copyright-policy/" title="Copyright Policy">Copyright Policy</a></li>
+                </ul>
+            </div>
+            <div class="copyright span-4 last">
+                <strong>Content copyright &copy; Journal Media Ltd. 2015</strong>
+                Registered in Dublin, registration number: 483623.
+                Registered office: 3rd floor, Latin Hall, Golden Lane, Dublin 8.
+            </div>
+            <div class="legal border span-12">
+            <span class='PCI-footer-logo PCI-logo'></span>
+            <p>
+                <b><i>TheJournal.ie</i></b> is a full participating member of the Press Council of Ireland and supports 
+                the Office of the Press Ombudsman.  This scheme in addition to defending the freedom of the 
+                press, offers readers a quick, fair and free method of dealing with complaints that they may 
+                have in relation to articles that appear on our pages.  To contact the Office of the 
+                Press Ombudsman Lo-Call 1890 208 080 or go to 
+                <a href='http://www.pressombudsman.ie' target="_blank">www.pressombudsman.ie</a>  
+                or <a href='http://www.presscouncil.ie' target="_blank">www.presscouncil.ie</a>
+            </p>
+            <p>Please note that TheJournal.ie uses cookies to improve your experience and to provide services and advertising. For more information on cookies please refer to our <a href="http://www.thejournal.ie/cookies-policy">cookies policy</a>.</p>
+            <p>News images provided by <a href="http://www.pressassociation.com/images.html">Press Association</a> and <a href="http://www.photocallireland.com/">Photocall Ireland</a> unless otherwise stated. Irish sport images provided by <a href="http://www.inpho.ie">Inpho Photography</a> unless otherwise stated. Wire service provided by <a href="http://www.thejournal.ie/terms/?c=1#ap">Associated Press</a>.</p>
+
+            <p>Journal Media does not control and is not responsible for user created content, posts, comments, submissions or preferences. Users are reminded that they are fully responsible for their own created content and their own posts, comments and submissions and fully and effectively warrant and indemnify Journal Media in relation to such content and their ability to make such content, posts, comments and submissions available. Journal Media does not control and is not responsible for the content of external websites.</p>
+
+            <p class="switcher"><a href="http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/?switcher=touch" rel="nofollow">Switch to Mobile Site</a>  <span class="nightmode-toggle">| Night mode</span></p>
+            <p class="distilled">Sites:
+                <a href="http://www.thejournal.ie/">TheJournal.ie</a> |
+                <a href="http://businessetc.thejournal.ie/">BusinessETC.ie</a> |
+                <a href="http://www.the42.ie/">The42</a> |
+                <a href="http://thedailyedge.thejournal.ie/">DailyEdge.ie</a> |
+                <a href="http://www.boards.ie/">Boards.ie</a> |
+                <a href="http://www.adverts.ie/">Adverts.ie</a> |
+                <a href="http://www.daft.ie/">Daft.ie</a> 
+            </p>
+            </div>
+
+        </div>
+
+        <!-- /Footer -->
+
+        </div>
+        <!-- /Main container -->
+
+        <!-- Lightboxes -->
+    <div class="lightboxes">
+
+<div id="SubmitNews" class="submitNews lightbox">
+
+	<form action="http://www.thejournal.ie/ajax.php" method="post" enctype="multipart/form-data" id="SubmitNewsForm" target="SubmitNewsFrame">
+		<input type="hidden" name="action" value="tip_post" />
+		<input type="hidden" name="current_post_id" id="current_post_id" value="TheJournal.ie" />
+		<h1 class="form-element border" id="share_tip_title">Blow the whistle or share a story</h1>
+		<div class="form-element form-link border submitImage">
+			<div class="upAddLinks">
+				<a href="#uploadImage">Upload an image</a><!-- |
+				<a href="#addImage">Add image URL</a>--></p>
+			</div>
+			<div class="actionField" id="uploadImage">
+				<label for="uploadImage">Upload an image</label>
+				<input type="file" id="uploadImage" name="image_upload" />
+				<a href="#uploadImage" class="cancel">cancel</a>
+			</div>
+			<div class="actionField" id="addImage">
+				<label for="addImage">Add an image URL</label>
+				<input type="text" id="addImage" name="image_url" />
+				<a href="#addImage" class="cancel">cancel</a>
+			</div>
+		</div>
+		<div class="form-element form-link border submitVideo">
+			<div class="upAddLinks">
+				<a href="#uploadVideo">Upload a video</a> |
+				<a href="#addVideo">Add YouTube video</a>
+			</div>
+			<div class="actionField" id="uploadVideo">
+				<label for="uploadVideo">Upload a video</label>
+				<input type="file" id="uploadVideo" name="video_upload" />
+				<a href="#uploadVideo" class="cancel">cancel</a>
+			</div>
+			<div class="actionField" id="addVideo">
+				<label for="addVideo">YouTube Address (URL):</label>
+				<input type="text" id="addVideo" name="video_url" />
+				<a href="#addVideo" class="cancel">cancel</a>
+			</div>
+		</div>
+		<div class="form-element border yourStory clearfix">
+			<textarea name="story" id="story"></textarea>
+            <label for="email_tip" id="email_tip_label">Your email (optional)</label>
+			<input type="text" name="email_tip" id="email_tip"></input>
+			<button class="buttonSubmit" type="submit">Submit</button>
+			<img src="http://static.jrnl.ie/desktop/i/loading.gif" width="16" height="16" class="loading" alt="One moment..." />
+		</div>
+	</form>
+	<p class="notice">Alternatively, you can email us at: <a href="mailto:tips@thejournal.ie">tips@thejournal.ie</a></p>
+
+	<iframe name="SubmitNewsFrame" id="SubmitNewsFrame"></iframe>
+
+</div>
+
+<div id="CommentLogIn" class="lightbox">
+    <h1 class="border">Please log in to comment</h1>
+    <div class="login-buttons clearfix">
+        <div id="alt-login-methods">
+            <p>
+                <span>
+                    <span class="facebook_connect_button label" id="" onclick="jrnl_social_login('facebook', true, false)">
+                        <img src="http://static.jrnl.ie/desktop/i/fb-login.png" width="169" height="22" />
+                    </span>
+                </span>
+            </p>
+            <p>
+                <span class="twitter_connect_button label" id="" onclick="jrnl_social_login('twitter', true, false)">
+                    <img width="151" height="24" border="0" src="http://static.jrnl.ie/desktop/i/tw-login.png">
+                </span>
+            </p>
+            <p>
+            <img id="main_page_login" class="login_loading_throb" src="http://static.jrnl.ie/desktop/i/loading.gif">
+            </p>
+        </div>
+    </div>
+</div>
+
+<div id="TeamLogIn" class="lightbox">
+    <h1 class="border">Please log in with facebook to Share</h1>
+    <div class="login-buttons clearfix">
+        <div id="alt-login-methods">
+            <p class="sport-fb-login">
+                <span>
+                    <span class="facebook_connect_button label" id="" onclick="jrnl_social_login('facebook', false, 'liketeam')">
+                        <img src="http://static.jrnl.ie/desktop/i/fb-login.png" width="169" height="22" />
+                    </span>
+                </span>
+            </p>
+            <p>
+            <img id="main_page_login" class="login_loading_throb" src="http://static.jrnl.ie/desktop/i/loading.gif">
+            </p>
+        </div>
+    </div>
+</div>
+
+<div id="SubmitNewsLogIn" class="lightbox">
+	<h1 class="border">Please log in</h1>
+	<div class="login-buttons clearfix">
+        <div id="alt-login-methods">
+            <p>
+                <span>
+                    <span class="facebook_connect_button label" id="" onclick="jrnl_social_login('facebook', false, false)">
+                        <img src="http://static.jrnl.ie/desktop/i/fb-login.png" width="169" height="22" />
+                    </span>
+                </span>
+            </p>
+            <p>
+                <span class="twitter_connect_button label" id="" onclick="jrnl_social_login('twitter', false, false)">
+                    <img width="151" height="24" border="0" src="http://static.jrnl.ie/desktop/i/tw-login.png">
+                </span>
+            </p>
+            <p>
+            <img id="main_page_login" class="login_loading_throb" src="http://static.jrnl.ie/desktop/i/loading.gif">
+            </p>
+        </div>
+	</div>
+</div>
+
+<div id="feed-popup" class="lightbox">
+
+	<h1 class="border">RSS feeds available here:</h1>
+
+	<div class="feedlist border">
+    <p class="rss"><a href="/feed/">TheJournal.ie Latest News Feed</a></p><p class="rss"><a href="http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015//feed/">Germanwings: One pilot &#8216;locked out&#8217; of cockpit before crash Comments</a></p>	</div>
+
+</div>
+<div id="ReportContent" class="lightbox reportContent">
+	<form id="report-content-popup-form" method="post">
+		<input type="hidden" name="current_page" value="http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/?utm_source=twitter_self" />
+		<input type="hidden" name="action" value="post_report_content_form" />
+        <input type="hidden" name="article-id" value="2013689" />
+		<h1 class="form-element border">Report an error, omission or problem:</h1>
+
+		<div class="form-element message">
+			<div id="AlertAuthorMessage" class="field">
+				<label for="AlertAuthorMessage">Message:</label>
+				<textarea name="message" id="AlertAuthorMessage"></textarea>
+			</div>
+		</div>
+
+		<div class="form-element">
+			<label for="yourEmail">Your Email (optional)</label>
+			<input type="text" class="text" id="yourEmail" name="email-from" />
+		</div>
+
+		<div class="clearfix">
+			<button class="buttonSubmit" type="submit">Submit</button>
+			<img src="http://static.jrnl.ie/desktop/i/loading.gif"  width="16" height="16"  class="loading" alt="One moment..." />
+		</div>
+		
+	</form>
+</div>
+<div id="EmailAlert" class="lightbox emailAlert">
+	<form id="create-email-alert-form" method="post">
+		<input type="hidden" name="current_page" value="http://www.thejournal.ie/germanwings-pilot-cockpit-2013689-Mar2015/?utm_source=twitter_self" />
+		<input type="hidden" name="action" value="post_create_email_alert_form" />
+		<h1 class="form-element border">Create Email Alert</h1>
+        <p>Create an email alert based on the current article</p>
+
+		<div class="form-element">
+			<label for="alertEmailAddress">Email Address</label>
+			<input type="text" class="text" id="alertEmailAddress" name="email-address" />
+		</div>
+        
+		<div class="form-element">
+			<input type="radio" class="radio emailAlert" id="alertFrequencyDaily" name="alert-frequency" value="daily" checked="checked" />
+            <label for="alertFrequencyDaily" class="emailAlert">One email every morning</label>
+			<input type="radio" class="radio emailAlert" id="alertFrequencyInstantly" name="alert-frequency" value="instantly" />
+            <label for="alertFrequencyInstantly" class="emailAlert">As soon as new articles come online</label>
+		</div>
+        
+        <input type="hidden" name="ip-address" value="90.204.126.126" />
+        <input type="hidden" name="feed-url" value="/topic//feed" />
+        <input type="hidden" name="feed-description" value="Articles related to " />
+
+		<div class="clearfix">
+			<button class="buttonSubmit" type="submit">Submit</button>
+			<img src="http://static.jrnl.ie/desktop/i/loading.gif"  width="16" height="16"  class="loading" alt="One moment..." />
+		</div>
+		
+	</form>
+</div>
+
+<div id="Thanks" class="lightbox">
+	<h1 id="thanks-message" style="color:#cc0000"></h1>
+</div>
+
+	
+	<div id="FacebookEdition" class="lightbox facebookEdition">
+
+			<h1><i>TheJournal.ie</i> Facebook Edition</h1>
+			
+			<div class="form-element message" style="font-size:12px; line-height:15px">
+
+			<ul style="font-size:14px; line-height:15px">
+				<li>Share stories with your friends and family easily</li>
+				<li>Comment without having to login</li>
+				<li>More features coming soon...</li>
+			</ul>
+			<br /><br />
+			
+			<p style="text-align:center; margin-top:10px"><a href="#" class="sfc_login_button"><img src="" width="277" height="38"></a></p>
+			</div>
+	</div>
+
+</div>
+  
+        <!-- /Lightboxes -->
+
+        <script type="text/javascript">
+            var _ac = 'thejournal.ie';
+            var _sid = '234604';
+            var _un = 'thejournal.ie';
+            var _pa = '76af0b4d8a69839c0d361c0862fd0ed8';
+        </script>
+
+                <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-17456403-1']);
+            _gaq.push(['_setDomainName', 'thejournal.ie']);
+            _gaq.push(['_setAllowLinker', true]);
+            _gaq.push(['_setSiteSpeedSampleRate', 10]);
+
+                        
+            _gaq.push(['_setCustomVar',
+               2,            
+               'Social Session:',   
+               'None',      
+                2             
+            ]);
+
+            
+            function local_storage_support(){
+                try{
+                    return 'localStorage' in window && window['localStorage'] !== null;
+                }catch(e){
+                    return false;
+                }
+            }
+            storage_support = 'No';
+            if(local_storage_support())
+            {
+                storage_support = 'Yes';
+            }
+            _gaq.push(['_setCustomVar',
+                       1,
+                       'Local Storage Support:',
+                       storage_support,
+                       1
+                   ]);
+                   
+               
+           _gaq.push(['_trackPageview']
+               , ['b._setAccount', 'UA-28511705-2']
+               , ['b._trackPageview']
+           );       
+            
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+        
+                
+            <script type="text/javascript">
+            window._taboola = window._taboola || [];
+            window._taboola.push({"article": "auto"});
+            </script>
+            <script type="text/javascript" src="http://cdn.taboolasyndication.com/libtrc/distilledmedia-thejournal/loader.js"></script>
+        
+        <img src='/i.php?i=2013689&r=142965078512902&type=article' />    <!-- Comscore Noscript Tag -->
+        <noscript>
+          <img src="http://b.scorecardresearch.com/p?c1=2&c2=6770180&cv=2.0&cj=1" />
+        </noscript>       
+    <!-- End Comscore Noscript Tag -->
+        
+        <script type="text/javascript">
+                        if('sessionStorage' in window && window['sessionStorage'] !== null)
+            {
+                var _ga_login_status = sessionStorage.getItem("_ga_login_status");
+                
+                if(_ga_login_status == null)
+                {
+                    _ga_login_status = {"facebook":null, "google":null, "googlePlus":null, "twitter":null};
+                    var _ga_login_support = [];
+                    var _ga_login_called = [];
+
+                    function ga__log_login_status(n, b)
+                    {
+                        _ga_login_status[n] = b;
+                        if(b === true) {
+                            _ga_login_support.push(n);
+                        }
+                        _ga_login_called.push(n);
+                        if(_ga_login_called.length == 4)
+                        {
+                            _ga_login_support.sort();            
+                            _gaq.push(['_setCustomVar',
+                                       3,
+                                       'Social Session Support:',
+                                       _ga_login_support.join('; '),
+                                       2
+                                   ]);
+                            _gaq.push(['_trackEvent', 'socialSession', 'Detection Complete']); // this is needed to push the custom var to GA
+                            sessionStorage.setItem("_ga_login_status", _ga_login_status);
+                        }
+                    }
+                    
+                    var _ga_fb_login_status = null;
+                    function ga__check_fb()
+                    {
+                        // this response will be cached if already called
+                        if(typeof FB != 'undefined'
+                            && _ga_fb_login_status == null)
+                        {
+                            FB.getLoginStatus(function(response) {
+                                _ga_fb_login_status = response.status;
+                                if(response.status == 'unknown') {
+                                    ga__log_login_status("facebook", false);
+                                }
+                                else {
+                        			ga__log_login_status("facebook", true);
+                        		}
+                            });
+                        }
+                        else
+                        {
+                            setTimeout(ga__check_fb, 250);
+                        }                       
+                    }
+                   
+                    ga__check_fb();
+                    
+                                        document.write('<img style="display:none;" src="https://twitter.com/login?redirect_after_login=%2Fimages%2Fspinner.gif" onload="ga__log_login_status(\'twitter\', true)" onerror="ga__log_login_status(\'twitter\', false)" />');
+                }
+            }
+        </script>
+        
+        <!-- Start dmlpool Tag -->
+        <script>
+        var _pool = _pool || [];
+        (function(){
+            var s = document.createElement('script');
+            s.type = 'text/javascript'; s.async = true;
+            s.src = 'http://pool.distilled.ie/js/pool.min.js';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        })();
+        _pool.push(['write', ['_dml']]);
+        </script>
+        <!-- End dmlpool Tag -->
+
+    </body>
+</html>

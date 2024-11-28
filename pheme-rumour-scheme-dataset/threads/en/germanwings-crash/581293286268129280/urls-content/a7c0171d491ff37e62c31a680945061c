@@ -1,0 +1,646 @@
+HTTP/1.1 200 OK
+Cache-Control: stale-while-revalidate=300
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+P3P: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+X-Kinja: app09.bfc.kinja-ops.com #15682
+X-Kinja-Build: 15682
+X-Kinja-Revision: 43fd27e7eee71ffcb2a7ce8509b0f9752140b626
+X-Kinja-Server: app09.bfc.kinja-ops.com
+Via: 1.1 varnish
+Set-Cookie: geocc=EU;path=/;
+x-cdn-fetch: mantle-setcookie
+Content-Length: 21528
+Accept-Ranges: bytes
+Date: Tue, 21 Apr 2015 21:12:39 GMT
+Via: 1.1 varnish
+Age: 1111
+Connection: keep-alive
+X-Served-By: cache-jfk1034-JFK, cache-lcy1131-LCY
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1429650759.510214,VS0,VE72
+Vary: Accept-Encoding, X-Feature-Hash,Accept-Encoding
+Set-Cookie: geocc=GB;path=/;
+
+	<!DOCTYPE html><!--[if lt IE 8]>	 <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]--><!--[if IE 8]>	  <html class="no-js lt-ie9" lang="en-US"> <![endif]--><!--[if IE 9]>	<html class="no-js ie-9" lang="en-US"> <![endif]--><!--[if gt IE 9]><!--> <html class="no-js" lang="en-US"> <!--<![endif]--><!-- THIS IS OVERLORD --><head><meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=EDGE" /><script async type="text/javascript" src="http://kinja.com/api/profile/assets/javascripts/sso.js"></script>
+	<script type="text/javascript">
+		var _sf_startpt=(new Date()).getTime();
+		if (typeof(performance) !== 'undefined' && typeof performance.now === 'function') {
+			var _kinjaperf_start = performance.now();
+		}
+	</script>
+		
+	<script type="text/javascript">
+		(function () {
+		  var w = typeof window != 'undefined' ? window : exports,
+			  marks = [];
+		  w.performance || (w.performance = {});
+		  w.performance.now || (
+			w.performance.now = performance.now || performance.webkitNow ||
+									 performance.msNow || performance.mozNow);
+		  if (!w.performance.now){
+			var s = Date.now ? Date.now() : +(new Date());
+			if (performance.timing && performance.timing)
+			  s = performance.timing.navigationStart
+			w.performance.now = (function(){
+			  var n = Date.now ? Date.now() : +(new Date());
+			  return n-s;
+			});
+		  }
+		  w.performance.mark || (
+		  w.performance.mark =
+			w.performance.webkitMark ? w.performance.webkitMark :
+			(function (l) {
+			  marks.push({'name': l, 'entryType': 'mark', 'startTime': w.performance.now(), 'duration':0 });
+			}));
+		  w.performance.getEntriesByType || (
+		  w.performance.getEntriesByType =
+			w.performance.webkitGetEntriesByType ? w.performance.webkitGetEntriesByType :
+			(function (t) {
+			  return t == 'mark' ? marks : [];
+			}));
+		  w.performance.clearMarks || (
+			w.performance.clearMarks = w.performance.webkitClearMarks ? w.performance.webkitClearMarks :
+			(function () {
+			  marks = [];
+			}));
+		  w.markUserTime = function(l) {
+			setTimeout(function() {
+				if (typeof w.performance.mark === 'function') {
+					w.performance.mark(l);
+				}
+				if (w.console && w.console.timeStamp) {
+					w.console.timeStamp(l);
+				}
+			}, 0);
+		  };
+
+		}());
+	</script>
+		<script>
+	window.Krux || ((Krux = function () {
+		Krux.q.push(arguments);
+	}).q = []);
+	(function () {
+		function retrieve(n) {
+			var m, k = 'kx' + n;
+			if (window.localStorage) {
+				return window.localStorage[k] || "";
+			} else if (navigator.cookieEnabled) {
+				m = document.cookie.match(k + '=([^;]*)');
+				return (m && unescape(m[1])) || "";
+			} else {
+				return '';
+			}
+		}
+		Krux.user = retrieve('user');
+		Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+	})();
+	</script><link rel="stylesheet" href="http://x.kinja-static.com/assets/stylesheets/tiger-bd2896d13d555ede44252d4442261c31.css"><meta name="dynamic-stylesheet" id="editor-css-url" content="http://x.kinja-static.com/assets/stylesheets/editor-43fa204fd8cc06be524b615a79a568e8.css"><!-- Site specific colors -->	<style type="text/css">
+				a, a:hover, a:focus { color: #E25A48; }
+			</style><meta name="google-site-verification" content="P13oAn8o8LB6FVCJWKsHWXvxfbR-SJrmvox6EgULpUs" /><!-- IE Fix for HTML5 Tags --><!--[if lte IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><meta charset="utf-8" /><!-- Set the viewport width to device width for mobile --><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0,maximum-scale=10.0" /><meta name="ROBOTS" content="INDEX, FOLLOW" /><title>The Evidence That the Germanwings Copilot Was Muslim Is Sketchy as Hell</title><!-- favicon and touch icons --><link rel="shortcut icon" href="http://i.kinja-img.com/gawker-media/image/upload/s--IjKtBszJ--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/lqyan0rqlurqryjydgem.png" /><link rel="apple-touch-icon" href="http://i.kinja-img.com/gawker-media/image/upload/s--iOzyFvd2--/c_fill,fl_progressive,g_center,h_200,q_80,w_200/lqyan0rqlurqryjydgem.png" /><meta name="msapplication-square70x70logo" content="http://i.kinja-img.com/gawker-media/image/upload/s--IjKtBszJ--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/lqyan0rqlurqryjydgem.png" /><meta name="msapplication-square150x150logo" content="http://i.kinja-img.com/gawker-media/image/upload/s--iOzyFvd2--/c_fill,fl_progressive,g_center,h_200,q_80,w_200/lqyan0rqlurqryjydgem.png" /><!-- rss --><link rel="alternate" type="application/rss+xml" title="Antiviral - All stories" href="http://antiviral.gawker.com/rss" /><!-- Open Graph/Facebook headers --><meta name="keywords" content="Andreas Lubitz, Germanwings, Plane Crash, Co-Pilot, Muslims, Bullshit, Islam, Andrew McCarthy, Antiviral" /><meta name="news_keywords" content="Andreas Lubitz, Germanwings, Plane Crash, Co-Pilot, Muslims, Bullshit, Islam, Andrew McCarthy, Antiviral" /><link rel="canonical" href="http://antiviral.gawker.com/the-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626" /><meta name="twitter:url" content="http://antiviral.gawker.com/the-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626" /><meta property="og:title" content="The Evidence That the Germanwings Copilot Was Muslim Is Sketchy as Hell" /><meta property="og:type" content="article" /><meta name="twitter:image" content="http://i.kinja-img.com/gawker-media/image/upload/s--vVTLLdp7--/iqht4qumdqldyoznz6bq.jpg" /><meta property="og:image" content="http://i.kinja-img.com/gawker-media/image/upload/s--vVTLLdp7--/iqht4qumdqldyoznz6bq.jpg" /><meta name="author" content="Jay Hathaway" /><meta property="og:url" content="http://antiviral.gawker.com/the-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626" /> <!-- permalink --><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@kinja"><meta name="twitter:title" content="The Evidence That the Germanwings Copilot Was Muslim Is Sketchy as Hell"><meta name="twitter:description" content="In the wake of the Germanwings flight that went down in the French alps Tuesday, killing 150, investigators and the media are focusing in on co-pilot Andreas Lubitz, who apparently locked the pilot out of the cabin and intentionally crashed the plane. Was he mentally ill? Was he suicidal? Or was he, perhaps, a secret Muslim jihadist?!"><meta property="og:description" content="In the wake of the Germanwings flight that went down in the French alps Tuesday, killing 150, investigators and the media are focusing in on co-pilot Andreas Lubitz, who apparently locked the pilot out of the cabin and intentionally crashed the plane. Was he mentally ill? Was he suicidal? Or was he, perhaps, a secret Muslim jihadist?!" /><meta name="description" content="In the wake of the Germanwings flight that went down in the French alps Tuesday, killing 150, investigators and the media are focusing in on co-pilot Andreas Lubitz, who apparently locked the pilot out of the cabin and intentionally crashed the plane. Was he mentally ill? Was he suicidal? Or was he, perhaps, a secret Muslim jihadist?!" /><meta property="og:locale" content="en_US" /><meta property="og:site_name" content="Antiviral" /><meta property="fb:app_id" content="36368793975"/><script src="//cdn.optimizely.com/js/2682251922.js"></script></head><body class="antiviral1 custom-skin permalink en-US f_ads_controller_on f_amazon_matchbuy_on f_amazon_selective_clientside_render_on f_analyticstracking_on f_bigpic_share_on f_biztools_blogname_on f_black_search_icon_on f_cda_on_hash_on f_closure_dashboard_on f_closureaction_dashboardnotifications_on f_coredecorators_on f_coreinsets_on f_crossdomainanalytics_on f_editor_dst_fix_on f_foobar_foo f_footer_new_chartbeat_on f_foreplay_copy_update_on f_gnc_on f_gns_on f_gnx_on f_grecaptcha_on f_groupchats_refactor_on f_groupchats_rendering_performance_on f_hide_pending_replies_on f_htmlmode_save_fix_on f_iframe_resize_on f_kinjacom_redirect_on f_large_post_performance_on f_limit_draft_controls_on f_longer_permalink_cache_time_1800_on f_moatads_headertag_on f_moatads_promoted_on f_mobile_ad_prototypes_on f_mobile_ad_prototypes_permalink_on f_new_editor_css_on f_new_editor_dst_fix_on f_newblogproperties_on f_newfollowlists_on f_newnav_on f_newnav_editor_pushdown_on f_no_follow_pending_on f_optimizely_on f_permalinkservice_inviteservice_on f_permalinkservice_showcaseurl_on f_pinterest_on f_popular_6_on f_post_completion_on f_privateview_redirect_on f_promoted_touch_on f_purge_permalink_on_update_on f_raven_on f_recommended_footer_on f_redactor_on f_remove_spinner_on f_round_avatars_on f_s3assets_on f_scribe_on f_scribe_curly_quotes_on f_scribe_export_xhtml_on f_scribe_paragraphize_formatter_on f_scribe_thirdparty_image_fix_on f_sidebar_top_uses_subdomain_on f_simplereach_expanded_on f_tablet_popular_on f_throttle_measuring_off f_throttle_test_foo_lorem f_twitter_embed_fix_on f_uidimages_on f_universalanalytics_on f_userstats_on f_viewstats_via_service_on k_liveblog_appRevision_1 k_liveblog_pollIntervalMillis_10000 k_maintenance_off" data-timezone-offset="-14400000"><div class="success-messages" id="js_success-box-container"></div>	
+	<script type="text/javascript">
+		var readOnlyRequest;
+		var cn = "read-only";
+		var cacheBusterParam = "?cb=" + Math.floor(Date.now() / 60000); // update every minute
+		var setReadOnly = function () {
+			document.body.className = (document.body.className === '') ? cn : document.body.className + ' ' + cn;
+		};
+		if (window.XMLHttpRequest) {
+			readOnlyRequest = new XMLHttpRequest();
+		} else if (window.ActiveXObject) {
+			readOnlyRequest = new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		readOnlyRequest.onreadystatechange = function() {
+			if (readOnlyRequest.readyState == 4 && readOnlyRequest.status >= 500 && readOnlyRequest.status < 600) {
+				setReadOnly();
+			}
+		};
+    	readOnlyRequest.open('GET', "/ajax/readOnlyMode" + cacheBusterParam);
+    	readOnlyRequest.send();
+	</script>
+	<div id="js_off-canvas-wrap" class="off-canvas-wrap" data-offcanvas><div class="inner-wrap"><aside class="left-off-canvas-menu show-for-medium-down proxima nav-dropdown main-menu">	<div id="js_blogmenu--offcanvas"><div class="search show-for-medium-down">	<form method="GET" class="search search-simple" action="/search" onsubmit="window.ga('send', 'event', 'Search', 'Submit', 'permalink');"><div class="input-with-icon"><span class="icon icon-search-alt-thin"></span><input type="text" placeholder="Search Antiviral" name="q" class="mbn" autocomplete="off" data-focus-on-display/></div></form></div><div class="divider show-for-medium-down"></div><div class="js_login-links show-for-medium-down"></div>	<ul class="show-for-medium-down"><li class="add js_follow-controls js_follow-blog-controls follow-controls--blog-menu" data-blogid="1592800809"><a href="#" class="js_followblogforuser proxima"><span class="icon icon-plus-alt"></span> <span>Follow Antiviral</span></a><a href="#" class="js_unfollowblogforuser proxima hide"><span class="icon icon-checkmark-alt"></span> <span>Following</span></a></li><li></li></ul><ul class="related-blog-list"><li class="title">Related blogs</li>	<li><a href="http://gawker.com" data-ga="[Kinja Menu, Related Blog Click, Gawker]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Gawker</a></li><li><a href="http://valleywag.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Valleywag]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Valleywag</a></li><li><a href="http://defamer.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Defamer]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Defamer</a></li><li><a href="http://morningafter.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Morning After]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Morning After</a></li><li><a href="http://tktk.gawker.com" data-ga="[Kinja Menu, Related Blog Click, TKTK]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>TKTK</a></li><li><a href="http://justice.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Justice]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Justice</a></li><li><a href="http://internet.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Internet]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Internet</a></li><li><a href="http://review.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Gawker Review of Books]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Gawker Review of Books</a></li><li><a href="http://truestories.gawker.com" data-ga="[Kinja Menu, Related Blog Click, True Stories]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>True Stories</a></li><li><a href="http://domesticity.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Domesticity]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Domesticity</a></li><li><a href="http://thevane.gawker.com" data-ga="[Kinja Menu, Related Blog Click, The Vane]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>The Vane</a></li><li><a href="http://fortressamerica.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Fortress America]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Fortress America</a></li><li><a href="http://dog.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Dog]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Dog</a></li><li><a href="http://sausage.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Sausage]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Sausage</a></li><li><a href="http://blackbag.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Black Bag]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Black Bag</a></li></ul><ul class="gmg-blog-list"><li class="title">Blogs you may like</li>	<li><a href="http://deadspin.com" data-ga="[Kinja Menu, Blogs You May Like Click, Deadspin]"><span class="icon icon-prepend icon-sprite site-icon site-icon-deadspin"></span>Deadspin</a></li><li><a href="http://gawker.com" data-ga="[Kinja Menu, Blogs You May Like Click, Gawker]"><span class="icon icon-prepend icon-sprite site-icon site-icon-gawker"></span>Gawker</a></li><li><a href="http://gizmodo.com" data-ga="[Kinja Menu, Blogs You May Like Click, Gizmodo]"><span class="icon icon-prepend icon-sprite site-icon site-icon-gizmodo"></span>Gizmodo</a></li><li><a href="http://io9.com" data-ga="[Kinja Menu, Blogs You May Like Click, io9]"><span class="icon icon-prepend icon-sprite site-icon site-icon-io9"></span>io9</a></li><li><a href="http://jalopnik.com" data-ga="[Kinja Menu, Blogs You May Like Click, Jalopnik]"><span class="icon icon-prepend icon-sprite site-icon site-icon-jalopnik"></span>Jalopnik</a></li><li><a href="http://jezebel.com" data-ga="[Kinja Menu, Blogs You May Like Click, Jezebel]"><span class="icon icon-prepend icon-sprite site-icon site-icon-jezebel"></span>Jezebel</a></li><li><a href="http://kotaku.com" data-ga="[Kinja Menu, Blogs You May Like Click, Kotaku]"><span class="icon icon-prepend icon-sprite site-icon site-icon-kotaku"></span>Kotaku</a></li><li><a href="http://lifehacker.com" data-ga="[Kinja Menu, Blogs You May Like Click, Lifehacker]"><span class="icon icon-prepend icon-sprite site-icon site-icon-lifehacker"></span>Lifehacker</a></li><li><a href="http://sploid.gizmodo.com/" data-ga="[Kinja Menu, Blogs You May Like Click, Sploid]"><span class="icon icon-prepend icon-sprite site-icon site-icon-sploid"></span>Sploid</a></li></ul></div><div class="divider"></div></aside><aside class="right-off-canvas-menu show-for-medium-down proxima nav-dropdown">	<dl class="tabs row" data-tab><dd class="js_notif-tab tab-title small-6 columns"><a href="#js_notifications--offcanvas">Notifications</a></dd><dd class="js_username-tab tab-title active small-6 columns"><a href="#js_usermenu--offcanvas" class="js_username">Username</a></dd></dl><div class="tabs-content"><div class="content notif-menu js_notif-panel" id="js_notifications--offcanvas"><div class="divider"></div></div><div class="content active" id="js_usermenu--offcanvas"><div class="divider"></div></div></div></aside><a class="exit-off-canvas"></a>	<!--  md5!  --><nav class="js_global-nav-wrap js_top-nav global-nav"><div class="global-nav__left global-nav__triggers"><a class="left-off-canvas-toggle hamburger-trigger" data-ga="[Kinja Menu, Menu Click, js_pageType]"><span class="icon-dustinburger"><span></span><span></span><span></span></span></a><a data-dropdown="global-blog" class="js_menu-button hamburger-trigger hamburger-trigger--desktop" data-ga="[Kinja Menu, Menu Click, js_pageType]"><span class="icon-dustinburger"><span></span><span></span><span></span></span></a><a href="#" id="global-search-trigger" class="search-trigger" data-dropdown="global-search" data-ga="[Kinja Menu, Search Click, js_pageType]"><span class="icon icon-search-alt-thin"></span></a></div><div class="global-nav__right global-nav__triggers js_right-user-bar"></div><div class="global-nav__center row"><div class="logo-wrapper large-6 columns large-offset-4"><a href="/" class="logo" title="Antiviral" data-ga="[Kinja Menu, Logo/Blog Title Click, js_pageType]"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--6oI_Q6Ha--/c_fit,fl_progressive,q_80,w_600/fz4ajqqixtvhnix1es2o.png" alt="" /></a><div class="follow-controls follow-controls--header js_follow-controls js_follow-blog-controls" data-blogid="1592800809"><a href="#" class="js_followblogforuser follow-controls__link" title="Follow Antiviral" data-ga="[Kinja Menu, Follow Link Click, js_pageType]"><span class="icon icon-plus-alt"></span>Follow</a><a href="#" class="js_unfollowblogforuser follow-controls__link hide" title="Unfollow Antiviral" data-ga="[Kinja Menu, Unfollow Link Click, js_pageType]"><span class="icon icon-checkmark-alt"></span>Following</a></div></div></div><div class="proxima f-dropdown content nav-dropdown main-menu hide-for-medium-down dropdown-wide" id="global-blog" data-dropdown-content><div id="js_blogmenu--dropdown"><div class="search show-for-medium-down">	<form method="GET" class="search search-simple" action="/search" onsubmit="window.ga('send', 'event', 'Search', 'Submit', 'permalink');"><div class="input-with-icon"><span class="icon icon-search-alt-thin"></span><input type="text" placeholder="Search Antiviral" name="q" class="mbn" autocomplete="off" data-focus-on-display/></div></form></div><div class="divider show-for-medium-down"></div><div class="js_login-links show-for-medium-down"></div>	<ul class="show-for-medium-down"><li class="add js_follow-controls js_follow-blog-controls follow-controls--blog-menu" data-blogid="1592800809"><a href="#" class="js_followblogforuser proxima"><span class="icon icon-plus-alt"></span> <span>Follow Antiviral</span></a><a href="#" class="js_unfollowblogforuser proxima hide"><span class="icon icon-checkmark-alt"></span> <span>Following</span></a></li><li></li></ul><ul class="related-blog-list"><li class="title">Related blogs</li>	<li><a href="http://gawker.com" data-ga="[Kinja Menu, Related Blog Click, Gawker]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Gawker</a></li><li><a href="http://valleywag.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Valleywag]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Valleywag</a></li><li><a href="http://defamer.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Defamer]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Defamer</a></li><li><a href="http://morningafter.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Morning After]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Morning After</a></li><li><a href="http://tktk.gawker.com" data-ga="[Kinja Menu, Related Blog Click, TKTK]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>TKTK</a></li><li><a href="http://justice.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Justice]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Justice</a></li><li><a href="http://internet.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Internet]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Internet</a></li><li><a href="http://review.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Gawker Review of Books]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Gawker Review of Books</a></li><li><a href="http://truestories.gawker.com" data-ga="[Kinja Menu, Related Blog Click, True Stories]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>True Stories</a></li><li><a href="http://domesticity.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Domesticity]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Domesticity</a></li><li><a href="http://thevane.gawker.com" data-ga="[Kinja Menu, Related Blog Click, The Vane]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>The Vane</a></li><li><a href="http://fortressamerica.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Fortress America]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Fortress America</a></li><li><a href="http://dog.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Dog]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Dog</a></li><li><a href="http://sausage.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Sausage]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Sausage</a></li><li><a href="http://blackbag.gawker.com" data-ga="[Kinja Menu, Related Blog Click, Black Bag]"><span class="icon icon-sprite site-icon site-icon-default icon-prepend"></span>Black Bag</a></li></ul><ul class="gmg-blog-list"><li class="title">Blogs you may like</li>	<li><a href="http://deadspin.com" data-ga="[Kinja Menu, Blogs You May Like Click, Deadspin]"><span class="icon icon-prepend icon-sprite site-icon site-icon-deadspin"></span>Deadspin</a></li><li><a href="http://gawker.com" data-ga="[Kinja Menu, Blogs You May Like Click, Gawker]"><span class="icon icon-prepend icon-sprite site-icon site-icon-gawker"></span>Gawker</a></li><li><a href="http://gizmodo.com" data-ga="[Kinja Menu, Blogs You May Like Click, Gizmodo]"><span class="icon icon-prepend icon-sprite site-icon site-icon-gizmodo"></span>Gizmodo</a></li><li><a href="http://io9.com" data-ga="[Kinja Menu, Blogs You May Like Click, io9]"><span class="icon icon-prepend icon-sprite site-icon site-icon-io9"></span>io9</a></li><li><a href="http://jalopnik.com" data-ga="[Kinja Menu, Blogs You May Like Click, Jalopnik]"><span class="icon icon-prepend icon-sprite site-icon site-icon-jalopnik"></span>Jalopnik</a></li><li><a href="http://jezebel.com" data-ga="[Kinja Menu, Blogs You May Like Click, Jezebel]"><span class="icon icon-prepend icon-sprite site-icon site-icon-jezebel"></span>Jezebel</a></li><li><a href="http://kotaku.com" data-ga="[Kinja Menu, Blogs You May Like Click, Kotaku]"><span class="icon icon-prepend icon-sprite site-icon site-icon-kotaku"></span>Kotaku</a></li><li><a href="http://lifehacker.com" data-ga="[Kinja Menu, Blogs You May Like Click, Lifehacker]"><span class="icon icon-prepend icon-sprite site-icon site-icon-lifehacker"></span>Lifehacker</a></li><li><a href="http://sploid.gizmodo.com/" data-ga="[Kinja Menu, Blogs You May Like Click, Sploid]"><span class="icon icon-prepend icon-sprite site-icon site-icon-sploid"></span>Sploid</a></li></ul></div></div><div class="f-dropdown content nav-dropdown search-dropdown hide-for-medium-down" id="global-search" data-dropdown-content><form method="GET" action="/search" data-ga="[Search, Submit, js_pageType]"><div class="input-with-icon"><span class="icon icon-search-alt-thin"></span><input id="global-search-input" type="search" name="q" placeholder="Search Antiviral" autocomplete="off" /></div></form></div><div class="proxima f-dropdown nav-dropdown content notif-menu" id="js_notifications--dropdown" data-dropdown-content></div><div class="js_global-user scrollable-container noskimlinks noskimwords"><div class="proxima f-dropdown nav-dropdown content user-menu user-menu--mobile" id="js_usermenu--dropdown" data-dropdown-content></div></div></nav><div id="ad-970x90-container" class="js_ad-top row ad-wide ad-top show-for-xlarge-up"><div class="column">		<div class="ad-unit js_ad-unit ad-top-banner js_ad-top-banner"><div id="ad-container-96176914" class="ad-container js_ad-container" data-zone-type="TOP_BANNER"></div></div></div></div><div class="row page js_page"><div class="large-4 columns sidebar hide-for-medium-down"><div class="sidebar-container js_sidebar-actual-container">		<div class="sidebar-content js_sidebar-container js_sidebar"><section id="js_leftrailmodule--trending" class="leftrailmodule js_leftrailmodule leftrailmodule--trending">	<div class="strapline proxima text-upper text-micro strapline--leftrail"><span class="strapline-bg">Trending on Kinja</span></div><div class="js_related-module "><ol class="leftrail-list leftrail-list--trending js_leftrail-list">	<li class="row leftrail-item leftrail-item--trending js_leftrail-item"><div class="large-1 columns"><div class="leftrail-marker">1.</div></div><div class="large-5 columns"><a href="http://theconcourse.deadspin.com/do-not-fuck-with-bees-1699200447" data-ga="[Trending module click, position 1, js_pageType]"><img class="leftrail-image" src="http://i.kinja-img.com/gawker-media/image/upload/s--idgB5Ej7--/c_fill,fl_progressive,g_north,h_180,q_80,w_320/e7nelmtnasj7l5vmdfet.jpg" alt="Do Not Fuck With Bees" /></a></div><div class="large-6 columns"><h6 class="headline"><a href="http://theconcourse.deadspin.com/do-not-fuck-with-bees-1699200447" data-ga="[Trending module click, position 1, js_pageType]">Do Not Fuck With Bees</a></h6><div class="byline proxima text-small"> <a href="//theconcourse.deadspin.com" class="text-light byline__source">on The Concourse</a></div></div></li>	<li class="row leftrail-item leftrail-item--trending js_leftrail-item"><div class="large-1 columns"><div class="leftrail-marker">2.</div></div><div class="large-11 columns"><h6 class="headline"><a href="http://jalopnik.com/my-neighbor-anonymously-left-an-angry-note-on-my-hummer-1699236463" data-ga="[Trending module click, position 2, js_pageType]">My Neighbor Anonymously Left An Angry Note On My Hummer</a></h6><div class="byline proxima text-small"> <a href="//jalopnik.com" class="text-light byline__source">on Jalopnik</a></div></div></li>	<li class="row leftrail-item leftrail-item--trending js_leftrail-item"><div class="large-1 columns"><div class="leftrail-marker">3.</div></div><div class="large-11 columns"><h6 class="headline"><a href="http://lifehacker.com/how-aperture-shutter-speed-and-iso-affect-pictures-sh-1699204484" data-ga="[Trending module click, position 3, js_pageType]">How Aperture, Shutter Speed, and ISO Affect Pictures Shown in a Chart</a></h6><div class="byline proxima text-small"> <a href="//lifehacker.com" class="text-light byline__source">on Lifehacker</a></div></div></li></ol></div></section>	<section id="js_leftrailmodule--preloadedad" class="js_contained-ad-container contained-ad-container leftrailmodule js_leftrailmodule invisible"><div class="contained-ad-wrapper js_contained-ad-wrapper notransform">		<div class="ad-unit js_ad-unit ad-left-rail js_ad-left-rail"><div id="ad-container-49431515" class="ad-container js_ad-container" data-zone-type="LEFT_RAIL"></div></div></div></section><section id="js_leftrailmodule--popular" class="leftrailmodule js_leftrailmodule leftrailmodule--popular invisible">	<div class="strapline proxima text-upper text-micro strapline--leftrail"><span class="strapline-bg">Written by <a href="//jayhathaway.kinja.com/">Jay Hathaway</a></span></div><div class="js_related-module "><ol class="leftrail-list leftrail-list--popular js_leftrail-list">	<li class="row leftrail-item leftrail-item--popular js_leftrail-item recommended"><div class="row"><div class="large-12 columns leftrail-image-wrap"><a href="http://antiviral.gawker.com/sadly-that-princess-di-beanie-baby-is-worth-jack-shit-1699229768" data-ga="[Popular stories click, position 1, js_pageType]"><img class="leftrail-image" src="http://i.kinja-img.com/gawker-media/image/upload/s--A7Dpt6in--/c_fill,fl_progressive,g_center,h_180,q_80,w_320/lzvh8ykm4sajjiwurn2n.jpg" alt="Sadly, That Princess Di Beanie Baby Is Worth Jack Shit" /></a></div></div><div class="row"><div class="large-12 columns"><h6 class="headline"><a href="http://antiviral.gawker.com/sadly-that-princess-di-beanie-baby-is-worth-jack-shit-1699229768" data-ga="[Popular stories click, position 1, js_pageType]">Sadly, That Princess Di Beanie Baby Is Worth Jack Shit</a></h6></div></div></li>	<li class="row leftrail-item leftrail-item--popular js_leftrail-item recommended"><div class="row"><div class="large-12 columns leftrail-image-wrap"><a href="http://gawker.com/uber-driver-wont-face-charges-for-shooting-chicago-gunm-1699184466" data-ga="[Popular stories click, position 2, js_pageType]"><img class="leftrail-image" src="http://i.kinja-img.com/gawker-media/image/upload/s--Ia_Tqe1o--/c_fill,fl_progressive,g_center,h_180,q_80,w_320/vcigov6tub3qdur3afc3.jpg" alt="Uber Driver Won&amp;#39;t Face Charges for Shooting Chicago Gunman" /></a></div></div><div class="row"><div class="large-12 columns"><h6 class="headline"><a href="http://gawker.com/uber-driver-wont-face-charges-for-shooting-chicago-gunm-1699184466" data-ga="[Popular stories click, position 2, js_pageType]">Uber Driver Won&apos;t Face Charges for Shooting Chicago Gunman</a></h6></div></div></li>	<li class="row leftrail-item leftrail-item--popular js_leftrail-item recommended"><div class="row"><div class="large-12 columns leftrail-image-wrap"><a href="http://gawker.com/bigoted-pennsylvania-teens-organize-day-of-flannel-wear-1699058675" data-ga="[Popular stories click, position 3, js_pageType]"><img class="leftrail-image" src="http://i.kinja-img.com/gawker-media/image/upload/s--8rj_Vx7F--/c_fill,fl_progressive,g_center,h_180,q_80,w_320/jwydovv4ar3hkvdir50f.png" alt="Bigoted Pennsylvania Teens Organize Day of Flannel-Wearing, Gay-Bashing" /></a></div></div><div class="row"><div class="large-12 columns"><h6 class="headline"><a href="http://gawker.com/bigoted-pennsylvania-teens-organize-day-of-flannel-wear-1699058675" data-ga="[Popular stories click, position 3, js_pageType]">Bigoted Pennsylvania Teens Organize Day of Flannel-Wearing, Gay-Bashing</a></h6></div></div></li></ol></div></section></div></div></div><script>markUserTime('Content - Before main column');</script><div class="large-8 columns main-column">	<div id="fb-root"></div>		<section class="branch-wrapper ">		<div id="foreplay" class="reveal-modal js_foreplay foreplay proxima noskimlinks noskimwords" data-reveal><div id="jwPlayerVideo"></div><a href="#" class="close js_foreplay-close">You can skip this ad in 5 seconds.</a></div>	<div class="js_ie-message hide"></div><div id="editorplaceholder" class="editorplaceholder"></div><div class="post-wrapper js_post-wrapper "  >	<article class="post hentry js_post_item status-published post-item-permalink commented js_amazon_module" data-id="1694063626" id="post_1694063626" data-model="%7B%22id%22%3A1694063626%2C%22permalink%22%3A%22http%3A%2F%2Fantiviral.gawker.com%2Fthe-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626%22%2C%22permalinkPath%22%3A%22%2Fthe-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626%22%2C%22isBlip%22%3Afalse%2C%22isRecommended%22%3Afalse%2C%22publishTimeMillis%22%3A1427477700392%2C%22publishTime%22%3A%7B%22timestamp%22%3A1427477700392%2C%22timezone%22%3A%22America%2FNew_York%22%2C%22MdyHm%22%3A%2203%2F27%2F2015%2013%3A35%22%2C%22MdyatHm%22%3A%2203%2F27%2F2015%20at%2013%3A35%22%2C%22rfc822%22%3A%22Fri%2C%2027%20Mar%202015%2017%3A35%3A00%20GMT%22%2C%22yMdHmsZ%22%3A%222015-03-27T13%3A35%3A00-04%3A00%22%2C%22hmma%22%3A%221%3A35pm%22%2C%22day%22%3A%22Friday%22%2C%22Mddyyhmma%22%3A%223%2F27%2F15%201%3A35pm%22%2C%22fullDate%22%3A%22March%2027%2C%202015%22%2C%22relative%22%3A%7B%22amount%22%3Anull%2C%22type%22%3A%22greaterthanweek%22%7D%7D%2C%22status%22%3A%22PUBLISHED%22%2C%22author%22%3A%7B%22id%22%3A%221529692233%22%2C%22screenName%22%3A%22jayhathaway%22%2C%22displayName%22%3A%22Jay%20Hathaway%22%2C%22defaultBlogId%22%3A1529692234%2C%22defaultBlog%22%3Anull%2C%22avatar%22%3A%7B%22id%22%3A%2219gouqw1xqxc8png%22%2C%22format%22%3A%22png%22%7D%7D%2C%22authorId%22%3A%221529692233%22%2C%22byline%22%3A%22%22%2C%22isStarter%22%3Atrue%2C%22blogId%22%3A%5B1529692234%2C1592800809%5D%2C%22defaultBlogId%22%3A1592800809%2C%22authorBlogId%22%3A1529692234%2C%22authorBlogName%22%3A%22jayhathaway%22%2C%22allowReplies%22%3Atrue%2C%22isBillboardPost%22%3Afalse%2C%22liveBlog%22%3Afalse%2C%22headline%22%3A%22The%20Evidence%20That%20the%20Germanwings%20Copilot%20Was%20Muslim%20Is%20Sketchy%20as%20Hell%22%2C%22adZone%22%3A%22collapse%22%2C%22tagUrlNames%22%3A%22andreas-lubitz%2Cgermanwings%2Cplane-crash%2Cco-pilot%2Cmuslims%2Cbullshit%2Cislam%2Candrew-mccarthy%22%2C%22replyCount%22%3A387%2C%22sharedPostId%22%3Anull%2C%22images%22%3A%5B%7B%22src%22%3A%22http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--FdSUqcyq--%2Fc_fit%2Cfl_progressive%2Cq_80%2Cw_636%2Fiqht4qumdqldyoznz6bq.jpg%22%2C%22uri%22%3A%22http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fiqht4qumdqldyoznz6bq.jpg%22%2C%22id%22%3A%22iqht4qumdqldyoznz6bq%22%2C%22width%22%3A636%2C%22height%22%3A372%2C%22format%22%3A%22jpg%22%2C%22recommended%22%3Anull%7D%2C%7B%22src%22%3A%22http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--XUwA9-Mw--%2Fc_fit%2Cfl_progressive%2Cq_80%2Cw_636%2Fmtm9kwhsdugptaqm7zxa.jpg%22%2C%22uri%22%3A%22http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fmtm9kwhsdugptaqm7zxa.jpg%22%2C%22id%22%3A%22mtm9kwhsdugptaqm7zxa%22%2C%22width%22%3A636%2C%22height%22%3A457%2C%22format%22%3A%22jpg%22%2C%22recommended%22%3Anull%7D%5D%2C%22videos%22%3A%5B%5D%2C%22parentId%22%3Anull%2C%22parentAuthorId%22%3Anull%2C%22starterId%22%3A1694063626%7D">	<div class="row content-wrapper"><div class="column"><div class="row js_kinja-share-wrapper hide"><div class="column post-tools-above"><a href="#" class="js_kinja-share replywithshare inline-block"><span class="icon icon-reload"></span></a></div></div><header class=""><h1 class="headline hover-highlight entry-title"><a href="http://antiviral.gawker.com/the-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626"  data-id="">The Evidence That the Germanwings Copilot Was Muslim Is Sketchy as Hell</a></h1></header>	<div class="meta-container without-dropdown">	<div class="meta-avatar js_author" data-authorid="1529692233" data-blogid="1529692234">	<span class="meta-tools"><div class="view-count-container"></div><a data-likecount="11" href="#" class="js_like button-recommend-post hover-icon" title="Recommend"><span class="js_like_count">11</span><span class="icon icon-star icon-append js_like_icon"></span></a><div class="js_like-list-container"></div></span><div class="floated-container img-30" data-dropdownhover-container>	<div id="1694063626-hovercard" class="f-dropdown author-hovercard content small whitelisted-links js_avatar-popover" data-dropdownhover-content><span class="floated-container img-60 avatar-container js_avatar-container"><span class="avatar"><span class="icon icon-checkmark icon-followed"></span><img data-src="http://i.kinja-img.com/gawker-media/image/upload/s--e23FFJ-d--/c_fill,fl_progressive,g_center,h_120,q_80,w_120/19gouqw1xqxc8png.png" alt="jayhathaway" /></span><div class="js_follow-controls js_author-follow-controls" data-authorid="1529692233" data-blogid="1529692234"><h4>Jay Hathaway</h4><a href="//kinja.com/jayhathaway" class="button tiny secondary mrs" target="_blank" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Hover card - profile page button click');">Profile</a><a href="#" class="button tiny secondary js_followforuser mrs" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Hover card - follow button click');">Follow</a><a href="#" class="button tiny secondary js_unfollowforuser mrs hide">Unfollow</a></div></div>	<div class="avatar avatar-container js_avatar-container" data-dropdownhover="1694063626-hovercard"><span class="icon icon-checkmark icon-followed"></span><a href="//kinja.com/jayhathaway"><span class="img-border"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--pSG822FK--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/19gouqw1xqxc8png.png" /></span></a></div><div class="txt">	<span class="display-name author vcard"><a href="//kinja.com/jayhathaway" target="_self"   data-dropdownhover-anchor="1694063626-hovercard" class="fn url" onclick="window.ga('send', 'event', 'byline', 'click', 'permalink');" >Jay Hathaway</a></span><div class="second-line post-meta">Filed to: 	<a class="first-tag " href="/tag/andreas-lubitz" data-urlname="andreas-lubitz" data-dropdown="taglist" data-options="is_hover:true">Andreas Lubitz</a>	<div id="taglist" class="tiny f-dropdown text-upper" data-dropdown-content><div><ul>	<li class=""><a href="/tag/germanwings" data-urlname="germanwings">Germanwings</a></li>	<li class=""><a href="/tag/plane-crash" data-urlname="plane-crash">Plane Crash</a></li>	<li class=""><a href="/tag/co-pilot" data-urlname="co-pilot">Co-Pilot</a></li>	<li class=""><a href="/tag/muslims" data-urlname="muslims">Muslims</a></li>	<li class=""><a href="/tag/bullshit" data-urlname="bullshit">Bullshit</a></li>	<li class=""><a href="/tag/islam" data-urlname="islam">Islam</a></li>	<li class=""><a href="/tag/andrew-mccarthy" data-urlname="andrew-mccarthy">Andrew McCarthy</a></li></ul></div></div>	<span class="publish-time js_publish_time" data-publishtime="1427477700392"><a class="hover-switch" href="http://antiviral.gawker.com/the-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626" target="_self" >	<span class=" published updated">3/27/15 1:35pm</span></a></span></div></div></div></div><div class="post-dropdown-ct js_post-dropdown-ct js_post-dropdown-ct-sticky"><ul id="dropdown-1694063626" class="f-dropdown proxima js_post-dropdown js_follow-controls js_author-follow-controls whitelisted-links" data-postid="1694063626" data-starterid="1694063626" data-authorid="1529692233" data-blogid="1529692234" data-sourceblogid="1592800809" data-dropdown-content><li class="js_edit-post hover-icon hide readonly-hide"><a href="#" rel="nofollow"><i class="icon icon-pencil-alt icon-prepend"></i>Edit</a></li><li class="js_delete-post hover-icon hide readonly-hide"><a href="#" rel="nofollow"><i class="icon icon-x-circle icon-prepend"></i>Delete</a></li>	<li class="js_invite-to-post hover-icon hide" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down - invite click');"><a href="#" rel="nofollow"><i class="icon icon-twitter icon-prepend"></i>Invite</a></li><li class="js_invite-to-post-manually hover-icon hide"><a href="#" rel="nofollow"><i class="icon icon-mail icon-prepend"></i>Invite manually</a></li><li class="js_promote hover-icon hide readonly-hide"><a href="#" rel="nofollow"><i class="icon icon-star-circle icon-prepend"></i>Promote</a></li><li class="js_dismiss hover-icon hide readonly-hide"><a href="#" class="dismiss" rel="nofollow" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Dismiss click');"><i class="icon icon-prepend notranslate">X</i>Dismiss</a><a href="#" class="undismiss" rel="nofollow" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Undismiss click');"><i class="icon icon-prepend notranslate">X</i>Undismiss</a></li><li class="js_block hover-icon hide disabled readonly-hide" data-blogid="1592800809" data-targetblogid="1529692234" data-targetblogname="antiviral1"><a href="#" rel="nofollow"><i class="icon icon-not-circle icon-prepend"></i><span>Block for antiviral1</span></a></li><li class="js_hide-post hover-icon hide readonly-hide"><a href="#" rel="nofollow"><i class="icon icon-prepend icon-not-circle"></i>Hide</a></li><li class="js_kinja-share-block readonly-hide"><a class="js_kinja-share hover-icon" href="#" rel="nofollow"><i class="icon icon-share icon-prepend"></i>Share to Kinja</a></li><li class="js_external-share"><a class="js_share-post-item facebook hover-icon" rel="nofollow" href="http://facebook.com/sharer.php?u=http%3A%2F%2Fantiviral.gawker.com%2Fthe-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down - Share to Facebook click');"><i class="icon icon-facebook icon-prepend"></i>Share to Facebook</a></li><li class="js_external-share"><a class="js_share-post-item pinterest hover-icon" rel="nofollow" href="http://www.pinterest.com/pin/create/api_other/?url=http%3A%2F%2Fantiviral.gawker.com%2Fthe-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626&media=http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--vVTLLdp7--%2Fiqht4qumdqldyoznz6bq.jpg&description=In%20the%20wake%20of%20the%20Germanwings%20flight%20that%20went%20down%20in%20the%20French%20alps%20Tuesday%2C%20killing%20150%2C%20investigators%20and%20the%20media%20are%20focusing%20in%20on%20co-pilot%20Andreas%20Lubitz%2C%20who%20apparently%20locked%20the%20pilot%20out%20of%20the%20cabin%20and%20intentionally%20crashed%20the%20plane.%20Was%20he%20mentally%20ill%3F%20Was%20he%20suicidal%3F%20Or%20was%20he%2C%20perhaps%2C%20a%20secret%20Muslim%20jihadist%3F%21" onclick="window.ga('send', 'event', 'Share to Pinterest', 'click', 'Drop down');"><i class="icon icon-pinterest icon-prepend"></i>Share to Pinterest</a></li><li class="js_external-share"><a class="js_share-post-item twitter hover-icon" rel="nofollow" href="http://twitter.com/share?url=http%3A%2F%2Fantiviral.gawker.com%2Fthe-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626&amp;text=POST_TITLE" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down - Share to Twitter click');"><i class="icon icon-twitter icon-prepend"></i>Share to Twitter</a></li><li class="js_go-to-permalink"><a class="hover-icon" href="http://antiviral.gawker.com/the-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down - Go to permalink click');"><i class="icon icon-link-alt icon-prepend"></i>Go to permalink</a></li><li class="repostblock js_repostblock hide"></li></ul><a href="#" target="_self" class="button dropdown secondary transparent toggle-30 js_post-menu-toggler post-dropdown-trigger" data-dropdown="dropdown-1694063626" onclick="window.ga('send', 'event', 'Group Chats', 'click', 'Drop down click');"></a></div></div><div class="post-content entry-content "><p class="has-media media-640" data-textannotation-id="da2f23edeecdd58b84ecb4364665d1ab"><span class="lightBoxWrapper"><span class="img-border"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--FdSUqcyq--/c_fit,fl_progressive,q_80,w_636/iqht4qumdqldyoznz6bq.jpg" width="636" height="372" alt="The Evidence That the Germanwings Copilot Was Muslim Is Sketchy as Hell" data-chomp-id="iqht4qumdqldyoznz6bq" data-asset-url="http://i.kinja-img.com/gawker-media/image/upload/s--FdSUqcyq--/c_fit,fl_progressive,q_80,w_636/iqht4qumdqldyoznz6bq.jpg" data-format="jpg" /></span><span class="magnifier lightBox hide"><span class="icon icon-white icon-search-plus"></span></span></span></p><div id="js_adsense-container"></div><script>
+
+window.google_analytics_uacct = 'UA-accountnumber-propertyindex';
+var google_adnum = 0; /* only insert this line for your first ad unit */
+// conditional adsense core decorated
+function google_ad_request_done(google_ads) {
+	var domain = '';
+	var domainParts = document.referrer.split("/");
+	if (domainParts.length > 2) {
+		domainParts = domainParts[2].split(".");
+		domain = domainParts[domainParts.length - 2];
+	}
+	var companions = document.querySelectorAll('.js_ad300-companion');
+	var blockHeight = 0;
+	if (companions.length > 0) {
+		var companion = companions[0];
+		blockHeight = companion.offsetHeight;
+	}
+	var onKinja = location.host.substr(-1 * "kinja.com".length) === "kinja.com";
+	var fromSearch = (domain == "google") || (domain == "bing") || (domain == "yahoo") || (domain == "ask");
+	var cookieString = "fromSearch=1";
+	if (fromSearch) {
+		document.cookie = cookieString;
+	}
+	var inSearchSession = document.cookie.indexOf(cookieString) != -1;
+	var shouldShowAds = !onKinja && (fromSearch || inSearchSession);// &&  blockHeight > 400);
+	if (shouldShowAds) {
+		var s = '';
+		var i;
+		if (google_ads.length == 0) {
+			return;
+		}
+		s += '<aside class="referenced-wide google-adsense twelve columns">';
+		s += '<div class="container proxima">';
+		s += '<a href="' + google_info.feedback_url + '" class="by-google">Ads by Google</a><div class="google-ads ptm">' +
+			'<a href="' + google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[0].visible_url + '\';return true" class="google-headline">' +
+			'<span> <b>' +google_ads[0].line1 +	'</b><br /></span></a> <span>' +
+			google_ads[0].line2 + ' ' + google_ads[0].line3 + '<br /></span>' +
+			'<a href="' + google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[0].visible_url + '\';return true" class="google-link"><span>' + google_ads[0].visible_url + '</span></a><br /><br/>';
+		if (google_ads.length == 2) {
+			/* the XML parser chokes on a for loop, so we have to do it explicitly */
+			s += '<a href="' + google_ads[1].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[1].visible_url + '\';return true" class="google-headline">' +
+				'<span> <b>' + google_ads[1].line1 +	'</b><br /></span></a> <span style="">' +
+				google_ads[1].line2 + ' ' + google_ads[1].line3 + '<br /></span>' +
+				'<a href="' + google_ads[1].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' + google_ads[1].visible_url + '\';return true" class="google-link"><span>' + google_ads[1].visible_url + '</span></a><br />';
+		}
+		s += '</div></div></aside>';
+		if (google_ads[0].bidtype == 'CPC') { /* insert this snippet for each ad call */
+			google_adnum = google_adnum + google_ads.length;
+		}
+		document.write(s);
+	}
+}
+google_ad_client = 'ca-pub-0457527031304647';
+google_ad_output = 'js';
+google_max_num_ads = '1';
+google_ad_type = 'text';
+google_feedback = 'on';
+google_skip = google_adnum;
+google_ad_channel = '1102379497';
+</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+
+
+
+
+
+
+
+
+
+<p class="first-text" data-textannotation-id="f4fd4ecb8258e15b2eb38ade460a5580">In the wake of the <a href="http://gawker.com/what-we-know-about-the-germanwings-flight-and-its-pilot-1693821482" target="_blank">Germanwings flight </a>that went down in the French alps Tuesday, killing 150, investigators and the media are <a x-inset="1" href="http://gawker.com/what-we-know-about-the-germanwings-flight-and-its-pilot-1693821482" target="_blank">focusing in on co-pilot Andreas Lubitz</a>, who apparently locked the pilot out of the cabin and intentionally crashed the plane. Was he mentally ill? Was he suicidal? Or was he, perhaps, a <em>secret Muslim jihadist?!</em></p>
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="referenced-wide referenced-fullwidth js_inset tmpl_referencedGroupFullWidth clearfix core-decorated-inset">
+    <div class="container">
+        
+        
+            
+    <div class="referenced-item  " data-inset-id="1693884844">
+        
+            
+    <div class="columns small-4 medium-3 referenced-item-image referenced-item-processed">
+        <a href="http://gawker.com/what-we-know-about-the-germanwings-flight-and-its-pilot-1693821482" onclick="window.ga('send', 'event', 'Permalink page click', 'Permalink page click - inset photo');" target="_blank">
+            <span class="img-border ">
+            
+                <img src="http://i.kinja-img.com/gawker-media/image/upload/s--XYjV7QH2--/c_fill,fl_progressive,g_center,h_77,q_80,w_137/bjtfqozy81rfgjymjtki.jpg" />
+                
+            </span>
+        </a>
+    </div>
+
+        
+         
+    <h6 class="headline" onclick="window.ga('send', 'event', 'Permalink page click', 'Permalink page click - inset headline');">
+        <span class="full-headline">
+            <a href="http://gawker.com/what-we-know-about-the-germanwings-flight-and-its-pilot-1693821482" target="_blank">
+                What We Know About the Germanwings Flight and Its Pilot, Andreas Lubitz
+            </a>
+        </span>
+        <span class="medium-headline">
+            <a href="http://gawker.com/what-we-know-about-the-germanwings-flight-and-its-pilot-1693821482" target="_blank">
+                What We Know About the Germanwings Flight and Its Pilot, Andreas Lubitz
+            </a>
+        </span>
+        <span class="small-headline">
+            <a href="http://gawker.com/what-we-know-about-the-germanwings-flight-and-its-pilot-1693821482" target="_blank">
+                What We Know About the Germanwings Flight and Its 
+            </a>
+        </span>
+    </h6>
+ 
+        
+    
+        <p class="text  small-offset-3 ">
+            
+                <span class="referenced-item-excerpt hide-for-small">On Tuesday, Germanwings Flight 9525 crashed into the French Alps under mysterious circumstances,…</span>
+            
+            <a href="http://gawker.com/what-we-know-about-the-germanwings-flight-and-its-pilot-1693821482" class="js_readmore readmore-referenced" onclick="window.ga('send', 'event', 'Permalink page click', 'Permalink page click - inset read more link');" target="_blank">
+                Read more <span class="js_external-text hide">Read more</span>
+            </a>
+        </p>
+    
+
+    </div>
+
+        
+    </div>
+</aside>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="89c2a6e37a8dc70525464832a8f862bb">Apparently some people really want him to be. Andrew C. McCarthy, <em>National Review</em> contributing editor and author of <em>The Grand Jihad: How Islam and the Left Sabotage America</em>, tweeted this Gateway Pundit story to his 20,000 followers Friday: </p>
+
+
+
+
+
+
+
+
+
+
+<blockquote class=" twitter-tweet" width="640" data-textannotation-id="811c388d61f77e3e3bf219d76b2e5da0"><p data-textannotation-id="730b5bf8b103adf4a0feb13fb193ddde">Report indicates <a href="https://twitter.com/hashtag/GermanWingsCrash?src=hash" target="_blank">#GermanWingsCrash</a> copilot was convert to Islam connected to radical mosque. <a href="http://t.co/f0LtnmRHiA" target="_blank">http://t.co/f0LtnmRHiA</a></p><p data-textannotation-id="d6f97b890e6c876b8a9ec25428265e4b">— Andrew C. McCarthy (@AndrewCMcCarthy) <a href="https://twitter.com/AndrewCMcCarthy/status/581425804585758721" target="_blank">March 27, 2015</a></p></blockquote>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="d97623d172f087d9640da9acd38830ff"></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="962fa99c41d0e614dda1f99257ecc00d">Let's take a closer look at what the &quot;report indicates.&quot;</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="b40af4095b09f23a20debb5b6e15aee8">Gateway Pundit <a href="http://www.thegatewaypundit.com/2015/03/breaking-german-news-germanwings-airbus-co-pilot-was-muslim-convert/" target="_blank">writes</a>, &quot;<span>A German news website claims Andreas Lubitz was a Muslim convert. </span><a href="http://speisa.com/modules/articles/index.php/item.1086/the-co-pilot-of-the-germanwings-airbus-was-a-convert-to-islam.html" target="_blank">Speisa.com</a><span> reported: '</span><span>According to Michael Mannheimer, a writer for German PI-News, Germany now has its own 9/11, thanks to the convert to Islam, Andreas Lubitz.'&quot;</span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="3a506f2754e84b5fc7dc36455e042360"><span>It also cites </span><span>&quot;the </span><a href="http://www.pi-news.net/2015/03/german-wings-absturz-kapitaen-aus-cockpit-ausgesperrt-suizid-des-co-piloten/" target="_blank">comments</a><span> at German PI&quot;—on a story about Lubitz that mentions nothing about Muslims, Islam, or IS—as a source for the claim that &quot;Andreas Lubitz was Muslim convert from his Facebook page.&quot;</span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="eebeaeaaf334dc01c385888e376709a7">&quot;PI&quot; is a site called Politically Incorrect News, which is not exactly <em>Der Spiegel,</em> and they didn't even run a story about Lubitz's supposed conversion to Islam. That story came from PI-News blogger Michael Mannheimer's <a href="http://webcache.googleusercontent.com/search?q=cache%3Amichael-mannheimer.net%2F2015%2F03%2F26%2Fcopilot-der-airbus-ungluecksmaschine-war-islamkonvertit-er-steuerte-die-maschine-bewusst-gegen-den-berg%2F&amp;oq=cache%3Amichael-mannheimer.net%2F2015%2F03%2F26%2Fcopilot-der-airbus-ungluecksmaschine-war-islamkonvertit-er-steuerte-die-maschine-bewusst-gegen-den-berg%2F&amp;aqs=chrome..69i57j69i58.1366j0j4&amp;sourceid=chrome&amp;es_sm=91&amp;ie=UTF-8" target="_blank">personal website</a>, where he put together the following information: </p>
+
+
+
+
+
+
+
+
+
+
+<ul><li data-textannotation-id="a4c261aa828bb1e63709f960fb1bcaf3"><span> Lubitz trained as a pilot in Bremen, which is also the home of a mosque that was investigated in December for alleged supporting the Islamic State. (This is true, </span><a href="http://www.spiegel.de/politik/deutschland/islamischer-staat-moschee-von-is-anhaengern-in-bremen-geschlossen-a-1006869.html" target="_blank">according to </a><i><a href="http://www.spiegel.de/politik/deutschland/islamischer-staat-moschee-von-is-anhaengern-in-bremen-geschlossen-a-1006869.html" target="_blank">Der Spiegel</a></i><span>.)</span></li><li data-textannotation-id="e6caa4be69d78ddaf2bf18a6312eb0f5"><span>Lubitz took a few months off at one point before returning to work and getting recertified to fly. (This is also true: Lufthansa CEO Carsten Spohr </span><a href="http://gawker.com/what-we-know-about-the-germanwings-flight-and-its-pilot-1693821482" target="_blank">confirmed</a><span> that Lubitz &quot;took a break in his training six years ago. Then he did the tests again. And he was deemed fit to fly.&quot;)</span></li></ul>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="4cd51236dcca93ebac44a7c7098c720c">From these two data points—a mosque recently under investigation and a break Lubitz took six years ago—Mannheimer concluded (and this is roughly translated from the German by Google): &quot;Probably Lubitz converted to Islam during this interruption.&quot; </p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="98e330db738f6ea425183d3fd3f11a6b">If that seems like a tremendous leap, and you're wondering whether Mannheimer perhaps has a particular anti-Muslim axe to grind, here's how he introduces his post: </p>
+
+
+
+
+
+
+
+
+
+
+<blockquote data-textannotation-id="03b64e35c039f9fc443fbc687b3737ae">
+<p data-textannotation-id="305145cdcd9e444378a4e785613ee0f3"><span>All evidence indicates that the copilot of misfortune machine in its six-month break during his training as pilots in German Wings converted to Islam and subsequently either by the order of &quot;radical&quot;, ie ,. </span><span>devout Muslims received for carrying out this mass murder, or withdrew the order from the book of terror, the Koran, of his own accord.  ... </span><span>One can bet that the apologists (media, politics, &quot;Islamic Studies&quot;) will agree to assign this act a &quot;mentally unstable&quot; man ...</span></p></blockquote>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="ecabe0524b38bf250f80d5ddd2eeedba">Funny he should mention mental illness: German news reports have described Lubitz as having a history of mental illness, and he reportedly <a x-inset="1" href="http://gawker.com/germanwings-co-pilot-andreas-lubitz-was-hiding-medical-1694015341" target="_blank">tore up a doctor's note</a> before going to work on the day of the crash. (The significance of that note has yet to be determined, as doctors in Germany commonly issue them even for minor illness.)</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<aside class="referenced-wide referenced-fullwidth js_inset tmpl_referencedGroupFullWidth clearfix core-decorated-inset">
+    <div class="container">
+        
+        
+            
+    <div class="referenced-item  " data-inset-id="1694015749">
+        
+            
+    <div class="columns small-4 medium-3 referenced-item-image referenced-item-processed">
+        <a href="http://gawker.com/germanwings-co-pilot-andreas-lubitz-was-hiding-medical-1694015341" onclick="window.ga('send', 'event', 'Permalink page click', 'Permalink page click - inset photo');" target="_blank">
+            <span class="img-border ">
+            
+                <img src="http://i.kinja-img.com/gawker-media/image/upload/s--1wcWnxqD--/c_fill,fl_progressive,g_center,h_77,q_80,w_137/wrikdal2hepxu9s5lrd7.jpg" />
+                
+            </span>
+        </a>
+    </div>
+
+        
+         
+    <h6 class="headline" onclick="window.ga('send', 'event', 'Permalink page click', 'Permalink page click - inset headline');">
+        <span class="full-headline">
+            <a href="http://gawker.com/germanwings-co-pilot-andreas-lubitz-was-hiding-medical-1694015341" target="_blank">
+                Germanwings Co-Pilot Andreas Lubitz Was Hiding Medical Condition: Police
+            </a>
+        </span>
+        <span class="medium-headline">
+            <a href="http://gawker.com/germanwings-co-pilot-andreas-lubitz-was-hiding-medical-1694015341" target="_blank">
+                Germanwings Co-Pilot Andreas Lubitz Was Hiding Medical Condition: Police
+            </a>
+        </span>
+        <span class="small-headline">
+            <a href="http://gawker.com/germanwings-co-pilot-andreas-lubitz-was-hiding-medical-1694015341" target="_blank">
+                Germanwings Co-Pilot Andreas Lubitz Was Hiding Med
+            </a>
+        </span>
+    </h6>
+ 
+        
+    
+        <p class="text  small-offset-3 ">
+            
+                <span class="referenced-item-excerpt hide-for-small">Police in Germany reportedly discovered documents indicating that Andreas Lubitz—the co-pilot of…</span>
+            
+            <a href="http://gawker.com/germanwings-co-pilot-andreas-lubitz-was-hiding-medical-1694015341" class="js_readmore readmore-referenced" onclick="window.ga('send', 'event', 'Permalink page click', 'Permalink page click - inset read more link');" target="_blank">
+                Read more <span class="js_external-text hide">Read more</span>
+            </a>
+        </p>
+    
+
+    </div>
+
+        
+    </div>
+</aside>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="f11630197c1de3b267412b5c4eaefc82">Investigators <a href="http://www.nytimes.com/2015/03/28/world/europe/germanwings-crash-andreas-lubitz.html?module=Notification&amp;version=BreakingNews&amp;region=FixedTop&amp;action=Click&amp;contentCollection=BreakingNews&amp;contentID=31659495&amp;pgtype=article" target="_blank">told the </a><em><a href="http://www.nytimes.com/2015/03/28/world/europe/germanwings-crash-andreas-lubitz.html?module=Notification&amp;version=BreakingNews&amp;region=FixedTop&amp;action=Click&amp;contentCollection=BreakingNews&amp;contentID=31659495&amp;pgtype=article" target="_blank">New York Times</a> </em>they'd found no &quot;indication of any political or religious motivation.&quot;</p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="20476e672db23240fa2b781196f32a42">As for the Facebook page mentioned in the PI-News comments that allegedly proves Lubitz was Muslim, here it is: </p>
+
+
+
+
+
+
+
+
+
+
+<p class="has-media media-640" data-textannotation-id="01c3efbe08fe22a5cb7b1081dca65343"><span class="lightBoxWrapper"><span class="img-border"><img src="http://i.kinja-img.com/gawker-media/image/upload/s--XUwA9-Mw--/c_fit,fl_progressive,q_80,w_636/mtm9kwhsdugptaqm7zxa.jpg" width="636" height="457" alt="The Evidence That the Germanwings Copilot Was Muslim Is Sketchy as Hell" data-chomp-id="mtm9kwhsdugptaqm7zxa" data-asset-url="http://i.kinja-img.com/gawker-media/image/upload/s--XUwA9-Mw--/c_fit,fl_progressive,q_80,w_636/mtm9kwhsdugptaqm7zxa.jpg" data-format="jpg" /></span><span class="magnifier lightBox hide"><span class="icon icon-white icon-search-plus"></span></span></span></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="8f285922d80327b3d2d50c480116c742">A freshly-created French page calling Lubitz a &quot;Hero of the Islamic State.&quot; Well, gee, I guess that settles it. </p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="4821dd87341c92593848a342f66309d4">Although all of this information was available at the time Andrew McCarthy posted his tweet, he added that the Gateway Pundit &quot;report&quot; he shared with thousands of people had not been &quot;confirmed authoritatively,&quot; and we'll all just have to wait and see if Lubitz was Muslim or what. </p>
+
+
+
+
+
+
+
+
+
+
+<blockquote class=" twitter-tweet" width="640" data-textannotation-id="15b1e9f6a65e3bfe4b7a691ffb11d959"><p data-textannotation-id="9e3eeb4cd449dcf06915daaca011f2db">It's just a report at this point and hasn't been confirmed authoritatively. We'll need to watch as news unfolds.</p><p data-textannotation-id="80cdefe438177a51fc2d9e004f75fa5d">— Andrew C. McCarthy (@AndrewCMcCarthy) <a href="https://twitter.com/AndrewCMcCarthy/status/581448200990646273" target="_blank">March 27, 2015</a></p></blockquote>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="d97623d172f087d9640da9acd38830ff"></p>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="3e9436a6cf9f77adeb1ab14ec37257d9">It's totally a &quot;reasonable suspicion,&quot; though, even though there's no &quot;proof.&quot;</p>
+
+
+
+
+
+
+
+
+
+
+<blockquote class=" twitter-tweet" width="640" data-textannotation-id="275381854c0bf4d2ac9d2851a2234f54"><p data-textannotation-id="6bd75983c8ebec6202ec4190fe5466e1"><a href="https://twitter.com/fcook640" target="_blank">@fcook640</a> Yes, it's very reasonable suspicion but not proof. For now, most rpts say mental issues, not ideology. We'll need to wait &amp; see.</p><p data-textannotation-id="08b0a2c70248f414c690367ca09ad5eb">— Andrew C. McCarthy (@AndrewCMcCarthy) <a href="https://twitter.com/AndrewCMcCarthy/status/581474823412576258" target="_blank">March 27, 2015</a></p></blockquote>
+
+
+
+
+
+
+
+
+
+
+<p data-textannotation-id="d97623d172f087d9640da9acd38830ff"></p><!-- core-decorated --></div><div class="row"><div class="post-bottom column"><a name="replies"></a><div class="post-tools-wrapper right" data-forpost="1694063626">	<a data-likecount="11" href="#" class="js_like button-recommend-post text-small proxima hover-icon" title="Recommend"><span class="js_like_count">11</span><span class="icon icon-star oversized icon-append js_like_icon"></span></a>	<span id="js_reply-count" class="proxima text-small mlm mrn" style="display: none">387<span class="icon icon-bubble-round oversized"></span></span><script>document.getElementById('js_reply-count').style.display = 'inline';</script><a id="js_reply-to-post" href="#" class="reply-to-post reply-count hover-icon proxima js_reply-to-post text-small readonly-hide" rel="nofollow">Reply</a><noscript>	<span id="js_reply-count" class="proxima text-small mlm mrn">387<span class="icon icon-bubble-round oversized"></span></span><script>document.getElementById('js_reply-count').style.display = 'inline';</script><a href="#" class="reply-to-post reply-count hover-icon proxima text-small" rel="nofollow">Discuss<span class="icon icon-bubble-round oversized"></span></a></noscript><div class="js_like-list-bottom-container"></div></div>	<div class="fb-like" data-href="http://antiviral.gawker.com/the-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626" data-layout="button_count" data-width="100" data-show-faces="false"></div></div></div></div></div></article></div></section><section id="js_discussion-region" class="js_replies " data-authorblogname=jayhathaway data-replycount=387></section><script type="text/javascript">(function () {window.kinja = window.kinja || {}; window.kinja.postMeta = JSON.parse(decodeURIComponent( '%7B%22post%22%3A%7B%22id%22%3A1694063626%2C%22headline%22%3A%22The%20Evidence%20That%20the%20Germanwings%20Copilot%20Was%20Muslim%20Is%20Sketchy%20as%20Hell%22%2C%22permalink%22%3A%22http%3A%2F%2Fantiviral.gawker.com%2Fthe-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626%22%2C%22first100Characters%22%3A%22In%20the%20wake%20of%20the%20Germanwings%20flight%20that%20went%20down%20in%20the%20French%20alps%20Tuesday%2C%20killing%20150%2C%20invest%22%2C%22firstSentence%22%3A%22In%20the%20wake%20of%20the%20Germanwings%20flight%20that%20went%20down%20in%20the%20French%20alps%20Tuesday%2C%20killing%20150%2C%20invest%22%2C%22facebookImage%22%3A%7B%22src%22%3A%22http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--FdSUqcyq--%2Fc_fit%2Cfl_progressive%2Cq_80%2Cw_636%2Fiqht4qumdqldyoznz6bq.jpg%22%2C%22uri%22%3A%22http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fiqht4qumdqldyoznz6bq.jpg%22%2C%22id%22%3A%22iqht4qumdqldyoznz6bq%22%2C%22width%22%3A636%2C%22height%22%3A372%2C%22format%22%3A%22jpg%22%2C%22recommended%22%3Anull%7D%2C%22twitterCardType%22%3A%22summary_large_image%22%2C%22plaintext%22%3A%22In%20the%20wake%20of%20the%20Germanwings%20flight%20that%20went%20down%20in%20the%20French%20alps%20Tuesday%2C%20killing%20150%2C%20investigators%20and%20the%20media%20are%20focusing%20in%20on%20co-pilot%20Andreas%20Lubitz%2C%20who%20apparently%20locked%20the%20pilot%20out%20of%20the%20cabin%20and%20intentionally%20crashed%20the%20plane.%20Was%20he%20mentally%20ill%3F%20Was%20he%20suicidal%3F%20Or%20was%20he%2C%20perhaps%2C%20a%20secret%20Muslim%20jihadist%3F%21%22%2C%22authorScreenName%22%3A%22jayhathaway%22%2C%22tags%22%3A%5B%7B%22id%22%3A1693821484%2C%22name%22%3A%22andreas%20lubitz%22%2C%22desc%22%3A%22Andreas%20Lubitz%22%2C%22urlName%22%3A%22andreas-lubitz%22%7D%2C%7B%22id%22%3A1693290083%2C%22name%22%3A%22germanwings%22%2C%22desc%22%3A%22Germanwings%22%2C%22urlName%22%3A%22germanwings%22%7D%2C%7B%22id%22%3A836295762%2C%22name%22%3A%22plane%20crash%22%2C%22desc%22%3A%22Plane%20Crash%22%2C%22urlName%22%3A%22plane-crash%22%7D%2C%7B%22id%22%3A1694071345%2C%22name%22%3A%22co-pilot%22%2C%22desc%22%3A%22Co-Pilot%22%2C%22urlName%22%3A%22co-pilot%22%7D%2C%7B%22id%22%3A834989%2C%22name%22%3A%22muslims%22%2C%22desc%22%3A%22Muslims%22%2C%22urlName%22%3A%22muslims%22%7D%2C%7B%22id%22%3A992604%2C%22name%22%3A%22bullshit%22%2C%22desc%22%3A%22Bullshit%22%2C%22urlName%22%3A%22bullshit%22%7D%2C%7B%22id%22%3A1812532%2C%22name%22%3A%22islam%22%2C%22desc%22%3A%22Islam%22%2C%22urlName%22%3A%22islam%22%7D%2C%7B%22id%22%3A220674790%2C%22name%22%3A%22andrew%20mccarthy%22%2C%22desc%22%3A%22Andrew%20McCarthy%22%2C%22urlName%22%3A%22andrew-mccarthy%22%7D%5D%2C%22publishTimeMillis%22%3A1427477700392%2C%22adZone%22%3A%22collapse%22%2C%22sponsored%22%3Afalse%2C%22blogs%22%3A%5B%7B%22id%22%3A1529692234%2C%22name%22%3A%22jayhathaway%22%2C%22displayName%22%3A%22Jay%20Hathaway%22%2C%22canonicalHost%22%3A%22jayhathaway.kinja.com%22%2C%22hosts%22%3A%5B%5D%2C%22status%22%3A%22ENABLED%22%2C%22timezone%22%3A%22America%2FNew_York%22%2C%22timezoneOffset%22%3A-14400000%2C%22timezoneShortname%22%3A%22EDT%22%2C%22createTimeMillis%22%3Anull%2C%22ownerId%22%3Anull%2C%22description%22%3Anull%2C%22groupBlog%22%3Anull%2C%22noindex%22%3Afalse%2C%22showLikesInLatest%22%3Anull%2C%22showRepliesInLatest%22%3Anull%2C%22mergedProperties%22%3Anull%2C%22avatar%22%3Anull%2C%22logo%22%3Anull%7D%2C%7B%22id%22%3A1592800809%2C%22name%22%3A%22antiviral1%22%2C%22displayName%22%3A%22Antiviral%22%2C%22canonicalHost%22%3A%22antiviral.gawker.com%22%2C%22hosts%22%3A%5B%22antiviral1.kinja.com%22%2C%22antiviral.kinja.com%22%5D%2C%22status%22%3A%22ENABLED%22%2C%22timezone%22%3A%22America%2FNew_York%22%2C%22timezoneOffset%22%3A-14400000%2C%22timezoneShortname%22%3A%22EDT%22%2C%22createTimeMillis%22%3Anull%2C%22ownerId%22%3Anull%2C%22description%22%3Anull%2C%22groupBlog%22%3Anull%2C%22noindex%22%3Afalse%2C%22showLikesInLatest%22%3Anull%2C%22showRepliesInLatest%22%3Anull%2C%22mergedProperties%22%3A%7B%22googleAnalyticsID%22%3A%22UA-142218-2%22%2C%22blogGroup%22%3A%22gawker%22%7D%2C%22avatar%22%3A%7B%22id%22%3A%22lqyan0rqlurqryjydgem%22%2C%22format%22%3A%22png%22%7D%2C%22logo%22%3Anull%7D%5D%2C%22sharedPostId%22%3Anull%2C%22defaultBlogId%22%3A1592800809%7D%2C%22starterId%22%3A1694063626%2C%22tags%22%3A%22andreas%20lubitz%2Cgermanwings%2Cplane%20crash%2Cco-pilot%2Cmuslims%2Cbullshit%2Cislam%2Candrew%20mccarthy%22%2C%22postId%22%3A1694063626%2C%22authors%22%3A%22Jay%20Hathaway%22%2C%22postAuthorBlogName%22%3A%22jayhathaway%22%7D' ));}());</script>		<div class="ad-unit js_ad-unit hide-contents ad-mobile js_ad-mobile"><div id="ad-container-54042109" class="ad-container js_ad-container" data-zone-type="MOBILE"></div></div>	
+		<!-- Begin SimpleReach for sponsored posts -->
+		<script>
+			__reach_config = {
+				pid: '52e9531be79548ced6000008',   // The SimpleReach assigned Publisher ID (pid)
+				title: 'The Evidence That the Germanwings Copilot Was Muslim Is Sketchy as Hell',  //(remember that they should be escaped, not HTML or URL encoded)
+				url: 'http:\/\/antiviral.gawker.com\/the-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626',
+				date: new Date(1427477700392),
+				authors: ['jayhathaway'],
+				channels: [],
+				tags: ['andreas lubitz','germanwings','plane crash','co-pilot','muslims','bullshit','islam','andrew mccarthy'],
+				iframe: true,		     // Send event through iframe
+				domain: 'antiviral.gawker.com'
+			};
+			(function(){
+				var s = document.createElement('script');
+				s.async = true;
+				s.type = 'text/javascript';
+				s.src = document.location.protocol + '//d8rk54i4mohrb.cloudfront.net/js/reach.js';
+				  (document.getElementsByTagName('head')[0] ||
+				   document.getElementsByTagName('body')[0]).appendChild(s);
+			})();
+		</script>
+		<!-- End SimpleReach for sponsored posts -->
+		<div class="js_stats" style="display: none;" data-trackurl="http://kinja.com/api/analytics/stats/track.gif?&objectType=permalinkTag&objectType=permalinkTag&objectType=permalinkTag&objectType=permalinkTag&objectType=permalinkTag&objectType=permalinkTag&objectType=permalinkTag&objectType=permalinkTag&objectType=post&objectId=1693821484&objectId=1693290083&objectId=836295762&objectId=1694071345&objectId=834989&objectId=992604&objectId=1812532&objectId=220674790&objectId=1694063626&blogId=1592800809&authorId=1529692233"></div><div id="analytics-permalink-view" style="display: none;"data-analytics-api-root-url="http://kinja.com/api/analytics/"data-post-id="1694063626" data-blog-id="1592800809" data-author-id="1529692233" data-tag-ids="1693821484,1693290083,836295762,1694071345,834989,992604,1812532,220674790"></div></div><div class="js_recommended-footer recommended-footer column show-for-touch"></div></div><div class="row ad-wide ad-bottom pbs show-for-large-up" id="ad-970x250-container"><div class="column">		<div class="ad-unit js_ad-unit ad-billboard js_ad-billboard"><div id="ad-container-27859936" class="ad-container js_ad-container" data-zone-type="BILLBOARD"></div></div></div></div><div id="trackers" style="display: none;"></div><noscript><img src="http://pubads.g.doubleclick.net/activity;dc_iu=/4246/DFP_Audience_Pixel;dc_seg=22540930;blog=antiviral1;ord=1?" width="1" height="1" border="0" /></noscript><script type="text/javascript">
+		Date.now = Date.now || function() { return +new Date; };
+		window.statsdTicks = [{
+			ms: Date.now(),
+			message: "JS init reached",
+			reporting: false
+		}];
+		</script><script>markUserTime("JS - Before Require load");</script><script type="text/javascript" src="http://x.kinja-static.com/assets/javascripts/lib/require.js?2"></script><script type="text/javascript">(function () {window.kinja = window.kinja || {}; window.kinja.meta = JSON.parse(decodeURIComponent( '%7B%22cloudinaryRequest%22%3A%7B%22default%22%3A%7B%22eager%22%3A%22c_fill%2Cfl_progressive%2Cg_center%2Ch_180%2Cq_80%2Cw_320%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_600%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_100%2Cq_80%2Cw_100%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_77%2Cq_80%2Cw_137%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_600%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_264%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_358%2Cq_80%2Cw_636%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_264%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_120%2Cq_80%2Cw_120%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_636%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_358%2Cq_80%2Cw_636%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_80%2Cq_80%2Cw_80%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_180%2Cq_80%2Cw_320%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_180%2Cq_80%2Cw_320%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_320%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_120%2Cq_80%2Cw_120%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_200%2Cq_80%2Cw_200%7Cc_fill%2Cfl_progressive%2Cg_faces%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_faces%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_80%2Cq_80%2Cw_80%7C%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_358%2Cq_80%2Cw_636%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_100%2Cq_80%2Cw_100%7Cc_fit%2Cfl_progressive%2Ch_100%2Cq_80%2Cw_75%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_200%2Cq_80%2Cw_200%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_636%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_320%7Cc_fit%2Cfl_progressive%2Ch_100%2Cq_80%2Cw_75%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_358%2Cq_80%2Cw_636%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_180%2Cq_80%2Cw_320%7C%22%2C%22timestamp%22%3A%221429649648%22%2C%22signature%22%3A%227bba6be8f8a1959fed0d3ab489bc898d211d036a%22%2C%22api_key%22%3A%22196565315244936%22%2C%22eager_async%22%3A%22true%22%7D%2C%22gif%22%3A%7B%22eager%22%3A%22c_fill%2Cfl_progressive%2Cg_center%2Ch_180%2Cq_80%2Cw_320%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_600%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_100%2Cq_80%2Cw_100%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_77%2Cq_80%2Cw_137%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_600%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_264%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_358%2Cq_80%2Cw_636%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_264%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_120%2Cq_80%2Cw_120%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_636%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_358%2Cq_80%2Cw_636%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_80%2Cq_80%2Cw_80%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_180%2Cq_80%2Cw_320%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_180%2Cq_80%2Cw_320%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_320%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_120%2Cq_80%2Cw_120%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_200%2Cq_80%2Cw_200%7Cc_fill%2Cfl_progressive%2Cg_faces%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_faces%2Ch_77%2Cq_80%2Cw_137%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_80%2Cq_80%2Cw_80%7C%7Cc_fill%2Cfl_progressive%2Cg_north%2Ch_358%2Cq_80%2Cw_636%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_470%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_100%2Cq_80%2Cw_100%7Cc_fit%2Cfl_progressive%2Ch_100%2Cq_80%2Cw_75%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_200%2Cq_80%2Cw_200%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_636%7Cc_fit%2Cfl_progressive%2Cq_80%2Cw_320%7Cc_fit%2Cfl_progressive%2Ch_100%2Cq_80%2Cw_75%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_358%2Cq_80%2Cw_636%7Cc_fill%2Cfl_progressive%2Cg_center%2Ch_180%2Cq_80%2Cw_320%7C%22%2C%22timestamp%22%3A%221429649648%22%2C%22tags%22%3A%22gif%22%2C%22signature%22%3A%224854371d564c86c7c5360f0438c891c64bcfbddf%22%2C%22api_key%22%3A%22196565315244936%22%2C%22eager_async%22%3A%22true%22%7D%7D%2C%22syncFeatures%22%3Anull%2C%22featuresLastUpdate%22%3A1429648986349%2C%22killswitches%22%3A%7B%22liveblog.pollIntervalMillis%22%3A%7B%22name%22%3A%22liveblog.pollIntervalMillis%22%2C%22value%22%3A%2210000%22%2C%22defaultValue%22%3A%2210000%22%2C%22meta%22%3Anull%7D%2C%22liveblog.appRevision%22%3A%7B%22name%22%3A%22liveblog.appRevision%22%2C%22value%22%3A%221%22%2C%22defaultValue%22%3A%221%22%2C%22meta%22%3Anull%7D%2C%22maintenance%22%3A%7B%22name%22%3A%22maintenance%22%2C%22value%22%3A%22off%22%2C%22defaultValue%22%3A%22off%22%2C%22meta%22%3Anull%7D%7D%2C%22mode%22%3A%22live%22%2C%22pageType%22%3A%22permalink%22%2C%22currentUrl%22%3A%22%2Fthe-evidence-that-the-germanwings-copilot-was-muslim-is-1694063626%22%2C%22locale%22%3A%22en-US%22%2C%22localeWithUnderscore%22%3A%22en_US%22%2C%22imageSizes%22%3A%7B%22KinjaCenteredMedium%22%3A%7B%22width%22%3A320%2C%22height%22%3A180%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22blg-logo%22%3A%7B%22width%22%3A600%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22blg-avt-%22%3A%7B%22width%22%3A100%2C%22height%22%3A100%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22kc-small%22%3A%7B%22width%22%3A137%2C%22height%22%3A77%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22BlogLogo%22%3A%7B%22width%22%3A600%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22k-large%22%3A%7B%22width%22%3A470%2C%22height%22%3A264%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22kc-xlarge%22%3A%7B%22width%22%3A636%2C%22height%22%3A358%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaLarge%22%3A%7B%22width%22%3A470%2C%22height%22%3A264%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaCenteredSmall%22%3A%7B%22width%22%3A137%2C%22height%22%3A77%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22k-small%22%3A%7B%22width%22%3A137%2C%22height%22%3A77%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22AvatarMedium%22%3A%7B%22width%22%3A120%2C%22height%22%3A120%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22ku-xlarge%22%3A%7B%22width%22%3A636%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaSmall%22%3A%7B%22width%22%3A137%2C%22height%22%3A77%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaExtraLarge%22%3A%7B%22width%22%3A636%2C%22height%22%3A358%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22ku-large%22%3A%7B%22width%22%3A470%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22avt-small%22%3A%7B%22width%22%3A80%2C%22height%22%3A80%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22k-medium%22%3A%7B%22width%22%3A320%2C%22height%22%3A180%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaMedium%22%3A%7B%22width%22%3A320%2C%22height%22%3A180%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22ku-medium%22%3A%7B%22width%22%3A320%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22avt-medium%22%3A%7B%22width%22%3A120%2C%22height%22%3A120%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22avt-large%22%3A%7B%22width%22%3A200%2C%22height%22%3A200%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22k-thumb%22%3A%7B%22width%22%3A137%2C%22height%22%3A77%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22faces%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaThumb%22%3A%7B%22width%22%3A137%2C%22height%22%3A77%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22faces%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22AvatarSmall%22%3A%7B%22width%22%3A80%2C%22height%22%3A80%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22original%22%3A%7B%7D%2C%22k-xlarge%22%3A%7B%22width%22%3A636%2C%22height%22%3A358%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22north%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaUncroppedLarge%22%3A%7B%22width%22%3A470%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22BlogAvatar%22%3A%7B%22width%22%3A100%2C%22height%22%3A100%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22ku-inset%22%3A%7B%22width%22%3A75%2C%22height%22%3A100%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22AvatarLarge%22%3A%7B%22width%22%3A200%2C%22height%22%3A200%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaUncroppedExtraLarge%22%3A%7B%22width%22%3A636%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaUncroppedMedium%22%3A%7B%22width%22%3A320%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaUncroppedInset%22%3A%7B%22width%22%3A75%2C%22height%22%3A100%2C%22crop%22%3A%22fit%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22KinjaCenteredExtraLarge%22%3A%7B%22width%22%3A636%2C%22height%22%3A358%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22kc-medium%22%3A%7B%22width%22%3A320%2C%22height%22%3A180%2C%22crop%22%3A%22fill%22%2C%22gravity%22%3A%22center%22%2C%22flags%22%3A%22progressive%22%2C%22quality%22%3A80%7D%2C%22Original%22%3A%7B%7D%7D%2C%22blog%22%3A%7B%22id%22%3A1592800809%2C%22name%22%3A%22antiviral1%22%2C%22displayName%22%3A%22Antiviral%22%2C%22canonicalHost%22%3A%22antiviral.gawker.com%22%2C%22status%22%3A%22ENABLED%22%2C%22description%22%3Anull%2C%22showLikesInLatest%22%3Afalse%2C%22showRepliesInLatest%22%3Atrue%2C%22timezone%22%3A%22America%2FNew_York%22%2C%22timezoneOffset%22%3A-14400000%2C%22timezoneShortname%22%3A%22EDT%22%2C%22locale%22%3A%22en-US%22%2C%22robotsAllowed%22%3Atrue%2C%22fbAppId%22%3A%2236368793975%22%2C%22googleSiteVerification%22%3Anull%2C%22googleAnalyticsID%22%3A%22UA-142218-2%22%2C%22kruxId%22%3Anull%2C%22blogGroup%22%3A%22gawker%22%2C%22isGmgBlog%22%3Afalse%2C%22groupBlog%22%3Atrue%2C%22avatar%22%3A%7B%22src%22%3A%22http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--B2FVeOg_--%2Fc_fit%2Cfl_progressive%2Cq_80%2Cw_636%2Flqyan0rqlurqryjydgem.png%22%2C%22uri%22%3Anull%2C%22id%22%3A%22lqyan0rqlurqryjydgem%22%2C%22width%22%3A636%2C%22height%22%3Anull%2C%22format%22%3A%22png%22%2C%22recommended%22%3Anull%7D%2C%22logo%22%3A%7B%22src%22%3A%22http%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--gKky4aa---%2Fc_fit%2Cfl_progressive%2Cq_80%2Cw_636%2Ffz4ajqqixtvhnix1es2o.png%22%2C%22uri%22%3Anull%2C%22id%22%3A%22fz4ajqqixtvhnix1es2o%22%2C%22width%22%3A636%2C%22height%22%3Anull%2C%22format%22%3A%22png%22%2C%22recommended%22%3Anull%7D%2C%22noindex%22%3Afalse%7D%2C%22blogOwner%22%3A%7B%22id%22%3A%225722373954280962685%22%2C%22screenName%22%3A%22maxread%22%2C%22displayName%22%3A%22Max%20Read%22%2C%22avatar%22%3A%7B%22id%22%3A%22193e242jlffqcjpg%22%2C%22format%22%3A%22jpg%22%7D%2C%22superUser%22%3Afalse%2C%22defaultBlogId%22%3A789%2C%22defaultBlog%22%3Anull%7D%2C%22blogSales%22%3A%7B%22blogId%22%3A1592800809%2C%22amazonInsetsEnabled%22%3Atrue%2C%22amazonAffiliateTag%22%3A%22gawkeramzn-20%22%2C%22adsEnabled%22%3Atrue%2C%22adNetworkId%22%3A4246%2C%22adSiteName%22%3A%22gm.gawker%22%2C%22tagsExcludedFromPartnerRss%22%3A%5B%5D%2C%22tagsForceSynced%22%3A%5B%5D%2C%22adSlotsDisabled%22%3A%5B%5D%7D%2C%22imgassets%22%3A%22http%3A%2F%2Fx.kinja-static.com%2Fassets%2Fimages%2F%22%7D' ));}());</script><script type="text/javascript">(function () {/* This AMD configuration is used in these contexts:1) in-browser2) build process3) tests*/(function () {'use strict';/*globals requirejs, document */requirejs.config({bundles: {'lib/scribe/scribe': ['scribe']},paths: (function () {var paths = {'html-janitor': 'lib/html-janitor',jquery: 'lib/jquery',underscore: 'lib/underscore',backbone: 'lib/backbone','backbone.marionette': 'lib/backbone.marionette','backbone.stickit': 'lib/backbone.stickit',moment: 'lib/amd-wrapped/momentjs/moment','moment-timezone': 'lib/amd-wrapped/momentjs/moment-timezone','jquery.tap': 'lib/amd-wrapped/tap.js/jquery.tap',ace: 'lib/ace','scribe-virtualdom': 'lib/scribe-virtualdom','scribe-plugin-heading-command': 'lib/scribe/plugins/scribe-plugin-heading-command','scribe-plugin-smart-lists': 'lib/scribe/plugins/scribe-plugin-smart-lists','scribe-plugin-blockquote-command': 'lib/scribe/plugins/scribe-plugin-blockquote-command','scribe-plugin-intelligent-unlink-command': 'lib/scribe/plugins/scribe-plugin-intelligent-unlink-command','scribe-plugin-formatter-html-ensure-semantic-elements': 'lib/scribe/plugins/scribe-plugin-formatter-html-ensure-semantic-elements','scribe-plugin-inline-styles-to-elements': 'lib/scribe/plugins/scribe-plugin-inline-styles-to-elements','scribe-plugin-keyboard-shortcuts': 'lib/scribe/plugins/scribe-plugin-keyboard-shortcuts','scribe-plugin-sanitizer': 'lib/scribe/plugins/scribe-plugin-sanitizer','scribe-plugin-code-command': 'lib/scribe/plugins/scribe-plugin-code-command','scribe-plugin-curly-quotes': 'lib/scribe/plugins/scribe-plugin-curly-quotes'};if (typeof document !== 'undefined') {paths.templates = 'templates/closure/' + (document.getElementsByTagName('html')[0].getAttribute('lang') || 'en-US');}return paths;}())});}());var modules = {"BaseApp": "-806ae820096bef3670b2e57b08343805","TagPageApp": "-646ebf70b6ce76cebde1006f445efde2","PromoteModalModule": "-e61b7ffa9dde4987c9f5087720d7ed5b","FrontPageApp": "-c5ffa2e1f35c316666482b0d85a1e812","Main": "-7258ca9bfd9abe9a985837a7db36b030","PromotedPostPreview": "-59efcf050168b75d108fa27a51fb89fc","RuleSystem": "-23be55006e4c35791956e01e2c2d0225","ProfilePageApp": "-31f2f13153ab76fa4193bfbbcbbf6bea","ace": "-a486a39565033c80d86a498ff172dad1","AmazonStats": "-9ac5f9b843b1cf3f2be5b340f5a277c1","GroupchatsModule": "-1a5d4bc40b8c3ff94a7e073ba3cd37ed","KindrApp": "-84e653ee4f8f2dc4883957de425292f8","FeaturesPageApp": "-50012dcf123d9c2afb4ef4aed39c641a","DfpPromoteApp": "-09c11025dc7c7af58233545f4e5cf978","LeaderboardStatsPageApp": "-120f35b45b8ce86f442380b688be2cbf","SplashPageApp": "-4b0192ad977ca1eebf256f36fc320e8d","ScribeEditor": "-96ac9f42b5347ecd56a48ea989439bad","UserSettingsApp": "-ebd28c6ad067a319b286a69733f3e3b7","PrivatePageApp": "-3993eb8be307a32f5faac1e1f8d3abed","PostDebugPageApp": "-256912e9c5b806b1d42ed6ec674db9ae","PostApp": "-9a9082e024dd71dd054830d59ec89fdc","DashboardPageApp": "-7deb2a2ec08635a7a5e68ffef89eee01","StatsPageApp": "-d6012c5456a5fc049b04bb0582baa0b9","FlaggedRepliesApp": "-fdcf4bfc411acddb95a4f47ba018cf29","MarionetteEditor": "-8b81536047a1ad7f86d524447982ef28","AccountModalsModule": "-c2023e56f5ff8e3af219fbbfd83abd27","BlacklistPageApp": "-9e8a2d3d1709d9b07c6c759d6844827f","JWPlayer": "-bcb2726c49022f1b0a79203da422279b","GmgFeaturesPageApp": "-be62822c12a52bc9fe0e38ff48ce1767","DiscussionModule": "-0ef0a4691604bce25b794e5f297b4b54","EditorApp": "-fff79d945803fae967c165da6da66267","ErrorPageApp": "-1b892724ef3589d0b1c19874853cc1f6","NotificationsPageApp": "-f5414ee42052a979cc93a4869e4231c2","TipsApp": "-e7bc666034d0da856a9d4556e038ec24","KinjaAnalytics": "-bafda53ecf504147e84c449043b4a14c","KinjaFeedApp": "-935dab0f6f3c9fd128f20cbcee17cacb","SearchPageApp": "-4d2b3bda195c769d37663897cea5912b","Raven": "-3467f3aed7fecb0be39f14c0d7095e44","BusinessModule": "-995db7fcc250acea31c9bd61df24477e","UIKitApp": "-41d3b98a0ddee7cfd1a6a47902d8e88a","BlogSettingsModule": "-56c4029b17f87ee14d95d67c4990c487","StatsPerformanceApp": "-73ccc9d4f9e75913e7be6c71765e460d"}, paths = {}, baseUrl = "http://x.kinja-static.com/assets/javascripts-min/", modulePath = "layer/"; for (var module in modules) {if (modules.hasOwnProperty(module)) {paths["module/" + module] = "module/" + module + "-en-US" + modules[module]; paths["layer/" + module] = "layer/" + module + "-en-US" + modules[module];}}require.config({waitSeconds: 0, baseUrl: baseUrl, paths: paths, map: {"*": {"config": "config"}}});markUserTime("JS - Before preload"); require([modulePath + "Main", modulePath + "PostApp"], function () {markUserTime("JS - After preload"); require(["module/Main"], function () {markUserTime("JS - After app init");});});}());</script><!--[if gte IE 9]> --><script>require(["module/Raven"]);</script><!-- <![endif]--><div class="reveal-modal-bg"></div><div class="ad-background"></div><div id="modalplaceholder"></div></div><div class="footer-kinja"><div class="footer-kinja__top">	<footer class="row site-footer js_site-footer"><div class="large-8 large-offset-4 columns text-center"><ul class="list list-text text-light proxima"><li><a href="http://help.gawker.com/" target="_blank" data-ga="[Footer, click, Help]">Help</a></li><li><a href="http://legal.kinja.com/kinja-terms-of-use-90161644" data-ga="[Footer, click, Terms]">Terms of Use</a></li><li><a href="http://legal.kinja.com/privacy-policy-90190742" data-ga="[Footer, click, Privacy]">Privacy</a></li><li><a href="http://advertising.gawker.com/" data-ga="[Footer, click, Advertising]">Advertising</a></li><li><a href="http://advertising.gawker.com/about/index.php#contact" data-ga="[Footer, click, Permissions]">Permissions</a></li><li><a href="http://legal.kinja.com/content-guidelines-90185358" data-ga="[Footer, click, Content Guidelines]">Content Guidelines</a></li><li><a href="http://antiviral.gawker.com/rss">RSS</a></li><li><a href="http://grnh.se/2ctqpi" data-ga="[Footer, click, Jobs]">Jobs</a></li></ul></div></footer>	
+	<!-- Begin comScore Tag -->
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&c2=6770184&cv=2.0&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
+	</div><div class="footer-kinja__bottom"><div class="row"><div class="column"><div class="logo-wrapper"><span>Powered by</span><a href="http://kinja.com" data-ga="[Kinja Footer, Kinja.com Click, js_pageType]"><h1 class="kinja-title kinja-title--white">Kinja</h1></a></div></div></div></div></div></div>	<div style="display:none;" id="read-only-warning"><div class="row"><div class="column small-12">Kinja is in read-only mode. We are working to restore service.</div></div></div><div id="matchbuy-placeholder"></div></body></html>

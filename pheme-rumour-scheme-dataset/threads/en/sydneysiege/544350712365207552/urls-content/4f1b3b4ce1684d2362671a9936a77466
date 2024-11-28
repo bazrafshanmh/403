@@ -1,0 +1,2555 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 01:08:03 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 198
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178
+Mime-Version: 1.0
+Set-Cookie: _bit=5510b8f3-0017f-010da-281cf10a;domain=.bit.ly;expires=Sun Sep 20 01:08:03 2015;path=/; HttpOnly
+
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.dailytelegraph.com.au/remote/check_cookie.html?url=http%3a%2f%2fwww.dailytelegraph.com.au%2fnews%2fnsw%2fmartin-place-siege-live-rolling-coverage%2fstory-fnl2dlu7-1227156304178
+Cache-Control: max-age=0
+Expires: Tue, 24 Mar 2015 01:08:03 GMT
+Date: Tue, 24 Mar 2015 01:08:03 GMT
+Connection: keep-alive
+Set-Cookie: n_regis=123456789; path=/
+
+HTTP/1.1 302 Moved Temporarily
+Server: Apache
+Content-Length: 153
+Content-Type: text/html
+Location: http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178
+ETag: "576a333cf8858815980bb448cdbb2452:1417649347"
+Vary: Accept-Encoding
+Expires: Tue, 24 Mar 2015 01:08:03 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 24 Mar 2015 01:08:03 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Content-Length: 153
+Content-Type: text/html
+Location: https://tags.news.com.au/prod/newskey/generator.html?origin=http%3a%2f%2fwww.dailytelegraph.com.au%2fnews%2fnsw%2fmartin-place-siege-live-rolling-coverage%2fstory-fnl2dlu7-1227156304178&142715928629220804
+Set-Cookie: JSESSIONID=0C65297E3F8BDC169D27FF9423652C5F.s07-1; Path=/
+Set-Cookie: nkr=1; expires=Tue, 24 Mar 2015 01:13:06 GMT; path=/;
+Set-Cookie: SS_X_JSESSIONID=DBB4BECA782D128F6E4EF7CA5F476519; Path=/
+X-Cache-Lookup: MISS from news.com.au:80
+X-Metering: max: None count: None access: None meteredaccess: free membertype: anonymous meteredconfig: 1 redirected: 1 referral: None byPassUsrAgent: 0 
+X-UA-Compatible: IE=edge,chrome=1
+Vary: Accept-Encoding
+Expires: Tue, 24 Mar 2015 01:08:06 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 24 Mar 2015 01:08:06 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Moved Temporarily
+Server: Apache
+Content-Length: 153
+Content-Type: text/html
+Location: http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?nk=3f44b70f46f31ada496e58125a371660
+Set-Cookie: nk=3f44b70f46f31ada496e58125a371660; expires=Fri, 23 Mar 2018 01:08:06 GMT; path=/; domain=news.com.au;
+ETag: "7e27fb82bcaa950ec605d1b642828fe5:1425533268"
+P3P: CP="News Ltd does not have a P3P policy. You can view our Privacy Policy at http://www.newscorpaustraliaprivacy.com"
+Vary: Accept-Encoding
+Cache-Control: max-age=2025
+Date: Tue, 24 Mar 2015 01:08:06 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Moved Temporarily
+Server: Apache-Coyote/1.1
+Content-Length: 153
+Content-Type: text/html
+Location: https://sslcam.news.com.au/cam/authorise?channel=pc&url=http%3a%2f%2fwww.dailytelegraph.com.au%2fnews%2fnsw%2fmartin-place-siege-live-rolling-coverage%2fstory-fnl2dlu7-1227156304178%3fnk%3d3f44b70f46f31ada496e58125a371660
+Set-Cookie: nk=3f44b70f46f31ada496e58125a371660; expires=Fri, 23 Mar 2018 01:08:06 GMT; path=/;
+Set-Cookie: sr=true; path=/; expires=Tue, 24 Mar 2015 01:15:06 GMT; max-age=30;
+Set-Cookie: open_token=anonymous; path=/; domain=.dailytelegraph.com.au
+Set-Cookie: n_rme=1427159286; path=/; expires=Tue, 24 Mar 2015 02:08:06 GMT;
+X-Cache-Lookup: MISS from news.com.au:80
+X-Metering: max: None count: None access: None meteredaccess: free membertype: anonymous meteredconfig: 1 redirected: 1 referral: 0 byPassUsrAgent: 0 
+X-UA-Compatible: IE=edge,chrome=1
+Vary: Accept-Encoding
+Expires: Tue, 24 Mar 2015 01:08:06 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 24 Mar 2015 01:08:06 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?nk=3f44b70f46f31ada496e58125a371660
+Expires: Tue, 24 Mar 2015 01:08:06 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 24 Mar 2015 01:08:06 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Content-Type: text/html;charset=UTF-8
+Set-Cookie: sr=""; path=/; expires=Tue, 24 Mar 2015 00:08:06 GMT; max-age=0;
+X-Cache-Lookup: MISS from news.com.au:80
+X-Metering: max: None count: None access: None meteredaccess: free membertype: anonymous meteredconfig: 1 redirected: None referral: 0 byPassUsrAgent: 0 
+X-UA-Compatible: IE=edge,chrome=1
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Expires: Tue, 24 Mar 2015 01:08:06 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 24 Mar 2015 01:08:06 GMT
+Content-Length: 28167
+Connection: keep-alive
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7]> <html class="ie lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="ie ie7 lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="ie ie8 lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><html class="ie" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-ie"> <!--<![endif]-->
+
+
+            
+
+
+
+
+<head>
+				
+				
+				
+				
+		
+		
+	
+		
+<!-- site: DailyTelegraph esi: true breachflag: true channel:  -->
+		
+		
+		
+		
+	<!--  htmlHEadElement is News/FDN/Web/Render/htmlHead -->
+	<!-- Page: News (1226616041335) -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    	
+    			<script>bruce_rtget={"tmstamp": "2015-03-24 12:05:03.647482"};</script>
+    		
+    	
+    			<script type="text/javascript">
+(function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') + '//tags.news.com.au/prod/utrack/utrack.js?cb='+ (new Date()).getTime();
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+ })();
+</script>
+
+    		
+					<!-- seoHeadline:  -->
+					<title>Martin Place siege: Live rolling coverage |  dailytelegraph.com.au</title>
+					<meta name="description" content="PRIME Minister Tony Abbott says the lives of innocent people have been claimed because of the &amp;#8220;sick fantasies&amp;#8221; of Sydney siege gunman Man Haron Monis." />
+					<meta name="keywords" content=" hostages, Lindt Cafe, Martin Place,Sydney,NSw,Australia, Martin Place siege, Sydney, ISIS" />
+					<!-- setting thumbnail for facebook -->
+							<!--  primary is not empty-->
+										<meta property="og:image" content="http://cdn.newsapi.com.au/image/v1/external?url=http://content6.video.news.com.au/p5bTNicjrBo5bfYMv19f-Y0HAUi0D62E/QCdjB5HwFOTaWQ8X4xMDoxOjBtO_wVGe&width=650&api_key=kq7wnrk4eun47vz9c5xuj3mc" />
+					<meta name="twitter:card" content="summary_large_image">
+					<!-- PC related summary IDs: 1227156304178 -->
+					<link rel="canonical" href="http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178" />
+					<meta property="og:title"
+						content="Martin Place siege: Live rolling coverage" />
+					<meta property="og:type" content="article" />
+					<meta property="og:url"
+						content="http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178" />
+					<meta property="og:site_name" content="DailyTelegraph" />
+					<meta property="fb:app_id" content="135086289853833" />
+					<meta property="og:description" content="PRIME Minister Tony Abbott says the lives of innocent people have been claimed because of the &amp;#8220;sick fantasies&amp;#8221; of Sydney siege gunman Man Haron Monis." />
+					<meta name="article:publisher" content="News Limited">
+					<meta name="article:author" content="Staff Writers">
+					<meta name="article:publicationdate" content="Tue Dec 16 17:25:34 EST 2014">
+	<meta property="fb:admins" content=",100000875899514" />
+			<meta name="twitter:site" content="@dailytelegraph">
+			<meta name="twitter:site:id" content="@dailytelegraph">
+	<script type="text/javascript">
+		//<![CDATA[
+			window.ndm = window.ndm || {};
+			window.ndm.fwResourcesNewscdn = 'http://resources.newscdn.com.au';
+			window.ndm.social = window.ndm.social || {};
+			window.ndm.social.toggles = "['','','','']";
+			window.ndm.social.section = {
+			    'url': '/news/nsw/',
+			    'sections': ["News","NSW News"],
+			    'sectionpath':'/section/dailytelegraph.com.au/news/nsw/'
+			};
+			window.ndm.page = {};
+			var overrideNdmPageSite, overrideNdmPageUs, overridePageType, overrideNdmPageCustom, overrideNdmPageAdsenseGoogleAdClient, overrideNdmPageAdsenseGoogleAdChannel, overridePageSection;
+				ndm.account = {
+					urls: { login: "http://www.dailytelegraph.com.au/login", signup: "http://subscription.news.com.au/dailytelegraph/offers", account: "https://myaccount.news.com.au/dailytelegraph/viewAccount" }
+				};
+							
+							
+							
+								
+									
+								
+							window.ndm = window.ndm || {};window.ndm.cam = {'status': 'logged-out', 'memtype': 'anonymous'};ndm.config = {idp: {relayState: 'http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?nk=3f44b70f46f31ada496e58125a371660',samlLoc: 'http://saml.cam.idmndm.com',channel: 'pc',site: 'DailyTelegraph'}, metered: {mode: 'free',state: {},endpoint: {registration: 'https://idp.news.com.au/idp/Authn/rest',products: 'toc'},productInfo: {offerCode: '2_1_',sourceCode: 'DTWEB_WRE150_a'}}};
+					window.ndm.idp = window.ndm.idp || {};
+					window.ndm.cam = window.ndm.cam || {};
+					window.ndm.idp.socialEnabled = !window.ndm.cam.paywalldisabled;
+					window.ndm.idp.channel    = "pc";
+					window.ndm.idp.domain  = "https://idp.news.com.au/";
+					window.ndm.idp.activity = true;
+					window.ndm.idp.frictionless = false;
+					window.ndm.idp.linkerror = "http://www.dailytelegraph.com.au/linkerror";
+					window.ndm.idp.sitename = "DailyTelegraph";
+					window.ndm.idp.location = "http://saml.cam.idmndm.com";
+					window.ndm.idp.registrationUrl = "http://www.dailytelegraph.com.au/signupfinal";
+			ndm.cam = ndm.cam || {};
+		//]]>
+	</script>
+<!-- Fragment for [] on [fwprodcontent03.ni.news.com.au] @ [March 24, 2015 12:08PM] [cb:null] -->
+	<!-- Page includes [1226616041335:null] last generated at Tue Mar 24 12:08:04 EST 2015 -->
+<!-- page include -->
+<!-- Resource Included [{id=1226866162096, type=News_Stylesheet}, {id=1226886312627, type=News_Javascript}, {id=1226866180869, type=News_Stylesheet}, {id=1226866162383, type=News_Stylesheet}, {id=1226866164977, type=News_Stylesheet}, {id=1226587868739, type=News_Javascript}, {id=1226592477047, type=News_Javascript}, {id=1226866449412, type=News_Javascript}, {id=1226595896129, type=News_Javascript}, {id=1226587862069, type=News_Javascript}, {id=1226587860996, type=News_Javascript}, {id=1227090210716, type=News_Javascript}, {id=1227075391347, type=News_Resources_Group}, {id=1226641054873, type=News_Javascript}, {id=1226641835083, type=News_Stylesheet}, {id=1226866522182, type=News_Stylesheet}, {id=1226766829025, type=News_Javascript}, {id=1226858257711, type=News_Javascript}, {id=1226766829929, type=News_Javascript}, {id=1226680662899, type=News_Javascript}, {id=1227092763081, type=News_Javascript}, {id=1226645345887, type=News_Stylesheet}, {id=1226656244662, type=News_Javascript}, {id=1226704318792, type=News_Javascript}, {id=1226779697549, type=News_Javascript}, {id=1226964682752, type=News_Javascript}]-->
+<!-- Resource Included [{id=1227016714423, type=News_Javascript}, {id=1227051779242, type=News_Stylesheet}]-->
+<!-- //page include -->
+	<link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/v2/base-combined.css' />
+	<link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/v2/vertical/news/vertical-components.css' />
+	<link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/v2/story.css' />
+	<link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/video/beta/build/player.css' />
+	<link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/social/latest/css/base.css' />
+	<link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/metered/current/deployBucketA/themes/default/css/metered.css' />
+	<link rel='stylesheet' media='print' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/print.css' />
+	<script  type='text/javascript' src='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/lib/network-vendors-concat-min.js'></script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					</script>
+<!--[if !IE]> --><link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/v2/fonts.css' /><!-- <![endif]-->
+<!--[if IE 9]><link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/v2/fonts.css' /><![endif]-->
+<!--[if lte IE 8]><link rel='stylesheet' media='screen' type='text/css' href='http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/css/site/thetelegraph/v2/fonts-oldie.css' /><![endif]-->
+<script>
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					ndm.util.common.site.getName=function(a,b){var g,h,i,l,c=b||["NewsComAu","HeraldSun","TheAustralian","CourierMail","AdelaideNow","DailyTelegraph","PerthNow"],d=/^(?:http\:\/\/)(www\.)?([\d,\w]*-)?(.*?)\.?([\d,\w]*)\.(?:com|dev|au\.uk|co\.in)/i,e=$("body"),f=a&&a.match(d)&&a.match(d)[4]?a.match(d)[4]:window.location.hostname,j=c.length,k=a&&ndm.util.common.url.args(a);if(l=k&&k.site,h=l&&l.toLowerCase()||f.replace(".",""),!a&&e[0])for(i=0;j>i;i+=1)g=c[i],h=e.hasClass(g.toLowerCase())?g:h;return h};
+(function (global) {
+    if (window.require) {
+        var ndm = global.ndm || {};
+        require.config({
+            baseUrl: 'http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/js',
+            shim: {
+                'jquery': {
+                    exports: 'ndm.jQuery'
+                }
+            },
+            paths: {
+                'plugin': 'channel/desktop/libs',
+                'module': 'channel/desktop/app',
+                'lib': '../../lib/vendor/'
+            },
+            waitSeconds: 60
+        });
+        ndm.require = function (deps) {
+            (function monitor(){
+                if (ndm && ndm.page) {
+                    require(deps);
+                } else {
+                    setTimeout(monitor,100);
+                }
+            })();
+        };
+        ndm.require(['channel/desktop/app/base-top']);
+    }
+}(window));
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					function checkPageType () {
+    if (ndm && ndm.page && ndm.page.type === "index") {
+require(['channel/desktop/app/vertical']);
+    } else {
+        setTimeout(checkPageType, 100);
+    }
+}
+checkPageType();
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					window.envoy_config = window.envoy_config || {};
+window.envoy_config.identity = {
+    ninbar: {
+               'subscribe-url': 'http://www.dailytelegraph.com.au/subscribe/news/1/?sourceCode=DTWEB_ONS538'
+    }
+};
+(function(i, s, o, g, r, a, m){
+    i[r]={};a=s.createElement(o),m=s.getElementsByTagName(o)[0],
+    g=('https:'===document.location.protocol?'https://envoyssl.':
+    'http://envoy.')+g;a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
+    })(window, document, 'script', 'newscdn.com.au/service/concat.js?envoy&identity/latest&siteid=dtw', 'newscdn');
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					//]]>
+</script>
+<script>/** Social Script Loader v1.0 **/
+(function(s,o,c,i,a,l){
+    i=s.getElementsByTagName(o)[0];a=s.createElement(o);
+    l='';l=s.domain.search(/sit|ls|uat[.com]/)>-1&&'uat.'||l;
+    l=s.domain.search(/^dev[1-6]./)>-1&&'dev.'||l;l='http://'+
+    l+c+'.js';a.async=1;a.src=l;i.parentNode.insertBefore(a,i);
+})(document,'script','resources.newscdn.com.au/cs/social/latest/js/main.min');
+</script>
+<script type="text/javascript">
+//<![CDATA[
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					//]]>
+</script>
+<link rel="shortcut icon" href="http://resources.news.com.au/cs/dailytelegraph/images/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="http://resources.news.com.au/cs/dailytelegraph/images/favicon.ico" type="image/x-icon" />
+    <!-- Icons for Mobile Devices -->
+    <!-- For third-generation iPad with high-resolution Retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/img/metros/thetelegraph/icons/apple-touch-icon-144x144-precomposed.png">
+    <!-- For iPhone with high-resolution Retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/img/metros/thetelegraph/icons/apple-touch-icon-144x144-precomposed.png">
+    <!-- For first- and second-generation iPad: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/img/metros/thetelegraph/icons/apple-touch-icon-72x72-precomposed.png">
+    <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="http://resources.newscdn.com.au/cs/frameworks/prefab/latest/public/img/metros/thetelegraph/icons/apple-touch-icon-precomposed.png">
+<script type="text/javascript">
+//<![CDATA[
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					(function() {
+ var useSSL = 'https:' == document.location.protocol;
+ var src = (useSSL ? 'https:' : 'http:') +
+ '//newskey.newsanalytics.com.au/esi/utrack.js?cb='+ (new Date()).getTime();
+ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+ })();
+	                 //]]>
+		</script>
+			<script type="text/javascript">
+				//<![CDATA[
+				ndm.page.section = overridePageSection || "NEWS.NSW";
+				//]]>
+			</script>
+		<script type="text/javascript">
+				//<![CDATA[
+					ndm.page.custom = overrideNdmPageCustom || "";
+					ndm.page.vignstoryid = "";
+					ndm.page.site 		= overrideNdmPageSite 	|| "DTM";
+					ndm.page.us  		= overrideNdmPageUs		|| "ndmdailytelegraph";
+					ndm.page.runads 	= true;
+					ndm.page.adstyles 	= "auto";
+					ndm.page.type 		= overridePageType		|| "story";
+					//ndm.page.pcvideosite	= "PROD_DT";
+					ndm.page.shareid = "77397d010ae0b90c406d7a391d388801";
+					ndm.page.storyid = "1227156304178";
+					utag_data.net_article_date="2014-12-15 10:42:03";
+					utag_data.net_article_updated_time="2014-12-16 17:25:34";
+                        utag_data = window.utag_data || {};
+                        utag_data.adsense_client = overrideNdmPageAdsenseGoogleAdClient || "ca-nd-dailytelegraph_js";
+                        utag_data.adsense_client_intl = overrideNdmPageAdsenseGoogleAdClient || "ca-nd-dailytelegraph-st-intl_js";
+                        utag_data.adsense_channel = overrideNdmPageAdsenseGoogleAdChannel || "news";
+					ndm.page.searchApi = "http://search.news.com.au/embeddedjson?";
+				//]]>
+		</script>
+	<meta name="robots" content="noarchive" />
+                     
+<script src="http://tags.news.com.au/prod/trending/dt_d.js?id=1227156304178"></script>
+			<script type="text/javascript">
+				//<![CDATA[
+					ndm.cam.contentTypeRule = 'NON_PREMIUM' === 'PREMIUM' ? 'restricted' : 'free';
+					ndm.cam.contentTypeGranted = 'full';
+				//]]>
+			</script>
+    <script type="text/javascript">
+        //<![CDATA[
+            ndm.page.msrelatedlinks = false;
+            ndm.page.premiumstate = 'NON_PREMIUM';
+        //]]>
+    </script>
+</head>
+<body class="dailytelegraph story story-1227156304178 no-js  news news-story-template  news-story-template-index   cam user-anonymous paywall state-free source-dailytelegraph ">
+<div id="page">
+	<div id="skip-links">
+		<dl class="skip">
+			<dt>Skip to:</dt>
+				<dd class="first"><a href="#content">Main Content</a></dd>
+				<dd><a href="#nav">Site Navigation</a></dd>
+				<dd><a href="#footer">Site Footer</a></dd>
+				<dd><a href="#site-search">Site Search</a></dd>
+				<dd><a href="/help/sitemap/">Site Map</a></dd>
+				<dd><a href="#network-bar">Network Navigation (other sites)</a></dd>
+		</dl><!-- .skip -->
+	</div><!-- // #skip-links -->
+	<div id="network-bar">
+	  <div id="network-account">
+		
+			 <div class="network-login">
+			 	
+						<div class="module form-module form-module-cam-login">
+							<div class="module-header">
+								<ul class="more-links">
+									<li class="first"><a class="login" href="http://www.dailytelegraph.com.au/login#header-nav-login-lightbox">Login</a></li>
+								        <li class="last"><a class="signup" href="http://www.dailytelegraph.com.au/subscribe/news/1/?sourceCode=DTWEB_WBM100_a">Subscribe</a></li>
+								</ul>
+							</div><!-- // .module-header -->
+							<div class="module-content">
+								<div class="content-item" id="header-nav-login-lightbox">
+								      <div class="ci-header">
+
+ <h4 class="heading">Login using your social network</h4>
+	<form action="https://idp.news.com.au/idp/Authn/social" method="GET">
+		<fieldset>
+			<legend><span class="legend">Social Login</span></legend>
+			<div class="form-item fpos-1 frpos-3">
+	            <fieldset class="form-radio-group">
+	                <legend>
+	                    <span class="legend-text">Social Network
+	                    	<span class="required">
+	                        	<abbr title="required">*</abbr>
+	                    	</span>
+	                	</span>
+	                </legend>
+	                <div class="form-radio-item signin signin-facebook">
+	                    <input type="radio" id="service-facebook" value="facebook.com" name="service" class="radio required-field">
+	                    <label for="service-facebook" class="radio">
+	                        <span class="label-text">Login with Facebook</span>
+	                    </label>
+	                </div>
+	                <div class="form-radio-item signin signin-twitter">
+	                    <input type="radio" id="service-twitter" value="twitter.com" name="service" class="radio required-field">
+	                    <label for="service-twitter" class="radio">
+	                        <span class="label-text">Login with Twitter</span>
+	                    </label>
+	                </div>
+	                 <div class="form-radio-item signin signin-linkedin">
+	                    <input type="radio" id="service-linkedin" value="linkedin.com" name="service" class="radio required-field">
+	                    <label for="service-linkedin" class="radio">
+	                        <span class="label-text">Login with LinkedIn</span>
+	                    </label>
+	                </div>
+	                <div class="form-radio-item signin signin-google">
+	                    <input type="radio" id="service-google" value="google.com" name="service" class="radio required-field">
+	                    <label for="service-google" class="radio">
+	                        <span class="label-text">Login with Google</span>
+	                    </label>
+	                </div>
+	            </fieldset>
+	        </div>
+			<div class="form-item fipos-3 frpos-1 form-item-submit">
+				   <input type="hidden" name="cancelUrl" value="http://www.dailytelegraph.com.au/remote/talogin-error.html"/>
+				<input type="hidden" name="channel" value="pc">
+				<input type="hidden" name="authMethod" value="social">
+				<input type="hidden" name="site" value="DailyTelegraph">
+				<input type="hidden" name="relayState" value="http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?nk=3f44b70f46f31ada496e58125a371660">
+				<input type="hidden" name="location" value="http://saml.cam.idmndm.com">
+				<button type="submit" class="button-submit"><span>Login</span></button>
+			</div><!-- // .form-item -->
+		</fieldset>
+	</form>
+
+									  </div>
+									<div class="ci-content">
+	<h4 class="heading">Login using your Newspass account</h4>
+	
+    <form action="https://idp.news.com.au/idp/Authn/rest" method="POST" class="formBuilder">
+  	<fieldset>
+		<legend><span class="legend">User Login</span></legend>
+		<div class="form-item fipos-1">
+			<label for="cam_username">Username <span class="required"><abbr title="required">*</abbr></span></label>
+			<input type="text" id="cam_username" name="username" class="required-field email" />
+		</div><!-- // .form-item -->
+		<div class="form-item fipos-2">
+			<label for="cam_password">Password <span class="required"><abbr title="required">*</abbr></span></label>
+			<input type="password" id="cam_password" name="password" class="required-field password" />
+		</div><!-- // .form-item -->
+		<div class="form-item fipos-3">
+			<div class="form-checkbox-item">
+				<input type="checkbox" id="cam_remember_me" name="remember_me" checked/>
+				<label for="cam_remember_me">Remember me</label>
+			</div><!-- // .form-checkbox-item -->
+		</div><!-- // .form-item -->
+		<div class="form-item fipos-4 form-item-submit">
+			<input type="hidden" name="channel" value="pc" />
+			<input type="hidden" name="site" value="DailyTelegraph" />
+			<input type="hidden" name="relayState" value="http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?nk=3f44b70f46f31ada496e58125a371660" />
+			<input type="hidden" name="cancelUrl" value="http://www.dailytelegraph.com.au/remote/talogin-error.html"/>
+			<input type="hidden" name="location" value="http://saml.cam.idmndm.com" />
+			<button type="submit" class="button-submit"><span>Login</span></button>
+		</div><!-- // .form-item -->
+	</fieldset>
+	</form>
+
+									</div>
+									<div class="ci-related">
+										<ul class="related">
+											<li><a class="password" href="https://myaccount.news.com.au/dailytelegraph/forgotPassword">Forgot your password?</a></li>
+										</ul>
+									</div>
+									<div class="ci-footer">
+										<ul class="more-links">
+											<li>Subscribe now for full access</li>
+											<li class="btn-subscribe"><a class="subscribe" href="http://subscription.news.com.au/dailytelegraph/offers">Subscribe</a></li>
+										</ul>
+									</div>
+								</div>
+							</div><!-- // .module-content -->
+						</div><!-- // .module.form-module.form-module-cam-login -->
+			 		
+			</div><!-- // #network-login -->
+		 </div>
+					<dl class="network-bar-links  ">
+			<dt class="  first last "></dt>
+					<dd class="first    "><a href="http://www.news.com.au/?from=ninbar" >News.com.au</a></dd>
+					<dd class="    "><a href="http://www.foxsports.com.au/?from=ninbar" >Foxsports</a></dd>
+					<dd class="    "><a href="http://www.careerone.com.au/?from=ninbar" >CareerOne</a></dd>
+					<dd class="    "><a href="http://www.carsguide.com.au/?from=ninbar" >CarsGuide</a></dd>
+					<dd class="    "><a href="http://www.realestate.com.au/?from=ninbar" >Realestate</a></dd>
+					<dd class=" last   "><a href="http://www.dailytelegraph.com.au/network" >Network</a></dd>
+</dl><!-- // .network-bar-links   -->
+
+	</div><!-- // #network-bar -->
+<div id="header" >
+			<a id="header-vertical" href="http://www.dailytelegraph.com.au/news">
+						News
+			</a>
+	<div id="header-logo">
+				<strong><a href="http://www.dailytelegraph.com.au">dailytelegraph.com.au</a></strong>
+	</div><!-- // #header-logo -->
+			<div id="header-ads">
+	       		<div class="ad ad-leaderboard">
+					    <div class="ad-block ad-leader" id="ad-leader"></div>
+		        </div><!-- // .ad .ad-leaderboard -->
+		    </div><!-- // #header-ads -->
+</div><!-- // #header -->
+	<div id="nav">
+			<ul id="nav-wrap">
+					<li id="nav-level1">
+								
+		<ul class="nav-list tier-1">
+			<li class="sectionref-news    first  linkto-group-1226621540246">
+								<a href="/" >News</a>
+			</li>
+			<li class="sectionref-sport      linkto-group-1226621540309">
+								<a href="/sport" >Sport</a>
+			</li>
+			<li class="sectionref-entertainment      linkto-group-1226621543076">
+								<a href="/entertainment/sydney-confidential" >Entertainment</a>
+			</li>
+			<li class="sectionref-business      linkto-group-1226621540448">
+								<a href="/business" >Business</a>
+			</li>
+			<li class="sectionref-lifestyle      linkto-group-1226621543291">
+								<a href="/lifestyle" class="lifestyle-nlm" >Lifestyle</a>
+			</li>
+			<li class="sectionref-video      linkto-group-1226758160630">
+								<a href="/video" >Video</a>
+			</li>
+			<li class="sectionref-classifieds      linkto-group-1226775231833">
+								<a href="/classifieds" >Classifieds</a>
+			</li>
+			<li class="nav-item-search icon-assistive pull-right     last">
+									<a  href="#"></a>
+			</li>
+		</ul>
+		<!-- // .tier-1 -->
+
+					</li> <!-- // #nav-level1 -->
+					<li id="nav-level2">
+								
+		<ul class="nav-list tier-1">
+			<li class="first">
+								<a href="/news/breaking-news" >Breaking News </a>
+			</li>
+			<li>
+								<a href="/newslocal" >Local </a>
+			</li>
+			<li class="active">
+								<a href="/news/nsw" >NSW </a>
+			</li>
+			<li>
+								<a href="/news/national" >National </a>
+			</li>
+			<li>
+								<a href="/news/world" >World</a>
+			</li>
+			<li>
+								<a href="/news/weird" >Weird</a>
+			</li>
+			<li>
+								<a href="/technology" >Technology</a>
+			</li>
+			<li>
+								<a href="/news/opinion" >Opinion</a>
+			</li>
+			<li>
+								<a href="/news/opinion/public-defender" >Public Defender</a>
+			</li>
+			<li>
+								<a href="/news/photos" >Photos</a>
+			</li>
+			<li class="last">
+									<a  href="http://weather.dailytelegraph.com.au">Weather</a>
+			</li>
+		</ul>
+		<!-- // .tier-1 -->
+
+					</li> <!-- // #nav-level2 -->
+			</ul><!-- // #nav-wrap -->
+	</div><!-- // # nav -->
+<div id="info-bar">
+		<div class="info-bar-datestamp"><span
+			class="info-bar-datestamp-label">Last Updated:
+		</span>
+				<strong class="info-bar-datestamp-date">
+						March 24, 2015
+				  </strong>
+		</div>
+		<!-- // .info-bar-datestamp -->
+		<div class="info-bar-search">
+<div id="site-search">
+</div>
+		</div><!-- // .info-bar-search -->
+		<div class="newscdn-identity-component-login"></div>
+		<div class="newscdn-identity-component-ninbar"></div>
+		<div class="social-activity-centre"></div>
+			<div class="info-bar-weather">
+			<div class="slimline-weather">
+				<p>
+					<span class="assistive">Weather: </span>
+					<a href="http://weather.dailytelegraph.com.au/" class="slimline-weather-link">
+						<span class="slimline-weather-icon rain"></span>
+						Sydney 20<abbr title="Degrees Celsius">&deg;C</abbr>
+						-
+						26<abbr title="Degree Celsius">&deg;C</abbr>
+					</a>.
+					 Rain increasing.
+				</p>
+			</div> <!-- // .info-bar-weather -->
+		</div>
+
+</div><!-- // #info-bar -->
+    <div id="content">
+		<div id="section-header">
+			<div id="section-header-logo">
+						<h2>News</h2>
+			</div><!-- // #section-header-logo -->
+		</div><!-- // #section-header -->
+			<div id="content-1">
+				<div class="group advertisement full   text-g-nn-web-group-ad-billboard item-count-1">
+					<div class="group-content">
+						<div class="item ipos-1 irpos-1">
+		<div class="ad ad-other " id="ad-other" >
+                        <div class="ad-block ad-custom" id="ad-custom-1" data-ad-width="970" data-ad-height="250"></div>
+		</div><!-- // .ad .ad-other -->
+						 </div>
+				       </div>
+				  </div>
+			</div>
+		<!-- IMPACT -231 JIRA Fix start -->
+			
+			
+		<!-- IMPACT -231 JIRA Fix end -->
+		<div id="story">
+				
+<!-- [Group:1226490375031] on [fwprodcontent10.ni.news.com.au] @ [March 24, 2015 12:04PM] -->
+<div class="group   text-g-nn-web-group-ad-ticker item-count-1  group-id-1226490375031">
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+		<div class="ad ad-other mpos-1 mrpos-1" id="ad-other" >
+                        <div class="ad-block ad-custom" id="ad-custom-1" data-ad-width="650" data-ad-height="40"></div>
+		</div><!-- // .ad .ad-other -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+							
+		<!-- PC related summary IDs: 1227156304178 -->
+	<!--detail template::>title Fake sheik&#8217;s &#8216;sick fantasies&#8217; claimed innocent lives -->
+	<div class="story-header">
+		<div class="story-section">
+			<h2 class="heading">
+				<a href="/news/nsw" >NSW Unmetered news - weather or emergency</a>
+			</h2>
+		</div>
+		<div class="story-headline">
+			<h1 class="heading">
+				<!-- google_ad_section_start(name=story_headline, weight=high) -->
+						Martin Place siege: Live rolling coverage
+				<!-- google_ad_section_end(name=story_headline) -->
+			</h1>
+		</div><!-- // .story-headline -->
+		<div class="story-info">
+			<ul>
+						<li class="byline first ">
+							<span class="source-prefix">by:</span>
+									<cite class="author  author-staff-writers "> </cite>
+						</li>
+						<li class="source  ">
+							<span class="source-prefix">From:</span>
+							<cite>
+	        The Daily Telegraph
+							</cite>
+						</li>
+					<li class="date-and-time  last" title="2014-12-16T17:24:00+11:00">
+								<span class="datestamp">December 16, 2014</span>
+								<span class="timestamp">5:24PM</span>
+						</li>
+			</ul>
+		</div><!-- // .story-info -->
+		<div class="story-comments-link"></div>
+			<div class="story-header-tools">
+				<ul class="story-tools">
+					<li class="button-font-inc" title="Increase Text Size"><a href="/help/textsize/" class="js-font-inc">Increase Text Size</a></li>
+					<li class="button-font-dec" title="Decrease Text Size"><a href="/help/textsize/" class="js-font-dec">Decrease Text Size</a></li>
+					<li class="button-print" title="Print Article"><a href="/help/print/" class="js-print">Print</a></li>
+					<li class="button-email" title="Email Article">
+	<a href="mailto:?subject=Fake%20sheiks%20sick%20fantasies%20claimed%20innocent%20lives(DailyTelegraph)&body=DailyTelegraph%0A%0AFake%20sheiks%20sick%20fantasies%20claimed%20innocent%20lives%0A%0AFrom:DailyTelegraph%0ATue%20Dec%2016%2017%3A24%3A00%20EST%202014%0APRIME%20Minister%20Tony%20Abbott%20says%20the%20lives%20of%20innocent%20people%20have%20been%20claimed%20because%20of%20the%20sick%20fantasies%20of%20Sydney%20siege%20gunman%20Man%20Haron%20Monis%2E%0AAlternatively, you can copy and paste this link into your browser:%0Ahttp%3A%2F%2Fwww%2Edailytelegraph%2Ecom%2Eau%2Fnews%2Fnsw%2Fmartin%2Dplace%2Dsiege%2Dlive%2Drolling%2Dcoverage%2Fstory%2Dfnl2dlu7%2D1227156304178">Email</a>
+					</li>
+					<li class="button-share js-popmenu-parent" title="Share Article">
+			      		<a href="/help/share" class="button-share-link">Share</a>
+	<ul class="share-links">
+		<li class="share-digg lipos-1 lirpos-7"><a target="_blank" href="http://digg.com/submit?phase=2&amp;url=http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?sv=77397d010ae0b90c406d7a391d388801&amp;title=Fake+sheik%26%238217%3Bs+%26%238216%3Bsick+fantasies%26%238217%3B+claimed+innocent+lives">Add to Digg</a></li>
+		<li class="share-delicious lipos-2 lirpos-6"><a target="_blank" href="http://del.icio.us/post?url=http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?sv=77397d010ae0b90c406d7a391d388801&amp;title=Fake+sheik%26%238217%3Bs+%26%238216%3Bsick+fantasies%26%238217%3B+claimed+innocent+lives">Add to del.icio.us</a></li>
+		<li class="share-facebook lipos-3 lirpos-5"><a target="_blank" href="http://www.facebook.com/share.php?u=http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?sv=77397d010ae0b90c406d7a391d388801">Add to Facebook</a></li>
+		<li class="share-kwoff lipos-4 lirpos-4"><a target="_blank" href="http://www.kwoff.com/submit.php?url=http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?sv=77397d010ae0b90c406d7a391d388801">Add to Kwoff</a></li>
+		<li class="share-myspace lipos-5 lirpos-3"><a target="_blank" href="http://www.myspace.com/index.cfm?fuseaction=postto&amp;t=Fake+sheik%26%238217%3Bs+%26%238216%3Bsick+fantasies%26%238217%3B+claimed+innocent+lives&amp;c=%3Cb%3EUPDATE%3A%3C%2Fb%3E+Australian+Prime+Minister+Tony+Abbott+says+the+lives+of+innocent+people+have+been+claimed+because+of+the+%26%238220%3Bsick+fantasies%26%238221%3B+of+Sydney+siege+gunman+Man+Haron+Monis.&amp;u=http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?sv=77397d010ae0b90c406d7a391d388801">Add to Myspace</a></li>
+		<li class="share-newsvine lipos-6 lirpos-2"><a target="_blank" href="http://www.newsvine.com/_wine/save?popoff=0&amp;u=http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?sv=77397d010ae0b90c406d7a391d388801&amp;h=Fake+sheik%26%238217%3Bs+%26%238216%3Bsick+fantasies%26%238217%3B+claimed+innocent+lives">Add to Newsvine</a></li>
+		<li class="share-help lipos-7 lirpos-1"><a target="_blank" href="/help/share/">What are these?</a></li>
+	</ul>
+					</li>
+				</ul>
+			</div> <!-- // .story-header-tools -->
+	</div><!-- .story-header -->
+        <div class="ad-block ad-adsense-medium-intl" id="ad-adsense-medium-intl-1"></div>
+	<div class="story-body  lead-media-large">
+	<div class="article-media article-media-large media-count-1 ">
+		<div class="">
+						<div class="video ">
+		<!-- // FS SWITCHING... -->
+						<!-- no video switching required -->
+    <div class="module vms vms-wide vms-embedcode-p5bTNicjrBo5bfYMv19f-Y0HAUi0D62E ">
+        <div class="module-underlay"></div>
+        <div class="module-header vms-header">
+            <h3 class="heading">Sydney unites
+                <span class="time">3:04</span>
+            </h3>
+        </div>
+        <div class="module-controls">
+            <ul class="controls-list">
+                <li class="play"><a class="playButton" href="http://dailytelegraph.com.au/video/id-p5bTNicjrBo5bfYMv19f-Y0HAUi0D62E/Sydney-unites">Play video</a></li>
+            </ul>
+        </div>
+        <div class="module-content">
+            <div class="poster">
+                    <img alt="http://cdn.newsapi.com.au/image/v1/external?url=http://content6.video.news.com.au/p5bTNicjrBo5bfYMv19f-Y0HAUi0D62E/QCdjB5HwFOTaWQ8X4xMDoxOjBtO_wVGe&width=650&api_key=kq7wnrk4eun47vz9c5xuj3mc" src="http://cdn.newsapi.com.au/image/v1/external?url=http://content6.video.news.com.au/p5bTNicjrBo5bfYMv19f-Y0HAUi0D62E/QCdjB5HwFOTaWQ8X4xMDoxOjBtO_wVGe&width=650&api_key=kq7wnrk4eun47vz9c5xuj3mc" />
+            </div>
+            <div class="description">
+                <p>
+                    Sydneysiders share their thoughts on the unity born out of the Sydney Siege
+                </p>
+            </div>
+        </div>
+        <div class="module-footer vms-footer">
+            <ul class="info">
+                <li class="source">The Australian</li>
+                <li class="date">16 Dec 2014</li>
+                <li class="category">
+                        <span class="cat-1">News</span>
+                </li>
+                <li class="status"></li>
+            </ul>
+        </div>
+    </div><!-- // .module .vms -->
+        <script type="text/javascript">
+            utag_data = window.utag_data || {};
+            utag_data.net_content_type = (utag_data.net_content_type ? utag_data.net_content_type + "+" : "") + "video";
+        </script>
+						</div> <!-- // .video .js-tab-content -->
+		</div> <!-- // .tabs .js-tabbed -->
+	</div> <!-- // .article-media -->
+			<div class="story-summary-list">
+				<ul>
+						<li>Police raided gunman Monis&#8217; girlfriend&#8217;s Belmore home about 11.20am</li>
+				</ul>
+			</div><!-- // .story-summary-list -->
+			<div class="story-intro">
+				<p><strong>
+				<!-- google_ad_section_start(name=story_introduction, weight=high) -->
+				PRIME Minister Tony Abbott says the lives of innocent people have been claimed because of the &#8220;sick fantasies&#8221; of Sydney siege gunman Man Haron Monis.
+				<!-- google_ad_section_end(name=story_introduction) -->
+				</strong></p>
+			</div><!-- // .story-intro -->
+		<!-- google_ad_section_start(name=story_body, weight=high) -->
+		<p>But he also paid tribute to the character of citizens who had opened their hearts to members of the different communities who make up the multicultural nature of Sydney.</p><p>&#8220;Decent, innocent people (have been) caught up in the sick fantasy of a deeply disturbed individual&#8221; Mr Abbott told reporters in Sydney.</p><p>&#8220;We have seen the consequences of this play out over the last 36 hours.&#8221; Monis and two of his hostages died at the end of a 16-hour siege at Sydney&#8217;s Lindt cafe on Tuesday morning.</p><p>
+<div class="module image-module module-image-650w366h  id1227158463767">
+	<div class="module-content">
+		<div class="image-block image-650w366h">
+				<div class="image-frame">
+			<img src="http://resources3.news.com.au/images/2014/12/16/1227158/463767-8c898ed6-84b5-11e4-a702-553dc58650c9.jpg" alt="Heavily armed police outside Lindt Cafe in Martin Place yesterday. Picture: Adam Taylor"  width="650"  height="366"  />
+				</div><!--  // .image-frame -->
+				<p class="caption">
+								<span class="caption-text">Heavily armed police outside Lindt Cafe in Martin Place yesterday. Picture: Adam Taylor</span>
+						<span class="image-source"><em>Source:</em> News Corp Australia</span>
+				</p><!-- // .caption -->
+		</div><!-- // .image-block -->
+	</div><!-- // .module-content -->
+</div><!-- // .module .image-module .module-image-freeform -->
+Mr Abbott said that every Sydneysider could feel quietly proud of the way the city had handled one of the most difficult periods in its history.</p>
+		
+		  
+	<p>&#8220;People have responded with typical Australian decency and generosity,&#8221; he said.</p><p>Mr Abbott said regardless of whether Monis had been on the watchlist of authorities, it was likely that such a crime may not have been prevented.</p><p>&#8220;It&#8217;s quite likely, certainly possible, that this incident could have taken place,&#8221; he said.</p><p>&#8220;Because the level of control that would be necessary to prevent people from going about their daily life, would be very, very high indeed.&#8221;</p><p>
+<div class="module image-module module-image-650w366h  id1227158108479">
+	<div class="module-content">
+		<div class="image-block image-650w366h">
+				<div class="image-frame">
+			<img src="http://resources3.news.com.au/images/2014/12/16/1227158/108479-945bb93e-84b2-11e4-a702-553dc58650c9.jpg" alt="Heavily armed police prepare to storm the Lindt Cafe this morning. Picture: Gordon McComi"  width="650"  height="366"  />
+				</div><!--  // .image-frame -->
+				<p class="caption">
+								<span class="caption-text">Heavily armed police prepare to storm the Lindt Cafe this morning. Picture: Gordon McComiskie</span>
+						<span class="image-source"><em>Source:</em> News Corp Australia</span>
+				</p><!-- // .caption -->
+		</div><!-- // .image-block -->
+	</div><!-- // .module-content -->
+</div><!-- // .module .image-module .module-image-freeform -->
+</p><p>
+<div class="module image-module module-image-316w237h  id1227157717595">
+	<div class="module-content">
+		<div class="image-block image-316w237h">
+				<div class="image-frame">
+			<img src="http://resources3.news.com.au/images/2014/12/16/1227157/717595-b5cb0224-84ac-11e4-a702-553dc58650c9.jpg" alt="Lost... Katrina Dawson."  width="316"  height="237"  />
+				</div><!--  // .image-frame -->
+				<p class="caption">
+								<span class="caption-text">Lost ... Katrina Dawson.</span>
+						<span class="image-source"><em>Source:</em> Supplied</span>
+				</p><!-- // .caption -->
+		</div><!-- // .image-block -->
+	</div><!-- // .module-content -->
+</div><!-- // .module .image-module .module-image-316w-237h -->
+<div class="module image-module module-image-316w237h  id1227157713333">
+	<div class="module-content">
+		<div class="image-block image-316w237h">
+				<div class="image-frame">
+			<img src="http://resources1.news.com.au/images/2014/12/16/1227157/713333-51bfec22-84ac-11e4-a702-553dc58650c9.jpg" alt="Hero... Tori Johnson."  width="316"  height="237"  />
+				</div><!--  // .image-frame -->
+				<p class="caption">
+								<span class="caption-text">Hero ... Tori Johnson.</span>
+						<span class="image-source"><em>Source:</em> Supplied</span>
+				</p><!-- // .caption -->
+		</div><!-- // .image-block -->
+	</div><!-- // .module-content -->
+</div><!-- // .module .image-module .module-image-316w-237h -->
+</p><p></p><p><b><a href="http://www.dailytelegraph.com.au/news/sydney-siege-gunman-among-three-dead-as-gunfight-brings-an-end-to-martin-place-drama/story-fni0cx4q-1227157293613" target="_blank">SYDNEY SIEGE GUNMAN AMONG THREE DEAD </a></b></p><p><b><a href="http://www.dailytelegraph.com.au/news/nsw/sydney-siege-gunman-identified-as-self-styled-sheik-man-haron-monis-on-bail-for-accessory-to-murder/story-fnl2dlu7-1227157403853" target="_blank">GUNMAN IDENTIFIED AS SELF-STYLED SHEIK MAN HARON MONIS</a></b></p><p><b><a href="http://www.dailytelegraph.com.au/news/national/sydney-siege-hostage-marcia-mikhaels-chilling-facebook-post-he-is-threatening-to-kill-us/story-fni0xqrc-1227157524784" target="_blank">SYDNEY SEIGE HOSTAGE MARCIA MIKHAEL&#8217;S CHILLING FACEBOOK POST</a></b></p><p><b><a href="http://www.dailytelegraph.com.au/news/nsw/sydney-siege-a-timeline-of-how-it-happened/story-fni0cx12-1227157482502" target="_blank">SYDNEY SIEGE: A TIMELINE OF HOW IT HAPPENED</a></b></p><p>
+<!-- iFrameDetail -->
+	<div class="article-media article-media-inline article-media-inline-embedded">
+<div class="module iframe    iframe-650x1200 text-m-live-blog id1227156304126">
+		<div class="module-header">
+			<h3 class="heading">Live Blog</h3>
+		</div><!-- // .module-header -->
+    <div class="module-content">
+	            <iframe src="http://embed.scribblelive.com/Embed/v7.aspx?Id=987615&ThemeId=16707" width="650" height="1200" frameborder="0" scrolling="yes"><div class="iframe-alt">(Frame content direct link: <a href="http://embed.scribblelive.com/Embed/v7.aspx?Id=987615&ThemeId=16707">http://embed.scribblelive.com/Embed/v7.aspx?Id=987615&ThemeId=16707</a>.)</div></iframe>
+    </div><!-- // .module-content -->
+</div><!-- .module.iframe.  -->
+</div><!-- // article-media -->
+</p><p></p>
+	<!-- google_ad_section_end(name=story_body) -->
+	</div><!-- // .story-body -->
+	<div class="story-comments-link"></div>
+	<div class="story-footer">
+	    <div class="story-footer-tools">
+	        <ul class="story-tools">
+	            <li class="button-font-inc" title="Increase Text Size"><a href="/help/textsize/" class="js-font-inc">Increase Text Size</a></li>
+	            <li class="button-font-dec" title="Decrease Text Size"><a href="/help/textsize/" class="js-font-dec">Decrease Text Size</a></li>
+	            <li class="button-print" title="Print Article"><a href="/help/print/" class="js-print">Print</a></li>
+	            <li class="button-email" title="Email Article">
+	<a href="mailto:?subject=Fake%20sheiks%20sick%20fantasies%20claimed%20innocent%20lives(DailyTelegraph)&body=DailyTelegraph%0A%0AFake%20sheiks%20sick%20fantasies%20claimed%20innocent%20lives%0A%0AFrom:DailyTelegraph%0ATue%20Dec%2016%2017%3A24%3A00%20EST%202014%0APRIME%20Minister%20Tony%20Abbott%20says%20the%20lives%20of%20innocent%20people%20have%20been%20claimed%20because%20of%20the%20sick%20fantasies%20of%20Sydney%20siege%20gunman%20Man%20Haron%20Monis%2E%0AAlternatively, you can copy and paste this link into your browser:%0Ahttp%3A%2F%2Fwww%2Edailytelegraph%2Ecom%2Eau%2Fnews%2Fnsw%2Fmartin%2Dplace%2Dsiege%2Dlive%2Drolling%2Dcoverage%2Fstory%2Dfnl2dlu7%2D1227156304178">Email</a>
+				</li>
+				<li class="button-share js-popmenu-parent" title="Share Article">
+		      		<a href="/help/share" class="button-share-link">Share</a>
+	<ul class="share-links">
+		<li class="share-digg lipos-1 lirpos-7"><a target="_blank" href="http://digg.com/submit?phase=2&amp;url=http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?sv=77397d010ae0b90c406d7a391d388801&amp;title=Fake+sheik%26%238217%3Bs+%26%238216%3Bsick+fantasies%26%238217%3B+claimed+innocent+lives">Add to Digg</a></li>
+		<li class="share-delicious lipos-2 lirpos-6"><a target="_blank" href="http://del.icio.us/post?url=http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?sv=77397d010ae0b90c406d7a391d388801&amp;title=Fake+sheik%26%238217%3Bs+%26%238216%3Bsick+fantasies%26%238217%3B+claimed+innocent+lives">Add to del.icio.us</a></li>
+		<li class="share-facebook lipos-3 lirpos-5"><a target="_blank" href="http://www.facebook.com/share.php?u=http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?sv=77397d010ae0b90c406d7a391d388801">Add to Facebook</a></li>
+		<li class="share-kwoff lipos-4 lirpos-4"><a target="_blank" href="http://www.kwoff.com/submit.php?url=http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?sv=77397d010ae0b90c406d7a391d388801">Add to Kwoff</a></li>
+		<li class="share-myspace lipos-5 lirpos-3"><a target="_blank" href="http://www.myspace.com/index.cfm?fuseaction=postto&amp;t=Fake+sheik%26%238217%3Bs+%26%238216%3Bsick+fantasies%26%238217%3B+claimed+innocent+lives&amp;c=%3Cb%3EUPDATE%3A%3C%2Fb%3E+Australian+Prime+Minister+Tony+Abbott+says+the+lives+of+innocent+people+have+been+claimed+because+of+the+%26%238220%3Bsick+fantasies%26%238221%3B+of+Sydney+siege+gunman+Man+Haron+Monis.&amp;u=http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?sv=77397d010ae0b90c406d7a391d388801">Add to Myspace</a></li>
+		<li class="share-newsvine lipos-6 lirpos-2"><a target="_blank" href="http://www.newsvine.com/_wine/save?popoff=0&amp;u=http://www.dailytelegraph.com.au/news/nsw/martin-place-siege-live-rolling-coverage/story-fnl2dlu7-1227156304178?sv=77397d010ae0b90c406d7a391d388801&amp;h=Fake+sheik%26%238217%3Bs+%26%238216%3Bsick+fantasies%26%238217%3B+claimed+innocent+lives">Add to Newsvine</a></li>
+		<li class="share-help lipos-7 lirpos-1"><a target="_blank" href="/help/share/">What are these?</a></li>
+	</ul>
+				</li>
+	        </ul>
+	    </div><!-- // .story-footer-tools -->
+	    <div class="story-footer-more">
+	        <p class="story-footer-top-link"><a href="#page">Back to top of page</a></p>
+	    </div><!-- // .story-footer-more -->
+	</div><!-- // .story-footer -->
+        <div class="ad-container   group gpos-1 grpos-1 item-count-0">
+				
+<!-- [Group:1226490376767] on [fwprodcontent04.ni.news.com.au] @ [March 24, 2015 11:56AM] -->
+<div class="group ad-container   text-g-nn-web-group-ad-google-300 item-count-1  group-id-1226490376767">
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+		<div class="ad ad-adsensemedium mpos-1 mrpos-1" id="ad-adsensemedium" >
+                        <div class="ad-block ad-adsense-medium" id="ad-adsense-medium-1"></div>
+		</div><!-- // .ad .ad-adsensemedium -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+        </div><!-- // .group gpos-1 grpos-2 -->
+	<div class="story-extras story-extras-2">
+			<div class="outbrain-group   group gpos-1 grpos-2 item-count-1">
+				
+<!-- [Group:1226697087750] on [fwprodcontent10.ni.news.com.au] @ [March 24, 2015 11:58AM] -->
+<div class="group outbrain-group   text-g-nn-web-group-outbrain-mega-widget item-count-1  group-id-1226697087750">
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+	<div class="custom-html   ">
+		<div id="outbrain-widget">
+    <div class="OUTBRAIN" data-widget-id="AR_1"></div><div class="OUTBRAIN" data-widget-id="AR_2"></div><div class="OUTBRAIN" data-widget-id="AR_3"></div>
+</div>
+<style type="text/css">
+.story-extras .group.outbrain-group,
+.story-extras .group.outbrain-group .item,
+.story-extras .group.outbrain-group #outbrain-widget{
+width:650px; display:block;
+}
+</style>
+<script type="text/javascript">
+    (function ($, siteCode) {
+        var metaog = $('meta[property="og:url"]').attr('content'),
+        $outbrain = $('#outbrain-widget .OUTBRAIN'),
+        siteName;
+        switch(siteCode){
+case "HWT":
+siteName = "Herald_Sun";
+break;
+case "DTM":
+siteName = "Daily_Telegraph";
+break;
+case "TCM":
+siteName = "Courier_Mail";
+break;
+case "ADV":
+siteName = "Adelaide_Now";
+break;
+case "TST":
+siteName = "Perth_Now";
+break;
+        default:
+siteName = "Herald_Sun";
+        }
+        $outbrain.data({"src" : metaog, "ob-template": siteName});
+    }(jQuery, ndm.page.site));
+</script>
+<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+	</div><!-- // .custom-html -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+			</div><!-- // .group gpos-1 grpos-2 -->
+			<div class="story-dash   group gpos-2 grpos-1 item-count-2">
+				
+<!-- [Group:1226580353853] on [fwprodcontent02.ni.news.com.au] @ [March 24, 2015 11:43AM] -->
+<div class="group story-dash   text-g-news item-count-2  group-id-1226580353853">
+		<div class="group-header">
+					<h2 class="heading">News</h2>
+		</div><!-- // .group-header -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-2">
+		<div class="module default   sectionref-breaking-news     collection mpos-1 mrpos-1 text-m-nn-web-pmnt-storydash-breaking id1226580097783" id="id1226580097783">
+			<div class="module-content ">
+			<!-- PC related IDs: 1227276143552 -->
+			<!-- PC related IDs: 1227276135553 -->
+			<!-- PC related IDs: 1227276130925 -->
+			<!-- PC related IDs: 1227275755164 -->
+			<!-- PC related IDs: 1227276110112 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/news/breaking-news/stranded-whales-return-to-deeper-waters/story-fni0xqi3-1227276143552" > Stranded whales return to deeper waters </a></li>
+								<li class="story     lipos-2   "><a href="/business/breaking-news/aofm-sells-200m-of-treasury-bonds/story-fni0xqe3-1227276135553" > AOFM sells $200m of Treasury bonds </a></li>
+								<li class="story     lipos-3   "><a href="/news/breaking-news/ancient-killer-newt-was-size-of-a-car/story-fni0xqlk-1227276130925" > Ancient killer newt was 'size of a car' </a></li>
+								<li class="story     lipos-4   "><a href="/news/breaking-news/govt-backs-union-deal-on-penalty-rates/story-fni0xqi3-1227275755164" > Retailers laud deal to cut penalty rates </a></li>
+								<li class="story    last lipos-5   "><a href="/news/breaking-news/governor-signs-law-making-utah-only-state/story-fni0xqlk-1227276110112" > Governor signs law making Utah only state </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+			</div><!-- // .item ipos-1 irpos-2 -->
+			<div class="item ipos-2 irpos-1">
+    <div class="module navigation-module sectionref-news   id1226592114766 text-m-news">
+	        <div class="module-header">
+	        	<h3 class="heading">
+	        		<a href="/news" >News</a>
+	        	</h3>
+	        </div><!-- // .module-header -->
+        <div class="module-content">
+		<ul class=" tier-1">
+			<li class="first">
+									<a  href="/news/breaking-news">Breaking News</a>
+			</li>
+			<li>
+									<a  href="/news/national">National</a>
+			</li>
+			<li class="sectionref-world">
+									<a  href="/news/world">World</a>
+			</li>
+			<li>
+									<a  href="/news/weird">Weird</a>
+			</li>
+			<li>
+									<a  href="/technology">Technology</a>
+			</li>
+			<li>
+									<a  href="/news/opinion">Opinion</a>
+			</li>
+			<li class="last">
+									<a  href="/news/photos">Photos</a>
+			</li>
+		</ul>
+		<!-- // .tier-1 -->
+        </div><!-- // .module-content -->
+    </div><!-- // .module.navigation-module -->
+			</div><!-- // .item ipos-2 irpos-1 -->
+		</div><!-- // .group-content.item-count-2 -->
+</div><!-- // .group -->
+
+			</div><!-- // .group gpos-2 grpos-1 -->
+	</div><!-- // .story-extras-2 -->
+	
+			<div class="story-promo story-promo-bottom">
+			</div>
+	  
+								
+        </div><!-- // #story -->
+			<div id="content-3">
+		<div class="ad ad-other " id="ad-other" >
+                        <div class="ad-block ad-custom" id="ad-custom-1" data-ad-width="315" data-ad-height="90"></div>
+		</div><!-- // .ad .ad-other -->
+				
+<!-- [Group:1226490379337] on [fwprodcontent02.ni.news.com.au] @ [March 24, 2015 11:54AM] -->
+<div class="group   text-g-nn-web-group-ad-halfpage item-count-1  group-id-1226490379337">
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+		<div class="ad ad-halfpage mpos-1 mrpos-1" id="ad-halfpage" >
+		</div><!-- // .ad .ad-halfpage -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226613051171] on [fwprodcontent04.ni.news.com.au] @ [March 24, 2015 12:02PM] -->
+<div class="group   text-g-dt-nn-web-group-rhc-story-news item-count-1  group-id-1226613051171">
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+			<div class="esi_fragment">
+			        <div class="most-read sectionref-news"><div class="module-header"><h3 class="heading">Most Viewed</h3></div> <div class="module "><div class="module-content"><ol class="news-headline-numbered"><li><a rel="mostpop" href="http://www.dailytelegraph.com.au/sport/nrl/roosters-v-panthers-video-stinker-tarnishes-sydney-roosters-win-over-penrith/story-fni3gfvk-1227274999437?sv=e092caab057525cbd5dac52c5a4b96e6">Outrage as video stinker tarnishes Roosters win</a></li><li><a rel="mostpop" href="http://www.dailytelegraph.com.au/sport/nrl/jacob-loko-and-jorge-taufua-face-nrl-investigation-after-drunken-brawl-in-the-streets/story-fni3g67w-1227275458968?sv=3c0262821d640939288a065c61ce890">Loko’s future grim after street brawl</a></li><li><a rel="mostpop" href="http://www.dailytelegraph.com.au/news/nsw-state-election-2015/state-election-labors-big-guns-martin-ferguson-and-tim-gleason-take-aim-at-luke-foleys-campaign/story-fnrskx7r-1227275606765?sv=7dbc167ae549067857018f731f1321c8">Labor’s big guns take aim at Foley</a></li><li><a rel="mostpop" href="http://www.dailytelegraph.com.au/news/nsw/thredbo-survivor-stuart-divers-second-wife-rosanna-dies-of-breast-cancer-at-40/story-fni0cx12-1227275535819?sv=2a86f6c29ba14bc3291e5c56283f1502">Thredbo survivor’s second wife dies</a></li><li><a rel="mostpop" href="http://www.dailytelegraph.com.au/news/nowra-toyota-refuses-to-service-customers-cars-if-dashcam-running/story-fni0cx4q-1227274490689?sv=b84ae2f89b669d3bcc9bbe477dafe9f9">Car dealer refuses to service cars with dashcams</a></li><li><a rel="mostpop" href="http://www.dailytelegraph.com.au/entertainment/sydney-confidential/weve-lost-20-kilos-look-at-former-my-kitchen-rules-twins-vikki-and-helena-now/story-fni0cvc9-1227274036891?sv=ef56733a44e977ab7ead7667a5ba5ac9">MKR twins: We’ve lost 20 kilos!</a></li><li><a rel="mostpop" href="http://www.dailytelegraph.com.au/rendezview/theyre-smart-successful-and-very-non-famous-meet-the-new-breed-of-hollywood-brides/story-fnpug1jf-1227273494825?sv=12511029de29aa03184d9bba4fe8a52b">They’re smart, successful and very non famous. Meet the new breed of Hollywood brides.</a></li><li><a rel="mostpop" href="http://www.dailytelegraph.com.au/entertainment/celebrity/its-way-too-hot-mother-of-two-pia-miller-stuns-her-online-fans-posting-a-sexy-poolside-snap/story-fni0boi3-1227264950709?sv=877495831cdb286b377851570551a8b9">H&amp;A star shares sexy poolside snap</a></li></ol></div></div>
+<img src="http://tcog.news.com.au/track/news/content/v1/?category=/section/dailytelegraph.com.au/collection/popular-content/all/24hours/&format=module&t_product=DailyTelegraph&maxRelated=8&t_template=popular-headline&origin=omniture&domain=dailytelegraph.com.au" style='opacity:0; height:0px; width:0px; position:absolute;' width='0' height='0' />
+</div>
+			</div>
+		<div class="module default   sectionref-nsw-news-and-photos   first-image-100w75h  collection mpos-2 mrpos-1 text-m-news id1226640992625" id="id1226640992625">
+			<div class="module-header">
+								<h3 class="heading "><a href="/news">News</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block    sectionref-news sbpos-1 sbrpos-5 id1227275613975">
+			<!-- PC related summary IDs: 1227275613975 -->
+			<!-- PC related summary IDs: 1227275613975 -->
+	<!-- PC related summary IDs: 1227275613975 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/man-stabbed-to-death-in-rosebery-police-set-up-crime-scene/story-fni0cx12-1227275613975" >Man charged over fatal suburban stabbing</a>
+		</h4>
+					<a href="/news/nsw/man-stabbed-to-death-in-rosebery-police-set-up-crime-scene/story-fni0cx12-1227275613975" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2015/03/24/1227275/861240-3514e32e-d19c-11e4-a5b4-b2d65ac8975a.jpg" alt="Stabbing Murder"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				A MAN will face court today charged with the stabbing murder of another man in Sydney&#8217;s south last night. The victim was found in a suburban street where paramedics were unable to save him.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227275613975 -->
+			</div> <!-- // .story-block   pos-1 rpos-5 id1227275613975 -->
+			<div class="story-block    sectionref-news sbpos-2 sbrpos-4 id1227275574722">
+			<!-- PC related summary IDs: 1227275574722 -->
+			<!-- PC related summary IDs: 1227275574722 -->
+	<!-- PC related summary IDs: 1227275574722 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/cars-not-culture-best-for-westies-mp-alex-greenwich-says-inner-city-should-keep-powerhouse-museum/story-fni0cx12-1227275574722" >&#8216;Give the West F1 not the Powerhouse&#8217;</a>
+		</h4>
+					<a href="/news/nsw/cars-not-culture-best-for-westies-mp-alex-greenwich-says-inner-city-should-keep-powerhouse-museum/story-fni0cx12-1227275574722" class="thumb-link" ><img data-src="http://resources1.news.com.au/images/2015/03/24/1227275/874929-98a41c1e-d117-11e4-a5b4-b2d65ac8975a.jpg" alt=" Clover Moore and her NSW state seat of Sydney replacement Alex Greenwich hold a media conference in Hyde Park Sydney. "  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				SYDNEY MP Alex Greenwich has been forced to deny elitism after suggesting Western Sydney would better appreciate racing cars than relocated museum.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/news/nsw/cars-not-culture-best-for-westies-mp-alex-greenwich-says-inner-city-should-keep-powerhouse-museum/story-fni0cx12-1227275574722">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227275574722"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227275574722 -->
+			</div> <!-- // .story-block   pos-2 rpos-4 id1227275574722 -->
+			<div class="story-block    sectionref-news sbpos-3 sbrpos-3 id1227275535819">
+			<!-- PC related summary IDs: 1227275535819 -->
+			<!-- PC related summary IDs: 1227275535819 -->
+	<!-- PC related summary IDs: 1227275535819 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/thredbo-survivor-stuart-divers-second-wife-rosanna-dies-of-breast-cancer-at-40/story-fni0cx12-1227275535819" >Thredbo survivor&#8217;s second wife dies</a>
+		</h4>
+					<a href="/news/nsw/thredbo-survivor-stuart-divers-second-wife-rosanna-dies-of-breast-cancer-at-40/story-fni0cx12-1227275535819" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2015/03/24/1227275/910659-5bb8d9e4-d139-11e4-b8cc-103b9fcc00b7.jpg" alt="Thredbo landslide disaster survivor Stuart Diver being lifted from rubble after his rescue. Pic: from ambulance PR. /Landslid..."  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				THE second wife of miracle Thredbo landslide survivor Stuart Diver died at the weekend after a decade-long battle with breast cancer.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/news/nsw/thredbo-survivor-stuart-divers-second-wife-rosanna-dies-of-breast-cancer-at-40/story-fni0cx12-1227275535819">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227275535819"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227275535819 -->
+			</div> <!-- // .story-block   pos-3 rpos-3 id1227275535819 -->
+			<div class="story-block    sectionref-news sbpos-4 sbrpos-2 id1227275176201">
+			<!-- PC related summary IDs: 1227275176201 -->
+			<!-- PC related summary IDs: 1227275176201 -->
+	<!-- PC related summary IDs: 1227275176201 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/saint-ignatius-college-riverview-sends-letter-to-parents-informing-them-of-child-sex-abuse-claims/story-fni0cx12-1227275176201" >Top school rocked by abuse claim</a>
+		</h4>
+					<a href="/news/nsw/saint-ignatius-college-riverview-sends-letter-to-parents-informing-them-of-child-sex-abuse-claims/story-fni0cx12-1227275176201" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2015/03/24/1227275/797147-c8b773f0-d127-11e4-a4a5-09d7e9cc7466.jpg" alt="Top school rocked by abuse claim"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				ONE of Sydney&#8217;s most illustrious private schools sent a letter to parents informing them a child sex abuse allegation has been made by a former student.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227275176201 -->
+			</div> <!-- // .story-block   pos-4 rpos-2 id1227275176201 -->
+			<div class="story-block    sectionref-news sbpos-5 sbrpos-1 id1227274371061">
+			<!-- PC related summary IDs: 1227274371061 -->
+			<!-- PC related summary IDs: 1227274371061 -->
+	<!-- PC related summary IDs: 1227274371061 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/islamic-child-brides-father-labels-australian-laws-stupid/story-fni0cx12-1227274371061" >Sex at 12 is not wrong: Islamic dad</a>
+		</h4>
+					<a href="/news/nsw/islamic-child-brides-father-labels-australian-laws-stupid/story-fni0cx12-1227274371061" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2015/03/24/1227275/936203-4c69438c-d140-11e4-a5b4-b2d65ac8975a.jpg" alt="Sex at 12 is not wrong: Islamic dad"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				THE father of a 12-year-old child &#8220;bride&#8221; told her that Australian law was stupid and girls her age should be allowed to get married and have sex.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227274371061 -->
+			</div> <!-- // .story-block   pos-5 rpos-1 id1227274371061 -->
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226697091619] on [fwprodcontent06.ni.news.com.au] @ [March 24, 2015 11:57AM] -->
+<div class="group outbrain-group   text-g-nn-web-group-outbrain-side-widget item-count-1  group-id-1226697091619">
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+	<div class="custom-html   ">
+		<div class="OUTBRAIN" data-widget-id="SB_1" ></div>
+	</div><!-- // .custom-html -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226720385671] on [fwprodcontent07.ni.news.com.au] @ [March 24, 2015 11:48AM] -->
+<div class="group   text-g-dt-web-group-news-affiliate item-count-1  group-id-1226720385671">
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+	<div class="custom-html   ">
+		<div style="overflow:hidden;width:300px;height:263px;">
+	<iframe src="http://widgets.mozo.com.au/dailytelegraph/dt-news" width="300" height="250" scrolling="no" frameborder="0"></iframe>
+	<a href="http://mozo.com.au/home-loans" target="_blank"><img src="http://news-assets.mozo.com.au/images/mozo-powered-mini.gif" style="border:0;float:right;" width="82" height="13" alt="Mozo home loan, savings and credit card comparisons"/></a>
+</div>
+	</div><!-- // .custom-html -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226613005936] on [fwprodcontent08.ni.news.com.au] @ [March 24, 2015 12:03PM] -->
+<div class="group   text-g-dt-nn-web-group-rhc-bestaround item-count-1  group-id-1226613005936">
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+		<div class="module default   sectionref-best-from-around subheading sectionref-news   first-image-100w75h  collection mpos-1 mrpos-1 text-m-from-around-the-site id1226639105981" id="id1226639105981">
+			<div class="module-header">
+								<h3 class="heading ">From around the site</h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block   has-video sectionref-entertainment sbpos-1 sbrpos-5 id1227275800292">
+			<!-- PC related summary IDs: 1227275800292 -->
+			<!-- PC related summary IDs: 1227275800292 -->
+	<!-- PC related summary IDs: 1227275800292 -->
+		<h4 class="heading">
+			      <a href="/entertainment/sydney-confidential/thats-my-mistress-i-just-got-busted-sunrise-cash-cow-winners-awkward-live-cross/story-fni0cvc9-1227275800292" >&#8216;That&#8217;s my mistress. I just got busted!&#8217;</a>
+		</h4>
+					<a href="/entertainment/sydney-confidential/thats-my-mistress-i-just-got-busted-sunrise-cash-cow-winners-awkward-live-cross/story-fni0cvc9-1227275800292" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2015/03/24/1227275/813434-b2372606-d191-11e4-a4a5-09d7e9cc7466.jpg" alt="‘That’s my mistress. I just got busted!’"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
+	<p class="standfirst">
+				IT WAS the Kalvin Kay show on Sunrise this morning after the unexpected winner of $30,000 was met at his front door by the program&#8217;s Cash Cow.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/entertainment/sydney-confidential" >Confidential</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+				<li class="first video video-count-1 lipos-1 lirpos-1">
+					<a title="This story has 1 video" href="/entertainment/sydney-confidential/thats-my-mistress-i-just-got-busted-sunrise-cash-cow-winners-awkward-live-cross/story-fni0cvc9-1227275800292">
+						<span class="count">1</span> video
+					</a>
+					 <ul class="related-media-items">
+					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
+						 		<a href="http://dailytelegraph.com.au/video/id-c0MGY1dDrqneCD3HwER_AvppSAgKiVAC/Sunrise-viewer-quips-that-hes-been-caught-out-with-his-mistress" >
+						 					Sunrise viewer quips that hes been caught out with his mistress
+						 		</a>
+						        	<span class="time">0:36</span>
+					 		</li>
+					 </ul>
+				</li>
+					 <li class="comments">
+					  <a href="/entertainment/sydney-confidential/thats-my-mistress-i-just-got-busted-sunrise-cash-cow-winners-awkward-live-cross/story-fni0cvc9-1227275800292">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227275800292"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227275800292 -->
+			</div> <!-- // .story-block   pos-1 rpos-5 id1227275800292 -->
+			<div class="story-block    sectionref-entertainment sbpos-2 sbrpos-4 id1227275914460">
+			<!-- PC related summary IDs: 1227275914460 -->
+			<!-- PC related summary IDs: 1227275914460 -->
+	<!-- PC related summary IDs: 1227275914460 -->
+		<h4 class="heading">
+			      <a href="/entertainment/television/peter-overton-tweets-selfie-with-wife-jessica-rowe-as-he-recovers-from-surgery-in-hospital/story-fni0cc2c-1227275914460" >Peter Overton&#8217;s sickbed selfie</a>
+		</h4>
+					<a href="/entertainment/television/peter-overton-tweets-selfie-with-wife-jessica-rowe-as-he-recovers-from-surgery-in-hospital/story-fni0cc2c-1227275914460" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2015/03/24/1227275/925760-eba5234e-d1a9-11e4-b8cc-103b9fcc00b7.jpg" alt="Peter Overton"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
+	<p class="standfirst">
+				CHANNEL Nine newsreader Peter Overton has shared a selfie from his hospital bed with wife Jessica Rowe, as he recovers from emergency surgery.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/entertainment/television" >TV</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/entertainment/television/peter-overton-tweets-selfie-with-wife-jessica-rowe-as-he-recovers-from-surgery-in-hospital/story-fni0cc2c-1227275914460">
+						 <span class="livefyre-commentcount" data-lf-site-id="343375" data-lf-article-id="FW1227275914460"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227275914460 -->
+			</div> <!-- // .story-block   pos-2 rpos-4 id1227275914460 -->
+			<div class="story-block    sectionref-entertainment sbpos-3 sbrpos-3 id1227275416521">
+			<!-- PC related summary IDs: 1227275416521 -->
+			<!-- PC related summary IDs: 1227275416521 -->
+	<!-- PC related summary IDs: 1227275416521 -->
+		<h4 class="heading">
+			      <a href="/entertainment/sydney-confidential/tessa-james-smiles-after-her-tough-cancer-battle-home-and-away-fans-inspired-by-her-strength/story-fni0cvc9-1227275416521" >Tessa smiles after her toughest battle</a>
+		</h4>
+					<a href="/entertainment/sydney-confidential/tessa-james-smiles-after-her-tough-cancer-battle-home-and-away-fans-inspired-by-her-strength/story-fni0cvc9-1227275416521" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2015/03/24/1227275/692546-aafad5f0-d127-11e4-b8cc-103b9fcc00b7.jpg" alt="Ex Home and away star Tessa James with her husband Nate Miles"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
+	<p class="standfirst">
+				TESSA James has been through hell and back but hasn&#8217;t lost the smile which endeared her to thousands of Home and Away fans.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/entertainment/sydney-confidential" >Confidential</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/entertainment/sydney-confidential/tessa-james-smiles-after-her-tough-cancer-battle-home-and-away-fans-inspired-by-her-strength/story-fni0cvc9-1227275416521">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227275416521"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227275416521 -->
+			</div> <!-- // .story-block   pos-3 rpos-3 id1227275416521 -->
+			<div class="story-block   has-video sectionref-entertainment sbpos-4 sbrpos-2 id1227275870022">
+			<!-- PC related summary IDs: 1227275870022 -->
+			<!-- PC related summary IDs: 1227275870022 -->
+	<!-- PC related summary IDs: 1227275870022 -->
+		<h4 class="heading">
+			      <a href="/entertainment/celebrity/mum-this-is-boring-stars-adorable-kids-dont-care-about-the-cameras-and-throw-a-red-carpet-tantrum/story-fnk82hys-1227275870022" >Star&#8217;s kid loses it on the red carpet</a>
+		</h4>
+					<a href="/entertainment/celebrity/mum-this-is-boring-stars-adorable-kids-dont-care-about-the-cameras-and-throw-a-red-carpet-tantrum/story-fnk82hys-1227275870022" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2015/03/24/1227276/042155-702bbe1c-d1a4-11e4-a4a5-09d7e9cc7466.jpg" alt="Premiere Of Twentieth Century Fox And Dreamworks Animation's "HOME" - Arrivals"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
+	<p class="standfirst">
+				THIS movie star&#8217;s kid was not impressed with being dragged to the red carpet premiere of his mum&#8217;s new flick. And he made his frustrations known.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/entertainment/celebrity" >Celebrity Kids</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+				<li class="first video video-count-1 lipos-1 lirpos-1">
+					<a title="This story has 1 video" href="/entertainment/celebrity/mum-this-is-boring-stars-adorable-kids-dont-care-about-the-cameras-and-throw-a-red-carpet-tantrum/story-fnk82hys-1227275870022">
+						<span class="count">1</span> video
+					</a>
+					 <ul class="related-media-items">
+					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
+						 		<a href="http://dailytelegraph.com.au/video/id-dxcnNvczqobBr4rwEC3jyG-kK-xvuNIx/Rihanna-Jim-Parsons-As-Voices-In-A-Funny-Clip-From-Home" >
+						 					Rihanna, Jim Parsons As Voices In A Funny Clip From Home
+						 		</a>
+						        	<span class="time">0:44</span>
+					 		</li>
+					 </ul>
+				</li>
+					 <li class="comments">
+					  <a href="/entertainment/celebrity/mum-this-is-boring-stars-adorable-kids-dont-care-about-the-cameras-and-throw-a-red-carpet-tantrum/story-fnk82hys-1227275870022">
+						 <span class="livefyre-commentcount" data-lf-site-id="343375" data-lf-article-id="FW1227275870022"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227275870022 -->
+			</div> <!-- // .story-block   pos-4 rpos-2 id1227275870022 -->
+			<div class="story-block   has-video sectionref-entertainment sbpos-5 sbrpos-1 id1227275727376">
+			<!-- PC related summary IDs: 1227275727376 -->
+			<!-- PC related summary IDs: 1227275727376 -->
+	<!-- PC related summary IDs: 1227275727376 -->
+		<h4 class="heading">
+			      <a href="/entertainment/sydney-confidential/anna-heinrich-and-sister-charlotte-show-off-their-hot-bodies-at-a-bali-poolside-resort/story-fni0cvc9-1227275727376" >Anna and Charlotte&#8217;s Bali getaway</a>
+		</h4>
+					<a href="/entertainment/sydney-confidential/anna-heinrich-and-sister-charlotte-show-off-their-hot-bodies-at-a-bali-poolside-resort/story-fni0cvc9-1227275727376" class="thumb-link" ><img data-src="http://resources1.news.com.au/images/2015/03/24/1227275/729989-a6ca5fe0-c2be-11e4-9d92-97de7eaded95.jpg" alt="Anna and Charlotte’s Bali getaway"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_GB. Locale from Response : en_US -->
+	<p class="standfirst">
+				ANNA Heinrich has shown off her genetically blessed family who have joined her and Bachelor boyfriend Tim Robards in Bali.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/entertainment/sydney-confidential" >Confidential</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+				<li class="first video video-count-1 lipos-1 lirpos-1">
+					<a title="This story has 1 video" href="/entertainment/sydney-confidential/anna-heinrich-and-sister-charlotte-show-off-their-hot-bodies-at-a-bali-poolside-resort/story-fni0cvc9-1227275727376">
+						<span class="count">1</span> video
+					</a>
+					 <ul class="related-media-items">
+					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
+						 		<a href="http://dailytelegraph.com.au/video/id-w0anFubzqlladlBgwyzol9f-iqI7kIQW/Inside-Anna-and-Bachelor-Tims-love-nest" >
+						 					Inside Anna and Bachelor Tims love nest
+						 		</a>
+						        	<span class="time">0:46</span>
+					 		</li>
+					 </ul>
+				</li>
+					 <li class="comments">
+					  <a href="/entertainment/sydney-confidential/anna-heinrich-and-sister-charlotte-show-off-their-hot-bodies-at-a-bali-poolside-resort/story-fni0cvc9-1227275727376">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227275727376"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227275727376 -->
+			</div> <!-- // .story-block   pos-5 rpos-1 id1227275727376 -->
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226490379154] on [fwprodcontent10.ni.news.com.au] @ [March 24, 2015 11:51AM] -->
+<div class="group   text-g-nn-web-group-ad-medrec-pos2 item-count-1  group-id-1226490379154">
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+		<div class="ad ad-island mpos-1 mrpos-1" id="ad-island-2" >
+                        		<div class="ad-block ad-mrec" id="ad-mrec-2"></div>
+		</div><!-- // .ad .ad-island-2 -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226490375239] on [fwprodcontent06.ni.news.com.au] @ [March 24, 2015 11:43AM] -->
+<div class="group   text-g-sponsored-links item-count-1  group-id-1226490375239">
+		<div class="group-header">
+					<h2 class="heading">Sponsored Links</h2>
+		</div><!-- // .group-header -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+		<div class="ad ad-text mpos-1 mrpos-1">
+                    <div class="ad-block ad-vtext-link" id="ad-text-link-vertical-1" data-ad-num="2"></div>
+		</div><!-- // .ad .ad-text -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+			</div><!-- // #content-3 -->
+			<div id="content-5">
+				
+<!-- [Group:1226582018303] on [fwprodcontent03.ni.news.com.au] @ [March 24, 2015 11:58AM] -->
+<div class="group section-dash   text-g-dt-nn-web-group-sectiondash item-count-3  group-id-1226582018303">
+		<div class="group-content">
+			<div class="item ipos-1 irpos-3">
+		<div class="module default   sectionref-top-news sectionref-news   first-image-100w75h  collection mpos-1 mrpos-2 text-m-news id1226582018428" id="id1226582018428">
+			<div class="module-header">
+								<h3 class="heading "><a href="/news">News</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block    sectionref-news sbpos-1 sbrpos-1 id1227275979109">
+			<!-- PC related summary IDs: 1227275979109 -->
+			<!-- PC related summary IDs: 1227275979109 -->
+	<!-- PC related summary IDs: 1227275979109 -->
+		<h4 class="heading">
+			      <a href="/news/nsw/act-gets-billion-dollar-jump-on-nsw-with-mr-fluffy-buyback-scheme/story-fni0cx12-1227275979109" >Billion-dollar question for NSW homeowners</a>
+		</h4>
+					<a href="/news/nsw/act-gets-billion-dollar-jump-on-nsw-with-mr-fluffy-buyback-scheme/story-fni0cx12-1227275979109" class="thumb-link" ><img data-src="http://resources1.news.com.au/images/2015/03/24/1227275/976617-01c1dfce-d1ae-11e4-a5b4-b2d65ac8975a.jpg" alt="Billion-dollar question for NSW homeowners"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				THE NSW Government continues to dither while its ACT counterpart commits $1 billion to solving the Mr Fluffy asbestos crisis with one of the biggest housing buyback in Australian history.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/news/nsw" >NSW</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/news/nsw/act-gets-billion-dollar-jump-on-nsw-with-mr-fluffy-buyback-scheme/story-fni0cx12-1227275979109">
+						 <span class="livefyre-commentcount" data-lf-site-id="343375" data-lf-article-id="FW1227275979109"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227275979109 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227275979109 -->
+			<!-- PC related IDs: 1227275613975 -->
+			<!-- PC related IDs: 1227275912892 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/news/nsw/man-stabbed-to-death-in-rosebery-police-set-up-crime-scene/story-fni0cx12-1227275613975" > Man charged over fatal suburban stabbing </a></li>
+								<li class="story    last lipos-2   "><a href="/sport/us-sports/michael-jordan-denied-wish-to-wear-adidas-in-the-nba-because-he-was-too-short/story-fnp542pi-1227275912892" > Michael Jordan was too short for Adidas <span class="video" title="This story contains video."></span> </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+		<div class="module default   sectionref-finance-syndicated sectionref-business   first-image-100w75h  collection mpos-2 mrpos-1 text-m-business id1226566914909" id="id1226566914909">
+			<div class="module-header">
+								<h3 class="heading "><a href="/business">Business</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block   has-video sectionref-business sbpos-1 sbrpos-1 id1227274842438">
+			<!-- PC related summary IDs: 1227274842438 -->
+			<!-- PC related summary IDs: 1227274842438 -->
+	<!-- PC related summary IDs: 1227274842438 -->
+		<h4 class="heading">
+			      <a href="/business/companies/uberx-versus-taxis-why-the-time-for-taxis-is-over/story-fnkjkuht-1227274842438" >This service could kill the taxi</a>
+		</h4>
+					<a href="/business/companies/uberx-versus-taxis-why-the-time-for-taxis-is-over/story-fnkjkuht-1227274842438" class="thumb-link" ><img data-src="http://resources2.news.com.au/images/2015/03/24/1227276/071190-20e7253c-d0e4-11e4-a5b4-b2d65ac8975a.jpg" alt="-"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				IT&#8217;S cheaper, friendlier, cleaner and more efficient than getting a taxi, and Aussies are flocking to it. So why is it being blocked by the law?
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/business/companies" >Travel</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+				<li class="first video video-count-1 lipos-1 lirpos-1">
+					<a title="This story has 1 video" href="/business/companies/uberx-versus-taxis-why-the-time-for-taxis-is-over/story-fnkjkuht-1227274842438">
+						<span class="count">1</span> video
+					</a>
+					 <ul class="related-media-items">
+					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
+						 		<a href="http://dailytelegraph.com.au/video/id-ZsYmxsbzrm3vYjmVge_ejSeN3JN0SChY/Uber-vs-Lyft-Road-Rage-in-the-Tech-World-" >
+						 					Uber vs. Lyft Road Rage in the Tech World
+						 		</a>
+						        	<span class="time">5:05</span>
+					 		</li>
+					 </ul>
+				</li>
+					 <li class="comments">
+					  <a href="/business/companies/uberx-versus-taxis-why-the-time-for-taxis-is-over/story-fnkjkuht-1227274842438">
+						 <span class="livefyre-commentcount" data-lf-site-id="343375" data-lf-article-id="FW1227274842438"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227274842438 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227274842438 -->
+			<!-- PC related IDs: 1227276125071 -->
+			<!-- PC related IDs: 1227272844970 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/business/ire-behind-the-eye-roll-julie-bishop-battles-to-protect-aid-she-argues-is-important-for-the-nations-future/story-fni0cqcs-1227276125071" > The truth behind that epic eye-roll  <span class="video" title="This story contains video."></span> </a></li>
+								<li class="story    last lipos-2   "><a href="/business/work/eleven-strategies-for-getting-started/story-fnkjjaih-1227272844970" > The secret to productivity </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+			</div><!-- // .item ipos-1 irpos-3 -->
+			<div class="item ipos-2 irpos-2">
+		<div class="module default   sectionref-sport-news-and-galleries sectionref-sport   first-image-100w75h  collection mpos-1 mrpos-2 text-m-sport id1226566938440" id="id1226566938440">
+			<div class="module-header">
+								<h3 class="heading "><a href="/sport">Sport</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block   has-video sectionref-sport sbpos-1 sbrpos-1 id1227276052870">
+			<!-- PC related summary IDs: 1227276052870 -->
+			<!-- PC related summary IDs: 1227276052870 -->
+	<!-- PC related summary IDs: 1227276052870 -->
+		<h4 class="heading">
+			      <a href="/sport/nrl-2015-wake-up-refs-youre-wrecking-the-game-says-barry-dick/story-fnig5e6l-1227276052870" >Refs providing all the NRL lowlights</a>
+		</h4>
+					<a href="/sport/nrl-2015-wake-up-refs-youre-wrecking-the-game-says-barry-dick/story-fnig5e6l-1227276052870" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2015/03/24/1227276/104968-7e821e78-d1a6-11e4-a5b4-b2d65ac8975a.jpg" alt="Penrith's Dallin Watene-Zelezniak's no-try against the Roosters"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				THE NRL has enough problems on the off the field without having to deal with ridiculous mistakes by the referees.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/sport" >Sport</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+				<li class="first video video-count-1 lipos-1 lirpos-1">
+					<a title="This story has 1 video" href="/sport/nrl-2015-wake-up-refs-youre-wrecking-the-game-says-barry-dick/story-fnig5e6l-1227276052870">
+						<span class="count">1</span> video
+					</a>
+					 <ul class="related-media-items">
+					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
+						 		<a href="http://dailytelegraph.com.au/video/id-xiYTI1dDrYBkO0pRz4P4PfYUtNKzZHDx/Penrith-Panthers-controversial-no-try" >
+						 					Penrith Panthers controversial no try
+						 		</a>
+						        	<span class="time">1:50</span>
+					 		</li>
+					 </ul>
+				</li>
+					 <li class="comments">
+					  <a href="/sport/nrl-2015-wake-up-refs-youre-wrecking-the-game-says-barry-dick/story-fnig5e6l-1227276052870">
+						 <span class="livefyre-commentcount" data-lf-site-id="342835" data-lf-article-id="FW1227276052870"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227276052870 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227276052870 -->
+			<!-- PC related IDs: 1227276176486 -->
+			<!-- PC related IDs: 1227276158996 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/sport/boxing-mma/the-money-behind-sports-richest-fight/story-fni2fnkz-1227276176486" > The money behind sport&#8217;s richest fight </a></li>
+								<li class="story    last lipos-2   "><a href="/sport/short-shrift-us-pga-and-caddies-at-war-over-advertising-income-and-a-pair-of-salmon-shorts/story-fni2flhh-1227276158996" > Angry caddies short changed by US PGA </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+		<div class="module default   sectionref-entertainment-syndicated sectionref-entertainment   first-image-100w75h  collection mpos-2 mrpos-1 text-m-entertainment id1226566947559" id="id1226566947559">
+			<div class="module-header">
+								<h3 class="heading "><a href="/entertainment">Entertainment</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block    sectionref-entertainment sbpos-1 sbrpos-1 id1227276160595">
+			<!-- PC related summary IDs: 1227276160595 -->
+			<!-- PC related summary IDs: 1227276160595 -->
+	<!-- PC related summary IDs: 1227276160595 -->
+		<h4 class="heading">
+			      <a href="/entertainment/television/are-mulder-and-scully-about-to-be-reunited-buzz-suggests-a-new-version-of-the-x-files-is-coming/story-fni0cc2c-1227276160595" >Is The X-Files coming back to TV?</a>
+		</h4>
+					<a href="/entertainment/television/are-mulder-and-scully-about-to-be-reunited-buzz-suggests-a-new-version-of-the-x-files-is-coming/story-fni0cc2c-1227276160595" class="thumb-link" ><img data-src="http://resources3.news.com.au/images/2015/03/24/1227276/158355-ca11df28-d1b4-11e4-a4a5-09d7e9cc7466.jpg" alt=" 25/02/1997 PIRATE: USA actor David Duchovny with Gillian Anderson in TV program "The X-Files". x/files /TV/prog..."  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				INDUSTRY buzz is growing that hit 90s paranormal series The X-Files is going to be remade &#8212; Mulder and Scully&#8217;s blistering sexual chemistry included.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/entertainment/television" >TV</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/entertainment/television/are-mulder-and-scully-about-to-be-reunited-buzz-suggests-a-new-version-of-the-x-files-is-coming/story-fni0cc2c-1227276160595">
+						 <span class="livefyre-commentcount" data-lf-site-id="343375" data-lf-article-id="FW1227276160595"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227276160595 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227276160595 -->
+			<!-- PC related IDs: 1227275470970 -->
+			<!-- PC related IDs: 1227275870022 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/entertainment/celebrity/mila-kunis-forced-to-admit-secret-marriage-to-ashton-kutcher/story-fnk82e9v-1227275470970" > Mila Kunis forced to admit marriage to Ashton <span class="video" title="This story contains video."></span> </a></li>
+								<li class="story    last lipos-2   "><a href="/entertainment/celebrity/mum-this-is-boring-stars-adorable-kids-dont-care-about-the-cameras-and-throw-a-red-carpet-tantrum/story-fnk82hys-1227275870022" > Star&#8217;s kid loses it on the red carpet <span class="video" title="This story contains video."></span> </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+			</div><!-- // .item ipos-2 irpos-2 -->
+			<div class="item ipos-3 irpos-1">
+		<div class="module default   sectionref-nrl-news sectionref-sport   first-image-100w75h  collection mpos-1 mrpos-2 text-m-nrl id1226566945067" id="id1226566945067">
+			<div class="module-header">
+								<h3 class="heading "><a href="/sport/nrl">NRL</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block   has-video sectionref-sport sbpos-1 sbrpos-1 id1227274999437">
+			<!-- PC related summary IDs: 1227274999437 -->
+			<!-- PC related summary IDs: 1227274999437 -->
+	<!-- PC related summary IDs: 1227274999437 -->
+		<h4 class="heading">
+			      <a href="/sport/nrl/roosters-v-panthers-video-stinker-tarnishes-sydney-roosters-win-over-penrith/story-fni3gfvk-1227274999437" >Outrage as video stinker tarnishes Roosters win</a>
+		</h4>
+					<a href="/sport/nrl/roosters-v-panthers-video-stinker-tarnishes-sydney-roosters-win-over-penrith/story-fni3gfvk-1227274999437" class="thumb-link" ><img data-src="http://resources1.news.com.au/images/2015/03/24/1227275/778797-44d39ade-d143-11e4-a5b4-b2d65ac8975a.jpg" alt="Roosters v PAnthers"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				A HUGE mistake by the video referee saw Panthers winger Dallin Watene-Zelzniak denied one of the great  put-downs in his side&#8217;s 20-12 defeat to Roosters.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/sport/nrl/teams/panthers" >Panthers</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+				<li class="first video video-count-1 lipos-1 lirpos-1">
+					<a title="This story has 1 video" href="/sport/nrl/roosters-v-panthers-video-stinker-tarnishes-sydney-roosters-win-over-penrith/story-fni3gfvk-1227274999437">
+						<span class="count">1</span> video
+					</a>
+					 <ul class="related-media-items">
+					 		<li class="video lipos-1 lirpos-1   video ph ph-video">
+						 		<a href="http://dailytelegraph.com.au/video/id-xiYTI1dDrYBkO0pRz4P4PfYUtNKzZHDx/Penrith-Panthers-controversial-no-try" >
+						 					Penrith Panthers controversial no try
+						 		</a>
+						        	<span class="time">1:50</span>
+					 		</li>
+					 </ul>
+				</li>
+					 <li class="comments">
+					  <a href="/sport/nrl/roosters-v-panthers-video-stinker-tarnishes-sydney-roosters-win-over-penrith/story-fni3gfvk-1227274999437">
+						 <span class="livefyre-commentcount" data-lf-site-id="342837" data-lf-article-id="FW1227274999437"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227274999437 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227274999437 -->
+			<!-- PC related IDs: 1227275960947 -->
+			<!-- PC related IDs: 1227275458968 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/sport/nrl/nrl-round-four-early-mail-sam-tomkins-injury-opens-door-for-warriors-rookie-tui-lolohea/story-fni3fbgz-1227275960947" > NRL early mail: Warriors look to boom rookie <span class="video" title="This story contains video."></span> </a></li>
+								<li class="story    last lipos-2   "><a href="/sport/nrl/jacob-loko-and-jorge-taufua-face-nrl-investigation-after-drunken-brawl-in-the-streets/story-fni3g67w-1227275458968" > Loko&#8217;s future grim after street brawl <span class="video" title="This story contains video."></span> </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+		<div class="module default   sectionref-lifestyle-syndicated sectionref-lifestyle   first-image-100w75h  collection mpos-2 mrpos-1 text-m-lifestyle id1226566948488" id="id1226566948488">
+			<div class="module-header">
+								<h3 class="heading "><a href="/lifestyle">Lifestyle</a></h3>
+			</div>
+			<!-- // .module-header -->
+			<div class="module-content ">
+			<div class="story-block    sectionref-travel sbpos-1 sbrpos-1 id1227275393762">
+			<!-- PC related summary IDs: 1227275393762 -->
+			<!-- PC related summary IDs: 1227275393762 -->
+	<!-- PC related summary IDs: 1227275393762 -->
+		<h4 class="heading">
+			      <a href="/travel/qantas-to-enforce-dress-code-in-airport-lounges-maybe-thats-a-good-thing/story-fni0b4w1-1227275393762" >What not to wear on a flight</a>
+		</h4>
+					<a href="/travel/qantas-to-enforce-dress-code-in-airport-lounges-maybe-thats-a-good-thing/story-fni0b4w1-1227275393762" class="thumb-link" ><img data-src="http://resources0.news.com.au/images/2015/03/24/1227276/095688-da3979d0-d108-11e4-a5b4-b2d65ac8975a.jpg" alt="What not to wear on a flight"  class="thumbnail"  width="100"  height="75"  /></a>
+    <!-- Locale from Config : . Locale from Request : en_US. Locale from Response : en_US -->
+	<p class="standfirst">
+				QANTAS will enforce a dress code in its airport lounges from next week and there are a few items of clothing you won&#8217;t be able to wear.
+	</p> <!-- // .standfirst11 -->
+		<div class="storyblock-footer">
+				<span class="section">
+					<a href="/travel" >Travel</a>
+				</span>
+				<span class="share"></span>
+			<span class="bookmark"></span>
+		<ul class="related related-media">
+					 <li class="comments">
+					  <a href="/travel/qantas-to-enforce-dress-code-in-airport-lounges-maybe-thats-a-good-thing/story-fni0b4w1-1227275393762">
+						 <span class="livefyre-commentcount" data-lf-site-id="343375" data-lf-article-id="FW1227275393762"></span>
+					 </a>
+					</li>
+		</ul>
+		</div>
+	<!-- PC related summary IDs: 1227275393762 -->
+			</div> <!-- // .story-block   pos-1 rpos-1 id1227275393762 -->
+			<!-- PC related IDs: 1227276153666 -->
+			<!-- PC related IDs: 1227276102556 -->
+				<ul class="related related-content ">
+								<li class="story   first  lipos-1   "><a href="/lifestyle/health/the-obesity-crisis-is-a-myth-and-so-is-dieting/story-fni0dihe-1227276153666" > Obesity crisis is a myth: dieting makes us fat </a></li>
+								<li class="story    last lipos-2   "><a href="/lifestyle/why-fitness-guru-kayla-itsines-has-taken-freelee-the-banana-girl-to-court/story-fni0d7e5-1227276102556" > Kayla Itsines takes Banana Girl to court <span class="video" title="This story contains video."></span> </a></li>
+				</ul>
+			</div> <!-- // .module-content -->
+		</div> <!-- // .module .collection -->
+			</div><!-- // .item ipos-3 irpos-1 -->
+		</div><!-- // .group-content.item-count-3 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226515022734] on [fwprodcontent07.ni.news.com.au] @ [March 24, 2015 12:04PM] -->
+<div class="group group-network-referral group-network-referral-footer sectionref-news   text-g-from-around-the-network item-count-1  group-id-1226515022734">
+		<div class="group-header">
+					<h2 class="heading">From Around the Network</h2>
+		</div><!-- // .group-header -->
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+<!-- Multi-Promo -->
+<div class="module multi-promo   ci-count-6 mpos-1 mrpos-1 first-image-149w86h text-m-net-referral-footer-hp-multipromo id1226333569675">
+    <div class="module-content">
+			<div class="content-item cipos-1 cirpos-6">
+<!-- promo-block-a -->
+<div class="promo-block promo-block-10  brand-carsguide  ">
+    	<div class="promo-heading"><h4 class="heading">
+			      <a href="http://www.carsguide.com.au/car-news/jeep-reveals-seven-concept-cars-for-2015-moab-safari-31412?utm_source=newscorp&utm_medium=referral&utm_content=31412&utm_campaign=newsfooter"  class="external-link" target="_blank" title="Opens new tab">CarsGuide<span class="external-link-icon"></span></a>
+    	</h4></div><!-- // .promo-heading -->
+     	<div class="promo-image"><a href="http://www.carsguide.com.au/car-news/jeep-reveals-seven-concept-cars-for-2015-moab-safari-31412?utm_source=newscorp&utm_medium=referral&utm_content=31412&utm_campaign=newsfooter"  class="external-link" target="_blank" title="Opens new tab"><img data-src="http://resources1.news.com.au/images/2015/03/20/1227271/542969-extreme-jeep-safari-concepts.jpg" alt="Extreme Jeep Safari concepts"  width="149"  height="86"  /></a></div><!-- // .promo-image -->
+        <div class="promo-text">
+        	<span class="start"><span></span></span>
+        		<p>Extreme Jeep Safari concepts.</p>
+        	<span class="end"><span></span></span>
+        </div><!-- // .promo-text -->
+		<div class="promo-links">
+			<!-- PC related IDs: 1226334099835 -->
+				<ul class="related related-content ">
+								<li class="page    first last lipos-1   "><a href="http://www.carsguide.com.au/" > Carsguide </a></li>
+				</ul>
+		</div><!-- // .promo-links -->
+</div><!-- // .promo-block.promo-block-10 -->
+			</div><!-- // .content-item -->
+			<div class="content-item cipos-2 cirpos-5">
+<!-- promo-block-a -->
+<div class="promo-block promo-block-10  brand-moshtix  ">
+    	<div class="promo-heading"><h4 class="heading">
+			      <a href="http://www.moshtix.com.au/v2/event/supanova-melbourne-2015/75914?&ref=footer-sp&utm_source=moshtix&utm_medium=NDM&utm_campaign=supanova&utm_content=footer
+"  class="external-link" target="_blank" title="Opens new tab">moshtix<span class="external-link-icon"></span></a>
+    	</h4></div><!-- // .promo-heading -->
+     	<div class="promo-image"><a href="http://www.moshtix.com.au/v2/event/supanova-melbourne-2015/75914?&ref=footer-sp&utm_source=moshtix&utm_medium=NDM&utm_campaign=supanova&utm_content=footer
+"  class="external-link" target="_blank" title="Opens new tab"><img data-src="http://resources0.news.com.au/images/2015/02/26/1227239/546928-supanova2.jpg" alt="Supanova2"  width="148"  height="86"  /></a></div><!-- // .promo-image -->
+        <div class="promo-text">
+        	<span class="start"><span></span></span>
+        		<p>Supanova is back with supa-stars from Sons of Anarchy, The Hobbit, Star Trek, Power Rangers &amp; more!</p>
+        	<span class="end"><span></span></span>
+        </div><!-- // .promo-text -->
+		<div class="promo-links">
+			<!-- PC related IDs: 1226343320124 -->
+				<ul class="related related-content ">
+								<li class="page    first last lipos-1   "><a href="http://www.moshtix.com.au/default.aspx?" > moshtix </a></li>
+				</ul>
+		</div><!-- // .promo-links -->
+</div><!-- // .promo-block.promo-block-10 -->
+			</div><!-- // .content-item -->
+			<div class="content-item cipos-3 cirpos-4">
+<!-- promo-block-a -->
+<div class="promo-block promo-block-10  brand-onebigswitch  ">
+    	<div class="promo-heading"><h4 class="heading">
+			      <a href="http://www.onebigswitch.com.au/?utm_source=newsltd&utm_medium=homepage&utm_campaign=aroundthenetwork"  class="external-link" target="_blank" title="Opens new tab">OneBigSwitch<span class="external-link-icon"></span></a>
+    	</h4></div><!-- // .promo-heading -->
+     	<div class="promo-image"><a href="http://www.onebigswitch.com.au/?utm_source=newsltd&utm_medium=homepage&utm_campaign=aroundthenetwork"  class="external-link" target="_blank" title="Opens new tab"><img data-src="http://resources0.news.com.au/images/2015/03/10/1227255/330364-bigswitch.jpg" alt="bigswitch"  width="149"  height="86"  /></a></div><!-- // .promo-image -->
+        <div class="promo-text">
+        	<span class="start"><span></span></span>
+        		<p>Join the campaign using People Power to unlock Group-Discounted Health Insurance</p>
+<div>&nbsp;</div>
+        	<span class="end"><span></span></span>
+        </div><!-- // .promo-text -->
+		<div class="promo-links">
+			<!-- PC related IDs: 1227256926633 -->
+				<ul class="related related-content ">
+								<li class="page    first last lipos-1   "><a href="https://www.onebigswitch.com.au/?utm_source=newsltd&utm_medium=homepage&utm_campaign=aroundthenetwork" > One Big Switch </a></li>
+				</ul>
+		</div><!-- // .promo-links -->
+</div><!-- // .promo-block.promo-block-10 -->
+			</div><!-- // .content-item -->
+			<div class="content-item cipos-4 cirpos-3">
+<!-- promo-block-a -->
+<div class="promo-block promo-block-10  brand-careerone  ">
+    	<div class="promo-heading"><h4 class="heading">
+			      <a href="http://www.careerone.com.au/vfair/?utm_source=news&utm_medium=footertile1&utm_content=os&utm_campaign=vfair15"  class="external-link" target="_blank" title="Opens new tab">CareerOne<span class="external-link-icon"></span></a>
+    	</h4></div><!-- // .promo-heading -->
+     	<div class="promo-image"><a href="http://www.careerone.com.au/vfair/?utm_source=news&utm_medium=footertile1&utm_content=os&utm_campaign=vfair15"  class="external-link" target="_blank" title="Opens new tab"><img data-src="http://resources0.news.com.au/images/2015/03/24/1227275/940628-vfair7.jpg" alt="VFAIR7"  width="148"  height="86"  /></a></div><!-- // .promo-image -->
+        <div class="promo-text">
+        	<span class="start"><span></span></span>
+        		<p>Australia's Biggest Online Career Expo is now open. Click here to attend</p>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+        	<span class="end"><span></span></span>
+        </div><!-- // .promo-text -->
+		<div class="promo-links">
+			<!-- PC related IDs: 1226343315561 -->
+				<ul class="related related-content ">
+								<li class="page    first last lipos-1   "><a href="http://www.careerone.com.au/" > CareerOne </a></li>
+				</ul>
+		</div><!-- // .promo-links -->
+</div><!-- // .promo-block.promo-block-10 -->
+			</div><!-- // .content-item -->
+			<div class="content-item cipos-5 cirpos-2">
+<!-- promo-block-a -->
+<div class="promo-block promo-block-10  brand-getprice  ">
+    	<div class="promo-heading"><h4 class="heading">
+			      <a href="
+http://www.getprice.com.au/vacuums.htm?utm_source=news&utm_medium=banner&utm_campaign=Vacuums"  class="external-link" target="_blank" title="Opens new tab">GetPrice<span class="external-link-icon"></span></a>
+    	</h4></div><!-- // .promo-heading -->
+     	<div class="promo-image"><a href="
+http://www.getprice.com.au/vacuums.htm?utm_source=news&utm_medium=banner&utm_campaign=Vacuums"  class="external-link" target="_blank" title="Opens new tab"><img data-src="http://resources1.news.com.au/images/2015/01/14/1227184/382685-getpricevac.png" alt="Getpricevac"  width="149"  height="86"  /></a></div><!-- // .promo-image -->
+        <div class="promo-text">
+        	<span class="start"><span></span></span>
+        		<p>Vacuum cleaner lost suction? Compare prices on top brands at Get Price.</p>
+<div>&nbsp;</div>
+        	<span class="end"><span></span></span>
+        </div><!-- // .promo-text -->
+		<div class="promo-links">
+			<!-- PC related IDs: 1226333567728 -->
+				<ul class="related related-content ">
+								<li class="page nav-getprice    first last lipos-1  nav-getprice  "><a href="http://www.getprice.com.au/" > GetPrice </a></li>
+				</ul>
+		</div><!-- // .promo-links -->
+</div><!-- // .promo-block.promo-block-10 -->
+			</div><!-- // .content-item -->
+			<div class="content-item cipos-6 cirpos-1">
+<!-- promo-block-a -->
+<div class="promo-block promo-block-10  brand-realestate  ">
+    	<div class="promo-heading"><h4 class="heading">
+			      <a href="http://www.realestate.com.au/blog/home-office-setup-essentials/"  class="external-link" target="_blank" title="Opens new tab">Real Estate<span class="external-link-icon"></span></a>
+    	</h4></div><!-- // .promo-heading -->
+     	<div class="promo-image"><a href="http://www.realestate.com.au/blog/home-office-setup-essentials/"  class="external-link" target="_blank" title="Opens new tab"><img data-src="http://resources3.news.com.au/images/2013/11/14/1226759/910871-home-office-realestate.jpg" alt="Home office - Realestate"  width="149"  height="86"  /></a></div><!-- // .promo-image -->
+        <div class="promo-text">
+        	<span class="start"><span></span></span>
+        		<p>Whether you run your own business or working away from the office - invest some time in your space.</p>
+        	<span class="end"><span></span></span>
+        </div><!-- // .promo-text -->
+		<div class="promo-links">
+			<!-- PC related IDs: 1226334093185 -->
+				<ul class="related related-content ">
+								<li class="page    first last lipos-1   "><a href="http://www.realestate.com.au" > Real Estate </a></li>
+				</ul>
+		</div><!-- // .promo-links -->
+</div><!-- // .promo-block.promo-block-10 -->
+			</div><!-- // .content-item -->
+    </div><!-- // .module-content -->
+</div><!-- // .module.multi-promo -->
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+				
+<!-- [Group:1226692865864] on [fwprodcontent06.ni.news.com.au] @ [March 24, 2015 12:02PM] -->
+<div class="group full daily-deals   text-g-dt-web-group-affiliates-footer item-count-1  group-id-1226692865864">
+		<div class="group-content">
+			<div class="item ipos-1 irpos-1">
+						<div class="module affiliate-module affiliate-footer">
+			<div class="module-header">
+				<h3 class="heading">DAILY DEALS</h3>
+			</div>
+			<div class="module-content">
+				  	    <div class="content-item cipos-1 cirpos-6">
+							<div class="affiliate-thumbnail">
+                                <a href="http://moneysaverhq.dailytelegraph.com.au/campaign/rewards-credit-cards/international-flight?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=CC_stgeorge_amplify" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/mozo/cc-stgeorge-amplify.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://moneysaverhq.dailytelegraph.com.au/campaign/rewards-credit-cards/international-flight?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=CC_stgeorge_amplify" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">60,000 Bonus Points!<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://moneysaverhq.dailytelegraph.com.au/campaign/rewards-credit-cards/international-flight?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=CC_stgeorge_amplify" target="_blank">Plus 0% p.a. on balance transfers for 6 months</a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-2 cirpos-5">
+							<div class="affiliate-thumbnail">
+                                <a href="http://news.whistleout.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Love_Mobile_Data%3f" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/whistleout/virgin_149x86_0315_left_a.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://news.whistleout.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Love_Mobile_Data%3f" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Love Mobile Data?<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://news.whistleout.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Love_Mobile_Data%3f" target="_blank">New features from telcos let you keep unused data</a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-3 cirpos-4">
+							<div class="affiliate-thumbnail">
+                                <a href="http://news.whistleout.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Make_it_Rollover" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/whistleout/virgin_149x86_0315_right_a.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://news.whistleout.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Make_it_Rollover" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Make it Rollover<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://news.whistleout.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_News_Strip&utm_medium=Widget&utm_campaign=Make_it_Rollover" target="_blank">With data rolling over into the next month for your use. </a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-4 cirpos-3">
+							<div class="affiliate-thumbnail">
+                                <a href="http://moneysaverhq.dailytelegraph.com.au/campaign/credit-cards/low-fee?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=CC_westpac" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/mozo/westpac-lowrate.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://moneysaverhq.dailytelegraph.com.au/campaign/credit-cards/low-fee?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=CC_westpac" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">0% p.a. for 18 Months<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://moneysaverhq.dailytelegraph.com.au/campaign/credit-cards/low-fee?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=CC_westpac" target="_blank">On balance transfers + low annual fee. Online only offer</a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-5 cirpos-2">
+							<div class="affiliate-thumbnail">
+                                <a href="http://moneysaverhq.dailytelegraph.com.au/campaign/home-loans?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=HL_loans" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/mozo/HL-loans-425.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://moneysaverhq.dailytelegraph.com.au/campaign/home-loans?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=HL_loans" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Low Home Loan Rate<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://moneysaverhq.dailytelegraph.com.au/campaign/home-loans?utm_source=news&amp;utm_medium=Footer&amp;utm_campaign=HL_loans" target="_blank">Low variable rate + no monthly fees</a>
+								</div>
+							</div>
+						</div>
+				  	    <div class="content-item cipos-6 cirpos-1">
+							<div class="affiliate-thumbnail">
+                                <a href="http://www.expedia.com.au/g/u/halfpricehotels?mdpcid=AU.DIRECT.NEWS.TRAVEL.FOOTER" class="external-link" target="_blank" title="Opens new tab" rel="nofollow"><img src="http://media.news.com.au/quickeze/prod/expedia/newsphase1hp-6-news-partner.png" class="thumbnail-image" width="149" height="86"></a>
+							</div>
+							<div class="affiliate-inner">
+								<div class="affiliate-heading">
+                                    <h4 class="heading"><a href="http://www.expedia.com.au/g/u/halfpricehotels?mdpcid=AU.DIRECT.NEWS.TRAVEL.FOOTER" class="external-link" target="_blank" title="Opens new tab" rel="nofollow">Half Price Hotels<span class="external-link-icon"></span></a></h4>
+								</div>
+								<div class="affiliate-text">
+									<a href="http://www.expedia.com.au/g/u/halfpricehotels?mdpcid=AU.DIRECT.NEWS.TRAVEL.FOOTER" target="_blank">Up to 50% off select hotels on Expedia</a>
+								</div>
+							</div>
+						</div>
+			</div>
+	</div>
+
+			</div><!-- // .item ipos-1 irpos-1 -->
+		</div><!-- // .group-content.item-count-1 -->
+</div><!-- // .group -->
+
+			</div><!-- // #content-5 -->
+    </div><!-- // #content -->
+<!-- footer2 -->
+<div id="footer">
+    <div class="footer-content">
+	        <div class="content-item content-item-ad-top cipos-1 cirpos-5">
+	            <div id="footer-ads">
+	                <div class="ad ad-leaderboard">
+									<div class="ad-block ad-leader" id="ad-leader"></div>
+	                </div><!-- // .ad .ad-leaderboard -->
+	            </div><!-- // #footer-ads -->
+	        </div>
+        <div class="content-item content-item-ntl cipos-2 cirpos-4">
+				<div class="footer-tools">
+		<ul class="more-links tier-1">
+			<li class="tool-newsletter    first">
+									<a  href="http://pages.e.newsdigitalmedia.com.au/GPC?a=DailyTelegraph">Newsletters</a>
+			</li>
+			<li>
+									<a  href="https://itunes.apple.com/au/app/daily-sunday-telegraph/id393818437?mt=8">iPad App</a>
+			</li>
+			<li class="tool-mobile">
+									<a  href="http://m.dailytelegraph.com.au/">Mobile</a>
+			</li>
+			<li class="tool-tips">
+								<a href="/help/storytips" >Send stories</a>
+			</li>
+			<li class="tool-pics     last">
+									<a  href="mailto:photo@dailytelegraph.com.au?subject=picfromwebsitereader&body=Dearreader:Thank you for sending in your image / video to thetelegraph.com.au. Please attach your content to this email (videos should be kept below 10mg - approx 30 - 45 seconds). Please provide us the following details to ensure we credit you correctly. Your name: Contact phone number: Suggested caption: Many thanks The dailytelegraph.com.au team">Send Pics</a>
+			</li>
+		</ul>
+		<!-- // .tier-1 -->
+				</div><!-- // .footer-tools -->
+            	<div class="footer-links">
+		<ul class=" tier-1">
+			<li class="first">
+								<a href="/" >News</a>
+		<ul class=" tier-2">
+			<li class="first">
+								<a href="/news/breaking-news" >Breaking News</a>
+			</li>
+			<li>
+								<a href="/newslocal" >Local</a>
+			</li>
+			<li>
+								<a href="/news/nsw" >New South Wales</a>
+			</li>
+			<li>
+								<a href="/news/national" >National</a>
+			</li>
+			<li>
+								<a href="/news/world" >World</a>
+			</li>
+			<li>
+								<a href="/news/opinion" >Opinion</a>
+			</li>
+			<li>
+								<a href="/news/photos" >Photos</a>
+			</li>
+			<li>
+								<a href="/technology" >Technology</a>
+			</li>
+			<li>
+								<a href="/news/weird" >Weird</a>
+			</li>
+			<li>
+									<a  href="http://weather.dailytelegraph.com.au/">Weather</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.theaustralian.com.au/">The Australian</a>
+			</li>
+			<li class="nav-brand-icon brand-newscomau">
+									<a  href="http://www.news.com.au">news.com.au</a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.heraldsun.com.au/">Herald Sun</a>
+			</li>
+			<li>
+									<a  href="http://www.dailytelegraph.com.au">The Daily Telegraph</a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.couriermail.com.au">The Courier-Mail</a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.theadvertiser.com.au/">The Advertiser</a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.perthnow.com.au/">Perth Now</a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.ntnews.com.au">NT News</a>
+			</li>
+			<li class="nav-brand-icon     last">
+									<a  href="http://www.themercury.com.au/">The Mercury</a>
+			</li>
+		</ul>
+		<!-- // .tier-2 -->
+			</li>
+			<li>
+								<a href="/sport" >Sport</a>
+		<ul class=" tier-2">
+			<li class="first">
+								<a href="/sport/afl" class="afl-new-style" >AFL</a>
+			</li>
+			<li>
+								<a href="/sport/nrl" class="nrl-home" >NRL</a>
+			</li>
+			<li>
+								<a href="/sport/rugby" >Rugby Union</a>
+			</li>
+			<li>
+								<a href="/sport/superracing" class="srlogo" >Racing</a>
+			</li>
+			<li>
+								<a href="/sport/cricket" class="sport-tier-3" >Cricket</a>
+			</li>
+			<li>
+								<a href="/sport/football" class="sport-tier-3" >Football</a>
+			</li>
+			<li>
+								<a href="/sport/motor-sport" class="sport-tier-3" >Motor Sport </a>
+			</li>
+			<li>
+								<a href="/sport/golf" >Golf</a>
+			</li>
+			<li>
+								<a href="/sport/tennis" class="sport-tier-3" >Tennis</a>
+			</li>
+			<li>
+								<a href="/sport/boxing-mma" >Boxing</a>
+			</li>
+			<li>
+								<a href="/sport/basketball" class="sport-tier-3" >Basketball</a>
+			</li>
+			<li>
+								<a href="/sport/netball" class="sport-tier-3" >Netball</a>
+			</li>
+			<li>
+								<a href="/newslocal/sport" >Local footy</a>
+			</li>
+			<li>
+									<a  href="http://oddsscanner.dailytelegraph.com.au/">Odds Scanner</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.foxsports.com.au/">Fox Sports</a>
+			</li>
+			<li class="nav-brand-icon     last">
+									<a  href="http://www.foxsportspulse.com/">Fox Sports Pulse</a>
+			</li>
+		</ul>
+		<!-- // .tier-2 -->
+			</li>
+			<li>
+								<a href="/business" >Business</a>
+		<ul class=" tier-2">
+			<li class="first">
+								<a href="/business/breaking-news" >Breaking News</a>
+			</li>
+			<li>
+								<a href="/business/markets" >Markets</a>
+			</li>
+			<li>
+								<a href="/business/economy" >Economy</a>
+			</li>
+			<li>
+								<a href="/business/small-business" >Small Business</a>
+			</li>
+			<li>
+								<a href="/business/work" >Work</a>
+			</li>
+			<li>
+								<a href="/business/companies" >Companies</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.businessspectator.com.au/">Business Spectator</a>
+			</li>
+			<li class="nav-brand-icon     last">
+									<a  href="http://www.eurekareport.com.au/">Eureka Report</a>
+			</li>
+		</ul>
+		<!-- // .tier-2 -->
+			</li>
+			<li>
+								<a href="/entertainment/sydney-confidential" >Entertainment</a>
+		<ul class=" tier-2">
+			<li class="first">
+								<a href="/entertainment/movies" >Movies</a>
+			</li>
+			<li>
+								<a href="/entertainment/music" >Music</a>
+			</li>
+			<li>
+								<a href="/entertainment/television" >Television</a>
+			</li>
+			<li>
+								<a href="/entertainment/books" >Books</a>
+			</li>
+			<li>
+								<a href="/entertainment/arts" >Arts</a>
+			</li>
+			<li>
+								<a href="/entertainment/competitions" >Competitions</a>
+			</li>
+			<li>
+								<a href="/entertainment/confidential-style" >Style</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li class="nav-brand-icon">
+									<a  href="http://www.moshtix.com.au/">Moshtix</a>
+			</li>
+			<li class="nav-brand-icon     last">
+									<a  href="http://www.foxtel.com.au">Foxtel</a>
+			</li>
+		</ul>
+		<!-- // .tier-2 -->
+			</li>
+			<li class="last">
+								<a href="/lifestyle" class="lifestyle-nlm" >Lifestyle</a>
+		<ul class=" tier-2">
+			<li class="first">
+								<a href="/realestate" class="sectionref-realestate" >Realestate</a>
+			</li>
+			<li>
+								<a href="/travel" >Travel</a>
+			</li>
+			<li>
+									<a  href="http://moneysaverhq.dailytelegraph.com.au/ ">Money</a>
+			</li>
+			<li class="health      linkto-group-1226683145977">
+								<a href="/lifestyle/health" class="block-header-highlight" >Health</a>
+			</li>
+			<li class="food      linkto-group-1226683144505">
+								<a href="/lifestyle/food" class="block-header-highlight" >Food</a>
+			</li>
+			<li class="fashion      linkto-group-1226683144895">
+								<a href="/lifestyle/fashion" class="block-header-highlight" >Fashion</a>
+			</li>
+			<li class="parenting      linkto-group-1226683146103">
+								<a href="/lifestyle/parenting" class="block-header-highlight" >Parenting</a>
+			</li>
+			<li class="home-garden      linkto-group-1226683147384">
+								<a href="/lifestyle/home-garden" class="block-header-highlight" > Home & Garden</a>
+			</li>
+			<li>
+								<a href="/lifestyle/relationships" >Relationships</a>
+			</li>
+			<li>
+								<a href="/lifestyle/horoscopes" >Horoscopes</a>
+			</li>
+			<li>
+								<a href="/lifestyle/sudoku" >Sudoku</a>
+			</li>
+			<li>
+								<a href="/lifestyle/crossword" >Crossword</a>
+			</li>
+			<li>
+								<a href="/lifestyle/offers" class="reader-offers" >Offers</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li class="nav-brand-icon brand-vogue">
+									<a  href="http://www.vogue.com.au/">Vogue</a>
+			</li>
+			<li class="nav-brand-icon brand-taste">
+									<a  href="http://www.taste.com.au/">Taste</a>
+			</li>
+			<li class="nav-brand-icon brand-bodyandsoul">
+									<a  href="http://www.bodyandsoul.com.au">Body + Soul</a>
+			</li>
+			<li class="nav-brand-icon brand-kidspot">
+									<a  href="http://www.kidspot.com.au/">Kidspot</a>
+			</li>
+			<li class="nav-brand-icon brand-homelife">
+									<a  href="http://www.homelife.com.au">Homelife</a>
+			</li>
+			<li class="nav-brand-icon     last">
+									<a  href="http://www.getprice.com.au/">GetPrice</a>
+			</li>
+		</ul>
+		<!-- // .tier-2 -->
+			</li>
+		</ul>
+		<!-- // .tier-1 -->
+                </div><!-- // .footer-links -->
+        </div>
+        <div class="content-item content-item-llsp cipos-3 cirpos-3">
+            <div id="footer-logo">
+                <a href="http://www.dailytelegraph.com.au" class="heading">dailytelegraph.com.au</a>
+            </div><!-- // #footer-logo -->
+            	<div id="footer-search">
+	                <div class="site-search">
+	                </div>
+                </div><!-- // #footer-search -->
+			
+				
+        </div>
+        <div class="content-item content-item-legals cipos-4 cirpos-2">
+				<div class="footer-legals">
+		<ul class=" tier-1">
+			<li class="first">
+								Follow Us</a>
+		<ul class=" tier-2">
+			<li class="nav-icon nav-icon-email    first">
+									<a  href="mailto:news@thetelegraph.com.au"></a>
+			</li>
+			<li class="nav-social nav-facebook nav-icon nav-icon-facebook">
+									<a  href="http://www.facebook.com/dailytelegraph">Find us on</a>
+			</li>
+			<li class="nav-social nav-twitter nav-icon nav-icon-twitter">
+									<a  href="http://twitter.com/dailytelegraph">Twitter</a>
+			</li>
+			<li class="nav-icon nav-icon-rss     last">
+								<a href="/help/rss" >RSS</a>
+			</li>
+		</ul>
+		<!-- // .tier-2 -->
+			</li>
+			<li class="footer-disclaimer">
+								<a href="http://www.newscorpaustraliaprivacy.com/" >find out more about our policy and your choices, including how to opt-out here</a>
+			</li>
+			<li>
+									<a  href="http://www.newscorpaustraliaprivacy.com ">Privacy Policy</a>
+			</li>
+			<li>
+									<a  href="http://www.newscorpaustraliaprivacy.com/index.html#optout">Relevant Ads Opt-out</a>
+			</li>
+			<li>
+									<a  href="http://www.newscorpaustraliaprivacy.com/index.html#collect">Cookie Policy</a>
+			</li>
+			<li>
+								<a href="/help/about" >About Us</a>
+			</li>
+			<li>
+									<a  href="http://www.dailytelegraph.com.au/digitalprinteditions">Digital Print Edition</a>
+			</li>
+			<li>
+								<a href="/help/contact-us" >Contact Us</a>
+			</li>
+			<li>
+									<a  href="/help/sponsorship">Sponsorship</a>
+			</li>
+			<li>
+								<a href="/news/opinion/letter-to-the-editor" >Letter to the Editor</a>
+			</li>
+			<li>
+								<a href="/for-the-record/story-e6freuy9-1226203390778" >For the Record </a>
+			</li>
+			<li>
+								<a href="/classifieds/placemyad" >Place an Ad</a>
+			</li>
+			<li>
+									<a  href="http://www.newscorpaustralia.com/brand/daily-telegraph">Advertise with us</a>
+			</li>
+			<li>
+									<a  href="http://newsphotos.com.au/ ">Photo Sales </a>
+			</li>
+			<li>
+								<a href="/news/archives" >Archives</a>
+			</li>
+			<li>
+									<a  href="http://tributes.dailytelegraph.com.au">Tributes</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li>
+									<a  href="http://www.careerone.com.au/">Job Opportunities</a>
+			</li>
+			<li>
+								<a href="/help/journalism-program" >Journalism Program</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li>
+								<a href="/help" >Help</a>
+			</li>
+			<li>
+								<a href="/help/accessibility" >Accessibility </a>
+			</li>
+			<li>
+								<a href="/help/sitemap" >Site Map</a>
+			</li>
+			<li class="nav-line-break">
+									<a  href="#"></a>
+			</li>
+			<li>
+								<a href="/help/code-of-conduct" >Code of Conduct</a>
+			</li>
+			<li>
+								<a href="/help/termsconditions" >Terms of Use</a>
+			</li>
+			<li>
+								<a href="/help/subscription-terms" >Subscription Terms</a>
+			</li>
+			<li>
+									<a  href="http://www.dailytelegraph.com.au/group">Group Subscription Terms</a>
+			</li>
+			<li class="copyright     last">
+								News Corp 2015 Copyright</a>
+			</li>
+		</ul>
+		<!-- // .tier-1 -->
+<!-- // .footer-legals -->
+				</div>
+        </div>
+    </div><!-- //.footer-content -->
+</div>
+    <div id="resources">
+	<!-- Page includes [1226616041335:null] last generated at Tue Mar 24 12:08:04 EST 2015 -->
+<!-- page include -->
+<!-- Resource Included [{id=1226866162096, type=News_Stylesheet}, {id=1226886312627, type=News_Javascript}, {id=1226866180869, type=News_Stylesheet}, {id=1226866162383, type=News_Stylesheet}, {id=1226866164977, type=News_Stylesheet}, {id=1226587868739, type=News_Javascript}, {id=1226592477047, type=News_Javascript}, {id=1226866449412, type=News_Javascript}, {id=1226595896129, type=News_Javascript}, {id=1226587862069, type=News_Javascript}, {id=1226587860996, type=News_Javascript}, {id=1227090210716, type=News_Javascript}, {id=1227075391347, type=News_Resources_Group}, {id=1226641054873, type=News_Javascript}, {id=1226641835083, type=News_Stylesheet}, {id=1226866522182, type=News_Stylesheet}, {id=1226766829025, type=News_Javascript}, {id=1226858257711, type=News_Javascript}, {id=1226766829929, type=News_Javascript}, {id=1226680662899, type=News_Javascript}, {id=1227092763081, type=News_Javascript}, {id=1226645345887, type=News_Stylesheet}, {id=1226656244662, type=News_Javascript}, {id=1226704318792, type=News_Javascript}, {id=1226779697549, type=News_Javascript}, {id=1226964682752, type=News_Javascript}]-->
+<!-- Resource Included [{id=1227016714423, type=News_Javascript}, {id=1227051779242, type=News_Stylesheet}]-->
+<!-- //page include -->
+	<script  type='text/javascript' src='http://resources.newscdn.com.au/cs/video/beta/build/player.js'></script>
+	<script  type='text/javascript' src='http://subscription.news.com.au/landingpages/mastheadresources/pc/dailytelegraph_metered/1/js/dt-mm-config.js'></script>
+	<script  type='text/javascript' src='http://resources.newscdn.com.au/cs/metered/current/deployBucketA/js/metered.min.js'></script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					require(['channel/desktop/app/base-bottom']);
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					ndm.require(['channel/desktop/app/story']);
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					$(function(){
+  if (typeof(ndm) !== 'undefined' && ndm.metered && ndm.metered.init) {
+    ndm.metered.init();
+  }
+});
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					    window.ndm = window.ndm || {};
+    window.ndm.gcse = window.ndm.gcse || {
+        "cx": '012148326047351459851:6qavvtw72t8',
+        "container": '#site-search',
+"resultsUrl":"http://www.dailytelegraph.com.au/search-results"
+    };
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					(function($, gcseConfig) {
+  $(document).ready(function() {
+    var gcse, s,
+    cx = gcseConfig.cx || false,
+    pre = gcseConfig.pre || false,
+    container = gcseConfig.container || '#site-search',
+    resultsContainer = gcseConfig.resultsContainer || '.gcse-results',
+    isResultPage = $('body.search-results').length && $(resultsContainer).append(gcseResults) || false,
+    drawLightForm = gcseConfig.drawLightForm || false,
+    gcseResultsUrl = gcseConfig.resultsUrl || '/search-results',
+    gcseResults = '<div class="gcse-search"></div>',
+    gcseBox = '<div class="gcse-searchbox-only" data-resultsUrl="' + gcseResultsUrl + '"> </div>';
+    drawBrandify = true;
+    if (drawLightForm) {
+      gcseBox = '<form class="media-search-input" action="' + gcseResultsUrl + '"><label><input type="text" name="q" title="search" autocomplete="off" /></label><button type="submit" value="Search">Search</button></form>';
+    }
+    if (drawBrandify && !isResultPage) {
+      gcseBox = '<form id="site-search__form" class="media-search-input gsc-search-box" action="' + gcseResultsUrl + '"><label><input type="text" class="gsc-input" name="q" title="search" autocomplete="off" style="outline: none" /><span class="gsc-search-button" style="position:absolute; right: -25px; bottom: -2px"><input onclick="document.getElementById(\'site-search__form\').submit(); return false;" type="button" value="Search" /></span></label></form>';
+    }
+    if (isResultPage) {
+      $(resultsContainer).append(gcseResults);
+    }
+    if (pre) {
+      $(container).prepend(gcseBox).length;
+    } else {
+      $(container).append(gcseBox).length;
+    }
+    // Always load on results page of or light form option it toggled off
+    if (cx && ! drawLightForm || ! drawBrandify || isResultPage) {
+      gcse = document.createElement('script');
+      gcse.type = 'text/javascript';
+      gcse.async = true;
+      gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//www.google.com/cse/cse.js?cx=' + cx;
+      s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gcse, s);
+    }
+  });
+})(ndm.jQuery || window.jQuery, ndm.gcse || false);
+	                 //]]>
+		</script>
+		<script type='text/javascript'>
+	                 //<![CDATA[
+					$(document).ready(function() {
+	function hotfixSocialSubscribe() {
+		if(ndm.social && ndm.social.sitename && $('.social-activity-centre .btn-subscribe').length) {
+			var newUrl = '';
+			switch(ndm.social.sitename) {
+				case "adelaidenow":
+					newUrl = "http://www.adelaidenow.com.au/subscribe/news/1/?sourceCode=AAWEB_ONS539";
+					break;
+				case "dailytelegraph":
+					newUrl = "http://www.dailytelegraph.com.au/subscribe/news/1/?sourceCode=DTWEB_ONS539";
+					break;
+				case "heraldsun":
+					newUrl = "http://www.heraldsun.com.au/subscribe/news/1/?sourceCode=HSWEB_ONS539";
+					break;
+			}
+			if(newUrl !== '') {
+				$('.social-activity-centre .btn-subscribe').attr('href', newUrl);
+			}
+		} else {
+			setTimeout(hotfixSocialSubscribe, 1000);
+		}
+	}
+	hotfixSocialSubscribe();
+});
+	                 //]]>
+		</script>
+    </div><!-- // # resources -->
+    <div id="stats">
+        <!-- Start Tealium -->
+        <script type="text/javascript">
+            var utagSections = [];
+            if (window.ndm && window.ndm.page && window.ndm.page.section) {
+                utagSections = ndm.page.section.toLowerCase().split(".");
+            }
+            utag_data = window.utag_data || {};
+            utag_data.pn = "dailytelegraph | news | story | martin place siege live rolling coverage";
+        	utag_data.net_section = utagSections[0];
+        	utag_data.net_subsec = utagSections[1];
+        	utag_data.net_subsubsec = utagSections[2];
+        	utag_data.net_subsubsubsec = utagSections[3];
+        	utag_data.net_content_type = (utag_data.net_content_type ? utag_data.net_content_type + "+" : "") + "story";
+                utag_data.ad_pagetype = overridePageType || utag_data.net_content_type;
+        		utag_data.mp_story_id = "1227156304178";
+        		utag_data.mp_section_id  = "1226802238927";
+        		utag_data.mp_mlc_path  = "/news/storytemplate/story";
+        		utag_data.net_article_id = "1227156304178";
+        		utag_data.net_article_byline = " ";
+        		utag_data.net_article_headline = "Fake sheik&#8217;s &#8216;sick fantasies&#8217; claimed innocent lives";
+        		utag_data.net_platform = "web";
+        		utag_data.net_article_source = "DailyTelegraph";
+        </script>
+        <script type="text/javascript" src="//tags.tiqcdn.com/utag/newsltd/dt.fw/prod/utag.js"></script>
+        <!-- End Tealium -->
+    </div><!-- // # stats -->
+</div><!-- // #page -->
+</body>
+</html>

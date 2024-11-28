@@ -1,0 +1,812 @@
+HTTP/1.1 200 OK
+Age: 0
+Cache-Control: private, maxage=300
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 24 Mar 2015 01:01:46 GMT
+Server: nginx/1.1.19
+Via: 1.1 varnish
+X-Cache: MISS
+X-Varnish: 495173036
+transfer-encoding: chunked
+Connection: keep-alive
+
+<!DOCTYPE html> <!--[if lt IE 7 ]> <html lang="de" class="ie ie6" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"> <![endif]--> <!--[if IE 7 ]> <html lang="de" class="ie ie7" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"> <![endif]--> <!--[if IE 8 ]> <html lang="de" class="ie ie8" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"> <![endif]--> <!--[if IE 9 ]> <html lang="de" class="ie ie9" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"> <![endif]--> <!--[if (gt IE 9)|!(IE)]><!--><html lang="de" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><!--<![endif]--> <head> <meta name="Keywords" content="News Gurlitt-Sammlung, Nachrichten Gurlitt-Sammlung" /> <meta name="Description" content="Es wird erwartet, dass das Kunstmuseum Bern das Erbe des verstorbenen Kunsthändlers Cornelius Gurlitt akzeptiert. Allerdings würde die Annahme durch die Anfechtung enorm verzögert." /> <meta name="Publisher" content="Neue Zürcher Zeitung AG, Switzerland" /> <meta name="email" content="online.redaktion@nzz.ch" /> <meta name="copyright" content="Copyright &amp;copy; 2015 Neue Zürcher Zeitung AG, Switzerland, http://www.nzz.ch/agb" /> <meta http-equiv="content-language" content="de" /> <meta http-equiv="expires" content="-1" /> <meta name="Author" content="Impressum Neue Zürcher Zeitung, Switzerland, http://www.nzz.ch/impressum" /> <meta name="distribution" content="global" /> <meta name="robots" content="index, follow, noarchive, noodp" /> <meta name="revisit-after" content="1 hour" /> <meta http-equiv="pragma" content="no-cache" /> <meta property="fb:app_id" content="138008459595436" /> <meta property="og:title" content="Gurlitt-Sammlung: Berner Kunstmuseum ist im Dilemma" /> <meta property="og:description" content="Es wird erwartet, dass das Kunstmuseum Bern das Erbe des verstorbenen Kunsthändlers Cornelius Gurlitt akzeptiert. Allerdings würde die Annahme durch die Anfechtung enorm verzögert." /> <meta property="og:type" content="article" /> <meta property="og:url" content="http://www.nzz.ch/schweiz/gurlitt-sammlung-1.18429492" /> <meta property="og:image" content="http://images.nzz.ch/eos/v2/image/view/300/232/lead/inset/0cec23bb/1.18429506/1416774935/kunstmuseum-bern-yoshiko-kusano-keystone.jpg" /> <meta property="og:site_name" content="Neue Zürcher Zeitung" /> <meta name="viewport" content="width=1390" /> <meta name="application-name" content="Neue Zürcher Zeitung"/> <meta name="msapplication-TileColor" content="#f9f9f9"/> <meta name="msapplication-TileImage" content="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/png/nzz-144.png"/> <meta name="msapplication-tooltip" content="Start NZZ Online in Site Mode" /> <meta name="msapplication-starturl" content="http://www.nzz.ch" /> <meta name="msapplication-window" content="width=1024;height=760" /> <meta name="msapplication-navbutton-color" content="#000000" /> <meta name="msapplication-task" content="name=Nachrichten; action-uri=http://www.nzz.ch/nachrichten; icon-uri=/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/favicon.ico" /> <meta name="msapplication-task" content="name=Finanzen; action-uri=http://www.nzz.ch/finanzen; icon-uri=/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/favicon.ico" /> <meta name="msapplication-task" content="name=Magazin; action-uri=http://www.nzz.ch/magazin; icon-uri=/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/favicon.ico" /> <meta name="msapplication-task" content="name=Marktplätze; action-uri=http://www.nzz.ch/marktplaetze; icon-uri=/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/favicon.ico" /> <link rel="icon" type="image/x-icon" href="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/favicon.ico" /> <link rel="shortcut icon" type="image/x-icon" href="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/favicon.ico" /> <link rel="apple-touch-icon" href="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/apple-touch-icon-57x57.png" /> <link rel="apple-touch-icon" sizes="72x72" href="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/apple-touch-icon-72x72.png" /> <link rel="apple-touch-icon" sizes="114x114" href="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/apple-touch-icon-114x114.png" /> <link rel="publisher" href="https://plus.google.com/118094012157733055567" /> <title>Gurlitt-Sammlung: Berner Kunstmuseum ist im Dilemma - Schweiz Nachrichten - NZZ.ch</title> <link rel="canonical" href="http://www.nzz.ch/schweiz/gurlitt-sammlung-1.18429492" /> <script>
+ window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!!t.document.createElementNS&&!!t.document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect&&!!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1"),A=function(A){var o=t.document.createElement("link"),r=t.document.getElementsByTagName("script")[0];o.rel="stylesheet",o.href=e[A&&n?0:A?1:2],r.parentNode.insertBefore(o,r)},o=new t.Image;o.onerror=function(){A(!1)},o.onload=function(){A(1===o.width&&1===o.height)},o.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="}};
+ grunticon( [ "/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/css/icons.data.svg.css", "/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/css/icons.data.png.css", "/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/css/icons.fallback.css" ] );</script> <link rel="stylesheet" type="text/css" href="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/css/599c6f5.css" /> <link rel="stylesheet" type="text/css" media="print" href="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/css/5bd0678.css" /> <meta http-equiv="imagetoolbar" content="false" /> <link rel="search" href="/search" title="Suche Neue Zürcher Zeitung, Switzerland, http://www.nzz.ch/search" /> <link rel="author" href="/impressum" title="Impressum Neue Zürcher Zeitung, Switzerland, http://www.nzz.ch/impressum" /> <link rel="copyright" href="/agb" title="Copyright &amp;copy; 2015 Neue Zürcher Zeitung AG, Switzerland, http://www.nzz.ch/agb" /> <!--[if lt IE 9]><script type="text/javascript" src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/js/html5shiv.js"></script><![endif]--><!-- Maxymiser script start --> <script type="text/javascript" src="//service.maxymiser.net/cdn/nzz/js/mmcore.js"></script> <!-- Maxymiser script end --><script type="text/javascript" src="//cdn.optimizely.com/js/678840793.js"></script><script type="text/javascript">
+ document.onkeydown = function (e) {
+ e = e || window.event;
+ if (e.keyCode == 27) {
+ return false;
+ }
+ };
+
+ window.twttr = (function (d,s,id) {
+ var js, fjs = d.getElementsByTagName(s)[0], t = window.twttr || {};
+ if (d.getElementById(id))return;
+ js = d.createElement(s);
+ js.id = id;
+ js.src = "https://platform.twitter.com/widgets.js";
+ fjs.parentNode.insertBefore(js, fjs);
+ t._e = [];
+ t.ready = function (f) {
+ t._e.push(f);
+ };
+ return t;
+ }(document, "script", "twitter-wjs"));
+ </script> <script src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/js/58c8f2d.js"></script> <script type="text/javascript">
+ var s_account="nzzch";
+ </script> <script src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/js/75574cc.js"></script> <script>
+ (function($){
+ $(window).load(function(){
+ $("#finanzen_news").mCustomScrollbar();
+ });
+ })(jQuery); </script> <script src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/js/cec820a.js"></script> <script type="text/javascript" src="//nexus.ensighten.com/nzz/prod-old/Bootstrap.js"></script> <meta name="date" content="2014-11-21" /> <meta name="news_keywords" content="News Gurlitt-Sammlung, Nachrichten Gurlitt-Sammlung" /> <meta name="twitter:card" content="summary" /> <meta name="twitter:site" content="@NZZ" /> <meta name="twitter:title" content="Gurlitt-Sammlung: Berner Kunstmuseum ist im Dilemma" /> <meta name="twitter:description" content="Es wird erwartet, dass das Kunstmuseum Bern das Erbe des verstorbenen Kunsthändlers Cornelius Gurlitt akzeptiert. Allerdings würde die Annahme durch die Anfechtung enorm verzögert." /> <meta name="twitter:image" content="http://images.nzz.ch/eos/v2/image/view/145/145/text/inset/defbded6/1.18429506/1416774935/kunstmuseum-bern-yoshiko-kusano-keystone.jpg" /> <meta http-equiv="content-type" content="text/html; charset=utf-8" /> <!--[if ie]><meta http-equiv="X-UA-Compatible" content="IE=edge"/><![endif]--> </head> <body class="internalpage"> <noscript><link href="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/css/icons.fallback.css" rel="stylesheet"></noscript> <!-- NET-Metrix-Audit version="1.5" --> <script type="text/javascript"><!--
+ var NETMX = 'http://nzz.wemfbox.ch/cgi-bin/ivw/CP/nzzonline/schweiz';
+ document.write("<img id=\"netmx\" src=\"" + NETMX + "?r=" + escape(document.referrer) + "&d=" + (Math.random() * 100000) + "&x=" + screen.width + "x" + screen.height + "\" width=\"1\" height=\"1\" alt=\"\" />");
+ // --> </script> <noscript><img src="http://nzz.wemfbox.ch/cgi-bin/ivw/CP/nzzonline/schweiz/noJS" width="1" height="1" alt=""/></noscript> <!-- /NET-Metrix-Audit --> <div id="fb-root"></div>             <script src="http://cac.eos.nzz.ch/js/api.js"></script>
+        <script type="text/javascript">
+
+            var removeOmnitureParameters = function () {
+                var rcStr = [];
+                var deprList = ['prop6', 'prop8', 'prop9',
+                    'prop11', 'eVar6', 'eVar16'];
+                var propertyName;
+                var eventsSplitted;
+
+                if (typeof s == 'object') {
+                    for (var deprItem in deprList) {
+                        propertyName = deprList[deprItem];
+                        if(s.hasOwnProperty(propertyName)) {
+                            delete s[propertyName];
+                        }
+                    }
+
+                    eventsSplitted = s.events.split(',');
+                    for (var chunkStr in eventsSplitted) {
+                        if(eventsSplitted[chunkStr] != 'event4') {
+                            rcStr.push(eventsSplitted[chunkStr]);
+                        }
+                    }
+                    s.events = rcStr.join(',');
+                }
+            }
+
+            if (Cac) {
+                                var cac = Cac.connect('nzz');
+                cac.enabled(function () {
+                    cac.identify(function (userData) {
+                        userData.appReferer = document.referrer;
+                                                cac.authorize('1.18429492', userData);
+                    });
+
+                    
+                    var cacEnableAdHandler = function () {
+                        $(document).ready(function () {
+                            $(".cacDisabled").css('display', 'block');
+                        });
+                    };
+
+                    var cacDisableAdHandler = function () {
+                        $(document).ready(function () {
+                            $(".cacDisabled").remove();
+                        });
+                    };
+
+                    var setPaywallData = function (response) {
+                        $(document).ready(function () {
+                            var loggedIn = '0';
+                            var gnzzStatus = '0';
+
+                            $("#paywall_holder").attr({
+                                'data-views': response.views,
+                                'data-views-left': response.views_left,
+                                'data-logged-in': loggedIn,
+                                'data-gnzz-status': gnzzStatus
+                            });
+                        });
+                    };
+
+                    var cacHandler = function (text, action, threshold) {
+                        var overlayPath = ('order' == action && Cac.userId != '') ? '/_cac/order' : '/_cac/register';
+
+                        $(document).ready(function () {
+                            $.fancybox({
+                                'href': overlayPath+'?threshold='+threshold,
+                                'onComplete': function () {
+                                    $('input').checkBox();
+                                    $('select').selectmenu();
+                                    removeOmnitureParameters();
+
+                                                                                                                         if(typeof s == 'object'){
+                                            if('order' == action && Cac.userId != ''){
+                                                s.channel="OSC";
+                                                s.pageName="OSC/Layer/Abonnement-Schwelle";
+                                                s.eVar27="OSC/Layer/Abonnement-Schwelle";
+                                                $.counters.update("omniture");
+                                            } else {
+                                                s.channel="OSC";
+                                                s.pageName="OSC/Layer/Registrierung-Schwelle";
+                                                s.eVar26="OSC/Layer/Registrierung-Schwelle";
+                                                $.counters.update("omniture");
+                                            }
+                                        }
+                                                                                                            },
+                                'padding': 0,
+                                'hideOnOverlayClick': false,
+                                'showCloseButton': false,
+                                                                'centerOnScroll': !('ontouchstart' in window),
+                                'enableEscapeButton': true,
+                                'onClosed': function () {
+                                    window.location.href = 'http://www.nzz.ch';
+                                },
+                                'overlayOpacity':.85,
+                                'autoScale': false
+                            });
+                            $.fancybox.resize = (function (fn) {
+                                return function () {
+                                    if (!('ontouchstart' in window)) {
+                                        return fn.apply(this, arguments);
+                                    }
+                                }
+                            }) ($.fancybox.resize);
+                            var articleBodyText = $('#articleBodyText');
+                            articleBodyText.css('color','#dddddd');
+                            articleBodyText.text(articleBodyText.text().substr(0, 300)+'...');
+                            $('#fancybox-wrap').addClass('paywall-center');
+                            $('link[media="print"]').prop('href', '/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/css/printdisabled.css');
+                        });
+                    };
+
+                    cac.on('auth.access', function (response) {
+                        setPaywallData(response);
+                        cacEnableAdHandler();
+                    });
+
+                    cac.on('auth.warn', function (response) {
+                        setPaywallData(response);
+                        cacDisableAdHandler();
+                        cacHandler('Registration', 'register', response.threshold);
+                    });
+
+                    cac.on('auth.deny', function (response) {
+                        setPaywallData(response);
+                        cacDisableAdHandler();
+                        cacHandler('Order', 'order', response.threshold);
+                    });
+                                    });
+            }
+        </script>
+
+        <div id="paywall_holder" style="display: none;"></div>
+
+                    <div id="cac-message" class="message group hide">
+                <p></p>
+                <a class="button" href="#"><span>Ok</span></a>
+            </div>
+             <script src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/js/1207f9d.js"></script>  <noscript><div id="ie6support">Leider ist ihr Javascript abgeschaltet. Bitte schalten Sie es ein bevor Sie diese Seite weiter betrachten.</div></noscript> <!--[if lt IE 7]><div id="ie6support">Der Support von Internet Explorer 6 wurde eingestellt. Bitte updaten Sie auf einen modernern Browser!</div><![endif]--> <div id="header" ajax-url="/account/markedarticles/ids" data-path="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/beforeafter/" data-add="/add-article-share/1.18429492" data-remove="/remove-article-share/1.18429492">     <script type="text/javascript">
+    NZZ = NZZ || {}; NZZ.myNZZ = NZZ.myNZZ || {};
+    NZZ.myNZZ.loginState = 'none';
+</script>
+<iframe id="loginCheck" src="/blank.gif" name="loginCheck" data-check-url="/check" style="display: none;"></iframe> <script src="http://mt.adquality.ch/t.js"></script> <script type="text/javascript">
+ var MH_kv = new MHT("14AF5BE5-32FE-431D-9D39-334BBD51F47D", null).getKV();
+ </script><script type="text/javascript">
+ if (window.adgroupid == undefined) {
+ window.adgroupid = Math.round(Math.random() * 1000);
+ }document.write('<scr'+'ipt type="text/javascript" src="http://adserver.adtech.de/multiad/3.0/1135/0/0/-1/ADTECH;mode=multiad;plcids=2945692,2945473,2945685,4321696,2945509,2945282;key=aktuell+schweiz;kvarticle=yes:1.18429492;kvcac=' + NZZ.myNZZ.loginState + ';' + MH_kv +';loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');</script> <aside class=" head-centering" id="maxiboard"> <script type="text/javascript">
+ NZZ.showMultiAd('2945509', 'maxiboard');
+ </script> </aside> <aside id="wallpaper"> </aside> <aside class="floating head-centering" id="skyscraper"> <script type="text/javascript">
+ NZZ.showMultiAd('2945685', 'skyscraper');
+ </script> <script type="text/javascript">
+ NZZ.showMultiAd('4321696', 'skyscraper');
+ </script> </aside> <div class="head-centering"> <div id="title" class="group"> <span class="onlyforprint nzztitle">NZZ.CH</span> <div id="logo"> <a class="logo-link ir block" href="/" title="NZZ Neue Z&uuml;rcher Zeitung">
+ Neue Z&uuml;rcher Zeitung
+ </a> <span class="onlyforprint"><img src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/png/nzzlogo-print.png" alt="Neue Z&uuml;rcher Zeitung" width="500" height="72"/></span> <div class="logo-addinfo"> <a class="logo-addinfo-time" href="/"><time datetime="2015-03-24T02:01:46+0100">Dienstag 24. März 2015</time> &ndash;&nbsp;</a> <a class="logo-addinfo-link" href="http://epaper.nzz.ch">E-Paper</a> /
+ <a class="logo-addinfo-link" href="http://webpaper.nzz.ch">Webpaper</a> </div> </div> </div> <a class="weather-widget weather2" href="/wetter/">
+ Z&uuml;rich&nbsp;14°
+</a> <div id="header-teaser"> <!--JavaScript Tag // Tag for network 1135: Swiss Adserver - NZZ-Network // Website: nzz.ch_specials // Page: header-teaser // Placement: header-teaser (4312780) // created at: Apr 11, 2013 6:14:46 PM--> <script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1135/4312780/0/16/ADTECH;loc=100;target=_blank;misc='+new Date().getTime()+'"></scri'+'pt>');
+//--> </script><noscript><a href="http://adserver.adtech.de/adlink/3.0/1135/4312780/0/16/ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/1135/4312780/0/16/ADTECH;loc=300" border="0" width="1" height="1"></a></noscript> <!-- End of JavaScript Tag --> </div> <ul class="m m--main"> <li class="m__i" data-andruwa-toggle="andruwa-1084"> <a href="/international/" class="m__i-link">International</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1086"> <a href="/wirtschaft/" class="m__i-link">Wirtschaft</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1091"> <a href="/finanzen/" class="m__i-link">Finanzen</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1100"> <a href="/schweiz/" class="m__i-link">Schweiz</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1297"> <a href="/zuerich/" class="m__i-link">Zürich</a> </li><li class="m__i" data-andruwa-toggle="andruwa-403"> <a href="/meinung/" class="m__i-link">Meinung</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1123"> <a href="/sport/" class="m__i-link">Sport</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1403"> <a href="/feuilleton/" class="m__i-link">Feuilleton</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1406"> <a href="/wissenschaft/" class="m__i-link">Wissenschaft</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1407"> <a href="/panorama/" class="m__i-link">Panorama</a> </li><li class="m__i" data-andruwa-toggle="andruwa-114"> <a href="/lebensart/" class="m__i-link">Lebensart</a> </li><li class="m__i mehrtoggle" data-andruwa-toggle="andruwa--mehr"> <a href="#" class="m__i-link">mehr</a> </li> </ul> <div class="andruwa"> <div id="andruwa-1084" class="andruwa__i hide"> <div class="r"> <div class="u u--1-2"> <article class="t"> <header> <a class="t__title-link" href="/international/paarlauf-der-kandidaten-1.18508595">
+ Paarlauf der Kandidaten
+ </a> </header> </article> </div> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/international/europa/einen-neuanfang-wagen-1.18508510" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/ed98a7fa/1.18508505/1427138864/tsipras-merkel.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/international/europa/einen-neuanfang-wagen-1.18508510"> <strong>Tsipras bei Merkel</strong><br />
+ Einen Neuanfang wagen
+ </a> </header> </article> </div> </div> <ul class="m"> <li class="m__i" data-andruwa-toggle="andruwa-1174"> <a href="/international/europa/" class="m__i-link">Europa</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1077"> <a href="/international/deutschland-und-oesterreich/" class="m__i-link">Deutschland &amp; Österreich</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1078"> <a href="/international/amerika/" class="m__i-link">Amerika</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1277"> <a href="/international/naher-osten-und-nordafrika/" class="m__i-link">Naher Osten &amp; Nordafrika</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1080"> <a href="/international/afrika/" class="m__i-link">Afrika</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1079"> <a href="/international/asien-und-pazifik/" class="m__i-link">Asien &amp; Pazifik</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1175"> <a href="/international/aufgefallen/" class="m__i-link">Aufgefallen</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1081"> <a href="/international/kommentare/" class="m__i-link">Kommentare</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1082"> <a href="/international/das-historische-bild/" class="m__i-link">Das historische Bild</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1083"> <a href="/international/politische-literatur/" class="m__i-link">Politische Literatur</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1084"> <a href="/international/dossiers/" class="m__i-link">Dossiers</a> </li> </ul> </div> <div id="andruwa-1086" class="andruwa__i hide"> <div class="r"> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/wirtschaft/ein-qe-programm-fuer-die-schweiz-1.18508535" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/128da3cf/1.18508508/1427138513/schweizerische-nationalbank.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/wirtschaft/ein-qe-programm-fuer-die-schweiz-1.18508535"> <strong>Ratschläge des IMF</strong><br />
+ Ein QE-Programm für die Schweiz
+ </a> </header> </article> </div> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/wirtschaft/die-internationalisierungsstrategie-der-lgt-ist-aufgegangen-1.18508521" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/1b14e1b0/1.18507936/1427095980/lgt-schloss-3-2.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/wirtschaft/die-internationalisierungsstrategie-der-lgt-ist-aufgegangen-1.18508521"> <strong>Finanzplatz Liechtenstein</strong><br />
+ Die Internationalisierungsstrategie der LGT ist aufgegangen
+ </a> </header> </article> </div> </div> <ul class="m"> <li class="m__i" data-andruwa-toggle="andruwa-941"> <a href="/wirtschaft/wirtschaftspolitik/" class="m__i-link">Wirtschaftspolitik</a> </li><li class="m__i" data-andruwa-toggle="andruwa-942"> <a href="/wirtschaft/unternehmen/" class="m__i-link">Unternehmen</a> </li><li class="m__i" data-andruwa-toggle="andruwa-943"> <a href="/wirtschaft/kommentare/" class="m__i-link">Kommentare</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1086"> <a href="/wirtschaft/dossiers/" class="m__i-link">Dossiers</a> </li> </ul> </div> <div id="andruwa-1091" class="andruwa__i hide"> <div class="r"> <div class="u u--1-2"> <article class="t"> <header> <a class="t__title-link" href="/finanzen/globale-risiken-umschiffen-1.18508271"> <strong>CNBC – Business Insights (Video)</strong><br />
+ Globale Risiken für die Wirtschaft umschiffen
+ </a> </header> </article> </div> <div class="u u--1-2"> <article class="t"> <header> <a class="t__title-link" href="/finanzen/wirtschaftliche-zukunft-von-singapur-1.18507928"> <strong>CNBC – Business Insights (Video)</strong><br />
+ Steht Singapur wirtschaftlich vor einer fazinierenden Dekade?
+ </a> </header> </article> </div> </div> <ul class="m"> <li class="m__i" data-andruwa-toggle="andruwa-65"> <a href="/finanzen/aktien/" class="m__i-link">Aktien</a> </li><li class="m__i" data-andruwa-toggle="andruwa-920"> <a href="/finanzen/anleihen/" class="m__i-link">Anleihen</a> </li><li class="m__i" data-andruwa-toggle="andruwa-921"> <a href="/finanzen/devisen-und-rohstoffe/" class="m__i-link">Devisen &amp; Rohstoffe</a> </li><li class="m__i" data-andruwa-toggle="andruwa-81"> <a href="/finanzen/fonds/" class="m__i-link">Fonds</a> </li><li class="m__i" data-andruwa-toggle="andruwa-354"> <a href="/finanzen/strukturierte_produkte/" class="m__i-link">Strukt. Produkte</a> </li><li class="m__i" data-andruwa-toggle="andruwa-922"> <a href="/finanzen/private-finanzen/" class="m__i-link">Private Finanzen</a> </li><li class="m__i" data-andruwa-toggle="andruwa-923"> <a href="/finanzen/immobilien/" class="m__i-link">Immobilien</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1089"> <a href="/finanzen/standpunkt/" class="m__i-link">Standpunkt</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1091"> <a href="/finanzen/boersenlexikon/" class="m__i-link">Börsenlexikon</a> </li> </ul> </div> <div id="andruwa-1100" class="andruwa__i hide"> <div class="r"> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/schweiz/hilfe-fuer-die-berufswahl-1.18508537" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/5ca7d3ea/1.18508538/1427141550/schlosser-lehrling-lehre-2.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/schweiz/hilfe-fuer-die-berufswahl-1.18508537"> <strong>Anforderungsprofile</strong><br />
+ Hilfe für die Berufswahl
+ </a> </header> </article> </div> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/schweiz/die-zahl-der-straftaten-ist-gesunken-1.18508526" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/59ae373d/1.18508513/1427139492/kriminalstatistik.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/schweiz/die-zahl-der-straftaten-ist-gesunken-1.18508526"> <strong>Schweizer Kriminalstatistik</strong><br />
+ Die Zahl der Straftaten ist gesunken
+ </a> </header> </article> </div> </div> <ul class="m"> <li class="m__i" data-andruwa-toggle="andruwa-1098"> <a href="/schweiz/blick-zurueck/" class="m__i-link">Blick zurück</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1099"> <a href="/schweiz/politische-literatur/" class="m__i-link">Politische Literatur</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1100"> <a href="/schweiz/dossiers/" class="m__i-link">Dossiers</a> </li> </ul> </div> <div id="andruwa-1297" class="andruwa__i hide"> <div class="r"> <div class="u u--1-2"> <article class="t"> <header> <a class="t__title-link" href="/zuerich/region/vorlage-zurechtgerupft-1.18508553"> <strong>Gemeinderat Winterthur</strong><br />
+ Vorlage zurechtgerupft
+ </a> </header> </article> </div> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/zuerich/stadt-zuerich/stadt-zuerich-will-anreizsystem-beibehalten-1.18508552" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/e4645915/1.18508549/1427143212/sozialzentrum-zuerich.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/zuerich/stadt-zuerich/stadt-zuerich-will-anreizsystem-beibehalten-1.18508552"> <strong>Vorschläge zur Skos-Reform</strong><br />
+ Stadt Zürich will Anreizsystem beibehalten
+ </a> </header> </article> </div> </div> <ul class="m"> <li class="m__i" data-andruwa-toggle="andruwa-1102"> <a href="/zuerich/stadt-zuerich/" class="m__i-link">Stadt Zürich</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1103"> <a href="/zuerich/region/" class="m__i-link">Region</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1189"> <a href="/zuerich/zuercher_kultur/" class="m__i-link">Zürcher Kultur</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1374"> <a href="/zuerich/zhwahl15/" class="m__i-link">Zürcher Wahlen 2015</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1105"> <a href="/zuerich/kommentare/" class="m__i-link">Kommentare</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1106"> <a href="/zuerich/dossiers/" class="m__i-link">Dossiers</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1200"> <a href="/zuerich/archivbilder/" class="m__i-link">Bildrätsel</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1297"> <a href="/zuerich/landi-39/" class="m__i-link">Landi 39</a> </li> </ul> </div> <div id="andruwa-403" class="andruwa__i hide"> <div class="r"> <div class="u u--1-2"> <article class="t"> <header> <a class="t__title-link" href="/meinung/reflexe/eine-nation-ohne-reformer-1.18508475"> <strong>Wahlen in Frankreich</strong><br />
+ Eine Nation ohne Reformer
+ </a> </header> </article> </div> <div class="u u--1-2"> <article class="t"> <header> <a class="t__title-link" href="/meinung/reflexe/verlagerung-nach-deutschland-muss-gut-ueberlegt-sein-1.18508474"> <strong>Schweizer Maschinenbausektor</strong><br />
+ Verlagerung nach Deutschland muss gut überlegt sein
+ </a> </header> </article> </div> </div> <ul class="m"> <li class="m__i" data-andruwa-toggle="andruwa-35"> <a href="/meinung/kommentare/" class="m__i-link">Kommentare</a> </li><li class="m__i" data-andruwa-toggle="andruwa-36"> <a href="/meinung/debatte/" class="m__i-link">Debatte</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1394"> <a href="/meinung/kolumnen/" class="m__i-link">Kolumnen</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1107"> <a href="/meinung/reflexe/" class="m__i-link">Reflexe</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1108"> <a href="/meinung/opinion-blogs/" class="m__i-link">Opinion Blogs</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1109"> <a href="/meinung/lebensart-blogs/" class="m__i-link">Lebensart Blogs</a> </li><li class="m__i" data-andruwa-toggle="andruwa-403"> <a href="http://campus.nzz.ch/blogs" class="m__i-link">Campus Blogs</a> </li> </ul> </div> <div id="andruwa-1123" class="andruwa__i hide"> <div class="r"> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/sport/wawrinka-trifft-in-miami-auf-kokkinakis-oder-berlocq-1.18508600" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/e908078e/1.18508598/1427148874/stan-wawrinka-unterlag-in-indien-wells-dem-hollaender-robin-haase.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/sport/wawrinka-trifft-in-miami-auf-kokkinakis-oder-berlocq-1.18508600"> <strong>Gutes Los für Stan Wawrinka</strong><br />
+ Wawrinka trifft in Miami auf Kokkinakis oder Berlocq
+ </a> </header> </article> </div> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/sport/wil-und-leader-servette-trennen-sich-00-1.18508559" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/7c240b80/1.18508556/1427144073/auch-servettes-michel-avanzini-konnte-das-00-nicht-verhindern.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/sport/wil-und-leader-servette-trennen-sich-00-1.18508559"> <strong>Nullnummer in Wil</strong><br />
+ Wil und Leader Servette trennen sich 0:0
+ </a> </header> </article> </div> </div> <ul class="m"> <li class="m__i" data-andruwa-toggle="andruwa-1116"> <a href="/sport/fussball/" class="m__i-link">Fussball</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1117"> <a href="/sport/eishockey/" class="m__i-link">Eishockey</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1118"> <a href="/sport/skisport/" class="m__i-link">Skisport</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1119"> <a href="/sport/tennis/" class="m__i-link">Tennis</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1120"> <a href="/sport/formel-1/" class="m__i-link">Formel 1</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1121"> <a href="/sport/liveticker/" class="m__i-link">Liveticker</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1400"> <a href="/sport/ergebnisse-und-tabellen/" class="m__i-link">Ergebnisse und Tabellen</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1123"> <a href="/sport/dossiers/" class="m__i-link">Dossiers</a> </li> </ul> </div> <div id="andruwa-1403" class="andruwa__i hide"> <div class="r"> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/feuilleton/kunst_architektur/formenzauber-unter-kokospalmen-1.18507567" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/6e763f26/1.18507633/1427047143/collins-avenue-south-beach.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/feuilleton/kunst_architektur/formenzauber-unter-kokospalmen-1.18507567"> <strong>Miami Beach wird hundert Jahre alt</strong><br />
+ Formenzauber unter Kokospalmen
+ </a> </header> </article> </div> <div class="u u--1-2"> <article class="t"> <header> <a class="t__title-link" href="/feuilleton/buehne/der-schoepfer-und-sein-monster-1.18507569"> <strong>«Frankenstein» als Ballett in Bern</strong><br />
+ Der Schöpfer und sein Monster
+ </a> </header> </article> </div> </div> <ul class="m"> <li class="m__i" data-andruwa-toggle="andruwa-1125"> <a href="/feuilleton/buecher/" class="m__i-link">Bücher</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1230"> <a href="/feuilleton/kunst_architektur/" class="m__i-link">Kunst &amp; Architektur</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1127"> <a href="/feuilleton/buehne/" class="m__i-link">Bühne</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1128"> <a href="/feuilleton/musik/" class="m__i-link">Musik</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1129"> <a href="/feuilleton/kino/" class="m__i-link">Kino</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1130"> <a href="/feuilleton/fernsehen/" class="m__i-link">Fernsehen</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1131"> <a href="/feuilleton/medien/" class="m__i-link">Medien</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1403"> <a href="/feuilleton/dossiers/" class="m__i-link">Dossiers</a> </li> </ul> </div> <div id="andruwa-1406" class="andruwa__i hide"> <div class="r"> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/wissenschaft/astronomie/die-nova-die-keine-war-1.18508343" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/981eef70/1.18508329/1427124197/astronomie-nova-vul-1670-historisch.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/wissenschaft/astronomie/die-nova-die-keine-war-1.18508343"> <strong>Neubewertung einer Sternexplosion</strong><br />
+ Die Nova, die keine war
+ </a> </header> </article> </div> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/wissenschaft/bildung/lernen-fuer-eine-ungewisse-zukunft-1.18507746" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/83c6dfab/1.18507925/1427095088/kenya-schule.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/wissenschaft/bildung/lernen-fuer-eine-ungewisse-zukunft-1.18507746"> <strong>Jugendarbeitslosigkeit in Kenya</strong><br />
+ Lernen für eine ungewisse Zukunft
+ </a> </header> </article> </div> </div> <ul class="m"> <li class="m__i" data-andruwa-toggle="andruwa-1133"> <a href="/wissenschaft/medizin/" class="m__i-link">Mensch und Medizin</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1134"> <a href="/wissenschaft/biologie/" class="m__i-link">Biologie</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1135"> <a href="/wissenschaft/physik/" class="m__i-link">Physik und Chemie</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1136"> <a href="/wissenschaft/technik/" class="m__i-link">Technik</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1137"> <a href="/wissenschaft/astronomie/" class="m__i-link">Astronomie</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1138"> <a href="/wissenschaft/klima/" class="m__i-link">Klima und Umwelt</a> </li><li class="m__i" data-andruwa-toggle="andruwa-899"> <a href="/wissenschaft/bildung/" class="m__i-link">Bildung</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1406"> <a href="/wissenschaft/dossiers/" class="m__i-link">Dossiers</a> </li> </ul> </div> <div id="andruwa-1407" class="andruwa__i hide"> <div class="r"> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/panorama/der-erste-fruehling-seit-vielen-jahren-1.18508545" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/3c272850/1.18508546/1427142677/basel-schalterhalle-wandbild.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/panorama/der-erste-fruehling-seit-vielen-jahren-1.18508545"> <strong>Historische Wandbilder in Basel</strong><br />
+ Der erste Frühling seit vielen Jahren
+ </a> </header> </article> </div> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/panorama/alltagsgeschichten/teilfahrverbot-in-paris-1.18508509" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/fb2c1810/1.18508511/1427138777/paris.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/panorama/alltagsgeschichten/teilfahrverbot-in-paris-1.18508509"> <strong>Massnahmen gegen Luftverschmutzung</strong><br />
+ Teilfahrverbot in Paris
+ </a> </header> </article> </div> </div> <ul class="m"> <li class="m__i" data-andruwa-toggle="andruwa-1141"> <a href="/panorama/ungluecksfaelle-und-verbrechen/" class="m__i-link">Unglücksfälle und Verbrechen</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1142"> <a href="/panorama/menschen/" class="m__i-link">Menschen</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1143"> <a href="/panorama/alltagsgeschichten/" class="m__i-link">Alltagsgeschichten</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1144"> <a href="/panorama/dossiers/" class="m__i-link">Dossiers</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1407"> <a href="/panorama/montagsklischee/" class="m__i-link">Montagsklischee</a> </li> </ul> </div> <div id="andruwa-114" class="andruwa__i hide"> <div class="r"> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/lebensart/stil/rossschwanz_zum_abendkleid-1.18508415" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/b5c05019/1.18508382/1427131631/cameron-diaz-rossschwanz.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/lebensart/stil/rossschwanz_zum_abendkleid-1.18508415"> <strong>Stilsünden</strong><br />
+ Rossschwanz zum Abendkleid
+ </a> </header> </article> </div> <div class="u u--1-2"> <article class="t"> <figure class="t__figure"> <a href="/lebensart/stil/porfirio-rubirosa--1909-san-francisco-de-macoris--1965-paris-1.18508358" class="lazy-load embed-container"> <img src="http://images.nzz.ch/eos/v2/image/view/140/80/teaserPictureText/outbound/2086325c/1.18508380/1427127281/rubirosa.jpg" width="140" height="80" alt=""/> </a> </figure> <header> <a class="t__title-link" href="/lebensart/stil/porfirio-rubirosa--1909-san-francisco-de-macoris--1965-paris-1.18508358"> <strong>Stilikone</strong><br />
+ Porfirio Rubirosa (* 1909 San Francisco de Macorís; † 1965 Paris)
+ </a> </header> </article> </div> </div> <ul class="m"> <li class="m__i" data-andruwa-toggle="andruwa-112"> <a href="/lebensart/stil/" class="m__i-link">Stil</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1145"> <a href="/lebensart/reise/" class="m__i-link">Reisen</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1147"> <a href="/lebensart/genuss/" class="m__i-link">Genuss</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1451"> <a href="/lebensart/spiel/" class="m__i-link">Spiel</a> </li><li class="m__i" data-andruwa-toggle="andruwa-121"> <a href="/lebensart/garten/" class="m__i-link">Garten</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1148"> <a href="/lebensart/outdoor/" class="m__i-link">Outdoor</a> </li><li class="m__i" data-andruwa-toggle="andruwa-114"> <a href="http://interiordesign.blog.nzz.ch/" class="m__i-link">Interior Design</a> </li> </ul> </div> <div id="andruwa--mehr" class="andruwa__i hide"> <ul class="m m--vert"> <li class="m__i" data-andruwa-toggle="andruwa-1151"> <a href="/mehr/digital/" class="m__i-link">Digital</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1152"> <a href="/mehr/auto/" class="m__i-link">Auto</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1153"> <a href="/mehr/verkehr/" class="m__i-link">Verkehr</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1154"> <a href="/mehr/luftfahrt/" class="m__i-link">Luftfahrt</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1155"> <a href="/mehr/spiele/" class="m__i-link">Spiele</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1408"> <a href="/mehr/video_news/" class="m__i-link">NZZ TV</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1316"> <a href="http://podium.nzz.ch" class="m__i-link">NZZ Podium</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1162"> <a href="/mehr/dossiers/" class="m__i-link">Dossiers</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1409"> <a href="http://www.nzz.ch/dossiers/aus_dem_archiv" class="m__i-link">Aus dem Archiv</a> </li><li class="m__i" data-andruwa-toggle="andruwa-1410"> <a href="/wetter//" class="m__i-link">Wetter</a> </li> </ul> </div> </div> </div> </div> <div class="head-centering"> <div class="page-title sizeXxxl "> <h1> <a class="link-info" href="/schweiz/">Schweiz</a> </h1> </div> </div> <div id="main" class="grid group"> <div class="sizeXl "> <article class="article-full"> <header class="group"> <hgroup> <time class="onlyforprint" datetime="2014-11-21 19:00:11">21.11.2014, 19:00 Uhr</time> <h2 class="catchline">Gurlitt-Sammlung</h2> <h1 class="articletitle">Berner Kunstmuseum ist im Dilemma</h1><h6> <time class="datetimenew" datetime="2014-11-21 19:00:11"> <span class="author">Stephanie Lahrtz, Daniel Gerny</span>
+ 21.11.2014, 19:00 Uhr
+ </time> </h6> </hgroup> <div class="socialMediaFloaterArticleView group"> <div class="social-media-floater"> <div class="sm-scrolling"> <a class="share__item-link icon pocket"
+ title="Auf Pocket lesen" data-action="pocket" target="_blank" href="https://getpocket.com/save?url=http://www.nzz.ch/schweiz/gurlitt-sammlung-1.18429492" > </a> <a href="javascript:window.print()"
+ class="print"
+ title="Den Artikel &quot;Berner Kunstmuseum ist im Dilemma&quot; drucken">Drucken
+ </a> <a href="/create-article-form/1.18429492"
+ class="mail fancy_inline"
+ title="Den Link zu &quot;Berner Kunstmuseum ist im Dilemma&quot; per E-Mail versenden">E-Mail
+ </a> <a href="#nzz-comments-wrapper"
+ class="png-article-comment"
+ title="Kommentare"> </a> <div class="shareButtons group"></div> <!-- END div.shareButtons --> </div> <!-- END div.sm-scrolling --> </div> <!-- END div.social-media-floater --> </div> </header> <figure class="zoom"> <span class="inline"> <img src="http://images.nzz.ch/eos/v2/image/view/643/-/text/inset/c654bbcc/1.18429506/1416774935/kunstmuseum-bern-yoshiko-kusano-keystone.jpg" alt="Das Kunstmuseum Bern hat das Erbe Gurlitts angenommen."/> </span> <figcaption> <span class="inline">
+ Das Kunstmuseum Bern hat das Erbe Gurlitts angenommen.
+ <small> (Bild: Yoshiko Kusano / Keystone)</small> </span> </figcaption> </figure> <h5>Es wird erwartet, dass das Kunstmuseum Bern das Erbe des verstorbenen Kunsthändlers Cornelius Gurlitt akzeptiert. Allerdings würde die Annahme durch die Anfechtung enorm verzögert.</h5> <div id="articleBodyText" > <div> <p>Uta Werner, die 86-jährige Cousine des verstorbenen Cornelius Gurlitt, wird nun definitiv dessen Testament anfechten. Dafür hat sie am Freitag beim Amtsgericht München als dem zuständigen Nachlassgericht einen Erbschein beantragt. Nun ist das Gericht verpflichtet, das Testament auf seine Gültigkeit zu überprüfen. Zusammen mit ihrem Bruder Dietrich wäre Werner als nächste lebende Verwandte ohne Testament die gesetzliche Erbin gewesen. Ersterer hat sich bereits von den Aktivitäten seiner Schwester distanziert, dafür wird sie von den eigenen Kindern sowie einigen ihres Bruders unterstützt.</p> <p>Werner begründet die Anfechtung mit einem in ihrem Auftrag erstellten Gutachten eines Psychiaters aus Cham, laut dem Cornelius vor seinem Tod an Wahnvorstellungen gelitten, keine freie Willensäusserung mehr besessen habe und daher nicht testierfähig gewesen sei. Man habe mit der Anfechtung Klarheit für alle Zeiten schaffen wollen, liess die Familie verlauten. Da es nämlich keine Verjährung eines Anspruchs übergangener gesetzlicher Erben gibt, hätten Nachkommen noch nach Jahrzehnten Bern die Bilder streitig machen können.</p> <p>Schon zuvor sorgte die Erbschaft am Freitag für Aufmerksamkeit: Nachdem die Einladung zur Medienkonferenz «zum weiteren Umgang mit dem Nachlass Cornelius Gurlitt» erfolgt war, die am Montag in Berlin stattfindet, überschlugen sich die Spekulationen: Die deutsche Nachrichtenagentur DPA meldete, das Berner Kunstmuseum nehme die Erbschaft an. Kurz darauf dementierte dieses: Die Entscheidung des Stiftungsrates «steht noch aus», hiess es. Auch der Nachlassverwalter in München hatte keine Kenntnis von einer definitiven Annahme.</p> <h4>Ein sonderbarer Einzelgänger</h4> <p>Das Interesse an dem Fall ist riesig: In der Sammlung Gurlitts befindet sich Raubkunst, die der Rückforderung unterliegt, sowie Werke, die von den Nazis als «entartet» bezeichnet und daher aus Museen entfernt wurden. Für das Berner Kunstmuseum geht es deshalb nicht nur um die Frage, ob es die Sammlung übernehmen will, sondern auch darum, wie es als öffentliche Institution mit diesem Nachlass verantwortungsvoll umgehen soll.</p> <p>«Wie ein Blitz aus heiterem Himmel» schlug im vergangenen Mai die Nachricht ein, wonach Gurlitt das Kunstmuseum in Bern als Alleinerbe eingesetzt hatte. Die Sammlung war zwei Jahre zuvor unter eigenartigen Umständen aufgetaucht. Der damals 80-jährige Gurlitt, Sohn von Hildebrand Gurlitt, der während der Nazizeit Geschäfte mit geraubter Kunst gemacht und Bilder gehortet hatte, war 2010 in einer Zollkontrolle mit hohen Bargeldbeträgen aufgefallen. Bei einer Durchsuchung seiner Münchner Wohnung wurden 2012 über 1400 Kunstwerke beschlagnahmt. Während Jahrzehnten hatte der Einzelgänger die Bilder unentdeckt in selbstgebauten Regalen aufbewahrt. 2014 verstarb Gurlitt.</p> <p>Zu diesem Zeitpunkt hatten die Behörden der Bundesrepublik und von Bayern bereits eine Task-Force eingesetzt, um die Herkunft der Bilder abzuklären. Kurz vor seinem Tod stimmte Gurlitt der Provenienzforschung zu. Bis heute aber weiss die Öffentlichkeit nur in Umrissen, welche Bilder die Sammlung umfasst, welche Werke durch die Nazis von Juden geraubt und abgepresst oder als entartete Kunst aus Museen entfernt wurden. Welchen Wert die Sammlung für das Berner Kunstmuseum darstellt, ist völlig unklar, auch wenn als sicher gilt, dass die Faszination über die Art ihrer Entdeckung in diesem Kunstkrimi grösser ist als ihre kunsthistorische Bedeutung.</p> <p>Die Abklärungen und Verhandlungen mit den deutschen Behörden zum weiteren Vorgehen erwiesen sich als äusserst komplex. Klar war, dass das Museum die Erbschaft nicht einfach annehmen kann: Zu gross ist der Aufwand für die Abklärung der Provenienz, und zu unüberschaubar sind die Risiken allfälliger Verfahren und Forderungen.</p> <h4>Auch Familie will restituieren</h4> <p>Sollte das Museum jetzt zwar annehmen, das Testament nach der nun nötigen Prüfung dann aber für ungültig erklärt werden, geht die Kollektion ebenso wie bei einer Absage des Museums an die gesetzlichen Erben über. Das könnte die Provenienzforschung gemäss Experten erschweren. Die deutschen Behörden befürworten daher eine Annahme des Erbes durch das Museum. Die Familie hat versichert, die Provenienzforschung fortzuführen.</p> </div> </div> <div class="relArticles"> <h4 class="relArticles__title">Mehr zum Thema</h4> <ul class="relArticles__list related-articles-from-canoo"> <li class="relArticles__item "> <a class="relArticles__item-title" href="/startseite/die-causa-gurlitt-im-zeitraffer-1.18428082"><span class="relArticles__item-catchline" href="/startseite/die-causa-gurlitt-im-zeitraffer-1.18428082">
+ Kunstfund
+ </span><br>Die Causa Gurlitt im Zeitraffer
+ </a><br> <time class="relArticles__item-time" datetime="2014-11-19 15:00:00">
+ 19.11.2014, 15:00 Uhr
+ </time> </li><li class="relArticles__item relArticles__item_even"> <a class="relArticles__item-title" href="/startseite/berner-kunstmuseum-vor-dem-entscheid-zur-annahme-1.18415887"><span class="relArticles__item-catchline" href="/startseite/berner-kunstmuseum-vor-dem-entscheid-zur-annahme-1.18415887">
+ Gurlitt-Erbe
+ </span><br>Berner Kunstmuseum vor dem Entscheid zur Annahme
+ </a><br> <time class="relArticles__item-time" datetime="2014-11-01 05:30:00">
+ 1.11.2014, 05:30 Uhr
+ </time> </li><li class="relArticles__item "> <a class="relArticles__item-title" href="/startseite/verantwortungsvoll-erben-1.18423893"><span class="relArticles__item-catchline" href="/startseite/verantwortungsvoll-erben-1.18423893">
+ Gastkommentar zur Gurlitt-Sammlung
+ </span><br>Das Kunstmuseum Bern muss die Herkunft des Gurlitt-Erbes lückenlos erforschen
+ </a><br> <time class="relArticles__item-time" datetime="2014-11-12 21:19:00">
+ 12.11.2014, 21:19 Uhr
+ </time> </li><li class="relArticles__item relArticles__item_even"> <a class="relArticles__item-title" href="/startseite/wie-ein-blitz-aus-heiterem-himmel-1.18297793"><span class="relArticles__item-catchline" href="/startseite/wie-ein-blitz-aus-heiterem-himmel-1.18297793">
+ Sammlung Gurlitt kommt nach Bern
+ </span><br>«Wie ein Blitz aus heiterem Himmel»
+ </a><br> <time class="relArticles__item-time" datetime="2014-05-07 17:27:00">
+ 7.5.2014, 17:27 Uhr
+ </time> </li> </ul> </div> <footer> </footer> <div id="articleBodyAdvertisement" class="advertisement" style="display: none;"> <p>Anzeige</p> <script type="text/javascript">
+ NZZ.showMultiAd('2945282', 'articleBodyAdvertisement');
+ </script> </div> <div id="nzz-comments-wrapper" class="outOfScreen"> <script type="text/javascript">
+    /*
+     * Fix for Flash Of Unstyled Content problem
+     * See docs for details
+     */
+    document.documentElement.className += ' js';
+
+    /**
+     * Variable used in the Disqus templates to get the base URL based on the current
+     * Symfony environment
+     */
+    var baseUrl = '';
+    
+</script>
+
+<div class="nzz-comments">
+    <h2>Kommentare</h2>
+    <div id="disqus_thread"></div>
+<div id="ajaxLoader">
+    <img src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/gif/loading_small.gif" alt="Loading" width="16" height="16">
+</div>
+<script type="text/javascript">
+    var disqus_shortname = 'nzz';
+    var disqus_container_id = 'disqus_thread';var disqus_identifier = '1.18429492';var disqus_config = function () {
+
+        this.callbacks.onReady = [function () {
+            if (NZZ && NZZ.disqus && typeof NZZ.disqus.onReady === 'function') {
+                NZZ.disqus.onReady();
+            }
+        }];
+        this.callbacks.onPaginate = [function () {
+            if (NZZ && NZZ.disqus && typeof NZZ.disqus.onPaginate === 'function') {
+                NZZ.disqus.onPaginate();
+            }
+        }];this.page.remote_auth_s3 = "eyJpZCI6IiIsInVzZXJuYW1lIjoiIiwiZW1haWwiOiIifQ== edacdff181715bf9276d55a94910359dc5feb7df 1427158906";
+            this.page.api_key = "CjOaF3lu5D6Gg5HXvI8KT0CkdS8UIeg8X9xidsoNuAT7EJd5M5smCdIwVCPFHCnY";this.sso = {"name":"nzz","url":"\/login","logout":"\/logout"};};
+</script>
+</div>
+
+
+<!-- /nzz-comments -->
+ </div> </article> </div> <!-- END div.sizeXl --> <aside class="sizeM"> <a class="twitter-timeline" width="310" height="400" href="https://twitter.com/NZZSchweiz" data-widget-id="509270934813806592">Tweets von @NZZSchweiz</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> <div class="advertisement" id="ad_449968150" style="display: none;"> <p>Anzeige</p> <script type="text/javascript">
+ NZZ.showMultiAd('2945692', 'ad_449968150');
+ </script> </div> <!--JavaScript Tag with group ID // Tag for network 1135: Swiss Adserver - NZZ-Network // Website: nzz.ch // Page: nachrichten/politik/schweiz // Placement: nzz.ch_nachrichten_nachrichten/politik/schweiz_teaser1_370x191 (2945360) // created at: Nov 23, 2010 9:46:30 AM--> <script language="javascript"> <!--
+if (window.adgroupid == undefined) {
+ window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1135/2945360/0/3908/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;;cookie=info;;asfunc=1;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//--> </script> <script type="text/javascript">
+ if (typeof(cu_2945360_getAdId)=="function" && cu_2945360_getAdId()>0) 
+ {
+ if (typeof(cu_2945360)=="function") 
+ {
+ cu_2945360();
+ }
+ }
+ </script> <noscript><a href="http://adserver.adtech.de/adlink/3.0/1135/2945360/0/3908/ADTECH;loc=300;key=key1+key2+key3+key4;;cookie=info;" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/1135/2945360/0/3908/ADTECH;loc=300;key=key1+key2+key3+key4;;cookie=info;" border="0" width="370" height="191"></a></noscript> <!-- End of JavaScript Tag --> <!--JavaScript Tag with group ID // Tag for network 1135: Swiss Adserver - NZZ-Network // Website: nzz.ch // Page: nachrichten/politik/schweiz // Placement: nzz.ch_nachrichten_nachrichten/politik/schweiz_teaser2_370x191 (2945600) // created at: Nov 23, 2010 9:46:30 AM--> <script language="javascript"> <!--
+if (window.adgroupid == undefined) {
+ window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/1135/2945600/0/3908/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;;cookie=info;;asfunc=1;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//--> </script> <script type="text/javascript">
+ if (typeof(cu_2945600_getAdId)=="function" && cu_2945600_getAdId()>0) 
+ {
+ if (typeof(cu_2945600)=="function") 
+ {
+ cu_2945600();
+ }
+ }
+ </script> <noscript><a href="http://adserver.adtech.de/adlink/3.0/1135/2945600/0/3908/ADTECH;loc=300;key=key1+key2+key3+key4;;cookie=info;" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/1135/2945600/0/3908/ADTECH;loc=300;key=key1+key2+key3+key4;;cookie=info;" border="0" width="370" height="191"></a></noscript> <!-- End of JavaScript Tag --> <section class="teaser relatedTopics"> <a href="http://www.nzz.ch/dossiers/herausgeforderte-berggebiete-2.49984"><span class="teaserH2">Dossier</span></a> <ul> <li> <article> <header> <h4><a href="http://www.nzz.ch/dossiers/herausgeforderte-berggebiete-2.49984">Herausgeforderte Berggebiete</a></h4> <p><a href="http://www.nzz.ch/dossiers/herausgeforderte-berggebiete-2.49984"><span class="caption">Probleme an der Peripherie</span></a></p> </header> <figure> <a href="http://www.nzz.ch/dossiers/herausgeforderte-berggebiete-2.49984"> <img src="http://images.nzz.ch/eos/v2/image/view/281/158/teaserPictureText/outbound/0c95d976/1.18482649/1423834324/dossier-ts-herausgeforderte-berggebiete.jpg" width="281" height="158" alt=""/> </a> </figure> <p> <a href="http://www.nzz.ch/dossiers/herausgeforderte-berggebiete-2.49984">Die Krise um Zweitwohnungen und die Stärke des Frankens akzentuieren die Herausforderungen für die Bergregionen in der Schweiz. Insbesondere der bedeutende Wirtschaftsfaktor Tourismus ist in Frage gestellt.
+ <span class="more">Mehr</span> </a> </p> </article> </li> </ul> </section> <iframe width="310" height="493" frameborder="0" src="http://jobs.nzz.ch/vacancy/topjobs" scrolling="no" style="margin-bottom: 20px;"></iframe> <div class="featurebox-container group"> <article class="featurebox"> <figure class="featurebox__fig"> <a class="featurebox__fig-link" href="http://www.nzz.ch/spezial/fluchtwege/"> <img src="http://images.nzz.ch/eos/v2/image/view/311/414/featureBoxPortrait/outbound/7b4439fd/1.18474776/1422974194/fluchtwege-featurebox.jpg" width="311" height="414" class="featurebox__fig-img" alt="Fluchtwege"/> </a> </figure> <div class="featurebox__caption"> <h3 class="featurebox__minititle"> <a class="featurebox__minititle-link inline-block catchline" href="http://www.nzz.ch/spezial/fluchtwege/" title="Eine Porträtserie">
+ Eine Porträtserie
+ </a> </h3> <h2 class="featurebox__title"> <a class="featurebox__title-link teaser-title" href="http://www.nzz.ch/spezial/fluchtwege/" title="Eine Porträtserie">
+ Fluchtwege
+ </a> </h2> <p class="featurebox__excerpt">Die NZZ beleuchtet die Flüchtlingskrise aus der Sicht von unmittelbar Betroffenen.
+ <a title="Eine Porträtserie" href="http://www.nzz.ch/spezial/fluchtwege/" class="more">Mehr</a> </p> </div> </article> </div> <section class="teaser trends"> <span class="teaserH2">Lesertrend</span> <ul class="tabs"> <li><a href="#tab-Gelesen" data-tab-number="2">Gelesen</a></li><li><a href="#tab-Empfohlen" data-tab-number="4">Empfohlen</a></li><li><a href="#tab-Kommentiert" data-tab-number="3">Kommentiert</a></li> </ul> <ul id="tab-Gelesen" class="accordion ui-tabs-hide"> <li> <article class="group" id="1.18507125"> <h4><a href="/nzzas/nzz-am-sonntag/auf-entzug-ist-das-leben-nuechtern-ueberhaupt-auszuhalten-1.18507125">Ist das Leben nüchtern überhaupt auszuhalten?</a></h4> <div> <a href="/nzzas/nzz-am-sonntag/auf-entzug-ist-das-leben-nuechtern-ueberhaupt-auszuhalten-1.18507125" class="caption">
+ NZZ am Sonntag
+ </a> <time datetime="2015-03-22 01:00:00" class="group"></time> </div> </article> </li><li> <article class="group" id="1.18508093"> <h4><a href="/wirtschaft/sika-erben-relativieren-gerichtsurteil-1.18508093">Offene Machtfrage bei Sika trotz Gerichtsentscheid</a></h4> <div> <a href="/wirtschaft/sika-erben-relativieren-gerichtsurteil-1.18508093" class="caption">
+ Wirtschaft
+ </a> <time datetime="2015-03-23 20:25:00" class="group"></time> </div> </article> </li><li> <article class="group" id="1.18508096"> <h4><a href="/international/europa/mit-waffen-gegen-reformen-1.18508096">Mit Waffen gegen Reformen</a></h4> <div> <a href="/international/europa/mit-waffen-gegen-reformen-1.18508096" class="caption">
+ Europa
+ </a> <time datetime="2015-03-23 12:00:00" class="group"></time> </div> </article> </li><li> <article class="group" id="1.18507272"> <h4><a href="/nzzas/nzz-am-sonntag/guenther-jauch-sollte-entlassen-werden-1.18507272">Günther Jauch sollte entlassen werden</a></h4> <div> <a href="/nzzas/nzz-am-sonntag/guenther-jauch-sollte-entlassen-werden-1.18507272" class="caption">
+ NZZ am Sonntag
+ </a> <time datetime="2015-03-23 12:00:00" class="group"></time> </div> </article> </li><li> <article class="group" id="1.18507587"> <h4><a href="/sport/tennis/live-novak-djokovic---roger-federer-1.18507587">Überschall-Tennis</a></h4> <div> <a href="/sport/tennis/live-novak-djokovic---roger-federer-1.18507587" class="caption">
+ Tennis
+ </a> <time datetime="2015-03-23 11:04:27" class="group"></time> </div> </article> </li><li style="display: none;"> <article class="group" id="1.18507638"> <h4><a href="/meinung/debatte/europa--eine-frage-des-selbstbewusstseins-1.18507638">Eine Weltordnung ohne Europa</a></h4> <div> <a href="/meinung/debatte/europa--eine-frage-des-selbstbewusstseins-1.18507638" class="caption">
+ Debatte
+ </a> <time datetime="2015-03-23 05:30:00" class="group"></time> </div> </article> </li><li style="display: none;"> <article class="group" id="1.18508244"> <h4><a href="/wirtschaft/cs-haette-konto-nicht-einfrieren-duerfen-1.18508244">CS hätte Konto nicht einfrieren dürfen</a></h4> <div> <a href="/wirtschaft/cs-haette-konto-nicht-einfrieren-duerfen-1.18508244" class="caption">
+ Wirtschaft
+ </a> <time datetime="2015-03-23 14:55:00" class="group"></time> </div> </article> </li><li style="display: none;"> <article class="group" id="1.18507661"> <h4><a href="/wirtschaft/rentnerparadies-grossbritannien-1.18507661">Rentnerparadies Grossbritannien</a></h4> <div> <a href="/wirtschaft/rentnerparadies-grossbritannien-1.18507661" class="caption">
+ Wirtschaft
+ </a> <time datetime="2015-03-23 05:30:00" class="group"></time> </div> </article> </li><li style="display: none;"> <article class="group" id="1.18507709"> <h4><a href="/international/europa/kein-triumpf-des-front-national-1.18507709">Ein Triumph des Front national bleibt aus</a></h4> <div> <a href="/international/europa/kein-triumpf-des-front-national-1.18507709" class="caption">
+ Europa
+ </a> <time datetime="2015-03-22 21:53:00" class="group"></time> </div> </article> </li><li style="display: none;"> <article class="group" id="1.18507719"> <h4><a href="/finanzen/euro--auf-tauchgang-zum-starken-dollar-1.18507719">Euro taucht im Währungskrieg zum Dollar ab</a></h4> <div> <a href="/finanzen/euro--auf-tauchgang-zum-starken-dollar-1.18507719" class="caption">
+ Finanzen
+ </a> <time datetime="2015-03-23 07:00:00" class="group"></time> </div> </article> </li> </ul> <ul id="tab-Empfohlen" class="accordion ui-tabs-hide"> <li> <article class="group" id="1.18507087"> <h4><a href="/panorama/alltagsgeschichten/grandiose-flut-am-mont-saint-michel-1.18507087">Grandiose Flut am Mont-Saint-Michel</a></h4> <div> <a href="/panorama/alltagsgeschichten/grandiose-flut-am-mont-saint-michel-1.18507087" class="caption">
+ Alltagsgeschichten
+ </a> <time datetime="2015-03-21 12:49:00" class="group"></time> </div> </article> </li><li> <article class="group" id=""> <h4><a href="/nzzas/nzz-am-sonntag/auf-entzug-ist-das-leben-nuechtern-ueberhaupt-auszuhalten-1.18507125">Ist das Leben nüchtern überhaupt auszuhalten?</a></h4> <div> <a href="/nzzas/nzz-am-sonntag/auf-entzug-ist-das-leben-nuechtern-ueberhaupt-auszuhalten-1.18507125" class="caption">
+ NZZ am Sonntag
+ </a> <time datetime="2015-03-22 01:00:00" class="group"></time> </div> </article> </li><li> <article class="group" id=""> <h4><a href="/nzzas/nzz-am-sonntag/guenther-jauch-sollte-entlassen-werden-1.18507272">Günther Jauch sollte entlassen werden</a></h4> <div> <a href="/nzzas/nzz-am-sonntag/guenther-jauch-sollte-entlassen-werden-1.18507272" class="caption">
+ NZZ am Sonntag
+ </a> <time datetime="2015-03-23 12:00:00" class="group"></time> </div> </article> </li><li> <article class="group" id="1.18507561"> <h4><a href="/feuilleton/tod-von-hans-erni-ein-naturtalent-1.18507561">Ein Naturtalent</a></h4> <div> <a href="/feuilleton/tod-von-hans-erni-ein-naturtalent-1.18507561" class="caption">
+ Feuilleton
+ </a> <time datetime="2015-03-22 16:13:00" class="group"></time> </div> </article> </li><li> <article class="group" id="1.18506788"> <h4><a href="/meinung/debatte/nacht-ueber-syrien-1.18506788">Nacht über Syrien</a></h4> <div> <a href="/meinung/debatte/nacht-ueber-syrien-1.18506788" class="caption">
+ Debatte
+ </a> <time datetime="2015-03-20 21:57:26" class="group"></time> </div> </article> </li><li style="display: none;"> <article class="group" id="1.18507628"> <h4><a href="/finanzen/wachsende-kluft-zwischen-den-kontinenten-1.18507628">Wachsende Kluft zwischen den Kontinenten</a></h4> <div> <a href="/finanzen/wachsende-kluft-zwischen-den-kontinenten-1.18507628" class="caption">
+ Finanzen
+ </a> <time datetime="2015-03-22 18:54:56" class="group"></time> </div> </article> </li><li style="display: none;"> <article class="group" id=""> <h4><a href="/meinung/debatte/europa--eine-frage-des-selbstbewusstseins-1.18507638">Eine Weltordnung ohne Europa</a></h4> <div> <a href="/meinung/debatte/europa--eine-frage-des-selbstbewusstseins-1.18507638" class="caption">
+ Debatte
+ </a> <time datetime="2015-03-23 05:30:00" class="group"></time> </div> </article> </li><li style="display: none;"> <article class="group" id=""> <h4><a href="/finanzen/euro--auf-tauchgang-zum-starken-dollar-1.18507719">Euro taucht im Währungskrieg zum Dollar ab</a></h4> <div> <a href="/finanzen/euro--auf-tauchgang-zum-starken-dollar-1.18507719" class="caption">
+ Finanzen
+ </a> <time datetime="2015-03-23 07:00:00" class="group"></time> </div> </article> </li><li style="display: none;"> <article class="group" id="1.18507741"> <h4><a href="/meinung/debatte/world-order-without-europe-1.18507741">A World Order without Europe?</a></h4> <div> <a href="/meinung/debatte/world-order-without-europe-1.18507741" class="caption">
+ Debatte
+ </a> <time datetime="2015-03-23 01:45:00" class="group"></time> </div> </article> </li><li style="display: none;"> <article class="group" id="1.18505421"> <h4><a href="/international/tote-bei-schuessen-in-restaurant-in-goeteborg-1.18505421">Tote bei Schiesserei in Göteborg</a></h4> <div> <a href="/international/tote-bei-schuessen-in-restaurant-in-goeteborg-1.18505421" class="caption">
+ International
+ </a> <time datetime="2015-03-19 04:58:00" class="group"></time> </div> </article> </li> </ul> <ul id="tab-Kommentiert" class="accordion ui-tabs-hide"> <li> <article class="group" id="1.18505102"> <h4><a href="/meinung/kommentare/ezb-ist-nicht-ganz-unschuldig-1.18505102">EZB ist nicht ganz unschuldig</a></h4> <div> <span class="inlineblock"><a href="/meinung/kommentare/ezb-ist-nicht-ganz-unschuldig-1.18505102#disqus_thread"><span><span>187</span> Kommentare</span></a></span> </div> </article> </li><li> <article class="group" id="1.18506232"> <h4><a href="/international/eu-haelt-druck-auf-putin-aufrecht-1.18506232">EU hält Druck auf Putin aufrecht</a></h4> <div> <span class="inlineblock"><a href="/international/eu-haelt-druck-auf-putin-aufrecht-1.18506232#disqus_thread"><span><span>151</span> Kommentare</span></a></span> </div> </article> </li><li> <article class="group" id="1.18506645"> <h4><a href="/international/europa/im-netz-der-russischen-propaganda-1.18506645">Im Netz der russischen Propaganda</a></h4> <div> <span class="inlineblock"><a href="/international/europa/im-netz-der-russischen-propaganda-1.18506645#disqus_thread"><span><span>92</span> Kommentare</span></a></span> </div> </article> </li><li> <article class="group" id=""> <h4><a href="/meinung/debatte/europa--eine-frage-des-selbstbewusstseins-1.18507638">Eine Weltordnung ohne Europa</a></h4> <div> <span class="inlineblock"><a href="/meinung/debatte/europa--eine-frage-des-selbstbewusstseins-1.18507638#disqus_thread"><span><span>59</span> Kommentare</span></a></span> </div> </article> </li><li> <article class="group" id="1.18507456"> <h4><a href="/nzzas/nzz-am-sonntag/junge-wenden-sich-von-europa-ab-1.18507456">Junge wenden sich von Europa ab</a></h4> <div> <span class="inlineblock"><a href="/nzzas/nzz-am-sonntag/junge-wenden-sich-von-europa-ab-1.18507456#disqus_thread"><span><span>29</span> Kommentare</span></a></span> </div> </article> </li><li style="display: none;"> <article class="group" id="1.18506906"> <h4><a href="/meinung/kommentare/balkanisierung-des-bankgeschaefts-1.18506906">Balkanisierung des Bankgeschäfts</a></h4> <div> <span class="inlineblock"><a href="/meinung/kommentare/balkanisierung-des-bankgeschaefts-1.18506906#disqus_thread"><span><span>26</span> Kommentare</span></a></span> </div> </article> </li><li style="display: none;"> <article class="group" id=""> <h4><a href="/nzzas/nzz-am-sonntag/guenther-jauch-sollte-entlassen-werden-1.18507272">Günther Jauch sollte entlassen werden</a></h4> <div> <span class="inlineblock"><a href="/nzzas/nzz-am-sonntag/guenther-jauch-sollte-entlassen-werden-1.18507272#disqus_thread"><span><span>26</span> Kommentare</span></a></span> </div> </article> </li><li style="display: none;"> <article class="group" id="1.18507642"> <h4><a href="/meinung/kolumnen/morgenland/tel-aviv-wird-zur-bedrohten-enklave-1.18507642">Tel Aviv wird zur bedrohten Enklave</a></h4> <div> <span class="inlineblock"><a href="/meinung/kolumnen/morgenland/tel-aviv-wird-zur-bedrohten-enklave-1.18507642#disqus_thread"><span><span>23</span> Kommentare</span></a></span> </div> </article> </li><li style="display: none;"> <article class="group" id=""> <h4><a href="/international/europa/mit-waffen-gegen-reformen-1.18508096">Mit Waffen gegen Reformen</a></h4> <div> <span class="inlineblock"><a href="/international/europa/mit-waffen-gegen-reformen-1.18508096#disqus_thread"><span><span>19</span> Kommentare</span></a></span> </div> </article> </li><li style="display: none;"> <article class="group" id="1.18507644"> <h4><a href="/international/europa/es-ist-wichtig-dass-diese-wunde-nicht-weiter-schwaert-1.18507644">«Es ist wichtig, dass diese Wunde nicht weiter schwärt»</a></h4> <div> <span class="inlineblock"><a href="/international/europa/es-ist-wichtig-dass-diese-wunde-nicht-weiter-schwaert-1.18507644#disqus_thread"><span><span>7</span> Kommentare</span></a></span> </div> </article> </li> </ul> <div class="twisty"> <!-- Hide/display appropriate Twisty via JavaScript: --> <a class="expand" href="#">Mehr anzeigen</a> </div> </section> <section class="teaser relatedTopics"> <a href="/schweiz/wintertourismus/"><span class="teaserH2">Wintertourismus</span></a> <ul> <li> <article> <header> <h4><a href="/schweiz/wintertourismus/">Bedrohung der Skiorte</a></h4> <p><a href="/schweiz/wintertourismus/"><span class="caption">Neue Konzepte im weissen Paradies</span></a></p> </header> <figure> <a href="/schweiz/wintertourismus/"> <img src="http://images.nzz.ch/eos/v2/image/view/281/158/teaserPictureText/outbound/eb3db4ba/1.18449494/1419243965/ski.jpg" width="281" height="158" alt=""/> </a> </figure> <p> <a href="/schweiz/wintertourismus/">Im Wintertourismus wird der Wettbewerb härter. Auch traditionelle Schweizer Skiorte sind bedroht. Klimawandel, veränderte Kundenbedürfnisse und die Konkurrenz aus dem Ausland machen neue Konzepte notwendig. Die NZZ zeigt in loser Folge, wie Schweizer Ferienorte reagieren.
+ <span class="more">Mehr</span> </a> </p> </article> </li> </ul> </section> <section class="teaser relatedTopics"> <a href="http://www.nzz.ch/spezial/chronik-2014/"><span class="teaserH2">Jahresrück- und Ausblick</span></a> <ul> <li> <article> <header> <h4><a href="http://www.nzz.ch/spezial/chronik-2014/">Wie war 2014? Was erwartet uns 2015?</a></h4> <p><a href="http://www.nzz.ch/spezial/chronik-2014/"><span class="caption">NZZ-Chronik</span></a></p> </header> <figure> <a href="http://www.nzz.ch/spezial/chronik-2014/"> <img src="http://images.nzz.ch/eos/v2/image/view/281/158/teaserPictureText/outbound/db885c61/1.18451231/1419610076/teaser-jahresrueckblick.jpg" width="281" height="158" alt=""/> </a> </figure> <p> <a href="http://www.nzz.ch/spezial/chronik-2014/">Die NZZ analysiert die wichtigsten Ereignisse des Jahres und wagt einen Blick in die Zukunft.
+ <span class="more">Mehr</span> </a> </p> </article> </li> </ul> </section> <div class="advertisement" id="ad_351444250" style="display: none;"> <p>Anzeige</p> <script type="text/javascript">
+ NZZ.showMultiAd('2945473', 'ad_351444250');
+ </script> </div> <div class="featurebox-container group"> <article class="featurebox"> <figure class="featurebox__fig"> <a class="featurebox__fig-link" href="/schweiz/arabischer-terror-in-der-schweiz-4-1.18450914"> <img src="http://images.nzz.ch/eos/v2/image/view/311/414/featureBoxPortrait/outbound/c57f038d/1.18451618/1419704728/arabischer-terror-in-der-schweiz-ts-4.jpg" width="311" height="414" class="featurebox__fig-img" alt="Als die Welt den Atem anhielt"/> </a> </figure> <div class="featurebox__caption"> <h3 class="featurebox__minititle"> <a class="featurebox__minititle-link inline-block catchline" href="/schweiz/arabischer-terror-in-der-schweiz-4-1.18450914" title="Arabischer Terror in der Schweiz (4/4)">
+ Arabischer Terror in der Schweiz (4/4)
+ </a> </h3> <h2 class="featurebox__title"> <a class="featurebox__title-link teaser-title" href="/schweiz/arabischer-terror-in-der-schweiz-4-1.18450914" title="Arabischer Terror in der Schweiz (4/4)">
+ Als die Welt den Atem anhielt
+ </a> </h2> <p class="featurebox__excerpt">Am «Skyjack Sunday» im September 1970 werden mehrere Flugzeuge nach Zerqa in die jordanische Wüste entführt.
+ <a title="Arabischer Terror in der Schweiz (4/4)" href="/schweiz/arabischer-terror-in-der-schweiz-4-1.18450914" class="more">Mehr</a> </p> </div> </article> </div> <section class="teaser relatedTopics"> <a href="http://news.jobs.nzz.ch/magazin/karriere/"><span class="teaserH2">Karriere</span></a> <ul> <li> <article> <header> <h4><a href="http://news.jobs.nzz.ch/magazin/karriere/">Multitasking</a></h4> <p><a href="http://news.jobs.nzz.ch/magazin/karriere/"><span class="caption">Immer schön der Reihe nach</span></a></p> </header> <figure> <a href="http://news.jobs.nzz.ch/magazin/karriere/"> <img src="http://images.nzz.ch/eos/v2/image/view/281/158/teaserPictureText/outbound/6bf7eca5/1.18499989/1426078618/jobsnzzch.jpg" width="281" height="158" alt=""/> </a> </figure> <p> <a href="http://news.jobs.nzz.ch/magazin/karriere/">Dass Multitasking der Konzentrationsfähigkeit schadet, ist schon länger bekannt. Neuer Forschung zufolge, soll es sogar unseren IQ verringern.
+ <span class="more">Mehr</span> </a> </p> </article> </li> </ul> </section> <div class="featurebox-container group"> <article class="featurebox"> <figure class="featurebox__fig"> <a class="featurebox__fig-link" href="/schweiz/ungleiches-gezwitscher-aus-dem-parlament-1.18378048"> <img src="http://images.nzz.ch/eos/v2/image/view/311/414/featureBoxPortrait/outbound/685324a0/1.18380094/1410254418/teaser-twitter-im-parlament-2.png" width="311" height="414" class="featurebox__fig-img" alt="Twitter-Vernetzung"/> </a> </figure> <div class="featurebox__caption"> <h3 class="featurebox__minititle"> <a class="featurebox__minititle-link inline-block catchline" href="/schweiz/ungleiches-gezwitscher-aus-dem-parlament-1.18378048" title="Gezwitscher im Parlament">
+ Gezwitscher im Parlament
+ </a> </h3> <h2 class="featurebox__title"> <a class="featurebox__title-link teaser-title" href="/schweiz/ungleiches-gezwitscher-aus-dem-parlament-1.18378048" title="Gezwitscher im Parlament">
+ Twitter-Vernetzung
+ </a> </h2> <p class="featurebox__excerpt">92 von 246 Parlamentariern sind auf dem Kurznachrichtendienst Twitter aktiv.
+ <a title="Gezwitscher im Parlament" href="/schweiz/ungleiches-gezwitscher-aus-dem-parlament-1.18378048" class="more">Mehr</a> </p> </div> </article> </div> <div class="featurebox-container group"> <article class="featurebox"> <figure class="featurebox__fig"> <a class="featurebox__fig-link" href="http://opfer-taeter-held.nzz.ch" target=&quot;_blank&quot;> <img src="http://images.nzz.ch/eos/v2/image/view/311/414/featureBoxPortrait/outbound/35b0dd17/1.18415146/1414683901/teaser-opfer-taeter-naef.jpg" width="311" height="414" class="featurebox__fig-img" alt="Opfer, Täter, Held"/> </a> </figure> <div class="featurebox__caption"> <h3 class="featurebox__minititle"> <a class="featurebox__minititle-link inline-block catchline" href="http://opfer-taeter-held.nzz.ch" title="Grenzsoldat Erwin Naef" target=&quot;_blank&quot;>
+ Grenzsoldat Erwin Naef
+ </a> </h3> <h2 class="featurebox__title"> <a class="featurebox__title-link teaser-title" href="http://opfer-taeter-held.nzz.ch" title="Grenzsoldat Erwin Naef" target=&quot;_blank&quot;>
+ Opfer, Täter, Held
+ </a> </h2> <p class="featurebox__excerpt">Im Herbst 1943 berichtet der Oberleutnant seiner Frau in Briefen von den Erlebnissen an der Schweizer Südgrenze.
+ <a title="Grenzsoldat Erwin Naef" href="http://opfer-taeter-held.nzz.ch" class="more" target=&quot;_blank&quot;>Mehr</a> </p> </div> </article> </div> <section class="teaser relatedTopics"> <a href="http://www.nzz.ch/aktuell/spezial/100-jahre-schweizer-nationalpark/"><span class="teaserH2">100 Jahre Nationalpark</span></a> <ul> <li> <article> <header> <h4><a href="http://www.nzz.ch/aktuell/spezial/100-jahre-schweizer-nationalpark/">Labor und Touristenziel</a></h4> <p><a href="http://www.nzz.ch/aktuell/spezial/100-jahre-schweizer-nationalpark/"><span class="caption">Eine Serie zur Ikone des Schweizer Naturschutzes</span></a></p> </header> <figure> <a href="http://www.nzz.ch/aktuell/spezial/100-jahre-schweizer-nationalpark/"> <img src="http://images.nzz.ch/eos/v2/image/view/281/158/teaserPictureText/outbound/6e54635c/1.18306369/1400595983/nationalpark.jpg" width="281" height="158" alt=""/> </a> </figure> <p> <a href="http://www.nzz.ch/aktuell/spezial/100-jahre-schweizer-nationalpark/">Die Schweiz war Pionierin, als sie 1914 den Nationalpark gründete. Das streng geschützte Gebiet ist Freiluftlabor für Wissenschafter und Ziel für Touristen.
+ <span class="more">Mehr</span> </a> </p> </article> </li> </ul> </section> <section class="teaser relatedTopics"> <a href="http://news.jobs.nzz.ch/magazin/persoenlich/33-fragen/"><span class="teaserH2">33 Fragen an</span></a> <ul> <li> <article> <header> <h4><a href="http://news.jobs.nzz.ch/magazin/persoenlich/33-fragen/">Walter Trösch</a></h4> <p><a href="http://news.jobs.nzz.ch/magazin/persoenlich/33-fragen/"><span class="caption">Walter Trösch, Inhaber Swiss Holiday Park AG, Morschach</span></a></p> </header> <figure> <a href="http://news.jobs.nzz.ch/magazin/persoenlich/33-fragen/"> <img src="http://images.nzz.ch/eos/v2/image/view/281/158/teaserPictureText/outbound/891bf7f0/1.18508056/1427105831/jobsnzzch-33-fragen-walter-troesch.jpg" width="281" height="158" alt=""/> </a> </figure> <p> <a href="http://news.jobs.nzz.ch/magazin/persoenlich/33-fragen/">«Die Globalisierung bringt Transparenz»
+ <span class="more">Mehr</span> </a> </p> </article> </li> </ul> </section> <section class="teaser relatedTopics"> <a href="http://www.nzz.ch/wissenschaft/bildung/sonderbeilage-weiterbildung/"><span class="teaserH2">Sonderbeilage</span></a> <ul> <li> <figure class="shortteaser"> <a href="http://www.nzz.ch/wissenschaft/bildung/sonderbeilage-weiterbildung/"> <img src="http://images.nzz.ch/eos/v2/image/view/281/158/teaserPictureText/outbound/c68eaad3/1.18334506/1417018785/kommunikation-teaser.png" width="281" height="158" alt=""/> </a> <figcaption> <h2><a href="http://www.nzz.ch/wissenschaft/bildung/sonderbeilage-weiterbildung/">Weiterbildung und Karriere</a></h2> </figcaption> </figure> </li> </ul> </section> <section class="teaser relatedTopics"> <a href="http://news.jobs.nzz.ch/magazin/work-2-0/"><span class="teaserH2">Work 2.0</span></a> <ul> <li> <article> <header> <h4><a href="http://news.jobs.nzz.ch/magazin/work-2-0/">Fehlgeleitete Generation Y</a></h4> <p><a href="http://news.jobs.nzz.ch/magazin/work-2-0/"><span class="caption">Selbst konservativste Unternehmen diskutieren inzwischen, wie sie sich Gen-Y-fit machen.</span></a></p> </header> <figure> <a href="http://news.jobs.nzz.ch/magazin/work-2-0/"> <img src="http://images.nzz.ch/eos/v2/image/view/281/158/teaserPictureText/outbound/18863418/1.18495052/1425465757/jobsnzzch-work20-generation-y.jpg" width="281" height="158" alt=""/> </a> </figure> <p> <a href="http://news.jobs.nzz.ch/magazin/work-2-0/">Sie sehen Arbeit als kurzfristige Unterbrechung ihrer Ferien und Weltreise-Sabbaticals. Sie lassen sich nicht mehr so einfach «herumkommandieren» und machen nur das, was ihnen Spass bereitet und Sinn vermittelt.
+ <span class="more">Mehr</span> </a> </p> </article> </li> </ul> </section> <section class="teaser relatedTopics"> <a href="http://trauer.nzz.ch/"><span class="teaserH2">Das Trauerportal der NZZ</span></a> <ul> <li> <figure class="shortteaser"> <a href="http://trauer.nzz.ch/"> <img src="http://images.nzz.ch/eos/v2/image/view/281/158/teaserPictureText/outbound/51139f88/1.18333710/1404131682/teaser-trauer.jpg" width="281" height="158" alt=""/> </a> <figcaption> <h2><a href="http://trauer.nzz.ch/">trauer.nzz.ch</a></h2> </figcaption> </figure> </li> </ul> </section> <iframe width="310" height="570" frameborder="0" src="http://co.scout24.ch/co/is24/smartea/nzz/startseite/de/" scrolling="no" style="margin-bottom: 20px;"></iframe> <div class="featurebox-container group"> <article class="featurebox"> <figure class="featurebox__fig"> <a class="featurebox__fig-link" href="http://www.nzz.ch/spezial/lobbying-im-bundeshaus/"> <img src="http://images.nzz.ch/eos/v2/image/view/311/414/featureBoxPortrait/outbound/b55e86b2/1.18255300/1393866340/ts-lobbying-grafik-1.jpg" width="311" height="414" class="featurebox__fig-img" alt="Lobbying in Bern"/> </a> </figure> <div class="featurebox__caption"> <h3 class="featurebox__minititle"> <a class="featurebox__minititle-link inline-block catchline" href="http://www.nzz.ch/spezial/lobbying-im-bundeshaus/" title="Interaktive Grafik">
+ Interaktive Grafik
+ </a> </h3> <h2 class="featurebox__title"> <a class="featurebox__title-link teaser-title" href="http://www.nzz.ch/spezial/lobbying-im-bundeshaus/" title="Interaktive Grafik">
+ Lobbying in Bern
+ </a> </h2> <p class="featurebox__excerpt">Hunderte Personen haben einen Badge zum Bundeshaus, ohne dass sie angeben müssen, welche Interessen sie vertreten. Die NZZ schafft Transparenz.
+ <a title="Interaktive Grafik" href="http://www.nzz.ch/spezial/lobbying-im-bundeshaus/" class="more">Mehr</a> </p> </div> </article> </div> </aside> </div> <!-- END div#main --> <div id="fancybox" ajax-url="/login" logout-url="/logout"></div> <div class="metanav-panel" id="level0nav"> <div class="metanav" id="productnav"> <nav class="level0menu"> <ul class="level0menu__list"> <li class="level0menu__item"> <a class="level0menu__item-link" href="http://jobs.nzz.ch">Jobs</a> </li><li class="level0menu__item"> <a class="level0menu__item-link" href="http://nzzdomizil.ch">Immo</a> </li><li class="level0menu__item"> <a class="level0menu__item-link" href="http://trauer.nzz.ch">Trauer</a> </li><li class="level0menu__item"> <a class="level0menu__item-link" href=" http://ebalance.ch">eBalance</a> </li><li class="level0menu__item"> <a class="level0menu__item-link" href="/marktplaetze/services/">Services</a> </li><li class="level0menu__item"><a class="level0menu__item-link shopsoverlay" href="#shopsoverlay">Shops</a> <div id="shopsoverlay" class="overlay group"> <div class="group"> <div> <h4>NZZ-Shops</h4> <ul> <li><a href="http://www.nzz.ch/aktuell/startseite/nzz-shop-1.11741293" title="NZZ Shop">NZZ Shop</a></li><li><a href="http://www.nzz-kollektion.ch/de/aktuell.php" target="_blank" title="NZZ Kollektion">NZZ Kollektion</a></li><li><a href="http://www.nzz.ch/archiv" target="_blank" title="NZZ Archiv">NZZ Archiv</a></li><li><a href="http://tvnzzshop.ch" target="_blank" title="NZZ Format">NZZ Format</a></li><li><a href="http://www.nzzlibro.ch" target="_blank" title="NZZ Libro">NZZ Libro</a></li><li><a href="http://www.nzzfolio.ch" target="_blank" title="NZZ Folio">NZZ Folio</a></li><li><a href="http://www.nzzamsonntag-wein.nzz.ch" target="_blank" title="NZZ am Sonntag Wein">NZZ am Sonntag Wein</a></li><li><a href="http://shop.ebalance.ch" target="_blank" title="eBalance.ch Shop">eBalance.ch Shop</a></li> </ul> </div> <div> <h4>Kooperationen</h4> <ul> <li><a href="http://www.nzz.ch/marktplaetze/onlineshop/damen-und-herren-mode/" target="_blank" title="Damen und Herren Mode">Damen und Herren Mode</a></li><li><a href="http://kauftipp.nzz.ch/" target="_blank" title="Kauftipp">Kauftipp</a></li><li><a href="http://www.nzz.ch/marktplaetze/onlineshop/lederwaren/" target="_blank" title="Lederwaren">Lederwaren</a></li><li><a href="http://www.nzz.ch/marktplaetze/webshops/parfuem/" target="_blank" title="Parfüm">Parfüm</a></li><li><a href="http://www.nzz.ch/marktplaetze/onlineshop/fotoservice/" target="_blank" title="Fotoservice">Fotoservice</a></li><li><a href="http://www.nzz.ch/marktplaetze/webshops/reisen/" target="_blank" title="Reisen">Reisen</a></li><li><a href="http://www.nzz.ch/marktplaetze/onlineshop/teppiche/" target="_blank" title="Teppiche">Teppiche</a></li><li><a href="http://www.nzz.ch/marktplaetze/webshops/wein/" target="_blank" title="Wein">Wein</a></li> </ul> </div> </div> </div> </li> </ul> </nav> </div> <div class="metanav" id="mynzznav" src="/account-menu"> <nav class="level0menu"> <ul class="level0menu__list">
+    <li class="level0menu__item"><a class="level0menu__item-link" href="#abos">Abo</a>
+<div id="abos" class="overlay group">
+    <div class="group">
+        <div>
+            <h4>Abo bestellen</h4>
+            <ul>
+                <li><a href="https://abo.nzz.ch/index.htm">Übersicht</a></li>
+                <li><a href="https://abo.nzz.ch/abonnemente/Studentenabos.htm">Studentenabos</a></li>
+                <li><a href="https://abo.nzz.ch/abonnemente/Geschenkabos.htm">Geschenkabos</a></li>
+                <!--    <li><a href="#">NZZ im Ausland</a></li> -->
+            </ul>
+            <p>&nbsp;</p>
+            <h4>Leserservice</h4>
+            <ul>
+                <li><a href="/faq/">Häufige Fragen</a></li>
+                <li><a href="/faq/kontakt">Kontakt</a></li>
+            </ul>
+        </div>
+        <div>
+            <h4>NZZ-Benutzerkonto</h4>
+            <ul>
+                <li><a href="https://abo.nzz.ch/lesermarkt/abo/verwalten/meineAbos.htm">Meine Abos</a></li>
+                <li><a href="https://abo.nzz.ch/lesermarkt/meinedaten/meineDaten.htm">Meine Daten</a></li>
+            </ul>
+                            <p>Um diese Funktion nutzen zu können, melden Sie sich bitte an.</p>
+                <a href="https://abo.nzz.ch/lesermarkt/meinedaten/meineDaten.htm" class="button"><span>Anmelden</span></a>
+                <a href="https://abo.nzz.ch/lesermarkt/register.htm" class="button"><span>Registrieren</span></a>
+                    </div>
+    </div>
+</div></li>
+    <li class="level0menu__item"><a class="level0menu__item-link" href="#angebote">Angebote</a>
+<div id="angebote" class="overlay group">
+    <div class="group">
+        <div>
+            <h4>Angebotsübersicht</h4>
+            <ul>
+                <li><a href="https://abo.nzz.ch/produkte/zeitungen.htm" title="Zeitungen">Zeitungen</a></li>
+                <li><a href="https://abo.nzz.ch/produkte/zeitschriften.htm" title="Zeitschriften">Zeitschriften</a></li>
+                <li><a href="https://abo.nzz.ch/produkte/buecher.htm" title="Bücher">Bücher</a></li>
+                <li><a href="https://abo.nzz.ch/produkte/digitale_medien.htm" title="Digitale Medien">Digitale Medien</a></li>
+                <li><a href="https://abo.nzz.ch/produkte/film_und_fernsehen.htm" title="Film und Fernsehen">Film und Fernsehen</a></li>
+                <li><a href="https://abo.nzz.ch/produkte/konferenzen.htm" title="Konferenzen">Konferenzen</a></li>
+                <li><a href="https://abo.nzz.ch/produkte/dienstleistungen.htm" title="Dienstleistungen">Dienstleistungen</a></li>
+                <li><a href="http://www.nzz.ch/aktuell/startseite/nzz-shop-1.11741293" title="NZZ Shops">NZZ Shops</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+</li>
+    <li class="level0menu__item">
+        <a class="level0menu__item-link" href="#faq">Hilfe</a>
+<div id="faq" class="overlay group">
+  <div class="group">
+    <div>
+      <h4>Hilfe & Kontakt</h4>
+      <ul>
+        <li><a href="/faq/">Häufig gestellte Fragen</a></li>
+        <li><a href="/faq/kontakt">Kontakt</a></li>
+      </ul>
+    </div>
+  </div>
+</div>    </li>
+                                    <li class="level0menu__item"><a class="level0menu__item-link level0menu__item-link_login" href="#login">Login</a>
+<div id="login" class="overlay clearfix">
+    <div class="nzz-login">
+        <h4>Vorteile für registrierte Mitglieder:</h4>
+        <ul class="mynzz-features__list">
+    <li class="mynzz-features__item">
+        <a class="mynzz-features__link mynzz-features__link-profil" href="https://abo.nzz.ch/lesermarkt/meinedaten/meineDaten.htm">
+            <h4>NZZ-Benutzerkonto</h4>
+            <p>Verwalten Sie hier Ihre Zugangsdaten und Abonnemente.</p>
+        </a>
+    </li>
+        <li class="mynzz-features__item">
+        <a class="mynzz-features__link mynzz-features__link-newsletter" href="https://abo.nzz.ch/lesermarkt/meinedaten/meineNewsletter.htm">
+            <h4>Meine Newsletter</h4>
+            <p>Verwalten Sie hier Ihre Newsletter-Abos.</p>
+        </a>
+    </li>
+</ul>    </div>
+    <div class="mynzz-login">
+        <h4>Anmelden</h4>
+                <form action="https://cas.nzz.ch/cas/login" method="post" class="group mynzz-login__form" id="flyoutLoginForm" target="loginCheck">
+            <label for="_username" class="mynzz-login__form-label">Benutzername:</label><input type="text" name="username" id="_username" value="">
+            <label for="_password" class="mynzz-login__form-label">Passwort:</label><input type="password" name="password" id="_password" value="">
+            <input type="hidden" name="gateway" value="true" />
+            <input type="hidden" name="service" value="http://www.nzz.ch/blank.gif" />
+            <label class="checkbox ui-checkbox mynzz-login__form-label">
+                <input type="checkbox" name="rememberMe" value="true" class="ui-helper-hidden-accessible" checked> Angemeldet bleiben
+            </label>
+            <button type="submit" id="flyoutLoginButton" class="mynzz-login__form-button"><span class="overlayLoginButton">Anmelden</span></button>
+        </form>
+        <p id="cookie-enabled" style="display:none">Anmelden nicht möglich - Cookies sind deaktiviert</p>
+        <a href="https://abo.nzz.ch/framework/register/resetPasswordMail.htm" class="overlayTextRegistration mynzz-login__passrecovery">Sie haben Ihr <span>Passwort</span> vergessen?</a>
+        <h3>Registration</h3>
+        <p id="overlayTextPadding" class="loginErrorMessage"><span class="overlayTextRegistration">Wenn Sie noch kein NZZ-Benutzerkonto haben, können Sie sich hier registrieren:</span></p>
+        <span class="loginOverlayButtons">
+            <a id="button_mehr" class="button" href="/faq/registration"><span>Mehr Informationen</span></a>
+            <a id="button_jetzt" class="button" href="https://abo.nzz.ch/lesermarkt/register.htm"><span>Jetzt registrieren</span></a>
+        </span>
+    </div>
+</div></li>
+            <li class="level0menu__item">
+        <a class="level0menu__item-link level0menu__item-link_search" href="/search">Suchen</a>
+    </li>
+</ul>
+ </nav> </div> </div> <div id="products"> <aside class="group"> <div id="tab-products"> <a href="#" title="zurück blättern" class="arrow left ir block">&larr;</a> <div class="overflow"> <ul class="carrousel"> <li> <a href="https://abo.nzz.ch/abodetail/neue-zurcher-zeitung.htm" tabindex="-1"><img src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/jpg/footer-products/nzz-ch-footer-neue-zuercher-zeitung.jpg" alt="Neue Zürcher Zeitung" width="228" height="269"/><br/>Profitieren Sie von bestem Journalismus mit einem Abo der "Neuen Zürcher Zeitung". <span class="more">Details und Abo bestellen</span></a></li><li> <a href="https://abo.nzz.ch/abodetail/nzz-am-sonntag.htm" tabindex="-1"><img src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/jpg/footer-products/nzz-ch-footer-nzz-am-sonntag.jpg" alt="NZZamSonntag" width="228" height="269"/><br/>Journalistische Qualität und sonntäglicher Lesegenuss jede Woche mit einem Abo der "NZZ am Sonntag". <span class="more">Details und Abo bestellen</span></a></li><li> <a href="https://abo.nzz.ch/abodetail/nzz-kombiabo.htm" tabindex="-1"><img src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/jpg/footer-products/nzz-ch-footer-nzz-kombiabo.jpg" alt="NZZ Kombiabo" width="228" height="269"/><br/>7 Tage bestens informiert mit dem Kombiabo der «Neuen Zürcher Zeitung» und der «NZZ am Sonntag». <span class="more">Details und Abo bestellen</span></a></li><li> <a href="https://abo.nzz.ch/abodetail/internationale-ausgabe.htm" tabindex="-1"><img src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/jpg/footer-products/nzz-ch-footer-internationale-ausgabe.jpg" alt="Internationale Ausgabe" width="228" height="269"/><br/>Bilden Sie sich täglich Ihre Meinung anhand der unabhängigen Stimme aus der Schweiz: mit einem Auslandsabo der «Neuen Zürcher Zeitung». <span class="more">Details und Abo bestellen</span></a></li><li> <a href="https://abo.nzz.ch/abodetail/folio.htm" tabindex="-1"><img src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/gif/blank.gif" src-data="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/jpg/footer-products/nzz-ch-footer-folio.jpg" alt="NZZ Folio" width="228" height="269"/><br/>Das Monatsmagazin zur «Neuen Zürcher Zeitung» im Einzel-Abo. <span class="more">Details und Abo bestellen</span></a></li><li> <a href="http://campus.nzz.ch" tabindex="-1"><img src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/gif/blank.gif" src-data="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/jpg/footer-products/nzz-ch-footer-campus.jpg" alt="NZZ Folio" width="228" height="269"/><br/>«NZZ Campus» bietet Studierenden im Web, auf Social Media und als Heft Wissenswertes und Unterhaltsames für den Alltag. <span class="more">Lernen Sie das digitale Magazin kennen.</span></a></li><li> <a href="https://abo.nzz.ch/abodetail/tv-star.htm" tabindex="-1"><img src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/gif/blank.gif" src-data="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/i/jpg/footer-products/nzz-ch-footer-tvstar.jpg" alt="TV Star" width="228" height="269"/><br/>Das Fernsehmagazin für NZZ-Abonnenten zum reduzierten Abo-Preis. <span class="more">Details und Abo bestellen</span></a></li> </ul> </div> <a href="#" class="arrow right ir block" title="vorwärts blättern">&rarr;</a> </div> </aside> </div> <!-- END div#products --> <div id="sitemap"> <nav class="grid"> <div class="group"> <div class="sizeXs"> <h4>Abo</h4> <ul> <li><a title="Übersicht" href="https://abo.nzz.ch/index.htm">Übersicht</a></li><li><a title="Studentenabos" href="https://abo.nzz.ch/abonnemente/Studentenabos.htm">Studentenabos</a></li><li><a title="Geschenkabos" href="https://abo.nzz.ch/abonnemente/Geschenkabos.htm">Geschenkabos</a></li><li><a title="Meine Abos" href="https://abo.nzz.ch/lesermarkt/abo/verwalten/meineAbos.htm">Meine Abos</a></li><li><a title="Meine Daten" href="https://abo.nzz.ch/lesermarkt/meinedaten/meineDaten.htm">Meine Daten</a></li><li><a title="Leserservice" href="/faq/kontakt">Leserservice</a></li> </ul> </div> <div class="sizeXs"> <h4>Angebote</h4> <ul class="sizeXs"> <li><a title="Zeitungen" href="https://abo.nzz.ch/produkte/zeitungen.htm">Zeitungen</a></li><li><a title="Zeitschriften" href="https://abo.nzz.ch/produkte/zeitschriften.htm">Zeitschriften</a></li><li><a title="Bücher" href="https://abo.nzz.ch/produkte/buecher.htm">Bücher</a></li><li><a title="Digitale Medien" href="https://abo.nzz.ch/produkte/digitale_medien.htm">Digitale Medien</a></li><li><a title="Film und Fernsehen" href="https://abo.nzz.ch/produkte/film_und_fernsehen.htm">Film und Fernsehen</a></li><li><a title="Konferenzen" href="https://abo.nzz.ch/produkte/konferenzen.htm">Konferenzen</a></li><li><a title="Dienstleistungen" href="https://abo.nzz.ch/produkte/dienstleistungen.htm">Dienstleistungen</a></li><li><a title="NZZ Shops" href="http://www.nzz.ch/aktuell/startseite/nzz-shop-1.11741293">NZZ Shops</a></li> </ul> </div> <div class="sizeXs"> <h4>NZZ-Shops</h4> <ul class="sizeXs"> <li><a href="http://www.nzz.ch/aktuell/startseite/nzz-shop-1.11741293" title="NZZ Shop">NZZ Shop</a></li><li><a href="http://www.nzz-kollektion.ch/de/aktuell.php" target="_blank" title="NZZ Kollektion">NZZ Kollektion</a></li><li><a title="NZZ Archiv" target="_blank" href="http://www.nzz.ch/archiv">NZZ Archiv</a></li><li><a title="NZZ Format" target="_blank" href="http://tvnzzshop.ch">NZZ Format</a></li><li><a title="NZZ Libro" target="_blank" href="http://www.nzzlibro.ch">NZZ Libro</a></li><li><a title="NZZ Folio" target="_blank" href="http://www.nzzfolio.ch">NZZ Folio</a></li><li><a title="NZZ am Sonntag Wein" target="_blank" href="http://www.nzzamsonntag-wein.nzz.ch">NZZ am Sonntag Wein</a></li><li><a title="eBalance.ch Shop" target="_blank" href="http://shop.ebalance.ch">eBalance.ch Shop</a></li> </ul> </div> <div class="sizeXs"> <h4>Marktplätze</h4> <ul> <li><a title="jobs.NZZ.ch" href="http://jobs.nzz.ch">jobs.NZZ.ch</a></li><li><a title="NZZ Domizil" href="http://www.nzzdomizil.ch">NZZ Domizil</a></li><li><a title="eBalance.ch" href="http://www.ebalance.ch">eBalance.ch</a></li><li><a title="Services" href="/marktplaetze/services/">Services</a></li><li><a title="Shops" href="/marktplaetze/onlineshop/">Shops</a></li> </ul> </div> <div class="sizeXs"> <h4>Wetter</h4> <ul> <li><a title="Aktuelles Wetter" href="/wetter/wetterbericht/">Aktuelles Wetter</a></li><li><a title="Niederschlagsradar" href="/wetter/radarbild/">Niederschlagsradar</a></li><li><a title="Satellitenbilder" href="/wetter/satellitenbilder/">Satellitenbilder</a></li><li><a title="Mittelfristprognose" href="/wetter/mittelfristprognose/">Mittelfristprognose</a></li><li><a title="Wetterstationen" href="/wetter/wetterstationen/">Wetterstationen</a></li><li><a title="Thermikprognose" href="/wetter/thermikprognose/">Thermikprognose</a></li><li><a title="Webcam" href="/wetter/webcam/">Webcam</a></li> </ul> </div> <div class="sizeXs"> <h4>NZZ Services</h4> <ul> <li><a title="Newsletter" href="https://abo.nzz.ch/abodetail/newsletter.htm">Newsletter</a></li><li><a title="RSS-Feeds" href="/rss">RSS-Feeds</a></li><li><a title="Bildschirmschoner" href="/bildschirmschoner">Bildschirmschoner</a></li><li><a title="Hilfe" href="/faq/">Hilfe</a></li><li><a title="Kontakt" href="/faq/kontakt">Kontakt</a></li> </ul> </div> </div> <ul class="group"> <li class="sizeXs"><a href="https://abo.nzz.ch/abodetail/newsletter.htm" class="mail" title="Newsletter">Newsletter</a></li><li class="sizeXs"><a href="/rss" class="rss" title="RSS-Feeds">RSS-Feeds</a></li><li class="sizeXs"><a href="/twitter" class="twitter" title="Twitter">Twitter</a></li><li class="sizeXs"><a href="/facebook" class="fb" title="Facebook">Facebook</a></li><li class="sizeXs last"><a href="https://plus.google.com/118094012157733055567/posts" class="gplus" title="Google+">Google+</a></li> </ul> </nav> </div> <!-- END div#sitemap --> <footer> <div class="footer-content"><a href="/" class="footerlogo ir block" title="NZZ Neue Zürcher Zeitung">Neue Z&uuml;rcher Zeitung</a><p> <a href="/agb" title="Neue Zürcher Zeitung AG">&copy; Neue Z&uuml;rcher Zeitung AG</a> - Alle Rechte vorbehalten &middot;
+ <a href="/faq/kontakt" title="Kontakt">Kontakt</a> &middot;
+ <a href="/impressum" title="Impressum">Impressum</a> &middot;
+ <a href="http://www.nzzwerbung.ch" title="Werbung (Print)">Werbung (Print)</a> &middot;
+ <a href="http://netz.nzz.ch" title="Werbung (Online)">Werbung (Online)</a> &middot;
+ <a href="/agb" title="AGB / Datenschutz">AGB / Datenschutz</a> &middot;
+ <a href="http://nzzmediengruppe.ch" title="Unternehmen">Unternehmen</a> &middot;
+ <a href="http://www.nzzmediengruppe.ch/stellen/" title="Offene Stellen">Offene Stellen</a> &middot;
+ Partner Portal: <a href="http://www.faz.net" title="FAZ.net">FAZ.net</a> </p> </div> </footer> <div class="print-footer onlyforprint">
+ COPYRIGHT &copy; NEUE ZÜRCHER ZEITUNG AG - ALLE RECHTE VORBEHALTEN. EINE WEITERVERARBEITUNG, WIEDERVERÖFFENTLICHUNG ODER DAUERHAFTE SPEICHERUNG ZU GEWERBLICHEN ODER ANDEREN ZWECKEN OHNE VORHERIGE AUSDRÜCKLICHE ERLAUBNIS VON NEUE ZÜRCHER ZEITUNG IST NICHT GESTATTET.
+ </div> <script type="text/javascript">
+ (function (wind) {
+ var NZZ;
+ NZZ = wind.NZZ || {};
+ NZZ.config = NZZ.config || {};
+ NZZ.config.images_host = NZZ.config.images_host || 'http://images.nzz.ch/eos/v2/image';
+ })(window);
+ </script> <script src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/js/2148271.js"></script> <script type="text/javascript" src="/version-3.3.1/b4bef41da6571d48751491c6dfb5b615/bundles/website/js/bundles.js"></script> <script type="text/javascript">
+                s.eVar8="";
+                s.eVar24="A";
+            </script> <script type="text/javascript" id="socialButtonScript" data-title="Gurlitt-Sammlung: Berner Kunstmuseum ist im Dilemma">
+ $('.shareButtons').socialSharePrivacy ({
+ services: {
+ 'layouts':{
+ 'floater': {
+ 'facebook': {
+ 'attribute': 'layout', 'value': 'button_count' }, 'twitter': {
+ 'attribute': 'count', 'value': 'horizontal' }, 'gplus': {
+ 'attribute': 'data-size', 'value': 'medium' } }, 'inline': {
+ 'facebook': {
+ 'attribute': 'layout', 'value': 'box_count' }, 'twitter': {
+ 'attribute': 'count', 'value': 'vertical' }, 'gplus': {
+ 'attribute': 'data-size', 'value': 'tall' } } },
+ 'facebook': {
+ 'action': 'recommend',
+ 'status' :"on",
+ 'shareCallback': NZZ.socialNetworks ? $.proxy(NZZ.socialNetworks.runSharingCallback, NZZ.socialNetworks) : null
+ }, 'twitter': {
+ 'action': 'tweet',
+ 'via': 'NZZ',
+ 'status' :"on",
+ 'shareCallback': NZZ.socialNetworks ? $.proxy(NZZ.socialNetworks.runSharingCallback, NZZ.socialNetworks) : null
+ }, 'gplus': {
+ 'language': 'de',
+ 'status' :"on",
+ 'shareCallback': NZZ.socialNetworks ? $.proxy(NZZ.socialNetworks.runSharingCallback, NZZ.socialNetworks) : null
+ }, 'active_layouts': {
+ '0': 'floater',
+ '1': 'inline',
+ } },
+ 'show_info': 'off'
+ });
+ </script> <!-- Google Analytics --> <script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-1925661-1']);
+ _gaq.push(['_trackPageview']);
+
+ (function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+ </script> <!-- /Google Analytics --> <!-- SZMFRABO VERSION="1.1" --> <script language="Javascript" type="text/javascript">var szmvars="nzz//CP//";</script> <script language="Javascript" type="text/javascript" src="http://nzz.wemfbox.ch/2004/01/survey.js"></script> <!-- /SZMFRABO --> <!-- Omniture social buttons tracker --> <script type="text/javascript">
+ omnitureService = {
+ s : null,
+ init : function () {
+ this.s = s_gi('nzzch');
+ return this;
+ },
+ parametrizeOmnitureBySkyBoxCounter : function (skyBoxElementCount) {
+ this.s.prop17 = skyBoxElementCount;
+ },
+ parametrizeOmnitureBySkyboxArticleName : function(rawArticleName) {
+ this.s.prop18 = this.transformArticleNameToUnderscore(rawArticleName);
+ },
+ transformArticleNameToUnderscore : function (rawArticleName) {
+ var cleanRawArticleName = rawArticleName.replace(/(\s){2,}/, ' ');
+ var articleNameArray = cleanRawArticleName.split(' ');
+ var articleNameArrayLwrCase = [];
+ for(var articleNameIndex in articleNameArray){
+ articleNameArrayLwrCase.push(articleNameArray[articleNameIndex].toLowerCase());
+ }
+ return articleNameArrayLwrCase.join('_');
+ },
+ parametrizeOmniture : function(socialIdentifier) {
+ this.s.linkTrackVars = 'eVar21';
+ this.s.eVar21 = socialIdentifier;
+ this.s.tl(this,'o', socialIdentifier);
+ },
+ parametrizeOmnitureByStandardTeaser : function (clickedObject) {
+ this.parametrizeOmnitureByTeaser(clickedObject, function(clickedObject, href, context) {
+ var hrefParsed = context.getParsedHref(href);
+ return hrefParsed.pageName + '|' + hrefParsed.guid + '|' + href;
+ });
+ },
+ parametrizeOmnitureByTabTeaser : function(clickedObject) {
+ this.parametrizeOmnitureByTeaser(clickedObject, function(clickedObject, href, context) {
+ var tab = $(clickedObject).parents('section.teaser').find('ul.tabs li.ui-state-active a');
+ var tabNumber = tab.attr('data-tab-number');
+ var hrefParsed = context.getParsedHref(href);
+
+ return hrefParsed.pageName + '|' + hrefParsed.guid + '|Tab' + tabNumber + '|' + href;
+ });
+ },
+ parametrizeOmnitureByTeaser : function(clickedObject, parseStrFunc) {
+ this.s.linkTrackVars = 'eVar17';
+ var href = clickedObject.getAttribute('href');
+ var evar17Fragment;
+ 
+ if(typeof parseStrFunc == "function") {
+ evar17Fragment = parseStrFunc(clickedObject, href, this);
+ }
+ this.s.eVar17 = evar17Fragment;
+ this.s.tl(this,'o',evar17Fragment);
+ document.location.href = href;
+ },
+ getParsedHref : function(href) {
+ var hrefArray = href.split('/');
+ var pageName = hrefArray.pop();
+ var pageNameArray = pageName.split('-');
+ var guid = pageNameArray.pop();
+
+ return {'pageName': pageName, 'guid': guid};
+ }
+ }
+
+ if(typeof s == 'object') {
+ var om = omnitureService.init();
+
+ $("#skybox .skybox-link").click(function(inst) {
+ var clickedObject = $(this);
+ var count = clickedObject.attr('data-count');
+ var rawArticleTitle = clickedObject.find('.skybox-title').text();
+ om.parametrizeOmnitureBySkyBoxCounter(count);
+ om.parametrizeOmnitureBySkyboxArticleName(rawArticleTitle);
+ window.location.href = clickedObject.attr('href');
+ });
+
+ $(".social-media-floater .notify").on("click", function () {
+ om.parametrizeOmniture('Merken');
+ });
+
+ $(".social-media-floater .print").on("click", function() {
+ om.parametrizeOmniture('Drucken');
+ });
+
+ $(".social-media-floater .mail").on("click", function () {
+ om.parametrizeOmniture('Email');
+ });
+
+
+ $("section.teaser.trends article.group a").on("click", function(event) {
+ event.preventDefault();
+ om.parametrizeOmnitureByTabTeaser(this);
+ });
+
+ var selectorsBunch = "ul.mndteaser-list article.group a, section.teaser.slideshows a,"
+ +" section.teaser.relatedTopics article a";
+ $(selectorsBunch).on("click", function(event) {
+ event.preventDefault();
+ om.parametrizeOmnitureByStandardTeaser(this);
+ });
+
+ if(typeof twttr == 'object') {
+ twttr.events.bind('click', function() {
+ om.parametrizeOmniture('Tweet');
+ });
+ }
+
+ $(document).on('social.fire.gplus', function() {
+ om.parametrizeOmniture('Googleplus');
+ });
+
+ var facebookEventHandler = {
+ checkIsAlreadyLoaded : function () {
+ var fbIframe = $('.shareButtons .facebook iframe');
+ if(fbIframe.length > 0) {
+ return true;
+ } else {
+ return false;
+ }
+ },
+ bindFBCallback : function () {
+ FB.Event.subscribe('edge.create', function () {
+ om.parametrizeOmniture('Facebook');
+ });
+ }
+ }
+ var intervalId = setInterval(function () {
+ if(facebookEventHandler.checkIsAlreadyLoaded()) {
+ facebookEventHandler.bindFBCallback();
+ clearInterval(intervalId);
+ }
+ }, 100);
+ }
+ </script> <!-- SiteCatalyst code version: H.24.2.
+ Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+ More info available at http://www.omniture.com --> <script language="JavaScript" type="text/javascript"><!--
+ 
+ 
+ 
+ s.server="http://www.nzz.ch";
+
+ s.channel="schweiz";
+ s.pageName="schweiz/gurlitt-sammlung-1.18429492";
+ 
+ /* Delivery channel */
+ s.prop1 = "nzz";
+
+ s.prop2 = "gurlitt-sammlung-1.18429492";
+ /* Page Type */
+ s.prop6="artikel";
+ /* WEMF category */
+ s.prop7="schweiz/gurlitt-sammlung-1.18429492";
+ /* Article Publikationsdatum */
+ s.prop8="21/11/2014";
+ /* Article authors */
+ s.prop9="stephanie_lahrtz,_daniel_gerny";
+ /* Article type */
+ s.prop11="nicht gesetzt";
+ /* Titletag */
+ s.prop16="Gurlitt-Sammlung: Berner Kunstmuseum ist im Dilemma - Schweiz Nachrichten - NZZ.ch";
+
+ /* shown only on article page */
+ s.eVar6="+1";
+ s.eVar16="+1";
+ s.events="event4";
+ 
+ /* Conversion Variables */
+
+ /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+ var s_code=s.t();if(s_code)document.write(s_code)//--></script> <script language="JavaScript" type="text/javascript"><!--
+ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+ //--></script><noscript><img src="http://nzz.d3.sc.omtrdc.net/b/ss/nzzch/1/H.24.2--NS/0"
+ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/--> <!-- End SiteCatalyst code version: H.24.2. --> <script type="text/javascript">
+ var NZZ = NZZ || {};
+ $(document).ready(function () {
+ });
+ showLoginForm = function () {
+ var logoutUrl = $('#fancybox').attr('logout-url') || '#';
+ $('select').selectmenu();
+ if (typeof NZZ.markArticle !== undefined && NZZ.markArticle.isAuthorised) {
+ $('#dsq-reply > #dsq-account-dropdown > a').attr('href', logoutUrl);
+ } else {
+ if (typeof NZZ.loginOverlay.authorisationLoginForm == "function") {
+ $('#dsq-reply > #dsq-account-dropdown > a').attr('href', '#').bind("click", NZZ.loginOverlay.authorisationLoginForm);
+ $("p.buttonbar > a.button > span").bind("click", NZZ.loginOverlay.authorisationLoginForm);
+ }
+ }
+ };
+ $("#articleBodyText div").contents()
+ .filter(function() { return this.nodeType === 3 && /\w+/.test(this.nodeValue); })
+ .wrap( "<p></p>" );
+ if ($('#articleBodyText').hasClass('reportage')) {
+ var frameWidth = $('#articleBodyText').find('p iframe');
+ frameWidth.each (function () {
+ if($(this).width() > 643) {
+ $(this).parent('p').css('width', '975px');
+ }
+ })
+ }
+ </script> <script type="text/javascript">
+ var mwa = document.createElement('script');
+ mwa.type = 'text/javascript'; mwa.async = true;
+ mwa.src = 'http://s300.meetrics.net/bb-mtrcs/mtrcs_nzz.js';
+ var n = document.getElementsByTagName('script')[0];
+ n.parentNode.insertBefore(mwa, n);
+ </script> <script type="text/javascript">
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script> </body> </html>

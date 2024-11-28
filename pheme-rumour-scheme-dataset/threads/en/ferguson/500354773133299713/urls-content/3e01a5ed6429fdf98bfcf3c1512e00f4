@@ -1,0 +1,969 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 01:17:49 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 109
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://trib.al/g5PuLQe
+Mime-Version: 1.0
+Set-Cookie: _bit=5510bb3d-00122-010dc-281cf10a;domain=.bit.ly;expires=Sun Sep 20 01:17:49 2015;path=/; HttpOnly
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html;charset=utf-8
+Date: Tue, 24 Mar 2015 01:17:49 GMT
+Location: http://www.complex.com/pop-culture/2014/08/ferguson-police-beating-wrong-arrest-henry-davis-2009-michael-brown?utm_campaign=complexmag%2Bsocialflow%2B08%2B2014&utm_source=twitter&utm_medium=social
+Server: CherryPy/3.2.4
+Set-Cookie: tribal="Wgm+k3/1Tcyr/qq7UNm05w=="; expires=Fri, 06 Jan 2034 23:13:40 GMT; Path=/; Version=2
+Content-Length: 447
+Connection: keep-alive
+
+HTTP/1.1 302 Found
+Server: Varnish
+Location: http://uk.complex.com/pop-culture/2014/08/ferguson-police-beating-wrong-arrest-henry-davis-2009-michael-brown?utm_campaign=complexmag%2Bsocialflow%2B08%2B2014&utm_source=twitter&utm_medium=social
+Content-Type: text/html; charset=utf-8
+Retry-After: 5
+Content-Length: 377
+Accept-Ranges: bytes
+Date: Tue, 24 Mar 2015 01:17:53 GMT
+Age: 3
+Connection: close
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+server: Apache/2.2.15 (CentOS)
+c-date-deleted: Fri, 24 Mar 3015 02:17:53 +0000
+c-date-published: Fri, 15 Aug 2014 17:30:53 +0000
+cache-control: max-age=300, public, s-maxage=300
+last-modified: Tue, 24 Mar 2015 01:17:53 GMT
+etag: "ferguson-police-beating-wrong-arrest-henry-davis-2009-michael-brown/1408123622/aea3088a5fac1042d73c268253c030ac"
+content-type: text/html; charset=UTF-8
+Content-Encoding: gzip
+Transfer-Encoding: chunked
+Date: Tue, 24 Mar 2015 01:17:53 GMT
+Age: 0
+Connection: keep-alive
+Vary: Host,Accept-Encoding,User-Agent
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <title>Ferguson Police Beat a Man After Wrongly Arresting Him and Charged Him for Bleeding on Them | Complex UK</title>
+
+    <meta name="description" content="Five years before Michael Brown, the Ferguson police department was embroiled in another police brutality scandal." />
+    <meta name="keywords" content="News, Other Source, Ferguson, Missouri, Complex, Complex Magazine, Style Guide, Fashion News, Celebrity Profiles, Sneakers, Sneakers Guide, Sneakers Blog" />
+
+<!-- Open Graph -->
+    <meta property="og:title" content="Ferguson Police Previously Beat Man and Charged Him for Bleeding on Them"/>
+    <meta property="og:description" content="Five years before Michael Brown, the Ferguson police department was embroiled in another police brutality scandal."/>
+    <meta property="og:url" content="http://uk.complex.com/pop-culture/2014/08/ferguson-police-beating-wrong-arrest-henry-davis-2009-michael-brown"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:image" content="http://images.complex.com/complex/image/upload/t_article_image/dxwfhfzgolktr9jmxr9d.jpg"/>
+    <meta property="og:site_name" content="Complex UK"/>
+
+<!-- Twitter cards -->
+    <meta name="twitter:title" content="Ferguson Police Previously Beat Man and Charged Him for Bleeding on Them"/>
+    <meta name="twitter:description" content="Five years before Michael Brown, the Ferguson police department was embroiled in another police brutality scandal."/>
+    <meta name="twitter:url" content="http://uk.complex.com/pop-culture/2014/08/ferguson-police-beating-wrong-arrest-henry-davis-2009-michael-brown"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:image" content="http://images.complex.com/complex/image/upload/t_article_image/dxwfhfzgolktr9jmxr9d.jpg"/>
+
+
+<!-- Simplereach -->
+<script>
+__prototype_reach_config = {
+    pid: '53ee2e1697b0c992c7000022',
+    title: 'Ferguson Police Previously Beat Man and Charged Him for Bleeding on Them',
+    url: 'http://uk.complex.com/pop-culture/2014/08/ferguson-police-beating-wrong-arrest-henry-davis-2009-michael-brown',
+    date: '2014-08-15 17:30:53',
+    authors: ['Andrew Gruttadaro'],
+    channels: ['Pop Culture'],
+    tags: ['news', 'other-image-source', 'ferguson'],
+    landing_url: 'http://uk.complex.com/pop-culture/2014/08/ferguson-police-beating-wrong-arrest-henry-davis-2009-michael-brown',
+    iframe: true,
+    ignore_errors: false
+};
+
+// Create the __reach_config from the prototype
+__reach_config = JSON.parse(JSON.stringify(__prototype_reach_config));
+
+
+// Create the reach_config into a new ajax version
+__ajax_reach_config = JSON.parse(JSON.stringify(__prototype_reach_config));
+
+(function(){
+    var s = document.createElement('script');
+    s.async = true;
+    s.type = 'text/javascript';
+    s.src = document.location.protocol + '//d8rk54i4mohrb.cloudfront.net/js/reach.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+})();
+</script>
+
+<!-- Sailthru -->
+    <meta name="sailthru.author" content="Andrew Gruttadaro" />
+    <meta name="sailthru.date" content="2014-08-15T17:30:53+0000" />
+    <meta name="sailthru.image.full" content="http://images.complex.com/complex/image/upload/t_article_image/dxwfhfzgolktr9jmxr9d.jpg" />
+    <meta name="sailthru.channel" content="Pop Culture" />
+    <meta name="sailthru.tags" content="News, Other Source, Ferguson, Missouri, Complex, Pop Culture, complex-uk" />
+    <meta name="sailthru.content.type" content="News" />
+
+    <link rel="canonical" href="http://uk.complex.com/pop-culture/2014/08/ferguson-police-beating-wrong-arrest-henry-davis-2009-michael-brown" />
+
+    <meta name="fragment" content="!">
+    <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE; chrome=1" />
+    <meta name="msvalidate.01" content="F97A06145E9767C313B356E7E5B833F3" />
+    <link rel="shortcut icon" type="image/x-icon" href="http://images.complex.com/complex/image/upload/v1403733167/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://images.complex.com/complex/image/upload/v1405731639/Complex_iphoneIcon_ndncsb.jpg" />
+    <link rel="alternate" type="application/rss+xml" title="Subscribe to Complex.com" href="http://assets.complex.com/feeds/channels/all.xml" />
+
+        <meta name="p:domain_verify" content="51da1c238ae41f7163c35ac3e762917b"/>
+<script src="//cdn.optimizely.com/js/631700291.js"></script>
+<link href="//svg.complex.com/css/cmplx-svg.css" rel="stylesheet">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+
+        <link rel="stylesheet" type="text/css" href="http://assets.complex.com/css/desktop/story.css?1427149405">
+
+    <script type="text/javascript">
+    cmnunt_site = 'cmn_complex';
+    cmnunt_silo = 's_pop';
+    cmnunt_subsilo = ''; //'mus,sne,sty,gam,pop,spo,alpha';
+    cmnunt_tier  = 'to,t2,internal';
+    cmnunt_zone = 'pop-culture_news';
+    cmnunt_kw = 'complex,ferguson';
+    cmnunt_exclude = 'ugc';
+    cmn_tb_theme = '';
+    var complexAlpha = true;
+</script>
+
+    <script>
+        var international = true;
+    </script>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type="text/javascript" src="http://cdn.complexmedianetwork.com/js/cmnUNT.js?v=21"></script>
+    <script type="text/javascript" src="http://assets.complex.com/tv/js/widget_v2.min.js"></script>
+
+    <script>
+        window.prerenderReady = false;
+    </script>
+
+    
+    <script type="text/javascript">
+        window.PostRenderSettings = {
+            SCRIPT_LOCATION: "//player.complex.com/tv/js/embed.js"
+            , COMMENTS_PLAYER_DEFAULT: true            , CUSTOM_PLAYER_DEFAULT: true        };
+    </script>
+</head>
+<body ng-app="desktopApp" ng-id="ng-app" id="article" site-location="article" complex-device-type="desktop">
+<div class="header-container z-top-layout" id="complex_navigation">
+    <div class="header-perspective">
+        <header id="global-navigation" class="channel-navigation-border-pop-culture" shadow-bottom>
+            <div class="skin-outer clearfix">
+        		<nav class="logo-menu-holder">
+            		<ul>
+                        <li><a class="complex-menu-button" ng-click="toggleLeftMenuSlide()" click-off><i class="cmplx-icon icon-menu"></i></a></li>
+                		<li><a href="/" ga-logo class="complex-logo cmplx-svg-complex-logo-light" target="_self" title="Home" alt="Complex"></a></li>
+            		</ul>
+        		</nav>
+        		<div id="logo" itemscope itemtype="http://schema.org/Organization" style="display: none;">
+            		<a itemprop="url" href="/">Home</a>
+            		<img itemprop="logo" src="http://images.complex.com/complex/image/upload/v1404147683/complex-logo.jpg" />
+        		</div>
+		    	<nav id="social-search-holder">
+                    <span class="searchbar">
+                        <form action="/search" method="get" class="searchform">
+    <input type="text" class="searchtext" name="search" search-extend input-postion-switch autocomplete="off"/>
+    <button type="submit" class="searchbutton" value=""><i class="cmplx-icon icon-search"></i></button>
+</form>
+                    </span>
+		        	<ul class="social-buttons clearfix">
+    <li class="social-buttons__button">
+        <a ga-link ga-category="Header" ga-action="Click on social links" ga-label="FB" 
+            itemprop="sameAs" href="http://www.facebook.com/complexUK" target="_blank" class="social-buttons__button--facebook">
+            <i class="cmplx-icon icon-facebook"></i>
+        </a>
+    </li>
+    <li class="social-buttons__button">
+        <a ga-link ga-category="Header" ga-action="Click on social links" ga-label="Twitter" 
+            itemprop="sameAs" href="https://twitter.com/#!/complex_uk" target="_blank" 
+            class="social-buttons__button--twitter">
+            <i class="cmplx-icon icon-twitter"></i>
+        </a>
+    </li>
+    <li class="social-buttons__button">
+        <a ga-link ga-category="Header" ga-action="Click on social links" ga-label="G+" 
+            itemprop="sameAs" href="http://plus.google.com/+complex" rel="publisher" target="_blank" 
+            class="social-buttons__button--google-plus">
+            <i class="cmplx-icon icon-google-plus"></i>
+        </a>
+    </li>
+    <li class="social-buttons__button">
+        <a ga-link ga-category="Header" ga-action="Click on social links" ga-label="Instagram" 
+            itemprop="sameAs" href="http://instagram.com/complex_uk" target="_blank" class="social-buttons__button--instagram">
+            <i class="cmplx-icon icon-instagram"></i>
+        </a>
+    </li>
+    <li class="social-buttons__button">
+        <a ga-link ga-category="Header" ga-action="Click on social links" ga-label="YT" 
+            itemprop="sameAs" href="http://www.youtube.com/user/complexmagazine" target="_blank" class="social-buttons__button--youtube">
+            <i class="cmplx-icon icon-youtube"></i>
+        </a>
+    </li>
+</ul>
+				</nav>
+            </div>
+    	</header><!-- Global header navigation ends -->
+
+        
+        <div id="complex-share-data"
+            complex-share-headline="Ferguson Police Previously Beat Man and Charged Him for Bleeding on Them"
+            complex-share-twitter="complex_uk"
+            complex-share-url="http://cmplx.it/N3wt"></div>
+        <header id="alternate-navigation" class="retracted-up channel-navigation-border-pop-culture" shadow-bottom>
+            <div class="skin-outer clearfix">
+				<nav class="logo-menu-holder">
+                    <ul>
+                        <li><a class="complex-menu-button" ng-click="toggleLeftMenuSlide()" click-off><i class="cmplx-icon icon-menu"></i></a></li>
+                        <li><a href="/" ga-logo class="complex-logo cmplx-svg-complex-square-light" target="_self" title="Home" alt="Complex"></a></li>
+                    </ul>
+				</nav>
+				<nav class="social-share-holder">
+				    <div class="social-bar">
+	<div class="social-bar--left">
+	    <div class="share-buttons desktop">
+	<ul>
+		<li class="share-buttons__button"><a ng-click="shareOnFacebook()" class="share-buttons__button--facebook"><i class="cmplx-icon icon-facebook"></i></a></li>
+		<li class="share-buttons__button"><a ng-click="shareOnTwitter()" class="share-buttons__button--twitter"><i class="cmplx-icon icon-twitter"></i></a></li>
+		<li class="share-buttons__button"><a ng-click="shareOnGooglePlus()" class="share-buttons__button--google-plus"><i class="cmplx-icon icon-google-plus"></i></a></li>
+		<li class="share-buttons__button"><a ng-click="shareOnPinterest()" class="share-buttons__button--pinterest"><i class="cmplx-icon icon-pinterest"></i></a></li>
+	</ul>
+</div>	    <span class="social-bar__shares">
+	    	<span class="social-bar__shares__count cmplx-share-count" data-url="http://uk.complex.com/pop-culture/2014/08/ferguson-police-beating-wrong-arrest-henry-davis-2009-michael-brown">0</span>
+	    	<i class="cmplx-icon icon-share"></i>
+	    </span>
+	</div>
+	<div class="social-bar--right">
+	    <a class="social-bar__comments" jump-to-element-id="disqus_thread">
+	    	<span class="social-bar__shares__count disqus-comment-count" data-disqus-identifier="complex-156233" evt-article-comment='In Page'>0</span>
+	    	<i class="cmplx-icon icon-comment"></i>
+	    </a>
+	</div>
+</div><!-- ./social-bar -->
+				</nav>
+                <nav class="navigation-article-details">
+                    <ul>
+                        <li class="channel-tag">
+                            <a href="/pop-culture/"
+                               rel="tag"
+                               class="channel-pop-culture"
+                               target="_self"
+                               evt-sitewide-channel="Article Nav"
+                               complex-channel="pop-culture" id="complex-channel"
+                                >Pop Culture</a>
+                        </li>
+                        <li class="article-title article-title-pop-culture ">
+                            <a href="/pop-culture/2014/08/ferguson-police-beating-wrong-arrest-henry-davis-2009-michael-brown" jump-to-storytop ><h3>Ferguson Police Previously Beat Man and Charged Him for Bleeding on Them</h3></a>
+                        </li>
+                                            </ul>
+                </nav>
+            </div>
+    	</header>
+        </div>
+</div>
+<div class="main-container" resets-all-ads-on-top>
+
+    <div class="aside-navigation z-top-layout" ng-controller="ChannelLatestArticles" ng-mouseleave="channelArticlesMenuSlideOut()" channel-menu-slide click-off>
+    <nav id="channel-navigation" class="scrollable-overlay" scrollable-overlay>
+        <div class="scroller">
+          <h3>Channels</h3>
+          <ul class="channels-list-nav tagchannels">
+              <li touch-or-click-device="desktop" ga-action="Click on channel name" ga-sub="Article" slug-channel="music" channel-id="7"><a href="/music/" class="channel-nav-button channel-music" target="_self" complex-nav-label="More Stories">Music</a></li>
+    <li touch-or-click-device="desktop" ga-action="Click on channel name" ga-sub="Article" slug-channel="style" channel-id="3"><a href="/style/" class="channel-nav-button channel-style" target="_self" complex-nav-label="More Stories">Style</a></li>
+    <li touch-or-click-device="desktop" ga-action="Click on channel name" ga-sub="Article" slug-channel="pop-culture" channel-id="1"><a href="/pop-culture/" class="channel-nav-button channel-pop-culture" target="_self" complex-nav-label="More Stories">Pop Culture</a></li>
+    <li touch-or-click-device="desktop" ga-action="Click on channel name" ga-sub="Article" slug-channel="sports" channel-id="8"><a href="/sports/" class="channel-nav-button channel-sports" target="_self" complex-nav-label="More Stories">Sports</a></li>
+    <li touch-or-click-device="desktop" ga-action="Click on channel name" ga-sub="Article" slug-channel="sneakers" channel-id="6"><a href="/sneakers/" class="channel-nav-button channel-sneakers" target="_self" complex-nav-label="More Stories">Sneakers</a></li>
+          </ul>
+          <h3>TV</h3>
+          <ul class="channels-list-nav tvchannels">
+            <li touch-or-click-device="desktop" ga-action="Click on ComplexTV link" ga-sub="video" slug-channel="complextv-latest" channel-id="complextv-latest"><a href="http://www.complex.com/tv/" class="channel-nav-button channel-complextv" target="_self" complex-nav-label="More Videos">Latest</a></li>
+            <li touch-or-click-device="desktop" ga-action="Click on ComplexTV link" ga-sub="video" slug-channel="complextv-news" channel-id="complextv-news"><a href="http://www.complex.com/tv/shows/complex-news" class="channel-nav-button channel-complextv" target="_self" complex-nav-label="More News">News</a></li>
+            <li touch-or-click-device="desktop" ga-action="Click on ComplexTV link" ga-sub="show" slug-channel="tv-shows" channel-id="tv-shows"><a href="http://www.complex.com/tv#shows" class="channel-nav-button channel-complextv" target="_self" complex-nav-label="More Shows">Shows</a></li>
+          </ul>
+          <h3>Our Sites</h3>
+          <ul class="channels-list-nav">
+              <li touch-or-click-device="desktop" ga-action="Click on O&O link" ga-sub="O&O Article" slug-channel="firstwefeast" channel-id="firstwefeast">
+    <a href="http://firstwefeast.com?utm_source=complex&utm_medium=referral&utm_campaign=firstwefeast.com+main+navigation" class="channel-nav-button oando firstwefeast " target="_blank" complex-nav-label="More Stories"><span class="icon cmplx-svg-firstwefeast-site-icon"></span> First We Feast</a>
+</li>
+<li touch-or-click-device="desktop" ga-action="Click on O&O link" ga-sub="O&O Article" slug-channel="pigeonsandplanes" channel-id="pigeonsandplanes">
+    <a href="http://pigeonsandplanes.com?utm_source=complex&utm_medium=referral&utm_campaign=pigeonsandplanes.com+main+navigation" class="channel-nav-button oando pigeonsandplanes " target="_blank" complex-nav-label="More Stories"><span class="icon cmplx-svg-pigeonsandplanes-site-icon"></span> Pigeons &amp; Planes</a>
+</li>
+<li touch-or-click-device="desktop" ga-action="Click on O&O link" ga-sub="O&O Article" slug-channel="collider" channel-id="collider">
+    <a href="http://collider.com?utm_source=complex&utm_medium=referral&utm_campaign=collider.com+main+navigation" class="channel-nav-button oando collider " target="_blank" complex-nav-label="More Stories"><span class="icon cmplx-svg-collider-site-icon"></span> Collider</a>
+</li>
+<li touch-or-click-device="desktop" ga-action="Click on O&O link" ga-sub="O&O Article" slug-channel="solecollector" channel-id="solecollector">
+    <a href="http://solecollector.com?utm_source=complex&utm_medium=referral&utm_campaign=solecollector.com+main+navigation" class="channel-nav-button oando solecollector " target="_blank" complex-nav-label="More Stories"><span class="icon cmplx-svg-solecollector-site-icon"></span> Sole Collector</a>
+</li>
+<li touch-or-click-device="desktop" ga-action="Click on O&O link" ga-sub="O&O Article" slug-channel="fourpins" channel-id="fourpins">
+    <a href="http://four-pins.com?utm_source=complex&utm_medium=referral&utm_campaign=four-pins.com+main+navigation" class="channel-nav-button oando fourpins " target="_blank" complex-nav-label="More Stories"><span class="icon cmplx-svg-four-pins-site-icon"></span> Four Pins</a>
+</li>
+<li touch-or-click-device="desktop" ga-action="Click on O&O link" ga-sub="O&O Article" slug-channel="greenlabel" channel-id="greenlabel">
+    <a href="http://greenlabel.com?utm_source=complex&utm_medium=referral&utm_campaign=greenlabel.com+main+navigation" class="channel-nav-button oando greenlabel " target="_blank" complex-nav-label="More Stories"><span class="icon cmplx-svg-green-label-site-icon"></span> Green Label</a>
+</li>
+<li touch-or-click-device="desktop" ga-action="Click on O&O link" ga-sub="O&O Article" slug-channel="ridechannel" channel-id="ridechannel">
+    <a href="http://theridechannel.com?utm_source=complex&utm_medium=referral&utm_campaign=theridechannel.com+main+navigation" class="channel-nav-button oando ridechannel " target="_blank" complex-nav-label="More Stories"><span class="icon cmplx-svg-theridechannel-site-icon"></span> Ride Channel</a>
+</li>
+<li touch-or-click-device="desktop" ga-action="Click on O&O link" ga-sub="O&O Article" slug-channel="triangleoffense" channel-id="triangleoffense">
+    <a href="http://triangleoffense.com?utm_source=complex&utm_medium=referral&utm_campaign=triangleoffense.com+main+navigation" class="channel-nav-button oando triangleoffense " target="_blank" complex-nav-label="More Stories"><span class="icon cmplx-svg-triangleoffense-site-icon"></span> Triangle Offense</a>
+</li>
+
+          </ul>
+
+        </div>
+    </nav>
+    <nav id="channel-articles-navigation" class="scrollable-overlay <%channel_slug%>" article-channel-menu-slide scrollable-overlay>
+        <div class="scroller">
+        <div ng-if="channel_url" class="channel-brand <%channel_slug%>">
+          <a ng-href="<% channel_url %>" class="channel-logo <%channel_logo_class%>">
+          </a>
+          <div ng-bind-html="renderHtml(channel_tag)" class="channel-tag">
+          </div>
+        </div>
+       <section class="nav-article-info" ng-repeat="article in channel_latest_articles | limitTo:3">
+            <div ng-if="getBrandedAdTag(article).length > 0" class="asidenavigation-brandedlogo">
+                <branded-ad tags-list="<% getBrandedAdTag(article) %>" selector-id="navigation_menu_branded_ad_<% article.id %>" type-ad="4x4" ></branded-ad>
+            </div>
+            <a ng-href="<% getArticleUrl(article) %>" target-blank="<% article.external %>" class="nav-article-link" evt-sub-menu>
+                <div class="nav-article-image-container">
+                    <div show-if-has-video class="video"></div>
+                    <img ng-src="<% getImage(article,'left_menu') %>" alt="<% getArticleHeadline(article) %>" width="175" />
+                </div>
+                <span class="article-added-date" ng-bind="getDatePublishedLabel(article)" ng-if="article.type!='show'"></span>
+                <h3 class="article-title" ng-bind-html="renderHtml(getArticleHeadline(article))"></h3>
+            </a>
+       </section>
+        <div complex-view-more class="load-more view-more"></div>
+        </div>
+    </nav>
+</div>
+
+        <div class="ad-wrapper2 skin-outer">
+        <div class="top-ad-wrapper skin-outer" id="cmn_head_styles">
+            <div id="cmn_ad_tag_head" class="fw_complex_alpha" cmn-head-ad>
+                <script>cmnUNT('3x3', window.tile_num++);</script>
+            </div>
+        </div><!-- ./top-ad-wrapper -->
+    </div><!-- ./ad-wrapper2 -->
+    
+    <div id="cmn_wrap" class="skin-outer" style="z-index: 30 !important;" skin-resize="" skin-inject="">
+        <div id="complex-main-container" class="main wrapper clearfix article">
+                            <article scroll alternative-navigation>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.async=''; js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<div id="story" class="pop-culture complex-container" evt-article-load="/pop-culture/2014/08/ferguson-police-beating-wrong-arrest-henry-davis-2009-michael-brown" data-articleid="156233" itemscope itemtype="http://schema.org/Article">
+    <div class="article-ga-wrap">
+
+        <header>
+    	    <div class="story-taxonomy clearfix">
+	        <a href="/pop-culture/" evt-sitewide-channel="Article" itemprop="articleSection" target="_self"><div class="tag pop-culture">Pop Culture</div></a>
+	        	        	        <div class="content-category"><a href="/pop-culture/cat/news" ga-link ga-category="Article/List" ga-action="Click on content category tag" ga-label="article">News</a></div>
+	        	    </div><!-- ./story-taxonomy -->
+    
+    <h1 class="story-title" itemprop="headline">Ferguson Police Previously Beat Man and Charged Him for Bleeding on Them</h1>
+    
+              
+    <div class="info-row clearfix">
+		<div class="info-row-credits">
+		    <div class="info-row-author"><span class="type">By</span>
+                                <span class="name" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="/author/andrew-gruttadaro" rel="author" target="_self" itemprop="url" content="http://uk.complex.com/author/andrew-gruttadaro">Andrew Gruttadaro</a></span></span>
+            </div>
+		    <div class="info-row-photographer"></div>
+		</div>
+		<time class="info-row-datetime" itemprop="datePublished" datetime="2014-08-15T13:30:53-04:00" complex-date-published="2014-08-15T13:30:53-04:00" ng-bind="datePublished"></time>
+	</div><!-- ./info-row -->
+
+  		<div class="social-bar">
+	<div class="social-bar--left">
+	    <div class="share-buttons desktop">
+	<ul>
+		<li class="share-buttons__button"><a ng-click="shareOnFacebook()" class="share-buttons__button--facebook"><i class="cmplx-icon icon-facebook"></i></a></li>
+		<li class="share-buttons__button"><a ng-click="shareOnTwitter()" class="share-buttons__button--twitter"><i class="cmplx-icon icon-twitter"></i></a></li>
+		<li class="share-buttons__button"><a ng-click="shareOnGooglePlus()" class="share-buttons__button--google-plus"><i class="cmplx-icon icon-google-plus"></i></a></li>
+		<li class="share-buttons__button"><a ng-click="shareOnPinterest()" class="share-buttons__button--pinterest"><i class="cmplx-icon icon-pinterest"></i></a></li>
+	</ul>
+</div>	    <span class="social-bar__shares">
+	    	<span class="social-bar__shares__count cmplx-share-count" data-url="http://uk.complex.com/pop-culture/2014/08/ferguson-police-beating-wrong-arrest-henry-davis-2009-michael-brown">0</span>
+	    	<i class="cmplx-icon icon-share"></i>
+	    </span>
+	</div>
+	<div class="social-bar--right">
+	    <a class="social-bar__comments" jump-to-element-id="disqus_thread">
+	    	<span class="social-bar__shares__count disqus-comment-count" data-disqus-identifier="complex-156233" evt-article-comment='In Page'>0</span>
+	    	<i class="cmplx-icon icon-comment"></i>
+	    </a>
+	</div>
+</div><!-- ./social-bar -->
+	</header>
+
+        <div class="story-content">
+
+                            <script>
+                    var lead_carousel = [{"cloudinaryId":"aztzrfqmpnzeg76yonag","format":"jpg","transformations":null,"width":680,"height":440,"type":"Image","caption":"Henry Davis, 2009, image courtesy of <a href=\"http:\/\/www.thedailybeast.com\/articles\/2014\/08\/15\/the-day-ferguson-cops-were-caught-in-a-bloody-lie.html\" target=\"_blank\">The Daily Beast<\/a>","altText":"Ferguson Police Beating","id":1290746,"dateDeleted":null,"dateCreated":1408123487000,"dateUpdated":null,"class":"Image"}];
+                </script>
+                <lead-carousel ng-init="initializeCarousel('lead_carousel')" class="lead-carousel" placement-type="Main Article" youtube-container-id="156233"></lead-carousel>
+            
+            <div class="article-body" itemprop="articleBody">
+                <div class="article-copy clearfix"  out-bound-links>
+                                                                        <p>Five years before <a href="http://www.complex.com/pop-culture/2014/08/darren-wilson-michael-brown-ferguson">Ferguson police officer </a><strong><a href="http://www.complex.com/pop-culture/2014/08/darren-wilson-michael-brown-ferguson">Darren Wilson</a> </strong>shot and killed 18-year-old <strong>Michael Brown</strong>, the Ferguson PD was involved in a horrific scandal that further shows how brutal and expansive their power has been. </p>
+
+<p>The Daily Beast has published an account from <strong>Henry Davis</strong>, who was wrongly arrested in Ferguson in 2009, allegedly beaten severely by four officers, and then charged with destruction of property for bleeding on their uniforms.</p>
+
+<p>Davis had gotten lost on his way to St. Charles, MO and pulled over in Ferguson because he couldn&#39;t see through heavy rain. A Ferguson police officer who had pulled up behind Davis reportedly mistook him to be another Henry Davis (with a different middle name and Social Security number), who had an outstanding warrant. The arresting police officer allegedly took Davis&#39; cell phone out of his hand, cuffed him, and placed him in the back of a patrol car without explanation.</p>
+
+<p>Once Davis was at the Ferguson jail, he was allegedly assaulted by four officers, who slammed him against a wall, hit him, and kicked him. Davis was taken to a nearby hospital, where he refused treatment. He spent several days in jail before posting a $1,500 bond on four counts of "property damage."</p>
+
+<p>In a subsequent civil trial brought by Davis, the Ferguson police officers&#39; complaints that Davis had transferred blood to their uniforms were revealed to not just be bizarre, but trumped up (and remember, the whole incident happened because Davis was wrongfully arrested in the first place). However, a federal magistrate ruled that the apparent perjury was too minor to constitute a violation of due process, and Davis&#39; injuries were too minor to constitute excessive force.</p>
+
+<p>The trial is currently in appeals, and Davis&#39; lawyer <strong>James Schottel </strong>now believes that the previous minimal ruling might be seen differently in the context of Michael Brown&#39;s death. </p>
+
+<p>Read Davis&#39; stunning full account <a href="http://www.thedailybeast.com/articles/2014/08/15/the-day-ferguson-cops-were-caught-in-a-bloody-lie.html">here</a>, and <a href="http://www.complex.com/pop-culture/2014/08/mike-brown-case">go here</a> to see everything we know about the Michael Brown case so far.</p>
+<script src="http://cdnl.complex.com/tv/js/complexEmbed.min.js"></script><script src="http://player.ooyala.com/v3/695aba2fa0e6459797bb6076f4e03323"></script>
+
+<div id="ooyalaplayerQ1OWxubzpeYZIZE650Tuac_Z1z0mb3ph"> </div>
+<script>ComplexEmbed.Application.initialize({cId: "Q1OWxubzpeYZIZE650Tuac_Z1z0mb3ph",adSetCode: "3f3b9e47c2954e21bdfb5618c47a61ea",site: "complextv",kw: ""});</script><noscript><div>Please enable Javascript to watch this video</div></noscript>
+
+<p>[<a href="http://www.thedailybeast.com/articles/2014/08/15/the-day-ferguson-cops-were-caught-in-a-bloody-lie.html"><em>via Daily Beast</em></a>] </p>
+
+                                                                
+                    <div class="end-share desktop">
+                        <div class="share-buttons desktop">
+	<ul>
+		<li class="share-buttons__button"><a ng-click="shareOnFacebook()" class="share-buttons__button--facebook"><i class="cmplx-icon icon-facebook"></i></a></li>
+		<li class="share-buttons__button"><a ng-click="shareOnTwitter()" class="share-buttons__button--twitter"><i class="cmplx-icon icon-twitter"></i></a></li>
+		<li class="share-buttons__button"><a ng-click="shareOnGooglePlus()" class="share-buttons__button--google-plus"><i class="cmplx-icon icon-google-plus"></i></a></li>
+		<li class="share-buttons__button"><a ng-click="shareOnPinterest()" class="share-buttons__button--pinterest"><i class="cmplx-icon icon-pinterest"></i></a></li>
+	</ul>
+</div>                    </div>
+                </div><!-- ./article-copy -->
+            </div><!-- ./article-body -->
+        </div><!-- ./story-content -->
+    </div><!-- ./article-ga-wrap -->
+
+    <div id="related-tags">
+            <h3 class="latest-articles-header"><span class="capital">Related</span>&nbsp;&nbsp;&nbsp;<span class="clearfix">Stories</span></h3>
+        <div style="clear: both;"></div>
+        <div class="items-container clearfix">
+                                                                                                <div class="item">
+                            <a href="/pop-culture/2014/08/michael-brown-ferguson-police-report" ga-link ga-category="Article/List" ga-action='Click on related article link'  ga-label='article' class="pop-culture">UPDATED: Ferguson Police Report Indicates Michael Brown Was Prime Suspect in Robbery</a>
+                                                        <span class="item-video">&#9658; Video</span>
+                                                    </div>
+                                                
+        </div><!-- ./items-container -->
+    
+
+    <div class="tags-container clearfix">
+                                                                                                <a href="/tag/ferguson" rel="tag" ga-link ga-category="Article/List" ga-action='Click on tag'  ga-label='article'><div class="tag-related">Ferguson, Missouri</div></a>
+                                        </div>
+    <!-- ./tags-container -->
+
+</div>
+    <suit-case-ad suitcase-id="suitcase_ad_0" ad-headline="MORE NEWS BELOW"></suit-case-ad>
+    <div ng-hide="isManagerMode()">
+    <div id="disqus_thread" class="pop-culture"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname    = "cmplx-uk";
+            var disqus_identifier   = 'complex-156233';
+            var disqus_title        = 'Ferguson Police Previously Beat Man and Charged Him for Bleeding on Them';
+            var disqus_category_id  = '';
+            var reset_disqus = function(){
+                DISQUS.reset({
+                    reload: true
+                });
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+
+            // Make sure Disqus is reset on orientation change
+                    </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+    <script type="text/javascript">
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+    </script>
+</div>
+    <div class="social">
+    <div class="social-text">Stay connected with complex Pop Culture</div>
+    <div class="social_buttons">
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        <div class="twitter-follow">
+            <a href="https://twitter.com/complex_uk" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false" data-lang="en"></a>
+        </div>
+
+        <div class="fb-like">
+            <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FcomplexUK&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=443546505743766" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true" class="fb-like"></iframe>
+        </div>
+
+<!--
+        <fb:like href="http%3A%2F%2Fwww.facebook.com%2FcomplexUK" layout="button_count" action="like" show_faces="false" share="false"></fb:like>
+-->
+
+    </div><!-- ./social_buttons -->
+</div>
+
+</div><!-- #story -->
+    <div id='ntrsctnWidget' data-name='QA-Widget' data-ntrsctn-hash='$2y$10$Cu6bXqjMgK9wl'></div>
+<script src='http://cdn.trending.ntrsctn.com/js/lib/embedCode.js' async></script>
+<script>
+    window.addEventListener('load', function() {
+        var ntrsctnLoad = new fetchWidget({
+            domain: 'trending.ntrsctn.com',
+            key: '$2y$10$Cu6bXqjMgK9wl',
+            url: ''
+        });
+    });
+</script>
+    <div id="news-container" ng-controller="ArticlesFeedCtrl" ng-cloak>
+        <div class="news-header complex-container clearfix">
+        <h3 class="latest-articles-header" ng-cloak>
+                            <span class="capital" ng-hide="isTrending">Latest</span>
+                <span class="capital" ng-show="isTrending">Trending</span>
+                &nbsp;&nbsp;&nbsp;<span>Stories</span>
+                    </h3>
+            </div>
+    
+
+        <div infinite-scroll='loadMoreScroll(3)' infinite-scroll-distance='1' infinite-scroll-immediate-check="false" class="clearfix load-more-content" ng-hide="isTrending">
+        <!-- the following is loaded by angular when scroll is activated -->
+                <div id="articles-lazy-load" class="prerender_success_indicator" complex-articles-load ng-show="displayChannels" ng-hide="isTrending" complex-channel-id="1"></div>
+            </div>
+    
+    
+            <div class="load-more-container" ng-hide="isTrending">
+        <script>var suit_ads_counter = 10, count_items_pre_page = 10;</script>
+        <button ng-click='loadMoreClick()' class="load-more" ng-show="loadMoreLink" load-more-button><span>Load More Stories</span></button>
+    
+        <!-- svg circle for progress indication -->
+        <svg class="progress-circle" width="42" height="42">
+            <path d="m3,21c0,-9.94475 8.05525,-18 18,-18c9.94475,0 18,8.05525 18,18c0,9.94475 -8.05525,18 -18,18c-9.94475,0 -18,-8.05525 -18,-18z"></path>
+        </svg>
+    </div>
+
+</div>
+                </article>
+                                    <aside>
+    <div class="aside-content-wrapper">
+
+                    <div class="top-group">
+                <div class="ad-clip">
+                    <div class="aside-ad-wrapper clearfix" fixed-aside-bar complex-page-type="article" is-list="0" init-pos-top="52">
+
+                        
+                            <div class="aside-ad-container-wrapper">
+        <div class="aside-ad-container" left-aside-ad id="sidebar-scroll-300x250-container">
+                            <script>cmnUNT('300x250,300x600', window.tile_num++, 1);</script>
+                    </div><!-- ./aside-ad-container -->
+    </div><!-- ./aside-ad-container -->
+
+                                                            <div class="tv-widget-holder" data-widget-id="v2-sidebar" data-player-id="3985af8dd6a94b798755d3b5dbc8ba0a" data-layout="1" data-video-count="4"  data-label-ids="complex-originals,main-channels-pop-culture" data-curation-include-all-labels="complex-originals,main-channels-pop-culture" class="tv-widget" id="complexTV-sidebar"></div>
+        <script>
+        $(document).ready(function(){
+            initializeComplexWidget('v2-sidebar');
+        });
+    </script>
+                            
+                        
+                        <div class="trending-sidebar">
+                                                                                    <div trending-sidebar complex-data="Trending" complex-channel-slug="pop-culture" complex-article-id="156233" ng-show="!isTrending" complex-header="Trending"></div>
+                                                                            </div><!-- ./trending-sidebar -->
+                    </div><!-- ./aside-ad-wrapper -->
+                </div><!-- ./ad-clip -->
+            </div><!-- ./top-group -->
+
+            <div clg-editor-picks clg-name="Editor's Picks - Pop Culture" clg-location="Right Rail" clg-width="110" clg-height="110" clg-element-location="right_rail" ng-controller="CLGCtrl"></div>
+
+            <div class="cover-widget">
+                <iframe src="http://c.complexmedianetwork.com/widgets/cover-widget-double.html" id="cover-widget" height="100%" width="100%"></iframe>
+            </div>
+            </div>
+</aside>
+                                    </div> <!-- #main -->
+    </div>
+</div> <!-- #main-container -->
+
+<footer class="footer" evt-page-bottom="true" evt-page-bottom-type="Article" is-mobile="false" itemscope itemtype="http://schema.org/Organization">
+	<div class="footer__body clearfix">
+		<div class="footer-copyright">
+			<a class="footer-copyright__logo complex-logo cmplx-svg-complex-logo-light" itemprop="url" href="/" ga-logo></a>
+			<div class="footer-copyright__copyright">&copy; Complex Media Inc. <span class="line-break"></span>All Rights Reserved</div>
+		</div>
+		<div class="footer-links">
+			<div class="footer-links__row">
+				<a class="footer-links__link" href="http://www.complexmediainc.com/" target="_blank" rel="nofollow">About Us</a>
+				<a class="footer-links__link" href="/contact" target="_self" rel="nofollow">Contact us</a>
+				<a class="footer-links__link" href="http://www.complexmediainc.com/About-Us/careers" target="_blank" rel="nofollow">Careers</a>
+				<a class="footer-links__link" href="http://www.complexmediainc.com/" target="_blank" rel="nofollow">Advertise</a>
+			</div>
+			<div class="footer-links__row">
+				<a class="footer-links__link" href="/privacy" target="_self" rel="nofollow">Privacy policy</a>
+				<a class="footer-links__link" href="/terms" target="_self" rel="nofollow">Terms of use</a>
+				<a class="footer-links__link" href="/share" target="_self" rel="nofollow">Feeds</a>
+				<a class="footer-links__link" href="/sitemap" target="_self" rel="nofollow">Site map</a>
+			</div>
+		</div>
+				<div class="footer-social">
+			<ul class="social-buttons clearfix">
+    <li class="social-buttons__button">
+        <a ga-link ga-category="Footer" ga-action="Click on social links" ga-label="FB" 
+            itemprop="sameAs" href="http://www.facebook.com/complexUK" target="_blank" class="social-buttons__button--facebook">
+            <i class="cmplx-icon icon-facebook"></i>
+        </a>
+    </li>
+    <li class="social-buttons__button">
+        <a ga-link ga-category="Footer" ga-action="Click on social links" ga-label="Twitter" 
+            itemprop="sameAs" href="https://twitter.com/#!/complex_uk" target="_blank" 
+            class="social-buttons__button--twitter">
+            <i class="cmplx-icon icon-twitter"></i>
+        </a>
+    </li>
+    <li class="social-buttons__button">
+        <a ga-link ga-category="Footer" ga-action="Click on social links" ga-label="G+" 
+            itemprop="sameAs" href="http://plus.google.com/+complex" rel="publisher" target="_blank" 
+            class="social-buttons__button--google-plus">
+            <i class="cmplx-icon icon-google-plus"></i>
+        </a>
+    </li>
+    <li class="social-buttons__button">
+        <a ga-link ga-category="Footer" ga-action="Click on social links" ga-label="Instagram" 
+            itemprop="sameAs" href="http://instagram.com/complex_uk" target="_blank" class="social-buttons__button--instagram">
+            <i class="cmplx-icon icon-instagram"></i>
+        </a>
+    </li>
+    <li class="social-buttons__button">
+        <a ga-link ga-category="Footer" ga-action="Click on social links" ga-label="YT" 
+            itemprop="sameAs" href="http://www.youtube.com/user/complexmagazine" target="_blank" class="social-buttons__button--youtube">
+            <i class="cmplx-icon icon-youtube"></i>
+        </a>
+    </li>
+</ul>
+		</div>
+		<div class="footer-newsletter">
+					</div>
+	</div>
+	<div class="oo-footer">
+    <div class="oo-footer-brands">
+        <div class="brands wrapper clearfix">
+            <ul>
+                                
+                    
+                
+                                            <li class="firstwefeast">
+                            <a target="_blank" href="http://firstwefeast.com?utm_source=firstwefeast&utm_medium=referral&utm_campaign=firstwefeast.com+global+footer" ga-link ga-category="Footer" ga-action="Click on O&O bar">
+                                <span class="cmplx-icon icon-firstwefeast"></span>
+                                <span class="oo-name">First We Feast</span>
+                            </a>
+                        </li>
+
+                        
+                        
+                        
+                                            
+                
+                                            <li class="pigeonsandplanes">
+                            <a target="_blank" href="http://pigeonsandplanes.com?utm_source=pigeonsandplanes&utm_medium=referral&utm_campaign=pigeonsandplanes.com+global+footer" ga-link ga-category="Footer" ga-action="Click on O&O bar">
+                                <span class="cmplx-icon icon-pigeonsandplanes"></span>
+                                <span class="oo-name">Pigeons & Planes</span>
+                            </a>
+                        </li>
+
+                        
+                        
+                         <div class="clearfix visible-xxs-block"></div> 
+                                            
+                
+                                            <li class="collider">
+                            <a target="_blank" href="http://collider.com?utm_source=collider&utm_medium=referral&utm_campaign=collider.com+global+footer" ga-link ga-category="Footer" ga-action="Click on O&O bar">
+                                <span class="cmplx-icon icon-collider"></span>
+                                <span class="oo-name">Collider</span>
+                            </a>
+                        </li>
+
+                        
+                         <div class="clearfix visible-xs-block"></div> 
+                        
+                                            
+                
+                                            <li class="solecollector">
+                            <a target="_blank" href="http://solecollector.com?utm_source=solecollector&utm_medium=referral&utm_campaign=solecollector.com+global+footer" ga-link ga-category="Footer" ga-action="Click on O&O bar">
+                                <span class="cmplx-icon icon-solecollector"></span>
+                                <span class="oo-name">Sole Collector</span>
+                            </a>
+                        </li>
+
+                        
+                        
+                         <div class="clearfix visible-xxs-block"></div> 
+                                            
+                
+                                            <li class="four-pins">
+                            <a target="_blank" href="http://four-pins.com?utm_source=four-pins&utm_medium=referral&utm_campaign=four-pins.com+global+footer" ga-link ga-category="Footer" ga-action="Click on O&O bar">
+                                <span class="cmplx-icon icon-four-pins"></span>
+                                <span class="oo-name">Four Pins</span>
+                            </a>
+                        </li>
+
+                         <div class="clearfix visible-sm-block visible-md-block"></div> 
+                        
+                        
+                                            
+                
+                                            <li class="greenlabel">
+                            <a target="_blank" href="http://greenlabel.com?utm_source=greenlabel&utm_medium=referral&utm_campaign=greenlabel.com+global+footer" ga-link ga-category="Footer" ga-action="Click on O&O bar">
+                                <span class="cmplx-icon icon-greenlabel"></span>
+                                <span class="oo-name">Green Label</span>
+                            </a>
+                        </li>
+
+                        
+                         <div class="clearfix visible-xs-block"></div> 
+                         <div class="clearfix visible-xxs-block"></div> 
+                                            
+                
+                                            <li class="theridechannel">
+                            <a target="_blank" href="http://theridechannel.com?utm_source=theridechannel&utm_medium=referral&utm_campaign=theridechannel.com+global+footer" ga-link ga-category="Footer" ga-action="Click on O&O bar">
+                                <span class="cmplx-icon icon-theridechannel"></span>
+                                <span class="oo-name">RIDE Channel</span>
+                            </a>
+                        </li>
+
+                        
+                        
+                        
+                                            
+                
+                                            <li class="triangleoffense">
+                            <a target="_blank" href="http://triangleoffense.com?utm_source=triangleoffense&utm_medium=referral&utm_campaign=triangleoffense.com+global+footer" ga-link ga-category="Footer" ga-action="Click on O&O bar">
+                                <span class="cmplx-icon icon-triangleoffense"></span>
+                                <span class="oo-name">Triangle Offense</span>
+                            </a>
+                        </li>
+
+                        
+                        
+                         <div class="clearfix visible-xxs-block"></div> 
+                                            
+                
+                    
+                
+                    
+                            </ul>
+        </div>
+    </div>
+</div>
+</footer>
+<!-- JSs After DOM Ready -->
+<script type="text/javascript">
+    $(document).ready(function(){
+        $("img.lazy").lazyload({
+            effect : "fadeIn"
+        });
+    });
+</script>
+
+    <div id="skins-cmnunt-placeholder">
+        <script>
+            if($(window).width() >= 1129){
+                // Don't use skins on featured articles
+                if("article" != "featured") cmnUNT('tover', window.tile_num++);
+                $('#cmn_wrap').attr('skin-inject', '1');
+            }
+            $(document).on('prerenderReady', function(e){
+                cmnTB();
+            });
+        </script>
+    </div>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+            _gaq.push(['main._setAccount', 'UA-30251-5']);
+        _gaq.push(['main._setDomainName', 'complex.com']);
+        _gaq.push(['main._setAllowLinker', true]);
+            (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-51767934-1', 'auto' ,  {'name' : 'universal'});  // Creates a tracker.
+    // Optimizely Universal Analytics Integration code
+    window.optimizely = window.optimizely || [];
+    window.optimizely.push(['activateUniversalAnalytics']);
+    ga('universal.require', 'displayfeatures');
+
+    var sendPageView = function() {
+
+                                    _gaq.push(['main._setCustomVar', 2, 'Article Origin', 'www.complex.com']);
+                                _gaq.push(['main._setCustomVar', 4, 'Date Published', '2014-08-15T13:30:53-04:00']);
+                _gaq.push(['main._setCustomVar', 5, 'Content Category', 'news']);
+                        _gaq.push(['main._trackPageview']);
+        
+        
+                                    ga('universal.set', 'dimension2', 'www.complex.com');
+                                ga('universal.set', 'dimension4', '2014-08-15T13:30:53-04:00');
+                ga('universal.set', 'dimension5', 'news');
+                ga('universal.set', 'dimension7', '156233');
+                        ga('universal.send', 'pageview');
+            }
+    sendPageView();
+    var sendPageEvent = function(c,a,l,o) {
+                    if(o === true) { _gaq.push(['main._trackEvent', c,a,l ]); }
+        
+                    ga('universal.send', 'event', c, a, l );
+            }
+</script>
+
+        <script src="http://assets.complex.com/js/compiled/story.min.js?1427149263"></script>
+
+<!-- START VigLink -->
+<script type="text/javascript">
+    var vglnk = { api_url: '//api.viglink.com/api',
+        key: 'c1bfa75158ba0f760f9cf90dfe79a69d' };
+
+    (function(d, t) {
+        var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+        s.src = ('https:' == document.location.protocol ? vglnk.api_url :
+            '//cdn.viglink.com/api') + '/vglnk.js';
+        var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+    }(document, 'script'));
+</script>
+<!-- END VigLink -->
+
+
+<!-- Begin comScore Tag --> 
+<script> 
+ var _comscore = _comscore || []; 
+ _comscore.push({ c1: "2", c2: "6685975" }); 
+ (function() { 
+ var s = document.createElement("script"), el = 
+document.getElementsByTagName("script")[0]; s.async = true; 
+ s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + 
+".scorecardresearch.com/beacon.js"; 
+ el.parentNode.insertBefore(s, el); 
+ })(); 
+</script> 
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6685975&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" /></noscript>
+<!-- End comScore Tag --> 
+
+<!-- Chartbeat Footer -->
+<script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 5098;
+    _sf_async_config.domain = 'uk.complex.com';
+    _sf_async_config.useCanonical = true;
+        _sf_async_config.sections = 'pop culture';
+    _sf_async_config.authors = 'Andrew Gruttadaro';
+    /** CONFIGURATION END **/
+    (function(){
+        function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src',
+                (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+                    'js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+            loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+
+
+
+
+<!--
+   <script type="text/javascript" src="min/?g=listPjaxJS&amp;cn=1"></script>
+-->
+
+<!-- Google Code for Complex -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1067611314;
+    var google_conversion_label = "pqs5CPb50wQQsumJ_QM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1067611314/?value=0&amp;label=pqs5CPb50wQQsumJ_QM&amp;guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+
+<!-- Sailthru Horizon -->
+<script type="text/javascript">
+    function reloadHorizon() {
+        function loadHorizon() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+
+            s.onload = function() {
+                Sailthru.setup({
+                    domain: 'horizon.complex.com'
+                });
+            };
+        }
+        loadHorizon();
+    };
+    reloadHorizon();
+</script>
+
+  <!-- BEGIN SNIPPET -->
+<div class="YAD-14cc0e2d-22fa-3252-830e-bd0ab1211bd3"></div>
+<script>
+(function(a,b,c,d,e,f){a[d]||(a[d]=
+function(){(a[d].q=a[d].q||[]).push([arguments,+new Date])});
+e=b.createElement(c);f=b.getElementsByTagName(c)[0];
+e.src='https://s.yimg.com/uq/syndication/yad.js';e.async=true;
+f.parentNode.insertBefore(e,f)}(window,document,'script','yad'));
+yad('14cc0e2d-22fa-3252-830e-bd0ab1211bd3');
+</script>
+<!-- END SNIPPET -->
+<script>
+    $(document).ready(function(){
+        eucn(); // Run EU Cookie Notice
+    });
+</script>
+<script src="//load.sumome.com/" data-sumo-site-id="17cf132f8fed94bd4a705c576c9123966eb22c9d6db7b0787234fa62d04b35bd" async></script>
+</body>
+</html>

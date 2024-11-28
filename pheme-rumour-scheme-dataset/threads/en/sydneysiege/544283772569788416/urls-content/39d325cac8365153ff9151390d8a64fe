@@ -1,0 +1,1025 @@
+HTTP/1.1 301 Moved Permanently
+Vary: Accept, Accept-Encoding
+Content-Type: text/plain; charset=utf-8
+Location: /story/1391978/live-updates-australia-reacts-to-sydney-siege
+X-UA-Compatible: IE=edge,chrome=1
+X-Powered-By: 2428-fc59174
+Content-Length: 94
+Date: Tue, 24 Mar 2015 01:16:56 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+ETag: W/"hHKZxPRW1zVpoNmVXyQIUA=="
+X-UA-Compatible: IE=edge,chrome=1
+X-Powered-By: 2428-fc59174
+Content-Length: 7818
+Cache-Control: public, max-age=56
+Expires: Tue, 24 Mar 2015 01:17:52 GMT
+Date: Tue, 24 Mar 2015 01:16:56 GMT
+Connection: keep-alive
+
+<!doctype html>
+
+<!--[if lt IE 9]><html id="root" class="no-js lt-ie9 no-touch" lang="en"> <![endif]-->
+<!--[if gte IE 9]><!--> <html id="root" class="no-js no-touch" lang="en"> <!--<![endif]-->
+
+<head>
+	<meta charset="utf-8">
+	<title>Live Updates: Australia Reacts To Sydney Siege</title>
+	<meta name="description" content="The latest developments as hostages flee from a cafe in the heart of Sydney&#39;s financial district after over 16 hours.">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="/images/f670e1be.sky-news-touch.png"><!-- 60x60 -->
+	<link rel="apple-touch-icon" sizes="76x76" href="/images/1b5f54e3.sky-news-touch-ipad.png"><!-- 76x76 -->
+	<link rel="apple-touch-icon" sizes="120x120" href="/images/74ebaccd.sky-news-touch-retina.png"><!-- 120x120 -->
+	<link rel="apple-touch-icon" sizes="152x152" href="/images/61bf2734.sky-news-touch-retina-ipad.png"><!-- 152x152 -->
+
+	<meta property="fb:app_id" content="744976955573926"/>
+	<meta property="og:site_name" content="Sky News"/>
+	<meta property="og:locale" content="en_GB"/>
+
+	
+<meta property="og:title" content="Live Updates: Australia Reacts To Sydney Siege">
+<meta property="og:description" content="The latest developments as hostages flee from a cafe in the heart of Sydney&#39;s financial district after over 16 hours.">
+<meta property="og:url" content="http://news.sky.com/story/1391978/live-updates-australia-reacts-to-sydney-siege">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://media.skynews.com/media/images/generated/2014/12/15/356720/default/v1/460495106-1-1600x900.jpg"/>
+
+
+	
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@skynews" />
+
+
+    <script>
+    var adsEnabled = true,
+    	analyticsEnabled = true;
+
+    (function() {
+		var root = document.getElementById('root');
+		root.className = root.className.replace('no-js', 'js');
+
+		// Chartbeat script needed at beginning of head
+		var _sf_startpt=(new Date()).getTime();
+		window.skynews = {};
+		window.skynews.config = {
+			videoPlayerUrl: "//player.sky.com/ga/dist/jquery.skyplayer",
+			analytics: {
+				site: 'sky/portal/news',
+				account: 'bskybskynews,bskybnetworkglobal',
+				section: '',
+				headline: '',
+				contentType: '',
+				contentId: '',
+				chartbeat: {
+					enabled: true
+				}
+			},
+			ad: {
+				tag: "20346936/skynews/world/content",
+				artId: "1391978"
+			},
+			disableResponsiveImages: false
+		};
+	}());
+	</script>
+
+	<!--[if lt IE 9]>
+	<link rel="stylesheet" href="/styles/b54afa50.lt-ie9.css" >
+	<script src="/scripts/a45bfc9a.ie.js"></script>
+	<![endif]-->
+
+	<!--[if gte IE 9]><!-->
+	<link rel="stylesheet" href="/styles/29868164.main.css">
+	<!--<![endif]-->
+
+	<link rel="stylesheet" href="//player.sky.com/css/skyplayer.min.css" >
+
+	<!-- AUDIENCE SCIENCE AD TAG CODE -->
+	<script type="text/javascript">
+		var rsi_segs = [];
+		var segs_beg=document.cookie.indexOf('rsi_segs=');
+		if(segs_beg>=0){
+		 segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+		 if(segs_beg>0){
+		  var segs_end=document.cookie.indexOf(';',segs_beg);
+		  if(segs_end==-1)segs_end=document.cookie.length;
+		  rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+		}}
+		var segLen=20
+		var segQS="",segArr=new Array()
+		if (rsi_segs.length<segLen){segLen=rsi_segs.length}
+		for (var i=0;i<segLen;i++){
+		    segArr=rsi_segs[i].split("_")
+		    if (segArr.length>1) segQS+=("rsi"+"="+segArr[1]+"+")
+		}
+	</script>
+	<!-- END AUDIENCE SCIENCE AD TAG CODE -->
+</head>
+
+<body data-sn-base-url="http://news.sky.com" class="">
+	<div id="cookie-notice" class="cookie-notice">
+		<div class="cookie-notice__wrapper">
+			<p class="cookie-notice__text">We use <a href="http://help.sky.com/security/privacy/privacy-and-cookies-notice" target="_blank">cookies</a> to give you the best experience. If you do nothing we'll assume that it's ok.</p>
+			<button type="button" id="cookie-notice__close" class="cookie-notice__close" onclick="handleCookieCloseClick()">
+				<span class="cookie-notice__close-text">
+					Close
+				</span>
+				<i class="cookie-notice__close-icon skycon skycon-close"></i>
+			</button>
+			<script>
+				function hideCookieNotice() { document.getElementById('cookie-notice').className='cookie-notice cookie-notice--hidden'; }
+				function handleCookieCloseClick() {
+					document.cookie='eucd=0;path=/;expires='+(new Date(+new Date()+157785e6)).toGMTString();
+					hideCookieNotice();
+				}
+				if (document.cookie.search('eucd=0') !== -1) {
+					hideCookieNotice();
+				}
+			</script>
+		</div>
+	</div>
+	<div class="viewport">
+		
+<div class="header" role="banner">
+	<div class="header__content">
+
+		<div class="header__logo">
+			<a href="/" class="header__link"><img src="/images/33af33c7.sky-news-logo.png" alt="Sky News" class="header__image"></a>
+		</div>
+
+		<span class="edition edition--desktop js-edition">
+			<a href="/us" class="js-edition__link edition__link">Switch to US Edition</a>
+		</span>
+
+		<div class="search search--desktop">
+			<form action="/search" method="get" role="search">
+	<span class="search__icon skycon-search"></span>
+	<input type="search" name="term" class="search__input" placeholder="Search Sky News" value="">
+	<input type="hidden" name="filter" value="">
+
+	<button class="search__clear-button skycon-close js-button-close skycon" type="button">
+		<span class="button__a11y">Clear search</span>
+	</button>
+
+	<button type="submit" class="search__button skycon-search"><span class="search__button-text">Search</span></button>
+</form>
+		</div>
+
+		<div class="navigation" data-append="navigation">
+			
+
+<nav class="js-append" role="navigation">
+	<ul class="navigation__list">
+		<li class="navigation__item navigation__item--first"><a href="/" class="navigation__link">Home</a></li>
+		<li class="navigation__item navigation__item--even"><a href="/uk" class="navigation__link">UK</a></li>
+		<li class="navigation__item"><a href="/world" class="navigation__link navigation__link--active">World</a></li>
+		<li class="navigation__item navigation__item--even"><a href="/usnews" class="navigation__link">US</a></li>
+		<li class="navigation__item"><a href="/business" class="navigation__link">Business</a></li>
+		<li class="navigation__item navigation__item--even"><a href="/politics" class="navigation__link">Politics</a></li>
+		<li class="navigation__item"><a href="/technology" class="navigation__link">Technology</a></li>
+		<li class="navigation__item navigation__item--even"><a href="/entertainment" class="navigation__link">Entertainment</a></li>
+		<li class="navigation__item navigation__item--9"><a href="/strangenews" class="navigation__link">Strange News</a></li>
+		<li class="navigation__item navigation__item--even navigation__item--10"><a href="/weather" class="navigation__link">Weather</a></li>
+
+		<li class="navigation__item navigation__item--more navigation__item--last">
+			<button class="button button--more js-button js-button-more" aria-hidden="true">More
+				<span class="chevron__container">
+					<img class="chevron__image" src="/images/12403835.chevron.png" alt="" />
+				</span>
+			</button>
+
+			
+	<div class="panel panel--small js-panel js-panel--small">
+
+		
+
+		<div class="panel__section">
+			<ul class="social__list">
+	<li class="social__item">
+		<a class="social__link" href="https://twitter.com/SkyNews">
+			<i aria-hidden="true" class="skycon skycon-twitter social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Twitter</span>
+		</a>
+	</li>
+
+	<li class="social__item">
+		<a class="social__link" href="https://www.facebook.com/skynews">
+			<i aria-hidden="true" class="skycon skycon-facebook social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Facebook</span>
+		</a>
+	</li>
+
+	<li class="social__item social__item--last">
+		<a class="social__link" href="https://plus.google.com/+SkyNews">
+			<i aria-hidden="true" class="skycon skycon-google-plus social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Google+</span>
+		</a>
+	</li>
+</ul>
+
+
+			<a href="/watch-live" class="button button--watch-live button--watch-live-panel-small">Watch Live</a>
+		</div>
+
+		
+
+	</div>
+
+		</li>
+	</ul>
+</nav>
+
+
+		</div>
+
+	 	<a href="/watch-live" class="button button--watch-live button--watch-live-desktop">Watch Live</a>
+
+		<span class="header__header-gradient">
+			<button class="button button--burger js-button js-button-burger" aria-hidden="true">
+				<i class="burger"><span class="button__a11y">Menu</span></i>
+			</button>
+		</span>
+
+		
+	<div class="panel panel--large js-panel js-panel--large">
+
+		
+		<div class="search search--mobile">
+			<form action="/search" method="get" role="search">
+	<span class="search__icon skycon-search"></span>
+	<input type="search" name="term" class="search__input" placeholder="Search Sky News" value="">
+	<input type="hidden" name="filter" value="">
+
+	<button class="search__clear-button skycon-close js-button-close skycon" type="button">
+		<span class="button__a11y">Clear search</span>
+	</button>
+
+	<button type="submit" class="search__button skycon-search"><span class="search__button-text">Search</span></button>
+</form>
+		</div>
+
+		<div class="navigation--panel" data-append="navigation"></div>
+		
+
+		<div class="panel__section">
+			<ul class="social__list">
+	<li class="social__item">
+		<a class="social__link" href="https://twitter.com/SkyNews">
+			<i aria-hidden="true" class="skycon skycon-twitter social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Twitter</span>
+		</a>
+	</li>
+
+	<li class="social__item">
+		<a class="social__link" href="https://www.facebook.com/skynews">
+			<i aria-hidden="true" class="skycon skycon-facebook social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Facebook</span>
+		</a>
+	</li>
+
+	<li class="social__item social__item--last">
+		<a class="social__link" href="https://plus.google.com/+SkyNews">
+			<i aria-hidden="true" class="skycon skycon-google-plus social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Google+</span>
+		</a>
+	</li>
+</ul>
+
+
+			<a href="/watch-live" class="button button--watch-live button--watch-live-panel-large">Watch Live</a>
+		</div>
+
+		
+		<span class="edition edition--panel-large js-edition">
+			<a href="/us" class="js-edition__link edition__link">Switch to US Edition</a>
+		</span>
+		
+
+	</div>
+
+	</div>
+</div>
+
+
+		
+			
+			
+
+	<div class="ad ad--leaderboard" data-id="ad-leaderboard" role="complementary" aria-label="Advertisement"></div>
+
+
+			
+		
+
+		
+
+
+		
+<script>
+	window.skynews.config.analytics.section = 'world/Live Updates: Australia Reacts To Sydney Siege';
+	window.skynews.config.analytics.headline = 'Live Updates: Australia Reacts To Sydney Siege';
+	window.skynews.config.analytics.contentType = 'story';
+	window.skynews.config.analytics.contentId = '1391978';
+</script>
+
+
+<div role="main" class="main">
+
+	<article class="story">
+		
+		<header class="story__header">
+			<h1 class="story__headline story__headline--breaking" aria-label="Breaking News: Live Updates: Australia Reacts To Sydney Siege">
+				<span aria-hidden="true">Live Updates: Australia Reacts To Sydney Siege</span>
+			</h1>
+			<p class="story__standfirst">The latest developments as hostages flee from a cafe in the heart of Sydney&#39;s financial district after over 16 hours.</p>
+			<div class="last-updated">
+				<p class="last-updated__text">
+					<span class="last-updated__time">23:43, UK, </span>
+					<span class="last-updated__day">Monday 15</span>
+					<span class="last-updated__month-year">December 2014</span>
+				</p>
+			</div>
+		</header>
+
+		<!-- "normal" wrapper. Post-story content floated alongside primary and content -->
+		<div class="story__content-outer-wrapper">
+			<div class="story__media">
+				
+					
+						
+					
+					<div class="module module--primary">
+						
+
+	
+		
+
+	<div class="module video" data-format-low="http://video.news.sky.com/video/h264/vod/374/2014/12/DIGI155944MOSYDNEYSIEGEHOSTAGESEARCHED1418659247388374.mp4" data-format-high="http://video.news.sky.com/video/h264/vod/700/2014/12/DIGI155944MOSYDNEYSIEGEHOSTAGESEARCHED1418659247388700.mp4">
+		<div class="video__placeholder-wrapper js-video">
+
+			
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--16x9">
+			<img src="http://media.skynews.com/media/images/generated/2014/12/15/356729/default/v2/cegrab-20141215-150944-186-1-144x81.jpg" class="image__item video__teaser-image js-responsive" data-template="http://media.skynews.com/media/images/generated/2014/12/15/356729/default/v2/cegrab-20141215-150944-186-1-{width}x{height}.jpg" data-sizes="144x81 362x204 762x428 942x530" data-sizes-wide="" data-breakpoint="" alt="" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+			<button class="video__play--icon">
+				<span class="video__play-a11y">Play video "Some Hostages Searched"</span>
+			</button>
+		</div>
+
+		<!--html5 video player: don't add 'display: none' or 'visibility: hidden' to this-->
+		<div class="video__wrapper">
+	        <video class="video__item" data-autoload="true" data-guid="news-1418659247388" data-autoplay="false" data-fwsitesectionid="sky.portal.news:world:story" preload="metadata">
+				<source src="http://video.news.sky.com/video/h264/vod/374/2014/12/DIGI155944MOSYDNEYSIEGEHOSTAGESEARCHED1418659247388374.mp4" type="video/mp4" data-resolution="small" />
+				<source src="http://video.news.sky.com/video/h264/vod/700/2014/12/DIGI155944MOSYDNEYSIEGEHOSTAGESEARCHED1418659247388700.mp4" type="video/mp4" data-resolution="medium" />
+	        </video>
+    	</div>
+
+        
+		<span  class="video__caption" aria-hidden="true">
+			<span class="video__type">Video:</span>
+			<span class="video__teaser">Some Hostages Searched</span>
+		</span>
+		
+
+	</div>
+
+	
+
+
+					</div>
+				
+			</div>
+
+			<!-- "wide primary" wrapper. Post-story content floated alongside content only -->
+			<div class="story__content-wrapper">
+
+				
+	
+
+	<div class="share ">
+		<ul class="share__list" data-tracking-module="social">
+			<li class="share__item">
+				<a target="_blank" class="share__link js-share" href="https://twitter.com/intent/tweet?text=Live%20Updates%3A%20Australia%20Reacts%20To%20Sydney%20Siege&amp;url=http%3A%2F%2Fnews.sky.com%2Fstory%2F1391978%2Flive-updates-australia-reacts-to-sydney-siege" data-tracking-label="Twitter">
+					<i aria-hidden="true" class="skycon skycon-twitter share--icon"></i>
+					<span class="a11y">Share on Twitter</span>
+				</a>
+			</li>
+
+			<li class="share__item">
+				<a target="_blank" class="share__link js-share" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnews.sky.com%2Fstory%2F1391978%2Flive-updates-australia-reacts-to-sydney-siege&amp;t=Shared%20from%20Sky%20News%3A%20Live%20Updates%3A%20Australia%20Reacts%20To%20Sydney%20Siege" data-tracking-label="Facebook">
+					<i aria-hidden="true" class="skycon skycon-facebook share--icon"></i>
+					<span class="a11y">Share on Facebook</span>
+				</a>
+			</li>
+
+			<li class="share__item">
+				<a target="_blank" class="share__link js-share" href="https://plus.google.com/share?url=http%3A%2F%2Fnews.sky.com%2Fstory%2F1391978%2Flive-updates-australia-reacts-to-sydney-siege" data-tracking-label="GooglePlus">
+					<i aria-hidden="true" class="skycon skycon-google-plus share--icon"></i>
+					<span class="a11y">Share on Google+</span>
+				</a>
+			</li>
+
+
+			<li class="share__item share__item-whatsapp">
+				<a target="_blank" class="share__link js-share" href="whatsapp://send?text=Shared%20from%20Sky%20News%3A%20Live%20Updates%3A%20Australia%20Reacts%20To%20Sydney%20Siege%20http%3A%2F%2Fnews.sky.com%2Fstory%2F1391978%2Flive-updates-australia-reacts-to-sydney-siege" data-tracking-label="WhatsApp">
+					<i aria-hidden="true" class="skycon skycon-whatsapp share--icon"></i>
+					<span class="a11y">Share on Whatsapp</span>
+				</a>
+			</li>
+
+
+			<li class="share__item share__item--last">
+				<a class="share__link" href="mailto:?to=&amp;subject=Shared%20from%20Sky%20News%3A%20Live%20Updates%3A%20Australia%20Reacts%20To%20Sydney%20Siege&amp;body=Shared%20from%20Sky%20News%3A%20Live%20Updates%3A%20Australia%20Reacts%20To%20Sydney%20Siege%20http%3A%2F%2Fnews.sky.com%2Fstory%2F1391978%2Flive-updates-australia-reacts-to-sydney-siege"  data-tracking-label="Email">
+					<i aria-hidden="true" class="skycon skycon-mail share--icon"></i>
+					<span class="a11y">Share by email</span>
+				</a>
+			</li>
+		</ul>
+	</div>
+
+	<script>
+		if( /Android|iPhone/i.test(navigator.userAgent) ) {
+			var shareBlocks = document.querySelectorAll('.share__item-whatsapp');
+			for (var i in shareBlocks) {
+				shareBlocks[i].style.display = 'block';
+			}
+		}
+	</script>
+
+
+				
+
+				<div class="story__content story__content--liveblog">
+					
+
+						
+
+						
+
+						
+							
+	
+	<div class="liveblog" id="liveblog-1391976"></div>
+
+	<script type="text/javascript" src="https://cdn.livefyre.com/Livefyre.js"></script>
+
+	<script type="text/javascript">
+		'use strict';
+
+		var getCookie = function (sKey) {
+				return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+			},
+
+			SSO_token = getCookie('skyCFsidlf01'),
+			
+			networkConfig = {
+				network: 'bskyb.fyre.co'
+			},
+			
+			convConfig = {
+				siteId: '360932',
+				articleId: '1391976',
+				el: 'liveblog-1391976',
+				collectionMeta: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwOi8vbmV3cy5za3kuY29tL3N0b3J5LzEzOTE5NzYiLCJ0YWdzIjoiIiwidGl0bGUiOiJMaXZlIFVwZGF0ZXM6IFNpZWdlIEluIExpbmR0IENhZmUiLCJhcnRpY2xlSWQiOjEzOTE5NzYsInR5cGUiOiJsaXZlYmxvZyJ9.TqztsEjuanWUcv1sehKvppDjVS5UH5AhLaMz7ECp__g'
+			};
+
+		Livefyre.require(['fyre.conv#3', 'auth'], function(Conv, auth) {
+			new Conv(networkConfig, [convConfig]);
+
+			auth.delegate({
+				login: function() {
+					window.location.assign('https://skyid.sky.com/signin/news?successUrl=' + window.location.href);
+				},
+
+				logout: function(errback) {
+					errback(null); // Notifies Livefyre that logout was successful
+
+					window.location.assign('https://skyid.sky.com/signout/news?successUrl=' + window.location.href);
+				},
+
+				viewProfile: function() {
+					return false;
+				}
+			});
+
+			auth.authenticate({ livefyre: SSO_token });
+		});
+
+	</script>
+
+
+						
+					
+				</div>
+
+				
+
+	<section class="partner-links partner-links--story" data-external="9" data-internal="3" data-widgetid="APP_2">
+
+		<script type="text/template" class="outbrain__template--external">
+			<li class="partner-links__item partner-links__item--{counter} partner-links__item--{parity}">
+				<a href="{href}" class="partner-links__link">
+					<div class="image">
+						<div class="image__wrapper image__wrapper--4x3">
+							<img src="{image}" alt="" />
+							
+						</div>
+					</div>
+					<span class="headline">{headline}</span>
+					<span class="partner-links__source">{source}</span>
+				</a>
+			</li>
+		</script>
+
+		<script type="text/template" class="outbrain__template--internal">
+			<li class="partner-links__item partner-links__item--{counter} partner-links__item--{parity}">
+				<a href="{href}" class="partner-links__link">
+					<div class="image">
+						<div class="image__wrapper image__wrapper--4x3">
+							<img src="{image}" alt="" />
+							
+						</div>
+					</div>
+					<span class="headline">{headline}</span>
+				</a>
+			</li>
+		</script>
+
+		<div class="partner-links__external">
+			<h2 class="partner-links__title">Promoted Stories</h2>
+
+			<ul class="partner-links__list js-partner-links"></ul>
+		</div>
+
+		<div class="partner-links__internal">
+			<h2 class="partner-links__title">From Sky News</h2>
+
+			<ul class="partner-links__list partner-links__list--internal js-partner-links-internal"></ul>
+		</div>
+
+		<span class="partner-links__recommended js-show-recommended">
+			<a href="http://www.outbrain.com/what-is/default/en" class="partner-links__link partner-links__link--desktop" target="_blank">Recommended by <span class="partner-links__name">Outbrain</span></a>
+			<a href="http://blog.outbrain.com/whatismobilepage" class="partner-links__link partner-links__link--mobile" target="_blank">Recommended by <span class="partner-links__name">Outbrain</span></a>
+		</span>
+	</section>
+
+
+
+				<div class="story__other" data-append="story__other"></div>
+			</div>
+
+			
+
+			<!-- end "wide primary" wrapper -->
+		</div>
+		<!-- end "normal" wrapper -->
+
+		
+
+<section class="story__post-content">
+	
+	
+	
+
+	<div class="ad ad--mpu" data-id="ad-mpu" role="complementary" aria-label="Advertisement"></div>
+
+
+	
+
+	
+	
+	
+	
+	
+		
+		<div class="top-stories top-stories--story">
+			
+				<h2 id="top-stories__title" class="top-stories__title">Top Stories</h2>
+			
+		    <ol class="top-stories__list" aria-labelledby="top-stories__title">
+		
+				
+				
+				<li class="top-stories__item top-stories__item--1 top-stories__item--odd">
+					
+
+	<a class="top-stories__link" href="/story/1451062/pm-branded-arrogant-as-third-term-ruled-out">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2015/3/23/379426/default/v1/cameron-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/3/23/379426/default/v1/cameron-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">PM Branded &#39;Arrogant&#39; As Third Term Ruled Out</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+	
+		
+				
+				
+				<li class="top-stories__item top-stories__item--2 top-stories__item--even">
+					
+
+	<a class="top-stories__link" href="/story/1450869/george-osborne-says-economy-still-struggling">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2015/3/23/379415/default/v2/george-osborne-001-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/3/23/379415/default/v2/george-osborne-001-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">George Osborne Says Economy Still Struggling</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+	
+		
+				
+				
+				<li class="top-stories__item top-stories__item--3 top-stories__item--odd">
+					
+
+	<a class="top-stories__link" href="/story/1450929/ed-balls-mansion-tax-will-save-the-nhs">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2015/3/23/379411/default/v1/ed-balls-003-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/3/23/379411/default/v1/ed-balls-003-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">Ed Balls: Mansion Tax Will Save The NHS</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+	
+		
+				
+				
+				<li class="top-stories__item top-stories__item--4 top-stories__item--even">
+					
+
+	<a class="top-stories__link" href="/story/1450844/claudia-lawrence-man-arrested-for-murder">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2014/3/19/296883/default/v2/9798260-1-2-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2014/3/19/296883/default/v2/9798260-1-2-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">Claudia Lawrence: Man Arrested For Murder</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+	
+		
+				
+				
+				<li class="top-stories__item top-stories__item--5 top-stories__item--odd top-stories__item--last">
+					
+
+	<a class="top-stories__link" href="/story/1450904/dj-neil-fox-charged-with-child-sex-offences">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2014/9/30/339215/default/v1/180366258-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2014/9/30/339215/default/v1/180366258-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">DJ Neil Fox Charged With Child Sex Offences</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+			</ol>
+		</div>
+		
+	
+
+
+	
+<div class="promo-watchlive js-promo-watchlive" data-src="/images/de8279f1.promo-watchlive-600x1000.jpg" data-alt="Sky promo watch live"></div>
+
+</section>
+
+	</article>
+
+	<div class="other" data-append="story__other"></div>
+
+</div>
+
+
+
+		<footer class="js-footer footer" role="contentinfo">
+
+	<div class="footer__columns">
+
+		<div class="js-footer__section footer__section footer__section--first">
+			<h2 class="footer__heading"><span class="footer__heading-text">About Sky News</span><i class="skycon-chevron-down footer__heading--icon" aria-hidden="true"></i></h2>
+			<div class="footer__list-wrapper">
+				<ul class="footer__list">
+					<li class="footer__item"><a class="footer__link" href="https://corporate.sky.com/media-centre/news-page?categoriesPiD=aa00d2f4b45441d9b2fbd0d369d5380a">About Us</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.skynewsinternational.com">Sky News International</a></li>
+					<li class="footer__item"><a class="footer__link" href="/info/library-sales">Sky News Library Sales</a></li>
+					<li class="footer__item"><a class="footer__link" href="/info/sitemap">Site Map</a></li>
+					<li class="footer__item"><a class="footer__link" href="/docs/sky_news_editorial_guidelines.pdf">Editorial Guidelines</a></li>
+					<li class="footer__item footer__item--last"><a class="footer__link" href="/supreme-court-live">Supreme Court Live</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="js-footer__section footer__section">
+			<h2 class="footer__heading"><span class="footer__heading-text">Sky News Services</span><i class="skycon-chevron-down footer__heading--icon" aria-hidden="true"></i></h2>
+			<div class="footer__list-wrapper">
+				<ul class="footer__list">
+					<li class="footer__item"><a class="footer__link" href="http://devices.news.sky.com/">Sky News for iPad</a></li>
+					<li class="footer__item"><a class="footer__link" href="/info/rss">Sky News RSS</a></li>
+					<li class="footer__item"><a class="footer__link" href="/info/smartphones">Sky News for Smartphones</a></li>
+					<li class="footer__item footer__item--last"><a class="footer__link" href="/info/radio">Sky News Radio</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="js-footer__section footer__section">
+			<h2 class="footer__heading"><span class="footer__heading-text">Sky Channels</span><i class="skycon-chevron-down footer__heading--icon" aria-hidden="true"></i></h2>
+			<div class="footer__list-wrapper">
+				<ul class="footer__list">
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/sky1">Sky 1</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/skyliving">Sky Living</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/skyatlantic">Sky Atlantic</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/skyarts">Sky Arts</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://skymovies.sky.com">Sky Movies</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/sky3d">Sky 3D</a></li>
+					<li class="footer__item footer__item--last"><a class="footer__link" href="http://www.skysports.com">Sky Sports</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="js-footer__section footer__section footer__section--last">
+			<h2 class="footer__heading"><span class="footer__heading-text">More Sky Sites</span><i class="skycon-chevron-down footer__heading--icon" aria-hidden="true"></i></h2>
+			<div class="footer__list-wrapper">
+				<ul class="footer__list">
+					<li class="footer__item"><a class="footer__link" href="http://www.nowtv.com">NOW TV</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/academy">Sky Academy</a></li>				
+					<li class="footer__item"><a class="footer__link" href="http://corporate.sky.com/the_bigger_picture">Bigger Picture</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.goskyride.com">Sky Ride</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://corporate.sky.com/">Sky Corporate</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.skybet.com">Sky Bet</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com">Sky.com</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.skynewsarabia.com">Sky News Arabia</a></li>
+					<li class="footer__item footer__item--last"><a class="footer__link" href="http://www.skymedia.co.uk/?utm_source=Sky%20News&amp;utm_medium=Web%20page&amp;utm_content=Sky%20News%20web%20page&amp;utm_campaign=Sky%20News%20web%20page">Advertise With Us</a></li>
+				</ul>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="sub-footer">
+		<ul class="sub-footer__list">
+			<li class="sub-footer__item sub-footer__item--first"><a href="http://help.sky.com/my-account/terms-and-conditions/skycom-terms-and-conditions/" class="sub-footer__link">Terms &amp; Conditions</a></li>
+			<li class="sub-footer__item"><a href="http://help.sky.com/security/privacy/privacy-and-cookies-notice" class="sub-footer__link">Privacy &amp; Cookies Notice</a></li>
+			<li class="sub-footer__item"><a href="http://accessibility.sky.com/" class="sub-footer__link">Accessibility Information</a></li>
+			<li class="sub-footer__item sub-footer__item--last"><a href="/info/contact-us" class="sub-footer__link">Contact Us</a></li>
+		</ul>
+
+		<p class="footer__copyright"><i class="footer__sky-logo skycon skycon-sky"></i> &copy; 2015 BSkyB</p>
+	</div>
+</footer>
+
+	</div>
+
+	<script data-main="/scripts/693b6095.optimized" src="/scripts/10d86eb6.require.min.js"></script>
+
+	
+
+	<script type="text/javascript">
+		var _sf_async_config={},
+			_comscore = _comscore || [];
+  
+		_comscore.push({ c1: "2", c2: "6035677" });
+		
+		_sf_async_config.uid = "34974";
+		_sf_async_config.domain = "news.sky.com"; /** CHANGE THIS **/
+		_sf_async_config.useCanonical = true;
+		
+		(function(){
+			function loadChartbeat() {
+				window._sf_endpt=(new Date()).getTime();
+				var e = document.createElement("script");
+				e.setAttribute("language", "javascript");
+					e.setAttribute("type", "text/javascript");
+				e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+				document.body.appendChild(e);
+			}
+
+			function loadComscore() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+
+				s.async = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			}
+
+			function loadScripts() {
+				if (window.skynews.config.analytics.chartbeat.enabled) loadChartbeat();
+				loadComscore();
+			}
+
+			var oldonload = window.onload;
+			window.onload = (typeof window.onload != "function") ? loadScripts : function() { oldonload(); loadScripts(); };
+		})();
+	</script>
+
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035677&amp;cv=2.0&amp;cj=1" alt=""/>
+	</noscript>
+
+	
+</body>
+</html>

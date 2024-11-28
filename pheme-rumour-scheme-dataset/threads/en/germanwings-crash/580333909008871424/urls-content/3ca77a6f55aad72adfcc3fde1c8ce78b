@@ -1,0 +1,637 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 21 Apr 2015 21:14:19 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 191
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://awdnews.com/breaking-news/11334-germanwings-plane-crashes-in-france,-up-to-150-believed-dead.html
+Mime-Version: 1.0
+Set-Cookie: _bit=5536bdab-00043-022ca-291cf10a;domain=.bit.ly;expires=Sun Oct 18 21:14:19 2015;path=/; HttpOnly
+
+HTTP/1.1 200 OK
+Date: Tue, 21 Apr 2015 21:14:22 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.39
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Content-Encoding: gzip
+X-Content-Encoded-By: Joomla! 2.5
+Cache-Control: no-cache
+Pragma: no-cache
+Set-Cookie: b144b1f91e55080ff2293266187d9224=04922a353e0018e21d9067fc1b062292; path=/
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en-gb">
+<head>
+
+
+
+
+
+
+      <base href="http://awdnews.com/breaking-news/11334-germanwings-plane-crashes-in-france,-up-to-150-believed-dead.html" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Germanwings,  Lufthansa,  Plane crash,  A320,  Airbus,  Airplane,  France,  Flight,  4U925" />
+  <meta name="author" content="OLIVIA" />
+  <meta name="description" content="An Airbus plane operated by Lufthansa's Germanwings budget airline crashed in southern France on Tuesday en route from Barcelona to Dusseldorf, police and aviation officials said.
+ 
+French Prime Min" />
+  <title>AWDNews - Germanwings plane crashes in France, up to 150 believed dead</title>
+  <link href="/templates/awdnew/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="http://awdnews.com/component/search/?Itemid=283&amp;catid=43&amp;id=11334&amp;format=opensearch" rel="search" title="Search AWDNews" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="http://awdnews.com/plugins/system/sl_scrolltotop/assets/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/yo_related_news/yo_related_news/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="http://awdnews.com/plugins/content/mavikthumbnails/style.php?base=http://awdnews.com/" type="text/css" />
+  <link rel="stylesheet" href="http://awdnews.com/plugins/content/golemsharebuttons/css/style32.css" type="text/css" />
+  <link rel="stylesheet" href="http://awdnews.com/plugins/content/jlikeit/jlikeit/css/jlikeit.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_sptab/assets/css/style8.css.php?id=188" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_fewestread/fewestread.css" type="text/css" />
+  <link rel="stylesheet" href="http://awdnews.com/modules/mod_jvnews/tmpl/Default/css/jvnews.css" type="text/css" />
+  <style type="text/css">
+
+				
+				.yo_related_5536bdb0af781 .tip {
+					color: #000;					
+					width: 350px;
+					z-index: 13000;
+					background: #FFFFFF;
+					padding: 1px;
+					border: 1px solid #BBBBBB;
+				}
+				 
+				.yo_related_5536bdb0af781 .tip .tip-title {
+					font-weight: bold;
+					font-size: 11px;
+					margin: 0;
+					color: #000000;
+					padding: 8px 8px 4px;
+					background: #F4F4F4;
+					border-bottom: 1px solid #CCCCCC;					
+				}
+				 
+				.yo_related_5536bdb0af781 .tip .tip-text {
+					font-size: 11px;
+					padding: 4px 8px 8px;
+					background: #F4F4F4;
+					border-top: 1px solid #FFFFFF;
+					overflow: hidden;
+				}
+				#sptab188 .tabs_mask, #sptab188 ul.tabs_container li span {height:30px;line-height:30px;}#sptab188 .tab-padding {padding:5px}
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="http://awdnews.com/plugins/system/sl_scrolltotop/assets/js/skyline_scrolltotop.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="/modules/mod_sptab/assets/js/sptab.js" type="text/javascript"></script>
+  <script src="http://awdnews.com/modules/mod_jvnews/tmpl/Default/js/tip.js" type="text/javascript"></script>
+  <script type="text/javascript">
+document.addEvent('domready', function() {
+	new Skyline_ScrollToTop({
+		'text':			'Scroll to Top',
+		'title':		'Scroll to Top',
+		'class':		'scrollToTop-icon',
+		'duration':		500,
+		'transition':	Fx.Transitions.linear
+	});
+});window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});/* <![CDATA[ */
+function showtime () {
+	var now = new Date();
+	var hours = now.getHours();
+	var minutes = now.getMinutes();
+	var seconds = now.getSeconds();	
+	var shownow = hours+minutes+seconds;
+	return shownow;
+}		
+window.addEvent( 'domready', function() {
+		
+		$$('.like-11334 img').addEvent('click', function(likeit) {
+			likeit.stop();
+			var ajax = new Request({
+				url: 'http://awdnews.com/plugins/content/jlikeit/jlikeit/likeit.php?task=like&article_id=11334'+'&time=' + showtime(),
+				method: 'get',
+				noCache: 'true',
+				onRequest: function(load) {
+					$('status-11334').empty();
+					$('status-11334').set('html','<span class="status-img"><img class="loading-img" src="http://awdnews.com/plugins/content/jlikeit/jlikeit/images/loading.gif"/></span><span class="status-msg">LOADING</span>');
+	           	},				
+				onComplete: function(response) {
+					var res = JSON.decode(response);
+					$('status-'+res.article).empty();
+				
+					if (res.msg) {
+						$('status-'+res.article).set('html',res.msg);
+					}
+					if (res.count){
+						$('lc-'+res.article).empty();
+						$('lc-'+res.article).set('html',res.count);
+					}
+				}		
+			}).send();
+						
+		});
+		
+		$$('.unlike-11334 img').addEvent('click', function(unlikeit) {
+			unlikeit.stop();
+			var ajax = new Request({
+				url: 'http://awdnews.com/plugins/content/jlikeit/jlikeit/unlikeit.php?task=unlike&article_id=11334'+'&time=' + showtime(),
+				method: 'get',
+				noCache: 'true',
+				onRequest: function(load) {
+					$('status-11334').empty();
+					$('status-11334').set('html','<span class="status-img"><img class="loading-img" src="http://awdnews.com/plugins/content/jlikeit/jlikeit/images/loading.gif"/></span><span class="status-msg">LOADING</span>');
+	           	},				
+				onComplete: function(response) {
+					var res = JSON.decode(response);
+					$('status-'+res.article).empty();;			
+					if (res.msg) {
+						$('status-'+res.article).set('html',res.msg);
+						//new Element('div',{id: 'loading'}).setHTML(res.msg).injectInside($('status-'+res.article));
+					}
+					if (res.count){
+						$('unlc-'+res.article).empty();
+						$('unlc-'+res.article).set('html',res.count);
+						//new Element('div').setHTML(res.count).injectInside($('unlc-'+res.article));
+					}								
+				}		
+			}).send();
+						
+		});		
+});
+/* ]]> */
+  </script>
+
+    <link rel="stylesheet" href="/templates/system/css/system.css" />
+    <link rel="stylesheet" href="/templates/system/css/general.css" />
+
+
+    
+    
+
+    <!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link rel="stylesheet" href="/templates/awdnew/css/template.css" media="screen">
+    <!--[if lte IE 7]><link rel="stylesheet" href="/templates/awdnew/css/template.ie7.css" media="screen" /><![endif]-->
+
+
+    <script>if ('undefined' != typeof jQuery) document._artxJQueryBackup = jQuery;</script>
+    <script src="/templates/awdnew/jquery.js"></script>
+    <script>jQuery.noConflict();</script>
+
+    <script src="/templates/awdnew/script.js"></script>
+        <script>if (document._artxJQueryBackup) jQuery = document._artxJQueryBackup;</script>
+
+
+
+
+
+</head>
+<body>
+
+<div id="art-main">
+    <div id="art-header-bg">
+            </div>
+    <div class="art-sheet clearfix">
+<header class="art-header">
+
+    <div class="art-shapes">
+
+            </div>
+                
+</header>
+<nav class="art-nav">
+    
+<div class="art-hmenu-extra1">
+
+<div class="custom"  >
+	<div style="position: absolute; left: 459px; top: -33px; width: 288px; height: 30px;"><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413442spacer.png" border="0" alt="" /><a href="#whatsapp"><img src="/images/whatsapp.png" border="0" alt="" width="30px" /></a><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413442spacer.png" border="0" alt="" /><a href="https://www.facebook.com/pages/Awdnews-English/1388303298124933?ref=hl" target="_blank"><img src="/images/1379413049facebook-icon2.png" border="0" alt="" /></a><img src="/images/1379413442spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><a href="https://twitter.com/EN_AWDNEWS" target="_blank"><img src="/images/1397548026twitter1.png" border="0" alt="" /></a><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><a href="https://plus.google.com/u/0/100207875151427122939/posts"><img src="/images/1397548242google.png" border="0" alt="" /></a><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><a href="/feed?format=feed&amp;type=rss" target="_blank"><img src="/images/1379413002communication-rss-icon11.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /><img src="/images/1379413017spacer.png" border="0" alt="" /></a></div></div>
+</div>
+<div class="art-hmenu-extra2">
+
+<div class="custom"  >
+	<div style="position: absolute; left: -1050px; top: -110px; width: 137px; height: 21px;"><!-- START: Modules Anywhere --><div style="font-family: tahoma ! important;display: inline-block !important;text-align: right ! important; text-decoration: none ! important;color:#0099dc ! important; font-size:14px ! important;width: 100% ! important;
+font-weight:bold;
+"><a style="font-size: 1px; color: transparent;" href="/">.</a><div style="float: right;padding: 3px 5px ! important;">Apr 21 2015<a href="/" style="font-size: 1px; color: transparent;">.</a><div style="float: right; padding-left: 5px;"> </div></div></div><!-- END: Modules Anywhere --></div></div>
+
+
+<div class="custom"  >
+	<div style="position: absolute; left: -235px; top: -35px; width: 277px; height: 44px;"><!-- START: Modules Anywhere --> 
+<form method="get" action="http://www.google.com/search" target="_blank">
+    <input type="text" name="q" value="" />
+    <input type="hidden" name="sitesearch" value="awdnews.com"/>
+    <input type="submit" value="Search" />
+</form><!-- END: Modules Anywhere --></div></div>
+</div>
+<ul class="art-hmenu"><li class="item-101"><a href="/">Home</a></li><li class="item-164"><a href="/political.html">Political</a></li><li class="item-298"><a href="/society.html">Society</a></li><li class="item-163"><a href="/economy.html">Economy</a></li><li class="item-166"><a href="/sport.html">Sport</a></li><li class="item-167"><a href="/technology.html">Technology</a></li><li class="item-169"><a href="/entertainment.html">Entertainment</a></li><li class="item-301"><a href="/contact-us.html">Contact Us</a></li></ul>
+
+<div class="custom"  >
+	<div style="position: absolute; left: -95px; top: 2px; width: 186px; height: 29px;"><img src="/images/1391593463en.png" border="0" alt="" /><img src="/images/spacer.png" border="0" alt="" /><a href="http://fr.awdnews.com/"><img src="/images/13713706232-fr.png" border="0" alt="" /></a><img src="/images/spacer.png" border="0" alt="" /><a href="http://es.awdnews.com/"><img src="/images/13713706473-es.png" border="0" alt="" /></a><img src="/images/spacer.png" border="0" alt="" /><a href="http://de.awdnews.com/"><img src="/images/13713706916-de.png" border="0" alt="" /></a></div></div>
+ 
+    </nav>
+<div class="art-layout-wrapper">
+                <div class="art-content-layout">
+                    <div class="art-content-layout-row">
+                        <div class="art-layout-cell art-content">
+
+
+
+
+
+
+<div style="position: relative;top: 0px;left:-25px; width:30px;height:1px;display:block;" >
+
+</div>
+
+
+
+
+
+<article class="art-post art-messages"><div class="art-postcontent clearfix">
+<div id="system-message-container">
+</div></div></article>
+		<script type="text/javascript">
+		window.addEvent('load', function(){
+			var yo_related_5536bdb0af781 = new Tips($$('.yo_related_5536bdb0af781'), {
+				showDelay: 0,
+				hideDelay: 0,
+				className: 'yo_related_5536bdb0af781',
+				onShow: function(toolTipElement){
+				    //passes the tooltip element
+					//you can fade in to full opacity
+					//or leave them a little transparent
+			    	toolTipElement.fade(1);
+					
+				},
+				onHide: function(toolTipElement){
+			    	toolTipElement.fade(0);
+					
+				}
+			});
+		});		
+		</script>
+		<div class="item-page"><article class="art-post"><div class="art-postmetadataheader"><h2 class="art-postheader"><a href="/breaking-news/11334-germanwings-plane-crashes-in-france,-up-to-150-believed-dead.html">Germanwings plane crashes in France, up to 150 believed dead</a></h2></div><div class="art-postheadericons art-metadata-icons"><span class="art-postdateicon">Published on Tuesday, 24 March 2015 11:31</span> | <span class="hitss">8415</span></div><div class="art-postcontent clearfix"><div id="watch_action"> <div id="watch_position" style="float:right; " > <div id="action_like" > <span class="like-11334 like"><img class="lbg-default jlk" src="http://awdnews.com/plugins/content/jlikeit/jlikeit/images/pixel.gif"></span>  <span id="lc-11334" class="lc">+&nbsp;0</span>  </div>  <div id="action_unlike" > <span class="unlike-11334 unlike"><img class="unlbg-default jlk" src="http://awdnews.com/plugins/content/jlikeit/jlikeit/images/pixel.gif"></span>  <span id="unlc-11334" class="unlc">+&nbsp;0</span>  </div>  </div>  <div id="status-11334" class="status" style="float:right; "  >  </div>  </div>  <div id="clear"></div><div class="art-article"><ul class="golem_share_buttons" id="golem_share_buttons"><li>
+			<a class="golem_button_facebook" id="golem_button_facebook" href="https://www.facebook.com/share.php?u=http%3A%2F%2Fawdnews.com%2Fbreaking-news%2F11334-germanwings-plane-crashes-in-france%2C-up-to-150-believed-dead.html&t=Germanwings+plane+crashes+in+France%2C+up+to+150+believed+dead" title="Facebook" target="_blank">&nbsp;</a>&nbsp;
+			</li><li>
+			<a class="golem_button_twitter" id="golem_button_twitter" href="https://twitter.com/intent/tweet?text=Reading: Germanwings+plane+crashes+in+France%2C+up+to+150+believed+dead&url=http%3A%2F%2Fawdnews.com%2Fbreaking-news%2F11334-germanwings-plane-crashes-in-france%2C-up-to-150-believed-dead.html" title="Twitter" target="_blank">&nbsp;</a>&nbsp;
+			</li><li>
+			<a class="golem_button_linkedin" id="golem_button_linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fawdnews.com%2Fbreaking-news%2F11334-germanwings-plane-crashes-in-france%2C-up-to-150-believed-dead.html&title=Germanwings+plane+crashes+in+France%2C+up+to+150+believed+dead&ro=false&summary=&source=
+			" title="Linkedin" target="_blank">&nbsp;</a>&nbsp;
+			</li><li>
+			<a class="golem_button_stumbleupon" id="golem_button_stumbleupon" href="https://www.stumbleupon.com/submit?url=http%3A%2F%2Fawdnews.com%2Fbreaking-news%2F11334-germanwings-plane-crashes-in-france%2C-up-to-150-believed-dead.html&title=Germanwings+plane+crashes+in+France%2C+up+to+150+believed+dead" title="Stumbleupon" target="_blank">&nbsp;</a>&nbsp;
+			</li><li>
+			<a class="golem_button_reddit" id="golem_button_reddit" href="http://www.reddit.com/submit?url=http%3A%2F%2Fawdnews.com%2Fbreaking-news%2F11334-germanwings-plane-crashes-in-france%2C-up-to-150-believed-dead.html&title=Germanwings+plane+crashes+in+France%2C+up+to+150+believed+dead" title="Reddit" target="_blank">&nbsp;</a>&nbsp;
+			</li></ul><div style="text-align: justify;"><a class="modal thumbnail zoomin-cur" style="" href="/images/14271966621.jpg" rel="{handler: 'image', marginImage: {x: 50, y: 50}}" title=""><img src="/images/thumbnails/images/14271966621-556x370.jpg" border="0" alt="" style="display: block; margin-left: auto; margin-right: auto;" height="370" width="556" /></a><br /><br />An Airbus plane operated by Lufthansa's Germanwings budget airline crashed in southern France on Tuesday en route from Barcelona to Dusseldorf, police and aviation officials said.</div>
+<div style="text-align: justify;"> </div>
+<div style="text-align: justify;">French Prime Minister Manuel Valls said he understood between 142 and 150 people were on board and feared dead.</div>
+<div style="text-align: justify;"> </div>
+<div style="text-align: justify;">"The cause is at present unknown," he told reporters.</div>
+<div style="text-align: justify;"> </div>
+<div style="text-align: justify;">A spokesman for the DGAC aviation authority said the airplane crashed near the town of Barcelonnette about 100 km (65 miles) north of the French Riviera city of Nice.</div>
+<div style="text-align: justify;"> </div>
+<div style="text-align: justify;">Lufthansa's Germanwings unit said it was as yet unable to verify reports of the crash.</div>
+<div style="text-align: justify;"> </div>
+<div style="text-align: justify;">The crashed A320 is 24 years old and has been with the parent Lufthansa group since 1991.</div> <div class="yo_related_tags">Tags:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/component/search/?searchword=Germanwings&amp;searchphrase=exact" target="_blank">Germanwings</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/component/search/?searchword=Lufthansa&amp;searchphrase=exact" target="_blank">Lufthansa</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/component/search/?searchword=Plane%20crash&amp;searchphrase=exact" target="_blank">Plane crash</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/component/search/?searchword=A320&amp;searchphrase=exact" target="_blank">A320</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/component/search/?searchword=Airbus&amp;searchphrase=exact" target="_blank">Airbus</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/component/search/?searchword=Airplane&amp;searchphrase=exact" target="_blank">Airplane</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/component/search/?searchword=France&amp;searchphrase=exact" target="_blank">France</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/component/search/?searchword=Flight&amp;searchphrase=exact" target="_blank">Flight</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/component/search/?searchword=4U925&amp;searchphrase=exact" target="_blank">4U925</a> </div><div id="yo_accordion_news"><div class="yo_related_news"><div class="yo_related_news_inner"><h3 class="toggler atStart">Related Articles</h3><div class="element atStart"><ul>
+					<li>				
+						 <a class="yo_related_5536bdb0af781" title="Airport ground crew goats" rel="&lt;img title=&quot;Airport ground crew goats&quot; alt=&quot;Airport ground crew goats&quot; src=&quot;http://awdnews.com/images/14296374400.jpg&quot; border=&quot;0&quot; style=&quot;float: left; padding: 5px; width: 117px;&quot; /&gt;..." href="/photo-stories/11544-airport-ground-crew-goats.html">Airport ground crew goats</a>  <small> -  (Created: 2015-04-21 17:33:24)</small>		
+					</li>
+					<li>				
+						 <a class="yo_related_5536bdb0af781" title="Other People Die From Smoking, Not Me: Smokers" rel="&lt;img title=&quot;Other People Die From Smoking, Not Me: Smokers&quot; alt=&quot;Other People Die From Smoking, Not Me: Smokers&quot; src=&quot;http://awdnews.com/images/14295465141.jpg&quot; border=&quot;0&quot; style=&quot;float: left; padding: 5px; width: 117px;&quot; /&gt;Answer this question: Does your risk of lung cancer decrease once you stop smoking? A new public health survey revealed that many people do not know the correct answer (which is 'No'). Despite decades of anti-smoking campaigns, say French researchers at the European Lung Cancer Conference in Geneva, Switzerland, many..." href="/society/11534-other-people-die-from-smoking,-not-me-smokers.html">Other People Die From Smoking, Not Me: Smokers</a>  <small> -  (Created: 2015-04-20 16:15:35)</small>		
+					</li>
+					<li>				
+						 <a class="yo_related_5536bdb0af781" title="Another Lufthansa accident was going to take more lives" rel="&lt;img title=&quot;Another Lufthansa accident was going to take more lives&quot; alt=&quot;Another Lufthansa accident was going to take more lives&quot; src=&quot;http://awdnews.com/images/14295451221.jpg&quot; border=&quot;0&quot; style=&quot;float: left; padding: 5px; width: 117px;&quot; /&gt;The airline had invited the family of Germanwings’ victims who died in the Airbus A320 crash on March 24, to Germany to say goodbye to their beloved.
+ 
+But many passengers including the family of the Iranian reporters who died in Germanwings crash were also about to experience an aviation disaster en..." href="/top-news/11533-another-lufthansa-accident-was-going-to-take-more-lives.html">Another Lufthansa accident was going to take more lives</a>  <small> -  (Created: 2015-04-20 15:53:49)</small>		
+					</li>
+					<li>				
+						 <a class="yo_related_5536bdb0af781" title="Germanwings co-pilot had been rejected by Turkish Airlines" rel="&lt;img title=&quot;Germanwings co-pilot had been rejected by Turkish Airlines&quot; alt=&quot;Germanwings co-pilot had been rejected by Turkish Airlines&quot; src=&quot;http://awdnews.com/images/14295440571.jpg&quot; border=&quot;0&quot; style=&quot;float: left; padding: 5px; width: 117px;&quot; /&gt;New information has revealed that Andreas Lubitz, the Germanwings co-pilot who committed suicide on March 24, killing all 150 people on board his flight, was one of 80 recent flight school graduates who would have been employed with Turkish Airlines (THY) if a deal with Lufthansa had gone through.
+ 
+The group..." href="/top-news/11532-germanwings-co-pilot-had-been-rejected-by-turkish-airlines.html">Germanwings co-pilot had been rejected by Turkish Airlines</a>  <small> -  (Created: 2015-04-20 15:36:28)</small>		
+					</li>
+					<li>				
+						 <a class="yo_related_5536bdb0af781" title="Plane graveyard" rel="&lt;img title=&quot;Plane graveyard&quot; alt=&quot;Plane graveyard&quot; src=&quot;http://awdnews.com/images/14294556360.jpg&quot; border=&quot;0&quot; style=&quot;float: left; padding: 5px; width: 117px;&quot; /&gt;..." href="/photo-stories/11530-plane-graveyard.html">Plane graveyard</a>  <small> -  (Created: 2015-04-19 15:02:48)</small>		
+					</li>
+					<li>				
+						 <a class="yo_related_5536bdb0af781" title="Aerial acrobatics" rel="&lt;img title=&quot;Aerial acrobatics&quot; alt=&quot;Aerial acrobatics&quot; src=&quot;http://awdnews.com/images/14294552731.jpg&quot; border=&quot;0&quot; style=&quot;float: left; padding: 5px; width: 117px;&quot; /&gt;..." href="/photo-stories/11529-aerial-acrobatics.html">Aerial acrobatics</a>  <small> -  (Created: 2015-04-19 14:58:04)</small>		
+					</li>
+					<li>				
+						 <a class="yo_related_5536bdb0af781" title="Roger Federer beaten in Monte Carlo Masters third round by Gaël Monfils" rel="&lt;img title=&quot;Roger Federer beaten in Monte Carlo Masters third round by Gaël Monfils&quot; alt=&quot;Roger Federer beaten in Monte Carlo Masters third round by Gaël Monfils&quot; src=&quot;http://awdnews.com/images/14292529991.jpg&quot; border=&quot;0&quot; style=&quot;float: left; padding: 5px; width: 117px;&quot; /&gt;Roger Federer has been knocked out of the Monte Carlo Masters in the third round by Gaël Monfils, on a bad day for Switzerland as Stanislas Wawrinka also lost.
+ 
+Monfils’ 6-4, 7-6 (7-5) victory was his second consecutive win on clay over the 17-times grand slam champion, following his straight sets..." href="/sport/11521-roger-federer-beaten-in-monte-carlo-masters-third-round-by-gaël-monfils.html">Roger Federer beaten in Monte Carlo Masters third round by Gaël Monfils</a>  <small> -  (Created: 2015-04-17 06:43:37)</small>		
+					</li>
+					<li>				
+						 <a class="yo_related_5536bdb0af781" title="The Saudi fascist regime prevented Aids for Yemeni injured" rel="&lt;img title=&quot;The Saudi fascist regime prevented Aids for Yemeni injured&quot; alt=&quot;The Saudi fascist regime prevented Aids for Yemeni injured&quot; src=&quot;http://awdnews.com/images/14292064681427881807image.jpg&quot; border=&quot;0&quot; style=&quot;float: left; padding: 5px; width: 117px;&quot; /&gt;Saudi Arabia prevented a fight containing medical aids from International Committee of the Red Cross (ICRC). That flight was supposed to deliver medical aids to Yemeni people under attack. Saudi Arabia violates all International treaties and civilians rights by this action. In just 10 days Saudi killed 168 Yemeni Childs..." href="/top-news/11517-the-saudi-fascist-regime-prevented-aids-for-yemeni-injured.html">The Saudi fascist regime prevented Aids for Yemeni injured</a>  <small> -  (Created: 2015-04-16 17:48:49)</small>		
+					</li>
+					<li>				
+						 <a class="yo_related_5536bdb0af781" title="Asiana plane hits antenna while landing at Hiroshima airport, Japan" rel="&lt;img title=&quot;Asiana plane hits antenna while landing at Hiroshima airport, Japan&quot; alt=&quot;Asiana plane hits antenna while landing at Hiroshima airport, Japan&quot; src=&quot;http://awdnews.com/images/14290841981.jpg&quot; border=&quot;0&quot; style=&quot;float: left; padding: 5px; width: 117px;&quot; /&gt;An Asiana Airways plane smashed into a communications antenna as it came in to land at a Japanese airport, footage showed Wednesday, injuring 27 people in an accident with echoes of the airline's fatal 2013 crash in San Francisco.
+ 
+Aerial footage from Hiroshima airport in western Japan showed the localizer --..." href="/breaking-news/11505-asiana-plane-hits-antenna-while-landing-at-hiroshima-airport,-japan.html">Asiana plane hits antenna while landing at Hiroshima airport, Japan</a>  <small> -  (Created: 2015-04-15 07:54:28)</small>		
+					</li>
+					<li>				
+						 <a class="yo_related_5536bdb0af781" title="Russian negotiator: Next round of nuclear talks with Iran due by May" rel="&lt;img title=&quot;Russian negotiator: Next round of nuclear talks with Iran due by May&quot; alt=&quot;Russian negotiator: Next round of nuclear talks with Iran due by May&quot; src=&quot;http://awdnews.com/images/14289412231.jpg&quot; border=&quot;0&quot; style=&quot;float: left; padding: 5px; width: 117px;&quot; /&gt;The group of six nations negotiating with Iran on its nuclear program plans to hold the next round of nuclear talks by the end of this month, Russia’s envoy to the talks said Monday.
+ 
+Russian Deputy Foreign Minister Sergei Ryabkov said the talks will be held “by the end of April,”..." href="/political/11490-russian-negotiator-next-round-of-nuclear-talks-with-iran-due-by-may.html">Russian negotiator: Next round of nuclear talks with Iran due by May</a>  <small> -  (Created: 2015-04-13 16:07:33)</small>		
+					</li></div></ul></div></div></div><div><!-- AddThis Button BEGIN --> 
+<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-4d7b3c2965d7bd6f"><img src="/images/remote/http--s7.addthis.com-static-btn-v2-lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="float:right !important; position:relative; right:0; border:0" /></a>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":false};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d7b3c2965d7bd6f"></script>
+<!-- AddThis Button END --></div></div></div><div class="art-postfootericons art-metadata-icons"><span class="art-postcategoryicon">Category: <span class="art-post-metadata-category-name"><a href="/breaking-news.html">Breaking News</a></span></span></div></article></div>
+
+
+                        </div>
+                        <div class="art-layout-cell art-sidebar1">
+<div class="art-block clearfix"><div class="art-blockcontent"><script type="text/javascript">
+window.addEvent('load',function(){
+var spTab188 = new sptabs($('sptab188'), {
+	animation : 'fade',
+	btnPos: 'top',
+	activator: 'click',
+	transition: Fx.Transitions.linear,
+	fxduration: 400,
+	autoHeight : false,
+	fixedHeight: 366	});
+});
+</script>
+<div class="sptab_red" id="sptab188">
+	<div style="display:none">
+		<div class="tab-padding">
+			<h2 style="display:none" class="title"><span id="recent" class="sptab-title">Recent</span></h2>
+			
+<div class="latestnews0">
+
+
+	<li style="font-family:georgia;padding:5px;">
+		<a href="/top-news/11543-yemen-humanitarian-crisis-us-orchestrated,-saudi-mass-murder.html">
+			Yemen humanitarian crisis: US-Orchestrated, Saudi Mass Murder</a>
+	</li>
+	<li style="font-family:georgia;padding:5px;">
+		<a href="/sport/11542-liverpool-set-for-memphis-depay-duel-with-manchester-united.html">
+			Liverpool set for Memphis Depay duel with Manchester United</a>
+	</li>
+	<li style="font-family:georgia;padding:5px;">
+		<a href="/technology/11541-twitter-now-lets-you-opt-in-to-receive-direct-messages-from-anyone.html">
+			Twitter Now Lets You Opt In To Receive Direct Messages From Anyone</a>
+	</li>
+	<li style="font-family:georgia;padding:5px;">
+		<a href="/economy/11539-how-to-avert-a-complete-catastrophe-for-greece-and-for-europe.html">
+			How to Avert a Complete Catastrophe for Greece and for Europe</a>
+	</li>
+	<li style="font-family:georgia;padding:5px;">
+		<a href="/top-news/11538-obama-s-complicity-with-saudi-invaders-activists-confirms-use-of-chemical-weapons-by-saudi-arabia.html">
+			Obama's complicity with Saudi invaders: Activists confirm use of chemical weapons by Saudi Arabia </a>
+	</li>
+	<li style="font-family:georgia;padding:5px;">
+		<a href="/sport/11537-manchester-united-news-luke-shaw-says-he-is-finally-ready-to-justify-his-£28%20million-price-tag.html">
+			Manchester United news: Luke Shaw says he is finally ready to justify his £28 million price tag</a>
+	</li>
+	<li style="font-family:georgia;padding:5px;">
+		<a href="/technology/11536-google-adds-gestures-and-features-to-android-wear-in-reply-to-apple-watch.html">
+			Google adds gestures and features to Android Wear in reply to Apple Watch</a>
+	</li>
+	<li style="font-family:georgia;padding:5px;">
+		<a href="/economy/11535-strategies-of-the-1-revealed.html">
+			Strategies of the 1% Revealed</a>
+	</li>
+
+</div>			<div style="clear:both"></div>
+		</div>
+	</div>
+	<div style="display:none">
+		<div class="tab-padding">
+			<h2 style="display:none" class="title"><span id="most_viewed" class="sptab-title">Most Viewed</span></h2>
+			<!-- FRC - Fewest Read Content - Kubik-Rubik Joomla! Extensions --><ul class="fewestread">
+                <li>
+                        <a href="/top-news/11527-saudi-arabia-vows-to-protect-yemenite-jews,-facilitate-their-transport-to-the-holy-land.html">
+                            Saudi Arabia vows to protect Yemenite Jews, facilitate their transport to the Holy Land</a>
+                </li>
+        <li>
+                        <a href="/photo-stories/11495-kim-kardashian-in-armenia.html">
+                            Kim Kardashian in Armenia</a>
+                </li>
+        <li>
+                        <a href="/top-news/11508-isis-running-training-camp-on-texas-border.html">
+                            ISIS Running Training Camp on Texas Border</a>
+                </li>
+        <li>
+                        <a href="/top-news/11543-yemen-humanitarian-crisis-us-orchestrated,-saudi-mass-murder.html">
+                            Yemen humanitarian crisis: US-Orchestrated, Saudi Mass Murder</a>
+                </li>
+        <li>
+                        <a href="/top-news/11500-marriage-mosul-style-love-in-the-time-of-the-terrorist-caliphate.html">
+                            Marriage Mosul-Style: Love in the Time of the Terrorist caliphate</a>
+                </li>
+        <li>
+                        <a href="/top-news/11501-the-german-chancellor-obama-s-isis-strategy-failed,-the-war-against-yemen-will-bring-a-debacle-for-the-saudi-invaders.html">
+                            The German Chancellor: Obama's ISIS strategy failed, the war against Yemen will bring a debacle for the Saudi invaders</a>
+                </li>
+        <li>
+                        <a href="/top-news/11515-saudi-terror-bombing-massacres-dozens-of-yemeni-schoolchildren.html">
+                            Saudi Terror-Bombing Massacres Dozens of Yemeni Schoolchildren</a>
+                </li>
+        <li>
+                        <a href="/top-news/11528-australian-model-killed-after-traveling-to-syria-to-fight-alongside-isis.html">
+                            Australian Model Killed after Traveling to Syria to Fight alongside ISIS</a>
+                </li>
+</ul>
+			<div style="clear:both"></div>
+		</div>
+	</div>
+</div></div></div><div class="art-block clearfix"><div class="art-blockheader"><h3 class="t">Connect us via Whatsapp</h3></div><div class="art-blockcontent"><div class="custom"  >
+	<div id="whatsapp"><!-- START: Modules Anywhere -->
+<div class="rsform">
+	<form method="post"  id="whatsappform" class="formResponsive" enctype="multipart/form-data" action="http://awdnews.com/breaking-news/11334-germanwings-plane-crashes-in-france,-up-to-150-believed-dead.html"><div id="rsform_error_3" style="display: none;"><p class="formRed">Please complete all required fields!</p></div>
+<!-- Do not remove this ID, it is used to identify the page so that the pagination script can work correctly -->
+<fieldset class="formHorizontal formContainer" id="rsform_3_page_0">
+	<div class="rsform-block rsform-block-country">
+		<div class="formControlLabel">Country<strong class="formRequired">*</strong></div>
+		<div class="formControls">
+		<div class="formBody"><input type="text" value="" size="20"  name="form[Country]" id="Country"  class="rsform-input-box"/><span class="formValidation"><span id="component23" class="formNoError">Invalid Input</span></span></div>
+		<p class="formDescription"></p>
+		</div>
+	</div>
+	<div class="rsform-block rsform-block-code">
+		<div class="formControlLabel">Code<strong class="formRequired">*</strong></div>
+		<div class="formControls">
+		<div class="formBody"><input type="text" value="" size="20"  name="form[Code]" id="Code"  class="rsform-input-box"/><span class="formValidation"><span id="component24" class="formNoError">Invalid Input</span></span></div>
+		<p class="formDescription"></p>
+		</div>
+	</div>
+	<div class="rsform-block rsform-block-phone">
+		<div class="formControlLabel">Phone<strong class="formRequired">*</strong></div>
+		<div class="formControls">
+		<div class="formBody"><input type="text" value="" size="20"  name="form[Phone]" id="Phone"  class="rsform-input-box"/><span class="formValidation"><span id="component25" class="formNoError">Invalid Input</span></span></div>
+		<p class="formDescription"></p>
+		</div>
+	</div>
+	<div class="rsform-block rsform-block-submit">
+		<div class="formControlLabel"></div>
+		<div class="formControls">
+		<div class="formBody"><input type="submit" value="Submit" name="form[submit]" id="submit"  class="rsform-submit-button" /><span class="formValidation"></span></div>
+		<p class="formDescription"></p>
+		</div>
+	</div>
+</fieldset>
+<input type="hidden" name="form[formId]" value="3"/></form><script type="text/javascript">var rsfp_ajax_root = '';</script><script type="text/javascript">rsfp_addEvent(window, 'load', function(){var form = rsfp_getForm(3); form.onsubmit = ajaxValidation;});</script><script type="text/javascript">ajaxExtraValidationScript[3] = function(task, formId, data) {var formComponents = {};formComponents[23]='Country';formComponents[24]='Code';formComponents[25]='Phone';if (task == 'afterSend') {
+		var ids = data.response[0].split(',');
+		for (var i=0; i<ids.length; i++) {
+			var id = parseInt(ids[i]);
+			if (!isNaN(id) && typeof formComponents[id] != 'undefined') {
+				var formComponent = rsfp_getFieldsByName(formId, formComponents[id]);
+				if (formComponent && formComponent.length > 0) {
+					for (var j=0; j<formComponent.length; j++) {
+						if (formComponent[j]) {
+							formComponent[j].className = formComponent[j].className.replace(' rsform-error', '');
+						}
+					}
+				}
+			}
+		}
+		var ids = data.response[1].split(',');
+		for (var i=0; i<ids.length; i++) {
+			var id = parseInt(ids[i]);
+			if (!isNaN(id) && typeof formComponents[id] != 'undefined') {
+				var formComponent = rsfp_getFieldsByName(formId, formComponents[id]);
+				if (formComponent && formComponent.length > 0) {
+					for (var j=0; j<formComponent.length; j++) {
+						if (formComponent[j]) {
+							formComponent[j].className = formComponent[j].className.replace(' rsform-error', '') + ' rsform-error';
+						}
+					}
+				}
+			}
+		}
+		}
+}</script></div><!-- END: Modules Anywhere --><img src="/images/whatsapp.png" border="0" alt="" width="32px" style="float: left;" />
+<div> </div>
+</div></div></div></div><div class="art-block clearfix"><div class="art-blockheader"><h3 class="t">Ebook</h3></div><div class="art-blockcontent"><div id="jvnews261" class="jvnews Default">
+    <div class="jvnews-container Default">    
+        <div class="jvnews-content">
+		 
+<div class="jvnews-leading">
+<div class="jv-new clearfix"> 
+    <!-- Before title -->       
+            <div class="leading-thumnail before center">
+            <a href="/ebook/11522-isis-inside-the-army-of-terror.html">
+                                                <img style="width: 240px !important; height: 280px !important;" src="/cache/jvnews//adaptiveresize_240_1429270547untitled.jpg" alt="ISIS: Inside the Army of Terror" title="ISIS: Inside the Army of Terror" />
+            </a>
+        </div>
+        
+    <!-- Title -->   
+        
+    <h3>   
+        		ISIS: Inside the Army of Terror        
+            
+        </h3>        
+        
+    <!-- Toolbox -->
+        
+    <!-- Published details -->
+        
+    <!-- After title -->
+     
+    
+    <!-- Content -->
+    In ISIS: Inside the Army of Terror, American journalist Michael Weiss and Syrian analyst Hassan Hassan explain how these violent extremists evolved from a nearly defeated Iraqi ins    
+    <!-- Before Content -->       
+        
+    <!-- Readmore -->
+    </div>
+
+</div>
+
+
+        
+            
+     
+        </div>
+
+      
+     
+    </div>
+    
+ 
+
+     
+</div></div></div><div class="art-block clearfix"><div class="art-blockheader"><h3 class="t">Weather</h3></div><div class="art-blockcontent"><div class="custom"  >
+	<div style="width: 240px; height: 260px;"><object width="240" height="260" data="http://swf.yowindow.com/yowidget3.swf" type="application/x-shockwave-flash"><param name="allowfullscreen" value="true" /><param name="wmode" value="opaque" /><param name="flashvars" value="location_id=gn:2643743&amp;location_name=London&amp;landscape=airport&amp;time_format=24&amp;unit_system=uk&amp;background=#FFFFFF&amp;copyright_bar=false" /><param name="src" value="http://swf.yowindow.com/yowidget3.swf" /><a href="http://WeatherScreenSaver.com?client=widget&amp;link=copyright" style="width:240px;height:260px;display: block;text-indent: -50000px;font-size: 0px;background:#DDF url(http://yowindow.com/img/logo.png) no-repeat scroll 50% 50%;">Free Weather Widget</a> </object></div></div></div></div><div class="art-block clearfix"><div class="art-blockcontent"><div class="custom"  >
+	<form style="border: 1px solid #ccc; padding: 3px; text-align: center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=Awdnews-Feed', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow">
+<p>Enter your email address:</p>
+<p><input style="width: 140px;" type="text" name="email" /></p>
+<input type="hidden" name="uri" value="Awdnews-Feed" /><input type="hidden" name="loc" value="en_US" /><input type="submit" value="Subscribe" /></form></div></div></div>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+<footer class="art-footer">
+    <!-- begin nostyle -->
+<div class="art-nostyle">
+<!-- begin nostyle content -->
+
+
+<div class="custom"  >
+	<p><a class="modal thumbnail zoomin-cur" style="" href="/images/13915929271370957690abi-f.png" rel="{handler: 'image', marginImage: {x: 50, y: 50}}" title=""><img src="/images/thumbnails/images/13915929271370957690abi-f-400x77.png" border="0" width="400" style="float: left;" height="77" /></a></p></div>
+<!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+</footer>
+
+    </div>
+</div>
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60569621-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//caucasianpress.com/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//caucasianpress.com/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+
+</body>
+</html>

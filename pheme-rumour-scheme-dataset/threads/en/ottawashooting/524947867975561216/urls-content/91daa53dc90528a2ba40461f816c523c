@@ -1,0 +1,1144 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 01:07:52 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 165
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://www.cnn.com/2014/10/22/world/americas/canada-ottawa-shooting/index.html
+Mime-Version: 1.0
+Set-Cookie: _bit=5510b8e8-00021-03aef-311cf10a;domain=.cnn.it;expires=Sun Sep 20 01:07:52 2015;path=/; HttpOnly
+
+HTTP/1.1 302 Found
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Location: http://edition.cnn.com/2014/10/22/world/americas/canada-ottawa-shooting/index.html
+Accept-Ranges: bytes
+Date: Tue, 24 Mar 2015 01:07:52 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-ams4147-AMS
+X-Cache: MISS
+X-Cache-Hits: 0
+
+HTTP/1.1 200 OK
+x-servedByHost: prd-10-60-170-48.nodes.56m.dmtio.net
+Cache-Control: max-age=3600
+server: nginx
+content-type: text/html
+x-ua-profile: desktop
+content-encoding: gzip
+Via: 1.1 varnish
+Content-Length: 19320
+Accept-Ranges: bytes
+Date: Tue, 24 Mar 2015 01:07:52 GMT
+Via: 1.1 varnish
+Age: 8
+Connection: keep-alive
+X-Served-By: cache-iad2149-IAD, cache-ams4136-AMS
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1427159272.157801,VS0,VE0
+Vary: Accept-Encoding
+
+<!DOCTYPE HTML>
+<html itemscope itemtype="http://schema.org/NewsArticle" lang="en-US">
+<head>
+<title>PM: Ottawa 'terrorist' killed soldier 'in cold blood' - CNN.com</title>
+<meta charset="UTF-8"/>
+<meta content="2014-10-31T16:37:45Z" http-equiv="last-modified"/>
+<meta content="index,follow" name="robots"/>
+<meta content="noarchive" name="googlebot"/>
+<meta content="width=1024" name="viewport"/>
+<meta content="news" itemprop="genre" name="medium"/>
+<meta content="en-US" itemprop="inLanguage"/>
+<meta content="PM: Ottawa 'terrorist' killed soldier 'in cold blood' - CNN.com" name="title"/>
+<meta content="Michael Zehaf-Bibeau has been identified by Canadian officials to their American counterparts as the suspected gunman in Wednesday's Ottawa shootings." itemprop="description" name="description" property="og:description"/>
+<meta content="" itemprop="keywords" name="keywords"/>
+<meta content="" name="news_keywords"/>
+<meta content="Ashley Fantz, Josh Levs and Catherine E. Shoichet, CNN" itemprop="author" name="author"/>
+<meta content="world" itemprop="articleSection" name="section"/>
+<meta content="CNN" itemprop="sourceOrganization" name="source"/>
+<meta content="americas" name="subsection"/>
+<meta content="2014-10-22T14:26:15Z" itemprop="datePublished" name="pubdate"/>
+<meta content="2014-10-31T16:37:45Z" itemprop="dateModified" name="lastmod"/>
+<meta content="2014-10-22T14:26:15Z" itemprop="dateCreated"/>
+<meta content="" itemprop="contentLocation"/>
+<meta content="'Terrorist' murdered soldier 'in cold blood,' Canada's Prime Minister says" itemprop="headline" property="og:title" />
+<meta content="article" property="og:type"/>
+<meta content="http://www.cnn.com/2014/10/22/world/americas/canada-ottawa-shooting/index.html" itemprop="url" property="og:url"/>
+<meta content="CNN" property="og:site_name"/>
+<meta content="http://i2.cdn.turner.com/cnn/dam/assets/141022205044-ac-dnt-kaye-ottawa-parliament-shootings-00031317-story-top.jpg" itemprop="thumbnailUrl" property="og:image"/>
+<meta property="vr:canonical" content="http://www.cnn.com/2014/10/22/world/americas/canada-ottawa-shooting/index.html">
+<meta content="129343697106537" property="fb:page_id"/>
+<meta content="CNN" property="og:site_name"/>
+<meta content="80401312489" property="fb:app_id"/>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@CNN"/>
+<meta name="twitter:site:id" content="759251"/>
+<meta name="twitter:creator" content="@CNN"/>
+<meta name="twitter:creator:id" content="759251"/>
+<meta name="twitter:description" content="Michael Zehaf-Bibeau has been identified by Canadian officials to their American counterparts as the suspected gunman in Wednesday's Ottawa shootings."/>
+<meta name="twitter:title" content="PM: Ottawa 'terrorist' killed soldier 'in cold blood'"/>
+<meta name="twitter:url" content="http://www.cnn.com/2014/10/22/world/americas/canada-ottawa-shooting/index.html"/>
+<meta name="twitter:image:src" content="http://i2.cdn.turner.com/cnn/dam/assets/141022205044-ac-dnt-kaye-ottawa-parliament-shootings-00031317-left-tease.jpg"/>
+<link href="http://www.cnn.com/2014/10/22/world/americas/canada-ottawa-shooting/index.html" rel="canonical"/>
+<link href="/" rel="Start"/>
+<link href="http://i.cdn.turner.com/cnn/.e/img/3.0/global/misc/apple-touch-icon.png" rel="apple-touch-icon" type="image/png"/>
+<link href="/tools/search/cnncom.xml" rel="search" title="CNN.com" type="application/opensearchdescription+xml"/>
+<link href="/tools/search/cnncomvideo.xml" rel="search" title="CNN.com Video" type="application/opensearchdescription+xml"/>
+<link href="http://rss.cnn.com/rss/edition_americas.rss" rel="alternate" title="CNN International - Latin America [RSS]" type="application/rss+xml"/>
+<link href="http://z.cdn.turner.com/cnn/tmpl_asset/static/www_article/1965/css/artlib-min.css" rel="stylesheet" type="text/css"/>
+<link href="http://mediacdn.disqus.com/1296789715/styles/dtpl/defaults.css" rel="stylesheet" type="text/css"/>
+<link href="http://disqus.com/forums/cnn/styles.css" rel="stylesheet" type="text/css"/>
+<link href="http://widgets.outbrain.com/mu/css/outbrainWidget.css?v=33961" id="cssLinkID" rel="stylesheet" type="text/css"/>
+<link href="https://plus.google.com/u/0/b/117515799321987910349/117515799321987910349/posts" rel="publisher"/>
+<!-- ClickTale Top part -->
+<script type='text/javascript'>
+document.write(unescape("%3Cscript%20src='" +
+(document.location.protocol == 'https:' ?
+'https://cdnssl.clicktale.net/' :
+'http://cdn.clicktale.net/') +
+"www04/phc/342da402-a44b-4b59-aba4-8fc2310e4478.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- ClickTale end of Top part -->
+<script>
+var cnnCurrTime=new Date(1420145282000),
+cnnCurrHour=15,
+cnnCurrMin=48,
+cnnCurrDay="Thu",
+cnnIsIntl=false,
+clickID=211911,
+cnn_cvpAdpre="",
+cnnCVPAdSectionT1="cnn.com_latinamerica_main_t1",
+cnnCVPAdSectionInPage="cnn.com_latinamerica_main_inpage",
+cnnShareUrl="%2F2014%2F10%2F22%2Fworld%2Famericas%2Fcanada-ottawa-shooting%2Findex.html",
+cnnShareTitle="\'Terrorist\'%20murdered%20soldier%20\'in%20cold%20blood%2C\'%20Canada\'s%20Prime%20Minister%20says",
+cnnShareDesc="",
+cnnFirstPub=new Date('Wednesday Oct 22 10:26:15 EDT 2014'),
+cnnSectionName="world",
+sectionName="world",
+cnnSubSectionName="wrd : americas",
+cnnPageType="Story",
+cnnBrandingValue="default";
+cnnPartnerValue="";
+cnnOmniBranding="",
+cnnAuthor="Ashley Fantz, Josh Levs and Catherine E. Shoichet, CNN",
+disqus_category_id=207582,
+disqus_identifier="/2014/10/22/world/americas/canada-ottawa-shooting/index.html",
+disqus_title="\'Terrorist\' murdered soldier \'in cold blood,\' Canada\'s Prime Minister says",
+cnn_edtnswtchver="www",
+cnnIsStoryPage=true,
+cnn_metadata = {},
+cnn_shareconfig = [];
+cnn_metadata = {
+section: [
+"world",
+"wrd : americas"
+],
+friendly_name: "\'Terrorist\' murdered soldier \'in cold blood,\' Canada\'s Prime Minister says",
+template_type: "content",
+template_type_content: "",
+business: {
+cnn: {
+page: {
+author: "Ashley Fantz, Josh Levs and Catherine E. Shoichet, CNN",
+broadcast_franchise: "",
+video_embed_count: "6",
+publish_date: "2014/10/22",
+photo_gallery: "\'Terrorist\' murdered soldier \'in cold blood,\' Canada\'s Prime Minister says"
+},
+video: {
+video_player: ""
+}
+}
+},
+user: {
+authenticated: "",
+segment: {
+age: "",
+zip: "",
+gender: ""
+}
+}
+};
+if (typeof(cnnOmniPartner) !== "undefined") {
+if (cnn_metadata.template_type_content === "") {
+cnn_metadata.template_type_content = "partner";
+}
+}
+var photo_gallery = "\'Terrorist\' murdered soldier \'in cold blood,\' Canada\'s Prime Minister says";
+</script>
+<script src="http://z.cdn.turner.com/cnn/tmpl_asset/static/www_article/1967/js/artlib-min.js"></script>
+<script src="http://cdn.optimizely.com/js/131788053.js"></script>
+<script>
+if(typeof CNN==='undefined'){var CNN=Class.create();}
+CNN.expandableMap=[''];
+function _loginOptions(){};
+var disqus_url=(typeof disqus_identifier!=='undefined') ? 'http://www.cnn.com/2014/10/22/world/americas/canada-ottawa-shooting/index.html' : 'http://www.cnn.com'+location.pathname;
+cnnad_newTileIDGroup(['607x95_adlinks','336x280_adlinks']);
+</script>
+<!--
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+-->
+<!--adType:mmst-->
+</head>
+<body>
+<a name="top_of_page"></a><a href="#ContentArea"><img src="http://i.cdn.turner.com/cnn/images/1.gif" align="right" alt="Skip to main content" border="0" height="1" hspace="0" style="display:none;" vspace="0" width="10"/></a>
+<script>window.CNNSTATICSECTION = 'americas';</script>
+<script>var CNNENV = "http://edition.cnn.com";</script>
+<div class="cnn-js-chrome-wrapper">
+    <div class="cnn-js-navigation" data-type="nav"></div>
+</div>
+<script src="http://z.cdn.turner.com/cnn/.element/ssi/www/misc/4.0/static/js/static-chrome-companion.min.js"></script>
+
+
+<div align="center" id="cnnContainer"><div class="cnn_maincntnr"><div class="cnn_containerwht cnn_contentarea">
+<!-- this is where the breaking news CSI code will go -->
+<div id="cnnBannerContainer" class="cnn_www_banner" data-vr-zone="breakingbanner" data-vr-contentbox=""></div>
+<script type="text/javascript">
+CSIManager.getInstance().call('/.element/ssi/www/breaking_news/3.0/banner.html','','cnnBannerContainer',cnnRenderDomesticBanner);
+</script>
+<div id="cnnSetEditionContainer"></div>
+<div id="cnnMakeHPContainer"></div>
+
+
+<div class="cnn_storyarea" id="cnnContentContainer">
+<div class="cnn_stryarblkbr"></div>
+<div class="cnn_strybtntools">
+<div id="cnn_sharebar1">
+<div class="c_sharebar_cntr c_sharebar_loading">
+<div class="c_sharelftcol">
+<div class="c_sharetitle">SHARE THIS</div>
+<div class="c_sharebtns">
+<ul>
+<li class="c_sharebtn c_sharebtnfb"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'facebook');"></a></li>
+<li class="c_sharebtn c_sharebtntwtr"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'twitter');"></a></li>
+<li class="c_sharebtn c_sharebtngplus"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'googleplus');"></a></li>
+<li class="c_sharebtn c_sharebtnlnkn"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'linkedin');"></a></li>
+</ul>
+<div class="cnn_clear"></div>
+</div>
+<div class="fb-like" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-action="recommend" href="http://www.cnn.com/2014/10/22/world/americas/canada-ottawa-shooting/index.html"></div>
+</div><!-- /c_sharelftcol -->
+<div class="c_sharedivcol"></div>
+<div class="c_shareweb c_sharergtcol">
+<ul>
+<li class="cnn_sswdgtweb1"><a href="#" onclick="if(typeof CleanPrintPrintHtml!='undefined' && CleanPrintPrintHtml) CleanPrintPrintHtml(); else window.print(); return false;">Print</a></li>
+<li class="cnn_sswdgtweb2"><a href="#" onclick="return(ET());">Email</a></li>
+<li class="cnn_sswdgtweb3"><a href="javascript:void(0);" onclick="$j('#cnn_sharebarmore1').toggle();">More sharing</a>
+<div id="cnn_sharebarmore1" class="sharebar_othersites sharebar_othersitesl" style="display:none;">
+<div class="shareProp">
+<div class="sharebutton_reddit" title="Reddit"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'reddit');">Reddit</a></div>
+</div>
+<div class="shareProp">
+<div class="sharebutton_stumbleupon" title="StumbleUpon"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'stumbleupon');">StumbleUpon</a></div>
+</div>
+<div class="shareProp">
+<div class="sharebutton_delicious" title="Delicious"><a href="javascript:void(0);" onclick="cnnsocial.share.click('cnn_sharebar1', 'delicious');">Delicious</a></div>
+</div>
+</div>
+</li>
+</ul>
+</div><!-- /c_sharergtcol -->
+<div class="cnn_clear"></div>
+</div>
+</div>
+</div>
+<script>
+/* push in config for this share instance */
+cnn_shareconfig.push({
+"id" : "cnn_sharebar1",
+"url" : "http://www.cnn.com/2014/10/22/world/americas/canada-ottawa-shooting/index.html",
+"title" : "\'Terrorist\' murdered soldier \'in cold blood,\' Canada\'s Prime Minister says"
+});
+</script>
+<!--google_ad_section_start--><!--startclickprintinclude-->
+<h1>'Terrorist' murdered soldier 'in cold blood,' Canada's Prime Minister says</h1>
+<!--endclickprintinclude--><!--startclickprintexclude-->
+<!--no partner-->
+<div class="cnn_stryathrtmp">
+<div class="cnnByline">By <strong>Ashley Fantz</strong>,<strong> Josh Levs </strong>and<strong> Catherine E. Shoichet</strong>, CNN</div>
+<div class="cnn_strytmstmp">updated 12:37 PM EDT, Fri October 31, 2014</div>
+</div>
+<!--google_ad_section_end-->
+<div class="cnn_strycntntlft">
+<!--startclickprintexclude-->
+<script>
+</script>
+<div class="cnnStryVidCont" style="background-color:transparent">
+<div id="cnnCVP1">
+</div>
+</div>
+<div style="padding-bottom: 17px;padding-top:17px;">
+<div class="OUTBRAIN" data-src="http://www.cnn.com//video/data/3.0/video/world/2014/10/22/ac-dnt-kaye-ottawa-parliament-shootings.cnn/index.xml" data-widget-id="HOP_27" data-ob-template="cnn" ></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+<script>
+window.CNN = window.CNN || {};
+(function setupContentMetadata (ns) {
+ns.ContentMetadata = ns.ContentMetadata || {};
+ns.ContentMetadata.pageTopVideo = {
+autostart: true
+};
+}(CNN));
+window.jQuery(document).ready(function() {
+function isMobileClient () {
+return (typeof window.orientation !== 'undefined');
+}
+window.CNNVIDEOS = window.CNNVIDEOS || {};
+var CVPOptions = {
+video: 'world/2014/10/22/ac-dnt-kaye-ottawa-parliament-shootings.cnn',
+thumb: 'http://i2.cdn.turner.com/cnn/dam/assets/141022205044-ac-dnt-kaye-ottawa-parliament-shootings-00031317-story-top.jpg',
+preset: 'storypage',
+diagnostics: {
+section: 'articlepage',
+placement: 'page-top'
+},
+network: 'cnn',
+adsection: cnnCVPAdSectionT1 || '',
+headline: 'Shooting leaves Canadian soldier dead',
+videoSource: 'CNN',
+videoSourceUrl: 'http://ac360.blogs.cnn.com/',
+url: ''
+};
+/**
+* Autostart only for desktop and domestic articles.
+* Mobile web will not be auto-started
+*/
+if (true && !isMobileClient()) {
+CVPOptions.autostart = true;
+}
+CNNVIDEOS[ 'T1' ] = CNNVIDEO('cnnCVP1', CVPOptions);
+/**
+* Pause other videos playing on page
+*/
+window.jQuery('#cnnCVP1').on('onContentBegin', function(e, obj) {
+for (var instance in window.CNNVIDEOS) {
+if (instance !== 'T1' && window.CNNVIDEOS.hasOwnProperty(instance)) {
+try {
+window.CNNVIDEOS[instance].pause();
+} catch(e) {
+}
+}
+}
+});
+});
+</script>
+<a name="em0"></a>
+<div class="cnn_strylftcntnt"><div class="cnn_strylctcntr">
+<div><strong>STORY HIGHLIGHTS</strong></div>
+<ul class="cnn_bulletbin cnnStryHghLght">
+<!--google_ad_section_start-->
+<li><b>NEW:</b> Police say a lockdown is lifted and there's no danger to the public</li>
+<li>Prime Minister Stephen Harper calls the gunman a "terrorist"</li>
+<li>Sources: Michael Zehaf-Bibeau was the suspected gunman</li>
+<li>Cpl. Nathan Cirillo, a Canadian soldier, was shot and killed</li>
+<!--google_ad_section_end-->
+</ul>
+</div></div>
+<div class="cnn_strylftcntnt adtag15090">
+
+</div>
+<!--endclickprintexclude--><!--google_ad_section_start--><!--startclickprintinclude-->
+<p><strong>(CNN)</strong> -- First a soldier guarding a hallowed war memorial was gunned down in Canada's capital. Then shots erupted in the halls of the country's Parliament minutes later.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph2"><a href='http://www.cnn.com/2014/10/22/world/canada-shooting-witness/index.html' target='_blank'>The two shootings in Ottawa Wednesday</a> left lawmakers barricaded inside offices and parts of the city on lockdown for hours as police searched for suspects.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph3">Ottawa Police lifted the lockdown Wednesday night and said there was no longer a danger to the public.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph4">But many questions remain about the shootings: Who was the gunman? Why did he open fire? And was he acting alone?</p>
+<script>
+if (typeof cnnArticleGallery == "undefined") {
+var cnnArticleGallery = {};
+}
+var expGallery511=new ArticleExpandableGallery();
+</script>
+<a name="em1"></a>
+<div class="cnn_strylftcntnt cnn_strylftcexpbxnv" id="expand15"><div class="cnnStoryElementBox">
+<div id="expandableTarget151" class="cnnArticleExpandableTarget" style="position:relative;color:#FFF">
+<div class="cnnArticleGalleryClose"><img class="cnnArticleGalleryCloseButton" src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" onclick="expGallery511.contractStaticImage('5','1','1')" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022193501-nathan-cirillo-01-story-top.jpg" alt="Cpl. Nathan Cirillo on Sunday." border="0" class="box-image"/>
+<span style="font-size: 24px;">&nbsp;Cpl. Nathan Cirillo on Sunday.</span>
+</div>
+<div id="photoContainer151" class="cnnArticlePhotoContainer" style="cursor:pointer" onclick="expGallery511.expandStaticImage(5,1,1)">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<div class="cnnStoryElementBox"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141022193501-nathan-cirillo-01-story-top.jpg" alt="Cpl. Nathan Cirillo on Sunday." border="0" class="box-image" height="122" width="214"/><cite class="expCaption"><span>Cpl. Nathan Cirillo on Sunday.</span></cite></div>
+</div>
+</div></div>
+<div class="cnn_clear" id="expandableClear151" style="display:none"></div>
+<script>
+var currExpandable="expand25";
+if(typeof CNN.expandableMap==='object'){CNN.expandableMap.push(currExpandable);}
+var mObj={};
+mObj.type='video';
+mObj.contentId='';
+mObj.network='cnn';
+mObj.source='world/2014/10/22/lead-sot-obama-on-ottawa-shooting.cnn';
+mObj.videoSource='CNN';
+mObj.videoSourceUrl='http://thelead.blogs.cnn.com/';
+mObj.lgImage="http://i2.cdn.turner.com/cnn/dam/assets/141022163821-lead-sot-obama-on-ottawa-shooting-00005509-story-body.jpg";
+mObj.lgImageX=300;
+mObj.lgImageY=169;
+mObj.origImageX="214";
+mObj.origImageY="120";
+mObj.contentType='video';
+CNN.expElements.expand25Store=mObj;
+</script>
+<a name="em2"></a>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand25">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022163821-lead-sot-obama-on-ottawa-shooting-00005509-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Obama: We stand side-by-side with Canada</span></cite>
+</div>
+<script>
+var currExpandable="expand35";
+if(typeof CNN.expandableMap==='object'){CNN.expandableMap.push(currExpandable);}
+var mObj={};
+mObj.type='video';
+mObj.contentId='';
+mObj.network='cnn';
+mObj.source='world/2014/10/22/ac-sot-mayor-watson-ottawa-shooting.cnn-ap';
+mObj.videoSource='CNN AP';
+mObj.videoSourceUrl='http://ac360.blogs.cnn.com/';
+mObj.lgImage="http://i2.cdn.turner.com/cnn/dam/assets/141022213654-ac-sot-mayor-watson-ottawa-shooting-00000000-story-body.jpg";
+mObj.lgImageX=300;
+mObj.lgImageY=169;
+mObj.origImageX="214";
+mObj.origImageY="120";
+mObj.contentType='video';
+CNN.expElements.expand35Store=mObj;
+</script>
+<a name="em3"></a>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand35">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022213654-ac-sot-mayor-watson-ottawa-shooting-00000000-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Ottawa Mayor: Tragic day for our country </span></cite>
+</div>
+<style>
+.cnnArticleGalleryNav{border:1px solid #000;cursor:pointer;float:left;height:25px;text-align:center;width:25px}
+.cnnArticleGalleryNavOn{background-color:#C03;border:1px solid #000;float:left;height:25px;text-align:center;width:20px}
+.cnnArticleGalleryNavDisabled{background-color:#222;border:1px solid #000;color:#666;float:left;height:25px;text-align:center;width:25px}
+.cnnArticleExpandableTarget{background-color:#000;display:none;position:absolute}
+.cnnArticlePhotoContainer{height:122px;width:214px}
+.cnnArticleBoxImage{cursor:pointer;height:122px;padding-top:0;width:214px}
+.cnnArticleGalleryCaptionControl{background-color:#000;color:#FFF}
+.cnnArticleGalleryCaptionControlText{cursor:pointer;float:right;font-size:10px;padding:3px 10px 3px 3px}
+.cnnArticleGalleryPhotoContainer cite{background:none repeat scroll 0 0 #000;bottom:48px;color:#FFF;height:auto;left:420px;opacity:.7;position:absolute;width:200px;padding:10px}
+.cnnArticleGalleryClose{background-color:#fff;display:block;text-align:right}
+.cnnArticleGalleryCloseButton{cursor:pointer}
+.cnnArticleGalleryNavPrevNext span{background-color:#444;color:#CCC;cursor:pointer;float:left;height:23px;text-align:center;width:26px;padding:4px 0 0}
+.cnnArticleGalleryNavPrevNextDisabled span{background-color:#444;color:#666;float:left;height:23px;text-align:center;width:25px;padding:4px 0 0}
+.cnnVerticalGalleryPhoto{padding-right:68px;width:270px;margin:0 auto}
+.cnnGalleryContainer{float:left;clear:left;margin:0 0 20px;padding:0 0 0 10px}
+</style>
+<script>
+if (typeof cnnArticleGallery == "undefined") {
+var cnnArticleGallery = {};
+}
+if(typeof cnnArticleGallery.currentImageList =="undefined"){
+cnnArticleGallery.currentImageList = [];
+}
+var expGallery54=new ArticleExpandableGallery();
+expGallery54.setImageCount(14);
+</script>
+<script>
+//cnn_adbptrackpgalimg("Gunshots at Canada\'s Parliament", 1);
+</script>
+<a name="em4"></a>
+<div id="expand45" class="cnnGalleryContainer cnn_strylftcntnt">
+<div class="cnnStoryElementBox">
+<div id="expandableTarget45" class="cnnArticleExpandableTarget" style="width:640px">
+<div class="cnnArticleGalleryClose"><img class="cnnArticleGalleryCloseButton" src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" onclick="expGallery54.shrinkPicture('5','4')" alt="" border="0" height="23" width="58"/></div>
+<div style="height:360px">
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:block" id="articleGalleryPhoto541" src="http://i2.cdn.turner.com/cnn/dam/assets/141022121346-10-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="Police enter Canada's Parliament building on Wednesday, October 22, in Ottawa. A Canadian soldier was fatally shot at the National War Memorial nearby, and there were gunshots at the Parliament building itself, Ottawa police spokesman Marc Soucy said. One male suspect was also killed, police said." border="0"/>
+<cite style="display:block;bottom:74px" id="galleryCaption541" >Police enter Canada's Parliament building on Wednesday, October 22, in Ottawa. A Canadian soldier was fatally shot at the National War Memorial nearby, and there were gunshots at the Parliament building itself, Ottawa police spokesman Marc Soucy said. One male suspect was also killed, police said.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":true,"x":5,"y":4,"pos":1,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:none" id="articleGalleryPhoto542" src="http://i2.cdn.turner.com/cnn/dam/assets/141022131633-15-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="A police officer runs with his weapon drawn outside Parliament Hill." border="0"/>
+<cite style="display:none;bottom:74px" id="galleryCaption542" >A police officer runs with his weapon drawn outside Parliament Hill.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":false,"x":5,"y":4,"pos":2,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:none" id="articleGalleryPhoto543" src="http://i2.cdn.turner.com/cnn/dam/assets/141022121506-11-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="Police personnel clear the area at the entrance of Parliament Hill." border="0"/>
+<cite style="display:none;bottom:74px" id="galleryCaption543" >Police personnel clear the area at the entrance of Parliament Hill.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":false,"x":5,"y":4,"pos":3,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:none" id="articleGalleryPhoto544" src="http://i2.cdn.turner.com/cnn/dam/assets/141022121605-12-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="Civilians leave a secured area around Parliament Hill." border="0"/>
+<cite style="display:none;bottom:74px" id="galleryCaption544" >Civilians leave a secured area around Parliament Hill.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":false,"x":5,"y":4,"pos":4,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:none" id="articleGalleryPhoto545" src="http://i2.cdn.turner.com/cnn/dam/assets/141022131454-14-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="Police move toward the Parliament building." border="0"/>
+<cite style="display:none;bottom:74px" id="galleryCaption545" >Police move toward the Parliament building.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":false,"x":5,"y":4,"pos":5,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:none" id="articleGalleryPhoto546" src="http://i2.cdn.turner.com/cnn/dam/assets/141022110605-06-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="Emergency personnel tend to a person who was shot at the National War Memorial. Cpl. Nathan Cirillo, a Canadian army reservist, was shot and killed as he and another soldier stood guard at the memorial, police said." border="0"/>
+<cite style="display:none;bottom:74px" id="galleryCaption546" >Emergency personnel tend to a person who was shot at the National War Memorial. Cpl. Nathan Cirillo, a Canadian army reservist, was shot and killed as he and another soldier stood guard at the memorial, police said.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":false,"x":5,"y":4,"pos":6,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:none" id="articleGalleryPhoto547" src="http://i2.cdn.turner.com/cnn/dam/assets/141022103631-01-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="Royal Canadian Mounted Police respond to the scene." border="0"/>
+<cite style="display:none;bottom:74px" id="galleryCaption547" >Royal Canadian Mounted Police respond to the scene.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":false,"x":5,"y":4,"pos":7,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:none" id="articleGalleryPhoto548" src="http://i2.cdn.turner.com/cnn/dam/assets/141022131759-16-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="A police officer runs with his weapon drawn outside Parliament Hill." border="0"/>
+<cite style="display:none;bottom:74px" id="galleryCaption548" >A police officer runs with his weapon drawn outside Parliament Hill.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":false,"x":5,"y":4,"pos":8,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:none" id="articleGalleryPhoto549" src="http://i2.cdn.turner.com/cnn/dam/assets/141022105554-03-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="Paramedics and police pull a shooting victim away from the war memorial." border="0"/>
+<cite style="display:none;bottom:74px" id="galleryCaption549" >Paramedics and police pull a shooting victim away from the war memorial.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":false,"x":5,"y":4,"pos":9,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:none" id="articleGalleryPhoto5410" src="http://i2.cdn.turner.com/cnn/dam/assets/141022111435-09-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="A heavily armed officer takes position at the gate of 24 Sussex Drive, the official residence of Canadian Prime Minister Stephen Harper. Harper was evacuated from the Parliament building, his press secretary tweeted." border="0"/>
+<cite style="display:none;bottom:74px" id="galleryCaption5410" >A heavily armed officer takes position at the gate of 24 Sussex Drive, the official residence of Canadian Prime Minister Stephen Harper. Harper was evacuated from the Parliament building, his press secretary tweeted.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":false,"x":5,"y":4,"pos":10,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:none" id="articleGalleryPhoto5411" src="http://i2.cdn.turner.com/cnn/dam/assets/141022110900-08-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="Police cordon off a street leading to Parliament Hill." border="0"/>
+<cite style="display:none;bottom:74px" id="galleryCaption5411" >Police cordon off a street leading to Parliament Hill.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":false,"x":5,"y":4,"pos":11,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:none" id="articleGalleryPhoto5412" src="http://i2.cdn.turner.com/cnn/dam/assets/141022110811-07-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="Police walk past a gate on Parliament Hill." border="0"/>
+<cite style="display:none;bottom:74px" id="galleryCaption5412" >Police walk past a gate on Parliament Hill.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":false,"x":5,"y":4,"pos":12,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:none" id="articleGalleryPhoto5413" src="http://i2.cdn.turner.com/cnn/dam/assets/141022105749-04-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="A police officer secures the scene." border="0"/>
+<cite style="display:none;bottom:74px" id="galleryCaption5413" >A police officer secures the scene.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":false,"x":5,"y":4,"pos":13,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div>
+<div class="cnnArticleGalleryPhotoContainer">
+<img style="display:none" id="articleGalleryPhoto5414" src="http://i2.cdn.turner.com/cnn/dam/assets/141022132707-17-canada-shooting-1022-horizontal-gallery.jpg" width="640" height="360" alt="Police and medical personnel work at the scene of the shooting at the war memorial." border="0"/>
+<cite style="display:none;bottom:74px" id="galleryCaption5414" >Police and medical personnel work at the scene of the shooting at the war memorial.</cite>
+<script>cnnArticleGallery.currentImageList[cnnArticleGallery.currentImageList.length] = {"currentPicture":false,"x":5,"y":4,"pos":14,"title":"Gunshots at Canada\'s Parliament"}</script>
+</div>
+</div>
+<div class="cnn_clear"></div>
+</div>
+<div class="cnnArticleGalleryCaptionControl">
+<div id="gallerySlideTitle541" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="gallerySlideTitle542" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;display:none;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="gallerySlideTitle543" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;display:none;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="gallerySlideTitle544" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;display:none;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="gallerySlideTitle545" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;display:none;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="gallerySlideTitle546" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;display:none;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="gallerySlideTitle547" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;display:none;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="gallerySlideTitle548" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;display:none;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="gallerySlideTitle549" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;display:none;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="gallerySlideTitle5410" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;display:none;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="gallerySlideTitle5411" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;display:none;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="gallerySlideTitle5412" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;display:none;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="gallerySlideTitle5413" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;display:none;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="gallerySlideTitle5414" style="float:left;font-size:24px;font:weight:700px;margin-left:10px;width:500px;display:none;height:36px;overflow:hidden">Gunshots at Canada's Parliament</div>
+<div id="galleryCaptionControl54" class="cnnArticleGalleryCaptionControlText" onclick="expGallery54.toggleArticleGalleryCaption(5,4)">HIDE CAPTION</div>
+<div class="cnn_clear"></div>
+</div>
+<div style="background-color:#000;color:#FFF;height:27px">
+<div id="articleGalleryNav54JumpPrev" onclick="expGallery54.galleryJumpPrev(5,4)" class="cnnArticleGalleryNavPrevNextDisabled"><span>&lt;&lt;</span></div>
+<div id="articleGalleryNav54Prev" onclick="expGallery54.galleryPrev(5,4)" class="cnnArticleGalleryNavPrevNextDisabled"><span>&lt;</span></div>
+<div class="articleGalleryNavContainer">
+<div style="" id="articleGalleryNav541" class="cnnArticleGalleryNavOn" onmouseout="expGallery54.hideArticleThumb(5,4,1)" onmouseover="expGallery54.showArticleThumb(5,4,1)" onclick="expGallery54.changePage(5,4,1)">
+<div id="articleGalleryThumb541" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:0px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022121346-10-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">1</span>
+</div>
+<div style="" id="articleGalleryNav542" class="cnnArticleGalleryNav" onmouseout="expGallery54.hideArticleThumb(5,4,2)" onmouseover="expGallery54.showArticleThumb(5,4,2)" onclick="expGallery54.changePage(5,4,2)">
+<div id="articleGalleryThumb542" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:28px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022131633-15-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">2</span>
+</div>
+<div style="" id="articleGalleryNav543" class="cnnArticleGalleryNav" onmouseout="expGallery54.hideArticleThumb(5,4,3)" onmouseover="expGallery54.showArticleThumb(5,4,3)" onclick="expGallery54.changePage(5,4,3)">
+<div id="articleGalleryThumb543" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:56px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022121506-11-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">3</span>
+</div>
+<div style="" id="articleGalleryNav544" class="cnnArticleGalleryNav" onmouseout="expGallery54.hideArticleThumb(5,4,4)" onmouseover="expGallery54.showArticleThumb(5,4,4)" onclick="expGallery54.changePage(5,4,4)">
+<div id="articleGalleryThumb544" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:84px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022121605-12-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">4</span>
+</div>
+<div style="" id="articleGalleryNav545" class="cnnArticleGalleryNav" onmouseout="expGallery54.hideArticleThumb(5,4,5)" onmouseover="expGallery54.showArticleThumb(5,4,5)" onclick="expGallery54.changePage(5,4,5)">
+<div id="articleGalleryThumb545" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:112px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022131454-14-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">5</span>
+</div>
+<div style="" id="articleGalleryNav546" class="cnnArticleGalleryNav" onmouseout="expGallery54.hideArticleThumb(5,4,6)" onmouseover="expGallery54.showArticleThumb(5,4,6)" onclick="expGallery54.changePage(5,4,6)">
+<div id="articleGalleryThumb546" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:140px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022110605-06-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">6</span>
+</div>
+<div style="" id="articleGalleryNav547" class="cnnArticleGalleryNav" onmouseout="expGallery54.hideArticleThumb(5,4,7)" onmouseover="expGallery54.showArticleThumb(5,4,7)" onclick="expGallery54.changePage(5,4,7)">
+<div id="articleGalleryThumb547" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:168px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022103631-01-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">7</span>
+</div>
+<div style="" id="articleGalleryNav548" class="cnnArticleGalleryNav" onmouseout="expGallery54.hideArticleThumb(5,4,8)" onmouseover="expGallery54.showArticleThumb(5,4,8)" onclick="expGallery54.changePage(5,4,8)">
+<div id="articleGalleryThumb548" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:196px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022131759-16-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">8</span>
+</div>
+<div style="" id="articleGalleryNav549" class="cnnArticleGalleryNav" onmouseout="expGallery54.hideArticleThumb(5,4,9)" onmouseover="expGallery54.showArticleThumb(5,4,9)" onclick="expGallery54.changePage(5,4,9)">
+<div id="articleGalleryThumb549" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:224px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022105554-03-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">9</span>
+</div>
+<div style="" id="articleGalleryNav5410" class="cnnArticleGalleryNav" onmouseout="expGallery54.hideArticleThumb(5,4,10)" onmouseover="expGallery54.showArticleThumb(5,4,10)" onclick="expGallery54.changePage(5,4,10)">
+<div id="articleGalleryThumb5410" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:252px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022111435-09-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">10</span>
+</div>
+<div style="" id="articleGalleryNav5411" class="cnnArticleGalleryNav" onmouseout="expGallery54.hideArticleThumb(5,4,11)" onmouseover="expGallery54.showArticleThumb(5,4,11)" onclick="expGallery54.changePage(5,4,11)">
+<div id="articleGalleryThumb5411" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:280px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022110900-08-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">11</span>
+</div>
+<div style="" id="articleGalleryNav5412" class="cnnArticleGalleryNav" onmouseout="expGallery54.hideArticleThumb(5,4,12)" onmouseover="expGallery54.showArticleThumb(5,4,12)" onclick="expGallery54.changePage(5,4,12)">
+<div id="articleGalleryThumb5412" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:308px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022110811-07-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">12</span>
+</div>
+<div style="" id="articleGalleryNav5413" class="cnnArticleGalleryNav" onmouseout="expGallery54.hideArticleThumb(5,4,13)" onmouseover="expGallery54.showArticleThumb(5,4,13)" onclick="expGallery54.changePage(5,4,13)">
+<div id="articleGalleryThumb5413" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:336px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022105749-04-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">13</span>
+</div>
+<div style="" id="articleGalleryNav5414" class="cnnArticleGalleryNav" onmouseout="expGallery54.hideArticleThumb(5,4,14)" onmouseover="expGallery54.showArticleThumb(5,4,14)" onclick="expGallery54.changePage(5,4,14)">
+<div id="articleGalleryThumb5414" style="position:absolute;width:60px;height:60px;border:2px solid #444;bottom:24px;display:none;left:364px">
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022132707-17-canada-shooting-1022-topics.jpg" border="0"/>
+</div>
+<span style="height:21px;padding:4px 0 0 0">14</span>
+</div>
+</div>
+<div id="articleGalleryNav54Next" onclick="expGallery54.galleryNext(5,4)" class="cnnArticleGalleryNavPrevNext"><span>&gt;</span></div>
+<div id="articleGalleryNav54JumpNext" onclick="expGallery54.galleryJumpNext(5,4)" class="cnnArticleGalleryNavPrevNextDisabled"><span>&gt;&gt;</span></div>
+<div class="cnn_clear"></div>
+</div>
+</div>
+<div id="photoContainer45" class="cnnArticlePhotoContainer cnn_strylftcexpbxnv">
+<img id="photo45" onclick="expGallery54.growPicture('5','4');expGallery54.trackGalleryImg('\'Terrorist\' murdered soldier \'in cold blood,\' Canada\'s Prime Minister says')" class="cnnArticleBoxImage" width="640" height="360" border="0" src="http://i2.cdn.turner.com/cnn/dam/assets/141022121346-10-canada-shooting-1022-horizontal-gallery.jpg" alt="Gunshots at Canada\'s Parliament"/>
+<cite id="cite45" class="expCaption"><span>Gunshots at Canada's Parliament</span></cite>
+</div>
+</div>
+</div>
+<p class="cnn_storypgraphtxt cnn_storypgraph5">"It appears there was just one shooter, and that shooter is dead," Ottawa Mayor Jim Watson told CNN's Anderson Cooper. "But it has been a traumatic experience, obviously, for not only our city but the country."</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph6">Investigators haven't provided any possible motives for the shooting. Canadian Prime Minister Stephen Harper didn't provide details about the investigation in a televised address to the nation Wednesday night.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph7">"In the days to come, we will learn more about the terrorist and any accomplices he may have had, but this week's events are a grim reminder that Canada is not immune to the types of terrorist attacks we have seen elsewhere in the world," Harper said. "Let there be no misunderstanding: We will not be intimidated. Canada will never be intimidated."</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph8">It is unclear whether additional suspects were tied to the shootings or whether additional arrests have been made. The Royal Canadian Mounted Police said more information would be provided in a press conference Thursday.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph9">As authorities continued to investigate, details began to emerge about the man they suspect was behind the shooting.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph10"><a href='http://www.cnn.com/2014/10/22/world/canada-shooter/index.html' target='_blank'>Michael Zehaf-Bibeau</a> was identified by Canadian officials to their American counterparts as the suspected gunman, multiple U.S. officials told CNN.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph11">Bibeau, who was born in 1982, was a convert to Islam and had a history of drug use before he converted, two sources said.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph12">His passport had been confiscated by Canadian authorities when they learned he planned to go fight overseas, a U.S. law enforcement official told CNN's Susan Candiotti. The official said it was not clear when that happened.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph13">Canadian broadcaster CBC reported that Bibeau had a record of drug arrests going back 10 years.</p>
+<div class="cnn_strylftcntnt">
+<div style="width:620px"><blockquote class="twitter-tweet" lang="en"><p>Police now searching all rooms that weren&#39;t locked <a href="http://t.co/YAVgZFau5Q">pic.twitter.com/YAVgZFau5Q</a></p>&mdash; Josh Wingrove (@josh_wingrove) <a href="https://twitter.com/josh_wingrove/status/524927674528333824">October 22, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+</div>
+<p class="cnn_storypgraphtxt cnn_storypgraph14"><strong>'Murdered in cold blood'</strong></p>
+<p class="cnn_storypgraphtxt cnn_storypgraph15"><a href='http://www.cnn.com/2014/10/22/world/canada-shootings-victim/index.html' target='_blank'>Cpl. Nathan Cirillo</a> was "murdered in cold blood" as he stood guard at Canada's <a href='http://www.veterans.gc.ca/eng/remembrance/memorials/canada/national' target='_blank'>National War Memorial</a>, Harper said, expressing condolences to the slain Canadian soldier's family.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph16">The soldier appeared to have been shot in the back, said Peter Henderson, a journalist who was at the memorial at the time of the shooting. Other soldiers who were nearby doing drills at the time ran to help, he said.</p>
+<div class="cnn_strylftcntnt">
+<div style="margin-left:-10px;width:640px;height:360px;position:relative;overflow:hidden;"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141022193112-nathan-cirillo-story-top.jpg" alt="Bouquet" border="0" height="360" width="640"></div>
+<div class="cnn_stryimg640caption" style="margin-left:-10px;"><div class="cnn_strycaptiontxt">Cpl. Nathan Cirillo was killed after a gunman opened fire at the Canada War Memorial.</div><div style="float:right;text-transform:uppercase;font-size:9px;color:#000000;">Facebook</div></div>
+</div>
+<p class="cnn_storypgraphtxt cnn_storypgraph17">Three people brought to The Ottawa Hospital after the shootings have been released, hospital spokeswoman Hazel Harding told CNN. Earlier, they were described as being in stable condition.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph18">Shortly after the shooting at the memorial, a gunman entered the nearby building on Parliament Hill, officials said.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph19">"I heard rapid fire -- gunshots going very loud -- and I figure maybe 20-plus shots within 10 seconds," Canadian Deputy House Leader Kevin Lamoureux told CNN. He was one level below the gunshots.</p>
+<script>
+var currExpandable="expand120";
+if(typeof CNN.expandableMap==='object'){CNN.expandableMap.push(currExpandable);}
+var mObj={};
+mObj.type='video';
+mObj.contentId='';
+mObj.network='cnn';
+mObj.source='world/2014/10/22/ottawa-shooting-canada-shooter-id.cnn';
+mObj.videoSource='CNN';
+mObj.videoSourceUrl='http://situationroom.blogs.cnn.com/';
+mObj.lgImage="http://i2.cdn.turner.com/cnn/dam/assets/141022180604-ottawa-shooting-canada-shooter-id-00001921-story-body.jpg";
+mObj.lgImageX=300;
+mObj.lgImageY=169;
+mObj.origImageX="214";
+mObj.origImageY="120";
+mObj.contentType='video';
+CNN.expElements.expand120Store=mObj;
+</script>
+<a name="em7"></a>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand120">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022180604-ottawa-shooting-canada-shooter-id-00001921-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Sources: Shooter was convert to Islam </span></cite>
+</div>
+<script>
+var currExpandable="expand220";
+if(typeof CNN.expandableMap==='object'){CNN.expandableMap.push(currExpandable);}
+var mObj={};
+mObj.type='video';
+mObj.contentId='';
+mObj.network='cnn';
+mObj.source='crime/2014/10/23/wolf-sot-ottawa-shooting-victim-cirillo-family.cnn';
+mObj.videoSource='CNN';
+mObj.videoSourceUrl='http://www.cnn.com/video/shows/wolf/index.html';
+mObj.lgImage="http://i2.cdn.turner.com/cnn/dam/assets/141023134132-wolf-sot-ottawa-shooting-victim-cirillo-family-00001310-story-body.jpg";
+mObj.lgImageX=300;
+mObj.lgImageY=169;
+mObj.origImageX="214";
+mObj.origImageY="120";
+mObj.contentType='video';
+CNN.expElements.expand220Store=mObj;
+</script>
+<a name="em8"></a>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand220">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141023134132-wolf-sot-ottawa-shooting-victim-cirillo-family-00001310-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Uncle of Ottawa shooting victim speaks</span></cite>
+</div>
+<script>
+var currExpandable="expand320";
+if(typeof CNN.expandableMap==='object'){CNN.expandableMap.push(currExpandable);}
+var mObj={};
+mObj.type='video';
+mObj.contentId='';
+mObj.network='cnn';
+mObj.source='world/2014/10/22/cnni-shooting-at-ottawa-war-memorial.cnn';
+mObj.videoSource='CNN';
+mObj.videoSourceUrl='http://www.cnn.com';
+mObj.lgImage="http://i2.cdn.turner.com/cnn/dam/assets/141022104353-ottowa-shooting-canada-story-body.png";
+mObj.lgImageX=300;
+mObj.lgImageY=169;
+mObj.origImageX="214";
+mObj.origImageY="120";
+mObj.contentType='video';
+CNN.expElements.expand320Store=mObj;
+</script>
+<a name="em9"></a>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand320">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022104353-ottowa-shooting-canada-story-body.png" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Shooting at Ottawa War Memorial</span></cite>
+</div>
+<script>
+if (typeof cnnArticleGallery == "undefined") {
+var cnnArticleGallery = {};
+}
+var expGallery20410=new ArticleExpandableGallery();
+</script>
+<a name="em10"></a>
+<div class="cnn_strylftcntnt cnn_strylftcexpbxnv" id="expand420"><div class="cnnStoryElementBox">
+<div id="expandableTarget42010" class="cnnArticleExpandableTarget" style="position:relative;color:#FFF">
+<div class="cnnArticleGalleryClose"><img class="cnnArticleGalleryCloseButton" src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" onclick="expGallery20410.contractStaticImage('20','4','10')" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/141022112803-map-ottawa-war-memorial-shooting-story-top.jpg" alt="Map: Shooting near Parliament" border="0" class="box-image"/>
+<span style="font-size: 24px;">&nbsp;Map: Shooting near Parliament</span>
+</div>
+<div id="photoContainer42010" class="cnnArticlePhotoContainer" style="cursor:pointer" onclick="expGallery20410.expandStaticImage(20,4,10)">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<div class="cnnStoryElementBox"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141022112803-map-ottawa-war-memorial-shooting-story-top.jpg" alt="Map: Shooting near Parliament" border="0" class="box-image" height="122" width="214"/><cite class="expCaption"><span>Map: Shooting near Parliament</span></cite></div>
+</div>
+</div></div>
+<div class="cnn_clear" id="expandableClear42010" style="display:none"></div>
+<p class="cnn_storypgraphtxt cnn_storypgraph20">Gunfire first erupted in the building's foyer. Then a second round of shooting happened about a minute later in a hallway or near the entrance to the Parliament's library, Wingrove told CNN.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph21">Several officers had weapons drawn, he said, and most of the dozens of shots that he heard appeared to have been fired by officers at the gunman.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph22">When the shooting ended, a person was lying motionless on the ground near the library entrance, Wingrove said.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph23">Parliament member James Lunney tweeted: #HOC in Lockdown, lone gunman shot security guard, shot his way down Hall of Honor....we are all safe. Gunman dead! Thnk God &amp; our scrty!"</p>
+<div class="cnn_strylftcntnt">
+<div style="width:620px"><blockquote class="twitter-tweet" lang="en"><p>Horrific day on parliament hill. Shots fired inside centre block during our caucus meeting. I&#39;m safe locked in a office awaiting security.</p>&mdash; Kyle Seeback (@KyleSeeback) <a href="https://twitter.com/KyleSeeback/status/524938811349151744">October 22, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+</div>
+<p class="cnn_storypgraphtxt cnn_storypgraph24">In Twitter posts, several Canadian lawmakers <a href='http://www.cnn.com/2014/10/22/world/canada-shootings-hero/index.html' target='_blank'>hailed a top security official as a hero</a>, crediting him with shooting the gunman inside Parliament.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph25">"MPs and Hill staff owe their safety, even lives, to Sergeant at Arms Kevin Vickers who shot attacker just outside the MPs' caucus rooms," Craig Scott, a member of Parliament, wrote.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph26"><strong>Another soldier killed Monday</strong></p>
+<p class="cnn_storypgraphtxt cnn_storypgraph27">A U.S. law enforcement official told CNN that a connection to terrorism hasn't been ruled out.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph28">On Monday, a man who Canadian authorities said was "radicalized" killed a Canadian soldier with his car. The man was then shot and killed.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph29"><a href='http://www.cnn.com/2014/10/21/us/canada-soldiers-killed-officer-attack/'>Police: Man who ran down and killed soldier was 'radicalized'</a></p>
+<p class="cnn_storypgraphtxt cnn_storypgraph30">There was no immediate indication that the Monday and Wednesday incidents were related.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph31">In response to the shootings, the North American Aerospace Defense Command, or NORAD, has increased its alert posture, CNN has learned. That means that it has increased the number of planes on a higher alert status ready to respond if needed. NORAD and Canadian authorities are in contact, an official told CNN.</p>
+<div class="cnn_strylftcntnt">
+<div style="width:620px"><blockquote class="twitter-tweet" lang="en"><p>A body outside ground at library of parliament <a href="http://t.co/gtxWamyWmQ">pic.twitter.com/gtxWamyWmQ</a></p>&mdash; Josh Wingrove (@josh_wingrove) <a href="https://twitter.com/josh_wingrove/status/524922557120909314">October 22, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+</div>
+<p class="cnn_storypgraphtxt cnn_storypgraph32"><strong>Prime Minister secure during shootin</strong><strong>g</strong></p>
+<p class="cnn_storypgraphtxt cnn_storypgraph33">MP Tony Clement tweeted that he heard "at least 30 shots" and apparently was able to take cover with colleagues. He also tweeted that Prime Minister Harper was secure.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph34">Harper was safely evacuated from the building, tweeted his press secretary, Carl Vallee.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph35">Hours after the Parliament attack, Harper spoke by phone with U.S. President Barack Obama.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph36">"Obviously, we're all shaken by it," Obama later told reporters, "but we're going to do everything we can to make sure we're standing side by side with Canada during this difficult time."</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph37">Watson said that Wednesday was "a sad and tragic day for our city and our country."</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph38">"There's no pain greater than losing a loved one -- to have it happen in such circumstances as this morning is beyond expression, and underlined by a sad anger within my heart," he said.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph39"><strong>Canada raised its terror threat level</strong></p>
+<p class="cnn_storypgraphtxt cnn_storypgraph40">The violence at Parliament comes just days after Canada raised its terror alert Friday.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph41">The suspect in Monday's vehicle attack, Martin Rouleau Couture, reportedly converted to Islam about a year ago. Police arrested him last July and confiscated his passport, but lacked enough evidence to keep him in custody, said Martine Fontaine of the RCMP.</p>
+<p class="cnn_storypgraphtxt cnn_storypgraph42">"When he was arrested, he was about to go to Turkey," Fontaine said. "We stopped him as he was about to leave Canada for terrorist actions. He was questioned when he was arrested. We have not been able to determine any real threat at this time."</p>
+<script type="text/javascript">if(typeof CNN.expElements==='object'){CNN.expElements.init();}</script>
+<p class="cnn_strycbftrtxt">CNN's John Newsome, Pamela Brown, Jason Hanna, Dorrine Mendoza, Dana Ford, Elise Labott, Jim Sciutto, Pam Brown, Deb Feyerick and Susan Candiotti contributed to this report.</p>
+<!--endclickprintinclude--><!--google_ad_section_end-->
+<!--no partner-->
+<div class="cnn_strybtmcntnt">
+<div class="cnn_divline"></div>
+<div class="cnn_divline"></div>
+<div class="cnn_strybtmmorebx" id="outbrain_promoted_element">
+<div class="OUTBRAIN" data-src="http://www.cnn.com//2014/10/22/world/americas/canada-ottawa-shooting/index.html" data-widget-id="AR_15" data-ob-template="cnn"></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+<div class="cnn_strybtmmorebx" id="outbrain_ext_element">
+<div class="OUTBRAIN" data-src="http://www.cnn.com//2014/10/22/world/americas/canada-ottawa-shooting/index.html" data-widget-id="AR_2" data-ob-template="cnn" ></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+</div>
+<script>cnnad_newTileIDGroup(['607x95_adlinks','336x280_adlinks']);</script>
+<!-- ADSPACE: latin_america/mmst/adlinks.607x95 -->
+<!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=mmst&cnn_intl_position=607x95_adlinks&cnn_intl_rollup=latin_america&page.allowcompete=no&params.styles=fs|CALLOUT -->
+<div id="ad-a8dc1e680d4120ce" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("a8dc1e680d4120ce","http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=mmst&cnn_intl_position=607x95_adlinks&cnn_intl_rollup=latin_america&page.allowcompete=no&params.styles=fs","95","607");
+cnnad_registerSpace("a8dc1e680d4120ce","607","95");
+</script>
+<!-- ADSPACE-END -->
+</div>
+</div>
+<div class="cnn_strycntntrgt">
+<div>
+<span id="medium_rectangle" class="_fwph">
+<form id="_fw_form_medium_rectangle" style="display:none">
+<input type="hidden" name="_fw_input_medium_rectangle" id="_fw_input_medium_rectangle" value="w=336&h=280&envp=g_js&sflg=-nrpl&cd=336,280|300,250;">
+</form>
+<span id="_fw_container_medium_rectangle" class="_fwac">
+<!--fail@renderAd:unknown unitName-->
+</span>
+</span>
+</div>
+<div class="cnn_strycrcntr">
+<div class="cnn_divline cnn_divlscrc"></div>
+<div class="cnn_divline cnn_divlscrc"></div>
+<div style="padding-bottom:17px;padding-top:17px;" class="cnn_strycrcntrpad">
+<div class="OUTBRAIN" data-src="http://www.cnn.com//2014/10/22/world/americas/canada-ottawa-shooting/index.html" data-widget-id="AR_6" data-ob-template="cnn" ></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+<div class="OUTBRAIN" data-src="http://www.cnn.com//2014/10/22/world/americas/canada-ottawa-shooting/index.html" data-widget-id="AR_4" data-ob-template="cnn" ></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+<div class="OUTBRAIN" data-src="http://www.cnn.com//2014/10/22/world/americas/canada-ottawa-shooting/index.html" data-widget-id="AR_5" data-ob-template="cnn" ></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+</div>
+<style>
+.OB_SB_1, .OB_SB_2 { padding:0px; }
+#outbrain_container_1_stripBox .strip-like, #outbrain_container_2_stripBox .strip-like { font-size:18px; }
+#ob_strip_container_rel_1_stripBox { }
+#ob_strip_container_rel_1_stripBox .item-container, #ob_strip_container_rel_2_stripBox .item-container { padding-top:8px;border-top:1px solid #E5E5E5; }
+</style>
+<div class="cnn_divline"></div>
+<div class="cnn_stryspcvh6">
+<div class="cnn_stryspcvh2">Part of complete coverage on </div>
+<div class="cnn_stryspcvh3">Ottawa shooting</div>
+</div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2014/10/23/world/ottawa-shooting-roundup/index.html?iid=article_sidebar">What we know</a></div>
+<div class="cnn_stryscbx2">
+updated 6:32 PM EDT, Thu October 23, 2014
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2014/10/23/world/ottawa-shooting-roundup/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141023022120-canada-shooting-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">After a gunman killed an army reservist in the Canadian capital of Ottawa, many questions remain. </div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2014/10/22/world/canada-shootings-victim/index.html?iid=article_sidebar">Shooting victim remembered for big heart</a></div>
+<div class="cnn_stryscbx2">
+updated 3:15 PM EDT, Thu October 23, 2014
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2014/10/22/world/canada-shootings-victim/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141022193112-nathan-cirillo-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Nathan Cirillo was the strong, smiling type.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2014/10/22/world/canada-shooter/index.html?iid=article_sidebar">Who is shooter Michael Zehaf-Bibeau?</a></div>
+<div class="cnn_stryscbx2">
+updated 9:23 PM EDT, Thu October 23, 2014
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2014/10/22/world/canada-shooter/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141023064239-01-canada-shooting-1023-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">What would spur someone to walk up to a war memorial, fatally shoot a soldier guarding it, then rush into Canada's Parliament and open fire?</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2014/10/23/world/canada-shoot-tic-toc-text/index.html?iid=article_sidebar">How the shooting unfolded</a></div>
+<div class="cnn_stryscbx2">
+updated 7:04 AM EDT, Thu October 23, 2014
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2014/10/23/world/canada-shoot-tic-toc-text/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141022135803-ottawa-shooting-scenes-from-the-field-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Canadians feared this day, hoping it would never come but also knowing the odds probably weren't in their favor either.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2014/10/22/world/canada-shootings-hero/index.html?iid=article_sidebar">Sergeant-at-arms hailed as 'hero' </a></div>
+<div class="cnn_stryscbx2">
+updated 12:25 PM EST, Mon December 1, 2014
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2014/10/22/world/canada-shootings-hero/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141022162644-kevin-vickers-02-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">As sergeant-at-arms of Canada's House of Commons, Kevin Vickers is accustomed to being in the middle of big things.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/video/data/2.0/video/bestoftv/2014/10/25/natpkg-ottawa-guards-return.cnn.html?iid=article_sidebar">Guards return to National War Memorial </a></div>
+<div class="cnn_stryscbx2">
+updated 12:01 PM EDT, Sat October 25, 2014
+</div>
+<div class="cnn_stryscbx3">
+<a href="/video/data/2.0/video/bestoftv/2014/10/25/natpkg-ottawa-guards-return.cnn.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141025111711-natpkg-ottawa-guards-return-00010328-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Ottawa's Guard of Honor returns to the National War Memorial following the horrific shooting of Nathan Cirillo.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2014/10/22/opinion/cohen-ottawa-shooting-lockdown/index.html?iid=article_sidebar">Opinion: How did this happen?</a></div>
+<div class="cnn_stryscbx2">
+updated 4:57 PM EDT, Thu October 23, 2014
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2014/10/22/opinion/cohen-ottawa-shooting-lockdown/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141022110811-07-canada-shooting-1022-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">This isn't supposed to happen in Canada.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2014/10/23/world/canada-isis-role/index.html?iid=article_sidebar">Shooting raises fears of ISIS connection </a></div>
+<div class="cnn_stryscbx2">
+updated 7:05 AM EDT, Thu October 23, 2014
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2014/10/23/world/canada-isis-role/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141022213438-ottawa-lockdown-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">In recent days, Canada has become more involved in the global fight against ISIS.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2014/10/23/world/canada-parliament-security/index.html?iid=article_sidebar">How secure is nation's parliament building? </a></div>
+<div class="cnn_stryscbx2">
+updated 1:40 AM EDT, Thu October 23, 2014
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2014/10/23/world/canada-parliament-security/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141023064239-01-canada-shooting-1023-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">The incident has raised a concern: how secure is the nation's seat of power.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2014/10/22/world/canada-shooting-witness/index.html?iid=article_sidebar">Witnesses depict chaos in shootings</a></div>
+<div class="cnn_stryscbx2">
+updated 10:21 PM EDT, Wed October 22, 2014
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2014/10/22/world/canada-shooting-witness/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141022104438-02-canada-shooting-1022-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Peter Henderson heard gunshots ring out from the National War Memorial as workers were rolling into the office a little late.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/2014/10/22/world/gallery/canada-shooting-parliament/index.html?iid=article_sidebar">Photos from the ground</a></div>
+<div class="cnn_stryscbx2">
+updated 1:46 PM EDT, Fri October 31, 2014
+</div>
+<div class="cnn_stryscbx3">
+<a href="/2014/10/22/world/gallery/canada-shooting-parliament/index.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141022105554-03-canada-shooting-1022-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Photos as the scene unfolds of multiple shootings in Ottawa, Canada.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/video/data/2.0/video/bestoftv/2014/10/22/bts-lv-ottawa-shooting-matthew-millar.cnn.html?iid=article_sidebar">Witness: Shouting preceded gunfire</a></div>
+<div class="cnn_stryscbx2">
+updated 1:32 PM EDT, Wed October 22, 2014
+</div>
+<div class="cnn_stryscbx3">
+<a href="/video/data/2.0/video/bestoftv/2014/10/22/bts-lv-ottawa-shooting-matthew-millar.cnn.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141022132050-bts-lv-ottawa-shooting-matthew-millar-00022208-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Journalist Matthew Millar describes the scene at the Ottawa Parliament building after a gunman opened fire. </div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_stryspcvbx"><div class="cnn_stryspcvbxcntr"><div class="cnn_stryscbx1">
+<div><a href="/video/data/2.0/video/us/2014/10/22/sot-inside-parliament-video-shooting-ottawa.cnn.html?iid=article_sidebar">Video inside Parliament during shooting</a></div>
+<div class="cnn_stryscbx2">
+updated 12:07 PM EDT, Wed October 22, 2014
+</div>
+<div class="cnn_stryscbx3">
+<a href="/video/data/2.0/video/us/2014/10/22/sot-inside-parliament-video-shooting-ottawa.cnn.html?iid=article_sidebar"><img src="http://i2.cdn.turner.com/cnn/dam/assets/141022114348-sot-inside-parliament-video-shooting-ottawa-00001830-video-tease.jpg" alt="" border="0" height="68" width="120"/></a>
+</div>
+<div class="cnn_stryscbx4">Video captured inside Canada's Parliament shows the chaos that ensued during a shooting incident.</div>
+<div class="cnn_clear"></div>
+</div></div></div>
+<div class="cnn_divline cnn_divlscrc"></div> <div class="cnn_divline"></div>
+<div class="cnn_strycrcntrad">
+<div><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=mmst&cnn_intl_position=300x150_rgt&cnn_intl_rollup=latin_america&page.allowcompete=no&params.styles=fs|CALLOUT -->
+<!-- ADSPACE: latin_america/mmst/rgt.300x150 -->
+<div id="ad-9410e825730c0b93" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<script type="text/javascript">
+cnnad_createAd("9410e825730c0b93","http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=mmst&cnn_intl_position=300x150_rgt&cnn_intl_rollup=latin_america&page.allowcompete=no&params.styles=fs","150","300", null, "");
+cnnad_registerSpace("9410e825730c0b93","300","150");
+</script>
+<!-- ADSPACE-END --></div>
+<div class="cnn_adtitle"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/global/misc/advertisement.gif" alt="ADVERTISEMENT" border="0" height="5" width="58"/></div>
+</div>
+<div class="cnn_divline"></div>
+<div class="cnn_divline cnn_divlscrc"></div>
+<div style="padding:0 0 0 6px;">
+
+</div>
+</div>
+</div><div class="cnn_clear"></div>
+</div>
+</div></div></div>
+<div id="fb-root"></div>
+<div align="center"> <div class="cnn_pad6top"></div> <div class='cnn_containerwht' style='width:990px'> <div class="cnn-js-chrome-wrapper">
+    <div class="cnn-js-navigation" data-type="footer"></div>
+</div>
+<script src="http://z.cdn.turner.com/analytics/cnnexpan/jsmd.min.js" charset="utf-8"></script>
+<script>
+var cnn_metadata = cnn_metadata || {};
+cnn_metadata.template_type_content = cnn_metadata.template_type_content || '';
+CNN.omniture = CNN.omniture || {};
+CNN.omniture.template_type = CNN.omniture.template_type || '';
+var jsmd = _jsmd.init(),
+    pageURL = location.href.toLowerCase();
+if (pageURL.indexOf("/.element/ssi/ads.iframes/") === -1 && pageURL.indexOf("/doubleclick/dartiframe.html") === -1) {
+    if (pageURL.indexOf("cnn.com/search") === -1 || pageURL.indexOf("/search/") === -1) {
+        if (_jsmd.plugin.gQuery("refresh")) {
+            jsmd.trackMetrics("dynamic-autoRefresh", "autorefresh", "cnn-autorefresh");
+        } else if (_jsmd.plugin.gQuery("is_LR")) {
+            //do nothing
+        } else if (CNN.omniture.template_type !== "gallery" || cnn_metadata.template_type_content != "gallery") {
+            jsmd.send();
+        }
+    }
+}
+</script>
+
+ <script src="http://z.cdn.turner.com/cnn/tmpl_asset/static/www_global/983/js/globallib-min.js"></script> <script src="http://content.dl-rms.com/rms/mother/5721/nodetag.js"></script> <script src="http://icompass.insightexpressai.com/97.js"></script> <script> if(ms_isLoggedIn()){CNN_setCookie('CNN_member',true,854400,'/',document.domain);} </script> <div id="csimanagerdiv"><div id="csiIframeObjscsi2"><iframe style="visibility:hidden;position:absolute;top:0px;left:-100px;" name="csiDataIframecsi2" id="csiDataIframecsi2" src="http://svcs.cnn.com/weather/getForecast?time=24&amp;mode=json_html&amp;zipCode=30303&amp;locCode=&amp;celcius=false&amp;csiID=csi2" width="10" height="10"></iframe></div></div> <div id="csimanagerdivdelayed"></div>
+<!--jsmd-->
+<script src="http://z.cdn.turner.com/cnn/.e/js/libs/jsmd-70.min.js"></script>
+
+<script>
+var jsmd=_jsmd.init(),pageURL=location.href.toLowerCase();
+if (pageURL.indexOf("/.element/ssi/ads.iframes/")==-1&&pageURL.indexOf("/doubleclick/dartiframe.html")==-1&&pageURL.indexOf("/search/")==-1){
+if (_jsmd.plugin.gQuery("refresh")){
+jsmd.trackMetrics("dynamic-autoRefresh","autorefresh","cnn-autorefresh");
+} else if (_jsmd.plugin.gQuery("is_LR")){
+} else if (cnn_metadata.template_type_content!="gallery"){
+jsmd.send();
+}
+}
+</script>
+<!--/jsmd-->
+<script>
+/*globals FOOTERTOOLS*/
+$j(window).load(function () {
+'use strict';
+FOOTERTOOLS.init();
+});
+</script><script>
+/*globals CNN_CB, cnnsocial, cnnzite_mod, sectionName */
+/* configure apis to load and specify their callbacks */
+cnnsocial.setapiconfig([
+{
+'site' : 'facebook',
+'success' : function() {
+/* trigger connect-cnnsocial.js calls */
+window.cnn_fbAsyncInit();
+}
+},
+{ 'site' : 'twitter' }
+]);
+<!--Visual Revenue Reader Response Tracking Script (v6) -->
+var _vrq = _vrq || [];
+var vrId = 6;
+if(cnn_edtnswtchver === 'edition'){
+vrId = 396;
+}
+_vrq.push(['id', vrId]);
+_vrq.push(['automate', false]);
+_vrq.push(['track', function(){}]);
+(function(d, a){
+var s = d.createElement(a),
+x = d.getElementsByTagName(a)[0];
+s.async = true;
+s.src = 'http://a.visualrevenue.com/vrs.js';
+x.parentNode.insertBefore(s, x);
+})(document, 'script');
+<!-- End of VR RR Tracking Script - All rights reserved -->
+/* add the multiple config instance for sharebars */
+cnnsocial.share.setconfig(cnn_shareconfig);
+$j(document).ready(function () {
+'use strict';
+loadChartbeat("americas", "Ashley Fantz, Josh Levs and Catherine E. Shoichet, CNN");
+cnnzite_mod.init();
+CNN.initFlipperTicker();
+/* initialize cnnsocial */
+cnnsocial.init();
+});
+</script>
+<!-- ClickTale Bottom part -->
+<script type='text/javascript'>
+document.write(unescape("%3Cscript%20src='" +
+(document.location.protocol == 'https:' ?
+'https://cdnssl.clicktale.net/' :
+'http://cdn.clicktale.net/') +
+"www04/ptc/342da402-a44b-4b59-aba4-8fc2310e4478.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- ClickTale end of Bottom part -->
+<script type="text/javascript">
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'cnn'; // required: replace example with your forum shortname
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+var s = document.createElement('script'); s.async = true;
+s.type = 'text/javascript';
+s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+<script src="http://cache-02.cleanprint.net/cpf/cleanprint?key=cnn" name="cleanprintloader"></script>
+</body>
+</html>

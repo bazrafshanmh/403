@@ -1,0 +1,2272 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+Content-Type: text/html;charset=UTF-8
+ETag: W/"1d3c135-178cf-511fe54f10400"
+Last-Modified: Tue, 24 Mar 2015 01:02:08 GMT
+Server: Apache/2.2.29 (Amazon)
+X-Varnish: 586403567
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: private, must-revalidate, max-age=450
+Expires: Tue, 24 Mar 2015 01:09:38 GMT
+Date: Tue, 24 Mar 2015 01:02:08 GMT
+Content-Length: 23648
+Connection: keep-alive
+
+
+
+
+<!DOCTYPE html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head>
+		<script>
+		var SG_Debug = {};
+		SG_Debug.initialTime = new Date();
+		SG_Debug.pagedebug=(window.location.href.indexOf("pagedebug=true") > 0)?true:false;
+		SG_Debug.pagedebug && window.console && console.log && console.log('[' + (new Date()-SG_Debug.initialTime)/1000 + ']' + ' Top of head.jsp');
+		</script>
+
+		
+
+
+    <meta charset="utf-8" />
+    <meta http-equiv="content-language" content="en-us" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <script>
+        window._sf_startpt=(new Date()).getTime();
+        var WCMMode = "DISABLED";
+    </script>
+    <title>Ferguson Police Report IDs Michael Brown as &lsquo;Primary Suspect&rsquo; in Strong-Arm Robbery
+ - The Root</title>
+    <meta name="description" content="In a press conference, Ferguson Police Chief Thomas Jackson released the name of the officer who fatally shot unarmed teen Michael Brown and talked about a robbery that occurred just minutes before the shooting. Plus: Attorneys for Brown&rsquo;s family release a statement about the police report." />
+    <meta name="keywords" content="Mike Brown, Michael Brown, Ferguson, Missouri, Ferguson Police Chief, Thomas Jackson, Darren Wilson, video still, footage, strong-arm robbery, suspect" />
+    
+    
+      <meta name="author" content="Breanna Edwards" />
+    
+    
+      <meta property="article:published_time" content="2014-08-15T13:14-5:00" />
+      <meta name="DC.date.issued" content="2014-08-15T13:14-5:00" />
+    
+    <meta property="vr:type" content="article" />
+
+
+
+    
+      
+      
+        <meta property="vr:category" content="Culture" />
+        <meta property="article:tag" content="Culture" />
+      
+      
+      
+
+     <!-- Parsely -->
+    
+        <meta name='parsely-page' content='{
+  "title": "Cop Shooter Didn\u2019t Know Michael Brown Was Robbery Suspect; Family Furious Over Report Release",
+  "link": "http://www.theroot.com/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery.html",
+  "image_url": "http://www.theroot.com/content/dam/theroot/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery/453644084-standing-in-the-parking-lot-of-a-gas-station-which-was.jpg.CROP.hd-medium.jpg",
+  "type": "post",
+  "post_id": "100140815012",
+  "pub_date": "2014-08-15T13:14:00Z",
+  "section": "Culture",
+  "author": "Breanna Edwards",
+  "tags": []
+}'/>
+    
+    
+
+    
+
+    <!-- Web Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+
+    <!-- The Root CSS -->
+    <link type="text/css" href="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/css/theroot-main.8aada36d.css" rel="stylesheet" media="all" />
+
+    
+
+
+
+    <!-- from HTML5 Boilerplate -->
+    <link rel="shortcut icon" href="http://www.theroot.com/favicon.ico" />
+    <link rel="apple-touch-icon" href="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/images/mobile/apple-touch-icon.png" />
+
+    <!-- Google Sitemap -->
+    <meta name="google-site-verification" content="R8BHi0yS0QV3Wy1FFAUWm6nwiXJSoJbp1lVSuoTtDOs" />
+    <link rel="canonical" href="http://www.theroot.com/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery.html" />
+    
+    <link rel="image_src" href="http://www.theroot.com/content/dam/theroot/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery/453644084-standing-in-the-parking-lot-of-a-gas-station-which-was.jpg.CROP.thumbnail-small.jpg" />
+    
+
+    <!-- Bing Validate -->
+    <meta name="msvalidate.01" content="748FD16D8643D9A49E1105357E78B16A" />
+
+      <!-- Ad Ops -->
+    
+
+
+
+
+    <script>
+     var commercialNode = "culture";
+     var commercialPageType = "article";
+    </script>
+
+    <!-- JS -->
+    <script data-ad-site="theroot" src="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js/libs/require.js"></script>
+    <script>
+      requirejs.config({
+      "baseUrl": "//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js",
+      "paths": {
+        "jquery": "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min",
+        "modernizr": "/etc/designs/theroot/js/libs/modernizr-2.6.1.min",
+        "theroot": "/etc/designs/theroot/lib",
+        "facebook": "//connect.facebook.net/en_US/all",
+        "googleplus": "//apis.google.com/js/plusone",
+        "livefyre": "http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre",
+        "mobileredirection": "libs/redirection_mobile_1.0.0.min",
+        "optimizely": "//cdn.optimizely.com/js/523750529",
+
+        "eventie": '//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js/libs/bower_components/eventie',
+        'doc-ready': '//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js/libs/bower_components/doc-ready',
+        "eventEmitter": '//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js/libs/bower_components/eventEmitter',
+        'get-style-property': '//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js/libs/bower_components/get-style-property',
+        'get-size': '//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js/libs/bower_components/get-size',
+        'matches-selector': '//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js/libs/bower_components/matches-selector',
+        "outlayer": '//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js/libs/bower_components/outlayer',
+        "imagesloaded": '//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js/libs/bower_components/imagesloaded',
+        "masonry": '//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js/libs/bower_components/masonry',
+
+        "identity": '//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js/identity',
+        "hogan": '//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js/libs/hogan-2.0.0',
+        "shared": '//theroot-static-prod.s3.amazonaws.com/etc/designs/shared/js',
+        "campaigns": 'http://campaigns.theroot.com/campaigns/theroot',
+        "queryly": "http://www.queryly.com/js/queryly"
+      },
+      "shim": {
+        "shared/devicemode": ["modernizr"],
+        "shared/libs/base64": ["base64"],
+        "imagesLoaded": { exports: "imagesLoaded" },
+        "jquery-plugins/jquery.browser" : ["jquery"],
+        "jquery-plugins/multicolumn" : ["jquery"],
+        "libs/jquery-plugins/jquery.sticky": ["jquery"],
+        "optimizely": ["jquery"],
+        "wpAd": {
+          deps: ["jquery"],
+          exports: "wpAd"
+        },
+        "facebook": {
+          deps: ["identity/wapo_site_bottom"],
+          exports: "FB"
+        },
+        "googleplus": {
+          exports: "gPlus"
+        },
+        "livefyre": {
+          exports: "fyre"
+        },
+        "mobileredirection": {
+          "exports": "mobileredirection"
+        },
+        "queryly": {
+          deps: ["jquery"],
+          exports: "queryly"
+        }
+      }
+    });
+
+    define("config", {
+      "env": {
+        "edit": false
+      },
+      "identity": {
+        "fb_xd_receiver": "http://www.theroot.com/xd_receiver.htm",
+        "fb_app_id": "110960888944481",
+        "publicationName": "The Root",
+        "site_base_domain": "theroot.com",
+        "site_path": "/",
+        "wapo_secure_protocol": "https:",
+        "wapo_site_url": "//id.theroot.com/identity/",
+        "site_url": "//www.theroot.com/",
+        "wapo_public_protocol": "http:",
+        "enabled": "true",
+        "cdn": "//theroot-static-prod.s3.amazonaws.com",
+		"myslate_domain": "//my.theroot.com/",
+		"myslate_https": true
+      },
+      "page" : {
+      
+         
+         "articleId": "cq-100140815012"
+      
+      },
+      "campaigns": {
+         "domain":"campaigns.theroot.com"
+       },
+       "site": {
+         "site": "theroot",
+         "title": "The Root",
+         "staticUrl": "//theroot-static-prod.s3.amazonaws.com",
+         "omniturePrefix": "tr"
+       },
+
+
+      "data_domain": "http://www.theroot.com/",
+      "static_domain": "//theroot-static-prod.s3.amazonaws.com",
+      "logging_enabled": (("prod" == "local") ||
+                          ("prod" == "dev") ||
+                          (window.location.href.indexOf("logging_enabled") > -1)),
+      "ads": {
+        "enableHomepageViewability": false,
+        "enableStoryViewability": true,
+        "viewabilityEnabled": true,
+        "viewability": {
+          "leaderboardRollup": true,
+          "leaderboardRollupDisabledList": "",
+          "refreshInterval": "30",
+          "refreshPolar": false,
+          "testPageList": "homepage,news,views/culture,culture,politics,history,blogs,photos",
+          "lazyload": {
+            "homepageBB": true,
+            "leaderboard_2": true,
+            "tiffTiles": true,
+            "rightflex": true,
+            "336x60": true,
+            "rightbigbox": true,
+            "rightbigbox_2": true,
+            "flex": true
+          }
+        }
+      },
+
+      "log" : function(data) {
+        requirejs(["config"], function(config) {
+          if (config.logging_enabled) {
+            console.log(data);
+          }
+          if (typeof config._log == "undefined") {
+            config._log = [];
+          }
+          config._log.push(data);
+        });
+      },
+
+      "livefyre": {
+	    "network": "theroot.fyre.co",
+	    "jsSourceUrl": "http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js",
+	    "siteId": "337784"
+	  }
+
+    });
+    </script>
+
+    <script src="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/js/main.min.a3a6ce3b.js"></script>
+
+    
+    
+    <script>var wp_meta_data = {"authors":["Breanna Edwards"],"contentType":"article","page_id":"100140815012","keywords":"Mike Brown, Michael Brown, Ferguson, Missouri, Ferguson Police Chief, Thomas Jackson, Darren Wilson, video still, footage, strong-arm robbery, suspect","section":"Culture"};</script>
+
+    
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    <!-- Omniture -->
+    
+
+
+
+<script type="text/javascript" language="javascript">
+requirejs(["s_code"], function(s) {
+
+        s.currencyCode="usd";
+        s.charSet="utf-8";
+        s.trackDownloadLinks=true;
+        s.trackExternalLinks=true;
+        s.trackInlineStats=true;
+        s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls";
+        s.linkInternalFilters="javascript:,theroot.com,traffic.outbrain.com";
+        s.linkTrackVars="none";
+        s.linkTrackEvents="none";
+        s.pageName="tr - article - 100140815012 - ferguson police report ids michael brown as ‘primary suspect’ in strong-arm robbery";
+        s.channel="tr - culture";
+        s.server="www.theroot.com";
+        s.prop3="article";
+        s.prop4="theroot";
+        s.prop5="breanna edwards";
+        s.prop6="";
+        s.prop12="100140815012";
+        s.prop13="ferguson police report ids michael brown as ‘primary suspect’ in strong-arm robbery";
+        s.prop14="1";
+        s.prop32="cq5";
+        s.prop39="culture";
+        s.hier1="culture|article";
+        s.eVar8="breanna edwards";
+        s.eVar17="article";
+s.t();
+});
+</script>
+
+
+    <script>
+    requirejs(["theroot_identity", "jquery"], function(tr_id, $) {
+      if($.cookie("wapo_login_provider") != "Facebook"){
+         $.removeCookie('tr_logout_20140926', { path: '/' });
+         $.removeCookie('wapo_login_id', { path: '/' });
+         $.removeCookie('wapo_secure_login_id', { path: '/' });
+         $.removeCookie('wapo_groups', { path: '/' });
+         $.removeCookie('wapo_display', { path: '/' });
+         $.removeCookie('wapo_login_provider', { path: '/' });
+         $.removeCookie('lf_secure_login_id', { path: '/' });
+         $.removeCookie('lf_secure_login_id', { path: '/' });
+       wapoVisitor.wapoLogout();
+      }
+    });
+    </script>
+
+    <script>
+	 requirejs(["shared/campaignManager"], function(campaigns) {
+       campaigns.set({
+     	 id: "privacy",
+     	 template_id: "privacybanner",
+     	 data: { },
+     	 mode: campaigns.modes.banner,
+     	 frequency: 0,
+         initialDelay: 0,
+     	 completeOnClose: false,
+     	 dismissOnClose: false,
+   	   });
+ 	 });
+    </script>
+
+
+
+
+    <!-- Facebook OG -->
+    
+    <meta id="ogtitle" property="og:title" content="Cop Shooter Didn&rsquo;t Know Michael Brown Was Robbery Suspect; Family Furious Over Report Release" />
+    <meta property="og:type" content="article" />
+    <meta id="ogurl" property="og:url" content="http://www.theroot.com/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery.html" />
+    <meta id="ogimage" property="og:image" content="http://www.theroot.com/content/dam/theroot/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery/453644084-standing-in-the-parking-lot-of-a-gas-station-which-was.jpg.CROP.hd-large.jpg" />
+    <meta id="ogsite" property="og:site_name" content="The Root" />
+    <meta id="ogpublisher" property="og:publisher" content="https://www.facebook.com/theRoot" />
+    <meta id="ogdescription" property="og:description" content="In a press conference, Ferguson Police Chief Thomas Jackson released the name of the officer who fatally shot unarmed teen Michael Brown and talked about a robbery that occurred just minutes before the shooting. Plus: Attorneys for Brown&rsquo;s family release a statement about the police report." />
+    <meta property="fb:app_id" content="110960888944481"/>
+    
+    <meta property="og:video:url" content="http://theroottv.theroot.com/video/Surveillance-Michael-Brown-Susp" />
+    <meta property="og:video:width" content="600" />
+    <meta property="og:video:height" content="430" />
+    <meta property="og:video:type" content="application/x-shockwave-flash"/>
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" value="summary" />
+    <meta name="twitter:site" value="@theroot" />
+    
+    <meta name="twitter:creator" value="" />
+    
+    <meta name="twitter:url" value="http://www.theroot.com/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery.html" />
+    <meta name="twitter:title" value="Cop Shooter Didn&rsquo;t Know Michael Brown Was Robbery Suspect; Family Furious Over Report Release" />
+    <meta name="twitter:description" value="Updated Friday, Aug. 15, 4 p.m. EDT:&nbsp;The Associated Press is reporting that Ferguson Police Officer Darren Wilson, who was named as the unarmed teen Michael Brown&rsquo;s shooter, was not aware that Brown was a robbery suspect at the time of the incident. Meanwhile, Dorian Johnson, the young man who identified..." />
+    <meta name="twitter:image" value="http://www.theroot.com/content/dam/theroot/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery/453644084-standing-in-the-parking-lot-of-a-gas-station-which-was.jpg.CROP.hd-large.jpg" />
+    
+
+    
+    <meta name="sailthru.headline" content="Cop Shooter Didn&rsquo;t Know Michael Brown Was Robbery Suspect; Family Furious Over Report Release" />
+    <meta name="sailthru.subheadline" content="In a press conference, Ferguson Police Chief Thomas Jackson released the name of the officer who fatally shot unarmed teen Michael Brown and talked about a robbery that occurred just minutes before the shooting. Plus: Attorneys for Brown&rsquo;s family release a statement about the police report." />
+    <meta name="sailthru.tags" content="Mike Brown, Michael Brown, Ferguson, Missouri, Ferguson Police Chief, Thomas Jackson, Darren Wilson, video still, footage, strong-arm robbery, suspect" />
+    <meta name="sailthru.author" content="Breanna Edwards" />
+    <meta name="sailthru.description" content="In a press conference, Ferguson Police Chief Thomas Jackson released the name of the officer who fatally shot unarmed teen Michael Brown and talked about a robbery that occurred just minutes before the shooting. Plus: Attorneys for Brown&rsquo;s family release a statement about the police report." />
+    <meta name="sailthru.image.full" content="http://www.theroot.com/content/dam/theroot/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery/453644084-standing-in-the-parking-lot-of-a-gas-station-which-was.jpg.CROP.hd-large.jpg" />
+    
+
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, target-densityDpi=device-dpi" />
+
+    <link rel="apple-touch-icon" sizes="57x57" href="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/images/icons/logo-57px.69854e0b.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/images/icons/logo-72px.91b14ecb.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/images/icons/logo-76px.3a505799.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/images/icons/logo-114px.7157191e.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/images/icons/logo-120px.80e1a7b3.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/images/icons/logo-144px.4ad70552.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/images/icons/logo-152px.ab0428d1.png" />
+
+    <meta name="msapplication-TileImage" content="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/images/icons/logo-144px.4ad70552.png"/>
+    <meta name="msapplication-TileColor" content="#569918"/>
+
+        
+		<script>
+		SG_Debug && SG_Debug.pagedebug && window.console && console.log && console.log('[' + (new Date()-SG_Debug.initialTime)/1000 + ']' + ' Bottom of head.jsp');
+		</script>
+	</head>
+
+    
+
+
+<body>
+  <div id="fb-root"></div>
+
+  <div class="top">
+    <div class="leaderboard-ad">
+    
+      
+        <div class="leaderboard banner ad " data-ad-type="leaderboard" data-ad-mode="large"></div>
+      
+      
+    
+    </div>
+  </div>
+
+  
+
+  <div class="body-inner">
+
+    <div class="page" id="page">
+      <div class="page-inner">
+      <header>
+        <div class="ht5-header">
+          <div class="header-inner page-header-inner">
+
+            <!-- TOP TOOLBAR -->
+            <div class="header-toolbar">
+              <div class="burger" id="burger">
+              </div>
+
+              <div class="logo">
+                <a href="/index.html?wpisrc=logo">
+                  <object type="image/svg+xml" data="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/images/logo.svg" class="logo-svg">
+                    <img src="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/images/logo.1060a895.png" class="logo-no-svg" alt="The Root" />
+                  </object>
+                </a>
+              </div>
+
+              
+
+
+<!-- MAGNIFY: BEGIN DYNAMIC NEW STORIES -->
+              <div class="new-stories-counter">
+                <div class="new-count new-stories-count">0</div>
+                <div class="new-text">
+                  New stories
+                </div>
+                <div class="new-arrow toolbar-icon hoverable">
+                  <div class="new-arrow-hover toolbar-icon-hover">&nbsp;</div>
+                  <div class="new-arrow-pop-up pop-up">
+
+                    <h2>
+                      <span class="new-stories-count">0</span> New Stories Since Your Last Visit
+                    </h2>
+                    <div class="tiffanytile-ad">
+                    </div>
+
+                    <nav>
+                    <ul class="headline-list">
+
+                      
+                      <a class="headline-list-item-0" href="http://www.theroot.com/articles/news/2015/03/ex_nfl_star_darren_sharper_sentenced_to_9_years_in_prison.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323014">
+                          <span>Ex-NFL Star Darren Sharper Sentenced to 9 Years in Prison</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-1" href="http://www.theroot.com/articles/culture/2015/03/kendrick_lamar_to_pimp_a_butterfly.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323010">
+                          <span>Kendrick Lamar’s <em>To Pimp a Butterfly</em> Is a Sonic Tribute to Black Lives</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-2" href="http://www.theroot.com/articles/news/2015/03/new_york_subway_worker_stops_knife_attack.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323008">
+                          <span>NYC Subway Worker Stops Knife Attack</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-3" href="http://www.theroot.com/articles/news/2015/03/ky_officer_finishes_race_with_woman_who_refused_to_quit.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323007">
+                          <span>Ky. Officer Finishes Race With Woman Who Refused to Quit</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-4" href="http://www.theroot.com/blogs/the_grapevine/2015/03/after_being_roasted_on_social_media_starbucks_will_stop_writing_race_together.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323006">
+                          <span>After Being Roasted on Social Media, Starbucks Will Stop Writing ‘Race Together’ on Cups</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-5" href="http://www.theroot.com/articles/lists/2014/09/the_root_100_2014.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="">
+                          <span>The Root 100 2014</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-6" href="http://www.theroot.com/articles/news/2015/03/alaska_weed_activist_charlege_ebge_who_quit_on_air_got_her_dispensary_raided.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323013">
+                          <span>Alaska Weed Activist Who Quit TV Job Got Her Dispensary Raided by Police</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-7" href="http://www.theroot.com/articles/news/2015/03/mo_ne_davis_takes_high_road_asks_that_player_who_called_her_awful_name_be.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323012">
+                          <span>Mo’Ne Davis Takes High Road, Asks That Player Who Called Her Awful Name Be Reinstated</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-8" href="http://www.theroot.com/blogs/the_grapevine/2015/03/_watch_kerry_washington_s_power_speech_at_the_glaad_media_awards.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323011">
+                          <span>Watch: Kerry Washington’s Powerful Speech at the GLAAD Media Awards</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-9" href="http://www.theroot.com/articles/news/2015/03/houston_woman_shot_in_the_head_in_road_rage_incident.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323009">
+                          <span>Houston Woman Shot in the Head in Road Rage Incident</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-10" href="http://www.theroot.com/blogs/the_grapevine/2015/03/serena_williams_covers_vogue_discusses_friendship_with_biggest_rival.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323005">
+                          <span>Serena Williams Covers Vogue, Discusses Friendship With Biggest Rival</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-11" href="http://www.theroot.com/articles/culture/2015/03/diva_week_happy_birthday_aretha_franklin_chaka_khan_and_mariah_carey.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323004">
+                          <span>Happy Birthday, Divas!</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-12" href="http://www.theroot.com/articles/history/2015/03/the_elegant_berry_hotel_was_built_and_owned_by_a_black_hotelier_in_the_1800s.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323003">
+                          <span>Why White Guests Clamored to Check In to Edwin Berry's Hotel</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-13" href="http://www.theroot.com/articles/culture/2015/03/ain_t_nobody_like_chaka_khan_10_songs_that_will_school_a_new_generation.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323002">
+                          <span>Ain’t Nobody Like Chaka Khan: 10 Songs That Will School a New Generation</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-14" href="http://www.theroot.com/articles/politics/2015/03/why_not_make_voting_mandatory.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150323001">
+                          <span>Why Not Make Voting Mandatory?</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-15" href="http://www.theroot.com/blogs/journalisms/2015/03/usa_today_joins_starbucks_in_race_together_project.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150322006">
+                          <span>USA Today Joins Starbucks in ‘Race Together’ Project</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-16" href="http://www.theroot.com/articles/news/2015/03/oklahoma_mayoral_candidate_bill_helton_apologizes_for_blackface_performance.html?wpisrc=newstories">
+                        <li class="single  " data-articleid="100150322005">
+                          <span>Mayoral Candidate Apologizes for Blackface Performance That Mocks Black Women</span>
+                        </li>
+                      </a>
+                      
+                      
+                      <a class="headline-list-item-17" href="http://www.theroot.com/articles/news/2015/03/us_army_investigates_alleged_racial_thursdays_at_alaska_base.html?wpisrc=newstories">
+                        <li class="single last " data-articleid="100150322004">
+                          <span>US Army&nbsp;Investigates Alleged ‘Racial Thursdays’ at Alaska Base</span>
+                        </li>
+                      </a>
+                      
+
+                      <a href="/articles/recent.html"><h3 class="view-all">View All New Stories</h3></a>
+                      <li class="column-filler">&nbsp;</li>
+
+                    </ul>
+                    </nav>
+                  </div>
+                </div>
+              </div>
+<!-- MAGNIFY: END DYNAMIC NEW STORIES -->
+
+
+              <div class="header-social-buttons">
+                <aside>
+                <div class="newsletter toolbar-icon hoverable">
+                  Newsletter
+                  <div class="newsletter-hover toolbar-icon-hover">Newsletter</div>
+                  <div class="newsletter-pop-up pop-up">
+                    <div class="newsletter-intro">
+                      Sign up to get <strong>The Root</strong>'s daily email newsletter
+                      and <strong>The Chatterati</strong> Newsletter:
+                    </div>
+                    <form id="toolbar_newsletter" class="email-signup">
+                      <label class="newsletter-option">
+                        <input type="checkbox" class="checkbox theroot-email-checkbox"
+                               name="theroot-email" checked="checked" />
+                        <span>I would like to receive The Root email newsletter.</span>
+                      </label>
+                      <label class="newsletter-option">
+                        <input type="checkbox" class="checkbox thechatterati-email-checkbox"
+                               name="thechatterati-email" checked="checked" />
+                        <span>I would like to receive The Chatterati email newsletter.</span>
+                      </label>
+                      <div class="email-form newsletter-signup-inner">
+                        <input type="textfield" class="textfield email" name="email"
+                               placeholder="Enter Your Email Address" />
+                        <a class="button" href="#">Sign Up</a>
+                      </div>
+                      <div class="newsletter-status">
+                        <span class="status"></span>
+                        <span class="error"></span>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+                </aside>
+                <aside>
+                <div class="social-buttons toolbar-icon hoverable ">
+                  <div class="social-buttons-hover toolbar-icon-hover ">&nbsp;</div>
+                  <div class="social-buttons-pop-up pop-up">
+                    <div class="fb-like social-button"
+                         data-href="https://www.facebook.com/theRoot"
+                         data-width="90"
+                         data-layout="button_count"
+                         data-show-faces="false"
+                         data-send="false"></div>
+                    <div class="social-button">
+                      <a href="https://twitter.com/TheRoot" class="twitter-follow-button" data-show-count="true">Follow @TheRoot</a>
+                    </div>
+                    <div class="g-follow-wrapper social-button">
+                      <div class="g-follow" data-annotation="none" data-height="20" data-href="https://plus.google.com/115339866528940058128" data-rel="publisher"></div>
+                    </div>
+                    <div class="pin-follow-wrapper social-button">
+                      <a class="pin-follow" data-pin-do="buttonFollow" href="http://pinterest.com/TheRoot">The Root</a>
+                    </div>
+
+                  </div>
+                </div>
+                </aside>
+
+                
+
+                <aside>
+                <div class="avatar toolbar-icon hoverable">
+                  <div class="avatar-hover toolbar-icon-hover">&nbsp;</div>
+                  <div class="avatar-pop-up pop-up" id="avatar_pop_up">
+                  </div>
+                </div>
+                </aside>
+
+                
+
+                <aside>
+                <div class="search toolbar-icon hoverable">
+                  <div class="search-hover toolbar-icon-hover">&nbsp;</div>
+                  <div class="search-pop-up pop-up">
+                    <input class="searchfield textfield queryly" type="textfield" name="q" placeholder="Search The Root" />
+                    <div id="queryly_results_container" style="margin-left:-20px"></div>
+                  </div>
+                </div>
+                </aside>
+              </div>
+
+            </div><!-- /header-toolbar -->
+
+            <div class="tiffanytile-ad">
+              
+                
+                  <div class="ad tiffanytile" data-ad-mode="desktop" data-ad-type="tiffanytile"></div>
+                
+                
+              
+
+            </div>
+
+          </div> <!-- /header-inner -->
+        </div> <!-- /ht5-header -->
+
+      </header>
+          <!-- MAGNIFY: BEGIN DYNAMIC NAV -->
+          
+
+            <nav class="top-nav" id="top-nav">
+              <div class="ht5-nav">
+                <ul class="top-nav-list">
+                  <li class="list-item-1 top-nav-popular sub-menu popular navchips-none" data-section="popular">
+                    <a href="/articles/popular.html">
+                      <div class="nav-item-link"><span>
+                        Popular
+                      </span></div>
+
+                      <div class="segue accent-popular">
+                        <div class="segue-inner"></div>
+                      </div>
+                    </a>
+
+                    <div style="display: block;" class="inner-nav accent-popular">
+
+                      <ul class="inner-nav-list headline-list">
+                        <div class="left">
+                          <!-- Populate with Parsely -->
+                        </div>
+                        <div class="right">
+                          <!-- Popular with JS -->
+                          <span class="more-headlines">More Headlines</span>
+
+                        </div>
+                      </ul>
+                    </div>
+                  </li>
+
+                  <li class="list-item-2 top-nav-power-politics first sub-menu navchips-politics" data-section="politics">
+                    <a href="/articles/politics.html">
+                      <div class="nav-item-link">
+                        <span>
+                          Politics
+                        </span>
+                      </div>
+
+                      <div class="segue ">
+                        <div class="segue-inner arrows-politics"></div>
+                      </div>
+
+                    </a>
+
+
+
+<!-- /content/theroot/articles/politics/jcr:content -->
+    <!-- /content/theroot/articles/the_root_tv --> 
+    <div class="inner-nav accent-politics">
+
+    <ul class="inner-nav-list headline-list">
+      <div class="left">
+
+    
+            <a href="http://www.theroot.com/articles/politics/2015/03/why_not_make_voting_mandatory.html?wpisrc=burger">
+              <li class="box">
+                <img src="http://www.theroot.com/content/dam/theroot/articles/culture/2014/10/study_photos_of_black_voters_affect_white_voters_view_of_voter_id_laws/154354047-voter-gets-directions-on-how-to-use-the-electronic.jpg.CROP.rectangle-medium.jpg" width="200" />
+                <h6 class="headline">Why Not Make Voting Mandatory?</h6>
+              </li>
+            </a>
+            
+            <a href="http://www.theroot.com/articles/politics/2015/03/gop_s_hypocrisy_on_lynch_ag_nomination.html?wpisrc=burger">
+              <li class="box">
+                <img src="http://www.theroot.com/content/dam/theroot/uploads/2015/03/16/458627940-president-barack-obama-looks-on-as-his-nominee-for-us.jpg.CROP.rectangle-medium.jpg" width="200" />
+                <h6 class="headline">If Republicans Believed in a Meritocracy, They’d Confirm Loretta Lynch Now</h6>
+              </li>
+            </a>
+            
+      </div>
+      <div class="right">
+        <span class="more-headlines">More Headlines</span>
+        <a href="http://www.theroot.com/articles/politics/2015/03/_9_hbcu_students_just_made_the_voter_id_war_hot_again.html?wpisrc=burger"><li class="single "><span>9 HBCU Students Just Made the Voter-ID War Hot Again</span></li></a><a href="http://www.theroot.com/articles/politics/2015/03/obama_says_that_kind_of_stuff_all_the_time_mayor_giuliani.html?wpisrc=burger"><li class="single "><span>Slow Your Roll, Giuliani. By Your Own Standard, Obama’s More Conservative Than You</span></li></a><a href="http://www.theroot.com/articles/politics/2015/03/_2_missouri_congressmen_offer_reward_for_ferguson_cop_shooting.html?wpisrc=burger"><li class="single "><span>2 Mo. Congressmen Offer Reward in Ferguson Cops’ Shooting</span></li></a><a href="http://www.theroot.com/articles/politics/2015/03/how_credit_checks_keep_black_people_unemployed.html?wpisrc=burger"><li class="single "><span>How Employer Credit Checks Are Keeping Black People Unemployed</span></li></a><a href="http://www.theroot.com/articles/politics/2015/03/md_rep_donna_edwards_to_run_for_barbara_mikulski_s_senate_seat.html?wpisrc=burger"><li class="single "><span>Md. Rep. Donna Edwards to Run for Barbara Mikulski’s Senate Seat</span></li></a>
+      </div>
+    </ul>
+    </div>
+
+
+                  </li>
+
+                  <li class="list-item-3 top-nav-culture sub-menu culture navchips-culture" data-section="culture">
+                    <a href="/articles/culture.html">
+                      <div class="nav-item-link">
+                        <span>
+                          Culture
+                        </span>
+                      </div>
+
+                      <div class="segue ">
+                        <div class="segue-inner arrows-culture"></div>
+                      </div>
+
+                    </a>
+
+
+
+<!-- /content/theroot/articles/culture/jcr:content -->
+    <!-- /content/theroot/articles/the_root_tv --> 
+    <div class="inner-nav accent-culture">
+
+    <ul class="inner-nav-list headline-list">
+      <div class="left">
+
+    
+            <a href="http://www.theroot.com/articles/culture/2015/03/kendrick_lamar_to_pimp_a_butterfly.html?wpisrc=burger">
+              <li class="box">
+                <img src="http://www.theroot.com/content/dam/theroot/articles/culture/2015/03/kendrick_lamar_to_pimp_a_butterfly/screen_shot_20150323_at_9.10.27_am.png.CROP.rectangle-medium.png" width="200" />
+                <h6 class="headline">Kendrick Lamar’s To Pimp a Butterfly Is a Sonic Tribute to Black Lives</h6>
+              </li>
+            </a>
+            
+            <a href="http://www.theroot.com/articles/culture/2015/03/diva_week_happy_birthday_aretha_franklin_chaka_khan_and_mariah_carey.html?wpisrc=burger">
+              <li class="box">
+                <img src="http://www.theroot.com/content/dam/theroot/articles/culture/2015/03/diva_week_happy_birthday_aretha_franklin_chaka_khan_and_mariah_carey/divas.jpg.CROP.rectangle-medium.jpg" width="200" />
+                <h6 class="headline">Happy Birthday, Divas!</h6>
+              </li>
+            </a>
+            
+      </div>
+      <div class="right">
+        <span class="more-headlines">More Headlines</span>
+        <a href="http://www.theroot.com/articles/culture/2015/03/ain_t_nobody_like_chaka_khan_10_songs_that_will_school_a_new_generation.html?wpisrc=burger"><li class="single "><span>Ain’t Nobody Like Chaka Khan: 10 Songs That Will School a New Generation</span></li></a><a href="http://www.theroot.com/articles/culture/2015/03/little_white_lie_documentary_growing_up_white_until_a_family_secret_revealed.html?wpisrc=burger"><li class="single "><span>Growing Up White Until a Family Secret Revealed She Was Not</span></li></a><a href="http://www.theroot.com/articles/culture/2015/03/taraji_p_henson_enrolls_son_at_howard_university_after_he_was_racially_profiled.html?wpisrc=burger"><li class="single "><span>You’re Gonna Love What Taraji P. Henson Did After Her Son Was Racially Profiled on Campus</span></li></a><a href="http://www.theroot.com/articles/culture/2015/03/_i_go_to_uva_martese_johnson_s_cry_of_millenial_disbelief.html?wpisrc=burger"><li class="single "><span>‘I Go to UVA,’ Martese Johnson’s Cry of Millennial Disbelief</span></li></a><a href="http://www.theroot.com/articles/culture/2015/03/jazz_in_the_gardens_more_like_jazz_in_a_stadium.html?wpisrc=burger"><li class="single "><span>Jazz in the Gardens? More Like Jazz in a Stadium</span></li></a>
+      </div>
+    </ul>
+    </div>
+
+
+
+                  </li>
+
+                  <li class="list-item-4 top-nav-history sub-menu history navchips-history" data-section="history">
+                    <a href="/articles/history.html">
+                      <div class="nav-item-link">
+                        <span>
+                          History
+                        </span>
+                      </div>
+
+                      <div class="segue">
+                        <div class="segue-inner arrows-history"></div>
+                      </div>
+
+                    </a>
+
+
+
+<!-- /content/theroot/articles/history/jcr:content -->
+    <!-- /content/theroot/articles/the_root_tv --> 
+    <div class="inner-nav accent-history">
+
+    <ul class="inner-nav-list headline-list">
+      <div class="left">
+
+    
+            <a href="http://www.theroot.com/articles/history/2015/03/the_elegant_berry_hotel_was_built_and_owned_by_a_black_hotelier_in_the_1800s.html?wpisrc=burger">
+              <li class="box">
+                <img src="http://www.theroot.com/content/dam/theroot/articles/history/2015/03/the_elegant_berry_hotel_was_built_and_owned_by_a_black_hotelier_in_the_1800s/berry_and_hotel_1.jpg.CROP.rectangle-medium.jpg" width="200" />
+                <h6 class="headline">Why White Guests Clamored to Check In to Edwin Berry's Hotel</h6>
+              </li>
+            </a>
+            
+            <a href="http://www.theroot.com/articles/history/2015/03/dr_ben_one_of_the_last_people_s_scholars_of_harlem_joins_the_ancestors.html?wpisrc=burger">
+              <li class="box">
+                <img src="http://www.theroot.com/content/dam/theroot/articles/history/2015/03/dr_ben_one_of_the_last_people_s_scholars_of_harlem_joins_the_ancestors/dr._ben.jpg.CROP.rectangle-medium.jpg" width="200" />
+                <h6 class="headline">Dr. Ben, One of the Last ‘People’s Scholars’ of Harlem, Joins the Ancestors</h6>
+              </li>
+            </a>
+            
+      </div>
+      <div class="right">
+        <span class="more-headlines">More Headlines</span>
+        <a href="http://www.theroot.com/articles/history/2015/03/dna_test_the_best_one_for_mixed_ancestry.html?wpisrc=burger"><li class="single "><span>Which DNA Test Can Help Me Untangle My Mixed Heritage?</span></li></a><a href="http://www.theroot.com/articles/history/2015/03/mary_bowser_a_black_spy_in_the_confederate_white_house.html?wpisrc=burger"><li class="single "><span>Mary Bowser: A Brave Black Spy in the Confederate White House</span></li></a><a href="http://www.theroot.com/articles/history/2015/03/blacks_in_western_art_a_simple_tribute_to_clergyman_and_freemason_absalom.html?wpisrc=burger"><li class="single "><span>Some Brotherly Love for Clergyman and Freemason Absalom Jones</span></li></a><a href="http://www.theroot.com/articles/history/2015/03/the_1st_successful_american_born_magician_was_a_black_man.html?wpisrc=burger"><li class="single "><span>The 1st Successful American-Born Magician Was a Black Man</span></li></a><a href="http://www.theroot.com/articles/history/2015/03/researching_revolutionary_war_slaves_in_south_carolina.html?wpisrc=burger"><li class="single "><span>How Do I Find Slaves Living on a Plantation During the Revolutionary War?</span></li></a>
+      </div>
+    </ul>
+    </div>
+
+
+
+                  </li>
+
+                  <li class="list-item-5 top-nav-root-tv sub-menu root-tv navchips-videos" data-section="root-tv">
+                    <a href="http://theroottv.theroot.com">
+                      <div class="nav-item-link"><span>
+                        The Root TV
+                      </span></div>
+                      <div class="segue">
+                        <div class="segue-inner arrows-videos"></div>
+                      </div>
+                    </a>
+
+
+<!-- /content/theroot/articles/the_root_tv/jcr:content -->
+    <!-- /content/theroot/articles/the_root_tv --> 
+    <div class="inner-nav accent-videos">
+
+    <ul class="inner-nav-list headline-list">
+      <div class="left">
+
+    
+            <a href="http://theroottv.theroot.com/video/Aretha-Franklin-Mariah-Carey-Ce?wpisrc=burger">
+              <li class="box">
+                <img src="http://s3.amazonaws.com/magnifythumbs/H142FD015H8R3HK7.jpg" width="200" />
+                <h6 class="headline">Aretha Franklin, Mariah Carey, Celine Dion, Gloria Estefan, Shania Twain and Carole King</h6>
+              </li>
+            </a>
+            
+            <a href="http://theroottv.theroot.com/video/Aretha-Franklin-and-Mavis-Stapl?wpisrc=burger">
+              <li class="box">
+                <img src="http://s3.amazonaws.com/magnifythumbs/KW71ZH0VXV4JJ855.jpg" width="200" />
+                <h6 class="headline">Aretha Franklin and Mavis Staples - 'Oh Happy Day'</h6>
+              </li>
+            </a>
+            
+      </div>
+      <div class="right">
+        <span class="more-headlines">More Headlines</span>
+        <a href="http://theroottv.theroot.com/video/Tom-Jones-and-Aretha-Franklin?wpisrc=burger"><li class="single "><span>Tom Jones and Aretha Franklin</span></li></a><a href="http://theroottv.theroot.com/video/Aretha-Franklin-Patti-LaBelle-a?wpisrc=burger"><li class="single "><span>Aretha Franklin, Patti LaBelle and Mary J Blige- Essence Awards</span></li></a><a href="http://theroottv.theroot.com/video/Aretha-Franklin-and-Gloria-Este?wpisrc=burger"><li class="single "><span>Aretha Franklin and Gloria Estefan - 'Coming Out of the Dark'</span></li></a><a href="http://theroottv.theroot.com/video/Whitney-Houston-Ce-Ce-Winans-Ot?wpisrc=burger"><li class="single "><span>Whitney Houston, CeCe Winans & Others - Medley at the 1997 Grammys</span></li></a><a href="http://www.theroot.com/articles/the_root_tv/2013/11/spoken_word_heartbreak_and_grief_of_lost_love.html?wpisrc=burger"><li class="single "><span>Handing Out Instructions for the Next Heartbreak</span></li></a>
+      </div>
+    </ul>
+    </div>
+
+
+
+                  </li>
+
+                  <li class="list-item-6 top-nav-photos sub-menu photos navchips-photos" data-section="photos">
+                    <a href="/photos.html">
+                      <div class="nav-item-link"><span>
+                        Photos
+                      </span></div>
+                      <div class="segue">
+                        <div class="segue-inner arrows-photos"></div>
+                      </div>
+                    </a>
+
+
+
+<!-- /content/theroot/photos/jcr:content -->
+    <!-- /content/theroot/articles/the_root_tv --> 
+    <div class="inner-nav accent-photos">
+
+    <ul class="inner-nav-list headline-list">
+      <div class="left">
+
+    
+            <a href="http://www.theroot.com/photos/2015/03/black_women_who_changed_history.html?wpisrc=burger">
+              <li class="box">
+                <img src="http://s3.amazonaws.com:80/root-slideshow-prod/images%2Fcovers%2Fslideshow_407-cover.png" width="200" />
+                <h6 class="headline">Root Disruptors</h6>
+              </li>
+            </a>
+            
+            <a href="http://www.theroot.com/photos/2015/03/_10_black_women_who_are_changing_the_face_of_tech.html?wpisrc=burger">
+              <li class="box">
+                <img src="http://s3.amazonaws.com:80/root-slideshow-prod/images%2Fcovers%2Fslideshow_409-cover.png" width="200" />
+                <h6 class="headline">Designing Women</h6>
+              </li>
+            </a>
+            
+      </div>
+      <div class="right">
+        <span class="more-headlines">More Headlines</span>
+        <a href="http://www.theroot.com/photos/2015/03/behind_the_scenes_images_of_first_family_in_selma.html?wpisrc=burger"><li class="single "><span>Obama in Selma</span></li></a><a href="http://www.theroot.com/photos/2015/03/women_of_vintage_black_glamour.html?wpisrc=burger"><li class="single "><span>Vintage Black Glamour</span></li></a><a href="http://www.theroot.com/photos/2015/03/the_world_s_richest_black_women.html?wpisrc=burger"><li class="single "><span>Richest Black Women</span></li></a><a href="http://www.theroot.com/photos/2015/02/_17_african_american_photographers.html?wpisrc=burger"><li class="single "><span>Photographers</span></li></a><a href="http://www.theroot.com/photos/2015/02/stellar_gospel_awards_2015_25_gospel_songs_you_need_to_hear.html?wpisrc=burger"><li class="single "><span>Gospel Singers</span></li></a>
+      </div>
+    </ul>
+    </div>
+
+
+                  </li>
+
+                  <li class="list-item-7 top-nav-lists sub-menu lists navchips-lists" data-section="lists">
+                    <a href="/articles/lists.html">
+                      <div class="nav-item-link"><span>
+                        Lists
+                      </span></div>
+                      <div class="segue">
+                        <div class="segue-inner arrows-lists"></div>
+                      </div>
+                    </a>
+
+
+<!-- /content/theroot/articles/lists/jcr:content -->
+    <!-- /content/theroot/articles/the_root_tv --> 
+    <div class="inner-nav accent-lists">
+
+    <ul class="inner-nav-list headline-list">
+      <div class="left">
+
+    
+            <a href="http://www.theroot.com/articles/lists/2014/09/the_root_100_2014.html?wpisrc=burger">
+              <li class="box">
+                <img src="http://www.theroot.com/content/dam/theroot/uploads/2014/9/10/tr100_1.png.CROP.rectangle-medium.png" width="200" />
+                <h6 class="headline">The Root 100 2014</h6>
+              </li>
+            </a>
+            
+            <a href="http://www.theroot.com/articles/lists/2015/03/_3_tech_companies_funding_diversity_efforts.html?wpisrc=burger">
+              <li class="box">
+                <img src="http://www.theroot.com/content/dam/theroot/articles/lists/2015/03/_3_tech_companies_funding_diversity_efforts/152807970-visitor-uses-a-cell-phone-in-front-of-the-google-logo.jpg.CROP.rectangle-medium.jpg" width="200" />
+                <h6 class="headline">Here Are 3 Tech Companies Backing Up Diversity Efforts With Cash</h6>
+              </li>
+            </a>
+            
+      </div>
+      <div class="right">
+        <span class="more-headlines">More Headlines</span>
+        <a href="http://www.theroot.com/articles/lists/2015/02/the_2015_young_futurists.html?wpisrc=burger"><li class="single "><span>The Young Futurists 2015</span></li></a><a href="http://www.theroot.com/articles/lists/2014/12/poll_name_your_favorite_denzel_washington_movies.html?wpisrc=burger"><li class="single "><span>Poll: Did We Miss Your Favorite Denzel Washington Movie?</span></li></a><a href="http://www.theroot.com/articles/lists/2014/12/the_root_s_most_watched_videos_of_2014.html?wpisrc=burger"><li class="single "><span>The Top 15 Videos of 2014</span></li></a><a href="http://www.theroot.com/articles/lists/2014/09/the_root_100_adds_a_people_s_choice_award_voted_on_by_readers.html?wpisrc=burger"><li class="single "><span>The Root 100 Adds a People’s Choice Award, Voted on by Readers</span></li></a><a href="http://www.theroot.com/articles/lists/2014/08/socially_awkward_let_king_bey_be_your_guide.html?wpisrc=burger"><li class="single "><span>Beyoncé’s 20-Step Guide to Networking for the Socially Awkward</span></li></a>
+      </div>
+    </ul>
+    </div>
+
+
+                  </li>
+
+                  <li class="list-item-8 top-nav-calendar national-black-calendar navchips-none" data-section="calendar">
+                    <a href="http://nationalblackcalendar.com/" target="_blank">
+                      <div class="nav-item-link"><span>
+                        National Black Calendar
+                      </span></div>
+                    </a>
+                  </li>
+
+
+                  <li class="list-item-9 top-nav-the-chatterati the-chatterati navchips-none" data-section="the-chatterati">
+                    <a href="http://www.theroot.com/the-chatterati.html?wpisrc=topnav">
+                      <div class="nav-item-link"><span>
+                        The Chatterati
+                      </span></div>
+                    </a>
+                  </li>
+
+                </ul>
+
+                <div class="clear"></div>
+              </div>
+            </nav>
+
+          <!-- MAGNIFY: END DYNAMIC NAV -->
+         </div>
+    </div>
+
+    
+    <div id="header_advert" class="advert">
+      
+<div id="slug_t" class="tAd ad " data-ad-type="t" data-ad-mode="mobile"></div>
+
+    </div>
+    
+
+
+        
+
+
+
+
+
+  
+  
+    <div style="height:100px;" class="horizontal-band accent-band-culture">
+  
+
+
+  <aside>
+        <div class="pagination-link pagination-link-prev"></div>
+        <div class="pagination-link pagination-link-next"></div>       
+          <div id="parsely-band" class="swipe">
+            <div class="parsely-band-wrap"></div>
+          </div>
+    </aside>
+</div>
+<div style="clear:both"></div>
+    
+    <div class="page-main" id="page-main">
+      <div class="page-inner-main">
+        <!-- MAGNIFY: BEGIN CONTENT -->
+
+    
+    <script>
+      SG_Debug && SG_Debug.pagedebug && window.console && console.log && console.log('[' + (new Date()-SG_Debug.initialTime)/1000 + ']' + ' Bottom of header.jsp');
+    </script>
+
+
+    
+
+
+
+
+
+
+
+<div class="content-wrapper-placeholder">
+
+<article itemscope itemtype="http://schema.org/Article" class="article-page">
+    <nav>
+        <div class="breadcrumb">
+            <div class="crumbs">
+                <div class="home"><a href="/">Home</a></div>
+                <div class="last"><a href="http://www.theroot.com/articles/culture.html"><span itemprop="articleSection">Culture</span></a></div>
+            </civ>
+        </div>
+    </nav>
+
+    <header>
+      <div class="article-hd">
+        <h1 itemprop="name" class="title">Cop Shooter Didn’t Know Michael Brown Was Robbery Suspect; Family Furious Over Report Release</h1>
+        <p class="blurb">In a press conference, Ferguson Police Chief Thomas Jackson released the name of the officer who fatally shot unarmed teen Michael Brown and talked about a robbery that occurred just minutes before the shooting. Plus: Attorneys for Brown’s family release a statement about the police report.</p>
+        <div class="author-info">
+          
+            <img src="/content/dam/theroot/80x80 author images/80x80_breanna.jpg.CROP.hd-xsmall.jpg" width="58" height="58"/>
+          
+          <div class="meta">
+
+            
+            <div class="byline" id="main_byline">
+              <div class="auth">By: <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a rel="author" href="http://www.theroot.com/authors.breanna_edwards.html">Breanna Edwards</a></span></span></div>
+            </div>
+            
+
+            <div class="date">Posted: <span itemprop="datePublished" content="2014-08-15T13:14:00.000-04:00">Aug. 15 2014 1:14 PM</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      
+
+
+        <!-- Horizontal -->
+        <div id="share-box-top" class="horiz-sharebox social-onload share-box-flank">
+          <div class="social">
+            <div class="comments">
+              <a href="#comments_link">
+                <div class="icon"></div>
+              </a>
+            </div>
+            <div class="twitter">
+              <a class="tweet" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.theroot.com%2Farticles%2Fculture%2F2014%2F08%2Fferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery.html&amp;text=Cop+Shooter+Didn%E2%80%99t+Know+Michael+Brown+Was+Robbery+Suspect%3B+Family+Furious+Over+Report+Release&amp;via=TheRoot">
+                <div class="icon"></div>
+                <div class="count">0</div>
+              </a>
+            </div>
+            <div class="facebook-like">
+              <span>
+              <fb:like send="false" layout="button_count" width="50" show_faces="false" font="verdana" ref="sm_fb_like_toolbar" href="http://www.theroot.com/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery.html">
+              </fb:like>
+            </span>
+            </div>
+            <div class="facebook">
+              <a class="fb-share" href="http://www.theroot.com/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery.html">
+                <div class="icon"></div>
+                <div class="count"></div>
+              </a>
+            </div>
+            
+            <div class="mail">
+                 <a href="mailto:?subject=Check%20out%20this%20piece%20on%20The%20Root&body=I%20thought%20you%20might%20like%20this%20article%20on%20The%20Root:%0ACop%20Shooter%20Didn%E2%80%99t%20Know%20Michael%20Brown%20Was%20Robbery%20Suspect%3B%20Family%20Furious%20Over%20Report%20Release%0Ahttp://www.theroot.com/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery.html"><div class="icon"></div></a>
+            </div>
+          </div>
+         </div>
+        <div id="share-box-flank-pos">&nbsp;</div>
+
+
+
+    </header>
+
+        
+<section itemprop="articleBody" class="content">
+    
+    <div class="body parsys">
+
+
+                    
+                    <div class="theroot_image parbase image slate_image section">
+
+
+
+
+<div class="sl-art-illo-cntr" style="text-align:center;width: 670px;margin: 0 auto;display: block;float: none;">
+<img title="453644084-standing-in-the-parking-lot-of-a-gas-station-which-was" alt="453644084-standing-in-the-parking-lot-of-a-gas-station-which-was" class="cq-dd-image sl-img-no-new-tab sl-art-illo" src="/content/dam/theroot/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery/453644084-standing-in-the-parking-lot-of-a-gas-station-which-was.jpg.CROP.rtstoryvar-large.jpg" >
+	
+		<div class="sl-art-illo-cap" style="">
+		
+			Standing in the parking lot of a gas station in Ferguson, Mo., that was burned during rioting, Ferguson Police Chief Thomas Jackson on Aug. 15, 2014, announces the name of the Ferguson police officer responsible for the shooting death of teenager Michael Brown.&nbsp;
+        
+			<span class="sl-art-illo-cred"><p>Scott Olson/Getty Images</p>
+</span>
+		
+		</div><!--/sl-art-illo-cap-->
+	
+</div><!--/sl-art-illo-cntr-->
+
+
+</div>
+<div class="tablet-body-bigbox">
+                            
+<div id="slug_bigbox" class="ad " data-ad-type="bigbox" data-ad-mode="tablet"></div>
+
+                          </div>
+
+                    
+                    <div class="text text-1 parbase section">
+
+<p><strong>Updated Friday, Aug. 15, 4 p.m. EDT:&nbsp;</strong>The Associated Press is reporting that Ferguson Police Officer Darren Wilson, who was named as the unarmed teen Michael Brown&rsquo;s shooter, was not aware that Brown was a robbery suspect at the time of the incident.</p>
+
+
+</div>
+
+            
+
+
+
+            
+
+                    
+                    <div class="twitter section">
+
+
+<blockquote class="twitter-tweet" width="550"><p>BREAKING: Police chief: Officer who shot Michael Brown did not know he was a robbery suspect at the time.</p>&mdash; The Associated Press (@AP) <a href="https://twitter.com/AP/statuses/500359930483081217">August 15, 2014</a></blockquote>
+<script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+</div>
+
+
+                    
+                    <div class="text-2 text parbase section">
+
+<p>Meanwhile, Dorian Johnson, the young man who identified himself as Brown&rsquo;s friend and <a href="http://www.theroot.com/articles/culture/2014/08/friend_who_witnessed_mike_brown_shooting_speaks.html">gave his personal testimony</a>&nbsp;about what happened on MSNBC earlier this week, confirmed that he and Brown did indeed steal cigars from a convenience store, his attorney stated. &nbsp;&nbsp;</p>
+
+
+</div>
+
+                        <div class="mobile-ad">
+                            
+<div id="slug_mob_bigbox" class="ad " data-ad-type="mob_bigbox" data-ad-mode="mobile"></div>
+
+                        </div>
+                     
+
+                    
+                    <div class="text-3 text parbase section">
+
+<p>&ldquo;We see that there&rsquo;s tape, that they claim they got a tape that shows there was some sort of strong-armed robbery,&rdquo; Freeman Bosley, Johnson&rsquo;s attorney, said,&nbsp;<a href="http://www.msnbc.com/msnbc/ferguson-police-name-michael-brown">according to MSNBC</a>. &ldquo;We need to see that tape, my client did tell us and told the FBI that they went into the store. He told FBI that [Brown] did take cigarillos. He told that to the DOJ and the St. Louis County Police.&rdquo;</p>
+
+
+</div>
+
+
+                    
+                    <div class="text parbase text-4 section">
+
+<p><strong>Updated Friday, Aug. 15, 2:30 p.m. EDT: </strong>The attorneys representing Michael Brown&rsquo;s family&nbsp;<a href="http://www.twitlonger.com/show/n_1s44se5">released a scathing statement</a> after the press conference and police report that linked the unarmed teen to a robbery shortly before the shooting.</p>
+
+
+</div>
+
+
+                    
+                    <div class="text parbase text-5 section">
+
+<p>Attorneys representing the family called the methods of the police &ldquo;devious,&rdquo; adding that they were "beyond outraged&rdquo;:</p>
+
+
+</div>
+
+
+                    
+                    <div class="text text-6 parbase section">
+
+<p style="margin-left: 40px;">Michael Brown&rsquo;s family is beyond outraged at the devious way the police chief has chosen to disseminate [piecemeal] information in a manner intended to assassinate the character of their son, following such a brutal assassination of his person in broad daylight.<br>
+<br>
+There is nothing based on the facts that have been placed before us that can justify the execution style murder of their child by this police officer as he held his hands up, which is the universal sign of surrender.<br>
+<br>
+The prolonged release of the officer&rsquo;s name and then the subsequent alleged information regarding a robbery is the reason why the family and the local community have such distrust for the local law enforcement agencies.<br>
+<br>
+It is no way transparent to release the still photographs alleged to be Michael Brown and refuse to release the photographs of the officer that executed him.<br>
+<br>
+The police strategy of attempting to blame the victim will not divert our attention, from being focused on the autopsy, ballistics report and the trajectory of the bullets that caused Michael&rsquo;s death and will demonstrate to the world this brutal execution of an unarmed teenager.<br>
+<br>
+Benjamin L Crump, Esq.<br>
+Anthony D. Gray, Esq.<br>
+Daryl D. Parks, Esq.&nbsp;<br>
+</p>
+
+
+</div>
+
+
+                    
+                    <div class="text parbase text-7 section">
+
+<p><strong>Earlier:</strong></p>
+
+
+</div>
+
+
+                    
+                    <div class="text parbase text-8 section">
+
+<p>In a brief press conference on Friday, Ferguson Police Chief Thomas Jackson released the name of the officer who shot and killed Michael Brown, who was unarmed and allegedly surrendering.</p>
+
+
+</div>
+
+
+                    
+                    <div class="text parbase text-9 section">
+
+<p>Details from the fatal shooting are still unclear and were not the focus of the press conference. Instead, Jackson detailed a timeline of a strong-arm robbery that took place just before the shooting, <a href="http://talkingpointsmemo.com/livewire/michael-brown-suspect-robbery-ferguson-police-shooting">according to Talking Points Memo</a>.</p>
+
+
+</div>
+
+
+                    
+                    <div class="text parbase text-10 section">
+
+<p>Reporters got a handout of the report, which included stills from video footage taken from store surveillance. In the report, both Brown and a friend who was with him at the time of the shooting, Dorian Johnson, were named as suspects in the robbery.</p>
+
+
+</div>
+
+
+                    
+                    <div class="twitter section">
+
+
+<blockquote class="twitter-tweet" width="550"><p>&quot;Brown is the primary suspect in this incident.&quot; - police report</p>&mdash; Ryan J. Reilly (@ryanjreilly) <a href="https://twitter.com/ryanjreilly/statuses/500279689693655042">August 15, 2014</a></blockquote>
+<script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+</div>
+
+
+                    
+                    <div class="text-11 text parbase section">
+
+<p><a href="http://www.dailymail.co.uk/news/article-2725917/Ferguson-police-Officer-Darren-Wilson-cop-shot-dead-unarmed-teenager-Michael-Brown.html">A report by the Daily Mail</a> points out that Brown appeared to be wearing the same outfit in the surveillance footage that he was wearing when he was gunned down.</p>
+
+
+</div>
+
+
+                    
+                    <div class="magnify section">
+
+
+
+
+<iframe
+    src="http://theroottv.theroot.com/video/Surveillance-Michael-Brown-Susp/player/svp/template/style0/no_tabs/1/read_more/0/companion/0/title_height/0/init_autoplay/0"
+    width="100%" height="430" frameborder="0" scrolling="no" id="magnify_GNLYP83BV5H4XH5R">
+</iframe>
+
+<script>
+if (mobileMode()) {
+   document.getElementById("magnify_GNLYP83BV5H4XH5R").setAttribute("height", "230");
+}
+</script>
+
+
+</div>
+
+
+                    
+                    <div class="twitter section">
+
+
+<blockquote class="twitter-tweet" width="550"><p>More from report <a href="http://t.co/7OyD2fgrI2">pic.twitter.com/7OyD2fgrI2</a></p>&mdash; Ryan J. Reilly (@ryanjreilly) <a href="https://twitter.com/ryanjreilly/statuses/500279501369397248">August 15, 2014</a></blockquote>
+<script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+</div>
+
+
+                    
+                    <div class="twitter section">
+
+
+<blockquote class="twitter-tweet" width="550"><p>Stills from camera <a href="http://t.co/FEcmKc3oGr">pic.twitter.com/FEcmKc3oGr</a></p>&mdash; Ryan J. Reilly (@ryanjreilly) <a href="https://twitter.com/ryanjreilly/statuses/500279952160600064">August 15, 2014</a></blockquote>
+<script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+</div>
+
+
+                    
+                    <div class="text-12 text parbase section">
+
+<p>The suspect in the video was wearing what appeared to be a gray, or other light-colored, shirt, shorts and distinctive shoes with a red cap. In pictures of Brown&rsquo;s body, he also appeared to be wearing a light-colored shirt, shorts and unusual shoes. A baseball cap was also at the crime scene, according to the Daily Mail. However, during the press conference, a woman questioned the footwear, observing that the socks and shoes from the video don&rsquo;t match images of Michael Brown lying in the street.</p>
+
+
+</div>
+
+
+                    
+                    <div class="twitter section">
+
+
+<blockquote class="twitter-tweet" width="550"><p>Great point by woman in the crowd. Suspect looks nothing like <a href="https://twitter.com/hashtag/MikeBrown?src=hash">#MikeBrown</a> and was wearing different clothes. &#10;&#10;Explain that, <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a> PD.</p>&mdash; Nerdy Wonka (@NerdyWonka) <a href="https://twitter.com/NerdyWonka/statuses/500314963789893635">August 15, 2014</a></blockquote>
+<script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+</div>
+
+
+                    
+                    <div class="twitter section">
+
+
+<blockquote class="twitter-tweet" width="550"><p>A lady is asking the tough questions in the crowd. EVERYbody can see the suspect and Mike Brown were wearing different clothes.</p>&mdash; my name is my name (@RossGee_) <a href="https://twitter.com/RossGee_/statuses/500314620532645888">August 15, 2014</a></blockquote>
+<script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+</div>
+
+
+                    
+                    <div class="twitter section">
+
+
+<blockquote class="twitter-tweet" width="550"><p>Someone just asked why Mike Brown appears to be wearing different clothes.&#10;&#10;Johnson: &quot;I have not seen that, but I&#39;ll look at it.&quot;</p>&mdash; allisonkilkenny (@allisonkilkenny) <a href="https://twitter.com/allisonkilkenny/statuses/500314607970689024">August 15, 2014</a></blockquote>
+<script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+</div>
+
+
+                    
+                    <div class="text-13 text parbase section">
+
+<p><a href="http://www.stltoday.com/news/local/crime-and-courts/michael-brown-a-suspect-in-robbery-of-cigars-from-store/article_52c40b84-ad90-5f9a-973c-70d628d0be04.html">The St. Louis Post-Dispatch quoted</a> from the actual incident report, in which employees described their run-in with the suspect:</p>
+
+
+</div>
+
+
+                    
+                    <div class="text text-14 parbase section">
+
+<p style="margin-left: 40px;">As (redacted) was placing the boxes on the counter, Brown grabbed a box of Swisher Sweets cigars and handed them to Johnson who was standing behind Brown. (Redacted) witnessed (redacted) tell Brown that he had to pay for those cigars first. That is when Brown reached across the counter and grabbed numerous packs of Swisher Sweets and turned to leave the store. (Redacted) then calls &lsquo;911.&rsquo; Meanwhile (redacted) comes out from behind the counter and attempts to stop Brown from leaving. According to (redacted),(redacted) was trying to lock the door until Brown returned the merchandise to him. That is when Brown grabbed (redacted) by the shirt and forcefully pushed him back in to a display rack. (Redacted) backed away and Brown and Johnson exited the store with the cigars.</p>
+
+
+</div>
+
+
+                    
+                    <div class="text text-15 parbase section">
+
+<p>However, according to the Post-Dispatch, some just saw the details of the robbery as a distraction. &ldquo;I am incensed,&rdquo; St. Louis resident Laura Keys told the Dispatch. &ldquo;I can&rsquo;t believe this is the tactic they are using, bringing up a robbery to make the victim look like he was the person who created this whole mess. Where&rsquo;s the footage?&rdquo;</p>
+
+
+</div>
+
+                    
+
+
+<aside class="see-also">
+    <h1 class="header">See Also</h1>
+<div class="aside-main">
+    <ul>
+        
+            
+                
+                    
+                        <li ><a class="also-link" href="http://www.theroot.com/articles/culture/2015/03/kendrick_lamar_to_pimp_a_butterfly.html?wpisrc=see_also_article">Kendrick Lamar’s <em>To Pimp a Butterfly</em> Is a Sonic Tribute to Black Lives</a></li>
+                    
+                
+        
+            
+                
+                    
+                        <li ><a class="also-link" href="http://www.theroot.com/articles/culture/2015/03/diva_week_happy_birthday_aretha_franklin_chaka_khan_and_mariah_carey.html?wpisrc=see_also_article">Happy Birthday, Divas!</a></li>
+                    
+                
+        
+            
+                
+                    
+                        <li ><a class="also-link" href="http://www.theroot.com/articles/culture/2015/03/ain_t_nobody_like_chaka_khan_10_songs_that_will_school_a_new_generation.html?wpisrc=see_also_article">Ain’t Nobody Like Chaka Khan: 10 Songs That Will School a New Generation</a></li>
+                    
+                
+        
+            
+                
+                    
+                        <li ><a class="also-link" href="http://www.theroot.com/articles/culture/2015/03/little_white_lie_documentary_growing_up_white_until_a_family_secret_revealed.html?wpisrc=see_also_article">Growing Up White Until a Family Secret Revealed She Was Not</a></li>
+                    
+                
+        
+            
+                
+                    
+                        <li ><a class="also-link" href="http://www.theroot.com/articles/culture/2015/03/taraji_p_henson_enrolls_son_at_howard_university_after_he_was_racially_profiled.html?wpisrc=see_also_article">You’re Gonna Love What Taraji P. Henson Did After Her&nbsp;Son Was Racially Profiled on Campus</a></li>
+                    
+                
+        
+            
+                
+                    
+                        <li class='last'><a class="also-link" href="http://www.theroot.com/articles/culture/2015/03/_i_go_to_uva_martese_johnson_s_cry_of_millenial_disbelief.html?wpisrc=see_also_article">‘I Go to UVA,’ Martese Johnson’s Cry of Millennial Disbelief</a></li>
+                    
+                
+        
+    </ul>
+</div>
+</aside>
+            
+
+                    
+                    <div class="text parbase text-16 section">
+
+<p>&ldquo;They brought it up to justify the cop&rsquo;s actions,&rdquo; Jay Williams added.</p>
+
+
+</div>
+
+
+                    
+                    <div class="twitter section">
+
+
+<blockquote class="twitter-tweet" width="550"><p>Police Is trying to deflect. Funny they released that Mike Brown was a suspect in a robbery the same day they released the officer name.</p>&mdash; Moe Jiles (@m_jiles) <a href="https://twitter.com/m_jiles/statuses/500324855112556544">August 15, 2014</a></blockquote>
+<script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+</div>
+
+
+                    
+                    <div class="twitter section">
+
+
+<blockquote class="twitter-tweet" width="550"><p>&quot;if&quot; that was Mike Brown that stole some $1 Swishers and pushed someone STILL DOESNT JUSTIFY a cop shooting him like an animal in the street</p>&mdash; CraftBeer Killah (@MsMusiclover) <a href="https://twitter.com/MsMusiclover/statuses/500323956944302080">August 15, 2014</a></blockquote>
+<script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+</div>
+
+
+                    
+                    <div class="twitter section">
+
+
+<blockquote class="twitter-tweet" width="550"><p>The criminalizing of Mike Brown is a trap to make his image feed into racial stereotypes to make Ferguson police appear as victims.</p>&mdash; Tiffany  (@tiffanyrj) <a href="https://twitter.com/tiffanyrj/statuses/500323696754851841">August 15, 2014</a></blockquote>
+<script asyncsrc="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+</div>
+
+
+                    
+                    <div class="text parbase text-17 section">
+
+<p><strong><em>Like</em></strong><a href="http://www.facebook.com/theRoot"><strong><em>&nbsp;</em></strong></a><a href="http://www.facebook.com/theRoot"><strong>The Root&nbsp;</strong></a><a href="http://www.facebook.com/theRoot"><strong><em>on Facebook</em></strong></a><strong><em>. Follow us on</em></strong><a href="https://twitter.com/TheRoot"><strong><em>&nbsp;Twitter</em></strong></a><strong><em>.</em></strong></p>
+
+
+</div>
+
+
+
+
+</div>
+
+    
+        
+
+  
+
+        
+    
+    
+
+</section>
+
+
+<!-- Need to build the components -->
+  <div class="pagination">
+    
+
+  </div><!-- /.pagination -->
+<div style="clear:both;"></div>
+
+
+
+    <script>
+    requirejs(["jquery", "config"], function($, config) {
+      $(function() {
+         try {
+           var hideDropCap = false;
+
+           if(!hideDropCap){
+               var regex = /[^a-zA-Z0-9]/,
+                regex2 = /(>)([a-zA-Z0-9])/,
+                $p = $(".article-page div.body div.text:first p:first"),
+                textString = $p.html(),
+                firstLetter = (!regex.test(textString[0])) ? textString[0] : regex2.exec(textString)[2],
+                marginalDropCap = '<span class="dropcap dropcap-accent-culture">' + firstLetter + '</span>',
+                cpn = 0;
+
+               if ((!regex.test($p.text()[0])) && (cpn < 2)) {
+                 $p.html(textString.replace(firstLetter, marginalDropCap));
+               }
+            }
+
+           //TODO:: plugin
+           $('blockquote').addClass('quote-accent-culture').wrapInner('<div class="buffer"></div>').prepend('<div class="blockquote-blockquote-start"></div>').append('<div class="blockquote-blockquote-end"></div>');
+         } catch (error) {
+           config.log(error);
+         }
+      });
+    });
+    </script>
+
+
+<!-- We Recommend/ More From Partners -->
+
+      <div class="footer-tiles">
+       <div class="row">
+          <div class="outbrain">
+
+  <div id="outbrain_placeholder"></div>
+  <div class="tr-outbrain-divider"></div>
+
+  <script type="text/javascript">
+  requirejs(['jquery'], function($) {
+    var createOutbrainDivs = function(widgetId) {
+      var divHtml = '<div class="OUTBRAIN" data-src="http://www.theroot.com/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery.html" data-widget-id="' + widgetId + '" data-ob-template="theroot" ></div>';
+      $("#outbrain_placeholder").append(divHtml);
+    }
+    createOutbrainDivs("AR_1");
+  
+    $('<script>', {src: '//widgets.outbrain.com/outbrain.js'}).appendTo('body');
+  });
+  </script>
+
+  </div>
+
+       </div>
+      </div> <!-- /.footer-tiles -->
+      <div class="row from-our-sponsors">
+         <div class="contentAd contentad">
+
+
+<div id="content_ad" class="row from-our-sponsors"></div>
+<script type="text/javascript">
+  (function() {
+    var params =
+      {
+        id : "0ddfb6df-a979-4033-87a5-3f7c8fd843af",
+        d  : "c2xhdGUuY29t",
+        wid: "4275"
+      };
+
+    var qs="";for(var key in params){qs+=key+"="+params[key]+"&"}qs=qs.substring(0,qs.length-1);
+    var s = document.createElement("script");
+    s.type= 'text/javascript';
+    s.src = "http://api.content.ad/Scripts/widget.js?" + qs;
+    s.async = true;
+    document.getElementById("content_ad").appendChild(s);
+  }());
+</script>
+
+<style>
+#ac_4275 .ac_header_title {
+text-align: center;
+zoom: 1;
+font-size: 14px;
+background: 
+#281b21;
+color: 
+white;
+padding-top: 13px;
+padding-bottom: 9px;
+display: block;
+font-family: sl-BrandonGrotesque;
+font-style: normal;
+font-weight: normal;  
+}
+#ac_4275 .ac_adbox {
+  text-align: center;
+}
+#ac_4275 .ac_container {
+  padding: 0 10px;
+}
+
+</style></div>
+
+      </div>
+
+
+<!-- /.We Recommend/ More From Partners -->
+
+
+
+
+  
+
+
+
+<a name="comments_link" id="comments_link"></a>
+<section class="comments">
+
+<div id="comments" class="comments-container" data-lf-hash="MzM3Nzg0OmNxLTEwMDE0MDgxNTAxMg==">
+  <div id="livefyre">
+  </div>
+  <div id="powered_by_livefyre_new"><a href="http://livefyre.com" target="_blank">Powered by Livefyre</a></div>
+
+
+</div>
+
+<script type="text/javascript">
+requirejs(["theroot_livefyre", "config"], function(loadLivefyre, config) {
+   if (typeof config.env.edit != "undefined" && !config.env.edit) {
+     loadLivefyre({
+       streamConfig: [{
+         "collectionMeta": "eyJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IkNvcCBTaG9vdGVyIERpZG7igJl0IEtub3cgTWljaGFlbCBCcm93biBXYXMgUm9iYmVyeSBTdXNwZWN0OyBGYW1pbHkgRnVyaW91cyBPdmVyIFJlcG9ydCBSZWxlYXNlIiwidXJsIjoiaHR0cDovL3d3dy50aGVyb290LmNvbS9hcnRpY2xlcy9jdWx0dXJlLzIwMTQvMDgvZmVyZ3Vzb25fcG9saWNlX3JlcG9ydF9pZHNfbWlrZV9icm93bl9hc19wcmltYXJ5X3N1c3BlY3RfaW5fc3Ryb25nX2FybV9yb2JiZXJ5Lmh0bWw_d3Bpc3JjXHUwMDNkbGYiLCJ0YWdzIjoiIiwiY2hlY2tzdW0iOiIxMjI5YWFiYjQ4NjRhMzk3NDA0OWJkNTcwMTU4ZTM0NyIsImFydGljbGVJZCI6ImNxLTEwMDE0MDgxNTAxMiJ9.VIcakyqnaWNXmTdAUpWXN1WAbqjE81Vj1QHjdxJ3V3c",
+         "postToButtons": ['tw', 'fb'],
+         "siteId": 337784,
+         "articleId": "cq-100140815012",
+         "el": "livefyre"
+       }],
+       'network': "theroot.fyre.co"
+     });
+   }
+ });
+
+
+</script>
+
+
+</section>
+
+
+
+
+</div>
+
+
+
+</article>
+</div>
+
+
+
+
+<!-- toolbar floating flank -->
+  <div id="share-box-flank" class="share-box-flank">
+    <div id="share-box-flank-inner">
+      <div class="comments">
+        <a href="#comments_link"><div class="icon">0</div></a>
+      </div>
+      <div class="social">
+        <div class="twitter" data-tweettext="Cop Shooter Didn’t Know Michael Brown Was Robbery Suspect; Family Furious Over Report Release">
+          <a class="tweet" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.theroot.com%2Farticles%2Fculture%2F2014%2F08%2Fferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery.html&amp;text=Cop+Shooter+Didn%E2%80%99t+Know+Michael+Brown+Was+Robbery+Suspect%3B+Family+Furious+Over+Report+Release&amp;via=TheRoot">
+            <div class="icon"></div>
+            <div class="count"></div>
+           </a>
+        </div>
+        <div class="facebook-like">
+            <span>
+              <fb:like send="false" layout="box_count" width="50" show_faces="false" font="verdana" ref="sm_fb_like_toolbar" href="http://www.theroot.com/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery.html">
+              </fb:like>
+            </span>
+        </div>
+        <div class="facebook">
+          <a class="fb-share" href="http://www.theroot.com/articles/culture/2014/08/ferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery.html">
+            <div class="icon"></div>
+            <div class="count"></div>
+          </a>
+        </div>
+        
+        <div class="mail">
+          <a href="mailto:?subject=Check%20out%20this%20piece%20on%20The%20Root&body=I%20thought%20you%20might%20like%20this%20article%20on%20The%20Root:%0ACop%20Shooter%20Didn%E2%80%99t%20Know%20Michael%20Brown%20Was%20Robbery%20Suspect%3B%20Family%20Furious%20Over%20Report%20Release%0Ahttp%3A%2F%2Fwww.theroot.com%2Farticles%2Fculture%2F2014%2F08%2Fferguson_police_report_ids_mike_brown_as_primary_suspect_in_strong_arm_robbery.html"><div class="icon"></div></a>
+        </div>
+      </div>
+    </div>
+ </div>
+<!-- ./toolbar floating flank -->
+
+<script type="text/javascript" language="javascript">
+requirejs(["jquery","socialpopups"], function($,socialpopups) {
+    socialpopups.commentCount("");
+});
+</script>
+
+<script>
+  requirejs(["sharebox"], function(sharebox) { sharebox.init(); });
+</script>
+
+    
+    <script>
+      SG_Debug && SG_Debug.pagedebug && window.console && console.log && console.log('[' + (new Date()-SG_Debug.initialTime)/1000 + ']' + ' Bottom of body.jsp');
+    </script>
+
+
+    
+
+    
+
+
+<aside>
+<div class="ht5-aside tr-right-rail">
+
+  
+
+
+
+
+
+    
+
+		
+	      
+	        <div class="flex ad" data-ad-type="flex" data-ad-mode="desktop"></div>
+	        <!-- viewabilityEnabled = true  -->
+	      
+	      
+	    
+
+    
+
+	<div id="most_popular">
+	  <script>
+	    requirejs(["most-popular"]);
+	  </script>
+	</div>
+	
+      
+        <div class="336x60 ad " data-ad-type="336x60" data-ad-mode="desktop"></div>
+        <!-- viewabilityEnabled = true  -->
+      
+      
+    
+
+	<div id="related">
+	  <script>
+	    requirejs(["related"], function(related) { related.init(); });
+	  </script>
+	</div>
+
+    
+      
+        <div class="rightbigbox ad " data-ad-type="rightbigbox" data-ad-mode="desktop"></div>
+        <!-- viewabilityEnabled = true  -->
+      
+      
+    
+
+	
+
+<section class="recent-videos">
+  <h3 class="header">Recent Videos</h3>
+  <div class="section-main">
+    <ul class="videos-list">
+     
+      <li>
+        <a href="http://theroottv.theroot.com/video/Aretha-Franklin-Mariah-Carey-Ce">
+          <img src="http://s3.amazonaws.com/magnifythumbs/H142FD015H8R3HK7.jpg" />
+        </a>
+        <a href="http://theroottv.theroot.com/video/Aretha-Franklin-Mariah-Carey-Ce">Aretha Franklin, Mariah Carey, Celine Dion, Gloria Estefan, Shania Twain and Carole King</a>
+      </li>
+      
+      <li>
+        <a href="http://theroottv.theroot.com/video/Gladys-Knight-Aretha-Franklin-N">
+          <img src="http://s3.amazonaws.com/magnifythumbs/R178310WKJL0L0JZ.jpg" />
+        </a>
+        <a href="http://theroottv.theroot.com/video/Gladys-Knight-Aretha-Franklin-N">Gladys Knight, Aretha Franklin, Natalie Cole, Whitney Houston, Cissy Houston - 'Respect (Live)' 1994.</a>
+      </li>
+      
+      <li>
+        <a href="http://theroottv.theroot.com/video/Aretha-Franklin-and-Mavis-Stapl">
+          <img src="http://s3.amazonaws.com/magnifythumbs/KW71ZH0VXV4JJ855.jpg" />
+        </a>
+        <a href="http://theroottv.theroot.com/video/Aretha-Franklin-and-Mavis-Stapl">Aretha Franklin and Mavis Staples - 'Oh Happy Day'</a>
+      </li>
+      
+    </ul>
+  </div>
+</section>
+
+
+
+
+
+    <div id="rightrail_bottom_ad" class="static-ad">
+      <div class="rightbigbox-2 ad" data-ad-type="rightbigbox|2" data-ad-mode="desktop"></div>
+    </div>
+
+	
+
+
+</aside>
+<div class="clear"> </div>
+
+    
+    <script>
+      SG_Debug && SG_Debug.pagedebug && window.console && console.log && console.log('[' + (new Date()-SG_Debug.initialTime)/1000 + ']' + ' Bottom of body.jsp');
+    </script>
+
+    
+
+  <div id="footer-advert" class="advert">
+  
+  </div>
+
+
+
+
+   <div class="leaderboard-ad">
+    
+      
+        <div class="leaderboard-2 banner ad " data-ad-type="leaderboard|2" data-ad-mode="desktop"></div>
+      
+      
+    
+   </div>
+
+
+<footer>
+  <div id="ht5-footer" style="clear: left;">
+
+    <nav>
+      <ul>
+        <li class="first">
+          <a href="http://help.theroot.com/ics/support/default.asp?deptID=15082&_referrer=http://www.theroot.com/">Help</a> |
+        </li>
+        <li>
+          <a href="/articles/politics/2012/11/press.html">Press Page</a> |
+        </li>
+        <li>
+          <a href="/articles/politics/2012/11/contact_us.html">Contact Us</a> |
+        </li>
+        <li>
+          <a href="/articles/politics/2012/11/about_us.html">About Us</a> |
+        </li>
+        <li>
+          <a href="/articles/politics/2010/03/advertise_on_the_root.html">Advertising</a> |
+        </li>
+        <li>
+          <a href="/articles.teaser.all.25.rss">RSS</a> |
+        </li>
+        <li>
+          <a href="/ads.html">Ad Choices</a> |
+        </li>
+        <li>
+          <a href="/articles/politics/2012/11/privacy_policy.html#user">User Agreement</a> |
+        </li>
+        <li class="last">
+          <a href="/articles/politics/2012/11/privacy_policy.html">Privacy Policy</a>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="credits">
+      The Root is published by The Slate Group, a Graham Holdings Company.  All contents &#169; 2013 The Slate Group, LLC. <br />
+      All rights reserved. <a href="/articles/politics/2012/11/privacy_policy.html">User Agreement and Policy</a>
+    </div>
+
+  </div>
+</footer>
+
+</div>
+</div>
+
+<div id="bottom-bound-div"></div>
+
+
+  
+  
+    <div style="height:100px;" class="horizontal-band-bottom accent-band-bottom-culture">
+  
+
+    <aside>
+        <div onclick='parselyBottomSwipe.prev()' class="pagination-link pagination-link-prev"></div>
+        <div onclick='parselyBottomSwipe.next()' class="pagination-link pagination-link-next"></div>
+          <div id="parsely-band-bottom" class="swipe">
+                <div class="parsely-band-bottom-wrap"></div>
+          </div>
+    </aside>
+</div>
+
+
+
+
+
+
+
+    
+    <script>
+      SG_Debug && SG_Debug.pagedebug && window.console && console.log && console.log('[' + (new Date()-SG_Debug.initialTime)/1000 + ']' + ' Bottom of footer.jsp');
+    </script>
+
+    
+
+
+
+<!-- Locker script -->
+
+
+
+
+
+
+<script>
+  setTimeout(function() {
+
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+
+    (function(d){
+      var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
+      p.type = 'text/javascript';
+      p.async = true;
+      p.src = '//assets.pinterest.com/js/pinit.js';
+      f.parentNode.insertBefore(p, f);
+    }(document));
+
+    requirejs(["nav"]);
+
+ }, 100);
+
+ requirejs(["parsely-band"], function(parsely_band) { 
+   parsely_band.init();
+ });
+
+</script>
+
+<script>
+if (desktopMode()) {
+  requirejs(["jquery", "libs/swipe"], function($, Swipe) {
+    var parselyTimeBottom, ptop_count = 0, pbottom_count = 0;
+    
+    function loadParselyBand(){
+      ptop_count ++;
+      if(ptop_count > 10){ clearInterval(parselyTime); }
+      
+      if($("#parsely-band .parsely-block").length > 0){
+        clearInterval(parselyTime);
+        window.parselyTopSwipe = new Swipe(document.getElementById('parsely-band'), {
+          startSlide:1,
+          speed:1000,
+          continuous: true
+        });
+        $(".pagination-link-prev, .pagination-link-next").css("display","block");
+        
+        $(".horizontal-band .pagination-link-prev").on('click', function(e){parselyTopSwipe.prev();});
+        $(".horizontal-band .pagination-link-next").on('click', function(e){parselyTopSwipe.next();});
+
+        parselyTimeBottom = window.setInterval(loadParselyBandBottom, 1000);
+      }
+    }
+    
+    function loadParselyBandBottom(){
+      pbottom_count ++;
+      if(pbottom_count > 10){ clearInterval(parselyTimeBottom); }
+      
+      if($("#parsely-band-bottom .parsely-block").length > 0){
+        clearInterval(parselyTimeBottom);
+        
+        window.parselyBottomSwipe = new Swipe(document.getElementById('parsely-band-bottom'), {
+          startSlide: 1,
+          speed:1000,
+          continuous: true
+        });
+        $(".pagination-link-prev, .pagination-link-next").css("display","block");
+
+        $(".horizontal-band-bottom .pagination-link-prev").on('click', function(e){parselyBottomSwipe.prev();});
+        $(".horizontal-band-bottom .pagination-link-next").on('click', function(e){parselyBottomSwipe.next();});
+      }
+    }
+    var parselyTime = window.setInterval(loadParselyBand, 1000);
+  });
+}
+</script>
+
+<!-- Target External Hyperlinks -->
+<script>
+requirejs(["jquery"], function($) {
+  $(document).ready(function() {
+    $('a').each(function() {
+       var a = new RegExp('/' + window.location.host + '/');
+       if(!a.test(this.href)) {
+           $(this).click(function(event) {
+               event.preventDefault();
+               event.stopPropagation();
+               window.open(this.href, '_blank');
+           });
+       }
+    });
+
+  });
+});
+</script>
+<!-- ./Target External Hyperlinks -->
+
+<!-- This mysteriously dies when compiled -->
+<script>
+requirejs(["jquery", "libs/jquery-plugins/jquery.browser"], function($) { 
+    if ($.browser.msie) {
+      $(".avatar, .social-buttons").each(function(i, elm) {
+        $(elm).find("iframe")
+          .on('mouseenter', function(e) {
+            $(elm).addClass('hover');
+          })
+          .on('mouseleave', function(e) {
+            $(elm).removeClass('hover');
+          });
+      });
+    }
+});
+</script>
+
+<script type="text/javascript">
+
+var _sf_async_config={uid:9250,domain:"theroot.com"};
+_sf_async_config.useCanonical = true;
+if (wp_meta_data) {
+    var sectionsArray = new Array();
+    if (wp_meta_data.section !== undefined) {
+        sectionsArray.push(wp_meta_data.section);
+    }
+    if (wp_meta_data.rubric !== undefined) {
+        sectionsArray.push(wp_meta_data.rubric);
+    }
+    if (wp_meta_data.blog !== undefined) {
+        sectionsArray.push(wp_meta_data.blog);
+    }
+    _sf_async_config.sections = sectionsArray.join(",");
+    if (wp_meta_data.authors !== undefined) {
+        _sf_async_config.authors = wp_meta_data.authors.join(",");
+    }
+}
+
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="theroot.com"></div>
+</div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include -->
+
+<!--Visual Revenue Reader Response Tracking Script (v6) -->
+<script type="text/javascript">
+var _vrq = _vrq || [];
+_vrq.push(['id', 544]);
+_vrq.push(['automate', true]);
+_vrq.push(['track', function(){}]);
+(function(d, a){
+var s = d.createElement(a),
+x = d.getElementsByTagName(a)[0];
+s.async = true;
+s.src = 'http://a.visualrevenue.com/vrs.js';
+x.parentNode.insertBefore(s, x);
+})(document, 'script');
+</script>
+<!-- End of VR RR Tracking Script - All rights reserved -->
+
+<script>
+ requirejs(["shared/campaignManager", "optimizely"], function(campaigns, types, templates, optimizely) {
+   campaigns.execute();
+ });
+</script>
+
+
+<script type="text/javascript">
+  requirejs(["jquery", "queryly"], function($, unused) {
+    // Fix for Chrome issue with queryly
+    $(".search-pop-up").on('mouseout', function(e) {
+      $("#queryly_suggest").detach();
+    });
+
+    queryly.QuerylyKey = 'c6e90bf4e43348bb';
+    queryly.layout.topMargin = -5;
+    queryly.extendedDataFields = 'author';
+    queryly.customContainer = 'queryly_results_container';
+
+    queryly.QuerylyBind();
+  });
+</script>
+
+
+<script>
+requirejs(["jquery"], function($) {
+  // iOS svg link hacky workaround
+   if ((mobileMode() || tabletMode()) && navigator.userAgent.match(/(iPad|iPhone|iPod)/g)) {
+     $(".logo").append('<div style="background:transparent; width:100px; height: 60px; position: absolute; top: 0px"></div>').click(function() { window.location="http://www.theroot.com"; });
+   }
+});
+</script>
+
+
+<script type="text/javascript">
+requirejs(["jquery"], function($) {
+    (function() {
+        function loadHorizon() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        }
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() {
+            if (typeof oldOnLoad === 'function') {
+                oldOnLoad();
+            }
+            Sailthru.setup({
+                domain: 'horizon.theroot.com'
+            });
+        };
+    })();
+});
+</script>
+
+
+  </script>
+
+
+<script>
+ requirejs(["config", "shared/sgads"], function(config, ads) {
+   ads.wire("http://js.slate.com/wp-srv/ad/loaders/latest/js/min/loader.min.js", config.site.site);
+ });
+</script>
+
+
+
+<iframe src="//theroot-static-prod.s3.amazonaws.com/etc/designs/theroot/identity/misc/preload.html" height="1" width="1"></iframe>
+
+    
+    <script>
+      SG_Debug && SG_Debug.pagedebug && window.console && console.log && console.log('[' + (new Date()-SG_Debug.initialTime)/1000 + ']' + ' Bottom of footer-scripts.jsp');
+    </script>
+
+  <!--
+
+  Page Loading starts on 2015/03/23 21:02:08, Total time elapsed to render is 0.17637278 seconds, Server: pub2.theroot.com
+
+  -->
+
+	</body>
+</html>

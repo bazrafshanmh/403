@@ -1,0 +1,496 @@
+HTTP/1.1 200 OK
+Date: Tue, 21 Apr 2015 21:21:06 GMT
+Server: Apache
+X-Powered-By: PHP/5.4.39
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=15835038ed53d44b86d565f9cd6576e5; path=/
+Set-Cookie: th_last_visit=1429651266; expires=Mon, 20-Jul-2015 21:21:06 GMT
+Set-Cookie: th_pos_ids=N%3B; expires=Mon, 20-Jul-2015 21:21:06 GMT
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+<!DOCTYPE html><html lang="de" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta charset="UTF-8">
+			<title>aero.de - Luftfahrt-Nachrichten und -Community</title>
+			<link rel="stylesheet" href="http://www.aero.de/style.css" type="text/css"/><script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+			<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" /><meta name="geo.country" content="de">
+<meta name="geo.region" content="DE-de">
+<meta name="description" content="ERBIL - Nach Egypt Air, Etihad, Flydubai und Qatar haben auch Lufthansa und Austrian ihre Fl&uuml;ge nach Erbil vor&uuml;bergehend eingestellt, vor&auml;ufig bis 23. M&auml;rz.<br /><br />  <br />Wegen..">
+<meta name="keywords" content="">
+<meta property="og:title" content="Airlines setzen Irakflüge aus" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.aero.de/news-21353/Airlines-suspendieren-Irakfluege.html" />
+<meta property="og:site_name" content="aero.de" />
+<script type="text/javascript" src="http://www.aero.de/jscript/social_bookmarks.js"></script>
+		<link rel="stylesheet" type="text/css" href="http://www.aero.de/style_sb.css" />
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
+<style type="text/css">
+</style>
+
+<script src="http://www.aero.de/jscript/highslide/highslide.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://www.aero.de/jscript/highslide/highslide.css" />
+
+ 
+<script type="text/javascript"> 
+    // override Highslide settings here
+    hs.graphicsDir = 'http://www.aero.de/jscript/highslide/graphics/';
+	hs.showCredits = false;
+	hs.lang.number = "Bild %1 von %2";
+	hs.maxWidth = 500;
+	hs.maxHeight = 500;
+	
+	// close on mouse out
+	 hs.Expander.prototype.onMouseOut = function (sender) {
+		if(sender.slideshowGroup=='bubble')	sender.close();
+	};
+	
+	// Add the slideshow providing the controlbar and the thumbstrip
+	hs.addSlideshow({
+		slideshowGroup: ['group1','group2','group3','group4','group5'],
+		interval: 5000,
+		repeat: false,
+		useControls: true,
+		overlayOptions: {
+			className: 'text-controls',
+			position: 'bottom center',
+			relativeTo: 'viewport',
+			offsetY: -60
+		},
+		thumbstrip: {
+			position: 'bottom center',
+			mode: 'horizontal',
+			relativeTo: 'viewport'
+		}
+	});
+	
+	// Make all images animate to the one visible thumbnail
+	var setting1 = {
+		wrapperClassName:'floating-caption',
+		align: 'center',
+		transitions: ['expand', 'crossfade'],
+		fadeInOut: true,
+		dimmingOpacity: 0.8,
+		outlineType: 'rounded-white',
+		captionEval: 'this.thumb.alt',
+		headingEval: 'this.thumb.alt',
+		marginBottom: 105, 
+		numberPosition: 'caption',
+		slideshowGroup: 'group1'
+	 }
+
+hs.lang = {
+   cssDirection:     'ltr',
+   loadingText :     'Lade...',
+   loadingTitle :    'Klick zum Abbrechen',
+   focusTitle :      'Klick um nach vorn zu bringen',
+   fullExpandTitle : 'Zur Originalgröße erweitern',
+   fullExpandText :  'Vollbild',
+   creditsText :     'Powered by <i>Highslide JS</i>',
+   creditsTitle :    'Gehe zur Highslide JS Homepage',
+   previousText :    'Voriges',
+   previousTitle :   'Voriges (Pfeiltaste links)',
+   nextText :        'Nächstes',
+   nextTitle :       'Nächstes (Pfeiltaste rechts)',
+   moveTitle :       'Verschieben',
+   moveText :        'Verschieben',
+   closeText :       'Schließen',
+   closeTitle :      'Schließen (Esc)',
+   resizeTitle :     'Größe wiederherstellen',
+   playText :        'Abspielen',
+   playTitle :       'Slideshow abspielen (Leertaste)',
+   pauseText :       'Pause',
+   pauseTitle :      'Pausiere Slideshow (Leertaste)',
+   number :          'Bild %1/%2',
+   restoreTitle :    'Klick um das Bild zu schließen, klick und ziehe um zu verschieben. Benutze Pfeiltasten für vor und zurück.'
+};
+
+</script>
+<script src="http://www.aero.de/jscript/jssor.slider.mini.js"></script>
+
+<script type="text/javascript"> var sdm_vers = 2 ; </script>
+<script 
+    type="text/javascript" 
+    src="//cdn.stroeerdigitalmedia.de/praeludium/praeludium_aero.js">
+</script>
+
+<script type="text/javascript" src="https://script.ioam.de/iam.js"></script></head><body><!-- SZM VERSION="2.0" --> 
+<script type="text/javascript">
+var iam_data = { 
+"st":"flugrevu", // site/domain 
+"sv":"in", // Steuerung der Fragebogenauslieferung
+"cp":"ade100wifson" // code 
+} 
+iom.c(iam_data,2); 
+</script> 
+<!--/SZM --><script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-5541386620687205");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-5541386620687205", "aero_start_promobox_oben");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script><div class="header">
+	<div class="header-box center">
+		<div class="w780 pa"><a href="http://www.aero.de"><img src="http://www.aero.de/img/logo2.png" width="190" height="80" class="logo"/></a><div class="koop">In Kooperation mit</div>
+			<div class="logofr"><a href="http://www.flugrevue.de" class="frl"><img src="http://www.aero.de/img/logo_fr.png" width="75" height="15" class="imglogofr"/></a></div>
+			<div class="mmenu">
+			<a href="http://www.aero.de/" class="active">News</a>
+			<a href="http://www.aero.de/blog/" >Blog</a>
+			<a href="http://www.aero.de/forum/" >Community</a>
+			<a href="http://www.aero.de/stellenmarkt/" >Jobs</a>
+			</div><div class="msearch"><form action="http://www.aero.de/suche.html" method="post"><img src="http://www.aero.de/img/search.png" alt="Suche" class="msimg" width="16" height="16" /><input name="mskey" type="text" value=""/></form></div><div class="smenu"><a href="http://www.aero.de/login.html">Login</a>
+				<a href="http://www.aero.de/registrieren.html">Registrieren</a></div>
+			
+			<div class="cmenu">
+			<a href="http://www.facebook.com/pages/aerode/142122402484415" target="_blank" title="Facebook"><img width="16" height="16" src="http://www.aero.de/img/so_fb.png"/></a>
+			<a href="http://twitter.com/aerode" target="_blank" title="Twitter"><img width="16" height="16" src="http://www.aero.de/img/so_tw.png"/></a>
+			<a href="http://www.aero.de/feed/" target="_blank" title="RSS Feed"><img width="16" height="16" src="http://www.aero.de/img/so_rs.png"/></a>
+			<a href="http://www.aero.de/newsletter/" target="_blank" title="Newsletter"><img width="16" height="16" src="http://www.aero.de/img/so_nl.png"/></a>
+			<a href="http://mail.google.com/hosted/aero.de/" target="_blank" title="aero.de Mail"><img width="23" height="16" src="http://www.aero.de/img/so_ml.png"/></a>
+			</div></div></div></div>
+
+	<div class="content bg1 bb1">
+	<div class="w960 center">
+		<div class="w780"><div class="sbmenu">	<a href="http://www.aero.de/" >Überblick</a>
+				<a href="http://www.aero.de/airlines/" >Airlines</a>
+				<a href="http://www.aero.de/airports/" >Airports</a>
+				<a href="http://www.aero.de/flugzeugbau/" >Flugzeugbau</a>
+				<a href="http://www.aero.de/sicherheit/" >Sicherheit</a>
+				<a href="http://www.aero.de/organisation/" >Organisation</a>
+				<a href="http://www.aero.de/faszination/" >Faszination</a></div></div></div></div>
+	<script> 
+jQuery(document).ready(function ($) {
+	
+	var _CaptionTransitions = [];
+
+        var options = {
+			$CaptionSliderOptions: {
+                $Class: $JssorCaptionSlider$,
+                $CaptionTransitions: _CaptionTransitions,
+                $PlayInMode: 1,
+                $PlayOutMode: 3
+            },
+			
+			$ArrowNavigatorOptions: {
+                $Class: $JssorArrowNavigator$,
+                $ChanceToShow: 2
+            },
+			
+			$AutoPlay: false,
+			$FillMode: 2, //[Optional] The way to fill image in slide, 0 stretch, 1 contain (keep aspect ratio and put all inside slide), 2 cover (keep aspect ratio and cover whole slide), 4 actual size, 5 contain for large image, actual size for small image, default value is 0
+            
+			
+			$BulletNavigatorOptions: {                   //[Optional] Options to specify and enable navigator or not
+                    $Class: $JssorBulletNavigator$,      //[Required] Class to create navigator instance
+                    $ChanceToShow: 2,                    //[Required] 0 Never, 1 Mouse Over, 2 Always
+                    $AutoCenter: 0,                      //[Optional] Auto center navigator in parent container, 0 None, 1 Horizontal, 2 Vertical, 3 Both, default value is 0
+                    $Steps: 1,                           //[Optional] Steps to go for each navigation request, default value is 1
+                    $Lanes: 1,                           //[Optional] Specify lanes to arrange items, default value is 1
+                    $SpacingX: 10,                       //[Optional] Horizontal space between each item in pixel, default value is 0
+                    $SpacingY: 10,                       //[Optional] Vertical space between each item in pixel, default value is 0
+                    $Orientation: 1                      //[Optional] The orientation of the navigator, 1 horizontal, 2 vertical, default value is 1
+                }
+        };
+        var jssor_slider1 = new $JssorSlider$('sliderp', options);
+	
+		//responsive code begin
+        //you can remove responsive code if you don't want the slider scales
+        //while window resizes
+        function ScaleSlider() {
+            //var parentWidth = $('#sliderp').parent().width();
+			var parentWidth = $('.w420').width();
+			if (parentWidth) {
+				jssor_slider1.$ScaleWidth(parentWidth);
+				//var x = Math.round(parentWidth * 2 / 3);
+				//jssor_slider1.$ScaleHeight(x);
+				if(parentWidth==420) jssor_slider1.$ScaleHeight(280); else jssor_slider1.$ScaleHeight(413);
+            }
+            else
+                window.setTimeout(ScaleSlider, 30);
+        }
+        //Scale slider after document ready
+        ScaleSlider();
+        if (!navigator.userAgent.match(/(iPhone|iPod|iPad|BlackBerry|IEMobile)/)) {
+            //Capture window resize event
+            $(window).bind('resize', ScaleSlider);
+        }
+        //responsive code end
+		
+	 });
+</script>
+<script type="text/javascript">
+		if (typeof frn046adxtra !== "undefined") { frn046adxtra = frn046adxtra + "&adset=f" }
+	  </script><div class="content">
+			<div class="w960 center">
+				<div id="frnBanner" class="content-box w780 pt5">
+					<div id="frnBannerAd" class="banderole w728 ml20"><!-- SDM Adtag brs_banner.html -->
+<script type="text/javascript">
+/* <![CDATA[ */
+SDM_tileid=(typeof(SDM_tileid)!='undefined')?SDM_tileid+=1:1;
+SDM_adxtra=(typeof(SDM_adxtra)!='undefined')?SDM_adxtra:"";
+SDM_rnd=(typeof(SDM_rnd)!='undefined')?SDM_rnd:Math.round(Math.random() * 314159265);
+if (typeof(frn046adxtra)!='undefined') {SDM_enrich=(frn046adxtra.indexOf("adset=f")>=0)?";adset=f":""} else {SDM_enrich=""};
+SDM_target=(typeof(SDM_target)!='undefined')?SDM_target:"";
+if (SDM_tileid==1) document.write('<scr'+'ipt type="text/javascript" src="//cdn.stroeerdigitalmedia.de/dynback/call.sjs?'+SDM_rnd+'"></scr'+'ipt>');
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+SDM_enrich += ";tile=" + SDM_tileid + SDM_adxtra + SDM_target + ";ord=" + SDM_rnd;
+document.write('<scr'+'ipt type="text/javascript" src="//ad.doubleclick.net/N4444/adj/P4444.sdm.aero.de_de/Rest;sz=728x90,728x180;adset=brs;'+SDM_enrich+'?"></scr'+'ipt>');
+/* ]]> */
+</script>
+<!-- SDM Adtag brs_banner.html -->
+</div></div></div></div><div class="content"><div class="w960 center"><div class="w780 tac"><!-- SDM Adtag brs_billboard.html -->
+<script type="text/javascript">
+/* <![CDATA[ */
+SDM_tileid=(typeof(SDM_tileid)!='undefined')?SDM_tileid+=1:1;
+SDM_adxtra=(typeof(SDM_adxtra)!='undefined')?SDM_adxtra:"";
+SDM_rnd=(typeof(SDM_rnd)!='undefined')?SDM_rnd:Math.round(Math.random() * 314159265);
+if (typeof(frn046adxtra)!='undefined') {SDM_enrich=(frn046adxtra.indexOf("adset=f")>=0)?";adset=f":""} else {SDM_enrich=""};
+SDM_target=(typeof(SDM_target)!='undefined')?SDM_target:"";
+if (SDM_tileid==1) document.write('<scr'+'ipt type="text/javascript" src="//cdn.stroeerdigitalmedia.de/dynback/call.sjs?'+SDM_rnd+'"></scr'+'ipt>');
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+SDM_enrich += ";tile=" + SDM_tileid + SDM_adxtra + SDM_target + ";ord=" + SDM_rnd;
+document.write('<scr'+'ipt type="text/javascript" src="//ad.doubleclick.net/N4444/adj/P4444.sdm.aero.de_de/Rest;sz=770x250;adset=brs;'+SDM_enrich+'?"></scr'+'ipt>');
+/* ]]> */
+</script>
+<!-- SDM Adtag brs_billboard.html -->
+</div></div></div><div class="content">
+	<div class="w960 center">
+		<div class="right mr20 pt20" id="frnAdSky">
+			<div class="skyscrapper w160" id="frnAdSkyPos">
+		<!-- SDM Adtag brs_sky.html -->
+<script type="text/javascript">
+/* <![CDATA[ */
+SDM_tileid=(typeof(SDM_tileid)!='undefined')?SDM_tileid+=1:1;
+SDM_adxtra=(typeof(SDM_adxtra)!='undefined')?SDM_adxtra:"";
+SDM_rnd=(typeof(SDM_rnd)!='undefined')?SDM_rnd:Math.round(Math.random() * 314159265);
+if (typeof(frn046adxtra)!='undefined') {SDM_enrich=(frn046adxtra.indexOf("adset=f")>=0)?";adset=f":""} else {SDM_enrich=""};
+SDM_target=(typeof(SDM_target)!='undefined')?SDM_target:"";
+if (SDM_tileid==1) document.write('<scr'+'ipt type="text/javascript" src="//cdn.stroeerdigitalmedia.de/dynback/call.sjs?'+SDM_rnd+'"></scr'+'ipt>');
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+SDM_enrich += ";tile=" + SDM_tileid + SDM_adxtra + SDM_target + ";ord=" + SDM_rnd;
+document.write('<scr'+'ipt type="text/javascript" src="//ad.doubleclick.net/N4444/adj/P4444.sdm.aero.de_de/Rest;sz=120x600,160x600,200x600,300x600;adset=brs;'+SDM_enrich+'?"></scr'+'ipt>');
+/* ]]> */
+</script>
+<!-- SDM Adtag brs_sky.html -->
+</div>
+		</div><div class="content-box w780 left bg2 pt20">
+			<div class="left ml20">
+				<div class="w420 mb20"><div class="article noh">
+			<div class="supertitle pt3">
+			<h5>Sicherheitsbedenken</h5>
+			<div class="date">Älter als 7 Tage</div>
+			<div class="cb"></div>
+			</div>
+			<h1>Airlines setzen Irakflüge aus</h1>
+			<div class="article-content"><script type="text/javascript">
+		var current_surveyz ='';
+		function send_surveyz(form_id,id) 
+			{
+			var myform = 'surveyz' + form_id;
+			var pfad ='';
+			var link = '';
+				
+			for (var i = 0; i < document.forms[myform].elements.length; i++) 
+				{
+				var myname  = document.forms[myform].elements[i].name;
+				var myvalue = document.forms[myform].elements[i].value;
+				var mytype  = document.forms[myform].elements[i].type;
+				var mycheck = document.forms[myform].elements[i].checked;
+				
+				if(((mytype != 'radio') && (mytype != 'checkbox')) || ((mytype == 'radio') && (mycheck == true)) || ((mytype == 'checkbox') && (mycheck == true)))
+					{
+					if(pfad == '') pfad = myname + '=' + myvalue;
+					else pfad += '&' + myname + '=' + myvalue;
+					}
+				}
+			current_surveyz=form_id;	
+			
+			$.post('http://www.aero.de/pages/show_survey_answer.php?id='+id+'&col=1&'+pfad,{},function(data) {
+				$('#survey_context_z' + current_surveyz).html(data);
+				});
+			}
+	 </script>
+ERBIL - Nach Egypt Air, Etihad, Flydubai und Qatar haben auch Lufthansa und Austrian ihre Fl&uuml;ge nach Erbil vor&uuml;bergehend eingestellt, vor&auml;ufig bis 23. M&auml;rz.<br /><br /> <div class="w100p"><div style="width:100%;margin:4px auto; text-align:left;"><a href="http://www.aero.de/content/pics/p_2100.jpg" class="highslide" onclick="return hs.expand(this, { maxWidth: 700, maxHeight: 600 })"><img class="n_img mi" src="http://www.aero.de/content/news_pics/n_21353_2100.jpg" alt="Foto"/></a><br/><span class="cr2">Erstlandung AUA in Bagdad, mit Nostalgie Airbus 320, <span class="cr">©&nbsp;Austrian Airlines</span></span></div></div> <br />Wegen sicherheitsrelevanter Ereignisse in der kurdischen Metropole musste am vergangenen Sonntag eine Maschine der Austrian am Weg von Wien nach Erbil wieder umkehren.<br /><br />Als Grund f&uuml;r die Einstellung der Fl&uuml;ge f&uuml;hrt der Informationsdienst ch-aviation Raketenangriffe der IS-Milizen in Erbil an. Dennach sollen in N&auml;he des Flughafens drei Gescho&szlig;e eingeschlagen haben. Andere Berichte sprechen von &Uuml;bungen irakischer Kr&auml;fte in Flughafenn&auml;he. Die heftig umk&auml;mpfte Stadt Mossul liegt nur rund 90 Kilometer von Erbil entfernt.<br /><br />Austrian begr&uuml;ndet die R&uuml;ckholung wie auch die Suspendierung als vorsorgliche Sicherheitsma&szlig;nahme. Eine Terrorwarnung g&auml;be es hingegen derzeit nicht.<br /><br />Aus Europa erreichbar ist Erbil derzeit nur mit Turkish Airlines und ZagrosJet, beide via Istanbul, mit Royal Jordanian via Amman oder MEA via Beirut. <br /><br />Auf unbestimmte Zeit ausgesetzt sind auch die im Fr&uuml;hjahr 2011 wieder aufgenommenen Fl&uuml;ge von Austrian und Lufthansa nach Bagdad. <br /><div class="mt20 cl"></div><div style="float:left;color:#666;">© aero.at | 17.03.2015 11:36</div><div class="mt20 cl"></div><div id="socialshareprivacy" class="social_share_privacy"></div>
+	<script type="text/javascript"> jQuery(document).ready(function($) { if($('#socialshareprivacy')) { $('#socialshareprivacy').socialSharePrivacy({'services':{'twitter':{'tweet_text':'Airlines setzen Irakflüge aus'}}});}}); </script>
+	<script type="text/javascript">
+window._ttf = window._ttf || [];
+_ttf.push({
+       pid          : 29690
+       ,lang        : "de"
+       ,slot        : '.article .article-content br'
+       ,format      : "inread"
+       ,components  : { mute: {delay :0}, skip: {delay :0} }
+});
+
+(function (d) {
+        var js, s = d.getElementsByTagName('script')[0];
+        js = d.createElement('script');
+        js.async = true;
+        js.src = '//cdn.teads.tv/js/all-v1.js';
+        s.parentNode.insertBefore(js, s);
+})(window.document);
+</script></div><div class="article-comments"><div class="cb b"><br/><br/><a id="kommentare"></a>Leser-Kommentare (0) <a href="http://www.aero.de" class="right mr20">Zur Startseite</a></div><br/>Um einen Kommentar schreiben zu können, müssen Sie sich bei aero.de <a href="http://www.aero.de/registrieren.html">registrieren</a> oder <a href="http://www.aero.de/login.html">einloggen</a>.<br/><br/></div></div>
+		</div></div><div class="left ml20 mr20"><div class="rectangle w300 mb20" id="contentAd"><!-- SDM Adtag brs_rectangle.html -->
+<script type="text/javascript">
+/* <![CDATA[ */
+SDM_tileid=(typeof(SDM_tileid)!='undefined')?SDM_tileid+=1:1;
+SDM_adxtra=(typeof(SDM_adxtra)!='undefined')?SDM_adxtra:"";
+SDM_rnd=(typeof(SDM_rnd)!='undefined')?SDM_rnd:Math.round(Math.random() * 314159265);
+if (typeof(frn046adxtra)!='undefined') {SDM_enrich=(frn046adxtra.indexOf("adset=f")>=0)?";adset=f":""} else {SDM_enrich=""};
+SDM_target=(typeof(SDM_target)!='undefined')?SDM_target:"";
+if (SDM_tileid==1) document.write('<scr'+'ipt type="text/javascript" src="//cdn.stroeerdigitalmedia.de/dynback/call.sjs?'+SDM_rnd+'"></scr'+'ipt>');
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+SDM_enrich += ";tile=" + SDM_tileid + SDM_adxtra + SDM_target + ";ord=" + SDM_rnd;
+document.write('<scr'+'ipt type="text/javascript" src="//ad.doubleclick.net/N4444/adj/P4444.sdm.aero.de_de/Rest;sz=300x250;adset=brs;'+SDM_enrich+'?"></scr'+'ipt>');
+/* ]]> */
+</script>
+<!-- SDM Adtag brs_rectangle.html -->
+</div><h2>Stellenmarkt</h2>
+		<div class="box w300 mb20">
+		<ul class="cb list pb0 pt10"><li class="pb10" style="line-height: 17px !important;"><a target="_blank" href="https://www.arts.aero/jobs/projektmanager-luftfahrt-mw#utm_source=aero.de&amp;utm_medium=feed&amp;utm_campaign=alle_stellen">Projektmanager Luftfahrt (m/w)</a>ARTS Deutschland GmbH, Stade, Bremen, Hamburg</li><li class="pb10" style="line-height: 17px !important;"><a target="_blank" href="https://www.arts.aero/jobs/arbeitsvorbereiter-helikopterfertigung-mw-0#utm_source=aero.de&amp;utm_medium=feed&amp;utm_campaign=alle_stellen">Arbeitsvorbereiter in der Helikopterfertigung (m/w)</a>ARTS Deutschland GmbH, Donauwörth</li><li class="pb10" style="line-height: 17px !important;"><a target="_blank" href="https://www.arts.aero/jobs/projektmanager-supply-chain-management-mw#utm_source=aero.de&amp;utm_medium=feed&amp;utm_campaign=alle_stellen">Projektmanager Supply Chain Management (m/w)</a>ARTS Deutschland GmbH, Donauwörth</li><li class="pb10" style="line-height: 17px !important;"><a target="_blank" href="https://www.arts.aero/jobs/pruefer-qualitaetssicherung-im-bereich-messtechnik-mw#utm_source=aero.de&amp;utm_medium=feed&amp;utm_campaign=alle_stellen">Prüfer Qualitätssicherung im Bereich Messtechnik (m/w)</a>ARTS Deutschland GmbH, Donauwörth</li><li class="pb10" style="line-height: 17px !important;"><a target="_blank" href="https://www.arts.aero/jobs/technischer-sachbearbeiter-dokumentation-mw#utm_source=aero.de&amp;utm_medium=feed&amp;utm_campaign=alle_stellen">Technischer Sachbearbeiter Dokumentation (m/w)</a>ARTS Deutschland GmbH, Hamburg</li></ul>
+		 <ul class="list pb0"><li><a href="http://www.aero.de/stellenmarkt/">Alle Stellenanzeigen</a></li></ul></div><h2>Schlagzeilen</h2><div class="box w300 mb20"><div class="box-content" id="schlagzeilen_box"><input type="hidden" id="lsid" name="lsid" value="21558"/><div class="schlagzeilen"><div class="left cB00000">21.04. 16:02</div><a class="w220 right pl5 db" href="http://www.aero.de/news-21558/Delta-kauft-gebrauchte-Boeing-757-und-717.html">Delta kauft gebrauchte Boeing 757 und 717</a><div class="cb"></div></div><div class="schlagzeilen"><div class="left cB00000">21.04. 11:05</div><a class="w220 right pl5 db" href="http://www.aero.de/news-21557/Air-Berlin-verlaesst-Branchenorganisation-AEA.html">Air Berlin verlässt Branchenorganisation AEA</a><div class="cb"></div></div><div class="schlagzeilen"><div class="left cB00000">21.04. 09:12</div><a class="w220 right pl5 db" href="http://www.aero.de/news-21556/Boeing-stiftet-Dreamliner-dem-Pima-Air-Museum.html">Boeing stiftet Dreamliner dem Pima Air Museum</a><div class="cb"></div></div><div class="schlagzeilen"><div class="left cB00000">21.04. 08:43</div><a class="w220 right pl5 db" href="http://www.aero.de/news-21555/Air-Berlin-will-gefragte-Tickets-teurer-verkaufen.html">Air Berlin will gefragte Tickets teurer verkaufen</a><div class="cb"></div></div><div class="schlagzeilen"><div class="left cB00000">20.04. 15:21</div><a class="w220 right pl5 db" href="http://www.aero.de/news-21554/Malaysia-Airlines-stellt-Frankfurt-ein.html">Malaysia Airlines stellt Frankfurt ein</a><div class="cb"></div></div><div class="cb"></div></div></div><script type="text/javascript">
+		var lastId = '';
+		var newId = '';
+		function CountDown()
+		  {
+		  lastId = $('#lsid').value;
+		  $.post('pages/update_schlagzeilen.php',{id: 1},function(data) {
+				$('#schlagzeilen_box').innerHTML = data;
+				newId = $('#lsid').value;
+				if(lastId!=newId) highlight_sb();
+				window.setTimeout("CountDown()",'120000');
+			});
+		  }
+
+		function highlight_sb()
+			{
+			$('#schlagzeilen_box').css('background-color','#FF0000');
+			window.setTimeout("changeBack(0,16,0)",'400');
+			}
+		 
+		 var werte = new Array("0","1","2","3","4","5","6","7","8","9","A","B","C","D","E","F");
+		 
+		function changeBack( farbe, m, t ){
+		if( $('#schlagzeilen_box') && farbe < m )
+		{
+		farbe++;
+		if( t == 0 ) $('#schlagzeilen_box').css('background-color','#FF' + werte[farbe] + werte[farbe] + werte[farbe] + werte[farbe] +'');
+		setTimeout( "changeBack( " + farbe + ", " + m + ", " + t + " );", 50);
+		}
+		else $('#schlagzeilen_box').css('background-color','#FFFFFF');
+		}
+		window.setTimeout("CountDown()",'120000');
+		</script><h2>Meistgelesene Artikel</h2>
+				<div class="box w300 mb20">
+					<ul class="list pt10 pb0"><li><a href="http://www.aero.de/news/EASA-laesst-A320-fuer-bis-zu-195-Passagiere-zu.html">EASA lässt A320 für bis zu 195 Passagiere zu</a></li><li><a href="http://www.aero.de/news/Bregier-Haben-A380-zehn-Jahre-zu-frueh-eingefuehrt.html">Brégier: Haben A380 zehn Jahre zu früh eingeführt</a></li><li><a href="http://www.aero.de/news/Malaysia-Airlines-stellt-Frankfurt-ein.html">Malaysia Airlines stellt Frankfurt ein</a></li><li><a href="http://www.aero.de/news/50-Flugzeuge-Abstand-zwischen-Airbus-und-Boeing.html">50 Flugzeuge Abstand zwischen Airbus und Boeing</a></li><li><a href="http://www.aero.de/news/Air-Berlin-droht-Verbot-einiger-Gemeinschaftsfluege-mit-Etihad.html">Air Berlin droht Verbot einiger Gemeinschaftsflüge mit Etihad</a></li></ul>
+		</div><div class="tac mb20"><script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://s506720606.online.de/_ox_aero_de/www/delivery/ajs.php':'http://s506720606.online.de/_ox_aero_de/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=3");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://s506720606.online.de/_ox_aero_de/www/delivery/ck.php?n=a0d56411&amp;cb=".488571."' target='_blank'><img src='http://s506720606.online.de/_ox_aero_de/www/delivery/avw.php?zoneid=3&amp;cb=".488571."&amp;n=a0d56411' border='0' alt='' /></a></noscript></div><h2>Community</h2><div class="box w300 mb20"><div class="box-content"><p>Fachdiskussionen zu aktuellen Ereignissen und Entwicklungen in der Luftfahrtbranche</p><div class="schlagzeilen"><div class="left cB00000">21.04. 22:50</div><a class="w220 right pl5 db" href="http://www.aero.de/forum/Kommentare-zu-aktuellen-Nachrichten/antworten/Delta-kauft-gebrauchte-Boeing-757-und-717/#formular">Delta kauft gebrauchte Boeing 757 und 717</a><div class="cb"></div></div><div class="schlagzeilen"><div class="left cB00000">21.04. 21:29</div><a class="w220 right pl5 db" href="http://www.aero.de/forum/Kommentare-zu-aktuellen-Nachrichten/antworten/Turkish-Airlines-Chef-Europaeische-Flughaefen-verlieren-Anschluss/#formular">Turkish-Airlines-Chef: Europäische Flughäfen verlieren Anschluss</a><div class="cb"></div></div><div class="schlagzeilen"><div class="left cB00000">21.04. 20:31</div><a class="w220 right pl5 db" href="http://www.aero.de/forum/Allgemeines-aus-der-Luftfahrtbranche/antworten/Neues-zur-A380/#formular">Neues zur A380</a><div class="cb"></div></div><div class="schlagzeilen"><div class="left cB00000">21.04. 18:55</div><a class="w220 right pl5 db" href="http://www.aero.de/forum/Kommentare-zu-aktuellen-Nachrichten/antworten/Air-Berlin-verlaesst-Branchenorganisation-AEA/#formular">Air Berlin verlässt Branchenorganisation AEA</a><div class="cb"></div></div><div class="schlagzeilen"><div class="left cB00000">21.04. 16:41</div><a class="w220 right pl5 db" href="http://www.aero.de/forum/Kommentare-zu-aktuellen-Nachrichten/antworten/Portugals-Regierungschef-warnt-TAP-Piloten-vor-Streik/#formular">Portugals Regierungschef warnt TAP-Piloten vor Streik</a><div class="cb"></div></div><div class="cb"></div><ul class="list pt10 pb0"><li><a href="forum/">Zur Community Startseite</a></li></ul></div></div><h2>FLUGREVUE 03/2015</h2>
+		<div class="box w300 mb20">
+			<a href="http://www.flugrevue.de/heftausgaben/flug-revue-03-2015/609018" class="article">
+			<img class="right box-img" src="http://www.aero.de/img/flugrevue_cover.jpg" alt="Bild" />
+			<h4>In der neuen Ausgabe</h4>					
+			<div class="box-content">
+&bull;&nbsp;&nbsp;A350 im Dienst<br/>
+&bull;&nbsp;&nbsp;Luftwaffe übernimmt A400M<br/>
+&bull;&nbsp;&nbsp;Airports Kampf gegen Schnee<br/>
+&bull;&nbsp;&nbsp;Raumschiff Orion erfolgreich<br/>
+&bull;&nbsp;&nbsp;Neue Helikopter-Antriebe<br/>
+&bull;&nbsp;&nbsp;Etihad Premieren<br/>
+&bull;&nbsp;&nbsp;AirAsia Rätsel<br/>
+&bull;&nbsp;&nbsp;Ariane 6 Entwicklung<br/>
+			</div>
+			</a>
+			<ul class="list pt10 pb0"><li><a href="http://www.flugrevue.de/heftausgaben/flug-revue-03-2015/609018">Alle Themen im &Uuml;berblick</a></li></ul>
+		</div><h2>Video-Blog</h2><div class="box w300 mb20"><div class="box-content"><object class="db pb10" width="300" height="185"><param name="movie" value="http://www.youtube.com/v/sudHp3xdkzY&hl=de_DE&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/sudHp3xdkzY&hl=de_DE&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="300" height="185"></embed></object><h4><a href="http://www.aero.de/news-21277/69.html">Unfallanalyse Air France-Flug 447</a></h4><div class="cb">Take Off: Unfallanalyse von AF447</div><ul class="list pt10 pb0"><li><a href="http://www.aero.de/takeoff/">Zum Video Blog</a></li></ul></div></div><h2>Shop</h2>
+		<div class="box w300 mb20">
+			<a href="http://www.aero.de/shop/" class="article">
+			<img class="right box-img" src="http://www.aero.de/content/products/f_36.jpg" alt="" />
+			<h4>Condor Cockpit-Flug Frankfurt - Mauritius mit Boeing 767-300 (Blu-ray)</h4>					
+			<div class="box-content">Das 3D Erlebnis. Ein Gefühl, als würde man hinter den Piloten im Cockpit sitzen. Diese Blu-ray bietet echtes 3D (Full-Screen, 1080p), ist aber auch auf normalen Blu-ray Playern und Fernsehern als 2D abspielbar.</div>
+			</a>
+			<ul class="list pt10 pb0"><li><a href="http://www.aero.de/shop/">Als Blu-ray bei aero.de nur EUR 19,90</a></li><li>Versandkostenfreie Lieferung!</li></ul>
+		</div></div><div class="cb"></div>
+		</div>
+		<div class="cb"></div>
+		</div>
+		</div><script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? 
+		"https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-754698-1"); pageTracker._trackPageview(); } catch(err) {}</script><div class="footer bg1 bt1 pb20">
+	<div class="footer-box center pt20"><div class="w600"><div class="w130 vat dib tal"><h5>News</h5>
+		<a href="">Überblick</a>
+		<a href="">Airlines</a>
+		<a href="">Airports</a>
+		<a href="">Flugzeugbau</a>
+		<a href="">Sicherheit</a>
+		<a href="">Organisation</a>
+		<a href="">Faszination</a></div><div class="w130 vat dib tal"><h5>Blog</h5>
+		<a href="http://www.aero.de/blog/">Überblick</a>
+		<a href="http://www.aero.de/magazin/">Magazin</a>
+		<a href="http://www.aero.de/bobcorn/">Bobcorn</a>
+		<a href="http://www.aero.de/takeoff/">Take Off</a></div><div class="w130 vat dib tal"><h5>Community</h5>
+		<a href="http://www.aero.de/forum/">Überblick</a>
+		<a href="http://www.aero.de/forum/Allgemeines-aus-der-Luftfahrtbranche/">Allgemeines</a>
+		<a href="http://www.aero.de/forum/Kommentare-zu-aktuellen-Nachrichten/">Kommentare</a>
+		<a href="http://www.aero.de/forum/Hobby-Privatpiloten-Spotter-Flugsimulation-/">Hobby</a>
+		<a href="http://www.aero.de/forum/suche.html">Suche</a>
+		<a href="http://www.aero.de/forum/agbs.html">Nutzungsregeln</a></div><div class="w130 vat dib tal"><h5>Account</h5>
+			<a href="http://www.aero.de/registrieren.html">Registrieren</a>
+			<a href="http://www.aero.de/login.html">Login</a>
+			<a href="http://www.aero.de/passwort-vergessen.html">Passwort vergessen</a></div><div class="w130 vat dib tal"><h5>Extra</h5>
+		<a href="http://www.aero.de/archiv/">Archiv</a>
+		<a href="http://www.aero.de/aktienkurse/">Aktienkurse</a>
+		<a href="http://www.aero.de/umfragen/">Umfragen</a></div><div class="w130 vat dib tal"><h5>Jobs</h5>		
+		<a href="http://www.aero.de/stellenmarkt/">Stellenmarkt</a>
+		<a href="http://www.aero.de/stellenangebot/">Stellenanzeige</a>
+		<a href="http://www.aero.de/stellenmarkt/agb/">AGB</a></div><div class="w130 vat dib tal"><h5>Shop</h5>
+		<a href="http://www.aero.de/shop/">Produkte</a>
+		<a href="http://www.aero.de/shop/warenkorb/">Warenkorb</a>
+		<a href="http://www.aero.de/shop/lieferbedingungen/">Lieferbedingungen</a>
+		<a href="http://www.aero.de/widerruf.html">Widerruf</a></div><div class="w130 vat dib tal"><h5>Kontakt</h5>
+		<a href="http://www.aero.de/impressum.html">Impressum</a>
+		<a href="http://www.aero.de/pressemitteilungen.html">Ihre Pressemeldungen</a>
+		<a href="http://www.aero.de/werbung.html">Werben bei aero.de</a>
+		<a href="http://www.aero.de/agbs.html">Nutzungsbedingungen</a>
+		<a href="http://www.aero.de/datenschutz.html">Datenschutzerklärung</a></div></div>
+		<div class="w780 mt20">
+		<div class="left ml20">© 2015 Aviation Media & IT GmbH</div>
+		<div class="right mr20">In Kooperation mit <img class="sto_b" width="65" height="13" src="http://www.aero.de/img/logo_fr_b.png"></div>
+		<div class="cb"></div>
+		</div>
+		</div></div>
+	</body></html>

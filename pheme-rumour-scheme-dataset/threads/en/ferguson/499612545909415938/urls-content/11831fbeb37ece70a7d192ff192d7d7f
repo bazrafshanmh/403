@@ -1,0 +1,1500 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Cache-Control: public, max-age=900
+Last-Modified: Tue, 24 Mar 2015 03:13:16 +0000
+Expires: Sun, 11 Mar 1984 12:00:00 GMT
+ETag: "1427166796"
+X-Request-ID: v-b6ce2358-d1d3-11e4-9c65-12313d334589
+X-AH-Environment: prod
+Content-Encoding: gzip
+Content-Length: 24578
+Accept-Ranges: bytes
+X-Varnish: 619048197 619035373
+X-Cache-Hits: 2
+Date: Tue, 24 Mar 2015 03:27:03 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" dir="ltr"  xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,t,e){function r(e){if(!t[e]){var o=t[e]={exports:{}};n[e][0].call(o.exports,function(t){var o=n[e][1][t];return r(o?o:t)},o,o.exports)}return t[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({QJf3ax:[function(n,t){function e(n){function t(t,e,a){n&&n(t,e,a),a||(a={});for(var u=c(t),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,e);return s}function a(n,t){f[n]=c(n).concat(t)}function c(n){return f[n]||[]}function u(){return e(t)}var f={};return{on:a,emit:t,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");t.exports=e()},{gos:"7eSDFh"}],ee:[function(n,t){t.exports=n("QJf3ax")},{}],gos:[function(n,t){t.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,t){function e(n,t,e){if(r.call(n,t))return n[t];var o=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,t,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[t]=o,o}var r=Object.prototype.hasOwnProperty;t.exports=e},{}],D5DuLP:[function(n,t){function e(n,t,e){return r.listeners(n).length?r.emit(n,t,e):(o[n]||(o[n]=[]),void o[n].push(t))}var r=n("ee").create(),o={};t.exports=e,e.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,t){t.exports=n("D5DuLP")},{}],XL7HBI:[function(n,t){function e(n){var t=typeof n;return!n||"object"!==t&&"function"!==t?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");t.exports=e},{gos:"7eSDFh"}],id:[function(n,t){t.exports=n("XL7HBI")},{}],loader:[function(n,t){t.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,t){function e(){var n=v.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(d,function(t,e){t in n||(n[t]=e)}),v.proto="https"===l.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var t=f.createElement("script");t.src=v.proto+n.agent,f.body.appendChild(t)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=window,f=u.document,s="addEventListener",p="attachEvent",l=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},v=t.exports={offset:i(),origin:l,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(f[p]("onreadystatechange",r),u[p]("onload",e)),a("mark",["firstbyte",i()])},{1:11,handle:"D5DuLP"}],11:[function(n,t){function e(n,t){var e=[],o="",i=0;for(o in n)r.call(n,o)&&(e[i]=t(o,n[o]),i+=1);return e}var r=Object.prototype.hasOwnProperty;t.exports=e},{}]},{},["G9z0Bl"]);</script>
+<link href='http://fonts.googleapis.com/css?family=Raleway:700,500,600' rel='stylesheet' type='text/css'>
+<link href="/sites/all/assets/font-awesome-more/css/font-awesome.min.css" rel="stylesheet">
+<!--[if IE 7]>
+<link href="/sites/all/assets/font-awesome-more/css/font-awesome-ie7.min.css" rel="stylesheet">
+<![endif]-->
+<link href="/sites/all/assets/font-awesome-more/css/font-awesome-social.css" rel="stylesheet">
+<link href="/sites/all/assets/font-awesome-more/css/font-awesome-ext.css" rel="stylesheet">
+<link href="/sites/all/assets/font-awesome-more/css/font-awesome-corp.css" rel="stylesheet">
+
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+  <title>Exactly How Often Do Police Shoot Unarmed Black Men? | Mother Jones</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.motherjones.com/files/denali_favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="Mother Jones Blogs and Articles" href="/rss/blogs_and_articles/feed" /><link rel="alternate" type="application/rss+xml" title="Mother Jones Articles Only" href="/rss/articles/feed" /><meta name='twitter:card' content='summary_large_image'>
+<link rel="alternate" type="application/rss+xml" title="Subscribe to Jaeah Lee's RSS Feed" href="/rss/authors/90086" />
+<meta name="twitter:creator" content="jaeahjlee">
+<link rel="standout" href="http://www.motherjones.com/politics/2014/08/police-shootings-michael-brown-ferguson-black-men" /><meta property="og:image" content="http://www.motherjones.com/files/ap679361012033_crop.jpg"/>
+<meta property="twitter:image" content="http://www.motherjones.com/files/ap679361012033_crop.jpg"/>
+<meta property="twitter:image:src" content="http://www.motherjones.com/files/ap679361012033_crop.jpg"/>
+<meta property="og:title" content="Exactly how often do police shoot unarmed black men?"/>
+<meta property="twitter:title" content="Exactly how often do police shoot unarmed black men?"/>
+<meta property="og:url" content="http://www.motherjones.com/politics/2014/08/police-shootings-michael-brown-ferguson-black-men"/>
+<meta property="twitter:url" content="http://www.motherjones.com/politics/2014/08/police-shootings-michael-brown-ferguson-black-men"/>
+<meta property="og:description" content="Mike Brown's death was &quot;just the tip of the iceberg.&quot; Here's what the data reveals."/>
+<meta property="og:type" content="article"/>
+<meta name="twitter:site" content="@MotherJones">
+<meta property="fb:admins" content="13301307,670317733,1198876232,38509772,106892,2907757,306289,602422192,4101301,513450539"/>
+<meta property="og:site_name" content="Mother Jones"/>
+
+<meta property="keywords" content="Crime+and+Justice,Race+and+Ethnicity,Top+Stories"/>
+    <link rel="apple-touch-icon" href="/sites/all/themes/denali/images/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/sites/all/themes/denali/images/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/sites/all/themes/denali/images/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/sites/all/themes/denali/images/apple-touch-icon-152x152.png" />
+    <link type="text/css" rel="stylesheet" media="all" href="http://www.motherjones.com/files/css/css_1472278b4bd22c9dbb5dfab6ce580bc0.css" />
+<link type="text/css" rel="stylesheet" media="print" href="http://www.motherjones.com/files/css/css_90ec5aee2c8f6d16ce5c451092a5d902.css" />
+<!--[if (gte IE 8.0)&(lte IE 8.9)]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/denali/ie8.css?7" />
+<![endif]-->
+<!--[if lte IE 7.9]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/denali/ie7.css?7" />
+<![endif]-->
+<!--[if lte IE 6.9]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/denali/ie6.css?7" />
+<![endif]-->
+
+  <script type="text/javascript" src="http://www.motherjones.com/files/js/js_f214cbc55abb865a923683da931ea726.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","jstools":{"cleanurls":true,"basePath":"\/"},"collapsiblock":{"blocks":{"block-mojo-4":"1","block-mojo-5":"1","block-mojo-6":"1","block-mojo-0":"1","block-mojo-7":"1","block-views-front_featured_photoessays":"1","block-block-1":"1","block-block-5":"1","block-block-6":"1","block-block-7":"1","block-block-8":"1","block-block-11":"1","block-menu-132":"1","block-block-12":"1","block-block-13":"1","block-block-2":"1","block-block-14":"1","block-block-15":"1","block-block-16":"1","block-mojo-1":"1","block-block-17":"1","block-views-today_top_stories":"1","block-block-18":"1","block-block-19":"1","block-block-10":"1","block-block-9":"1","block-mojo-2":"1","block-views-todays_top_stories":"1","block-block-3":"1","block-block-20":"1","block-block-4":"1","block-block-21":"1","block-block-22":"1","block-block-23":"1","block-views-featured_photo":"1","block-block-26":"1","block-block-27":"1","block-block-28":"1","block-block-29":"1","block-mojo-8":"1","block-block-32":"1","block-block-30":"1","block-block-31":"1","block-block-34":"1","block-block-35":"1","block-block-25":"1","block-search-0":"1","block-block-38":"1","block-block-39":"1","block-block-40":"1","block-block-37":"1","block-block-42":"1","block-block-43":"1","block-views-todays_top_stories_blog":"1","block-block-44":"1","block-block-33":"1","block-block-46":"1","block-block-47":"1","block-blockcache-52":"1","block-block-48":"1","block-custom_pagers-3":"1","block-custom_pagers-1":"1","block-custom_pagers-2":"1","block-custom_pagers-4":"1","block-blockcache-100":"1","block-block-49":"1","block-aggregator-feed-1":"1","block-block-50":"1","block-blockcache-111":"1","block-block-53":"1","block-blockcache-117":"1","block-block-54":"1","block-block-52":"1","block-block-55":"1","block-views-author_page_views-block_1":"1","block-views-author_page_views-block_2":"1","block-motherjones_custom-0":"1","block-motherjones_custom-2":"1","block-motherjones_packages-0":"1","block-google_cse-0":"1","block-views-photoessay-block_1":"1","block-block-56":"1","block-views-nodequeue_15-block":"1","block-views-nodequeue_16-block":"1","block-block-57":"1","block-block-58":"1","block-menu-menu-about-us":"1","block-block-59":"1","block-views-nodequeue_1-block":"1","block-views-photoessay-block_2":"1","block-motherjones_custom-1":"1","block-motherjones_custom-3":"1","block-motherjones_packages-1":"1","block-views-user_comments-block_1":"1","block-motherjones_custom-5":"1","block-block-62":"1","block-block-61":"1","block-block-60":"1","block-shorten-shorten_short":"1","block-block-64":"1","block-menu-devel":"1","block-masquerade-0":"1","block-devel-2":"1","block-block-66":"1","block-block-71":"1","block-block-81":"1","block-block-76":"1","block-block-96":"1","block-block-91":"1","block-block-86":"1","block-block-101":"1","block-block-106":"1","block-motherjones_custom-4":"1","block-block-111":"1","block-block-116":"1","block-block-121":"1","block-block-126":"1","block-block-131":"1","block-block-136":"1","block-block-141":"1","block-block-146":"1","block-views-f9dd087a5d59c2131fdcac7649d899d3":"1","block-block-151":"1","block-block-156":"1","block-views-b96c7d250ca0ca9f7dd44154488f4101":"1","block-aggregator-feed-6":"1","block-block-161":"1","block-views-ab80be25ae5f55fd10864c047f2315f3":"1","block-views-260f549157fa37d72ef941f6a6708d54":"1","block-block-167":"1","block-block-162":"1","block-block-172":"1","block-block-177":"1","block-block-187":"1","block-aggregator-feed-7":"1","block-block-192":"1","block-block-197":"1","block-block-202":"1","block-block-207":"1","block-block-222":"1","block-block-227":"1","block-block-232":"1","block-block-237":"1","block-block-242":"1","block-aggregator-feed-11":"1","block-block-246":"1","block-block-251":"1","block-block-256":"1","block-block-276":"1","block-block-266":"1","block-block-271":"1","block-views-9f0e1fef3ed55017927a326d491ba4f0":"1","block-views-c8944b92c21ae69ad29633f1fcd949ed":"1","block-block-281":"1","block-block-286":"1","block-block-291":"1","block-block-296":"1","block-quicktabs-1":"4","block-views-author_twitter_feed-block_1":"1","block-block-301":"1","block-block-311":"1","block-block-306":"1","block-block-316":"1","block-block-346":"1","block-block-326":"1","block-block-351":"1","block-block-331":"1","block-block-336":"1","block-block-341":"1","block-block-321":"1","block-block-356":"1","block-menu-menu-press-room":"1","block-block-366":"1","block-views-must_reads-block_1":"1","block-block-371":"1","block-block-376":"1","block-block-381":"1","block-block-386":"1","block-block-391":"1","block-block-401":"1","block-motherjones_custom-8":"1","block-views-alumni_love-block":"1","block-views-interns-block_1":"1","block-views-front_slider-block":"1","block-block-396":"1","block-block-406":"1","block-block-411":"1","block-block-51":"1","block-block-416":"1","block-motherjones_custom-9":"1","block-views-frontpage_stories-block_2":"1","block-aggregator-feed-136":"1","block-menu-menu-mediakit-magazine":"1","block-menu-menu-mediakit-secondary":"1","block-menu-menu-mediakit-primary":"1","block-block-426":"1","block-menu-menu-mediakit-website":"1","block-menu-menu-mediakit-email":"1","block-block-431":"1","block-block-436":"1","block-node_gallery-0":"1","block-webform-client-block-121716":"1","block-block-442":"1","block-block-447":"1","block-block-441":"1","block-block-452":"1","block-block-457":"1","block-menu-menu-planned-giving":"1","block-block-462":"1","block-block-467":"1","block-block-471":"1","block-block-476":"1","block-block-481":"1","block-block-486":"1","block-block-491":"1","block-block-496":"1","block-block-501":"1","block-block-511":"1","block-block-516":"1","block-block-506":"1","block-block-521":"1","block-block-526":"1","block-block-536":"1","block-block-531":"1","block-block-541":"1","block-block-551":"1","block-block-546":"1","block-block-561":"1","block-block-566":"1","block-block-556":"1","block-views-popular-block_1":"1","block-block-571":"1","block-views-2f0bd41981e6dcaf3c48bd0a87aa5829":"1","block-menu-menu-about-donate":"1","block-block-576":"1","block-block-581":"1","block-block-606":"1","block-block-586":"1","block-block-591":"1","block-block-596":"1","block-block-601":"1","block-block-631":"1","block-block-636":"1","block-block-626":"1","block-block-261":"1","block-disqus-disqus_comments":"1","block-block-641":"1","block-block-646":"1","block-block-651":"1","block-block-661":"1","block-block-656":"4","block-block-666":"1","block-views-section_page_headlines-block_1":"1","block-views-section_page_headlines-block_6":"1","block-views-section_page_headlines-block_7":"1","block-block-681":"1","block-views-section_page_headlines-block_3":"1","block-views-section_page_headlines-block_5":"1","block-views-section_page_headlines-block_4":"1","block-views-most_popular_frontpage-block_1":"1","block-views-section_page_headlines-block_2":"1","block-block-686":"1","block-block-691":"1","block-block-696":"1","block-block-701":"1","block-block-706":"1","block-block-711":"1","block-block-721":"1","block-block-716":"1","block-block-726":"1","block-block-731":"1","block-block-736":"1","block-block-741":"1","block-block-746":"1","block-block-751":"1","block-block-756":"1","block-block-766":"1","block-block-776":"1","block-block-781":"1","block-block-786":"1","block-block-791":"1","block-block-796":"1"},"default_state":1,"slide_type":1,"slide_speed":200,"block_title":":header:first","block":"div.block","block_content":"div.content"},"user_validate":1427166796,"disqusCommentDomain":"motherjones","denali":{"section":"politics","author":"Jaeah Lee","ad_locations_str":"","ad_primary_tags":null}});
+//--><!]]>
+</script>
+  
+
+<script type="text/javascript">
+//  NEW GOOGLE ANALYTICS
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2458520-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+  <script type="text/javascript"> </script>
+<script type='text/javascript' src='http://mj-tech.s3.amazonaws.com/ansible.js'></script>
+</head>
+<body class="not-front not-logged-in node-type-article one-sidebar sidebar-right page-politics-2014-08-police-shootings-michael-brown-ferguson-black-men section-politics">
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '132888650146012', // App ID
+      channelUrl : '//www.motherjones.com/channel.html', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      oauth      : true, // enable OAuth 2.0
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional initialization code here
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
+    <div id="page"><div id="page-inner">
+
+    <a name="navigation-top" id="navigation-top"></a>
+          <div id="skip-to-nav"><a href="#navigation">Skip to Navigation</a></div>
+        <div id="skip-to-content"><a href="#site-content">Skip to Content</a></div>
+    
+          
+    <div id="header"><div id="header-inner" class="clear-block">
+
+              <div id="logo-title">
+
+          
+                                    <div id="site-name"><strong>
+                <a href="/" title="Home" rel="home">
+                Mother Jones                </a>
+              </strong></div>
+                      
+          
+        </div> <!-- /#logo-title -->
+      
+              <div id="header-blocks" class="region region-header">
+          <div id="block-block-57" class="block block-block region-odd odd region-count-1 count-13 blockname-block-block-header-banner-ad "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <script language="javascript"> 
+<!-- 
+ad_code('topros',225);
+//--> 
+</script>
+<style>
+#block-block-57 { height: 90px; overflow: hidden; }
+</style>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div> <!-- /#header-blocks -->
+            
+
+    </div></div> <!-- /#header-inner, /#header -->
+
+     
+    
+          <div id="navbar"><div id="navbar-inner" class="region region-navbar clear-block">
+
+        <a name="navigation" id="navigation"></a>
+
+        
+                  <div id="primary">
+            <ul class="menu"><li class="leaf first menu-item-home"><a href="/" title="Mother Jones Homepage">Home</a></li>
+<li class="leaf menu-item-politics"><a href="/politics" title="Politics">Politics</a></li>
+<li class="leaf menu-item-environment"><a href="/environment" title="Environment">Environment</a></li>
+<li class="leaf menu-item-culture"><a href="/media" title="Culture">Culture</a></li>
+<li class="leaf menu-item-photo-essays"><a href="/photoessays" title="Photo Essays">Photo Essays</a></li>
+<li class="expanded menu-item-blogs"><a href="/blog" title="All Blogs">Blogs</a><ul class="menu"><li class="leaf first menu-item-political-mojo"><a href="/mojo" title="">Political MoJo</a></li>
+<li class="leaf menu-item-kevin-drum"><a href="/kevin-drum" title="">Kevin Drum</a></li>
+<li class="leaf menu-item-blue-marble"><a href="/blue-marble" title="">Blue Marble</a></li>
+<li class="leaf menu-item-tom-philpott"><a href="/tom-philpott" title="">Tom Philpott</a></li>
+<li class="leaf last menu-item-mixed-media"><a href="/mixed-media" title="">Mixed Media</a></li>
+</ul></li>
+<li class="leaf menu-item-subscribe"><a href="http://mother-jones.myshopify.com/products/1" title="Subscribe">Subscribe</a></li>
+<li class="leaf last menu-item-donate"><a href="https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&amp;list_source=7H10TOPNV&amp;extra_don=1" title="Donate">Donate</a></li>
+</ul>          </div> <!-- /#primary -->
+<!-- Script for SUPERFISH -->
+<script type="text/javascript">
+$("#navbar ul.menu").superfish();
+</script>        
+        
+
+        
+        
+      </div></div> <!-- /#navbar-inner, /#navbar -->
+        
+          <div id="ticker" class="region region-ticker clear-block">
+        <div id="block-search-0" class="block block-search region-odd odd region-count-1 count-21 blockname-block-search-search-form "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <form action="/politics/2014/08/police-shootings-michael-brown-ferguson-black-men"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><a name="search-block-form-anchor" id="search-block-form-anchor"></a><div class="container-inline">
+  <div class="form-item" id="edit-search-block-form-1-wrapper">
+ <label for="edit-search-block-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form--U19X7_tyme2PQbnxn0KUU3x12y412c_YbExZ_iC2AQ" value="form--U19X7_tyme2PQbnxn0KUU3x12y412c_YbExZ_iC2AQ"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+</div>
+
+</div></form>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-views-must_reads-block_1" class="block block-views region-even even region-count-2 count-22 blockname-block-views-must-reads-block "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <div class="view view-must-reads view-id-must_reads view-display-id-block_1 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row clear-block views-row-1 views-row-odd views-row-first views-row-last">
+    <div id="node-88016" class="node node-type-link-list node-type-link-list-full"><div class="node-inner clear-block">
+
+  
+  
+  
+  
+  <div class="content clear-block">
+    <div class="truncate_less"><span class="tickerStart">Must Reads:</span>&nbsp;<a href="/politics/2015/02/housing-first-solution-to-homelessness-utah">How to End Homelessness</a>&nbsp;|&nbsp;<a href="/environment/2015/03/against-meals-breakfast-lunch-dinner">Stop Eating Breakfast, Lunch, and Dinner</a>&nbsp;|&nbsp;<a href="/politics/2015/03/obamacare-charts-stats-health-care-reform">Obamacare Is Working</a></div><!-- .truncate_less -->  </div>
+  
+  
+    
+  
+</div></div> <!-- /node-inner, /node -->
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-486" class="block block-block region-odd odd region-count-3 count-23 blockname-block-block-ticker-region---pushdown-ad "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <script language="javascript"> 
+<!-- 
+ad_code('pushdown',2473);
+//--> 
+</script>
+<style>
+#block-block-486, #block-views-must_reads-block_1 {
+    margin-bottom: 0em;
+}
+</style>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+      </div>
+    
+    <div id="main"><div id="main-inner" class="clear-block">
+
+      <div id="content"><div id="content-inner">
+
+        
+                
+        <a name="site-content" id="site-content"></a>
+
+                  <div id="node-terms">
+            <div id="section-term"><span class="section-icon section-icon-1"></span><a href="/politics">Politics</a></div><div id="primary-terms">&rarr; <a href="/topics/crime-and-justice">Crime and Justice</a>, <a href="/topics/race-and-ethnicity">Race and Ethnicity</a>, <a href="/topics/top-stories">Top Stories</a></div>          </div>
+                
+                
+                  <div id="content-header">
+                                                                <h1 class="title">Exactly How Often Do Police Shoot Unarmed Black Men?</h1>
+                                                               </div> <!-- /#content-header -->
+                
+        <div id="content-area" class="clear-block">
+          <div id="node-258221" class="node node-type-article node-type-article-full"><div class="node-inner clear-block">
+
+  
+  
+  
+  
+  <div class="content clear-block">
+    <div id="node-header" class="clear-block"><div id="node-header-data" class="node-header-data-primary"><h3 class="dek">The killing in Ferguson was one of many such cases. Here's what the data reveals.</h3><p class="byline byline-byline">&mdash;By <a href="/authors/jaeah-lee" rel="author">Jaeah Lee</a></p><div id="dateline"> | Fri Aug. 15, 2014 6:00 AM EDT</div></div><!--node header data--><div class="hdr-tools"><ul class="article-tools"><li class="fblike toolbar-btn"><fb:like href="http://www.motherjones.com/politics/2014/08/police-shootings-michael-brown-ferguson-black-men" layout="button_count" action="like" show_faces="true" share="true"></fb:like></li><li class="tweet toolbar-btn"><a href="http://twitter.com/share" class="twitter-share-button" data-related="davidcorndc:Washington editor of Mother Jones magazine and blogger at www.davidcorn.com,kdrum:Political blogger and writer for Mother Jones magazine.,tomphilpott:The cofounder of Maverick Farms and food & agriculture correspondent for Mother Jones.,clarajeffery:Co-editor of Mother Jones. Mom. One very tired lady."  data-size="" data-text="Exactly how often do police shoot unarmed black men?" data-counturl="http://www.motherjones.com/politics/2014/08/police-shootings-michael-brown-ferguson-black-men" data-url="http://www.motherjones.com/politics/2014/08/police-shootings-michael-brown-ferguson-black-men" data-count="horizontal" data-via="motherjones">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li class="forward toolbar-btn top-social-button largebutton genericlargebutton"><a href="/forward?path=node/258221" title="Forward by Email"><div class="btn-o"><div class="btn"><i class="icon-envelope" style="color: cornflowerblue"></i><span class="nearicon">Email</span></div></div></a></li><div class="comment-tool comment-bar nonteaser-comment-bar"><span id="comment-icon" class="comment-container"><span class="comment-number"><a href="http://www.motherjones.com/node/258221#disqus_thread" class="comments active" title="Jump to the comments of this posting."></a></span></div><li class="print toolbar-btn"><a href="/print/258221" title="Printer Friendly Version"><i class="icon-print" style="font-size: 20px;padding-top: 0px;"></i></a></li></ul></div></div><div id="node-body-top" class="clear-block"><div class="node-master-image-large"><img src="http://www.motherjones.com/files/imagecache/top-of-content-main/ap679361012033_crop.jpg" alt="" title="" width="630" height="354" class="imagecache imagecache-top-of-content-main"/> <span class="byline photo-byline">Jeff Roberson/AP</span></div><p>The killing of Michael Brown by police in Ferguson, Missouri, was no anomaly: As we reported yesterday, Brown is one of at least four unarmed black men who died at the hands of police <a href="http://www.motherjones.com/politics/2014/08/3-unarmed-black-african-american-men-killed-police" target="_blank">in the last month alone</a>. <a href="http://gawker.com/cop-avoids-charge-for-shooting-unarmed-young-black-man-1506692164" target="_blank">There</a> <a href="http://articles.latimes.com/2000/feb/12/news/mn-63622" target="_blank">are</a> <a href="http://pix11.com/2014/07/22/brother-of-anthony-baez-sees-heartbreaking-parallel-to-eric-garners-death/" target="_blank">many</a> <a href="http://articles.philly.com/keyword/jonny-gammage" target="_blank">more</a> <a href="http://www.huffingtonpost.com/news/oscar-grant-shooting/" target="_blank">cases</a> from years past. As Jeffrey Mittman, executive director of the American Civil Liberties Union's Missouri chapter put it in a statement of condolence to Brown's family, &quot;Unarmed African-American men are shot and killed by police at an alarming rate. This pattern must stop.&quot;</p>
+
+<p>But quantifying that pattern is difficult. Federal databases that track police use of force or arrest-related deaths paint only a partial picture. Police department data is scattered and fragmented. No agency appears to track the number of police shootings or killings of unarmed victims in a systematic, comprehensive way.</p>
+
+<p>Here's some of what we do know:</p>
+
+<p class="rteleft"><strong>Previous attempts to analyze racial bias in police shootings have arrived at similar conclusions. </strong>In 2007, <em>ColorLines</em> and the<em> Chicago Reporter</em> <a href="http://www.colorlines.com/archives/2007/11/killed_by_the_cops.html" target="_blank">investigated fatal police shootings</a> in 10 major cities, and found that there were a disproportionately high number of African Americans among police shooting victims in every one, particularly in New York, San Diego, and Las Vegas.</p>
+
+<p class="rteleft"><div id="mininav" class="inline-subnav">
+	<!-- header content -->
+			<div id="mininav-header-content">
+							<div id="mininav-header-image">
+					<img src="/files/images/motherjones_mininav/protest-225.jpg" width="220" border="0" />
+				</div>
+						
+							<div id="mininav-header-text">
+					<p class="mininav-header-text" style="margin: 0; padding: 0.75em; font-size: 11px; font-weight: bold; line-height: 1.2em; background-color: rgb(221, 221, 221);">
+						More <em>MoJo</em> coverage of the Michael Brown police shooting					</p>
+				</div>
+					</div>
+		<!-- linked stories -->
+			<div id="mininav-linked-stories">
+			<ul>
+												<span id="linked-story-259101">
+						<li><a href="/politics/2014/08/timeline-michael-brown-shooting-ferguson">
+															10 Hours in Ferguson: A Visual Timeline of Michael Brown's Death and Its Aftermath</a></li>
+												</span>
+																<span id="linked-story-259011">
+						<li><a href="/politics/2014/08/ferguson-st-louis-police-tactics-dogs-michael-brown">
+															Michael Brown's Mom Laid Flowers Where He Was Shot—and Police Crushed Them</a></li>
+												</span>
+																							<span id="linked-story-258356">
+						<li><a href="/mojo/2014/08/michael-brown-study-racial-bias-weapon">
+															The Ferguson Shooting and the Science of Race and Guns</a></li>
+												</span>
+																<span id="linked-story-260006">
+						<li><a href="/politics/2014/09/ferguson-might-have-break-its-habit-hitting-poor-people-big-fines">
+															How Many Ways Can the City of Ferguson Slap You With Court Fees? We Counted</a></li>
+												</span>
+																<span id="linked-story-258806">
+						<li><a href="/politics/2014/08/department-justice-civil-rights-violations-investigation-ferguson">
+															Here's Why the Feds Are Investigating Ferguson</a></li>
+												</span>
+										</ul>
+		</div>
+		
+	<!-- footer content -->
+		</span>
+
+
+  </div>
+</p>
+
+<p class="rteleft">&quot;We need not look for individual racists to say that we have a culture of policing that is really rubbing salt into longstanding racial wounds,&quot; NAACP president Cornell Williams Brooks told <em>Mother Jones.</em> It's a culture in which people suspected of minor crimes are met with &quot;overwhelmingly major, often lethal, use of force,&quot; he says.</p>
+
+<p class="rteleft">In Oakland, California, the NAACP <a href="http://www.sfgate.com/bayarea/article/NAACP-focuses-on-officer-involved-shootings-2453109.php" target="_blank">reported</a> that out of 45 officer-involved shootings in the city between 2004 and 2008, 37 of those shot were black. None were white. One-third of the shootings resulted in fatalities. Although weapons were not found in 40 percent of cases, the NAACP found, no officers were charged. (These numbers don't include 22-year-old Oscar Grant, who was shot and killed by a transit authority officer at the Fruitvale BART station on New Year's Day of 2009.)</p>
+
+<p class="rteleft">The New York City Police Department has reported similar trends in its <a href="http://www.nyc.gov/html/nypd/downloads/pdf/analysis_and_planning/nypd_annual_firearms_discharge_report_2011.pdf" target="_blank">firearms discharge report</a>, which shows that more black people have been shot by NYPD officers between 2000 and 2011 than have Hispanics or whites.</p>
+
+<p><iframe allowfullscreen="allowfullscreen" allowtransparency="true" frameborder="0" height="400" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" src="//mjdwcharts.s3.amazonaws.com/sSwtw/6/index.html" webkitallowfullscreen="webkitallowfullscreen" width="100%"></iframe></p>
+
+<p class="rteleft">When you look at the racial breakdown of New Yorkers, black people are disproportionately represented among those targeted as criminal shooting suspects, firearms arrestees, and those fired upon or struck by police gunfire.</p>
+
+<div class="inline inline-center" style="display: table; width: 1%"><img alt="" class="image" src="/files/Screen-Shot-2014-08-12-at-10.58.44-PM.jpg" width="530px" />
+	<div class="caption">NYPD Firearms Discharge Report, 2011</div>
+</div>
+
+<p><strong>Often, the police officers do not get convicted or sentenced.</strong> Delores Jones-Brown, a law professor and director of the Center on Race, Crime, and Statistics at the John Jay College of Criminal Justice in New York City, has identified dozens of black men and women who have died at the hands of police going back as far as 1994. She notes that while these incidents happen regularly, it often takes a high-profile case, such as Brown's, to bring other recent incidents to national attention.</p>
+
+<div class="pullquote-left">&quot;For whatever reason, juries are much less likely to convict&quot; police who kill.</div>
+
+<p>&quot;Unfortunately, the patterns that we've been seeing recently are consistent: The police don't show as much care when they are handling incidents that involve young black men and women, and so they do shoot and kill,&quot; says Jones-Brown, a former assistant prosecutor in Monmouth County, New Jersey. &quot;And then for whatever reason, juries and prosecutor's offices are much less likely to indict or convict.&quot;</p>
+
+<p><strong>Between 2003 and 2009, the DOJ reported that 4,813 people died while in the process of arrest or in the custody of law enforcement</strong>. These include people who died before an officer physically placed him or her under custody or arrest. This data, known as&nbsp;<a href="http://www.bjs.gov/content/pub/pdf/ard0309st.pdf" target="_blank">arrest-related deaths,</a> doesn't reveal a significant discrepancy between whites, blacks, or hispanics. It also doesn't specify how many victims were unarmed. According to the FBI, which has tracked justifiable homicides up to 2012, <a href="http://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/offenses-known-to-law-enforcement/expanded-homicide/expanded_homicide_data_table_14_justifiable_homicide_by_weapon_law_enforcement_2008-2012.xls" target="_blank">410 felons died</a> at the hands of a law enforcement officer in the line of duty.<a href="#update">*</a></p>
+
+<div class="inline inline-center" style="display: table; width: 1%"><img alt="" class="image" src="/files/Screen%20Shot%202014-08-12%20at%2010.43.28%20PM_0.png" width="630px" />
+	<div class="caption">Bureau of Justice Statistics</div>
+</div>
+
+<p class="rteleft"><strong>But black people are more likely than whites or Hispanics to experience a police officer's threat or use of force</strong>, according to the Department of Justice's <a href="http://www.bjs.gov/index.cfm?ty=tp&amp;tid=703" target="_blank">Police Public Contact Survey in 2008</a>, the latest year for which data is available. Of those who felt that police had used or threatened them with force that year, about 74 percent felt those actions were excessive. In another <a href="http://www.bjs.gov/content/pub/pdf/pbtss11.pdf" target="_blank">DOJ survey of police behavior</a> during traffic and street stops in 2011, blacks and Hispanics were less likely than whites to believe that the reason for the stop was legitimate.</p>
+
+<p class="rteleft"><strong>The Justice Department has&nbsp;<a href="http://abcnews.go.com/WNT/story?id=131119" target="_blank">investigated</a>&nbsp;possible systemic abuse of power by police in at least 16 cities.</strong>&nbsp;</p>
+
+<div class="inline inline-center" style="display: table; width: 1%"><img alt="" class="image" src="/files/doj-patternpracticemap.jpg" style="max-width:630px" /></div>
+
+<p class="rteleft"><strong>Police shootings of unarmed black people aren't limited to poor or predominantly black communities.</strong> Jones-Brown <a href="http://www.americanbar.org/publications/human_rights_magazine_home/human_rights_vol36_2009/spring2009/the_right_to_life_policing_race_and_criminal_injustice.html" target="_blank">points to examples</a> where police officers have shot unarmed black men and women in <a href="http://abcnews.go.com/Entertainment/story?id=113971" target="_blank">Hollywood</a>, <a href="http://www.nytimes.com/1999/07/14/us/national-news-briefs-4-officers-are-fired-in-killing-of-woman.html" target="_blank">Riverside (California)</a>, and Prince Georges County&mdash;a Maryland suburb known as the most affluent US county with an African-American majority. &quot;Part of the problem is that black people realize that you don't have to be poor, you don't have to be in your own community...and this can happen to you,&quot; she says. These killings occur against black people of varying socioeconomic backgrounds: &quot;Actors, professional football players, college students, high school grads. They happen to black cops, too.&quot;</p>
+
+<div class="pullquote-right">&quot;You don't have to be poor, you don't have to be in your own community...and this can happen to you.&quot;</div>
+
+<p class="rteleft">Yet, the lack of comprehensive data means that we can't know if there's been an upsurge in such cases, says <a href="http://samuelwalker.net" target="_blank">Samuel Walker</a>, a criminal justice scholar at the University of Nebraska in Omaha and author of <em>The Color of Justice: Race, Ethnicity, and Crime in America</em>. &quot;It's impossible to make any definitive statement on whether there were more incidents in the last 5 to 10 years than in the past,&quot; he says. &quot;We just don't have that kind of data.&quot; But what is certain, Walker says, is that the fatal shooting in Ferguson &quot;was just the tip of the iceberg.&quot;</p>
+
+<p class="rteleft"><strong><a name="update">UPDATE (8/15/14):</a></strong> <a href="http://www.usatoday.com/story/news/nation/2014/08/14/police-killings-data/14060357/" target="_blank"><em>USA Today</em> reported</a> that on average there were 96 cases of a white police officer killing a black person each year between 2006 and 2012, based on justifiable homicides reported to the FBI by local police. As I reported above, the FBI's justifiable homicides database paints only a partial picture&mdash;accounting for cases in which an officer killed a felon. It does not necessarily include cases involving victims like Michael Brown, Eric Garner, and others who were unarmed when confronted by police. The data in this post has been updated with 2012 numbers,&nbsp;<span style="font-family: Verdana, Arial, sans-serif; line-height: 24px;">and the map has been updated to reflect that certain cases have&nbsp;been closed</span>.</p>
+</div><div id="node-body-break"></div><div id="node-body-bottom"></div><div id="node-footer" class="clear-block"><ul class="article-tools"><li class="toolbar-btn largebutton largefbbutton"><a href="http://facebook.com/sharer.php?u=http://www.motherjones.com/politics/2014/08/police-shootings-michael-brown-ferguson-black-men" target="_blank"><div class="btn-o"><div class="btn"><i class="icon-facebook" style="color:#fff;"></i><span class="nearicon">Share on Facebook</span></div></div></a></li><li class="tweet toolbar-btn largebutton largetwitterbutton"><a href="http://twitter.com/home?status=Exactly how often do police shoot unarmed black men? http://www.motherjones.com/politics/2014/08/police-shootings-michael-brown-ferguson-black-men via @MotherJones" target="_blank"><div class="btn-o"><div class="btn"><i class="icon-twitter" style="color:#fff;"></i><span class="nearicon">Share on Twitter</span></div></div></a></li></ul><div class="author-bio"><div class="author-image"><a href="/authors/jaeah-lee"><img src="http://www.motherjones.com/files/imagecache/author-thumb-small/photo/80px_motherjones_headshots_160.jpg" alt="" title="" width="60" height="70" class="imagecache imagecache-author-thumb-small"/></a></div><div class="author-data "><a href="/authors/jaeah-lee" class="author-name-link"><h3 class="author-name">Jaeah Lee</h3></a><span class="author-title">Reporter</span><p class="author-bio-text">Jaeah Lee is a reporter at <em>Mother Jones</em>. Email her at jlee[at]motherjones.com. Follow her on <a href="http://twitter.com/#!/jaeahjlee" target="_blank">Twitter</a>. <span class="author-rss"><a href="/rss/authors/90086" title="RSS">RSS</a></span> | <a class="twitter-link" href="http://twitter.com/jaeahjlee" target = "_blank">Twitter</a></p><!-- .author-bio-text --></div><!--.author-data--></div><!--.author-bio--><div class="billboard noextended"><div class="advertise-top"></div><script>ad_code("middleros", 170);</script><p class="post-continues post-continued-from-above"><em><a href="/about/advertising/contact-form">Advertise on MotherJones.com</a></em></p></div><div id="related-articles"><h2 class="title">If You Liked This, You Might Also Like...</h2><ul class="community-nav related-articles-list"><li class="community-nav-item"><span class="section-icon section-icon-1"></span><h3 class="title"><a href="/mojo/2014/08/michael-brown-study-racial-bias-weapon">The Ferguson Shooting and the Science of Race and Guns</a></h3><div class="dek nav-dek">Studies have shown that racial bias can make people see things that are not there.</div></li><li class="community-nav-item"><span class="section-icon section-icon-1"></span><h3 class="title"><a href="/mojo/2014/08/obama-ferguson-remarks">Watch President Obama Deliver Remarks About the Violence In Ferguson, Missouri </a></h3><div class="dek nav-dek">"We all need to hold ourselves to a high standard, particularly those of us in positions of authority."</div></li><li class="community-nav-item"><span class="section-icon section-icon-1"></span><h3 class="title"><a href="/politics/2014/08/images-ferguson-tear-gas-police">A Few Horrifying Pictures From Ferguson Last Night</a></h3><div class="dek nav-dek">From an alderman's arrest to journalists getting tear gassed, things went really wrong in Ferguson Wednesday night.</div></li><li class="community-nav-item"><span class="section-icon section-icon-1"></span><h3 class="title"><a href="/politics/2014/08/anonymous-releases-st-louis-police-dispatch-tapes">Anonymous Posts St. Louis Police Dispatch Tapes From Day of Ferguson Shooting</a></h3><div class="dek nav-dek">"We are switching over to the riot channel at this time."</div></li><li class="community-nav-item"><span class="section-icon section-icon-1"></span><h3 class="title"><a href="/politics/2014/08/10-insane-numbers-ferguson-killing">Ferguson Is 60 Percent Black. Virtually All Its Cops Are White.</a></h3><div class="dek nav-dek">And more shocking stats from a bitterly segregated city.</div></li></ul></div></div>  </div>
+  
+  
+    
+      <div id="connect" class="region region-connect">
+      <div id="block-block-49" class="block block-block region-odd odd region-count-1 count-1 blockname-block-block-newsletter-plug---tomato "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <div style="margin:15px 0 10px 0;">
+	<div id="newsletter-banner">Get Mother Jones by Email - Free. Like what you're reading? Get the best of MoJo three times a week.</div>
+	<form action="http://www.motherjones.com/cgi-bin/no-op.cgi" onsubmit="return MJ_validate_email(this);" method="post" style="margin: 0 auto;">
+		<table summary="Mother Jones Newsletter Sign Up Form" style="margin: 0 auto;width:390px" cellpadding="0" cellspacing="0">
+			<tbody>
+				<tr>
+					<td>
+						<input type="hidden" name="SURVEY_ID" value="1241" />
+						<input type="hidden" name="3473_1241_2_1220" id="3473_1241_2_1220_3" value="1027" />
+						<input type="hidden" name="3473_1241_2_1220" id="3473_1241_2_1220_4" value="1481" />
+						<input type="hidden" name="3473_1241_2_1220" id="3473_1241_2_1220_5" value="1401" />
+						<input type="hidden" name="3473_1241_2_1220" id="3473_1241_2_1220_6" value="1023" />
+						<input type="hidden" name="3473_1241_2_1220" id="3473_1241_2_1220_7" value="1022" />
+						<input type="hidden" name="3473_1241_2_1220" id="3473_1241_2_1220_8" value="1482" />
+						<input type="hidden" name="3473_1241_3_1240" id="3473_1241_3_1240" value="MJ_artbot3" />
+						<input type="hidden" name="3473_1241_4_1241" id="signup_url" value="unknown" />
+						<input type="hidden" name="s_src" value="website" />
+						<input type="hidden" name="s_subsrc" value="MJ_artbot3" />
+						<input type="hidden" name="cons_info_component" value="t" />
+						<input type="hidden" name="cons_mail_opt_in" value="t" />
+						<input type="hidden" name="cons_email_opt_in" value="true" />
+						<input type="hidden" name="cons_email_opt_in_requested" value="true" />
+						<input type="hidden" id="cons_email_format" name="cons_email_format" value="1">
+<input type="hidden" value="true" name="cons_email_format_requested" id="cons_email_format_requested">
+						<input id="cons_email" name="cons_email" size="25" style="font-size: 1.2em; padding: 5px; border-style: inset;border-width: 2px; color: #333333; text-align: left;" value="Your Email" onClick="if (this.value == 'Your Email') { this.value = '' }" type="text" />
+					</td>
+					<td>
+						<input id="newsletter-signup" src="/sites/all/themes/denali/images/newslettersignup_button.gif" alt="Sign Up" type="image" border="0" style="padding-top:6px;" name="ACTION_SUBMIT_SURVEY_RESPONSE" value="Submit" />
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</form>
+</div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+    </div>
+  
+</div></div> <!-- /node-inner, /node -->
+        </div>
+
+        
+                  <div id="content-bottom" class="region region-content_bottom">
+            <div id="block-disqus-disqus_comments" class="block block-disqus region-odd odd region-count-1 count-11 blockname-block-disqus-disqus-comments "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <div id="disqus_thread"></div><noscript><div class="disqus-noscript"><a href="http://motherjones.disqus.com/?url=http%3A%2F%2Fwww.motherjones.com%2Fnode%2F258221">View the discussion thread.</a></div></noscript>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-416" class="block block-block region-even even region-count-2 count-12 blockname-block-block-below-comments---comments-policy--feedback-form-link "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <div class="node" style="margin:20px 0; border-top: 1px solid #ccdad7; border-bottom: 1px solid #ccdad7; ">
+
+<p class="content" style="font-size:0.95em;">MoJo Troll Patrol encourages readers to sign in with Facebook, Twitter, Google, Yahoo, Disqus, or OpenID to comment. Please <a href="/about/interact-engage/comment-policy" target="_blank">read our comment policy</a> before posting.</p>
+
+</div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+          </div> <!-- /#content-bottom -->
+        
+      </div></div> <!-- /#content-inner, /#content -->
+
+      
+              <div id="sidebar-right"><div id="sidebar-right-inner" class="region region-right">
+          <div id="block-block-222" class="block block-block region-odd even region-count-1 count-2 blockname-block-block-rhs---my-mojo "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <style>
+#followmojo-newsletter #cons_email {
+width: 174px;
+}
+#followmojo-newsletter #submit {
+width: 81px;
+}
+/* fix ad issue */
+#_dvR_xT { height:0px;}
+
+</style>
+<div id="mymojo">
+<!-follow->
+<p class="special-relay">
+FOLLOW MOTHER JONES
+</p>
+<!-Follow Links->
+<div id="mymojo-links">
+<!-Twitter->
+<div class="twitter-follow" onclick="_gaq.push(['_trackEvent', 'Top Right Follow Box Twitter', 'Post-7-17-13', window.location.pathname]);">
+<a href="https://twitter.com/motherjones" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-size="large" data-width="80px" > </a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+<!-FB->
+<div class="facebook-follow">
+<div class="fb-like" data-href="http://facebook.com/motherjones" data-send="false" data-layout="button_count" data-width="140" data-show-faces="false" data-font="verdana" onclick="_gaq.push(['_trackEvent', 'Top Right Follow Box Facebook', 'Post-7-17-13', window.location.pathname]);"></div>
+</div>
+</div>
+<!-Newsletter->
+<div id="followmojo-newsletter">
+<form id="emailForm" method="POST" action="http://www.motherjones.com/cgi-bin/no-op.cgi" onsubmit="return MJ_validate_email(this);">
+<input type="hidden" name="SURVEY_ID" value="1241" />
+<input type="hidden" name="3473_1241_2_1220" id="3473_1241_2_1220_1" value="1027" />
+<input type="hidden" name="3473_1241_2_1220" id="3473_1241_2_1220_2" value="1481" />
+<input type="hidden" name="3473_1241_2_1220" id="3473_1241_2_1220_3" value="1401" />
+<input type="hidden" name="3473_1241_2_1220" id="3473_1241_2_1220_4" value="1023" />
+<input type="hidden" name="3473_1241_2_1220" id="3473_1241_2_1220_5" value="1022" />
+<input type="hidden" name="3473_1241_2_1220" id="3473_1241_2_1220_6" value="1482" />
+<input type="hidden" name="3473_1241_3_1240" id="3473_1241_3_1240" value="MJ_followbox" />
+<input type="hidden" name="3473_1241_4_1241" id="signup_url" value="unknown" />
+<input type="hidden" name="s_src" value="website" />
+<input type="hidden" name="s_subsrc" value="MJ_followbox" />
+<input type="hidden" name="cons_info_component" value="t" />
+<input type="hidden" name="cons_mail_opt_in" value="t" />
+<input type="hidden" name="cons_email_opt_in" value="true" />
+<input type="hidden" name="cons_email_opt_in_requested" value="true" />
+<input type="hidden" id="cons_email_format" name="cons_email_format" value="1">
+<input type="hidden" value="true" name="cons_email_format_requested" id="cons_email_format_requested">
+<input type="hidden" name="ACTION_SUBMIT_SURVEY_RESPONSE" id="ACTION_SUBMIT_SURVEY_RESPONSE" value="Submit" />
+<input gtbfieldid="27" id="cons_email" name="cons_email" value="Your email" onclick="if (this.value == 'Your email')
+{ this.value = '' }
+" type="text" class="">
+<button alt="SIGN UP" height="25" border="0" type="image" id="submit" value="Submit" onclick="_gaq.push(['_trackEvent', 'Top Right Follow Box Email Signup', 'Post-7-17-13', window.location.pathname]);">SIGN UP</button></form>
+</div>
+</div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-301" class="block block-block region-even odd region-count-2 count-3 blockname-block-block-rhs---subpages-billboard-ad "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <style type="text/css">
+<!--
+.node-type-defendant #sidebar-right div.advertise-top {display: none;}
+-->
+</style>
+
+<div class="advertise-top"></div>
+<script language="javascript"> 
+<!-- 
+if (typeof MJ_HideRightColAds === 'undefined') {
+  ad_code('righttopros',170);
+}  
+//--> 
+</script>
+<p class="post-continues post-continued-from-above"><a href="/about/advertising/contact-form"><em>Advertise on MotherJones.com</em></a></p>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-23" class="block block-block region-odd even region-count-3 count-4 blockname-block-block-got-a-tip "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <a href="/about/got-tip" ><img src="http://assets.motherjones.com/sitewide/TipBox_Raleway_BlackBkgdRedDot.gif" width="300" height="64" class="hover-opacity"></a>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-60" class="block block-block region-even odd region-count-4 count-5 blockname-block-block-subscribe-for-10----global-sidebar-form "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <style type="text/css">
+.block-package-data-container ul h3 {font-size:0.85em;
+font-weight:normal;}
+#node-header-data ul.article-tools {display: block;}
+.node-type-blogpost div.package-header-image {margin-top:10px;}
+#dsq-content .dsq-comment-footer-left {visibility: visible;}
+.page-search-apachesolr-search div.tabs {display: none;}
+#block-views-frontpage_stories-block_2 .view-frontpage-stories .views-field-field-byline-nid {white-space: normal;}
+.author-data  {margin-top:-0.5em; margin-left: 70px;}
+.no-image {margin-left: 0;}
+.author-bio .author-rss, .author-bio .twitter-link {font-size: 0.91em;}
+h3.home_delivery{
+font-size: 20px;
+line-height: 20px;
+padding: 0px;
+margin: -2px 0px 7px 0px;
+font-weight: bold;
+font-family: "Raleway",Helvetica,Arial,sans-serif;
+}
+div.subscribe2 {
+border-radius: 5px;
+background-color: #e12300;
+margin: 2px 35px 0 5px;
+padding: 3px 10px;
+text-transform: uppercase;
+color: #fff;
+text-align: center;
+font-family: "Raleway",Helvetica,Arial,sans-serif;
+font-weight: bold;
+clear: both;
+float: right;
+}
+div#subform {
+display: relative;
+padding: 15px;
+margin: 0px;
+width: 270px;
+}
+</style>
+
+<div id="subform" class="biz relative">
+<h3 class="special_relay home_delivery">
+GET HOME DELIVERY
+</h3>
+<img src="http://assets.motherjones.com/sitewide/MJ_Newsubscribeform_maraprl15.png" name="cover" width="42%" id="cover" style="padding-top:6px;" alt="Save 72% on Mother Jones"/>
+<form id="subscribe_me" method="post"> 
+    <input  type="text" name="a_first_name" id="a_first_name" class="first" style="width: 148px;"/> 
+    <p>First name</p> 
+    <input  type="text" name="a_last_name" id="a_last_name" style="width: 148px;"/> 
+    <p>Last name</p> 
+    <input  type="text" name="a_address_1" id="a_address_1" style="width: 148px;" /> 
+    <p>Address</p> 
+    <input  type="text" name="a_city" id="a_city" style="width: 148px;"/> 
+    <p>City</p>
+    <table cellpadding="0" cellspacing="0" style="margin:0;padding:0;width:153px;"><tr><td>
+    <select name="a_state" id="a_state" style="width: 60px;"> 
+<option value=''>--</option>
+<option label="AA" value="AA">AA</option>
+<option label="AE" value="AE">AE</option>
+<option label="AK" value="AK">AK</option>
+<option label="AL" value="AL">AL</option>
+<option label="AP" value="AP">AP</option>
+<option label="AR" value="AR">AR</option>
+<option label="AS" value="AS">AS</option>
+<option label="AZ" value="AZ">AZ</option>
+<option label="CA" value="CA">CA</option>
+<option label="CO" value="CO">CO</option>
+<option label="CT" value="CT">CT</option>
+<option label="DC" value="DC">DC</option>
+<option label="DE" value="DE">DE</option>
+<option label="FL" value="FL">FL</option>
+<option label="FM" value="FM">FM</option>
+<option label="GA" value="GA">GA</option>
+<option label="GU" value="GU">GU</option>
+<option label="HI" value="HI">HI</option>
+<option label="IA" value="IA">IA</option>
+<option label="ID" value="ID">ID</option>
+<option label="IL" value="IL">IL</option>
+<option label="IN" value="IN">IN</option>
+<option label="KS" value="KS">KS</option>
+<option label="KY" value="KY">KY</option>
+<option label="LA" value="LA">LA</option>
+<option label="MA" value="MA">MA</option>
+<option label="MD" value="MD">MD</option>
+<option label="ME" value="ME">ME</option>
+<option label="MH" value="MH">MH</option>
+<option label="MI" value="MI">MI</option>
+<option label="MN" value="MN">MN</option>
+<option label="MP" value="MP">MP</option>
+<option label="MS" value="MS">MS</option>
+<option label="MO" value="MO">MO</option>
+<option label="MT" value="MT">MT</option>
+<option label="NC" value="NC">NC</option>
+<option label="ND" value="ND">ND</option>
+<option label="NE" value="NE">NE</option>
+<option label="NH" value="NH">NH</option>
+<option label="NJ" value="NJ">NJ</option>
+<option label="NM" value="NM">NM</option>
+<option label="NV" value="NV">NV</option>
+<option label="NY" value="NY">NY</option>
+<option label="OH" value="OH">OH</option>
+<option label="OK" value="OK">OK</option>
+<option label="OR" value="OR">OR</option>
+<option label="PA" value="PA">PA</option>
+<option label="PR" value="PR">PR</option>
+<option label="PW" value="PW">PW</option>
+<option label="RI" value="RI">RI</option>
+<option label="SC" value="SC">SC</option>
+<option label="SD" value="SD">SD</option>
+<option label="TN" value="TN">TN</option>
+<option label="TX" value="TX">TX</option>
+<option label="UM" value="UM">UM</option>
+<option label="UT" value="UT">UT</option>
+<option label="VA" value="VA">VA</option>
+<option label="VI" value="VI">VI</option>
+<option label="VT" value="VT">VT</option>
+<option label="WA" value="WA">WA</option>
+<option label="WI" value="WI">WI</option>
+<option label="WV" value="WV">WV</option>
+<option label="WY" value="WY">WY</option>
+ </select> 
+    <p style="width: 55px; float:left; clear:left;">State</p></td>
+    <td><input type="text" name="a_zip" id="a_zip" style="width: 73px; float:left; margin-left: 7px; " />   
+    <p style="width: 80px; float:left; margin-left: 7px;clear:left; ">Zip</p></td></tr>
+    </table>
+   
+  </form> 
+  <div class="subscribe2"onclick="javascript:document.getElementById('subscribe_me').submit();" > 
+Subscribe Now!
+</div>
+</div>
+<script type="text/javascript">
+    var action_url = "https://secure.motherjones.com/fnp/?action=SUBSCRIPTION&a_edition_code=P&list_source="; 
+    var url_to_source = {
+        '/': 'S28TA',
+        '/politics': 'S35POL',
+        '/environment': 'S35ENV',
+        '/media': 'S35MED',
+        '/photoessays': 'S35PHO'
+    };
+    action_url = action_url + (url_to_source[window.location.pathname] || 'SEMBED');
+    $('form#subscribe_me').attr('action', action_url);
+</script>
+
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-views-popular-block_1" class="block block-views region-odd even region-count-5 count-6 blockname-block-views-popular-popular-on-mother-jones-block "><div class="block-inner">
+
+      <h2 class="title">Popular on Mother Jones</h2>
+  
+  <div class="content clear-block">
+    <div class="view view-popular view-id-popular view-display-id-block_1 view-dom-id-1">
+        <div class="view-header">
+      <style type="text/css">
+<!--
+#block-views-popular-block_1 span.byline {
+  display: block;
+  width: 190px;
+  float:right;
+}
+
+#block-views-popular-block_1 div span.byline p.byline {     
+ margin-left: 0;
+}
+
+-->
+</style>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row clear-block views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-master-image-fid">
+                <span class="field-content"><a href="/politics/2015/03/mitt-romney-email-hillary-clinton" class="imagecache imagecache-right-sidebar-images imagecache-linked imagecache-right-sidebar-images_linked"><img src="http://www.motherjones.com/files/imagecache/right-sidebar-images/romneyphone.jpg" alt="Mitt Romney" title="" width="110" height="72" class="imagecache imagecache-right-sidebar-images"/></a></span>
+  </div>
+    
+  <div class="views-field views-field-title">
+                <span class="field-content"><h3 class="title"><a href="/politics/2015/03/mitt-romney-email-hillary-clinton">Mitt Romney&#039;s Email Hypocrisy</a></h3></span>
+  </div>
+    </div>
+  <div class="views-row clear-block views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-master-image-fid">
+                <span class="field-content"><a href="/mojo/2015/03/income-inequality-chart-wall-street-bonuses-minimum-wage" class="imagecache imagecache-right-sidebar-images imagecache-linked imagecache-right-sidebar-images_linked"><img src="http://www.motherjones.com/files/imagecache/right-sidebar-images/wall-st-630.jpg" alt="" title="" width="110" height="72" class="imagecache imagecache-right-sidebar-images"/></a></span>
+  </div>
+    
+  <div class="views-field views-field-title">
+                <span class="field-content"><h3 class="title"><a href="/mojo/2015/03/income-inequality-chart-wall-street-bonuses-minimum-wage">If You Own a Pitchfork, You Will Grab It When You See This Chart</a></h3></span>
+  </div>
+    </div>
+  <div class="views-row clear-block views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-master-image-fid">
+                <span class="field-content"><a href="/environment/2015/03/brian-wansink-cornell-junk-food-health" class="imagecache imagecache-right-sidebar-images imagecache-linked imagecache-right-sidebar-images_linked"><img src="http://www.motherjones.com/files/imagecache/right-sidebar-images/junk_a_630x354_0.jpg" alt="Brian Wansink" title="" width="110" height="72" class="imagecache imagecache-right-sidebar-images"/></a></span>
+  </div>
+    
+  <div class="views-field views-field-title">
+                <span class="field-content"><h3 class="title"><a href="/environment/2015/03/brian-wansink-cornell-junk-food-health">This Fast-Food-Loving, Organics-Hating Ivy League Prof Will Trick You Into Eating Better</a></h3></span>
+  </div>
+    </div>
+  <div class="views-row clear-block views-row-4 views-row-even">
+      
+  <div class="views-field views-field-field-master-image-fid">
+                <span class="field-content"><a href="/politics/2015/03/miriam-carey-whitehouse-rammer-police-death" class="imagecache imagecache-right-sidebar-images imagecache-linked imagecache-right-sidebar-images_linked"><img src="http://www.motherjones.com/files/imagecache/right-sidebar-images/miriam-carey-memorial-630.jpg" alt="Miriam Carey" title="" width="110" height="72" class="imagecache imagecache-right-sidebar-images"/></a></span>
+  </div>
+    
+  <div class="views-field views-field-title">
+                <span class="field-content"><h3 class="title"><a href="/politics/2015/03/miriam-carey-whitehouse-rammer-police-death">How a Confused Mom Drove Through a White House Checkpoint and Ended Up Dead</a></h3></span>
+  </div>
+    </div>
+  <div class="views-row clear-block views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-field-master-image-fid">
+                <span class="field-content"><a href="/environment/2015/03/killing-coyotes-bobcats-and-foxes-fun-and-profit" class="imagecache imagecache-right-sidebar-images imagecache-linked imagecache-right-sidebar-images_linked"><img src="http://www.motherjones.com/files/imagecache/right-sidebar-images/many.jpg" alt="" title="" width="110" height="72" class="imagecache imagecache-right-sidebar-images"/></a></span>
+  </div>
+    
+  <div class="views-field views-field-title">
+                <span class="field-content"><h3 class="title"><a href="/environment/2015/03/killing-coyotes-bobcats-and-foxes-fun-and-profit">These Gory New Hunting Competitions Have Taken the Country by Storm</a></h3></span>
+  </div>
+    </div>
+  <div class="views-row clear-block views-row-6 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-master-image-fid">
+                <span class="field-content"><a href="/environment/2014/03/junk-food-stamps-snap" class="imagecache imagecache-right-sidebar-images imagecache-linked imagecache-right-sidebar-images_linked"><img src="http://www.motherjones.com/files/imagecache/right-sidebar-images/cart-master.gif" alt="" title="" width="110" height="72" class="imagecache imagecache-right-sidebar-images"/></a></span>
+  </div>
+    
+  <div class="views-field views-field-title">
+                <span class="field-content"><h3 class="title"><a href="/environment/2014/03/junk-food-stamps-snap">People on Food Stamps Make Healthier Grocery Decisions Than Most of Us</a></h3></span>
+  </div>
+    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-546" class="block block-block region-even odd region-count-6 count-7 blockname-block-block-sidebar---donate-drop-down "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <style>
+.kindle {
+position: relative;
+padding: 15px;
+margin: 0px;
+display: inline-block;
+background-color: #ddd;
+}
+.kindle img {
+float: right;
+padding: 0px;
+margin: 0px;
+}
+.kindle h2, .kindle p {
+padding: 7px 0px 0px 0px;
+margin: 0px;
+font-size: 12px;
+font-color: #000;
+font-family: Verdana,Tahoma,Arial,Helvetica,"Bitstream Vera Sans",sans-serif;
+}
+.kindle h2 {
+padding: 10px 0px 0px 0px;
+font-size: 20px;
+padding: 0px;
+margin: -2px 0px 0px 0px;
+font-family: "Raleway",Helvetica,Arial,sans-serif;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 20px;
+}
+div.subscribe {
+width: 100px;
+border-radius: 5px;
+background-color: #e12300;
+padding: 3px;
+margin: 10px 25px 0px 25px;
+text-transform: uppercase;
+color: #fff;
+text-align: center;
+font-family: "Raleway",Helvetica,Arial,sans-serif;
+font-weight: bold;
+}
+</style>
+<a class="kindle" onclick="_gaq.push(['_trackEvent', 'Kindle Promotion 2013', 'Right Click', window.location.pathname]);" target="_blank" href="http://www.amazon.com/Mother-Jones/dp/B008E88JUI">
+<img src="http://assets.motherjones.com/sitewide/kindle_MA14-ddd.png" alt="Kindle edition"  />
+<h2>Have A Kindle?</h2>
+<p>Read <em>Mother Jones</em> on any Kindle&mdash;including Paperwhite and Fire&mdash;for just $1 a month.</p>
+<div class="subscribe">Subscribe</div>
+</a>
+
+<style type="text/css">
+body #sidebar-right div#block-views-alumni_love-block {
+    border-bottom: none !important;
+}
+</style>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-506" class="block block-block region-odd even region-count-7 count-8 blockname-block-block-rhc-secondary-follow-mojo-box "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <div class="elsewhere-follow-light hover-opacity">
+<h2 class="title">More Ways to Get your MoJo</h2>
+<style>
+button.social {
+    background-color:#00A0D1;
+    height:32px;
+    width:32px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius:2px;
+    border-radius:2px;
+    border:0px;
+    font-size:18px;
+}
+div.follow form{
+    position: absolute;
+}
+button.social:hover {
+    opacity: 0.7;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+    border-radius:4px;
+}
+div.social-container {
+    display: inline;
+    position: relative;
+    left: 34px;
+    line-height: 32px;
+}
+
+div.follow a{
+    border-bottom: 1px dotted #000
+}
+div.follow a:hover{
+    font-color: #e00;
+}
+</style>
+
+<!--FACEBOOK-->
+<div class="facebook-follow follow first" style="padding-bottom:0px;">
+<form style="" action="http://facebook.com/motherjones" method="get" target="_blank">
+<button class="social" style="background-color:#3B5998;">
+<i class="icon-facebook" style="color:#fff"></i></a>
+</button></form>
+<div style="float:left; margin:0px 10px 0 8px;"><div class="social-container" style="padding-bottom:0px;margin-right:10px;">
+<div style="line-height: 0px" class="fb-like" data-href="http://facebook.com/motherjones" data-send="false" data-width="220" data-show-faces="false" data-font="verdana" data-layout="button_count" ></div></div></div>
+</div>
+<!--TWITTER-->
+<div class="twitter-follow follow" style="padding-bottom:0px;">
+<form style="display: inline" action="https://twitter.com/motherjones" method="get" target="_blank">
+     <button class="social" style="background-color:#00A0D1;">
+         <i class="icon-twitter" style="color:#fff;"></i>
+    </button>
+</form>&nbsp;
+<div class="social-container">
+<a href="https://twitter.com/motherjones" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false" data-width="240">Follow @motherjones</a>
+<!-- this screipt is already being called in primary follow box: <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> -->
+</div></div>
+
+<!--TUMBLR ICON-->
+<div class="tumblr-follow follow">
+<form style="display: inline" action="http://motherjones.tumblr.com/" method="get" target="_blank">
+<button class="social" style="background-color:#2C4762;" class="tumblr" target="_blank" title="Mother Jones on Tumblr">
+         <i class="icon-tumblr" style="color:#fff;"></i>
+ </button>
+</form>&nbsp;
+<div class="social-container">
+<span class="follow-text">Check out <em>Mother Jones</em>' <a href="http://motherjones.tumblr.com/" target="_blank">Tumblr</a> alter ego.</span>
+</div>
+
+
+</div>
+<!--GOOGLE-->
+<div class="google-follow follow ">
+<form style="display: inline" action="https://plus.google.com/111878759287619999687" target="_blank" method="get">
+     <button class="social" style="background-color:#d34836;">
+         <i class="icon-google-plus" style="color:#fff;"></i>
+    </button>
+</form>&nbsp;
+<div class="social-container">
+<span class="follow-text">Add us to your <a href="https://plus.google.com/111878759287619999687" target="_blank">circles</a>.</span>
+</div></div>
+<!--RSS ICON-->
+<div class="rss-follow follow" >
+<form style="display: inline" action="/about/rss" target="_blank" method="get">
+     <button class="social" style="background-color:#FF6600;">
+         <i class="icon-rss" style="color:#fff;"></i>
+    </button>
+</form>&nbsp;
+<div class="social-container">RSS junkie?  <a href="/about/rss">Here's</a> your fix.</div>
+</div>
+
+<!--YouTube ICON-->
+<div class="youtube-follow follow" >
+<form style="display: inline" action="https://www.youtube.com/motherjonesvideo" method="get" target="_blank">
+     <button class="social" style="background-color:#fff;">
+         <i class="icon-youtube" style="color:#bb0000;font-size:30px;"></i>
+    </button>
+</form>&nbsp;<div class="social-container">Subscribe to our <a href="https://www.youtube.com/subscription_center?add_user=motherjonesvideo">YouTube</a> channel.</div>
+</div>
+
+
+</div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-46" class="block block-block region-even odd region-count-8 count-9 blockname-block-block-intune--inprint-sidebar-block "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <style type="text/css">
+
+h2.title.grey_button {
+   background-color: #fff;
+   width: 292px;
+}
+.grey_button {
+   text-transform: uppercase;
+}
+</style>
+
+<h2 class="title grey_button">Support our Advertisers</h2>
+<a class="grey_button" href="/advertisements/education">Education</a>
+<a class="grey_button" href="/about/giving-guide">Gift Guide</a>
+<h2 class="title grey_button">Advertise on Mother Jones</h2>
+<a class="grey_button" style="width:292px;margin:0px" href="http://mediakit.motherjones.com"><em>Mother Jones</em> Media Kit</a>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-516" class="block block-block region-odd even region-count-9 count-10 blockname-block-block-rhs---subpages-billboard-ad-bottom "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <div class="advertise-top"></div>
+<script language="javascript"> 
+<!-- 
+if (typeof MJ_HideRightColAds === 'undefined') {
+  ad_code('rightbottomros',170);
+}  
+//--> 
+</script>
+<p class="post-continues post-continued-from-above"><a href="/about/advertising/contact-form"><em>Advertise on MotherJones.com</em></a></p>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+        </div></div> <!-- /#sidebar-right-inner, /#sidebar-right -->
+      
+    </div></div> <!-- /#main-inner, /#main -->
+    
+          <div id="page-closure"><div id="page-closure-inner" class="region">
+        <div id="block-block-58" class="block block-block region-odd even region-count-1 count-24 blockname-block-block-page-closure-leaderboard "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <div style="margin-right:auto;margin-left:auto;width: 728px;">
+<script language="javascript"> 
+<!-- 
+ad_code('bottomros',225);
+//--> 
+</script> 
+</div>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-views-photoessay-block_1" class="block block-views region-even odd region-count-2 count-25 blockname-block-views-photoessays-block---horizontal-page-footer "><div class="block-inner">
+
+      <h2 class="title"><a href="/photoessays">Photo Essays</a> + <a href="/slideshows">Slideshows</a></h2>
+  
+  <div class="content clear-block">
+    <div class="view view-photoessay view-id-photoessay view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      <style>
+    .photoessay-area .section-listing-container {
+        width: 425px;
+    }
+    .view-display-id-block_1 .photoessay-area .section-listing-container {
+        width: 100%;
+    }
+    .view-display-id-block_1 .photoessay-area.top-dotted-line {
+        border: 0px;
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+    h4.dek-view a {
+        font-size: 12px !important;
+    }
+    .view-display-id-page_1 p.byline, .view-display-id-page_1 p.byline a {
+        font-size: 11px !important;
+        border-bottom: 1px dotted;
+    }
+    .view-display-id-page_1 p.byline a:hover {
+        text-decoration: underline !important;
+    }
+</style>
+  <div class="views-row clear-block views-row-1 views-row-odd views-row-first photoessay-area">
+      
+  <div class="views-field views-field-field-master-image-fid">
+                <span class="field-content"><a href="/media/2013/12/photos-east-germany-stasi-simon-menner-surveillance" class="imagecache imagecache-node-gallery-master-bottom-block imagecache-linked imagecache-node-gallery-master-bottom-block_linked"><img src="http://mjcdn.motherjones.com/preset_47/menner-header-630x354.jpg" alt="" title=""  class="imagecache imagecache-node-gallery-master-bottom-block" /></a></span>
+  </div>
+  <div class="section-listing-container">  
+  <div class="views-field views-field-title">
+                <span class="field-content"><h3 class="title"><a href="/media/2013/12/photos-east-germany-stasi-simon-menner-surveillance">Spy Camp: Photos From East Germany&#039;s Secret Intelligence Files</a></h3></span>
+  </div>
+    
+  <div class="views-field views-field-field-dek-value">
+                <div class="field-content"><h4 class="dek-view"><a href="/media/2013/12/photos-east-germany-stasi-simon-menner-surveillance">A new book documents the absurd and terrifying history of the Stasi.</a></h4></div>
+  </div>
+  </div>  </div>
+  <div class="views-row clear-block views-row-2 views-row-even photoessay-area top-dotted-line">
+      
+  <div class="views-field views-field-field-master-image-fid">
+                <span class="field-content"><a href="/politics/2015/02/robert-okin-silent-voices-homeless-san-francisco" class="imagecache imagecache-node-gallery-master-bottom-block imagecache-linked imagecache-node-gallery-master-bottom-block_linked"><img src="http://www.motherjones.com/files/imagecache/node-gallery-master-bottom-block/master_48.jpg" alt="" title="" width="229" height="128" class="imagecache imagecache-node-gallery-master-bottom-block"/></a></span>
+  </div>
+  <div class="section-listing-container">  
+  <div class="views-field views-field-title">
+                <span class="field-content"><h3 class="title"><a href="/politics/2015/02/robert-okin-silent-voices-homeless-san-francisco">Heartbreaking Photos and Tragic Tales of San Francisco&#039;s Homeless</a></h3></span>
+  </div>
+    
+  <div class="views-field views-field-field-dek-value">
+                <div class="field-content"><h4 class="dek-view"><a href="/politics/2015/02/robert-okin-silent-voices-homeless-san-francisco">Psychiatrist Robert Okin spent years getting to know the city&#039;s street people. Now he&#039;s sharing their stories. </a></h4></div>
+  </div>
+  </div>  </div>
+  <div class="views-row clear-block views-row-3 views-row-odd photoessay-area top-dotted-line">
+      
+  <div class="views-field views-field-field-master-image-fid">
+                <span class="field-content"><a href="/media/2013/03/claressa-shields-flint-photos-olympic-boxer-gold-medal" class="imagecache imagecache-node-gallery-master-bottom-block imagecache-linked imagecache-node-gallery-master-bottom-block_linked"><img src="http://mjcdn.motherjones.com/preset_47/383in_claressa_a.jpg" alt="Claressa &quot;T-Rex&quot; Shields" title=""  class="imagecache imagecache-node-gallery-master-bottom-block" /></a></span>
+  </div>
+  <div class="section-listing-container">  
+  <div class="views-field views-field-title">
+                <span class="field-content"><h3 class="title"><a href="/media/2013/03/claressa-shields-flint-photos-olympic-boxer-gold-medal">No Endorsements, No Problem: Boxing Gold Medalist Claressa Shields Keeps Fighting</a></h3></span>
+  </div>
+    
+  <div class="views-field views-field-field-dek-value">
+                <div class="field-content"><h4 class="dek-view"><a href="/media/2013/03/claressa-shields-flint-photos-olympic-boxer-gold-medal">Back home in Michigan, the Olympian juggles homework, dating—and a strict training schedule.  </a></h4></div>
+  </div>
+  </div>  </div>
+  <div class="views-row clear-block views-row-4 views-row-even views-row-last photoessay-area top-dotted-line">
+      
+  <div class="views-field views-field-field-master-image-fid">
+                <span class="field-content"><a href="/photoessays/2010/02/congo-photo-essay-gold-mining-diamonds" class="imagecache imagecache-node-gallery-master-bottom-block imagecache-linked imagecache-node-gallery-master-bottom-block_linked"><img src="http://www.motherjones.com/files/imagecache/node-gallery-master-bottom-block/congo-mining630.jpg" alt="" title="" width="229" height="128" class="imagecache imagecache-node-gallery-master-bottom-block"/></a></span>
+  </div>
+  <div class="section-listing-container">  
+  <div class="views-field views-field-title">
+                <span class="field-content"><h3 class="title"><a href="/photoessays/2010/02/congo-photo-essay-gold-mining-diamonds">The Congo&#039;s Midas Curse</a></h3></span>
+  </div>
+    
+  <div class="views-field views-field-field-dek-value">
+                <div class="field-content"><h4 class="dek-view"><a href="/photoessays/2010/02/congo-photo-essay-gold-mining-diamonds">Meet the men and women who bring you the bling.</a></h4></div>
+  </div>
+  </div>  </div>
+
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p class="more-link"><a href="/photoessays">See All</a></p>    </div>
+  
+  
+</div>   </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+      </div></div> <!-- /#page-closure -->
+    
+  </div></div> <!-- /#page-inner, /#page -->
+  
+  <div id="page-footer">
+    <div id="page-footer-inner">
+              <div id="footer"><div id="footer-inner" class="region region-footer">
+      
+                
+          <div id="block-block-2" class="block block-block region-odd even region-count-1 count-14 blockname-block-block-footer---logo-menu-rss-copyright "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <div id="footer-mojo-link"><a href="/">Mother Jones</a></div>
+<div id="footer-mojo-tagline">Reader Supported Journalism</div>
+<div id="footerLinks">
+<div class="left">
+<ul>
+    <li><a href="/about">About Us</a></li>
+    <li><a href="/about/jobs">Jobs</a></li>
+    <li><a href="/about/contact">Contact Us</a></li>
+    <li><a href="/about/privacy-policy">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="center">
+<ul>
+    <li><a href="/about/support">Make a Donation</a></li>
+    <li><a href="/about/leave-legacy">Leave A Legacy</a></li>
+    <li><a href="/about/ben-bagdikian-fellowship-program">Ben Bagdikian Fellowship</a></li>
+    <li><a href="/about/terms">Terms of Service</a></li>
+</ul>
+</div>
+<div class="right">
+<ul>
+    <li><a href="http://mediakit.motherjones.com/mk">Advertise</a></li>
+    <li><a href="/about/press">Press</a></li>
+    <li><a href="https://online.icnfull.com/fnp/?action=SUBSCRIPTION&amp;list_source=SFOOTR&amp;a_edition_code=P">Subscribe</a></li>
+    <li><a href="/about/events">Events</a></li>
+</ul>
+</div>
+</div>
+<div id="footer-rss"><a href="/about/rss/">RSS</a></div>
+<div id="copyright">Copyright &copy;2015 Mother Jones and the Foundation for National Progress. All Rights Reserved.</div>
+<script>
+  twttr.ready(function (twttr) {
+    twttr.events.bind('follow',
+        function (intent_event) {
+            _gaq.push(['_trackEvent', 'Right Hand Column', 'Right Hand Column Twitter Follow', window.location.pathname]);
+        })
+    twttr.events.bind('tweet',
+        function (intent_event) {
+            if (intent_event) {
+              var clicklocation;
+              if (jQuery(intent_event.target).parent().parent().parent().parent().attr('id') === 'node-header') {
+                    clicklocation = 'Content Top';
+              } else if (jQuery(intent_event.target).parent().parent().parent().attr('id') === 'node-footer') {
+                    clicklocation = 'Content Bottom';
+              } else {
+                   console.log('could not determine which like was clicked, event came from ')
+                   console.log(intent_event);
+                   return;
+              }
+              _gaq.push(['_trackEvent', clicklocation, clicklocation + ' Twitter Tweet', window.location.pathname]);
+           }
+        }
+    )
+  });
+FB.Event.subscribe('edge.create', function(targetUrl, widget) {
+console.log('fb liking');
+    var clicklocation;
+    var action_type;
+      if (jQuery(widget).parent().parent().parent().parent().parent().parent().parent().attr('id') === "sidebar-right-inner") {
+            clicklocation = 'Right Hand Column'
+            action_type = 'Right Hand Column Facebook Follow';
+      } else if (jQuery(widget).parent().parent().parent().parent().attr('id') === 'node-header') {
+            clicklocation = 'Content Top';
+            action_type = 'Content Top Facebook Like';
+      } else if (jQuery(widget).parent().parent().parent().attr('id') === 'node-footer') {
+            clicklocation = 'Content Bottom';
+            action_type = 'Content Bottom Facebook Like';
+      } else {
+           console.log('could not determine which like was clicked, event came from ')
+           console.log(widget);
+           return;
+      }
+        _gaq.push(['_trackEvent', clicklocation, action_type, window.location.pathname]);
+});
+</script>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+      
+        </div></div> <!-- /#footer-inner, /#footer -->
+        </div></div> <!-- /#page-footer-inner, /#page-footer -->
+  
+
+  
+
+      <div id="closure-blocks" class="region region-closure"><div id="block-block-706" class="block block-block region-odd odd region-count-1 count-15 blockname-block-block-pixel-ad-block "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <!--JavaScript Tag // Tag for network 5443: Mother Jones // Website: www.motherjones.com // Page: ROS // Placement: Pixel1ROS (3219782) // created at: Jun 12, 2014 5:32:04 PM-->
+<script language="javascript"> 
+<!-- 
+ad_code('pixel1ros',16);
+//--> 
+</script> 
+<!-- End of JavaScript Tag -->  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-33" class="block block-block region-even even region-count-2 count-16 blockname-block-block-analytics-code "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <!-- Begin comScore Tag -->
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:8027488,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8027488&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-Be0QSW1bbb6Qv"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-Be0QSW1bbb6Qv.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-411" class="block block-block region-odd odd region-count-3 count-17 blockname-block-block-ga-event-tracking "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <script type="text/javascript">
+
+$(document).ready(function() {
+  var gaEventCategory = null;
+  var bodyClasses = $('body').attr('class');
+  var gaEventAction = 'LinkClick';
+  var bodyClassesArray = bodyClasses.split(' ');
+  
+  if (jQuery.inArray('front', bodyClassesArray) != -1) {
+    gaEventCategory = 'areaTracking_front';
+    
+    var areaSelectorArray = ['body.front .view-display-id-panel_pane_1 ',
+    'body.front .center-wrapper-above .pane-frontpage-stories',
+    'body.front .pane-views-photoessay-block-3 ',
+    'body.front .pane-motherjones-custom-7 ',
+    'body.front contributors: .pane-motherjones-custom-6 ',
+    'body.front .center-wrapper-below .pane-frontpage-stories',
+    'body.front .pane-views-feedback-block-1 ',
+    'body.front #mymojo ',
+    'body.front .view-most-must-read ',
+    'body.front #disqus-mostpopular ',
+    'body.front #block-block-4 ',
+    'body.front #block-motherjones_custom-8 ',
+    'body.front #block-views-alumni_love-block ',
+    'body.front #block-views-interns-block_1 ',
+    'body.front #front-page-article-lists ',
+    'body.front #footerlinks '
+    ];
+  } else if (jQuery.inArray('node-type-article', bodyClassesArray) != -1) {
+    gaEventCategory = 'areaTracking_article';
+    
+    var areaSelectorArray = ['body.node-type-article #node-header',
+    'body.node-type-article #node-body-top',
+    'body.node-type-article #node-body-bottom',
+    'body.node-type-article #node-footer',
+    'body.node-type-article #related-articles',
+    'body.node-type-article #mymojo',
+    'body.node-type-article div.blockname-block-views-todays-top-stories',
+    'body.node-type-article div.view-most-must-read',
+    'body.node-type-article div.disqus-mostpopular',
+    'body.node-type-article div.blockname-block-block-intune--inprint-sidebar-block',
+    'body.node-type-article #ticker',
+    'body.node-type-article #primary',
+    'body.node-type-article #block-views-photoessay-block_1',
+    'body.node-type-article #footerlinks'
+    ];
+  } else if (jQuery.inArray('node-type-blogpost', bodyClassesArray) != -1) {
+
+    gaEventCategory = 'areaTracking_blogpost';
+    
+    var areaSelectorArray = ['body.node-type-blogpost #node-header',
+    'body.node-type-blogpost #blog-nav',
+    'body.node-type-blogpost #node-body-top',
+    'body.node-type-blogpost #node-body-bottom',
+    'body.node-type-blogpost #node-footer',
+    'body.node-type-blogpost #related-articles',
+    'body.node-type-blogpost #mymojo',
+    'body.node-type-blogpost div.blockname-block-views-todays-top-stories',
+    'body.node-type-blogpost div.view-most-must-read',
+    'body.node-type-blogpost div.disqus-mostpopular',
+    'body.node-type-blogpost div.blockname-block-block-intune--inprint-sidebar-block',
+    'body.node-type-blogpost #ticker',
+    'body.node-type-blogpost #primary',
+    'body.node-type-blogpost #block-views-photoessay-block_1',
+    'body.node-type-blogpost #footerlinks'
+    ];
+  } else if (jQuery.inArray('node-type-photoessay-image', bodyClassesArray) != -1) {
+
+    gaEventCategory = 'areaTracking_photoessay-image';
+    
+    var areaSelectorArray = ['body.node-type-photoessay-image .sidebar-right a.photoessay-forward',
+    'body.node-type-photoessay-image .sidebar-right a.photoessay-back',
+    'body.node-type-photoessay-image .sidebar-right a.photoessay-rewind',
+    'body.node-type-photoessay-image .photoessay-controls a.photoessay-forward',
+    'body.node-type-photoessay-image .photoessay-controls a.photoessay-back',
+    'body.node-type-photoessay-image .photoessay-controls a.photoessay-rewind',
+    'body.node-type-photoessay-image #related-articles',
+    'body.node-type-photoessay-image div.blockname-block-views-todays-top-stories',
+    'body.node-type-photoessay-image #primary',
+    'body.node-type-photoessay-image #footerlinks',
+    'body.node-type-photoessay-image a.colorbox-thumbs',
+    'body.node-type-photoessay-image a.larger-image-link',
+    'body.node-type-photoessay-image a.see-all',
+    'body.node-type-photoessay-image .photoessay-essay a',
+    'body.node-type-photoessay-image #node-footer',
+    'body.node-type-photoessay-image #node-footer div.fblike_btn',
+    'body.node-type-photoessay-image .photoessay-share-buttons',
+    'body.node-type-photoessay-image .photoessay-share-buttons div.fblike_btn',
+    'body.node-type-photoessay-image .sidebar-right .view-id-photoessay',
+    'body.node-type-photoessay-image #block-block-60',
+    'body.node-type-photoessay-image #block-block-396'
+    ];
+  } else if (jQuery.inArray('page-politics', bodyClassesArray) != -1) {
+    gaEventCategory = 'areaTracking_politics';
+    
+    var areaSelectorArray = ['body.page-politics div.views-row-1',
+    'body.page-politics div.view-section-page-articles',
+    'body.page-politics #mymojo',
+    'body.page-politics div.blockname-block-views-todays-top-stories',
+    'body.page-politics div.view-most-must-read',
+    'body.page-politics div.disqus-mostpopular',
+    'body.page-politics div.blockname-block-block-intune--inprint-sidebar-block',
+    'body.page-politics #ticker',
+    'body.page-politics #primary',
+    'body.page-politics #footerlinks'
+    ];
+  }
+  if (gaEventCategory != null) {
+    for (var selector in areaSelectorArray) {
+      $(areaSelectorArray[selector] + ' a').click(function(selectorString) { return function(){ _gaq.push(['_trackEvent', gaEventCategory, gaEventAction, selectorString]); }}(areaSelectorArray[selector]));
+      
+    }
+  }
+});
+</script>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-631" class="block block-block region-even even region-count-4 count-18 blockname-block-block-popunder-overlay-ad-code "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <!--JavaScript Tag with Companion/Tiling and User Time Targeting // Tag for network 5443: Mother Jones // Website: www.motherjones.com // Page: Advanced // Placement: Overlay (2864008) // created at: Jul 27, 2013 6:17:33 PM-->
+<script language="javascript"> 
+<!-- 
+ad_code('overlay',67);
+//--> 
+</script> 
+<!-- End of JavaScript Tag -->
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-242" class="block block-block region-odd odd region-count-5 count-19 blockname-block-block-interstitial-ad-geotargeting-code "><div class="block-inner">
+
+  
+  <div class="content clear-block">
+    <!--JavaScript Tag with Companion/Tiling and User Time Targeting -->
+<script language="javascript"> 
+<!-- 
+ad_code('interstitialgeotarget',1013);
+//--> 
+</script> 
+<!-- End of JavaScript Tag -->  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+</div>
+    
+  <script type="text/javascript">var disqus_url = "http:\/\/www.motherjones.com\/node\/258221"; var disqus_title = "Exactly How Often Do Police Shoot Unarmed Black Men?"; var disqus_message = ""; var disqus_identifier = "node\/258221"; var disqus_shortname = "motherjones"; var disqus_remote_auth_s2 = "({})";</script><script type='text/javascript' src='http://disqus.com/forums/motherjones/embed.js'></script><script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 10683;
+    _sf_async_config.domain = 'motherjones.com';
+    _sf_async_config.sections = Drupal.settings.denali.section;  //CHANGE THIS
+    _sf_async_config.authors = Drupal.settings.denali.author;    //CHANGE THIS
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+           'js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+<script type="text/javascript"> 
+FB.Event.subscribe('edge.create', 
+  function(response) { 
+  // include optimizely tracking iff var is on; always send fb like event to GA 
+ 
+    _gaq.push(['_trackEvent', 'Facebook', 'Like', window.location.href]);
+  } 
+); 
+</script>
+<script>
+twttr.ready(function (twttr) {
+  twttr.events.bind('tweet', function(event) { _gaq.push(['_trackEvent', 'Twitter', 'Tweet', window.location.href]);  });
+ 
+});
+</script>
+ 
+<script>
+    ansible_iframe('ads', 'http://mj-tech.s3.amazonaws.com/ad_w_intersitial.html');
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"177009cc6a","applicationID":"788901","transactionName":"Y1EAbURRChdVVEFQCVobI1pCWQsKG1laXQNrRANeU28SDVFA","queueTime":0,"applicationTime":660,"ttGuid":"","agentToken":"","atts":"TxYDGwxLGRk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script></body>
+</html>

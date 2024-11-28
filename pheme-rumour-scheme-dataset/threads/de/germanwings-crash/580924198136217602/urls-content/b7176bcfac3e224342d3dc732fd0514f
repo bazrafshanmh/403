@@ -1,0 +1,87 @@
+HTTP/1.1 200 OK
+Date: Tue, 21 Apr 2015 21:21:46 GMT
+Server: Apache
+Accept-Ranges: bytes
+Content-Length: 8419
+Content-Type: text/html
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Cockpit Door Panel | Cockpit Door Switch</title>
+
+<meta name="keywords" content="Cockpit Door Panel | Cockpit Door Switch" />
+<meta name="description" content="Section 1.3.0 | Cockpit Door Panel | Cockpit Door Lights" />
+
+<link href="../styles/efb.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="icon" href="../images/favicon.ico" type="image/x-icon"/>
+
+
+</head>
+<body>
+<div id="header" class="container">
+	<div id="logo">
+		<h1>A320 Displays and Panels</h1>
+	</div>
+	<div id="menu">
+		<ul>
+			<li><a title="A320 Dispalys and Panels Menu" href="../menu.html">MENU</a></li>
+			<li><a title="Back" href="javascript:history.back();">BACK</a></li>
+			<li><a title="Forward" href="javascript:history.forward();">FWD</a></li>
+			<li><a title="Index" href="../TOCindex/sys-17.0.0.html">INDEX</a></li>
+			<li><a title="Panels" href="../help/panels.html">PANELS</a></li>
+			<li><a title="1.0 Airplane General Table of Contents" href="sys-1.0.0.html">SECTION 1.0</a></li>
+		</ul>
+		<p>1.0 Airplane General</p>
+	</div>
+</div>
+<div id="page" class="container">
+	<div id="page-bgtop">
+		<div id="page-bgbtm">
+			<div id="content">
+				<div id="box3" class="box-style">
+					<h1 class="title">Cockpit Door Panel</h1>
+					<h2 class="title2">Cockpit Door Switch</h2>
+					<div id="box4">
+						<p><img alt="Frequency Displays and Transfer Button" src="images/cockpitdoor-switch.jpg" width="79" height="78" style="float: left" class="alignleft" /><span class="green">UNLOCK</span><br />Unlocks door when raised above the detent and held in this position. Door must be pushed to open. UNLOCK is an override and reset selection of any previous action. </p>
+					  <p><span class="green">NORM</span><br />When NORM is selected, it allows the door to be locked when closed. It also allows the door to be opened after an emergency access code entry and 30 second delay in case of pilot incapacitation.</p>
+						<p><span class="green">LOCK</span><br />Momentarily placing the cockpit door switch to LOCK illuminates the red cockpit access panel light, rejects keypad entry request, inhibits aural alerts, and prevents further access code entry for 20 minutes. The cockpit door switch returns to NORM when released, but remains in locked mode for 20 minutes or until UNLOCK is selected. </p>
+					</div>
+					<div id="box5">
+						<table width="360" height="158" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td valign="top"><a title="Cockpit Door Lights" href="sys-1.3.0.html"><img alt="Cockpit Door Lights" src="images/cockpitdoorpanel-1.jpg" width="100" height="132" /></a><a title="Cockpit Door Switch" href="sys-1.3.1.html"><img alt="Cockpit Door Switch" src="images/cockpitdoorpanel-2-red.jpg"  width="258" height="132" /></a></td>
+							</tr>
+						</table>
+						<p>There is no cockpit indication when LOCK is selected; therefore, if the door is closed and the cockpit is unattended during a locked period, the door cannot be opened until the timer expires or power is removed from the airplane.</p>
+					</div>
+				</div>
+			</div>
+			<div id="sidebar">
+				<div id="box1" class="box-style">
+					<h3 class="title3">Section 1.3.1</h3>
+					<ul id="navmenu">
+						<li><a title="Previous Section" href="sys-1.2.0.html">Previous Section</a></li>
+						<li><a title="Cockpit Door Lights" href="sys-1.3.0.html">Cockpit Door Lights</a></li>
+						<li><a class="selected" title="Cockpit Door Switch" href="sys-1.3.1.html">Cockpit Door Switch</a></li>
+						<li><a title="Next Section" href="../communications/sys-2.0.0.html">Next Section</a></li>
+					</ul>
+					<h3 class="title4">Location</h3>
+					<table width="230" height="274" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td valign="top" width="67"><a href="../nav-flight-management/sys-14.2.0.html" title="MCDU"><img src="../images/cped-2.jpg" width="67" height="102" alt="MCDU" /></a><a href="../communications/sys-2.4.0.html" title="Radio Management Panel"><img src="../images/cped-3.jpg" width="67" height="39" alt="Radio Management Panel" /></a><a href="../communications/sys-2.1.0.html" title="Audio Control Panel"><img src="../images/cped-4.jpg" width="67" height="38" alt="Audio Control Panel" /></a><a href="../electrical/sys-3.4.3.html" title="Main Flood and Integral Lighting Panel"><img src="../images/cped-5.jpg" width="67" height="21" alt="Main Flood and Integral Lighting Panel" /></a><a href="../warning-systems/sys-16.2.0.html" title="Wx Radar and PWS Control Panel"><img src="../images/cped-6.jpg" width="67" height="32" alt="Wx Radar and PWS Control Panel" /></a><a href="../flight-controls/sys-7.10.0.html" title="Speed Brake Lever"><img src="../images/cped-7.jpg" width="67" height="44" alt="Speed Brake Lever" /></a><a href="sys-1.3.0.html" title="Cockpit Door Panel"><img src="../images/cped-8-red.jpg" width="67" height="31" alt="Cockpit Door Panel" /></a><img src="../images/cped-9.jpg" width="67" height="74" /></td>
+							<td valign="top" width="96"><a href="../flight-instruments/sys-8.4.0.html" title="Switching Panel"><img src="../images/cped-10.jpg" width="96" height="32" alt="Switching Panel" /></a><a href="../electrical/sys-3.4.2.html" title="FCU Lighting Control Knobs"><img src="../images/cped-11.jpg" width="22" height="33" alt="FCU Lighting Control Knobs" /></a><a href="../warning-systems/sys-16.1.0.html" title="ECAM Control Panel"><img src="../images/cped-12.jpg" width="74" height="33" alt="ECAM Control Panel" /></a><img src="../images/cped-13.jpg" width="96" height="26" /><a href="../flight-controls/sys-7.6.0.html" title="Pitch Trim Wheels"><img src="../images/cped-14.jpg" width="23" height="116" alt="Pitch Trim Wheels" /></a><a href="../engines/sys-5.4.0.html" title="Engine Thrust Levers"><img src="../images/cped-15.jpg" width="50" height="116" alt="Engine Thrust Levers" /></a><a href="../flight-controls/sys-7.6.0.html" title="Pitch Trim Wheels"><img src="../images/cped-16.jpg" width="23" height="116" alt="Pitch Trim Wheels" /></a><img src="../images/cped-17.jpg" width="23" height="23"/><a href="../engines/sys-5.5.0.html" title="Engine Start and Ignition Panel"><img src="../images/cped-18.jpg" width="50" height="23" alt="Engine Start and Ignition Panel" /></a><img src="../images/cped-19.jpg" width="23" height="23" /><a href="../flight-controls/sys-7.10.0.html" title="Speed Brake Lever"><img src="../images/cped-20.jpg" width="30" height="46" /></a><a href="../flight-controls/sys-7.7.0.html" title="Rudder Trim Panel"><img src="../images/cped-21.jpg" width="40" height="46" /></a><a href="../flight-controls/sys-7.1.0.html" title="Flap Lever"><img src="../images/cped-22.jpg" width="26" height="46" /></a><img src="../images/cped-23-red.jpg" width="30" height="46" /><a href="../landing-gear/sys-12.6.0.html" title="Parking Brake Handle"><img src="../images/cped-24.jpg" width="40" height="46" /></a><img src="../images/cped-25.jpg" width="26" height="46" /><a href="../landing-gear/sys-12.3.0.html" title="Emergency Gravity Gear Extension Handle"><img src="../images/cped-26.jpg" width="96" height="59" /></a></td>
+							<td valign="top" width="67"><a href="../nav-flight-management/sys-14.2.0.html" title="MCDU"><img src="../images/cped-34.jpg" width="67" height="102" alt="MCDU" /></a><a href="../communications/sys-2.4.0.html" title="Radio Management Panel"><img src="../images/cped-35.jpg" width="67" height="39" alt="Radio Management Panel" /></a><a href="../communications/sys-2.1.0.html" title="Audio Control Panel"><img src="../images/cped-36.jpg" width="67" height="38" alt="Audio Control Panel" /></a><a href="../electrical/sys-3.4.4.html" title="Pedestal Flood Lighting Control Knob"><img src="../images/cped-37.jpg" width="26" height="21" /></a><img src="../images/cped-38.jpg" width="41" height="21" /><a href="../warning-systems/sys-16.3.0.html" title="TCAS/ATC Transponder Control Panel"><img src="../images/cped-39.jpg" width="67" height="32" /></a><img src="../images/cped-40.jpg" width="67" height="149" /></td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="footer" class="container">
+<p>© 2012 EFB Desktop. All rights reserved.</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,1694 @@
+HTTP/1.1 200 OK
+Content-Encoding: gzip
+Cache-Control: max-age=0
+Content-Language: de-DE
+Content-Type: text/html;charset=UTF-8
+Date: Tue, 24 Mar 2015 01:14:47 GMT
+Expires: Tue, 24 Mar 2015 01:14:47 GMT
+Server: ECAcc (lhr/D260)
+Set-Cookie: JSESSIONID=3BDE6544D05888F7166BCDA5A603F715.cae; Path=/
+Set-Cookie: ax-persistence-dmncmcae-80=IEHDLLFN; Path=/
+Vary: Accept-Encoding
+Vary: Accept-encoding
+X-CAE: dmncmcae3.openit.mds.de
+Transfer-Encoding: chunked
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="de">
+<head>
+    <link type="application/rss+xml" title='Raubkunst - Frankfurter Rundschau ' rel="alternate"
+          href='/raubkunst/25064474,25064474,view,asFeed.xml' />
+
+    <link  rel="publisher" href="https://plus.google.com/+frankfurterrundschau"/>
+    <!-- Meta-Tags Start -->
+<title>Gurlitt-Sammlung: Kunstmuseum will Gurlitt-Erbe annehmen | Raubkunst&nbsp;- Frankfurter Rundschau </title><meta property="og:type" content="article"/>
+    <meta property="og:title" content="Gurlitt-Sammlung: Kunstmuseum will Gurlitt-Erbe annehmen" />
+    <meta property="og:url" content="http://www.fr-online.de/raubkunst/gurlitt-sammlung-kunstmuseum-will-gurlitt-erbe-annehmen,25064474,29114124.html"/>
+    <meta property="og:image" content="http://www.fr-online.de/image/view/2014/10/21/29114130,23007804,highRes,dpa_1489F0002B18CC94.jpg"/>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+
+<meta name="google-site-verification" content=WHwh_i88OyL_XzpdWHdCIWCKYJN9p3bTFIu4XR6QiDE/>
+<meta name="robots" content="index, follow, noarchive"/>
+    <meta http-equiv="language" content="de"/>
+<meta http-equiv="content-language" content="de"/>
+<meta name="copyright" content="Franfurter Rundschau"/>
+<meta name="author" content="Franfurter Rundschau"/><meta name="email" content="info@fr-online.de"/>
+<meta name="description" content="
+
+Lange hat das Kunstmuseum Bern gewartet, nun nimmt das Haus das umstrittene Erbe des Kunstsammlers Cornelius Gurlitt an. Die Sammlung umfasst Hunderte Werke, bei denen nicht auszuschließen ist, dass es sich um Nazi-Raubkunst handelt."/>
+<meta name="keywords" content="Kunstmuseum,Bern,Gurlitt-Erbe,Gurlitt,Kunstmuseum Bern,Cornelius Gurlitt,Kunstsammler,Gutachten,Nachlassgericht,Erbe,Deutsche Presse-Agentur,Freitag,dpa,Adolf Hitlers,Bayern,Berlin,München,Hunderte Werke,Dietrich Gurlitt"/>
+<meta name="news_keywords" content="Kunstmuseum, Bern, Gurlitt-Erbe, Gurlitt, Kunstmuseum Bern, Cornelius Gurlitt, Kunstsammler, Gutachten, Nachlassgericht, Erbe, Deutsche Presse-Agentur, Freitag, dpa, Adolf Hitlers, Bayern, Berlin, München, Hunderte Werke, Dietrich Gurlitt"/>
+    <!-- Meta-Tags End -->
+<link rel="shortcut icon" type="image/x-icon" href="/image/view/1472660,28406834,favicon,Home.ico"/>
+<link rel="stylesheet" type="text/css" href="/mauritius/comp/fr/style.css?x=20150316-2005" />
+        <!--[if lte IE 6]>
+            <link rel="stylesheet" type="text/css" href="/mauritius/comp/fr/style_ie6.css?x=20150316-2005" />
+        <![endif]-->
+
+        <link rel="stylesheet" type="text/css"  href="/code/view/fr-online/16302516,relaunch_050612.css" />
+<script type="text/javascript">
+    djConfig = {
+        parseOnLoad: true,
+        useXDomain: true
+    };
+</script>
+
+<script type="text/javascript" src="/mauritius/js/new/dojo/dojo.xd.js"></script>
+        <script type="text/javascript" src="/mauritius/js/new/dojo/fr.js?x=20150316-2005"></script>
+    <script type="text/javascript" src="/mauritius/flashfix/swfobject.js"></script>
+<script type="text/javascript" language="javascript" src="/code/view/fr-online/20577984,Wallpaper+fix.js?x=20150316-2005"></script>
+<script type="text/javascript">
+    var adRegister = new dm.adRegister();
+</script>
+
+<script type="text/javascript">
+    // Example for testing:
+    // var advertisements = new Array('leaderboard', 'rectangle');
+
+    function hideAdvertisement(advertisements){
+
+        // check if 'advertisement' if of type Array()
+        if( (typeof(advertisements) == "object") && (advertisements instanceof Array) ){
+            for (var i = 0; i < advertisements.length; ++i){
+
+                switch(advertisements[i]) {
+                    case 'leaderboard':
+                        $(document).ready(function() {
+                            $('#All').addClass('noBanner');
+                        });
+
+                        break;
+
+                    case 'rectangle':
+                        // hide rectangle
+                        break;
+
+                    default:
+                        console.log('default check!');
+                }
+
+            }
+        }
+
+    }
+</script><script type="text/javascript">
+
+
+
+var fixable = true;
+var BrowserModus = document.compatMode;
+var BrowserTyp = navigator.userAgent;
+
+
+
+
+function sdibgclick(sdibgclickurl){
+
+var div = document.createElement('div');
+div.id = 'background-click-layer';
+
+if (document.body.firstChild)
+document.body.insertBefore(div, document.body.firstChild);
+else
+document.body.appendChild(div);
+
+document.getElementById('background-click-layer').innerHTML += '<a href="'+sdibgclickurl+'" target="_blank" rel="nofollow" id="background-click-layer" width="100%" height="100%" border="0"></a>';
+}
+
+
+if (BrowserModus == "BackCompat" && BrowserTyp.indexOf("MSIE") != -1) fixable = false;
+
+
+if (fixable == true){
+    document.write('<style type="text/css">#background-click-layer {display:block; position:fixed;}</style>');
+}
+</script><!-- Diese Datei zeigt beispielhaft das Zusammenspiel zwischen der GPT Definition, dem OMS Container Script (u.a. nuggad) und dem Aufruf der Tags.
+Der Code soll hier als Beispiel für die Funktionsweise dienen und muss gegebenenfalls auf den jeweiligen Aufbau der Seite angepasst werden. -->
+
+<!-- Sitename und Zone bitte auf Ihre Seite anpassen -->
+<script language="JavaScript" type="text/javascript">
+    var oms_site = "oms.fronline.de";
+    var oms_zone = "entertainment";
+    var oms_dm_network = "5766";
+</script>
+
+
+<script type="text/javascript" src="/mauritius/js/omsvjs14_1.js"></script>
+
+<script>
+    try
+    {
+        var ystr="";
+        var y_adj="";
+
+        for (var id in yl.YpResult.getAll()) {
+
+            c = yl.YpResult.get(id);
+            ystr+= ';y_ad='+c.id;
+            if(c.format){
+                y_adj=';y_adj='+c.format;
+            }
+        }
+
+        ystr+=y_adj+';';
+        WLRCMD=WLRCMD+ystr+segQS+crtg_content;
+    }
+    catch(err)
+    {
+
+    }
+</script>
+
+<script type='text/javascript'>
+        //Synchron Call
+        (function() {
+            var useSSL = 'https:' == document.location.protocol;
+            var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+            document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+        })();
+</script>
+
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+        googletag.pubads().enableSingleRequest();
+
+        googletag.pubads().disableInitialLoad();
+        googletag.pubads().collapseEmptyDivs();
+
+        /* collapse additional decoration of an ad, like title */
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+            
+
+            if(event.isEmpty) {
+                $("#"+event.slot.getSlotId().getDomId()).closest( ".ad-location-container").hide();
+            }
+        });
+
+        googletag.enableServices();
+        
+        googletag.pubads().setTargeting('bundesland','HE');
+
+        <!-- targeting from oms container -->
+        if (typeof WLRCMD !='undefined' && WLRCMD !='')
+        {
+            temp=WLRCMD.split(";");
+            for (var id in temp) {
+                if (temp[id].indexOf('=') != -1){
+
+                    values = temp[id].split('=')[1];
+
+                    for (var id2 in temp) {
+                        if ((temp[id2].indexOf('=') != -1) && (temp[id].split('=')[0] == temp[id2].split('=')[0]) && (id < id2)){
+                            values += ';'+temp[id2].split('=')[1];
+                            delete temp[id2];
+                        }
+                    }
+                    temp2 = values.split(";");
+                    //	console.log(temp[id].split('=')[0]+' '+temp2)
+                    //console.log("googletag.pubads().setTargeting("+temp[id].split('=')[0]+", "+temp2+")");
+                    googletag.pubads().setTargeting(temp[id].split('=')[0], temp2);
+                }
+            }
+        }
+    });
+</script>
+<script language="JavaScript" src="https://script.ioam.de/iam.js" type="text/javascript"></script>
+        <!--[if lte IE 8]>
+    <script type="text/javascript" src="/mauritius/js/selectivizr-min.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="/mauritius/js/jquery-1.8.3.min.js"></script><!--
+    Once the refactoring of the remaining brightcove widgets is completed, this template can be deleted (fallback to
+    commons template).
+-->
+<script type="text/javascript" src="/mauritius/brightcove/js_common/sw/bcw_single.js?x=20150316-2005"></script>
+<script type="text/javascript" src="/mauritius/js/bc/fr/js/rb/bcw_rightboxa.js?x=20150316-2005"></script>
+
+<script type="text/javascript" src="/mauritius/js/ios/iosUtils.js"></script>
+    <script type="text/javascript">
+            showIpadAppMessage('Testen Sie unsere App FR-Digital!\n\nNEU! Die preisgekrönte Multimedia-App der Frankfurter Rundschau gibt\'s jetzt für Abonnenten mit einem Ausgabenarchiv. Schauen Sie doch mal rein.\n\nKlicken Sie auf OK, um die FR-App zu installieren. Danke fürs Probieren!','https://itunes.apple.com/de/app/fr-digital/id834911051', 0, 14 );
+        </script>
+    <script type="text/javascript" src="http://static.plista.com/fr-online.de_v1.js"></script>
+    <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+        </head>
+<body itemscope itemtype="http://schema.org/WebPage">
+    <div id="bc_single_dummy"></div>
+    <div id="fb-root"></div>
+<script language="JavaScript" type="text/javascript">
+    window.fbAsyncInit = function() {
+        FB.init({appId: '306777600576', status: true, cookie: true,
+            xfbml: true, oauth : true});
+    };
+
+    // Load the SDK Asynchronously
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1&appId=306777600576";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="bannerTop">
+            <div class="bannerTopAd" id="bannerTopAdIDforMegabanner">
+                <div id='oms_gpt_superbanner'>
+                <script type="text/javascript">
+                            var slot_oms_gpt_superbanner;
+                            googletag.cmd.push(function() {
+                                slot_oms_gpt_superbanner = googletag.defineSlot('/'+oms_dm_network+'/'+oms_site+'/'+oms_zone, [[728, 90]], 'oms_gpt_superbanner').addService(googletag.pubads());
+                                googletag.display('oms_gpt_superbanner');
+                            });
+                        </script>
+                    </div>
+        </div>
+        </div>
+
+        <script language="javascript" type="text/javascript">
+            var TopAdHeight = document.getElementById("bannerTopAdIDforMegabanner").offsetHeight;
+            if (TopAdHeight > 90) {
+                document.write("<style type=text/css>#All {top: "+TopAdHeight+"px}</style>")
+            }
+        </script>
+    <div id="All">
+    <!-- SZM VERSION="2.0" -->
+            <script type="text/javascript">
+                var iam_data = {
+                    "st": "fraktu", // site/domain
+                    "cp": "fr_kul", // code
+                    "mg": "yes", // migrationmode of SZM 1.5 (unused when SZM 1.5 goes offline)
+                    "sv": "in" // frabo variable
+                }
+                
+                iom.c(iam_data, 1);
+            </script>
+            <div id="DMN-analytics-data"></div>
+    <script type="text/javascript">
+        
+        var s_config = {};
+        s_config.account_id = "dmtfronlineprod";
+        s_config.linkInternalFilters = ".fr-online.de";
+
+        
+        var DMN = {};
+        DMN.analytics = (function(){
+            'use strict';
+            var trackingJSON = {};
+            trackingJSON.pageName = 'Kultur.Dossier.Raubkunst.Kunstmuseum will Gurlitt-Erbe annehmen'.replace(/[,;|]+?/ig, "_");
+            trackingJSON.site = 'http://www.fr-online.de';
+            trackingJSON.ressort = 'Kultur';
+            trackingJSON.category = 'Kultur_Dossier_Raubkunst_';
+            trackingJSON.adZone = 'entertainment';
+            trackingJSON.pageType = 'Artikelseiten';
+            trackingJSON.channel = 'Online';
+            trackingJSON.dateUnix = '23785994'; 
+            trackingJSON.ivwZone = 'fr_kul';
+            trackingJSON.articleId = '29114124';
+            trackingJSON.articleTitle = 'Kunstmuseum will Gurlitt-Erbe annehmen'.replace(/[,;|]+?/ig,"_");
+            trackingJSON.datePublishedUnix = '23609374';
+            trackingJSON.articleViewsVisit = '+1';
+
+            var setEvent = function (event, clearValues){
+                if (clearValues || !trackingJSON.event) {
+                    trackingJSON.event = event;
+                } else if (trackingJSON.event.indexOf(event) === -1) {
+                        trackingJSON.event += ',' + event;
+                }
+            };
+
+            return {
+
+                trackTeaser: function (contentID, contentView){
+                    setEvent('event21', false);
+                    if (!trackingJSON.list1){
+                        trackingJSON.list1 = contentID + '#' + contentView;
+                    } else {
+                        trackingJSON.list1 += '|' + contentID + '#' + contentView;
+                    }
+                },
+
+                trackTeaserClick: function (teaserID, teaserView) {
+                    _satellite.setVar('teaserID_click', teaserID + '#' + teaserView);
+                },
+
+                trackImageGallery: function (galleryID, galleryPosition, gallerySize, galleryName) {
+                    trackingJSON.picGalery = galleryName;
+                    trackingJSON.picGaleryElement = galleryID + ' - ' + galleryPosition + '/' + gallerySize;
+                    _satellite.track('picView');
+                    this.generateJSON();
+                },
+
+                trackTextGallery: function (textGalleryID, textGalleryPosition, textGallerySize) {
+                    trackingJSON.textGalery = textGalleryID;
+                    trackingJSON.textGaleryElement = textGalleryID + ' - ' + textGalleryPosition + '/' + textGallerySize;
+                    _satellite.track('textlineView');
+                    this.generateJSON();
+                },
+
+                trackSnackTV : function (videoID) {
+                    trackingJSON.videoID = videoID;
+                },
+
+                trackShortContentView : function (contentTeaser) {
+                    trackingJSON.contentViewType = contentTeaser;
+                },
+                checkContentViewType : function(){
+                    if(trackingJSON.contentViewType !== null && trackingJSON.contentViewType !== 'Kurzansicht'){
+                        trackingJSON.contentViewType = 'Vollansicht';
+                    }
+                },
+                generateJSON: function () {
+                    var w = document.getElementById("DMN-analytics-data");
+                    w.innerHTML = '';
+                    var s = document.createElement("script");
+                    s.type = 'text/javascript';
+                    s.text = 'dataLayer = ' + JSON.stringify(trackingJSON, null, ' ');
+                    w.appendChild(s);
+                }
+            };
+        }());
+        
+        DMN.analytics.generateJSON();
+    </script>
+    <script src="https://assets.adobedtm.com/d8109ac3d2f76151ca0f39163be0d8d6a7349f5c/satelliteLib-0e5b5818a5147c5a7bfafbf68793a190f56a4207.js"></script>
+        <div id="kalaydo">
+    
+<!-- schoenen TACH! --></div>
+<div id="Header">
+    <div id="Searchline">
+        <div class="HeaderSearchOption">
+            <form id="HeaderSearch" name="searchfrm" action="http://www.fr-online.de/mauritius/servlet/page/search/fr-online/suche/1473784,1473784,view,asSearch.html" method="post"><div class="sbutton" onclick="dojo.byId('HeaderSearch').submit();">Suchen</div>
+                <input type="text" id="TopSearchInput" class="ftext" name="userQuery" />
+                
+                
+                <input name="contextsIds" type="hidden" value="1472660"/>
+                <input name="sortBy" type="hidden" value="maupublicationdate"/>
+                <input name="docTypes" type="hidden" value="&quot;MauArticle,MauGallery,DMBrightcoveVideo,CMDownload,DMMovie,DMEvent,DMVenue&quot;"/>
+            </form></div>
+        <div id="TopLinks">
+            <ul>
+    <li class="TopLink">
+            <a  href="http://www.fr-abo.de" class="Highlighted">Abo</a></li>
+    <li class="TopLink">
+            <a  href="http://epaper.fr-online.de" class="Highlighted">ePaper</a></li>
+    <li class="TopLink">
+            <a  href="http://www.fr-digital.de" class="Highlighted">App</a></li>
+    <li class="TopLink">
+            <a  href="http://www.fr-online.de/newsletter/newsletter,4497962,4497980.html">Newsletter</a></li>
+    <li class="TopLink">
+            <a  href="https://www.facebook.com/FrankfurterRundschau">Facebook</a></li>
+    <li class="TopLink">
+            <a  href="http://www.fr-online.de/anzeigen/28448628,28448628.html">Anzeigen</a></li>
+    <li class="TopLink">
+            <a  href="http://trauer.fr-online.de" target="_blank">Trauer</a></li>
+    </ul>
+    <div class="breaker"></div>
+</div>
+    </div>
+    <div id="Logo">
+        <a href="http://www.fr-online.de">
+            <img src="/image/view/1474018,12852582,data,logo-new.png" alt="Nachrichten aus Deutschland und der Welt – Frankfurter Rundschau" /></a>
+    </div>
+
+    <div id="HomepageSelector">
+                <p>Meine Startseite</p>
+                <a id="HPselector">
+                    Auswahl
+                </a>
+                <img src="/image/view/15139040,12301457,data,regio_arrow.png" alt="regio_arrow" /></div>
+
+            <div id="HomepageSelectorNav" class="">
+                <ul id="NavHP">
+                    <li class="regioswitch" id="var1">
+                        <img src="/image/view/15138776,12301262,data,regio_icon_home.png" alt="regio_icon_home" /><a href="javascript: regioswitch.changeRegioContent('var1');">Überregional</a>
+                    </li>
+                    <li class="regioswitch" id="var2">
+                        <img src="/image/view/15138776,12301262,data,regio_icon_home.png" alt="regio_icon_home" /><a href="javascript: regioswitch.changeRegioContent('var2');">Rhein-Main</a>
+                    </li>
+                </ul>
+
+                <div id="regioSelectorClose" onClick="$('#HomepageSelectorNav').removeClass('active');">X</div>
+            </div>
+
+
+            <script type="text/JavaScript">
+                var regioswitch = new dm.regioswitch();
+
+                // init regions
+                var hashForCookieValToRegionName = {};
+                hashForCookieValToRegionName['var1'] = "Überregional";
+                hashForCookieValToRegionName['var2'] = "Rhein-Main";
+
+                regioswitch.init(hashForCookieValToRegionName);
+            </script>
+
+        <div class="breaker"></div>
+    <div id="MainLinks">
+        <a href="http://www.fr-online.de" class="MainLink home ">
+                    <span class="homebutton"></span>
+             </a>
+         <a  href="/frankfurt/1472798,1472798.html" class="MainLink  ">Frankfurt</a><a  href="/rhein-main/1472796,1472796.html" class="MainLink  ">Rhein-Main</a><a  href="/politik/1472596,1472596.html" class="MainLink  ">Politik</a><a  href="/wirtschaft/1472780,1472780.html" class="MainLink  ">Wirtschaft</a><a  href="/panorama/1472782,1472782.html" class="MainLink  ">Panorama</a><a  href="/sport/1472784,1472784.html" class="MainLink  ">Sport</a><a  href="/kultur/1472786,1472786.html" class="MainLink active ">Kultur</a><a  href="/leben/24198808,24198808.html" class="MainLink  ">Leben</a><a class="MainLink last" id="HybridToggle" href="#">Mehr<span class="arrow"></span></a>
+    </div>
+    <div class="OverlayContainer">
+        <div class="MoreOverlay" id="HybridOverlay" style="display: none;">
+            <ul>
+                <li class="first">
+                    <ul>
+                        <li class="title">Weitere Ressorts</li>
+                        <li>
+                                <a href="http://www.fr-online.de/wissenschaft/1472788,1472788.html">Wissen</a>
+                                </li>
+                        <li>
+                                <a href="http://www.fr-online.de/gesundheit/3242120,3242120.html">Gesundheit</a>
+                                </li>
+                        <li>
+                                <a href="http://www.fr-online.de/auto/1472790,1472790.html">Auto</a>
+                                </li>
+                        <li>
+                                <a href="http://www.fr-online.de/reise/1472792,1472792.html">Reise</a>
+                                </li>
+                        <li>
+                                <a href="http://www.fr-online.de/karriere/1473056,1473056.html">Karriere</a>
+                                </li>
+                        <li>
+                                <a href="http://www.fr-online.de/digital/1472406,1472406.html">Digital</a>
+                                </li>
+                        <li>
+                                <a href="http://www.fr-online.de/leute/9548600,9548600.html">Leute</a>
+                                </li>
+                        </ul>
+                </li>
+                <li>
+                            <ul>
+                                <li class="title">Die Zeitung</li>
+                                <li>
+                                        <a href="http://www.fr-online.de/wir-ueber-uns/4353508,4353508.html">Wir über uns</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www.fr-abo.de">Zeitungs-Abo</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www.fr-online.de/anzeigen/28448628,28448628.html">Anzeigen</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www.fr-online.de/services,1473782,2641786.html">Mediadaten</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www.fr-online.de/wir-ueber-uns/angebot-fuer-leser-besuchen-sie-unser-druckzentrum,4353508,26160726.html">Druckerei-Besichtigung</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www.fr-online.de/wir-ueber-uns/artikel-zweitverwertung-so-kommen-sie-an-texte-aus-der-fr,4353508,24491366.html">Nachdruck, Nutzungsrechte</a>
+                                        </li>
+                                <li>
+                                        <a href="http://fr-aktuell.gbi.de">Zeitungsarchiv</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www.fr-online.de/altenhilfe/4353522,4353522.html">Altenhilfe</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www.fr-online.de/schlappekicker/4429422,4429422.html">Schlappekicker</a>
+                                        </li>
+                                </ul>
+                        </li>
+                <li>
+                            <ul>
+                                <li class="title">FR-Digital</li>
+                                <li>
+                                        <a href="http://www.fr-digital.de">FR-App: Abo</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www.fr-tablet.de">FR-App: Tipps und Tricks</a>
+                                        </li>
+                                <li>
+                                        <a href="http://epaper.fr-online.de">ePaper</a>
+                                        </li>
+                                <li>
+                                        <a href="http://mobil.fr-online.de">Mobilausgabe</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www.fr-online.de/newsletter/newsletter,4497962,4497980.html">Newsletter</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www.fr-online.de/nachrichtenarchiv/16592322,16592322.html">Nachrichten-Kalender</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www.fr-online.de/digital/fr-newsreader---nachrichten-auf-den-schirm/-/1472406/2630720/-/index.html">RSS</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www.fr-online.de/videos/1472414,1472414.html">Videos</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www.fr-online.de/wetter/1473780,1473780.html">Wetter</a>
+                                        </li>
+                                <li>
+                                        <a href="http://www2.fr-online.de/tv-programm-fr/">TV</a>
+                                        </li>
+                                </ul>
+                        </li>
+                <li>
+                            <ul>
+                                <li class="title">Sonderveröffentlichungen</li>
+                                <li>
+                                        <a href="http://www.fr-online.de/zeitung">FR-Imagekampagne</a>
+                                        </li>
+                                <li>
+                                        <a href="http://geschichte.fr-abo.de/">Geschichte</a>
+                                        </li>
+                                <li>
+                                        <a href="http://trauer.fr-online.de/">Trauerportal</a>
+                                        </li>
+                                </ul>
+                        </li>
+                </ul>
+            <script type="text/javascript">
+                new dm.hybridnav();
+            </script>
+            <div class="breaker"></div>
+        </div>
+    </div>
+<div id="SubNav">
+        <div >
+                    <a href="/home/1472778,1472778.html" >
+                &Uuml;bersicht
+            </a> |
+        <a href="/newsticker/11005786,11005786.html" >Newsticker</a>
+| <a  href="http://www.fr-online.de/sport/27392198,27392198.html">Sport A-Z</a>| <a  href="http://www.fr-online.de/eintracht-frankfurt/1473446,1473446.html">Eintracht</a>| <a href="/themen/27582818,27582818.html" >Orte, Themen, Menschen</a>
+| <a  href="http://www.fr-online.de/gerechtigkeit">Gerechtigkeit</a>| <a  href="http://www.fr-online.de/tv-kritik/1473344,1473344.html">TV-Kritik</a>| <a  href="http://www.fr-online.de/altenhilfe/4353522,4353522.html">Altenhilfe</a></div>
+            <div >
+                    <a href="/frankfurt/1472798,1472798.html" >
+                &Uuml;bersicht
+            </a> |
+        <a  href="http://www.fr-online.de/blockupy">Blockupy </a>| <a  href="http://www.fr-online.de/frankfurt-ost/27731738,27731738.html">Stadtteile Ost</a>| <a  href="http://www.fr-online.de/frankfurt-west/27731816,27731816.html">West</a>| <a  href="http://www.fr-online.de/frankfurt-nord/27731862,27731862.html">Nord</a>| <a  href="http://www.fr-online.de/frankfurt-sued/27731874,27731874.html">Süd</a>| <a href="/stadtentwicklung/26042926,26042926.html" >Stadtentwicklung</a>
+| <a href="/gericht/1472814,1472814.html" >Gericht</a>
+| <a  href="http://www.fr-online.de/kriminalitaet/25733026,25733026.html">Kriminalität</a>| <a  href="http://www.fr-online.de/verkehr/23914936,23914936.html">Verkehr</a>| <a href="/zoo/4407556,4407556.html" >Zoo</a>
+| <a  href="http://termine.fr-online.de/frankfurt-am-main">Termine</a>| <a href="/dossier/1472820,1472820.html" >Dossier</a>
+</div>
+            <div >
+                    <a href="/rhein-main/1472796,1472796.html" >
+                &Uuml;bersicht
+            </a> |
+        <a href="/landespolitik/23887878,23887878.html" >Landespolitik</a>
+| <a href="/flughafen-frankfurt/2641734,2641734.html" >Flughafen</a>
+| <a href="/verkehr/23914936,23914936.html" >Verkehr</a>
+| <a href="/kriminalitaet/25733026,25733026.html" >Kriminalität</a>
+| <a href="/kirche/24619948,24619948.html" >Kirche</a>
+| <a  href="http://www.fr-online.de/offenbach/1472856,1472856.html">OF</a>| <a  href="http://www.fr-online.de/hanau/1472866,1472866.html">HU</a>| <a  href="http://www.fr-online.de/darmstadt/1472858,1472858.html">DA</a>| <a  href="http://www.fr-online.de/wiesbaden/1472860,1472860.html">WI</a>| <a  href="http://www.fr-online.de/mainz/11181020,11181020.html">MZ</a>| <a  href="http://www.fr-online.de/bad-homburg/1472864,1472864.html">HG</a>| <a  href="http://www.fr-online.de/main-taunus/1472862,1472862.html">MTK</a>| <a href="/vilbel--/1472868,1472868.html" >Vilbel  </a>
+| <a  href="http://termine.fr-online.de/frankfurt-am-main">Termine</a>| <a href="/spezials/1472874,1472874.html" >Dossier</a>
+</div>
+            <div >
+                    <a href="/politik/1472596,1472596.html" >
+                &Uuml;bersicht
+            </a> |
+        <a  href="http://www.fr-online.de/gerechtigkeit">Gerechtigkeit</a>| <a  href="http://www.fr-online.de/terrorgruppe-islamischer-staat/28501302,28501302.html">IS-Terror</a>| <a  href="http://www.fr-online.de/ukraine/26429068,26429068.html">Ukraine</a>| <a  href="http://www.fr-online.de/der-erste-weltkrieg/1477454,1477454.html">1. Weltkrieg</a>| <a  href="http://www.fr-online.de/datenschutz/1472644,1472644.html">NSA-Skandal</a>| <a  href="http://www.fr-online.de/neonazi-terror/1477338,1477338.html">NSU-Prozess</a>| <a  href="http://www.fr-online.de/flucht-und-zuwanderung/24931854,24931854.html">Zuwanderung</a>| <a href="/meinung/1472602,1472602.html" >Meinung</a>
+| <a href="/spezials/1472610,1472610.html" >Dossier</a>
+</div>
+            <div >
+                    <a href="/wirtschaft/1472780,1472780.html" >
+                &Uuml;bersicht
+            </a> |
+        <a href="/gastwirtschaft/29552916,29552916.html" >Gastwirtschaft</a>
+| <a href="/arbeit---soziales/1473632,1473632.html" >Arbeit &amp; Soziales</a>
+| <a href="/energie/1473634,1473634.html" >Energiewende</a>
+| <a  href="http://www.fr-online.de/karriere/1473056,1473056.html">Karriere</a>| <a href="/vorsorge/21157290,21157290.html" >Vorsorge</a>
+| <a  href="http://www.fr-online.de/recht/21157310,21157310.html">Recht</a>| <a  href="http://boerse.fr-online.de">Finanzen</a>| <a href="/spezials/1473644,1473644.html" >Dossier</a>
+</div>
+            <div >
+                    <a href="/panorama/1472782,1472782.html" >
+                &Uuml;bersicht
+            </a> |
+        <a href="/leute/9548600,9548600.html" >Leute</a>
+| <a href="/was-soll-das-/28731398,28731398.html" >Was soll das?</a>
+| <a href="/test-quiz-wissen/12479800,12479800.html" >Quiz</a>
+| <a  href="http://www.fr-online.de/panorama,1472782,23114074.html">Bilder des Tages</a>| <a  href="http://www.fr-online.de/wetter/1473780,1473780.html">Wetter</a>| <a href="/spezials/1473592,1473592.html" >Dossier</a>
+</div>
+            <div >
+                    <a href="/sport/1472784,1472784.html" >
+                &Uuml;bersicht
+            </a> |
+        <a href="/eintracht-frankfurt/1473446,1473446.html" >Eintracht</a>
+| <a  href="http://www.blog-g.de/">Blog-G</a>| <a  href="http://www.fr-online.de/fussball/27963598,27963598.html">Fußball</a>| <a  href="http://www.fr-online.de/sport/27392198,27392198.html">Sport A-Z</a>| <a href="/motorsport/1473460,1473460.html" >Motorsport</a>
+| <a href="/region/1473444,1473444.html" >Region</a>
+| <a href="/fsv-frankfurt/1473448,1473448.html" >FSV</a>
+| <a href="/ofc-kickers-offenbach/1473450,1473450.html" >OFC</a>
+| <a href="/lilien-sv-darmstadt-98/10813562,10813562.html" >Lilien</a>
+| <a href="/mainz-05/1473452,1473452.html" >Mainz</a>
+| <a href="/ffc-frankfurt/1473454,1473454.html" >1. FFC</a>
+| <a href="/skyliners-frankfurt/1473456,1473456.html" >Skyliners</a>
+| <a href="/loewen-lions-frankfurt/1473458,1473458.html" >Löwen</a>
+</div>
+            <div class="active">
+                    <a href="/kultur/1472786,1472786.html" >
+                &Uuml;bersicht
+            </a> |
+        <a href="/times-mager/1838190,1838190.html" >Times Mager</a>
+| <a href="/tv-kritik/1473344,1473344.html" >TV-Kritik</a>
+| <a href="/tatort-spezial/20719658,20719658.html" >TV-Krimi</a>
+| <a  href="http://www2.fr-online.de/tv-programm-fr/">TV-Programm</a>| <a href="/film/1473350,1473350.html" >Film</a>
+| <a  href="http://www.fr-online.de/kino/1473786,1473786.html">Kino-Programm</a>| <a href="/medien/1473342,1473342.html" >Medien</a>
+| <a href="/literatur/1472266,1472266.html" >Literatur</a>
+| <a href="/musik/1473348,1473348.html" >Musik</a>
+| <a href="/theater/1473346,1473346.html" >Theater</a>
+| <a href="/kunst/1473354,1473354.html" >Kunst</a>
+</div>
+            <div >
+                    <a href="/leben/24198808,24198808.html" >
+                &Uuml;bersicht
+            </a> |
+        <a href="/wissenschaft/1472788,1472788.html" >Wissen</a>
+| <a href="/digital/1472406,1472406.html" >Digital</a>
+| <a href="/reise/1472792,1472792.html" >Reise</a>
+| <a href="/gesundheit/3242120,3242120.html" >Gesundheit</a>
+| <a  href="http://www.fr-online.de/ernaehrung/9563634,9563634.html">Ernährung</a>| <a href="/auto/1472790,1472790.html" >Auto</a>
+| <a href="/recht/21157310,21157310.html" >Recht</a>
+| <a href="/karriere/1473056,1473056.html" >Karriere</a>
+| <a  href="http://www.fr-online.de/geldanlage/1473054,1473054.html">Geldanlage</a>| <a  href="http://www.fr-online.de/vorsorge/21157290,21157290.html">Vorsorge</a>| <a  href="http://www.fr-online.de/freizeittipps/1474298,1474298.html">Freizeit</a>| <a  href="http://www.fr-online.de/wohnen/3242122,3242122.html">Wohnen</a></div>
+            <div >
+                    <!--No renderer found for com.coremedia.starterkit.cae.contentbeans.standard.CMExternalLinkImpl$$[id=24235538] --></div>
+            <div >
+                    <!--No renderer found for com.coremedia.starterkit.cae.contentbeans.standard.CMExternalLinkImpl$$[id=24235510] --></div>
+            <div >
+                    <!--No renderer found for com.coremedia.starterkit.cae.contentbeans.standard.CMExternalLinkImpl$$[id=24238080] --></div>
+            <div >
+                    <!--No renderer found for com.coremedia.starterkit.cae.contentbeans.standard.CMExternalLinkImpl$$[id=24235548] --></div>
+            <div >
+                    <!--No renderer found for com.coremedia.starterkit.cae.contentbeans.standard.CMExternalLinkImpl$$[id=24235542] --></div>
+            <div >
+                    <!--No renderer found for com.coremedia.starterkit.cae.contentbeans.standard.CMExternalLinkImpl$$[id=24235534] --></div>
+            <div >
+                    <!--No renderer found for com.coremedia.starterkit.cae.contentbeans.standard.CMExternalLinkImpl$$[id=16650590] --></div>
+            </div>
+    <script type="text/javascript">
+        // Top Navigation initialisieren
+        var navigation = new dm.navigation();
+        navigation.init();
+        </script>
+</div>
+<div class="HeaderThemenNav">
+    <span class="HeaderThemenNavTitle">Aktuell: </span>
+        <a  href="http://www.fr-online.de/blockupy-frankfurt/15402798,15402798.html">EZB-Eröffnung Blockupy Frankfurt</a>
+            |
+            <a  href="http://www.fr-online.de/fussball-nachrichten/27963598,27963598.html">Fußball-News</a>
+            |
+            <a  href="http://www.fr-online.de/themen/lieber-fanatiker-,27582818,29990242.html">Kolumne "Lieber Fanatiker"</a>
+            |
+            <a  href="http://www.fr-online.de/neonazi-terror/1477338,1477338.html">NSU-Prozess</a></div>
+<div class="breaker"></div><div id="Main">
+
+    <h3 class="channelHeading">
+    <a  href="/raubkunst/25064474,25064474.html" class="channelTitle">Münchener Kunstfund</a><div class="channelTeaser">
+                
+
+Der Münchener Kunstfund bei Cornelius Gurlitt hebt das Thema Nazi-Raubkunst auf die politische Agenda.</div>
+        </h3><div id="ContainerPfad">
+        <div class="Path">
+            <a  href="/1472660,1472660.html">Frankfurter Rundschau</a>
+                    &raquo;
+                <a  href="/kultur/1472786,1472786.html">Kultur</a>
+                    &raquo;
+                <a  href="/spezials/1473358,1473358.html">Dossier</a>
+                    &raquo;
+                <span class="Current"><a  href="/raubkunst/25064474,25064474.html">Raubkunst</a></span>
+                    </div>
+        <div class="breaker"></div>
+    </div>
+<script type="text/javascript">
+    var AnalyticsContentID = 29114124;
+</script>
+
+<div id="ContainerContent">
+    <div id="ContainerContentLinie">
+            <div class="Date">
+                21. November 2014</div>
+            <div class="breaker"></div>
+            
+            <h1 class="ArticleHeadlineH1" itemprop="headline">
+    Gurlitt-Sammlung: Kunstmuseum will Gurlitt-Erbe annehmen</h1>
+
+<script type="text/javascript">
+<!--
+    function modifyHeadline(articleHeadline, articleSubject){
+        if ('' != articleSubject) {
+            var articleHeadlineObjectList = dojo.query(".ArticleHeadlineH1");
+            articleHeadlineObjectList[0].innerHTML = '<span class="ArticleSubject">'+articleSubject+'</span> <span class="ArticleTitle">'+articleHeadline+'</span>';
+        }
+    }
+    modifyHeadline('Kunstmuseum will Gurlitt-Erbe annehmen','Gurlitt-Sammlung');
+//-->
+</script>
+<div class="ArticleLandscapeImage">
+                <div class="breaker placeHolder"></div>
+        <div class="ContentImage">
+            <img src="/image/view/2014/10/21/29114130,23007807,dmFlashTeaserRes,dpa_1489F0002B18CC94.jpg" alt="" style="cursor:default;"/>
+            <div class="imgSublineLandscape">
+        
+
+Das Namensschild von Cornelius Gurlitt. (Archivbild)
+    &nbsp;Foto&#58;&nbsp;dpa</div>
+</div>
+    </div>
+            
+            <p class="teasertext">
+
+Lange hat das Kunstmuseum Bern gewartet, nun nimmt das Haus das umstrittene Erbe des Kunstsammlers Cornelius Gurlitt an. Die Sammlung umfasst Hunderte Werke, bei denen nicht auszuschließen ist, dass es sich um Nazi-Raubkunst handelt.</p>
+        
+            <div class="SocialArticleHeader">
+
+    <div class="TwitterArticleHeader">
+    <a href="http://twitter.com/share?via=FRonline" class="twitter-share-button" data-count="horizontal"
+       data-lang="de"
+       data-url="http://www.fr-online.de/raubkunst/gurlitt-sammlung-kunstmuseum-will-gurlitt-erbe-annehmen,25064474,29114124.html">Tweet</a>
+
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+    </div>
+<div class="FacebookArticleHeader">
+          <fb:like
+            href="http://www.fr-online.de/raubkunst/gurlitt-sammlung-kunstmuseum-will-gurlitt-erbe-annehmen,25064474,29114124.html"
+            layout="button_count" show_faces="true" action="recommend" font="arial" colorscheme="light"
+            style="width:113px;" class=" fb_edge_widget_with_comment fb_iframe_widget"></fb:like>
+        </div>
+    <div class="GoogleplusHeader">
+            <script type="text/javascript" src="https://apis.google.com/js/plusone.js"> {
+                lang: 'de'
+            }</script>
+            <g:plusone size="medium"></g:plusone>
+        </div>
+    <a href="#" onclick="dm.popIt(800,600,'/raubkunst/gurlitt-sammlung-kunstmuseum-will-gurlitt-erbe-annehmen,25064474,29114124,view,printVersion.html');return false;" class="btn right light"><span class="print"></span> Drucken</a>
+
+    <a href="#" onclick="dm.sse.toggleFormAsync('/raubkunst/gurlitt-sammlung-kunstmuseum-will-gurlitt-erbe-annehmen,25064474,29114124,view,recommend.html?postMode=ajax', 'inlineContactForm', 'recommend_29114124');return false;" class="btn right light"><span class="mail"></span>per Mail</a>
+    <div class="breaker"></div>
+    <div id="inlineContactForm"></div>
+    <div class="breaker"></div>
+</div>
+<div class="article_text">
+                <p itemprop="text">Das Kunstmuseum Bern will das umstrittene Erbe des Kunstsammlers Cornelius Gurlitt annehmen. Wie die Deutsche Presse-Agentur am Freitag in Berlin erfuhr, hat sich das Haus nach gründlicher Prüfung zu dem Schritt entschlossen.</p><p itemprop="text">Am Donnerstag hatten der Bund, der Freistaat Bayern und das Museum für den kommenden Montag zu einer gemeinsamen Pressekonferenz in Berlin eingeladen. Die Sammlung Gurlitt umfasst Hunderte Werke, bei denen nicht auszuschließen ist, dass es sich um Nazi-Raubkunst handelt.</p><p itemprop="text">Der am 6. Mai gestorbene Kunstsammler Gurlitt, dessen Vater einer von Adolf Hitlers Kunsthändlern war, hatte sein komplettes Vermögen inklusive der millionenschweren Sammlung dem Kunstmuseum Bern vermacht. Das Museum hatte sich mit der Entscheidung viel Zeit gelassen und die gesetzliche Frist zur Annahme des Erbes nahezu völlig ausgeschöpft.</p><div class="EmbeddedModule Gallery Imageline Full" id="Gallery_25039562">
+    <div class="breaker"></div>
+    <div class="breaker"></div>
+
+<div class="Head">
+        <div class="HeadText">Das sind die Gurlitt-Schätze</div>
+        <div class="galleryClose Hidden">
+                <a class="close_btn" href=""></a>
+            </div>
+        </div>
+<div class="Content">
+    <div class="FullSize Hidden">
+        <div class="SlideContainer">
+            <div class="Slides">
+                <img class="shortcuts_red" id="ShortCut_Red_Gallery_25039562" src="/mauritius/images/pfeiltasten.png" alt="" style="width:120px;height:74px;margin-left:-60px;">
+                <div class="Slide Image Measure" id="Slide_0">
+    <div class="OverlayContent">
+            <img src="/image/view/2013/10/15/25039532,22953755,highRes,dpa_1486D800BA87F00C.jpg" alt="" title=""  />
+        </div>
+    <div class="Subline">
+        <p itemprop="text">25 Kunstwerke aus dem Gurlitt-Fund wurden bislang offiziell erfasst. Dazu zählt Otto Griebel "Kind am Tisch", ein undatiertes Aquarell.</p>
+    &nbsp;Foto&#58;&nbsp;dpa</div>
+</div></div>
+            <div class="Overlay Prev"></div>
+                <div class="Overlay Next"></div>
+            <div class="Loader"></div>
+        </div>
+        <div class="Controls Bottom">
+    <noscript>
+                    <a href="/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562.html?item_gal=24">
+                </noscript>
+                        <span class="Control Prev">« zurück</span>
+                <noscript>
+                    </a>
+                </noscript>
+            <span class="Control Status">
+                    <span class="Current">1</span>
+                    <span class="Glue">|</span>
+                    <span class="Count">25</span>
+                </span>
+            <noscript>
+                    <a href="/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562.html?item_gal=1">
+                </noscript>
+                        <span class="Control Next">weiter »</span>
+                <noscript>
+                    </a>
+                </noscript>
+            <div class="breaker"></div>
+</div></div>
+
+    <div class="Preview">
+    <div class="Thumbnails">
+        <div class="Thumbnail">
+                <img src="/image/view/2013/10/15/25039532,22953759,dmGalleryRes,dpa_1486D800BA87F00C.jpg" height="90" width="120" border="0" alt="25 Kunstwerke aus dem Gurlitt-Fund wurden bislang offiziell erfasst. Dazu zählt Otto Griebel &#034;Kind am Tisch&#034;, ein undatiertes Aquarell." />
+</div>
+        <div class="Thumbnail">
+                <img src="/image/view/2013/10/15/25039530,22953769,dmGalleryRes,dpa_1486D800E9CB8CC9.jpg" height="90" width="120" border="0" alt="Ebenfalls in der Gurlitt-Wohnung gefunden: Hans Christoph: &#034;Paar&#034;, Aquarell, 1924. " />
+</div>
+        <div class="Thumbnail">
+                <img src="/image/view/2013/10/15/25039490,22953400,dmGalleryRes,dpa_1486D800AC562B5E.jpg" height="90" width="120" border="0" alt="Bernhard Kretschmar: &#034;Straßenbahn&#034;, undatiertes Aquarell" />
+</div>
+        <div class="breaker"></div>
+    </div>
+    <div class="Label">
+        <a href="#">Bildergalerie (24 Bilder)</a>
+    </div>
+</div>
+
+</div>
+
+<script type="text/javascript">
+    var gallery_25039562 = new dm.gallery('Gallery_25039562', {'44059197-a79f-44d1-bc89-8fe56731b423-25039532': {'id': '44059197-a79f-44d1-bc89-8fe56731b423-25039532', 'url': '/kultur/dpa-1486d800ba87f00c,1472786,25039532,view,asGallerySlide.html?galerieID=25039562&index=0', 'content': null, 'loaded': false, 'position': 0, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039532.html'},
+        'cb57965d-29b5-4717-85d2-609d8a7311cb-25039530': {'id': 'cb57965d-29b5-4717-85d2-609d8a7311cb-25039530', 'url': '/kultur/dpa-1486d800e9cb8cc9,1472786,25039530,view,asGallerySlide.html?galerieID=25039562&index=1', 'content': null, 'loaded': false, 'position': 1, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039530.html'},
+        '4c17e63e-0544-41b0-a139-25dec6a0289a-25039490': {'id': '4c17e63e-0544-41b0-a139-25dec6a0289a-25039490', 'url': '/kultur/dpa-1486d800ac562b5e,1472786,25039490,view,asGallerySlide.html?galerieID=25039562&index=2', 'content': null, 'loaded': false, 'position': 2, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039490.html'},
+        '689c0ff9-a4ed-4ce7-bd7c-6348018d5191-25039500': {'id': '689c0ff9-a4ed-4ce7-bd7c-6348018d5191-25039500', 'url': '/kultur/dpa-1486d8002d8ca3ab,1472786,25039500,view,asGallerySlide.html?galerieID=25039562&index=3', 'content': null, 'loaded': false, 'position': 3, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039500.html'},
+        'ffae4819-7a41-4176-bb13-991bf20aff09-25039496': {'id': 'ffae4819-7a41-4176-bb13-991bf20aff09-25039496', 'url': '/kultur/dpa-1486d800ab34b8ff,1472786,25039496,view,asGallerySlide.html?galerieID=25039562&index=4', 'content': null, 'loaded': false, 'position': 4, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039496.html'},
+        '4b604716-9af7-4f76-8233-efda3adf72c9-25039486': {'id': '4b604716-9af7-4f76-8233-efda3adf72c9-25039486', 'url': '/kultur/dpa-1486d800244dc853,1472786,25039486,view,asGallerySlide.html?galerieID=25039562&index=5', 'content': null, 'loaded': false, 'position': 5, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039486.html'},
+        '7260a9ff-d1ef-42d6-bf37-39319e273075-25039524': {'id': '7260a9ff-d1ef-42d6-bf37-39319e273075-25039524', 'url': '/kultur/dpa-1486d80076d4ea3a,1472786,25039524,view,asGallerySlide.html?galerieID=25039562&index=6', 'content': null, 'loaded': false, 'position': 6, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039524.html'},
+        '919a71d2-8f4d-4321-9adc-ff75d8306402-25039492': {'id': '919a71d2-8f4d-4321-9adc-ff75d8306402-25039492', 'url': '/kultur/dpa-1486d800af503bf6,1472786,25039492,view,asGallerySlide.html?galerieID=25039562&index=7', 'content': null, 'loaded': false, 'position': 7, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039492.html'},
+        'aa56e635-467c-4930-bc28-cb8f34379873-25039502': {'id': 'aa56e635-467c-4930-bc28-cb8f34379873-25039502', 'url': '/kultur/dpa-1486d800c68ee3ca,1472786,25039502,view,asGallerySlide.html?galerieID=25039562&index=8', 'content': null, 'loaded': false, 'position': 8, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039502.html'},
+        'bfc4388f-1a70-4674-bc95-7f0f8d9c302a-25039512': {'id': 'bfc4388f-1a70-4674-bc95-7f0f8d9c302a-25039512', 'url': '/kultur/dpa-1486d8005f6b0df8,1472786,25039512,view,asGallerySlide.html?galerieID=25039562&index=9', 'content': null, 'loaded': false, 'position': 9, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039512.html'},
+        '28c02e40-57d4-4604-9f07-b90082675806-25039498': {'id': '28c02e40-57d4-4604-9f07-b90082675806-25039498', 'url': '/kultur/dpa-1486d800e628098a,1472786,25039498,view,asGallerySlide.html?galerieID=25039562&index=10', 'content': null, 'loaded': false, 'position': 10, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039498.html'},
+        'c5620fba-da6d-49c8-b988-7f4c88d6c6fc-25039540': {'id': 'c5620fba-da6d-49c8-b988-7f4c88d6c6fc-25039540', 'url': '/kultur/dpa-1486d800904a7e8b,1472786,25039540,view,asGallerySlide.html?galerieID=25039562&index=11', 'content': null, 'loaded': false, 'position': 11, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039540.html'},
+        '7b165c6f-94b2-40db-9a6f-2d2d5334b97a-25039538': {'id': '7b165c6f-94b2-40db-9a6f-2d2d5334b97a-25039538', 'url': '/kultur/dpa-1486d800b6121b64,1472786,25039538,view,asGallerySlide.html?galerieID=25039562&index=12', 'content': null, 'loaded': false, 'position': 12, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039538.html'},
+        'ee444ca4-7783-4d76-af87-e150d7752519-25039528': {'id': 'ee444ca4-7783-4d76-af87-e150d7752519-25039528', 'url': '/kultur/dpa-1486d80032e60a5d,1472786,25039528,view,asGallerySlide.html?galerieID=25039562&index=13', 'content': null, 'loaded': false, 'position': 13, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039528.html'},
+        'b2c6ba5e-0a7f-4d59-9abd-5a5bd703728a-25039526': {'id': 'b2c6ba5e-0a7f-4d59-9abd-5a5bd703728a-25039526', 'url': '/kultur/dpa-1486d8005313a041,1472786,25039526,view,asGallerySlide.html?galerieID=25039562&index=14', 'content': null, 'loaded': false, 'position': 14, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039526.html'},
+        '269af0a8-1e4c-42ab-9db6-edc78c04a0e5-25039518': {'id': '269af0a8-1e4c-42ab-9db6-edc78c04a0e5-25039518', 'url': '/kultur/dpa-1486d8008c6a6044,1472786,25039518,view,asGallerySlide.html?galerieID=25039562&index=15', 'content': null, 'loaded': false, 'position': 15, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039518.html'},
+        '8b20de36-ce76-4c60-a3a8-019f7dfe1c07-25039520': {'id': '8b20de36-ce76-4c60-a3a8-019f7dfe1c07-25039520', 'url': '/kultur/dpa-1486d800d7540456,1472786,25039520,view,asGallerySlide.html?galerieID=25039562&index=16', 'content': null, 'loaded': false, 'position': 16, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039520.html'},
+        '6d7d9545-2540-4c10-ac5c-4dfcf7b8da04-25039516': {'id': '6d7d9545-2540-4c10-ac5c-4dfcf7b8da04-25039516', 'url': '/kultur/dpa-1486d800a11aef49,1472786,25039516,view,asGallerySlide.html?galerieID=25039562&index=17', 'content': null, 'loaded': false, 'position': 17, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039516.html'},
+        'ee05f1eb-90cb-48bf-bb21-1631d8522efe-25039514': {'id': 'ee05f1eb-90cb-48bf-bb21-1631d8522efe-25039514', 'url': '/kultur/dpa-1486d8000f6ed1b2,1472786,25039514,view,asGallerySlide.html?galerieID=25039562&index=18', 'content': null, 'loaded': false, 'position': 18, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039514.html'},
+        '6d6b3993-b62c-4ad5-8074-0517826bf4cc-25039510': {'id': '6d6b3993-b62c-4ad5-8074-0517826bf4cc-25039510', 'url': '/kultur/dpa-1486d800451c2e2e,1472786,25039510,view,asGallerySlide.html?galerieID=25039562&index=19', 'content': null, 'loaded': false, 'position': 19, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039510.html'},
+        'f6302a5f-da84-42ce-8142-f98fbacf3df4-25039504': {'id': 'f6302a5f-da84-42ce-8142-f98fbacf3df4-25039504', 'url': '/kultur/dpa-1486d80075049e76,1472786,25039504,view,asGallerySlide.html?galerieID=25039562&index=20', 'content': null, 'loaded': false, 'position': 20, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039504.html'},
+        '68600015-eea0-4fea-a89d-17d3bd44f7ba-25039494': {'id': '68600015-eea0-4fea-a89d-17d3bd44f7ba-25039494', 'url': '/kultur/dpa-1486d800d3d6104f,1472786,25039494,view,asGallerySlide.html?galerieID=25039562&index=21', 'content': null, 'loaded': false, 'position': 21, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039494.html'},
+        'fa85651a-e1cf-46a6-8ed7-82f445bbe2d0-25039488': {'id': 'fa85651a-e1cf-46a6-8ed7-82f445bbe2d0-25039488', 'url': '/kultur/dpa-1486d80006939808,1472786,25039488,view,asGallerySlide.html?galerieID=25039562&index=22', 'content': null, 'loaded': false, 'position': 22, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039488.html'},
+        '12131930-2b9c-457d-8411-871dcf0e7089-25039484': {'id': '12131930-2b9c-457d-8411-871dcf0e7089-25039484', 'url': '/kultur/dpa-1486d800b1107a08,1472786,25039484,view,asGallerySlide.html?galerieID=25039562&index=23', 'content': null, 'loaded': false, 'position': 23, 'shareLink': 'http://www.fr-online.de/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562,itemid,25039484.html'}
+        ,8737698: {'id': '8737698', 'url': '/fotogalerien,1473788,8737698,view,asGalleryTeaserWall.html', 'content': null, 'loaded': false, 'position': 24}}, '/advertorials,1473792,21032050,view,asGallerySlide.html', 5, '');
+</script>
+<div id="AdCloudEmbedded_Gallery_25039562" class="AdCloudEmbedded Hidden">
+                    <div class="ad-location-container  adSkin triggerRectangle">
+    <div class="ad-location-head showTitle">
+        <p class="ad-location-title">Anzeige</p>
+    </div>
+
+    <div class="ad-location-body">
+        <div class="ad-location-item" data-contentId="#25039562">
+    <div id='oms_gpt_custom_25039562'>
+                <script type="text/javascript">
+                            var slot_oms_gpt_custom_25039562;
+                            googletag.cmd.push(function() {
+                                slot_oms_gpt_custom_25039562 = googletag.defineSlot('/'+oms_dm_network+'/'+oms_site+'/'+'sonstiges_fotos/artikel', [480, 200], 'oms_gpt_custom_25039562').addService(googletag.pubads());
+                                googletag.display('oms_gpt_custom_25039562');
+                            });
+                        </script>
+                    </div>
+        </div>
+</div>
+</div>
+</div>
+            </div>
+
+
+
+<script type="text/javascript">
+    <!--
+    // register exaCounter reloading
+    
+
+    // register IVW pixel reloading
+    
+        ivwArea = 'fr_kul';
+        adRegister.registerAd("ivw_25039562",new Array("gallery_25039562"),function(){dm.reloadIVW()});
+    
+
+    //-->
+</script><script type="text/javascript">
+      if(AnalyticsContentID != undefined){
+          var valitonGalleryTracker = new dm.valitonGalleryTracker(gallery_25039562, "25039562", AnalyticsContentID, AnalyticsContentID);
+          adRegister.registerAd("valiton_25039562", new Array("gallery_25039562"), dojo.hitch(valitonGalleryTracker, valitonGalleryTracker.reload));
+      }
+</script>
+
+<p itemprop="text">Vor wenigen Tagen hatte ein Gutachten Schlagzeilen gemacht, wonach Gurlitt bei dem Verfassen seines Testaments nicht zurechnungsfähig gewesen sein soll. Seine Cousine Uta Werner, die gesetzliche Erbin gewesen wäre, und weitere Familienmitglieder hatten das Gutachten in Auftrag gegeben. Beim Amtsgericht München, dem zuständigen Nachlassgericht, waren bis zum Freitag nach Angaben einer Sprecherin aber keine offiziellen Forderungen eingegangen.</p><p itemprop="text">Der Cousin Dietrich Gurlitt, der wie seine Schwester erbberechtigt gewesen wäre, wenn Bern nicht geerbt hätte, distanzierte sich dagegen von dem Gutachten. (dpa)</p><div class="article_home_btn_wrapper">
+                        <a href="http://www.fr-online.de" class="article_home_btn">Zur Homepage<span class="article_home_btn_ico"></span></a>
+                    </div>
+                </div>
+
+
+            <div class="breaker"></div>
+<div class="breaker"></div>
+
+            <div class="jump_to_comments_link_holder">
+                    <a class="jump_to_comments_link" href="#disqus_jump_target">Jetzt kommentieren!</a>
+                    </div>
+            <div class="breaker"></div>
+
+            <div class="links">
+        <div class="link_gallery">
+        <a  href="/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562.html"><span>
+                    Fotostrecke: </span>
+            Das sind die Gurlitt-Schätze</a></div>
+<div class="link_article">
+        <a  href="/raubkunst/gurlitt-sammlung-matisse---sitzende-frau--ist-raubkunst,25064474,27470954.html" title="Gurlitt-Sammlung">Gurlitt-Sammlung: Matisse&#039; «Sitzende Frau» ist Raubkunst</a></div>
+<div class="link_article">
+        <a  href="/raubkunst/erbe-des-kunstsammlers-gurlitt-sammlung-wird-wohl-kein-kulturgut,25064474,27326996.html" title="Erbe des Kunstsammlers">Erbe des Kunstsammlers: Gurlitt-Sammlung wird wohl kein Kulturgut</a></div>
+<div class="link_article">
+        <a  href="/raubkunst/erbe-des-kunstsammlers-gurlitt-bilder-gehen-in-die-schweiz,25064474,27059364.html" title="Erbe des Kunstsammlers">Erbe des Kunstsammlers: Gurlitt-Bilder gehen in die Schweiz</a></div>
+</div>
+    <div class="breaker"></div>
+<div id="nativeadsteaser_article"></div>
+<script type="text/javascript">
+;(function(n,a,t,i,v,e,A,d,s){
+    n[i] || (n[i] = { arg: arguments });
+    s=a.createElement(t);
+    d=a.getElementsByTagName(t)[0];
+    s.src= e + '?v=1&n=' + i + '&pid=' + v + '&hash=' + encodeURIComponent(n.location.hash);
+    s.async=true;
+    d.parentNode.insertBefore(s,d);
+    }(window, document, 'script', 'nativeads', 'VFZSQk5FOUI', 'http://adfarm.nativeads.de/loading.php'));
+</script><div class="SocialArticleHeader">
+
+    <div class="TwitterArticleHeader">
+    <a href="http://twitter.com/share?via=FRonline" class="twitter-share-button" data-count="horizontal"
+       data-lang="de"
+       data-url="http://www.fr-online.de/raubkunst/gurlitt-sammlung-kunstmuseum-will-gurlitt-erbe-annehmen,25064474,29114124.html">Tweet</a>
+
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+    </div>
+<div class="FacebookArticleHeader">
+          <fb:like
+            href="http://www.fr-online.de/raubkunst/gurlitt-sammlung-kunstmuseum-will-gurlitt-erbe-annehmen,25064474,29114124.html"
+            layout="button_count" show_faces="true" action="recommend" font="arial" colorscheme="light"
+            style="width:113px;" class=" fb_edge_widget_with_comment fb_iframe_widget"></fb:like>
+        </div>
+    <div class="GoogleplusHeader">
+            <g:plusone size="medium"></g:plusone>
+        </div>
+    <a href="#" onclick="dm.sse.toggleFormAsync('/raubkunst/gurlitt-sammlung-kunstmuseum-will-gurlitt-erbe-annehmen,25064474,29114124,view,letterToEditor.html?postMode=ajax', 'inlineReportErrorForm', 'letter_to_editor_29114124');return false;" class="btn right light">Leserbrief</a>
+    
+    <a href="#"  onclick="dm.popIt(800,600,'/raubkunst/gurlitt-sammlung-kunstmuseum-will-gurlitt-erbe-annehmen,25064474,29114124,view,printVersion.html');return false;"  class="btn right light"><span class="printIcon"></span></a>
+    
+    <a href="#" onclick="dm.sse.toggleFormAsync('/raubkunst/gurlitt-sammlung-kunstmuseum-will-gurlitt-erbe-annehmen,25064474,29114124,view,recommend.html?postMode=ajax', 'inlineContactFormBottom', 'recommend_29114124');return false;" class="btn right light"><span class="mailIcon"></span></a>
+    
+    <div class="breaker"></div>
+    <div id="inlineContactFormBottom"></div>
+    <div id="inlineReportErrorForm"></div>
+    <div class="breaker"></div>
+</div>
+</div>
+    <div id="plista_widget_belowArticle"></div>
+
+    <script type="text/javascript">
+        try {
+        
+        PLISTA.domainid = 1578;
+        
+
+        // take care to escape quotes and line breaks
+        PLISTA.items.push({
+            objectid:"29114124",
+            kicker:"Gurlitt-Sammlung",
+            title:"Kunstmuseum will Gurlitt-Erbe annehmen",
+            text:"  Lange hat das Kunstmuseum Bern gewartet, nun nimmt das Haus das umstrittene Erbe des Kunstsammlers Cornelius Gurlitt an. Die Sammlung umfasst Hunderte Werke, bei denen nicht auszuschließen ist, dass es sich um Nazi-Raubkunst handelt.",
+            url:document.location.href,
+            kind:"article",
+            img:"http://www.fr-online.de/image/view/2014/10/21/29114130,23007802,lowRes,dpa_1489F0002B18CC94.jpg",
+            category:"Kultur_Dossier_Raubkunst_",
+            expires_at:"1432114477000",
+            created_at:"1416562287000"
+        });
+
+        //picture ads
+        
+
+	    //Listwidgets Slide
+        
+
+        //partner init
+        PLISTA.partner.init();
+
+        } catch (e) {
+            if (typeof plista != 'undefined') {
+                document.write('<' + 'script type="text/javascript" src="' + PLISTA.path + 'errorreport.js?error=' + encodeURIComponent(e) + '"><' + '/script>');
+            }
+        }
+    </script>
+
+<div class="breaker" style="height:12px;"></div>
+    <div class="bottomAd">
+        <div class="ad-location-container  adSkin triggerRectangle">
+    <div class="ad-location-head showTitle">
+        <p class="ad-location-title">Anzeige</p>
+    </div>
+
+    <div class="ad-location-body">
+        <div class="ad-location-item" data-contentId="#29114124">
+    <div id='oms_gpt_bottomAd'>
+                <script type="text/javascript">
+                            var slot_oms_gpt_bottomAd;
+                            googletag.cmd.push(function() {
+                                slot_oms_gpt_bottomAd = googletag.defineSlot('/'+oms_dm_network+'/'+oms_site+'/'+oms_zone, [300, 300], 'oms_gpt_bottomAd').addService(googletag.pubads());
+                                googletag.display('oms_gpt_bottomAd');
+                            });
+                        </script>
+                    </div>
+        </div>
+</div>
+</div>
+</div>
+
+    <span id="disqus_jump_target"></span>
+                        <div id="disqus_thread"></div>
+                        <script type="text/javascript">
+                            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                            var disqus_shortname = 'fr-online';
+                            var disqus_identifier = 'fr_29114124';
+                            /* * * DON'T EDIT BELOW THIS LINE * * */
+                            (function() {
+                                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                            })();
+                        </script>
+                        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+                    </div>
+
+<div id="ContainerBoxen" >
+    <div class="ad-location-container  adSkin triggerRectangle">
+    <div class="ad-location-head showTitle">
+        <p class="ad-location-title">Anzeige</p>
+    </div>
+
+    <div class="ad-location-body">
+        <div class="ad-location-item" data-contentId="#1471916">
+    <div id='oms_gpt_rectangle'>
+                <script type="text/javascript">
+                            var slot_oms_gpt_rectangle;
+                            googletag.cmd.push(function() {
+                                slot_oms_gpt_rectangle = googletag.defineSlot('/'+oms_dm_network+'/'+oms_site+'/'+oms_zone, [[300, 250],[300, 600]], 'oms_gpt_rectangle').addService(googletag.pubads());
+                                googletag.display('oms_gpt_rectangle');
+                            });
+                        </script>
+                    </div>
+        </div>
+</div>
+</div>
+<div class="Redaktionsmodul socialRss">
+    <div class="Rubrik">Dossier</div>
+<div class="breaker"></div>
+<div class="FullBoxColor">
+    <div class="Headline">
+                <a  href="/raubkunst/25064474,25064474.html">Münchner Kunstfund bei Cornelius Gurlitt</a></div>
+        <p itemprop="text">Der Münchener Kunstfund hebt das Thema Nazi-Raubkunst endlich auf die politische Agenda. Cornelius Gurlitt, Besitzer des Kunstschatzes, will alle Bilder behalten. Zollfahnder hatten in seiner Wohnung 1406 wertvolle, teils verschollen geglaubte Werke sichergestellt. Die Justiz ermittelt wegen Steuerhinterziehung und Unterschlagung.</p><div class="breaker"></div>
+</div><div class="channelFeed">
+    <a  href="/raubkunst/25064474,25064474,view,asFeed.xml" class="rssLink"><img
+            src="/image/view/1474022,1608,lowRes,rss.jpg" alt="RSS Feed"/>Dossier als Feed abonnieren</a><a  href="/digital/rss-feeds-bei-fr-online-de-nachrichten-abonnieren-oder-auf-der-eigenen-website-einbauen,1472406,2630720.html" class="helpLink" title="RSS-Feeds bei FR-online.de"><img
+                src="/image/view/2011/11/1/11250184,8475804,lowRes,help.gif" alt="Info"/>Info</a></div>
+<div class="breaker"></div>
+<div class="socialButtons">
+    <div class="TwitterArticleHeader">
+    <a href="http://twitter.com/share?via=FRonline" class="twitter-share-button" data-count="horizontal"
+       data-lang="de"
+       data-url="http://www.fr-online.de/raubkunst/25064474,25064474.html">Tweet</a>
+
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+    </div>
+<div class="FacebookArticleHeader">
+        <fb:like
+            href="http://www.fr-online.de/raubkunst/25064474,25064474.html"
+            layout="button_count" show_faces="true" action="recommend" font="arial" colorscheme="light"
+            style="width:113px;" class=" fb_edge_widget_with_comment fb_iframe_widget"></fb:like>
+    </div>
+</div>
+<div class="breaker"></div>
+<div class="socialButtons">
+    <div class="GoogleplusHeader">
+        <script type="text/javascript" src="https://apis.google.com/js/plusone.js"> {
+            lang: 'de'
+        }</script>
+        <g:plusone size="medium"></g:plusone>
+    </div>
+
+    <div class="">
+    <a href="#"
+    onclick="dm.sse.toggleFormAsync('/raubkunst/25064474,25064474,view,recommend.html?postMode=ajax', 'inlineContactForm', 'recommend_25064474');return false;"
+    title="Empfehlen" class="btn right light"><span class="mail"></span>per Mail</a>
+</div><div id="inlineContactForm"></div></div>
+<div class="breaker"></div>
+
+</div>
+
+
+<div class="Redaktionsmodul">        
+<div class="Rubrik">Fotostrecke</div>        
+<div class="breaker"></div>
+<div class="FullBoxColor">          
+<div class="Headline"><a href=/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562.html>Das sind die Gurlitt-Schätze</a></div>
+<a  href="/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562.html"><img src="/image/view/2013/10/18/25065100,23005604,dmData,raub.jpg" width="300" border="0" alt="Otto Griebels Kind am Tisch" style="margin:9px 0px 9px 0px;" /></a>
+<p>Otto Griebels "Kind am Tisch", ein undatiertes Aquarell, zählt zu den Kunstwerken aus dem Gurlitt-Bestand. Weitere Funde in unserer <a  href="/raubkunst/das-sind-die-gurlitt-schaetze,25064474,25039562.html"><strong>Galerie</strong></a>.</p>
+<div class="breaker"></div>
+</div>
+</div>
+<div class="breaker"></div>
+
+<div class="TopArticleHeader">
+            <a  href="/raubkunst/25064474,25064474.html"><div class="ItemHeadline3">Raubkunst</div>
+                    </a></div>
+        <div class="TopArticle">
+            <div class="BoxTeaserLink Numbers">
+                            <div class="Number">
+                                <div class="ArrowIcon"></div></div>
+                            <div class="Article">
+                                <div class="ItemHeadline3">Sammlung Cornelius Gurlitt&nbsp;</div>
+                                <div class="ItemHeadline2">
+                                    <a  href="/raubkunst/sammlung-cornelius-gurlitt-erstes-gurlitt-bild-vor-rueckgabe,25064474,30179760.html" title="Sammlung Cornelius Gurlitt">Erstes Gurlitt-Bild vor Rückgabe</a></div>
+                            </div>
+                            <div class="breaker"></div>
+                        </div>
+                    <div class="BoxTeaserLink Numbers">
+                            <div class="Number">
+                                <div class="ArrowIcon"></div></div>
+                            <div class="Article">
+                                <div class="ItemHeadline3">Kunst-Fund in München&nbsp;</div>
+                                <div class="ItemHeadline2">
+                                    <a  href="/raubkunst/kunst-fund-in-muenchen-weiter-streit-um-gurlitt-erbe,25064474,29882894.html" title="Kunst-Fund in M&uuml;nchen">Weiter Streit um Gurlitt-Erbe</a></div>
+                            </div>
+                            <div class="breaker"></div>
+                        </div>
+                    <div class="BoxTeaserLink Numbers">
+                            <div class="Number">
+                                <div class="ArrowIcon"></div></div>
+                            <div class="Article">
+                                <div class="ItemHeadline3">Raubkunst&nbsp;</div>
+                                <div class="ItemHeadline2">
+                                    <a  href="/raubkunst/raubkunst-gerissen-und-gewissenlos,25064474,29466250.html" title="Raubkunst">Gerissen und gewissenlos</a></div>
+                            </div>
+                            <div class="breaker"></div>
+                        </div>
+                    <div class="BoxTeaserLink Numbers">
+                            <div class="Number">
+                                <div class="ArrowIcon"></div></div>
+                            <div class="Article">
+                                <div class="ItemHeadline3">Gurlitt-Erbe&nbsp;</div>
+                                <div class="ItemHeadline2">
+                                    <a  href="/raubkunst/gurlitt-erbe-eine-anonyme-freundin,25064474,29162992.html" title="Gurlitt-Erbe">Eine anonyme Freundin</a></div>
+                            </div>
+                            <div class="breaker"></div>
+                        </div>
+                    <div class="BoxTeaserLink Numbers last">
+                            <div class="Number">
+                                <div class="ArrowIcon"></div></div>
+                            <div class="Article">
+                                <div class="ItemHeadline3">Gurlitt-Erbe&nbsp;</div>
+                                <div class="ItemHeadline2">
+                                    <a  href="/raubkunst/gurlitt-erbe-meilenstein-oder-frechheit,25064474,29153114.html" title="Gurlitt-Erbe">Meilenstein oder Frechheit</a></div>
+                            </div>
+                            <div class="breaker"></div>
+                        </div>
+                    </div>
+    <div class="breaker"></div><div class="Redaktionsmodul">
+        <div class="Rubrik">Lost Art</div>
+<div class="breaker"></div>
+<div class="FullBoxColor">
+    <div class="Headline">
+                <a  href="http://www.lostart.de/Webs/DE/Datenbank/KunstfundMuenchen.html">Daten zum Schwabinger Kunstfund </a></div>
+        <p itemprop="text">Die Koordinierungsstelle Magdeburg veröffentlicht in der <a href="http://www.lostart.de/Webs/DE/Datenbank/KunstfundMuenchen.html" target="_blank"><strong>Datenbank "Lost Art"</strong></a> erste Werke, bei denen der begründete Verdacht auf NS-verfolgungsbedingten Entzug besteht. </p><div class="breaker"></div>
+</div></div>
+<div class="HtmlBox">
+    
+    <div class="Caption">
+            <div class="ItemHeadline3">
+                
+
+Videonachrichten: Raubkunst</div>
+        </div>
+    <div class="Content">
+        
+<script type="text/javascript">
+bc_widget_rightboxa({'token':'3xFt5ir9UDfKUN5jRDZ5eNLIFso_W95WGyeQCd_vDYZEWvt8oCVBPQ..', 'url':'/videos/1472414,1472414.html', 'dir':'http://www.fr-online.de/mauritius/js/bc/rightboxa_fr/', 'postfix':'', 'width':300, 'tsSize':16/9, 'playerIds':[30884242001], 'playlistIds':[2844902876001], 'TsTabs':['Aktuelle Videos']});
+</script>
+<style>
+div.bc_widget_rba div.bc_outer div.bc_inner div.bc_video div.bc_thumb {
+height:60px;
+width: 80px;
+}
+DIV.bc_widget_rba DIV.bc_outer DIV.bc_inner DIV.bc_video DIV.bc_video_title {
+height: 36px;
+}
+</style></div>
+</div><div class="Redaktionsmodul">
+        <div class="Rubrik">FR-App und E-Paper</div>
+<div class="breaker"></div>
+<div class="FullBoxColor">
+    <a  href="/wir-ueber-uns/fr-app-und-e-paper-das-ipad-air-mit-dem-fr-digital-paket,4353508,25075696.html" title="FR-App und E-Paper"><img src="/image/view/2013/10/19/25076734,23027258,dmGalleryRes,iPad_Air_links_schraeg_spacegrau_ePaper_FR_130601_RGB_L.png" height="90" width="120" border="0" alt="" />
+</a><div class="Headline">
+                <a  href="/wir-ueber-uns/fr-app-und-e-paper-das-ipad-air-mit-dem-fr-digital-paket,4353508,25075696.html" title="FR-App und E-Paper">Das iPad Air mit dem FR-Digital-Paket</a></div>
+        <p class="MsoNormal">Bei uns bekommen Sie das neue iPad Air von Apple im Paket mit der preisgekrönten FR-App - einschließlich aller FR-Ausgaben im Layout der Zeitung als E-Paper. </p><div class="breaker"></div>
+</div></div>
+<div class="breaker"></div>
+
+<div class="TopArticleHeader">
+            <a  href="/kultur/1472786,1472786.html"><div class="ItemHeadline3">Kultur</div>
+                    </a></div>
+        <div class="TopArticle">
+            <div class="BoxTeaserLink Numbers">
+                            <div class="Number">
+                                <div class="ArrowIcon"></div></div>
+                            <div class="Article">
+                                <div class="ItemHeadline3">Gerhard Altenbourg Berlin&nbsp;</div>
+                                <div class="ItemHeadline2">
+                                    <a  href="/kunst/gerhard-altenbourg-berlin-waermestrom-in-bleierner-zeit,1473354,30199210.html" title="Gerhard Altenbourg Berlin">Wärmestrom in bleierner Zeit</a></div>
+                            </div>
+                            <div class="breaker"></div>
+                        </div>
+                    <div class="BoxTeaserLink Numbers">
+                            <div class="Number">
+                                <div class="ArrowIcon"></div></div>
+                            <div class="Article">
+                                <div class="ItemHeadline3">Angelika Neuwirth „Koranforschung“&nbsp;</div>
+                                <div class="ItemHeadline2">
+                                    <a  href="/literatur/angelika-neuwirth--koranforschung--der-verkuender-und-seine-hoerer,1472266,30199178.html" title="Angelika Neuwirth &bdquo;Koranforschung&ldquo;">Der Verkünder und seine Hörer</a></div>
+                            </div>
+                            <div class="breaker"></div>
+                        </div>
+                    <div class="BoxTeaserLink Numbers">
+                            <div class="Number">
+                                <div class="ArrowIcon"></div></div>
+                            <div class="Article">
+                                <div class="ItemHeadline3">Alte Oper Ingo Metzmacher&nbsp;</div>
+                                <div class="ItemHeadline2">
+                                    <a  href="/musik/alte-oper-ingo-metzmacher-blick-in-den-gaehnenden-abgrund,1473348,30199182.html" title="Alte Oper Ingo Metzmacher">Blick in den gähnenden Abgrund</a></div>
+                            </div>
+                            <div class="breaker"></div>
+                        </div>
+                    <div class="BoxTeaserLink Numbers">
+                            <div class="Number">
+                                <div class="ArrowIcon"></div></div>
+                            <div class="Article">
+                                <div class="ItemHeadline3">Sam Lee &#034;The Fade in Time&#034;&nbsp;</div>
+                                <div class="ItemHeadline2">
+                                    <a  href="/musik/sam-lee--the-fade-in-time--heidehuegel-fuer-maggie,1473348,30199198.html" title="Sam Lee &quot;The Fade in Time&quot;">Heidehügel für Maggie</a></div>
+                            </div>
+                            <div class="breaker"></div>
+                        </div>
+                    <div class="BoxTeaserLink Numbers last">
+                            <div class="Number">
+                                <div class="ArrowIcon"></div></div>
+                            <div class="Article">
+                                <div class="ItemHeadline3">Alte Oper Johannes Fischer&nbsp;</div>
+                                <div class="ItemHeadline2">
+                                    <a  href="/musik/alte-oper-johannes-fischer-der-klang-der-teufel,1473348,30199180.html" title="Alte Oper Johannes Fischer">Der Klang der Teufel</a></div>
+                            </div>
+                            <div class="breaker"></div>
+                        </div>
+                    </div>
+    <div class="breaker"></div><div class="breaker"></div>
+
+<div class="TopCollection">
+        <div class="Rubrik">
+            Fotostrecken Kultur</div>
+
+        <!-- galleries set within collection -->
+        <div class="FullBox TopGallery">
+            <div class="Gallery Odd">
+                        <div class="fImage">
+        <a  href="/kunst/-romantik-im-rhein-main-gebiet--im-museum-giersch,1473354,30174164.html"><img src="/image/view/2015/2/19/30169944,32290674,lowRes,feu_giersch_6.jpg"
+                         title="&#034;Romantik im Rhein-Main-Gebiet&#034; im Museum Giersch"
+                         alt="&#034;Romantik im Rhein-Main-Gebiet&#034; ist vom 22. März bis 19. Juli im Museum Giersch in Frankfurt zu sehen. Hier: Joseph Anton Nikolaus Settegast: Doppelbildnis zweier Mädchen, 1850. Die Romantik war auch als Erfinderin der Kindheit aufgetreten und zeigte ernste, kluge Kinder, aber definitiv Kinder."/>
+                </a><div class="breaker"></div>
+        <div id="img30169944" class="fImageText">
+            <a  href="/kunst/-romantik-im-rhein-main-gebiet--im-museum-giersch,1473354,30174164.html" title="&amp;#034;Romantik im Rhein-Main-Gebiet&amp;#034; im Museum Giersch">"Romantik im Rhein-Main-Gebiet" im Museum Giersch</a></div>
+    </div>
+</div>
+                <div class="Gallery Even">
+                        <div class="fImage">
+        <a  href="/kunst/klaus-staeck-ausstellung--kunst-fuer-alle-,1473354,30174064.html"><img src="/image/view/2015/2/19/30170394,32284030,lowRes,feu_staeck008.jpg"
+                         title="Klaus-Staeck-Ausstellung &#034;Kunst für alle&#034;"
+                         alt="Klaus Staeck, bis Mai Präsident der Akademie der Künste, in der Ausstellung &#034;Kunst für Alle&#034;. Bis zum 7. Juni zeigt er Werke aus seiner Sammlung."/>
+                </a><div class="breaker"></div>
+        <div id="img30170394" class="fImageText">
+            <a  href="/kunst/klaus-staeck-ausstellung--kunst-fuer-alle-,1473354,30174064.html" title="Klaus-Staeck-Ausstellung &amp;#034;Kunst f&uuml;r alle&amp;#034;">Klaus-Staeck-Ausstellung "Kunst für alle"</a></div>
+    </div>
+</div>
+                <div class="Gallery Odd">
+                        <div class="fImage">
+        <a  href="/kunst/sigmar-polke-retrospektive--museum-ludwig-in-koeln,1473354,30142308.html"><img src="/image/view/2015/2/16/30142230,32232103,lowRes,feu_Polke_Untitled_1986.jpg"
+                         title="Sigmar-Polke-Retrospektive, Museum Ludwig in Köln"
+                         alt="Bis zum 5. Juli in der Sigmar-Polke-Ausstellung &#034;Alibis&#034; im Museum Ludwig zu sehen: Ohne Titel, 1986. Dispersionsfarbe, Tweed auf Persianergewebe."/>
+                </a><div class="breaker"></div>
+        <div id="img30142230" class="fImageText">
+            <a  href="/kunst/sigmar-polke-retrospektive--museum-ludwig-in-koeln,1473354,30142308.html" title="Sigmar-Polke-Retrospektive, Museum Ludwig in K&ouml;ln">Sigmar-Polke-Retrospektive, Museum Ludwig in Köln</a></div>
+    </div>
+</div>
+                <div class="Gallery Even">
+                        <div class="fImage">
+        <a  href="/kunst/isa-genzken-im-mmk,1473354,30106212.html"><img src="/image/view/2015/2/12/30106182,32167198,lowRes,MMK-FS-2.jpg"
+                         title="Isa Genzken im MMK"
+                         alt=""/>
+                </a><div class="breaker"></div>
+        <div id="img30106182" class="fImageText">
+            <a  href="/kunst/isa-genzken-im-mmk,1473354,30106212.html" title="Isa Genzken im MMK">Isa Genzken im MMK</a></div>
+    </div>
+</div>
+                <div class="Gallery Odd">
+                        <div class="fImage">
+        <a  href="/kunst/meister-des-schwingenden--bauten-des-architekten-frei-otto,1473354,30094868.html"><img src="/image/view/2015/2/11/30097572,32151417,lowRes,dpa_148CD400ADC88913.jpg"
+                         title="Meister des Schwingenden: Bauten des Architekten Frei Otto"
+                         alt="Die Zeltdachkonstruktion des Olympiastadions in München machte Frei Otto zum gefeierten Architekten. Am 9. März 2015 ist er gestorben - und wird posthum mit dem wichtigen Pritzker-Architekturpreis geehrt Wir zeigen einige seiner bekanntesten Bauten."/>
+                </a><div class="breaker"></div>
+        <div id="img30097572" class="fImageText">
+            <a  href="/kunst/meister-des-schwingenden--bauten-des-architekten-frei-otto,1473354,30094868.html" title="Meister des Schwingenden: Bauten des Architekten Frei Otto">Meister des Schwingenden: Bauten des Architekten Frei Otto</a></div>
+    </div>
+</div>
+                <div class="Gallery Even">
+                        <div class="fImage">
+        <a  href="/kunst/die-grosse-claude-monet-schau,1473354,30088494.html"><img src="/image/view/2015/2/10/30088426,32134200,lowRes,dpa_148CD400C34443E0.jpg"
+                         title="Die große Claude-Monet-Schau"
+                         alt="Zwei Besucherinnern stehen vor dem Werk &#034;Das Mittagessen: dekorative Tafel&#034; in der großen Claude-Monet-Schau im Städel in Frankfurt am Main."/>
+                </a><div class="breaker"></div>
+        <div id="img30088426" class="fImageText">
+            <a  href="/kunst/die-grosse-claude-monet-schau,1473354,30088494.html" title="Die gro&szlig;e Claude-Monet-Schau">Die große Claude-Monet-Schau</a></div>
+    </div>
+</div>
+                <div class="breaker"></div>
+        </div>
+    </div>
+<div class="HtmlBox">
+    
+    <div class="Caption">
+            <div class="ItemHeadline3">
+                
+
+Videonachrichten Kultur</div>
+        </div>
+    <div class="Content">
+        
+<script type="text/javascript">
+bc_widget_rightboxa({'token':'3xFt5ir9UDfKUN5jRDZ5eNLIFso_W95WGyeQCd_vDYZEWvt8oCVBPQ..', 'url':'/videos/1472414,1472414.html', 'dir':'http://www.fr-online.de/mauritius/js/bc/rightboxa_fr/', 'postfix':'', 'width':300, 'tsSize':16/9, 'playerIds':[30881400001], 'playlistIds':[30421015001], 'TsTabs':['Aktuelle Videos']});
+</script>
+<style>
+div.bc_widget_rba div.bc_outer div.bc_inner div.bc_video div.bc_thumb {
+height:60px;
+width: 80px;
+}
+DIV.bc_widget_rba DIV.bc_outer DIV.bc_inner DIV.bc_video DIV.bc_video_title {
+height: 36px;
+}
+</style></div>
+</div>
+<div class="Redaktionsmodul">        
+<div class="Rubrik">Kultur</div>        
+<div class="breaker"></div>
+<div class="FullBoxColor">          
+<div class="Headline"><a href=/film/1473350,1473350.html>Kino aktuell: FR-Filmkritiken</a></div>
+<a  href="/film/1473350,1473350.html"><img src="/image/view/2013/9/18/24664382,22419511,highRes,kino-kl.jpg" width="300" border="0" alt="Film und Kino" style="margin:9px 0px 9px 0px;" /></a>
+<div style="float:left; margin-top:10px; margin-bottom:9px;" ></div>
+           <p><b>Mal wieder Kino?</b> Wir sagen Ihnen, welcher Film einen Besuch lohnt. Hier finden Sie die aktuellen Kritiken aus dem FR-Feuilleton - und die Trailer gleich dazu.</p>
+           <p> &nbsp;</p>
+            <select style="width:299px;margin-bottom: 10px;" name="filmeHeuteRS" id="filmeHeuteRS" onchange="if(this.options[this.selectedIndex].value != '-') window.location.href=this.options[this.selectedIndex].value">
+             <option value="-">Filmkritik oder Video auswählen</option>
+ <option value="http://www.fr-online.de/film/-zeit-der-kannibalen--der-sound-des-dschihad,1473350,27196124,view,asFirstTeaser.html">22.5.: Zeit der Kannibalen</option>
+ <option value="http://www.fr-online.de/film/-das-magische-haus--turteltauben-gegen-makler,1473350,27196252.html">22.5.: Das magische Haus</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bcpid=30884242001&bclid=30424337001&bctid=3579408453001">Video: Kinostarts vom 22. Mai</option>
+ <option value="http://www.fr-online.de/film/die-wirklichkeit-kommt-wahnsinn-mit-methode,1473350,27152012.html">15.5.: Die Wirklichkeit kommt</option>
+ <option value="http://www.fr-online.de/film/godzilla-wenn-groesse-wieder-zaehlt,1473350,27130820.html">15.5.: Godzilla</option>
+ <option value="http://www.fr-online.de/film/stereo-alptraum-mit-easy-rider,1473350,27130952.html">15.5.: Stereo</option>
+ <option value="http://www.fr-online.de/film/film-mario-adorf--der-letzte-mentsch--menahem-teitelbaums-reise,1473350,27054958.html">8.5.: Der letzte Mentsch</option>
+ <option value="http://www.fr-online.de/film/kino-ueber-ich-und-du-der-buecherdieb,1473350,27056578.html">8.5.: Über-Ich und du</option>
+ <option value="http://bcove.me/zomhxgsp">Video: Kinostarts vom 8. Mai</option>
+ <option value="http://www.fr-online.de/film/die-schoene-und-das-biest-es-bruellt-doch-nur--weil-es-sich-schaemt,1473350,26983274.html">1.5.: Die Schöne und das Biest</option>
+ <option value="http://www.fr-online.de/film/film--vergiss-mein-ich--auf-den-zweiten-blick,1473350,26984712.html">1.5.: Vergiss mein ich</option>
+ <option value="http://bcove.me/yalc9l9i">Video: Kinostarts vom 1. Mai</option>
+ <option value="http://www.fr-online.de/film/-the-invisible-woman--leben-im-schatten,1473350,26920484.html">24.4.: The Invisible Woman</option>
+ <option value="http://www.fr-online.de/film/-transcendence--mit-johnny-depp--der-ferngesteuerte-mensch-,1473350,26921032.html">24.4.: Transcendence (mit Johnny Depp)</option>
+ <option value="http://www.fr-online.de/film/-ride-along--die-murphy-masche,1473350,26952516.html">24.4.: Ride Along</option>
+ <option value="http://bcove.me/4w5kodxd">Video: Kinostarts vom 24. April</option>
+ <option value="http://www.fr-online.de/film/-yves-saint-laurent--die-schoene-falle,1473350,26883180.html">17.4.: Yves Saint Laurent</option>
+ <option value="http://www.fr-online.de/film/spiderman-der-kuss-des-spinnenmanns,1473350,26866036.html">17.4.: The Amazing Spider-Man 2</option>
+ <option value="http://www.fr-online.de/film/pelin-esmer--watchtower--es-war-einmal-in-anatolien,1473350,26875068.html">17.4.: Watchtower</option>
+ <option value="http://bcove.me/2s9r0e2x">Video: Kinostarts vom 17. April</option>
+ <option value="http://www.fr-online.de/film/film--die-bestimmung---divergent--gelenkte-rebellion,1473350,26823264.html">10.4.: Die Bestimmung – Divergent</option>
+ <option value="http://www.fr-online.de/film/film--schnee-von-gestern--suchen-ist-denken,1473350,26809868.html">10.4.: Schnee von gestern</option>
+ <option value="http://www.fr-online.de/film/-ida--passage-der-erinnerung,1473350,26799666.html">10.4.: Ida (Holocoaust-Drama)</option>
+ <option value="http://www.fr-online.de/film/-the-lego-movie--gruesse-aus-der-stein-zeit,1473350,26799326.html">10.4.: The Lego Movie</option>
+ <option value="http://bcove.me/sacx5hp5">Video: Kinostarts vom 10. April</option>
+ <option value="http://www.fr-online.de/film/snowpiecer-bong-joon-ho-polarexpress,1473350,26736126.html">3.4.: Snowpiercer</option>
+ <option value="http://www.fr-online.de/film/russell-crowe-noah-arche-in-der-bilderflut,1473350,26736022.html">3.4.: Noah</option>
+ <option value="http://bcove.me/w1pftnho">Video: Kinostarts vom 3. April</option>
+ <option value="http://www.fr-online.de/film/-her--die-geliebte-stimme,1473350,26680434.html">27.3.; Her (mit Joaquin Phoenix)</option>
+ <option value="http://www.fr-online.de/film/-the-return-of-the-first-avenger--das-bessere-amerika,1473350,26669870.html">27.3.: The Return Of The First Avenger</option>
+ <option value="http://www.fr-online.de/film/-love-steaks--gegen-feuchtgebiete-hilft-der-eisschrank,1473350,26669648.html">27.3.: Love Steaks</option>
+ <option value="http://bcove.me/nfitwt1e">Video: Kinostarts vom 27. März</option>
+ <option value="http://www.fr-online.de/film/-der-hundertjaehrige--der-aus-dem-fenster-stieg-und-verschwand--krummrueckig-in-eine-ungewisse-zukunft,1473350,26600104,html">20.3.: Der Hundertjährige, der aus dem Fenster stieg und verschwand</option>
+ <option value="http://www.fr-online.de/film/-baal--mit-brecht-zum-anti-fernsehen,1473350,26600576.html">20.3.: Baal</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bctid=3360360607001">Video: Kinostarts vom 20. März</option>
+ <option value="http://www.fr-online.de/film/filmkritik--die-buecherdiebin--mit-den-worten-des-totengraebers,1473350,26542332.html">13.3.: Die Bücherdiebin</option>
+ <option value="http://www.fr-online.de/film/filmkritik--non-stop--bitte-anschnallen,1473350,26542392.html">13.3.: Non Stop</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bctid=3329152706001">Video: Kinostarts vom 13. März</option>
+ <option value="http://www.fr-online.de/film/-alles-inklusive--doris-doerrie-zur-billig-reha-nach-spanien,1473350,26490904.html">6.3.: Alles inklusive</option>
+ <option value="http://www.fr-online.de/film/-300--rise-of-an-empire--nachts-sind-alle-schlachten-grau,1473350,26481628.html">6.3.: 300 - Rise of an Empire</option>
+ <option value="http://www.fr-online.de/film/-im-august-in-osage-county--mona-lisa--mit-saeure-betraeufelt,1473350,26481512.html">6.3.: Im August in Osage County</option>
+ <option value="http://www.fr-online.de/film/-philomena--nur-judi-dench-ueberzeugt,1473350,26404670.html">27.2.: Philomena</option>
+ <option value="http://www.fr-online.de/film/-die-abenteuer-von-mr--peabody-und-sherman--geschichtsunterricht-per-zeitmaschine,1473350,26404690.html">27.2.: Die Abenteuer von Mr. Peabody und Sherman</option>
+ <option value="http://www.fr-online.de/film/filmkritik-nymphomaniac-anglerlatein,1473350,26256192.html">20.2.: Nymphomaniac</option>
+ <option value="http://www.fr-online.de/film/filmkritik--killing-time--langweilige-witze-von-zwergen,1473350,26256608.html">20.2.: Killing Time</option>
+ <option value="http://www.fr-online.de/film/filmkritik-stromberg-der-unwiderstehliche-fiesling,1473350,26256350.html">20.2.: Stromberg, der Film</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bctid=3225175694001">Video: Kinostarts vom 20. Februar</option>
+ <option value="http://www.fr-online.de/film/-american-hustle--wenn-eine-sache-groesser-und-groesser-wird,1473350,26177614.html">13.2.: American Hustle</option>
+ <option value="http://www.fr-online.de/film/-madame-empfiehlt-sich--vielleicht-wollte-madame-nur-zigaretten-holen,1473350,26180208.html">13.2.: Madame empfiehlt sich</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bctid=3191123334001">Video: Kinostarts vom 13. Februar</option>
+ <option value="http://www.fr-online.de/film/-dallas-buyers-club--gegen-jede-chance,1473350,26104134,view,asFirstTeaser.html">6.2.: Dallas Buyers Club</option>
+ <option value="http://www.fr-online.de/film/-meine-schwestern--wichtiger-als-der-tod,1473350,26105926,view,asFirstTeaser.html">6.2.: Meine Schwestern</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bctid=3154830607001">Video: Kinostarts vom 6. Februar</option>
+ <option value="http://www.fr-online.de/film/kino---mandela--der-lange-weg-zur-freiheit--zu-gross-fuer-einen-film,1473350,26032208.html">30.1.: Mandela. Der lange Weg zur Freiheit</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bctid=3121257706001">Video: Kinostarts vom 30. Januar</option>
+ <option value="http://www.fr-online.de/film/film--hannas-reise--nach-israel--der-karriere-wegen,1473350,25983500.html">23.1.: Hannas Reise</option>
+ <option value="http://www.fr-online.de/film/film--der-blinde-fleck--auf-dem-rechten-auge-blind,1473350,25969104.html">23.1.: Der blinde Fleck</option>
+ <option value="http://www.fr-online.de/film/film--youth--nackte-jugend,1473350,25968620.html">23.1.: Youth</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bcpid=30884242001&bclid=30424337001&bctid=3090059585001">Video: Kinostarts vom 23. Januar</option>
+ <option value="http://www.fr-online.de/film/-nebraska---mein-vater--der-lottomillionaer,1473350,25914412.html">16.1.: Nebraska</option>
+ <option value="http://www.fr-online.de/film/stefan-ruzowitzky--das-radikal-boese--vorstellbare-graeuel,1473350,25901068.html">16.1.: Das radikal Böse</option>
+ <option value="http://www.fr-online.de/film/-the-wolf-of-wall-street--solo-fuer-zocker,1473350,25900928.html">16.1.: The Wolf of Wall Street</option>
+ <option value="http://www.fr-online.de/film/-12-years-a-slave--ein-brutales-meisterwerk,1473350,25832966.html">16.1.: 12 Years A Slave</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bcpid=30884242001&bclid=30424337001&bctid=3057080454001">Video: Kinostarts vom 16. Januar</option>
+ <option value="http://www.fr-online.de/film/film--zwei-vom-alten-schlag--wie-ein-zahmer-stier,1473350,25838086.html">9.1.: Zwei vom alten Schlag</option>
+ <option value="http://www.fr-online.de/film/-diana---der---di,1473350,25833506.html">9.1.: Diana</option>
+ <option value="http://www.fr-online.de/film/film--all-is-lost--der-alte-mann-und-das-weltmeer,1473350,25831524.html">9.1.: All is lost</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bcpid=30884242001&bclid=30424337001&bctid=3026460657001">Video: Kinostarts vom 9. Januar</option>
+ <option value="http://www.fr-online.de/film/-das-erstaunliche-leben-des-walter-mitty--ein-bild-geht-um-die-welt,1473350,25771668.html">1.1.: Das erstaunliche Leben des Walter Mitty</option>
+ <option value="http://www.fr-online.de/film/filmkritik-grau-ist-die-waermste-farbe,1473350,25734878.html">25.12.: Das Mädchen und der Künstler</option>
+ <option value="http://www.fr-online.de/film/-only-lovers-left-alive--in-der-gruft-,1473350,25719554.html">25.12.: Only Lovers Left Alive</option>
+ <option value="http://www.fr-online.de/film/film--belle---sebastian--die-schoene-ist-kein-biest,1473350,25675722.html">19.12.: Belle & Sebastian</option>
+ <option value="http://www.fr-online.de/film/film--blau-ist-eine-warme-farbe--liebe-unter-dem-vergroesserungsglas,1473350,25664768.html">19.12.: Blau ist eine warme Farbe</option>
+ <option value="http://www.fr-online.de/film/film--genug-gesagt--fettnapf-fuers-leben,1473350,25664774.html">19.12.: Genug gesagt</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bctid=2945440625001">Video: Kinostarts vom 19. Dezember</option>
+ <option value="http://www.fr-online.de/film/film--alois-nebel--ein-betoerend-schoener-animationsfilm,1473350,25609366.html">12.12.: Alois Nebel</option>
+ <option value="http://www.fr-online.de/film/-die-frau--die-sich-traut--mama-waescht-nicht-mehr-,1473350,25600376.html">12.12.: Die Frau, die sich traut</option>
+ <option value="http://www.fr-online.de/film/film--der-hobbit--smaugs-einoede--liebesdienst-eines-fans,1473350,25594858.html">12.12.: Der Hobbit: Smaugs Einöde</option>
+ <option value="www.fr-online.de/videos/1472414,1472414.html?bcpid=30884242001&bclid=30424337001&bctid=2922196410001">Video: Kinostarts vom 12. Dezember</option>
+ <option value="http://www.fr-online.de/film/filmkritik--inside-llewyn-davis--die-coen-brueder-drehen-die-zeit-zurueck,1473350,25527266.html">5.12.: Inside Llewyn Davis</option>
+ <option value="http://www.fr-online.de/film/filmkritik--auf-dem-weg-zur-schule--harte-bildungsreise,1473350,25526628.html">5.12.: Auf dem Weg zur Schule</option>
+ <option value="http://bcove.me/gfn239fb">Video: Kinostarts vom 5. Dezember</option>
+ <option value="http://www.fr-online.de/film/film--tore-tanzt--leiden-als-selbstzweck,1473350,25463104.html">28.11.: Tore tanzt</option>
+ <option value="http://www.fr-online.de/film/blancanieves-wie-man-den-stummfilm-wachkuesst,1473350,25451370.html">28.11.: Blancanieves</option>
+ <option value="http://www.fr-online.de/film/disney--die-eiskoenigin--holiday-on-ice-im-kino,1473350,25451470.html">28.11.: Die Eiskönigin</option>
+ <option value="http://www.fr-online.de/film/-the-counselor--der-preis-der-gier-,1473350,25440940.html">28.11.: The Counselor</option>
+ <option value="http://www.fr-online.de/film/-grenzgang--eine-liebe-im-hessischen-hinterland,1473350,25442522.html">28.11.: Grenzgang</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bctid=2872561810001">Video: Kinostarts vom 28. November</option>
+ <option value="http://www.fr-online.de/film/filmkritik--die-tribute-von-panem---catching-fire--schick-fuer-die-revolution,1473350,25098624.html">21.11.: Die Tribute von Panem - Catching Fire</option>
+ <option value="http://www.fr-online.de/film/filmkritik--lunchbox--ein-vertauschtes-glueck,1473350,25098486.html">21.11.: Lunchbox</option>
+ <option value="http://www.fr-online.de/film/film--venus-im-pelz--die-goettin-mit-der-grossen-klappe,1473350,25085568.html">21.11.: Venus im Pelz</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bctid=2852851914001">Video: Kinostarts vom 21. November</option>
+ <option value="http://www.fr-online.de/film/kino-film--jenseits-der-huegel--hilflos-wie-der-gute-geist,1473350,25039838.html">14.11.: Jenseits der Hügel</option>
+ <option value="http://www.fr-online.de/film/film--captain-phillips--arm-und-reich-im-rettungsboot,1473350,25028432.html">14.11.: Captain Phillips</option>
+ <option value="http://www.fr-online.de/film/film--the-act-of-killing--wovon-folterknechte-traeumen,1473350,25028300.html">14.11.: The Act of Killing</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bctid=2834010550001">Video: Kinostarts vom 14. November</option>
+ <option value="http://www.fr-online.de/film/woody-allen--blue-jasmine--ein-guter-mann-ist-schwer-zu-finden,1473350,24922310.html">7.11.: Woody Allen: Blue Jasmine</option>
+ <option value="http://www.fr-online.de/film/-fack-ju-goehte--mit-elyas-m-barek-eine-schuelerklamotte-wie-in-besten-zeiten,1473350,24936808.html">7.11.: Fack Ju Göhte</option>
+ <option value="http://www.fr-online.de/film/im-weissen-roessl---wehe-du-singst--was-kann-der-sigismund-dafuer----,1473350,24926852.html">7.11.: Im weißen Rössl - Wehe du singst!</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bctid=2811006003001">Video: Kinostarts vom 7. November</option>
+ <option value="http://www.fr-online.de/film/inside-wikileaks---die-fuenfte-gewalt-die-assange-maske,1473350,24838712.html">31.10.: Inside Wikileaks – die fünfte Gewalt</option>
+ <option value="http://www.fr-online.de/film/die-no
+ nne-schoenheit-muss-leiden,1473350,24838092.html">31.10.: Die Nonne</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bctid=2783139058001">Video: Kinostarts vom 31. Oktober</option>
+ <option value="http://www.fr-online.de/film/meine-keine-familie-relikte-des-missbrauchs,1473350,24779260.html">24.10.: Meine keine Familie</option>
+ <option value="http://www.fr-online.de/film/exit-marrakech-durch-die-wueste,1473350,24766258.html">24.10.: Exit Marrakech</option>
+ <option value="http://www.fr-online.de/film/am-ende-der-milchstrasse-und-dann-wird-ein-schwein-geschlachtet,1473350,24766256.html">24.10.: Am Ende der Milchstraße</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bctid=2762815899001">Video: Kinostarts vom 24. Oktober</option>
+ <option value="http://www.fr-online.de/film/-alles-eine-frage-der-zeit--zurueck-in-den-perfekten-tag,1473350,24663264.html">17.10.: Alles eine Frage der Zeit</option>
+ <option value="http://www.fr-online.de/film/filmkritik--finsterworld--das-boese-land-der-guten-deutschen,1473350,24652370.html">17.10.: Finsterworld</option>
+<option value="http://www.fr-online.de/film/-unter-dem-regenbogen--sie-liebten-und-sie-irrten-sich,1473350,24652372.html">17.10.: Unter dem Regenbogen</option>
+ <option value="http://bcove.me/s2ayhpdn">Video: Kinostarts vom 17. Oktober</option>
+ <option value="http://www.fr-online.de/film/-aus-dem-leben-eines-schrottsammlers--eine-winternovelle,1473350,24582168.html">10.10.: Aus dem Leben eines Schrottsammlers</option>
+ <option value="http://www.fr-online.de/film/-00-schneider---im-wendekreis-der-eidechse--muelheim-liegt-am-meer,1473350,24582170.html">10.10.: 00-Schneider - Im Wendekreis der Eidechse</option>
+ <option value="http://www.fr-online.de/film/-prisoners--ein-mann-sieht-rot,1473350,24582166.html">10.10.: Prisoners</option>
+ <option value="http://bcove.me/2obwhu73">Video: Kinostarts vom 10. Oktober</option>
+ <option value="http://www.fr-online.de/film/edgar-reitz--die-andere-heimat---es-gibt-keine-schoenheit-ohne-geschichte-,1473350,24507120.html">3.10.: Die andere Heimat</option>
+ <option value="http://www.fr-online.de/film/-der-schaum-der-tage--seerose-in-der-lunge,1473350,24523586.html">3.10.: Der Schaum der Tage</option>
+ <option value="http://www.fr-online.de/film/-liberace--mit-michael-douglas-geschichte-einer-ungleichen-maennerliebe,1473350,24507124.html">3.10.: Liberace</option>
+ <option value="http://www.fr-online.de/film/-rush--nicht-schoen--aber-schnell,1473350,24547692.html">3.10.: Rush</option>
+ <option value="http://bcove.me/lpqqsa6g">Video: Kinostarts vom 3. Oktober</option>
+ <option value="http://www.fr-online.de/film/-not-fade-away--bis-die-zeit-nicht-mehr-auf-ihrer-seite-ist,1473350,24444476.html">26.9.: Not fade away</option>
+ <option value="http://www.fr-online.de/film/-prince-avalanche--geistersuche-und-baumskelette,1473350,24444474.html">26.9.: Prince Avalanche</option>
+ <option value="http://bcove.me/zddmd016">Video: Kinostarts vom 26. September</option>
+ <option value="http://www.fr-online.de/videos/1472414,1472414.html?bcpid=30884242001">Weitere Videos und Filmtrailer</option>
+            </select>
+        <div class="breaker"></div>
+    </div></div>
+<div class="breaker"></div>
+<div class="Redaktionsmodul">
+        <div class="Rubrik">Oper</div>
+<div class="breaker"></div>
+<div class="FullBoxColor">
+    <a  href="/kultur/benimm-regeln-fuer-die-oper-wie-verhalte-ich-mich-in-der-oper-,1472786,11165018.html" title="Benimm-Regeln f&uuml;r die Oper"><img src="/image/view/2011/10/18/11164970,7905299,dmGalleryRes,GYI_130721259.jpg" height="90" width="120" border="0" alt="Ganz so schick wie bei den prominenten Vertretern unserer Spezies muss es dann doch nicht immer sein." />
+</a><div class="Headline">
+                <a  href="/kultur/benimm-regeln-fuer-die-oper-wie-verhalte-ich-mich-in-der-oper-,1472786,11165018.html" title="Benimm-Regeln f&uuml;r die Oper">Opernknigge</a></div>
+        <p itemprop="text">Hustenanfälle, Papierknistern, Opernglas ja oder nein - ein kleiner Ratgeber für den gelungenen Opernbesuch.</p><div class="breaker"></div>
+</div></div>
+<div class="breaker"></div>
+
+<div class="TopArticleHeader">
+            <a  href="http://www.fr-online.de/tv-kritik/1473344,1473344.html"><div class="ItemHeadline3">TV-Kritik</div>
+                    </a></div>
+        <div class="TopArticle">
+            <div class="BoxTeaserLink Numbers">
+            <div class="Number">
+                <div class="ArrowIcon"></div></div>
+            <div class="Article">
+                <div class="ItemHeadline3">TV-Kritik &#034;Günther Jauch&#034;, ARD&nbsp;</div>
+                <div class="ItemHeadline2">
+                    <a  href="/tv-kritik/tv-kritik--guenther-jauch---ard-nackt-scanner-fuer-den-lohnzettel,1473344,30195460.html" title="TV-Kritik &quot;G&uuml;nther Jauch&quot;, ARD">Nackt-Scanner für den Lohnzettel</a></div>
+            </div>
+            <div class="breaker"></div>
+        </div>
+
+        <div class="BoxTeaserLink Numbers">
+            <div class="Number">
+                <div class="ArrowIcon"></div></div>
+            <div class="Article">
+                <div class="ItemHeadline3">„Tatort: Das Muli“, ARD&nbsp;</div>
+                <div class="ItemHeadline2">
+                    <a  href="/tatort-spezial/-tatort--das-muli---ard-sex-und-blut-und-tempo,20719658,30183102.html" title="&bdquo;Tatort: Das Muli&ldquo;, ARD">Sex und Blut und Tempo</a></div>
+            </div>
+            <div class="breaker"></div>
+        </div>
+
+        <div class="BoxTeaserLink Numbers">
+            <div class="Number">
+                <div class="ArrowIcon"></div></div>
+            <div class="Article">
+                <div class="ItemHeadline3">„Der Kommissar und das Meer“, ZDF&nbsp;</div>
+                <div class="ItemHeadline2">
+                    <a  href="/tatort-spezial/-der-kommissar-und-das-meer---zdf-eine-frau-unter-einfluss,20719658,30183908.html" title="&bdquo;Der Kommissar und das Meer&ldquo;, ZDF">Eine Frau unter Einfluss</a></div>
+            </div>
+            <div class="breaker"></div>
+        </div>
+
+        <div class="BoxTeaserLink Numbers">
+            <div class="Number">
+                <div class="ArrowIcon"></div></div>
+            <div class="Article">
+                <div class="ItemHeadline3">TV-Kritik: Maybrit Illner &nbsp;</div>
+                <div class="ItemHeadline2">
+                    <a  href="/tv-kritik/tv-kritik--maybrit-illner--verarmung-als-reform-,1473344,30174194.html" title="TV-Kritik: Maybrit Illner ">Verarmung als Reform?</a></div>
+            </div>
+            <div class="breaker"></div>
+        </div>
+
+        <div class="BoxTeaserLink Numbers last">
+            <div class="Number">
+                <div class="ArrowIcon"></div></div>
+            <div class="Article">
+                <div class="ItemHeadline3">TV-Kritik: Anne Will&nbsp;</div>
+                <div class="ItemHeadline2">
+                    <a  href="/tv-kritik/tv-kritik--anne-will-interessant-und-vergnueglich,1473344,30165072.html" title="TV-Kritik: Anne Will">Interessant und vergnüglich</a></div>
+            </div>
+            <div class="breaker"></div>
+        </div>
+
+        </div>
+    <div class="breaker"></div>
+</div><div class="breaker"></div><div class="breaker"></div>
+</div>
+<div id="Footer">
+    <div class="Footerlines">
+        <div class="Footerline1">
+            <a  href="/home/1472778,1472778.html">Startseite</a> | <a  href="/politik/1472596,1472596.html">Politik</a> | <a  href="/wirtschaft/1472780,1472780.html">Wirtschaft</a> | <a  href="/panorama/1472782,1472782.html">Panorama</a> | <a  href="/sport/1472784,1472784.html">Sport</a> | <a  href="/kultur/1472786,1472786.html">Kultur</a> | <a  href="/leben/24198808,24198808.html">Leben</a> | <a  href="/wissenschaft/1472788,1472788.html">Wissen</a> | <a  href="/auto/1472790,1472790.html">Auto</a> | <a  href="/reise/1472792,1472792.html">Reise</a> | <a  href="/digital/1472406,1472406.html">Digital</a> | <a  href="/rhein-main/1472796,1472796.html">Rhein-Main</a> | <a  href="/frankfurt/1472798,1472798.html">Frankfurt</a> | <a  href="http://www.fr-online.de/schlagzeilen">Schlagzeilen</a> | <a  href="http://www.fr-online.de/nachrichtenarchiv">Archiv</a><br />
+</div>
+        <div class="Footerline2">
+            Copyright © Frankfurter Rundschau GmbH, 2015. | <a  href="http://www.fr-rechte.de" target="_blank">Alle Rechte vorbehalten. Vervielfältigungs- und Nutzungsrechte erwerben</a> | <a  href="/services/datenschutzerklaerung,1473782,1474212.html">Datenschutzerklärung</a> | <a  href="http://www.oms.eu/cms/nutzungsbasierte-online-werbung.html" target="_blank">Nutzungsbasierte Onlinewerbung</a> | <a  href="/services,1473782,2641786.html">Mediadaten</a> | <a  href="/services/kontakt-,1473782,1474216.html">Kontakt </a> | <a  href="/wir-ueber-uns/4353508,4353508.html">Wir über uns</a> | <a  href="/services/impressum,1473782,1474218.html">Impressum</a> | <a  href="/sitemap/1472800,1472800.html">Sitemap</a><br />
+</div>
+        <div class="Footerline3">
+            Weitere Angebote: <a  href="http://www.frblog.de/">Bronski - das FR-Leserblog</a> | <a  href="http://www.blog-g.de/">Blog-G über Eintracht Frankfurt</a> | <a  href="http://epaper.fr-online.de">ePaper</a> | <a  href="http://www.fr-digital.de">Tablet-App</a><br />
+</div>
+        </div>
+</div>
+
+<script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-12108261-8']);
+          /* anonymize IP address of request */
+          _gaq.push(['_gat._anonymizeIp']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+        </script>
+    <script type="text/javascript">
+
+         
+            DMN.analytics.checkContentViewType();
+         
+
+         DMN.analytics.generateJSON();
+     </script>
+     <script type="text/javascript">_satellite.pageBottom();</script>
+    <img src="http://fr-online.met.vgwort.de/na/321893d9be524b958d9e75e8bdcd76ed" height="1" width="1" border="0"/><div id="oms_footer"></div>
+</div>
+
+<div class="bannerRightAd">
+        <div id='oms_gpt_skyscraper'>
+                <script type="text/javascript">
+                            var slot_oms_gpt_skyscraper;
+                            googletag.cmd.push(function() {
+                                slot_oms_gpt_skyscraper = googletag.defineSlot('/'+oms_dm_network+'/'+oms_site+'/'+oms_zone, [[120, 600],[160, 600],[200, 600]], 'oms_gpt_skyscraper').addService(googletag.pubads());
+                                googletag.display('oms_gpt_skyscraper');
+                            });
+                        </script>
+                    </div>
+        </div>
+<div id='oms_gpt_outofpage'>
+                <script type="text/javascript">
+                            var slot_oms_gpt_outofpage;
+                            googletag.cmd.push(function() {
+                                slot_oms_gpt_outofpage = googletag.defineOutOfPageSlot('/'+oms_dm_network+'/'+oms_site+'/'+oms_zone, 'oms_gpt_outofpage').addService(googletag.pubads());
+                                googletag.display('oms_gpt_outofpage');
+                                googletag.pubads().refresh();
+                            });
+                        </script>
+                    </div>
+        <script type='text/javascript'>
+                var _sf_async_config={};
+                // CONFIGURATION START /
+                 _sf_async_config.uid = 34005;
+                 _sf_async_config.domain = 'fr-online.de';
+                 _sf_async_config.useCanonical = true;
+                 _sf_async_config.sections = 'Kultur';
+                 _sf_async_config.authors = '';
+                // CONFIGURATION END
+                (function(){
+                    function loadChartbeat() {
+                        window._sf_endpt=(new Date()).getTime();
+                        var e = document.createElement('script');
+                        e.setAttribute('language', 'javascript');
+                        e.setAttribute('type', 'text/javascript');
+                        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                        document.body.appendChild(e);
+                    }
+                    var oldonload = window.onload;
+                    window.onload = (typeof window.onload != 'function') ?
+                            loadChartbeat : function() { oldonload(); loadChartbeat(); };
+                })();
+            </script>
+        </body>
+</html>

@@ -1,0 +1,155 @@
+HTTP/1.1 200 OK
+Cache-control: no-cache="set-cookie"
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Date: Mon, 15 Jun 2015 13:01:28 GMT
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Server: nginx/1.1.19
+Set-Cookie: cookie_check=1; path=/; domain=.linkis.com
+Set-Cookie: AWSELB=6361D3531435AEEB27BAD4DBBB04116ECFB34E64F06EE71A140F7AA9380CAC63E9D4072163F79B6EDF6AAB2321AFBCAF3371948B2F385A1B970943886D16933EDEECB1E60D;PATH=/;MAX-AGE=300
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/5.5.21-1+deb.sury.org~precise+2
+Content-Length: 1894
+Connection: keep-alive
+
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8"/>
+
+    <title>Vladimir Putin has been 'neutralised' by a stealthy coup | Daily Mail Online - Linkis.com</title><meta property="og:image" content="http://i.dailymail.co.uk/i/pix/2015/03/15/26A0EFFB00000578-0-image-a-51_1426384292624.jpg" />
+<meta property="og:description" content="Russian President Vladimir Putin has not been seen in public for the past nine days leading to concern that the hardman leader may have been overthrown or suffered a medical..." />
+<meta property="og:site_name" content="Mail Online" />
+<meta property="og:title" content="Vladimir Putin has been 'neutralised' by stealthy coup" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.dailymail.co.uk/news/article-2995335/Vladimir-Putin-neutralised-stealthy-coup-rumours-health-continue-flourish.html" />
+<meta property="og:video" content="http://video.dailymail.co.uk/video/1418450360/2015/03/1418450360_4110699957001_putin-1.mp4" />
+<meta property="og:video:type" content="video/mp4" />
+<meta property="og:video:width" content="636" />
+<meta property="og:video:height" content="358" />
+<meta name="keywords" content="Vladimir,Putin,neutralised,stealthy,coup,rumours,health,continue,flourish" />
+<meta name="description" content="Russian President Vladimir Putin has not been seen in public for the past nine days leading to concern that the hardman leader may have been overthrown or suffered a medical..." />
+<meta name="twitter:account_id" content="15438913" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Vladimir Putin has been 'neutralised' by stealthy coup" />
+<meta name="twitter:description" content="Russian President Vladimir Putin has not been seen in public for the past nine days leading to concern that the hardman leader may have been overthrown or suffered a medical emergency." />
+<meta name="twitter:url" content="http://www.dailymail.co.uk/news/article-2995335/Vladimir-Putin-neutralised-stealthy-coup-rumours-health-continue-flourish.html" />
+<meta name="twitter:image" content="http://i.dailymail.co.uk/i/pix/2015/03/15/26A0EFFB00000578-0-image-a-51_1426384292624.jpg" />
+<meta name="twitter:app:id:iphone" content="384101264" />
+<meta name="twitter:app:id:ipad" content="400442503" /><link href="/favicon.ico" rel="icon" type="image/png" />
+<link href="http://www.dailymail.co.uk/favicon.ico" rel="icon" type="image/x-icon" />
+<link href="/images/apple/apple-touch-icon-144x144.png" rel="apple-touch-icon" size="144x144" />
+<link href="/images/apple/apple-touch-icon-72x72.png" rel="apple-touch-icon" size="72x72" />
+<link href="/images/apple/apple-touch-icon-57x57.png" rel="apple-touch-icon" size="57x57" />    <style type="text/css">
+        *{
+            margin: 0;
+            padding: 0;
+            font-size: 0;
+        }
+        html, body, #source_site {
+            width: 100%;
+            height: 100%;
+        }
+        #source_site{
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+<script type="text/javascript">
+
+
+    function __log(val){}
+
+    function hihit(id) {
+        if (id) {
+            var url = "http://stat.notlurking.com/log.php?id=" + id + "&r=" + Math.round(100000 * Math.random());
+            var im = new Image();
+            im.src = url;
+        }
+    }
+
+
+function refreshPage()
+{
+    location.href = location.href.split('#')[0];
+    setTimeout(function(){
+        if (window.hihit) hihit(2580);
+    }, 10000);
+}
+function redirectPage(url)
+{
+    location.href = url;
+}
+function lnEvent(action, label, category)
+{
+    
+    var hash = lnEventGenerateHash((action || '') + (label || '') + (category || ''));
+    var path = ['', 'index', 'ln-event'].join('/');
+    var e = function(str){ return str ? encodeURIComponent(str) : ''; };
+    var theme = window.LinkData ? LinkData.curTheme : 0;
+    var linkId = LnProf.page == 'index/show' && window.LinkData ? LinkData.id : 0;
+    var profId = LnProf.profId ? LnProf.profId : 0;
+    (new Image()).src = path +
+        '?c=' + e(category) +
+        '&a=' + e(action) +
+        '&l=' + e(label) +
+        '&t=' + e(theme) +
+        '&li=' + e(linkId) +
+        '&id=' + e(profId) +
+        '&h='  + hash;
+}
+
+function lnEventGenerateHash(str) {
+    var hash = '';
+    var length = str.length;
+    var step = (length < 5) ? 2 : Math.floor(length / 5);
+
+    var codeSumFunction = function(codeSum) {
+        var num = 0;
+        for(var j = 0; j < codeSum.toString().length; j++) {
+            num += parseInt(codeSum.toString().substr(j, 1), 10);
+        }
+
+        return num;
+    };
+
+    var codeSum = 0;
+    for(var i = 0; i < length; i++) {
+        var char = str.substr(i, 1);
+
+        if(i % step == 0 && char != ' ') {
+            var num = codeSumFunction(codeSum);
+            hash += num + '' + char;
+            codeSum = 0;
+        } else {
+            codeSum += str.charCodeAt(i);
+        }
+    }
+
+    if(codeSum) hash += codeSumFunction(codeSum);
+
+    return hash;
+}
+
+</script>
+
+<script type="text/javascript" src="/js/jquery/jquery-1.7.1.min.js"></script>
+<script type="text/javascript">
+$(function(){
+    hihit(3344);
+    $.get(["\/","XL62C","?","unzip=1"].join(""))
+        .done(function(response){
+            document.write(response);
+        })
+        .fail(function(){ hihit(3345); });
+});
+</script>
+
+    <noscript>
+        <iframe id="source_site" border="0" frameborder="0" hspace="0" vspace="0" src="http://dailym.ai/1HTJSEQ"></iframe>
+    </noscript>
+
+</body>
+</html>

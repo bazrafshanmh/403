@@ -1,0 +1,1388 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.22 (Ubuntu)
+Content-Type: text/html; charset=utf-8
+Status: 200 OK
+Vary: Accept-Encoding
+X-Varnish: 247728610
+X-UA-Compatible: IE=Edge,chrome=1
+X-Request-Id: 236a9f5c30ed0b4bb386afa88b7e5a63
+Content-Encoding: gzip
+Expires: Tue, 24 Mar 2015 01:31:48 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Tue, 24 Mar 2015 01:31:48 GMT
+Content-Length: 12590
+Connection: keep-alive
+
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 lte-ie7 lte-ie8 lte-ie9 isie" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" itemscope itemtype="http://schema.org/NewsArticle"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 lte-ie7 lte-ie8 lte-ie9 isie" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" itemscope itemtype="http://schema.org/NewsArticle"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 lte-ie8 lte-ie9 isie" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" itemscope itemtype="http://schema.org/NewsArticle"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 lte-ie9 isie" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/NewsArticle"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js html-device--desktop" lang="en" itemscope itemtype="http://schema.org/NewsArticle" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Flag in Sydney cafe window &#x27;is not linked with IS&#x27; - ITV News</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"87de30ced4","applicationID":"4335979","transactionName":"dg1cERBZXVhdQh5CEVEDRgARGUJcV0c=","queueTime":0,"applicationTime":117,"agent":"js-agent.newrelic.com/nr-627.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(n,e){function t(){var n=h.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(l,function(e,t){e in n||(n[e]=t)}),h.proto="https"===d.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=h.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},h=e.exports={offset:i(),origin:d,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script>
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="cleartype" content="on">
+
+<!--[if lt IE 9&(!IEMobile)]>
+  <link href="/news/assets/application-lt-ie9-504f0bb8d8deb9e2956e53d0218fb84d.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if gt IE 8]><!-->
+  <link href="/news/assets/application-5d5c4e922ab324d6d171845d4cba55de.css" media="screen" rel="stylesheet" type="text/css" />
+<!--<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/news/index.rss" />
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="cs6wCgklBDulqqCnN+AaVvt9lco9a4V5/GlN8VUFQhc=" name="csrf-token" />
+<script src="/news/assets/modernizr-a7419295f4f1209213d5240d42bdba86.js" type="text/javascript"></script>
+
+<script>ns_loadingtime1=(new Date()).getTime()</script>
+
+<meta name="description" content="Read Flag in Sydney cafe window &#x27;is not linked with IS&#x27; latest on ITV News. All the World news" />
+<meta name="keywords" content="Flag in Sydney cafe window &#x27;is not linked with IS&#x27;. World, news, video, latest, ITV News" />
+<meta name="canonical" content="http://www.itv.com/news/update/2014-12-15/flag-in-sydney-cafe-window-is-not-linked-with-is/" />
+<meta name="apple-itunes-app" content="app-id=907113454">
+
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+<meta property="fb:app_id" content="201017720004512">
+<meta property="fb:admins" content="222303292">
+
+<!-- Open Graph -->
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="ITV News">
+<meta property="og:url" content="http://www.itv.com/news/update/2014-12-15/flag-in-sydney-cafe-window-is-not-linked-with-is/">
+<meta property="og:title" content="Flag in Sydney cafe window &#x27;is not linked with IS&#x27;">
+<meta property="og:description" content="A flag being held up by hostages in a coffee shop in Sydney is not thought to be affiliated with IS. 
+
+Australian news channel 7 News said they had had it translated and the Arabic reads: &amp;quot;There is no God but Allah and Mohammed is the messenger of God.&amp;quot;
+
+It is not known yet how many people are being held inside the Lindt cafe on Martin Place. 
+
+But buildings nearby have been evacuated, a train station has apparently been closed and traffic has been stopped on Sydney Harbour Bridge. 
+">
+
+  <meta property="og:image" content="http://news.images.itv.com/image/file/547480/img.jpg">
+
+<!-- Twitter card -->
+<meta name="twitter:site" content="@itvnews">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Flag in Sydney cafe window &#x27;is not linked with IS&#x27;">
+<meta name="twitter:description" content="A flag being held up by hostages in a coffee shop in Sydney is not thought to be affiliated with IS. 
+
+Australian news channel 7 News said they had had it translated and the Arabic reads: &amp;quot;There is no God but Allah and Mohammed is the messenger of God.&amp;quot;
+
+It is not known yet how many people are being held inside the Lindt cafe on Martin Place. 
+
+But buildings nearby have been evacuated, a train station has apparently been closed and traffic has been stopped on Sydney Harbour Bridge. 
+">
+
+  <meta property="twitter:image" content="http://news.images.itv.com/image/file/547480/img.jpg">
+
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.itv.com/news/assets/mobile/high/apple-touch-icon.png?v=2">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.itv.com/news/assets/mobile/medium/apple-touch-icon.png?v=2">
+<link rel="apple-touch-icon-precomposed" href="http://www.itv.com/news/assets/mobile/medium/apple-touch-icon.png?v=2">
+<link rel="shortcut icon" href="http://www.itv.com/news/assets/mobile/medium/apple-touch-icon.png?v=2">
+
+
+
+  <link rel="stylesheet" href="//www.itvstatic.com/assets/css/fonts.css">
+
+  <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="http://www.itv.com/dotcomassets/page-fragments/responsive/page-fragments-f01986ac5b9472fd5801871aabf800be.css">
+  <!--<![endif]-->
+
+  <!--[if lt IE 9&(!IEMobile)]>
+    <link rel="stylesheet" href="http://www.itv.com/dotcomassets/page-fragments/responsive/page-fragments-lt-ie9-f38f662f1a45ba9800ca31873113fea5.css">
+  <![endif]-->
+
+</head>
+
+<body class="updates-show " id="updates" data-action="show" data-ad-id="news.national.update">
+
+    <div class="header-ad js-ad">  
+      <div class="ad leaderboard any" data-key="Update:434959">
+        <h4>Advertisement</h4>
+        <script src="http://tom.itv.com/itv/jserver/random=52647/site=itv/area=news.national.update/position=1/adtype=any/size=728x90/categories=world/topics=australia.sydney/contentid=2014.12.15.flag.in.sydney.cafe.window.is.not.linked.with.is/viewid=1428049666"></script>
+      </div>
+    
+</div>
+
+  <div id="itv-header-page-fragment" class="itv-page-fragment">
+  <div class="itv-glob-nav">
+    <header>
+      <div class="itv-glob-nav__inner">
+        <div class="itv-glob-nav__logo">
+          <a class="itv-glob-nav__logo-link icon--itv-glob-head-itv" href="/">ITV</a>
+        </div>
+
+        <nav>
+          <div class="itv-glob-nav__nav" id="skip_to_navigation">
+            <a class="itv-glob-nav__toggle" href="#" id="itv-glob-nav-dropdown">
+              <span class="itv-glob-nav__toggle-icon"></span>
+              <span class="itv-glob-nav__visuallyhidden">Toggle navigation</span>
+</a>
+            <ul class="itv-glob-nav__list">
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="https://www.itv.com/itvplayer/">Player</a>
+              </li>
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="http://www.itv.com/tvshows/">Shows</a>
+              </li>
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="http://www.itv.com/tvguide/">Guide</a>
+              </li>
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="http://www.itv.com/news/">News</a>
+              </li>
+              <li class="itv-glob-nav__item">
+                <a class="itv-glob-nav__link" href="http://www.itv.com/sport/">Sport</a>
+              </li>
+              <li class="itv-glob-nav__item itv-glob-nav__item--with-dropdown">
+                <a class="itv-glob-nav__link itv-glob-nav__dropdown-toggler" href="#" id="itv-glob-nav-more-dropdown">More</a>
+
+                <ul class="itv-glob-nav__dropdown-list">
+                  <li class="itv-glob-nav__item">
+                    <a class="itv-glob-nav__link" href="http://www.jmldirect.com/" rel="nofollow">Shop</a>
+                  </li>
+                  <li class="itv-glob-nav__item">
+                    <a class="itv-glob-nav__link" href="http://www.itv.com/games/" rel="nofollow">Games</a>
+                  </li>
+                  <li class="itv-glob-nav__item">
+                    <a class="itv-glob-nav__link" href="http://www.itvbingo.com/" rel="nofollow">Bingo</a>
+                  </li>
+                  <li class="itv-glob-nav__item">
+                    <a class="itv-glob-nav__link" href="http://traffic.jackpot247.com/redirect.php?member=itvreferrer&amp;profile=website" rel="nofollow">Jackpot</a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </nav>
+        
+          <div id="itv-glob-search" class="itv-glob-search  itv-glob-search--no-mobile">
+            <button id="itv-glob-search-toggle" class="itv-glob-search__toggle icon--itv-glob-search-alt-white">Search</button>
+            <form name="search_search" class="itv-glob-search__form" method="get" action="/news/search/">
+              <div class="itv-glob-search__field">
+                <input class="itv-glob-search__input" id="q" name="q" placeholder="Search" type="text" />
+                <button class="itv-glob-search__button icon--itv-glob-search-alt-white" type="submit">Search</button>
+              </div>
+            </form>
+          </div>
+      </div>
+    </header>
+  </div>
+</div>
+
+  <script type="text/javascript">
+    !function(){function e(e,t,n){e&&(e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n))}function t(e){return function(t){n(t,e.parentNode)}}function n(e,t){var n=t.className,a=/\b ? is-open\b/;for(m=0;m<c.length;m++)t!==c[m].parentNode&&(c[m].parentNode.className=c[m].parentNode.className.replace(a,""));t.className=n.match(a)?n.replace(a,""):n+" is-open",e.preventDefault?e.preventDefault():e.returnValue=!1}var a=document.forms.search_search,c=[document.getElementById("itv-glob-nav-dropdown"),document.getElementById("itv-glob-nav-more-dropdown")],o=!!a,r="placeholder"in document.createElement("input");if(o){if(!r){var l=a.q,u=l.getAttribute("placeholder");l.value=u,e(l,"focus",function(){l.value==u&&(l.value="")}),e(l,"blur",function(){""==l.value&&(l.value=u)})}c.push(document.getElementById("itv-glob-search-toggle"))}var d,s,m,v,i,g=["click","touchstart"];for(m=0;m<c.length;m++)for(s=c[m],d=t(s),i=0;i<g.length;i++)v=g[i],e(s,v,d)}(),function(){var e=document.getElementById("itv-header-page-fragment");e&&document.createElementNS&&document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect&&(e.className=e.className+" svg")}();
+</script>
+
+  
+  
+      <div class="background-takeover-container">
+        <div class="background-takeover">
+          <script src="http://tom.itv.com/itv/jserver/random=77050/site=itv/area=news.national.update/position=1/adtype=any/size=pagetakeover/contentid=2014.12.15.flag.in.sydney.cafe.window.is.not.linked.with.is/viewid=1428049666"></script>
+        </div>
+      </div>
+    
+
+
+  <div class="header-apron">
+    
+  </div>
+
+  <nav class="main-nav ">
+  <ul class="main-nav__inner">
+    <li class="main-nav__item">
+      <a href="/news/" class="main-nav__item-link main-nav__item-link--news"><img alt="News" src="/news/assets/icons/itv-news-bed4fe0b312ab6c9b3118a0107bfa4aa.svg" /></a>
+    </li>
+
+    <li class="main-nav__item main-nav__item--no-mobile">
+      <a href="/news/" class="main-nav__item-link main-nav__item-link--bordered">Top stories</a>
+    </li>
+
+    <li class="main-nav__item main-nav__item--with-dropdown js-nav-dropdown">
+      <button class="main-nav__item-link main-nav__item-link--bordered js-nav-dropdown-toggle" type="button">
+        Your area
+      </button>
+
+      <div class="main-nav__dropdown">
+        <ul class="main-nav__inner region-selector">
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/" class="main-nav__item-link is-active">National</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/border/" class="main-nav__item-link ">Border</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/tyne-tees/" class="main-nav__item-link ">Tyne Tees</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/calendar/" class="main-nav__item-link ">Calendar</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/granada/" class="main-nav__item-link ">Granada</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/central/" class="main-nav__item-link ">Central</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/anglia/" class="main-nav__item-link ">Anglia</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/london/" class="main-nav__item-link ">London</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/meridian/" class="main-nav__item-link ">Meridian</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/wales/" class="main-nav__item-link ">Wales</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/west/" class="main-nav__item-link ">West Country (E)</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/westcountry/" class="main-nav__item-link ">West Country (W)</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/channel/" class="main-nav__item-link ">Channel</a>
+            </li>
+        </ul>
+      </div>
+    </li>
+
+    <li class="main-nav__item main-nav__item--with-dropdown js-nav-dropdown">
+      <button class="main-nav__item-link main-nav__item-link--bordered js-nav-dropdown-toggle" type="button">
+        Topics
+      </button>
+
+      <div class="main-nav__dropdown">
+        <ul class="main-nav__inner">
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/world/" class="main-nav__item-link ">World</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/politics/" class="main-nav__item-link ">Politics</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/business/" class="main-nav__item-link ">Business</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/money/" class="main-nav__item-link ">Money</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/health/" class="main-nav__item-link ">Health</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/education/" class="main-nav__item-link ">Education</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/entertainment/" class="main-nav__item-link ">Entertainment</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/royal/" class="main-nav__item-link ">Royal</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/technology/" class="main-nav__item-link ">Technology</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/sport/" class="main-nav__item-link ">Sport</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/and-finally/" class="main-nav__item-link ">And Finally</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/environment/" class="main-nav__item-link ">Environment</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/science/" class="main-nav__item-link ">Science</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/travel/" class="main-nav__item-link ">Travel</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/religion/" class="main-nav__item-link ">Religion</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/economy/" class="main-nav__item-link ">Economy</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/weather/" class="main-nav__item-link ">Weather</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/countryside/" class="main-nav__item-link ">Countryside</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/employment/" class="main-nav__item-link ">Employment</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/animals/" class="main-nav__item-link ">Animals</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/consumer/" class="main-nav__item-link ">Consumer</a>
+            </li>
+            <li class="main-nav__item main-nav__dropdown-item">
+              <a href="/news/unspun/" class="main-nav__item-link ">Unspun</a>
+            </li>
+        </ul>
+      </div>
+    </li>
+
+    <li class="main-nav__item main-nav__item--no-mobile">
+      <a href="/news/weather/" class="main-nav__item-link main-nav__item-link--bordered">Weather</a>
+    </li>
+
+  </ul>
+</nav>
+
+
+  <a id="containerTarget" class="visuallyhidden" tabindex="-1" href="#containerTarget">Main page content</a>
+
+  
+
+
+  
+
+  <div role="main" class="site-container clearfix content-left ">
+    
+
+
+
+
+
+
+
+
+<div class="container container--grey container--with-sidebar container--no-border">
+
+  <div class="content content--with-sidebar">
+
+    <div class="content__main">
+
+
+      <div class="content__main__responsive">
+        <div class="content__main__responsive__inner">
+
+
+            <article class="story">
+
+
+                <div class="update__top">
+                  <div class="story__sponsorbutton sponsorbutton js-ad">
+                    
+      <div class="ad sponsorbutton any" data-key="Update:434959">
+        <h4>Advertisement</h4>
+        <script src="http://tom.itv.com/itv/jserver/random=8911/site=itv/area=news.national.update/position=1/adtype=any/size=sponsorbutton/categories=world/topics=australia.sydney/contentid=2014.12.15.flag.in.sydney.cafe.window.is.not.linked.with.is/viewid=1428049666"></script>
+      </div>
+    
+                  </div>
+                    <ol class="labels labels--grow">
+                      <li class="labels__item labels__item--region">
+                        <a href="/news/national/">National</a>
+                      </li>
+                    </ol>
+                </div>
+
+
+              <header class="story__header">
+
+                <h2 class="h1-title story__title">Urgent review ordered into background of Sydney siege gunman</h2>
+                <p>An urgent review has been ordered by the Australian government to answer a number of &quot;obvious questions&quot; about what could have been done to prevent the deadly siege at a Sydney café.</p>
+
+<p>It comes as police in Sydney revealed they fought to keep gunman Man Haron Monis, who went on to kill two hostages in a 16-hour siege, in custody - but were overruled by the courts, police chiefs have revealed.</p>
+
+<p>The 50-year-old gunman, who died as police stormed the building, was implicated in a string of serious crimes but had still been granted bail.</p>
+
+
+                <ul class="share share--with-background">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/story/2014-12-17/urgent-review-ordered-into-background-of-sydney-siege-gunman/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/story/2014-12-17/urgent-review-ordered-into-background-of-sydney-siege-gunman/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=Urgent review ordered into background of Sydney siege gunman&amp;url=http://www.itv.com/news/story/2014-12-17/urgent-review-ordered-into-background-of-sydney-siege-gunman/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/story/2014-12-17/urgent-review-ordered-into-background-of-sydney-siege-gunman/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/story/2014-12-17/urgent-review-ordered-into-background-of-sydney-siege-gunman/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/story/2014-12-17/urgent-review-ordered-into-background-of-sydney-siege-gunman/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/story/2014-12-17/urgent-review-ordered-into-background-of-sydney-siege-gunman/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/story/2014-12-17/urgent-review-ordered-into-background-of-sydney-siege-gunman/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+              </header>
+
+            </article>
+
+              <a href="/news/story/2014-12-17/urgent-review-ordered-into-background-of-sydney-siege-gunman/" class="button-link--notification">View all 110 updates ›</a>
+
+
+          <article class="update">
+            <header class="update__header">
+
+              <div class="update__top">
+
+
+                <section class="update__labels">
+                  <ol class="labels">
+
+
+                    <li class="labels__item labels__item--time">
+                      <time datetime="2014-12-15T00:07:18+00:00">
+                        15 December 2014 at 12:07am
+                      </time>
+                    </li>
+                  </ol>
+                </section>
+
+              </div>
+
+              <h1 class="update__title">Flag in Sydney cafe window &#x27;is not linked with IS&#x27;</h1>
+
+            </header>
+
+            <figure class="item__content-block item__content-block--with-caption
+                 item__content-block--image">
+  <div class="fluid-media-wrapper">
+
+    <div class="fluid-media-wrapper__media">
+      
+<span class=" responsive-image" data-alt="Two people hold up a black flag in the Lindt cafe in Sydney. " data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/547480/article_update_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/547480/stream_img.jpg" data-media="(min-width: 321px)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/547480/article_update_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Two people hold up a black flag in the Lindt cafe in Sydney. " src="http://news.images.itv.com/image/file/547480/article_update_img.jpg" />
+    </noscript>
+</span>
+    </div>
+</div>  <figcaption class="item__content-block__media-info">Two people hold up a black flag in the Lindt cafe in Sydney.  <cite>Credit: 7 News</cite></figcaption>
+</figure>
+<div class="item__content-block item__content-block--markdown">
+  <p>A flag being held up by hostages in a coffee shop in Sydney is not thought to be affiliated with IS. </p>
+
+<p>Australian news channel 7 News said they had had it translated and the Arabic reads: &quot;There is no God but Allah and Mohammed is the messenger of God.&quot;</p>
+
+<p>It is not known yet how many people are being held inside the Lindt cafe on Martin Place. </p>
+
+<p>But buildings nearby have been evacuated, a train station has apparently been closed and traffic has been stopped on Sydney Harbour Bridge. </p>
+
+</div>
+
+
+              <div class="item__content-block">
+                <time datetime="2014-12-17" pubdate class="update__time-edited">Last updated Wed 17 Dec 2014</time>
+              </div>
+
+
+              <section class="update-story ">
+  <div class="columns">
+    <div class="update-story__details column ">
+      <section class="update-story__labels">
+        <ol class="labels">
+          <li class="labels__item labels__item--read-more">
+            <a href="/news/story/2014-12-17/urgent-review-ordered-into-background-of-sydney-siege-gunman/">Read more</a>
+          </li>
+          <li class="labels__item labels__item--update-count-reverse">
+            <a href="/news/story/2014-12-17/urgent-review-ordered-into-background-of-sydney-siege-gunman/">
+              110 updates
+</a>          </li>
+        </ol>
+      </section>
+
+      <header class="update-story__header">
+        <a href="/news/story/2014-12-17/urgent-review-ordered-into-background-of-sydney-siege-gunman/" class="update-story__title">Urgent review ordered into background of Sydney siege gunman</a>
+      </header>
+    </div>
+  </div>
+</section>
+
+
+              <div class="update__tags">
+    <ul class="tag-list">
+
+
+        <li class="tag-list__tag tag-list__tag--category">
+          <a href="/news/world/">World</a>
+        </li>
+
+        <li class="tag-list__tag">
+          <a href="/news/topic/australia/">Australia</a>
+        </li>
+        <li class="tag-list__tag">
+          <a href="/news/topic/sydney/">Sydney</a>
+        </li>
+
+    </ul>
+  </div>
+
+
+            <div class="update__share">
+              <ul class="share ">
+  <li class="share__item">
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.itv.com/news/update/2014-12-15/flag-in-sydney-cafe-window-is-not-linked-with-is/" class="share__button share__button--facebook js-facebook-share" data-share-action="share" data-share-network="Facebook" data-share-url="http://www.itv.com/news/update/2014-12-15/flag-in-sydney-cafe-window-is-not-linked-with-is/">
+      <span class="share__icon share__icon--facebook"></span><span class="share__icon-text">Share</span>
+</a>  </li><li class="share__item">
+    <a href="https://twitter.com/intent/tweet?text=Flag in Sydney cafe window &#x27;is not linked with IS&#x27;&amp;url=http://www.itv.com/news/update/2014-12-15/flag-in-sydney-cafe-window-is-not-linked-with-is/" class="share__button share__button--twitter js-twitter-share" data-share-action="tweet" data-share-network="Twitter" data-share-url="http://www.itv.com/news/update/2014-12-15/flag-in-sydney-cafe-window-is-not-linked-with-is/">
+      <span class="share__icon share__icon--twitter"></span><span class="share__icon-text">Tweet</span>
+</a>  </li><li class="share__item">
+    <a href="https://plus.google.com/share?url=http://www.itv.com/news/update/2014-12-15/flag-in-sydney-cafe-window-is-not-linked-with-is/" class="share__button share__button--googleplus js-googleplus-share" data-share-action="share" data-share-network="Google+" data-share-url="http://www.itv.com/news/update/2014-12-15/flag-in-sydney-cafe-window-is-not-linked-with-is/">
+      <span class="share__icon share__icon--googleplus"></span><span class="share__icon-text">Plus</span>
+</a>  </li><li class="share__item">
+    <a href="http://www.reddit.com/submit?url=http://www.itv.com/news/update/2014-12-15/flag-in-sydney-cafe-window-is-not-linked-with-is/" class="share__button share__button--reddit js-reddit-share" data-share-action="share" data-share-network="Reddit" data-share-url="http://www.itv.com/news/update/2014-12-15/flag-in-sydney-cafe-window-is-not-linked-with-is/">
+      <span class="share__icon share__icon--reddit"></span><span class="share__icon-text">Reddit</span>
+</a>  </li>
+</ul>
+
+            </div>
+
+          </article>
+
+              <section class="content-listing content-listing--highlights">
+      <h2 class="content-listing__title">
+        More on this story
+      </h2>
+
+    <div class="content-listing__columns columns">
+      <ul class="content-listing__items">
+          <li class="content-listing__item content-listing__item--highlight column">
+            <article class="content-listing__item-content">
+
+              <a href="/news/2014-12-17/first-hostage-to-escape-sydney-siege-speaks-of-relief-at-his-release/">
+                <div class="content-listing__item-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Sydney hostage John O&#x27;Brien opens up about his ordeal" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/549676/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/549676/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/549676/top_article_img.jpg" data-media="(min-width: 50em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/549676/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Sydney hostage John O&#x27;Brien opens up about his ordeal" src="http://news.images.itv.com/image/file/549676/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                </div>
+</a>
+              <div class="content-listing__item-details">
+                <h3 class="content-listing__item-title">
+                  <a href="/news/2014-12-17/first-hostage-to-escape-sydney-siege-speaks-of-relief-at-his-release/" class="content-listing__item-link">First hostage to escape Sydney siege speaks of relief</a>
+                </h3>
+                  <p class="content-listing__item-summary">
+                    The first hostage to escape the siege in Sydney in which three people including the gunman died has spoken of his relief at his release
+
+                  </p>
+              </div>
+            </article>
+          </li>
+          <li class="content-listing__item content-listing__item--highlight column">
+            <article class="content-listing__item-content">
+
+              <a href="/news/2014-12-16/the-dramatic-moment-the-sydney-siege-came-to-a-bloody-end/">
+                <div class="content-listing__item-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/549078/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/549078/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/549078/top_article_img.jpg" data-media="(min-width: 50em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/549078/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="" src="http://news.images.itv.com/image/file/549078/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                </div>
+</a>
+              <div class="content-listing__item-details">
+                <h3 class="content-listing__item-title">
+                  <a href="/news/2014-12-16/the-dramatic-moment-the-sydney-siege-came-to-a-bloody-end/" class="content-listing__item-link">Dramatic moment the Sydney siege came to a bloody end</a>
+                </h3>
+                  <p class="content-listing__item-summary">
+                    The dramatic moment armed police brought the Sydney siege to a bloody end has been caught on camera.
+
+                  </p>
+              </div>
+            </article>
+          </li>
+          <li class="content-listing__item content-listing__item--highlight column">
+            <article class="content-listing__item-content">
+
+              <a href="/news/2014-12-16/cameraman-who-captured-sydney-siege-describes-frightening-ordeal/">
+                <div class="content-listing__item-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/548703/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/548703/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/548703/top_article_img.jpg" data-media="(min-width: 50em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/548703/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="" src="http://news.images.itv.com/image/file/548703/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                </div>
+</a>
+              <div class="content-listing__item-details">
+                <h3 class="content-listing__item-title">
+                  <a href="/news/2014-12-16/cameraman-who-captured-sydney-siege-describes-frightening-ordeal/" class="content-listing__item-link">Cameraman who captured Sydney siege describes ordeal</a>
+                </h3>
+                  <p class="content-listing__item-summary">
+                    &quot;It was pretty loud, pretty frightening - like nothing I&#x27;d ever seen before ever,&quot; Greg Parker said. 
+                  </p>
+              </div>
+            </article>
+          </li>
+      </ul>
+    </div>
+  </section>
+
+
+        </div>
+      </div>
+
+    </div>
+
+    <aside class="content__aside">
+  <div class="content__aside__inner">
+
+      <div class="add-sidebar any js-ad">
+    
+      <div class="ad mpu any" data-key="Update:434959">
+        <h4>Advertisement</h4>
+        <script src="http://tom.itv.com/itv/jserver/random=2157/site=itv/area=news.national.update/position=1/adtype=any/size=300x250/categories=world/topics=australia.sydney/contentid=2014.12.15.flag.in.sydney.cafe.window.is.not.linked.with.is/viewid=1428049666"></script>
+      </div>
+    
+  </div>
+
+
+      <section class="small-content-listing small-content-listing--in-sidebar">
+    <h2 class="small-content-listing__title">
+      Related news
+    </h2>
+
+    <div class="small-content-listing__columns columns">
+      <ul class="small-content-listing__items">
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-02-22/abbott-legal-system-let-us-down-over-sydney-siege/">
+
+
+                <div class="small-content-listing__item-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                        
+<span class=" responsive-image" data-alt="" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/600428/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/600428/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/600428/top_article_img.jpg" data-media="(min-width: 50em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/600428/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="" src="http://news.images.itv.com/image/file/600428/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                </div>
+
+</a>            
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  <a href="/news/2015-02-22/abbott-legal-system-let-us-down-over-sydney-siege/" class="small-content-listing__item-link">Abbott: &#x27;Legal system let us down over Sydney siege&#x27;</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-01-29/police-bullets-killed-sydney-siege-victim-katrina-dawson/">
+
+
+                <div class="small-content-listing__item-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                        
+<span class=" responsive-image" data-alt="" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/580713/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/580713/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/580713/top_article_img.jpg" data-media="(min-width: 50em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/580713/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="" src="http://news.images.itv.com/image/file/580713/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                </div>
+
+</a>            
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  <a href="/news/2015-01-29/police-bullets-killed-sydney-siege-victim-katrina-dawson/" class="small-content-listing__item-link">Police bullets killed Sydney siege victim Katrina Dawson</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/update/2014-12-23/memorial-services-for-sydney-siege-victims/">
+
+
+                <div class="small-content-listing__item-image">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                        
+<span class=" responsive-image" data-alt="Members of an all-woman funeral company bring sunflowers out of St Stephens Uniting Church in Sydney, December 23, 2014. following the funeral of Sydney cafe siege victim, cafe manager Tori Johnson." data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/554268/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/554268/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/554268/top_article_img.jpg" data-media="(min-width: 50em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/554268/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Members of an all-woman funeral company bring sunflowers out of St Stephens Uniting Church in Sydney, December 23, 2014. following the funeral of Sydney cafe siege victim, cafe manager Tori Johnson." src="http://news.images.itv.com/image/file/554268/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+                </div>
+
+</a>            
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  <a href="/news/update/2014-12-23/memorial-services-for-sydney-siege-victims/" class="small-content-listing__item-link">Memorial services for Sydney siege victims begin</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+      </ul>
+    </div>
+  </section>
+
+
+      <section class="small-content-listing small-content-listing--top-stories">
+    <h2 class="small-content-listing__title">
+      Top stories
+    </h2>
+
+    <div class="small-content-listing__columns columns">
+      <ul class="small-content-listing__items">
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/story/2015-03-23/cameron-will-not-seek-third-term-if-re-elected/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Cameron &#x27;will not seek third term&#x27; if re-elected" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/624277/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/624277/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/624277/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/624277/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Cameron &#x27;will not seek third term&#x27; if re-elected" src="http://news.images.itv.com/image/file/624277/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  <span class="play-brightcove-video  video--is-small"><span class="visuallyhidden">Play video</span></span>
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/story/2015-03-23/cameron-will-not-seek-third-term-if-re-elected/" class="small-content-listing__item-link">Cameron &#x27;will not seek third term&#x27; if re-elected</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/story/2015-03-24/mps-call-for-independent-review-of-benefit-sanctions/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="MPs call for &#x27;urgent&#x27; review of benefit sanctions" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/624382/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/624382/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/624382/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/624382/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="MPs call for &#x27;urgent&#x27; review of benefit sanctions" src="http://news.images.itv.com/image/file/624382/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/story/2015-03-24/mps-call-for-independent-review-of-benefit-sanctions/" class="small-content-listing__item-link">MPs call for &#x27;urgent&#x27; review of benefit sanctions</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-03-23/james-corden-ready-for-us-chat-show-debut-presenting-the-late-late-show/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="James Corden ready for US chat show debut" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/623451/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/623451/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/623451/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/623451/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="James Corden ready for US chat show debut" src="http://news.images.itv.com/image/file/623451/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2015-03-23/james-corden-ready-for-us-chat-show-debut-presenting-the-late-late-show/" class="small-content-listing__item-link">James Corden ready for US chat show debut</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-03-23/calls-for-global-action-as-arctic-sea-ice-hits-record-low/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Calls for action as Arctic sea ice hits record low" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/624206/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/624206/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/624206/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/624206/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Calls for action as Arctic sea ice hits record low" src="http://news.images.itv.com/image/file/624206/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2015-03-23/calls-for-global-action-as-arctic-sea-ice-hits-record-low/" class="small-content-listing__item-link">Calls for action as Arctic sea ice hits record low</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-03-24/details-of-the-itv-leaders-debate-announced/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Details of the ITV Leaders&#x27; Debate announced" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/624377/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/624377/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/624377/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/624377/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Details of the ITV Leaders&#x27; Debate announced" src="http://news.images.itv.com/image/file/624377/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2015-03-24/details-of-the-itv-leaders-debate-announced/" class="small-content-listing__item-link">Details of the ITV Leaders&#x27; Debate announced</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/story/2015-03-23/janice-atkinson-expelled-from-ukip-over-expenses-allegations/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Janice Atkinson expelled from Ukip over expenses allegations" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/621068/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/621068/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/621068/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/621068/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Janice Atkinson expelled from Ukip over expenses allegations" src="http://news.images.itv.com/image/file/621068/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/story/2015-03-23/janice-atkinson-expelled-from-ukip-over-expenses-allegations/" class="small-content-listing__item-link">Janice Atkinson expelled from Ukip over expenses allegations</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/story/2015-03-23/ex-bbc-boss-greg-dyke-clarkson-a-disaster-waiting-to-happen/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Ex-BBC boss Greg Dyke: Clarkson a &#x27;disaster waiting to happen&#x27;" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/624233/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/624233/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/624233/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/624233/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Ex-BBC boss Greg Dyke: Clarkson a &#x27;disaster waiting to happen&#x27;" src="http://news.images.itv.com/image/file/624233/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/story/2015-03-23/ex-bbc-boss-greg-dyke-clarkson-a-disaster-waiting-to-happen/" class="small-content-listing__item-link">Ex-BBC boss Greg Dyke: Clarkson a &#x27;disaster waiting to happen&#x27;</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/story/2015-03-23/claudia-lawrence-police-arrest-man-on-suspicion-of-murder/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Claudia Lawrence: Police arrest man on suspicion of murder" data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/623966/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/623966/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/623966/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/623966/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Claudia Lawrence: Police arrest man on suspicion of murder" src="http://news.images.itv.com/image/file/623966/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/story/2015-03-23/claudia-lawrence-police-arrest-man-on-suspicion-of-murder/" class="small-content-listing__item-link">Claudia Lawrence: Police arrest man on suspicion of murder</a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-03-23/families-of-missing-schoolgirls-travel-to-turkey/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Families of missing schoolgirls travel to Turkey " data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/624242/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/624242/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/624242/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/624242/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Families of missing schoolgirls travel to Turkey " src="http://news.images.itv.com/image/file/624242/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  <span class="play-brightcove-video  video--is-small"><span class="visuallyhidden">Play video</span></span>
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2015-03-23/families-of-missing-schoolgirls-travel-to-turkey/" class="small-content-listing__item-link">Families of missing schoolgirls travel to Turkey </a>
+                </h3>
+              </div>
+            </article>
+          </li>
+          <li class="small-content-listing__item column column--inline">
+            <article class="small-content-listing__item-content">
+
+              <a href="/news/2015-03-23/the-weather-keeping-us-on-our-toes-freezing-frosty-and-icy-tonight/">
+                <div class="small-content-listing__item-image brightcove-video">
+                  <div class="fluid-media-wrapper">
+                    <div class="fluid-media-wrapper__media">
+                      
+<span class=" responsive-image" data-alt="Freezing, frosty and icy tonight " data-height="null" data-picture="true" data-width="null">
+    <span data-src="http://news.images.itv.com/image/file/624373/top_article_img.jpg"></span>
+    <span data-src="http://news.images.itv.com/image/file/624373/article_update_img.jpg" data-media="(min-width: 37.5em)"></span>
+    <span data-src="http://news.images.itv.com/image/file/624373/top_article_img.jpg" data-media="(min-width: 60em)"></span>
+
+  <!--[if (lt IE 9) & (!IEMobile)]>
+    <span data-src="http://news.images.itv.com/image/file/624373/top_article_img.jpg"></span>
+  <![endif]-->
+
+    <noscript>
+      <img alt="Freezing, frosty and icy tonight " src="http://news.images.itv.com/image/file/624373/top_article_img.jpg" />
+    </noscript>
+</span>
+                    </div>
+                  </div>
+
+                  
+                </div>
+</a>
+              <div class="small-content-listing__item-details">
+                <h3 class="small-content-listing__item-title">
+                  
+                  <a href="/news/2015-03-23/the-weather-keeping-us-on-our-toes-freezing-frosty-and-icy-tonight/" class="small-content-listing__item-link">Freezing, frosty and icy tonight </a>
+                </h3>
+              </div>
+            </article>
+          </li>
+      </ul>
+    </div>
+  </section>
+
+    
+
+    
+
+  </div>
+</aside>
+
+
+  </div>
+
+</div>
+
+  </div>
+
+    <div class="ad-onebyone any">
+      
+      <script src="http://tom.itv.com/itv/jserver/random=63626/site=itv/area=news.national.update/position=1/adtype=any/size=1x1/categories=world/topics=australia.sydney/contentid=2014.12.15.flag.in.sydney.cafe.window.is.not.linked.with.is/viewid=1428049666"></script>
+    
+    </div>
+
+  <div class="itv-page-fragment">
+  <div class="itv-glob-foot" id="skip_to_footer">
+    <footer>
+      <div class="itv-glob-foot__inner">
+        <div class="itv-glob-foot__channels itv-glob-foot__block">
+          <nav>
+            <ul class="itv-glob-foot__channels-list">
+              <li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/itv/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv">ITV</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/itv2/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv2">ITV2</span>
+</a>              </li><!--
+              --><li class="itv-glob-foot__channels-item">
+                  <a class="itv-glob-foot__channels-link" href="http://www.itv.com/itvplayer/itvbe/">
+                    <span class="itv-glob-foot__channel itv-glob-foot__channel--itvbe icon--itv-glob-foot-itvbe">ITVBE</span>
+</a>                </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/itv3/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv3">ITV3</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/itv4/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-itv4">ITV4</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/citv/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-citv">CITV</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="https://www.itv.com/itvplayer/">
+                  <span class="itv-glob-foot__channel itv-glob-foot__channel--player icon--itv-glob-foot-itv-player">ITV Player</span>
+</a>              </li><!--
+           --><li class="itv-glob-foot__channels-item">
+                <a class="itv-glob-foot__channels-link" href="http://www.itv.com/encore/">
+                  <span class="itv-glob-foot__channel icon--itv-glob-foot-encore itv-glob-foot__channel--encore">ITV Encore</span>
+</a>              </li>
+
+            </ul>
+          </nav>
+        </div>
+
+        <div class="itv-glob-foot__links itv-glob-foot__block">
+          <nav>
+            <div class="itv-glob-foot__columns">
+              <div class="itv-glob-foot__column">
+                <section>
+                  <h3 class="itv-glob-foot__heading">ITV Presents</h3>
+
+                  <ul class="itv-glob-foot__links-list">
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/beontv/">Be on TV</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/mobile/">Mobile</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://traffic.jackpot247.com/redirect.php?member=itvreferrer&amp;profile=website" rel="nofollow">Jackpot</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.signedstories.com/" rel="nofollow">Signed Stories</a>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+
+              <div class="itv-glob-foot__column">
+                <section>
+                  <h3 class="itv-glob-foot__heading">Corporate</h3>
+
+                  <ul class="itv-glob-foot__links-list">
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itvplc.com/">ITV Plc</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itvjobs.com/">Jobs</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/presscentre/">Press Centre</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itvmedia.co.uk/">ITV Media</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/commissioning/">Commissioning</a>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+
+              <div class="itv-glob-foot__column">
+                <section>
+                  <h3 class="itv-glob-foot__heading">Information</h3>
+
+                  <ul class="itv-glob-foot__links-list">
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/help/">Help</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/contactus/">Contact Us</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/termsconditions/" rel="nofollow">Terms &amp; Conditions</a>
+                    </li>
+                    <li class="itv-glob-foot__links-item">
+                      <a class="itv-glob-foot__links-link" href="http://www.itv.com/privacy/" rel="nofollow">Privacy Policy</a>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+            </div>
+          </nav>
+        </div>
+
+        <div class="itv-glob-foot__legal">
+          <section>
+            <p class="itv-glob-foot__cookies">
+              By using this site, you agree we can set and use cookies.
+              For more details of these cookies and how to disable them,
+              see our <a href="http://www.itv.com/cookies/">cookie policy</a>.
+            </p>
+
+            <p class="itv-glob-foot__copyright">
+              &copy; Copyright ITV plc 2015
+            </p>
+          </section>
+        </div>
+      </div>
+    </footer>
+  </div>
+</div>
+
+    <script type="text/javascript">
+    !function(){var o,e=document.createElement("div");e.className;var i=document.location.hostname.split(".").slice(-2).join("."),t=document.cookie.replace(/(?:(?:^|.*;\s*)Itv.CookiePolicy\s*\=\s*([^;]*).*$)|^.*$/,"$1"),c=function(o){document.cookie="Itv.CookiePolicy=accepted; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/; domain="+i,e.parentElement.removeChild(e),o.preventDefault?o.preventDefault():o.returnValue=!1};"accepted"!==t&&("notified"!==t&&(document.cookie="Itv.CookiePolicy=notified; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/; domain="+i),e.innerHTML='      <div class="itv-page-fragment">        <div id="itv-glob-cookie-policy" class="itv-glob-cook">          <div class="itv-glob-cook__inner">            <div class="itv-glob-cook__columns">              <div class="itv-glob-cook__header">                <h2 class="itv-glob-cook__title">                  Cookies on the ITV website                </h2>              </div>              <div class="itv-glob-cook__body">                <div class="itv-glob-cook__content">                  <p class="itv-glob-cook__message">                    ITV websites use cookies. By continuing to browse the site you are agreeing to our use of cookies. For more details about cookies and how to manage them, see our <a href="http://www.itv.com/cookies/">cookie policy</a>.                  </p>                </div>                <div class="itv-glob-cook__cta">                  <a href="#" id="itv-glob-accept-cookie-policy" class="itv-glob-cook__cta-accept">                    <span class="itv-glob-cook__check icon--itv-glob-cook-tick"></span>Continue                  </a>                </div>              </div>            </div>          </div>        </div>      </div>',document.body.insertBefore(e,document.body.firstChild),o=document.getElementById("itv-glob-accept-cookie-policy"),o.addEventListener&&o.addEventListener("click",c,!1),o.attachEvent&&o.attachEvent("onclick",c))}();
+</script>
+
+
+  <!-- for facebook like button - don't delete me -->
+  <div id="fb-root"></div>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/news/assets/jquery-1.8.3.min.js"><\/script>')</script>
+  <script src="http://js.pusher.com/1.11.2/pusher.min.js" type="text/javascript"></script>
+  <script src="/news/assets/application-3d15058f7e309ba68de8bfe6c0c89372.js" type="text/javascript"></script>
+
+  
+
+  <!-- mathiasbynens.be/notes/async-analytics-snippet -->
+<script>
+  // google analytics code - don't delete me
+  var _gaq=[['_setAccount','UA-17825253-1']];
+    _gaq.push(['_setPageGroup', "1", "Update"]);
+    _gaq.push(['_setPageGroup', "2", "World"]);
+    _gaq.push(['_setPageGroup', "3", "Australia"]);
+    _gaq.push(['_setPageGroup', "4", "Sydney"]);
+    _gaq.push(['_setPageGroup', "5", "National"]);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,"script"));
+</script>
+  <script>
+
+    (function () {
+      var d = new Image(1, 1);
+      d.onerror = d.onload = function () {
+        d.onerror = d.onload = null;
+      };
+      d.src = ["//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-705203h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+    })();
+
+    function sitestat(u){var d=document,l=d.location;ns_pixelUrl=u+"&ns__t="+(new Date().getTime());u=ns_pixelUrl+"&ns_c="+((d.characterSet)?d.characterSet:d.defaultCharset)+"&ns_ti="+escape(d.title)+"&ns_jspageurl="+escape(l&&l.href?l.href:d.URL)+"&ns_referrer="+escape(d.referrer);(d.images)?new Image().src=u:d.write('<'+'p><img src="'+u+'" height="1" width="1" alt="*"><'+'/p>');}; sitestat("//ned.itv.com/itv/itv/s?news.national.story.2014-12-15.flag-in-sydney-cafe-window-is-not-linked-with-is.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=national&itv_sitesection3=story&itv_sitesection4=2014-12-15&itv_sitesection5=flag-in-sydney-cafe-window-is-not-linked-with-is&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews");
+
+    var nedstat_twitter_share = "//ned.itv.com/itv/itv/s?news.national.story.2014-12-15.flag-in-sydney-cafe-window-is-not-linked-with-is.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=national&itv_sitesection3=story&itv_sitesection4=2014-12-15&itv_sitesection5=flag-in-sydney-cafe-window-is-not-linked-with-is&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews";
+    var nedstat_fb_share = "//ned.itv.com/itv/itv/s?news.national.story.2014-12-15.flag-in-sydney-cafe-window-is-not-linked-with-is.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=national&itv_sitesection3=story&itv_sitesection4=2014-12-15&itv_sitesection5=flag-in-sydney-cafe-window-is-not-linked-with-is&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews";
+
+  </script>
+  <noscript>
+    <div>
+      <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-705203h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+      <p><img src="//ned.itv.com/itv/itv/s?news.national.story.2014-12-15.flag-in-sydney-cafe-window-is-not-linked-with-is.page&itv_sitetype=itv&itv_contentgenre=news-sport&itv_sitesection1=news&itv_sitesection2=national&itv_sitesection3=story&itv_sitesection4=2014-12-15&itv_sitesection5=flag-in-sydney-cafe-window-is-not-linked-with-is&itv_tvchannel=itv1&itv_contenttype=general&itv_pageversion=2012&itv_showpage=itvnews" height="1" width="1" alt="*"></p>
+    </div>
+  </noscript>
+
+  <!-- Prompt IE 6 users to install Chrome Frame. -->
+  <!--[if lt IE 7 ]>
+    <script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+
+  <!-- <script src="/news/assets/softclick-8447e086017ff6eeedfdef2e8316f1aa.js"></script> -->
+
+    <script src="/news/assets/sitestat-e7cb657a1afde57defac6b7de95bc7b1.js"></script>
+  <script>ns_loadingtime2=(new Date()).getTime()</script>
+</body>
+</html>

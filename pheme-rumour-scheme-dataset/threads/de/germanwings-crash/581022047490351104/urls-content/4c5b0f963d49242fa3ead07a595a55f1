@@ -1,0 +1,1256 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Content-Language: en
+Link: </node/10761016>; rel="shortlink",</article/74c9ba45177b4c4eb2cd57492ccc6ef2/latest-helicopter-searches-resume-alpine-jet-crash>; rel="canonical",</article/74c9ba45177b4c4eb2cd57492ccc6ef2/latest-helicopter-searches-resume-alpine-jet-crash>; rel="canonical",</node/10761016>; rel="shortlink"
+X-Request-ID: v-24c145d6-e86b-11e4-88e3-1231381918ff
+X-AH-Environment: prod
+Content-Encoding: gzip
+Content-Length: 34108
+Accept-Ranges: bytes
+X-Varnish: 1703365803
+X-Age: 0
+Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Tue, 21 Apr 2015 21:12:41 GMT
+Date: Tue, 21 Apr 2015 21:12:41 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"> 
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+ <meta name="apple-itunes-app" content="app-id=284901416"/>
+ <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwEPUFdADQYFU1NT"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<meta property="twitter:description" content="1:20 a.m. (0020 GMT, 8:20 p.m. EDT) A newspaper is reporting that the voice recorder indicates that one of the pilots was locked out of the cockpit before a Germanwings jetliner plummeted into a remote Alpine mountainside.…" />
+<meta property="twitter:image" content="http://binaryapi.ap.org/9d74ed46ef094595a5cbcb148fd5080e/460x.jpg" />
+<meta property="twitter:url" content="http://bigstory.ap.org/article/74c9ba45177b4c4eb2cd57492ccc6ef2/latest-helicopter-searches-resume-alpine-jet-crash" />
+<meta property="twitter:title" content="The Latest: Report says 1 pilot locked out before crash" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="og:locale" content="en_US" />
+<meta property="article:publisher" content="https://www.facebook.com/APNews" />
+<meta name="twitter:app:name:iphone" content="AP Mobile" />
+<meta property="twitter:site" content="@ap" />
+<meta name="twitter:app:id:iphone" content="284901416" />
+<meta name="twitter:app:id:googleplay" content="mnn.Android" />
+<meta name="twitter:app:url:googleplay" content="apmobile://article/74c9ba45177b4c4eb2cd57492ccc6ef2" />
+<link href="http://bigstory.ap.org/profiles/ap/themes/ap_vertical/touch-icon.png" rel="apple-touch-icon" />
+<meta name="twitter:app:name:googleplay" content="AP Mobile" />
+<meta name="twitter:app:url:ipad" content="apmobile://article/74c9ba45177b4c4eb2cd57492ccc6ef2" />
+<meta name="twitter:app:url:iphone" content="apmobile://article/74c9ba45177b4c4eb2cd57492ccc6ef2" />
+<meta name="twitter:app:name:ipad" content="AP Mobile" />
+<meta name="twitter:app:id:ipad" content="284901416" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="http://binaryapi.ap.org/9d74ed46ef094595a5cbcb148fd5080e/460x.jpg" />
+<meta property="al:ios:url" content="apmobile://article/74c9ba45177b4c4eb2cd57492ccc6ef2" />
+<meta property="al:ios:app_store_id" content="284901416" />
+<meta property="fb:app_id" content="118162278248556" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<link rel="shortcut icon" href="http://bigstory.ap.org/sites/bigstory/files/AP_Favicon_0_0.png" type="image/png" />
+<link rel="canonical" href="http://bigstory.ap.org/article/74c9ba45177b4c4eb2cd57492ccc6ef2/latest-helicopter-searches-resume-alpine-jet-crash" />
+<link rel="shortlink" href="/node/10761016" />
+<meta property="al:android:url" content="apmobile://article/74c9ba45177b4c4eb2cd57492ccc6ef2" />
+<meta property="al:ios:app_name" content="AP Mobile" />
+<meta property="og:url" content="http://bigstory.ap.org/article/74c9ba45177b4c4eb2cd57492ccc6ef2/latest-helicopter-searches-resume-alpine-jet-crash" />
+<meta property="og:description" content="1:20 a.m. (0020 GMT, 8:20 p.m. EDT) A newspaper is reporting that the voice recorder indicates that one of the pilots was locked out of the cockpit before a Germanwings jetliner plummeted into a remote Alpine mountainside.…" />
+<meta property="al:android:app_name" content="AP Mobile" />
+<meta property="og:site_name" content="The Big Story" />
+<meta property="og:title" content="The Latest: Report says 1 pilot locked out before crash" />
+<meta property="al:android:package" content="mnn.Android" />
+<meta property="al:web:url" content="http://bigstory.ap.org/article/74c9ba45177b4c4eb2cd57492ccc6ef2/latest-helicopter-searches-resume-alpine-jet-crash" />
+<meta name="description" content="1:20 a.m. (0020 GMT, 8:20 p.m. EDT) A newspaper is reporting that the voice recorder indicates that one of the pilots was locked out of the cockpit before a Germanwings jetliner plummeted into a remote Alpine mountainside. The New York Times is citing an investigator it doesn&#039;t identify as saying that the audio shows that after an ordinary start to the flight, one of the pilots left the cockpit and could not get back in. The investigator told the newspaper that the pilot began knocking quietly on the door, then became more insistent, saying that eventually: &quot;You can hear he is trying to smash the door down.&quot; The investigator does not speculate as to why the other pilot didn&#039;t open the door or make contact with ground control before the plane crashed Tuesday. All 150 people aboard were killed. ___ 10:25 p.m. (2125 GMT, 5:25 p.m. EDT) A bus with 14 relatives of the Spanish victims who died in the French Alps plane crash has left Barcelona for an overnight journey that will take them to the crash area by Thursday. Those going on the bus apparently did not want to take a Thursday morning flight from Barcelona to Marseille that is expected to shuttle many more relatives toward the site. Spanish civil protection spokesman Sergio Delgado said all of the Spanish relatives will meet up in Marseille and head to the remote crash zone in Seyne-Les-Alpes together. Spain&#039;s government has said at least 51 Spaniards were among the 150 victims of the crash. Airline Germanwings has said 35 of the 125 passengers identified were Spaniards. ___ 7:50 p.m. (1850 GMT, 2:50 p.m. EDT) Lufthansa CEO Carsten Spohr says the late take-off from Barcelona of the Germanwings plane that crashed in the French Alps was due to airport congestion and not related to the incident. Spohr added the crash of the plane that killed 150 people remained &quot;incomprehensible.&quot; Spohr said Wednesday that &quot;we still cannot understand&quot; what happened in the &quot;terrible accident.&quot; He said it is &quot;too early for speculation&quot; about the cause. The aircraft &quot;had a clean maintenance bill&quot; from an inspection the day before Tuesday&#039;s crash and was &quot;in perfect technical shape,&quot; he said. No distress signal was received from the plane. Spohr said he had a &quot;very, very emotional meeting&quot; with the relatives of the victims. Lufthansa, which owns Germanwings, has offered &quot;immediate financial help&quot; for those who need it. ___ 7:05 p.m. (1805 GMT, 2:05 p.m. EDT) The U.S. State Department says a third American has been identified as a victim of the plane crash in France that killed a total of 150 people. The department said it is in contact with the victim&#039;s next of kin but is not releasing the name out of respect for the family. A person close to the family earlier said American Yvonne Selke and her daughter Emily Selke were also among the victims. ___ 6:25 p.m. (1725 GMT, 1:25 p.m. EDT) Barcelona soccer club is joining three days of official mourning throughout Spain in memory of the Germanwings plane crash victims. The club made the announcement in a statement Wednesday, saying club flags will be flown at half-staff. The Germanwings flight departed Barcelona and was bound for Duesseldorf when in crashed in France on Tuesday. Two Iranian journalists who covered the &quot;El Clasico&quot; soccer match between Barcelona and Real Madrid on Sunday were among the crash victims. ___ 5:45 p.m. (1645 GMT, 12:45 p.m. EDT) The northeastern Spanish town of La Llagosta said two of the 150 crash victims were natives of the town, one of them a woman who had got married in the town on Saturday and was moving to Duesseldorf with her Moroccan husband, also a crash victim. In a statement on its website, La Llagosta town hall named the woman as Asmae Ouahhoud el Allaoui, 23. The husband&#039;s name wasn&#039;t made available. The town hall said another man born there, Francisco Javier Gonalons, 42, also died in the crash. The town declared three days of mourning for the victims of the crash and said it would hold a silent, five-minute homage outside the town hall later Wednesday. The town has a population of 14,000. ___ 5:30 p.m. (1630 GMT, 12:30 p.m. EDT) The director of France&#039;s aviation investigative agency says there currently is not the &quot;slightest explanation&quot; for what caused the Germanwings plane to lose altitude and crash in the Alps. Remi Jouty says the investigation could take weeks or even months. Jouty says the plane was flying &quot;until the end&quot; — slamming into the mountain, not breaking up in the air. He says the final communication from the plane was a routine message about permission to continue on its route. ___ 5:25 p.m. (1625 GMT, 12:25 p.m. EDT) The director of France&#039;s aviation investigative agency says audio has been recovered from the cockpit recorder salvaged from the crash of the Germanwings plane in the Alps. Remi Jouty says the material includes sound and voices, and was extracted Wednesday afternoon from the mangled black box recovered from a mountainside. Jouty says it was too early to draw conclusions from the recording. The case of the second black box, the flight data recorder, has been found, but not its contents, French President Francois Hollande said minutes earlier. Jouty says he couldn&#039;t confirm that the case of the second black box had been recovered. ___ 5:10 p.m. (1610 GMT, 12:10 p.m. EDT) The Foreign Office identified Martyn Matthews, 50, a senior quality manager from Wolverhampton, as a victim of the crash. &quot;We are devastated at the news of this tragic incident and request that we are allowed to deal with this terrible news without intrusion at this difficult time,&quot; the family said in a statement. He is survived by his wife, Sharon, and his two children. ___ 4:40 p.m. (1540 GMT, 11:40 a.m. EDT) Two Americans presumed to have died in the plane crash in the southern French Alps include a U.S. government contractor and her daughter, according to a person close to the family. The mother was identified as Yvonne Selke of Nokesville, Virginia, a longtime and highly regarded employee of Booz Allen Hamilton Inc. in Washington, and her daughter, whose name wasn&#039;t immediately available. Selke worked with the National Geospatial-Intelligence Agency, the Pentagon&#039;s satellite mapping office, according to the person, who spoke on condition of anonymity because this person wasn&#039;t authorized to release information to reporters. —By Associated Press writer Ted Bridis in Washington. ___ 4:10 p.m. (1510 GMT, 11:10 a.m. EDT) Spain&#039;s government has raised the number of Spanish victims in the crash from 49 to at least 51. Earlier Wednesday, the government put the number of Spanish victims at 49, but later issued a statement saying two more Spanish victims have been identified, bringing the number to 51. Germanwings said Wednesday said that of 125 passengers identified, 35 were Spaniards. It said some of the 125 could have dual nationalities. ___ 3:55 p.m. (1455 GMT, 10:55 a.m. EDT) Investigators will use the cockpit voice and flight data recorders to map out and focus their work, says Alan E. Diehl, a former air safety investigator. &quot;Both will point you in directions of what is critical,&quot; Diehl says. &quot;Based on what you learn from the recorders, you might focus on key pieces of wreckage.&quot; The four possible causes of any crash are human error, mechanical problems, weather, criminal activity or a combination of two or more. Diehl says investigators will work backward, starting by eliminating what didn&#039;t happen. ___ 3:45 p.m. (1445 GMT, 10:45 a.m. EDT) Iran&#039;s official IRNA news agency is reporting that the foreign ministry says two Iranian journalists died in the Germanwings plane crash. They were identified as Milad Hojatoleslami, who worked for semi-official Tasnim news agency and Hossein Javadi, a journalist at the Vatan-e-Emrouz daily. IRNA reported that the pair was in the Catalan capital to cover the &quot;El Clasico&quot; soccer match between Barcelona and Real Madrid. ___ 2:40 p.m. (1340 GMT, 9:40 a.m. EDT) Britain&#039;s Foreign Office identified three British victims: —Marina Bandres Lopez-Belio, 37, and her son Julian, 7 months. —Paul Andrew Bramley, 28. Lopez-Belio&#039;s husband, Pawel Pracz of Manchester, England, said his Spanish-born wife and son had traveled to Spain for a family funeral. &quot;She bought the tickets at the last moment, and decided to return to Manchester quickly as she wanted to return to her daily routine as soon as possible,&quot; he said. Bramley was studying hospitality and hotel management at Ceasar Ritz College in Lucerne and about to start an internship on April 1. He was flying back to Britain via Dusseldorf to meet with his mother. &quot;Paul was a kind, caring and loving son,&quot; his mother, Carol Bramley, said in a statement. &quot;He was the best son, he was my world.&quot; ___ 2:25 p.m. (1325 GMT, 9:25 a.m. EDT) The leaders of Germany, France and Spain gathered in the French Alps near the site of a German budget airlines crash to pay homage to the 150 victims. French President Francois Hollande and German Chancellor Angela Merkel arrived on a helicopter Wednesday on a mountain meadow whipped by strong winds. Spanish Prime Minister Mariano Rajoy also joined them at the scene, in the town of Seynes-les-Alpes. Most of the passengers on the Barcelona-Duesseldorf flight Tuesday were German and Spanish, though people of many other nationalities were also aboard. Hollande praised all the rescue workers who have been trying to retrieve debris and bodies from the hard-to-reach site. ___ 2 p.m. (1300 GMT, 9 a.m. EDT) Spain says it will send a six-member scientific police team to France to help with victim identification in the Germanwings plane crash, as soon as the bodies start to be bought down from the crash site. Interior Ministry official Francisco Martinez also said six Spanish psychologists will be sent to the town of Seyne-Les-Alpes near the crash site and five to Marseille to help tend to victims&#039; families. He said Spain has also offered to send army search and rescue teams if needed. Tuesday&#039;s crash killed all 150 people aboard the flight from Barcelona to Duesseldorf. ___ 1:25 p.m. (1225 GMT, 8:25 a.m. EDT) Germanwings has had to cancel a few flights since the crash because some crews declared themselves unfit to fly after losing colleagues. A flight from Duesseldorf to Barcelona on Wednesday was scratched, along with some from Duesseldorf and Stuttgart on Tuesday. Chief executive Thomas Winkelmann said some cockpit and cabin crews &quot;didn&#039;t want to fly today or yesterday for emotional reasons.&quot; ___ 1:15 p.m. (1215 GMT, 8:15 a.m. EDT) Three generations of one family — a schoolgirl, her mother and grandmother — were on the Germanwings plane that crashed, according to a town outside Barcelona. A statement from Sant Cugat del Valles town hall didn&#039;t provide their names. The girl was a student of a middle school for children aged 10 to 11 at Santa Isabel school in Sant Cugat. —By Associated Press writer Jorge Sainz in Madrid. ___ 1 p.m. (1200 GMT, 8 a.m. EDT) France&#039;s aviation investigation bureau has released photos of the badly mangled voice data recorder from the Germanwings flight that crashed into an Alpine mountainside. The images show the metal black box — which is actually a bright orange-red — twisted, dented and scarred by the impact of the crash. The cockpit voice recorder was recovered on Tuesday, and French officials say they are working to pull its data. ___ 12:50 p.m. (1150 GMT, 7:50 a.m. EDT) Germanwings&#039; chief executive says the airline&#039;s current information is that 72 Germans, 35 Spanish citizens and two Americans were on board the flight that crashed in southern France. Thomas Winkelmann told reporters in Cologne on Wednesday that the list isn&#039;t yet final because the company is still trying to contact relatives of 27 victims. There were two victims each from Australia, Argentina, Iran and Venezuela. One victim each came from Britain, the Netherlands, Colombia, Mexico, Japan, Denmark, Belgium and Israel. Winkelmann says in some cases victims&#039; nationality isn&#039;t entirely clear, in part because of dual citizenship. ___ 12:20 p.m. (1120 GMT, 7:20 a.m. EDT) Executives, pilots and employees of German airline Lufthansa have held a minute of silence at company headquarters for the 150 people who died in the Germanwings crash. The Airbus A320 flown by Lufthansa&#039;s low-cost division crashed on Tuesday in the Alps in southern France. ___ 12:15 p.m. (1115 GMT, 7:15 a.m. EDT) Germany&#039;s top security official says there is no evidence at this stage that foul play was involved in the plane crash in southern France. Interior Minister Thomas de Maiziere told reporters in Berlin on Wednesday that &quot;according to the latest information there is no hard evidence that the crash was intentionally brought about by third parties.&quot; He says that authorities are nevertheless investigating all possible causes for the crash of a Germanwings flight from Barcelona to Spain on Tuesday in which 144 passengers and six crew members died. ___ 12 p.m. (1100 GMT, 7 a.m. EDT) The principal of the German high school where 16 students and two teachers died in the Germanwings crash says &quot;nothing will be the way it was at our school anymore.&quot; Ulrich Wessel, principal of the Joseph Koenig High School, said Wednesday that when the first call came about the crash, he hoped that the students had missed the plane. But the regional governor informed local officials that they were on the passenger list. Wessel says one of the teachers who was on the plane had been married for less than six months. He said: &quot;It is a tragedy that makes one speechless and we will have to learn to deal with it.&quot; ___ 11:50 a.m. (1050 GMT, 6:50 a.m. EDT) In Spain, flags flew at half-staff on government buildings and a minute of silence was held at legislative and government buildings across the country in memory of the Germanwings crash victims. Spain&#039;s national parliament canceled its normal Wednesday session out of respect. Barcelona&#039;s Liceu opera house held two minutes of silence at noon in homage to two opera singers — Oleg Bryjak and Maria Radner — who took the flight after performing at the theater last weekend. In the small northeastern town of Llinars del Valles, parents and children attended a memorial service at the Giola Institute for the 16 German high school students and their two teachers who had been on an exchange program there for a week before boarding the plane. A minute of silence was held at the town hall at midday. ___ 8:55 a.m. (0755 GMT, 3:55 a.m. EDT) The mayor of a town close to the site of the plane crash in the French Alps that killed 150 says bereaved families are expected to begin arriving in the town Wednesday morning. Francis Hermitte, mayor of Seyne-Les-Alpes, says said local families are offering to host the families because of a shortage of rooms to rent. Leaders of France, Germany and Spain will also meet with them in a makeshift chapel set up in a gymnasium, Hermitte said. Marion Cotterill, head of civil protection there, says the priority is to welcome families humanely. &quot;We offer a hot drink, a smile, a warm regard, or psychological counseling if asked for.&quot; Interior Ministry spokesman Paul-Henry Brandet says overnight rain and snow in the crash zone has made the rocky ravine slippery, increasing the difficulty of reaching the steep and remote area. ___ 8:50 a.m. (0750 GMT; 3:50 a.m. EDT) An Israeli citizen who lived in Spain was among the victims of the French plane crash, the Israeli Foreign Ministry said Wednesday. Eyal Baum was 39 and lived in Barcelona with his wife, his sister, Liat Baum, told Army Radio. &quot;He was amazing, with a winning smile. Whoever met him fell in love with him from the first moment,&quot; Baum said, crying. &quot;The thought of what he went through in those moments is very difficult.&quot; The crash Tuesday of the Germanwings Airbus 320 killed 150 people. There were no survivors. A delegation from the ultra-Orthodox Jewish movement Chabad is traveling to the crash site to help in rescue efforts, Chabad Rabbi Eliyahu Attia told Army Radio. ___ 8:00 a.m. (0700 GMT, 3:00 a.m. EDT) French Interior Minister Bernard Cazeneuve says the black box recovered from the crash site has been damaged but is believed to be &quot;useable.&quot; He says it is the voice and cockpit sound recorder. Cazeneuve told RTL radio on Wednesday that investigators were working to pull information from the black box voice recorder. Although officials have been firm that no cause has been ruled out, Cazeneuve said terrorism is not considered likely. Segolene Royal, another top French official, says the seconds between 10:30 a.m. and 10:31 a.m. are considered vital to the investigation into the crash. She says the pilot stopped responding after 10:31. ___ 6:30 a.m. (0530 GMT, 1:30 a.m. EDT) Helicopter operations have resumed over mountainsides in the French Alps where a German jetliner crashed, killing all 150 people on board. Under overcast skies, with temperatures just above freezing, helicopters resumed flights Wednesday over a widely scattered debris field. A black box has been recovered from the scene. The Airbus A320 operated by Germanwings, a budget subsidiary of Lufthansa, was less than an hour from landing in Duesseldorf on a flight from Barcelona Tuesday when it unexpectedly went into a rapid descent. The pilots did not send out a distress call and had lost radio contact with their control center, France&#039;s aviation authority said." />
+<meta name="keywords" content="Plane crashes, Helicopter crashes, Search and rescue efforts, Aviation accidents and incidents, France government, Barcelona, Weather, Student exchange programs, Municipal governments, International students, Education, Local governments, Philip Hammond, Airport operation, Transportation infrastructure, Transportation and shipping, Industrial products and services, Germany government, Thomas De Maiziere, Criminal investigations, Forensics, Israel, United Kingdom government, Spain government, Ciara, Madrid, Air travel disruptions, Mariano Rajoy, David Cameron, Marseille, Psychology, Science, Francois Hollande, Angela Merkel, Passenger airlines, Airlines, Manchester, Funerals and memorial services, Iran, Iran government, News industry, Journalists, Media industry, Media and entertainment industry, News media, Media, Transportation safety, Intelligence agencies, Train travel, Travel, African-Americans, Sports media, U.S. Department of State, Primary and secondary education" />
+<meta name="rights" content="2012 Associated Press" />
+    <title>The Latest: Report says 1 pilot locked out before crash</title>  
+  <style type="text/css" media="all">
+@import url("http://bigstory.ap.org/modules/system/system.base.css?nn5y9u");
+@import url("http://bigstory.ap.org/modules/system/system.menus.css?nn5y9u");
+@import url("http://bigstory.ap.org/modules/system/system.messages.css?nn5y9u");
+@import url("http://bigstory.ap.org/modules/system/system.theme.css?nn5y9u");
+</style>
+<style type="text/css" media="all">
+@import url("http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/css/flyout.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/modules/contrib/date/date_api/date.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/modules/contrib/date/date_popup/themes/datepicker.1.7.css?nn5y9u");
+@import url("http://bigstory.ap.org/modules/field/theme/field.css?nn5y9u");
+@import url("http://bigstory.ap.org/modules/node/node.css?nn5y9u");
+@import url("http://bigstory.ap.org/modules/search/search.css?nn5y9u");
+@import url("http://bigstory.ap.org/modules/user/user.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/modules/contrib/views/css/views.css?nn5y9u");
+</style>
+<style type="text/css" media="all">
+@import url("http://bigstory.ap.org/profiles/ap/modules/contrib/ctools/css/ctools.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/modules/custom/dev/ap_polar_ads/css/polar_ad_article_bs.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_microformats/ap_microformats.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/css/siro.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/glyphicon.css?nn5y9u");
+</style>
+<style type="text/css" media="all">
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/css/fonts.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/foundation.min.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/styles-bigStory.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/style.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/magnific-popup.css?nn5y9u");
+</style>
+<style type="text/css" media="all">
+@import url("http://bigstory.ap.org/profiles/ap/themes/omega/alpha/css/alpha-mobile.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/themes/omega/omega/css/omega-branding.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/themes/omega/omega/css/omega-menu.css?nn5y9u");
+@import url("http://bigstory.ap.org/profiles/ap/themes/omega/omega/css/omega-visuals.css?nn5y9u");
+</style>
+<style type="text/css" media="print">
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/css/print.css?nn5y9u");
+</style>
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<style type="text/css" media="all">
+@import url("http://bigstory.ap.org/profiles/ap/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?nn5y9u");
+</style>
+<![endif]-->
+  <script type="text/javascript" src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script type="text/javascript" src="/profiles/ap/themes/bigstory_v2/assets/js/responsive_ads.js"></script>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-27590430-2";
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+googletag.slots = googletag.slots || {};
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/misc/drupal.js?nn5y9u"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["topic_box_2"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/10761016", [300, 250], "dfp-ad-topic_box_2")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["leaderboard"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/10761016", [[728, 90], [970, 66], [970, 90], [970, 250]], "dfp-ad-leaderboard")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["mobileleaderboard"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/10761016", [[300, 50], [320, 50]], "dfp-ad-mobileleaderboard")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["half_page"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/10761016", [[300, 600], [300, 250]], "dfp-ad-half_page")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["mediumrectangle"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/10761016", [300, 250], "dfp-ad-mediumrectangle")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _sf_startpt=(new Date()).getTime()
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "11304492" });(function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/jquery.hoverIntent.minified.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/jquery.masonry.min.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes_masonry.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes_flyout.js?nn5y9u"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+});
+googletag.enableServices();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+<!--Visual Revenue Reader Response Tracking Script (v6) -->
+    var _vrq = _vrq || [];
+    _vrq.push(["id", 113]);
+    _vrq.push(["automate", false]);
+    _vrq.push(["track", function(){}]);
+    (function(d, a){
+        var s = d.createElement(a),
+        x = d.getElementsByTagName(a)[0];
+        s.async = true;
+        s.src = "http://a.visualrevenue.com/vrs.js";
+        x.parentNode.insertBefore(s, x);
+    })(document, "script");
+<!-- End of VR RR Tracking Script - All rights reserved -->
+//--><!]]>
+</script>
+<script type="text/javascript" src=""></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_article/js/dynamic-carousel.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_article/js/jquery.wmuslider.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_article/js/ap_carousel.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/optional/responsive_dfp_box/js/responsive_dfp.js?nn5y9u"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/ap/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/contrib/google_analytics/googleanalytics.js?nn5y9u"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-27590430-2"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/sites/bigstory/files/ap_polar_ads.js?nn5y9u"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://use.typekit.com/uta3cck.js"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/package-quojs-2.3.6/quo.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/contrib/disqus/disqus.js?nn5y9u"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var AP_SOCIAL = {"refresh_delay":"3600","node_id":"10761016"}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/js/mondernizr.custom.min.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/vendor/modernizr.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/jquery-scrolltofixed.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/custom.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/jquery.magnific-popup.min.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/core.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/gallery.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/image.js?nn5y9u"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/omega/omega/js/omega-mediaqueries.js?nn5y9u"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bigstory_v2","theme_token":"P0SNQmHy_uAH8aRvJWMcA7nZKdlrHNm_d2UcV1NwPNk","js":{"0":1,"profiles\/ap\/modules\/custom\/optional\/ap_social\/js\/ap_social.min.js":1,"1":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"2":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"9":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/jquery.hoverIntent.minified.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/jquery.masonry.min.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes_masonry.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes_flyout.js":1,"10":1,"11":1,"":1,"profiles\/ap\/modules\/custom\/core\/ap_article\/js\/dynamic-carousel.js":1,"profiles\/ap\/modules\/custom\/core\/ap_article\/js\/jquery.wmuslider.js":1,"profiles\/ap\/modules\/custom\/core\/ap_article\/js\/ap_carousel.js":1,"profiles\/ap\/modules\/custom\/optional\/responsive_dfp_box\/js\/responsive_dfp.js":1,"12":1,"profiles\/ap\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"13":1,"public:\/\/ap_polar_ads.js":1,"14":1,"15":1,"http:\/\/use.typekit.com\/uta3cck.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/package-quojs-2.3.6\/quo.js":1,"profiles\/ap\/modules\/contrib\/disqus\/disqus.js":1,"16":1,"profiles\/ap\/themes\/bigstory_v2\/js\/mondernizr.custom.min.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/vendor\/modernizr.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/jquery-scrolltofixed.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/custom.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/jquery.magnific-popup.min.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/core.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/gallery.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/image.js":1,"profiles\/ap\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/css\/flyout.css":1,"profiles\/ap\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/ap\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ap\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ap\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ap\/modules\/custom\/dev\/ap_polar_ads\/css\/polar_ad_article_bs.css":1,"profiles\/ap\/modules\/custom\/core\/ap_microformats\/ap_microformats.css":1,"profiles\/ap\/themes\/bigstory_v2\/css\/siro.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/glyphicon.css":1,"profiles\/ap\/themes\/bigstory_v2\/css\/fonts.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/foundation.min.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/styles-bigStory.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/style.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/magnific-popup.css":1,"profiles\/ap\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-branding.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-menu.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-visuals.css":1,"profiles\/ap\/themes\/bigstory_v2\/css\/print.css":1,"ie::normal::profiles\/ap\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"responsive_dfp_box":{"responsive_leaderboard":{"desktop":"\n\u003Cdiv  id=\u0022dfp-ad-leaderboard\u0022 class=\u0022dfp-tag-wrapper\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n    googletag.cmd.push(function() {\n      googletag.display(\u0022dfp-ad-leaderboard\u0022);\n    });\n  \u003C\/script\u003E\n\u003C\/div\u003E\n","mobile":"\n\u003Cdiv  id=\u0022dfp-ad-mobileleaderboard\u0022 class=\u0022dfp-tag-wrapper\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n    googletag.cmd.push(function() {\n      googletag.display(\u0022dfp-ad-mobileleaderboard\u0022);\n    });\n  \u003C\/script\u003E\n\u003C\/div\u003E\n"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"disqus":{"domain":"thebigstory","url":"http:\/\/bigstory.ap.org\/article\/74c9ba45177b4c4eb2cd57492ccc6ef2\/latest-helicopter-searches-resume-alpine-jet-crash","title":"The Latest: Report says 1 pilot locked out before crash","identifier":"node\/10761016"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal"],"queries":{"narrow":"screen and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"screen and (min-width: 1040px) and (min-device-width: 1040px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <!--[if lt IE 9]><link rel="stylesheet" href="/profiles/ap/themes/bigstory_v2/assets/css/fix-ie8.css"><![endif]-->
+  <!--[if lt IE 10]><link rel="stylesheet" href="/profiles/ap/themes/bigstory_v2/assets/css/fix-ie9.css"><![endif]-->
+  <!--[if lt IE 9]><script src="/profiles/ap/themes/bigstory_v2/assets/js/fix-ie8.js"></script><![endif]-->
+  <!--[if IE 9]><script src="/profiles/ap/themes/bigstory_v2/assets/js/fix-ie9.js"></script><![endif]-->
+  <!--[if lt IE 10]><script src="/profiles/ap/themes/bigstory_v2/assets/js/css3-multi-column.js"></script><![endif]-->
+  <script type="text/javascript">
+      $(function(){
+          if( $('body').hasClass("node-type-ap-article") ){
+              var script_quo = document.createElement('script')
+              script_quo.src = '/profiles/ap/themes/bigstory_v2/assets/js/package-quojs-2.3.6/quo.js'
+              document.documentElement.firstChild.appendChild(script_quo);
+          }
+      });
+  </script>
+ <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  'http://cdn.taboola.com/libtrc/publisherid/loader.js');
+ </script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-10761016 node-type-ap-article context-article">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <header>
+    <nav class="top-bar" data-topbar="">
+        <ul class="title-area">
+            <li class="name">
+                <a class="logo" href="/">
+                    <!--[if gte IE 9]><!-->
+                    <img src="/profiles/ap/themes/bigstory_v2/assets/images/ap_logo_bigstory.svg" width="291" alt="">
+                    <!--<![endif]-->
+                    <!--[if lte IE 8]>
+                      <img class="fix-ie8-logo" src="/profiles/ap/themes/bigstory_v2/assets/images/ap_logo_bigstory.png" width="291" alt="">
+                    <![endif]-->
+                </a>
+            </li>
+            <li class="toggle-topbar menu-icon"><a href="#"><span><!-- menu --></span></a></li>
+        </ul>
+
+        <section class="top-bar-section">
+            <!--<nav id="nav">-->
+            <!--menu dinamico-->
+            <ul class="right medium-3 menuLinks">
+                
+                            <li class="hide-for-medium">
+            
+                            <a href="http://bigstory.ap.org/latest">
+                    Latest News                </a>
+            
+
+                        </li>
+           
+                        <li class="hide-for-small search-li dividerbigstory">
+                    <a id="idsearchform" type="button" data-options="align:left" data-dropdown="headerSearch" data-options="is_hover:false">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </a>
+                    <div data-dropdown-content="" class="small content searchform drop-left open" id="headerSearch" style="display: none; position: absolute; left: -295px; top: 3px;">
+                        
+                        <form action="/" method="post" id="search-block-form" accept-charset="UTF-8">
+                                
+                                    <!--<div class="container-inline">
+                                    <div class="form-item form-type-textfield form-item-search-block-form">-->
+                        <div class="row">
+                            <div class="small-12 columns">
+                                <div class="row collapse">
+                                    <div class="small-10 colu">
+                                        <input title="Enter the terms you wish to search for." placeholder="Search..." type="text" id="edit-search-block-form--2" name="search_block_form" value=""  maxlength="128" class="form-text">
+                                    </div>
+                                    <div  class="small-2 colu" id="edit-actions">
+                                        <input id="butonsearch" class="button postfix" type="submit" name="op" value="Go" >
+                                    </div>
+                                    <input type="hidden" name="form_id" value="search_block_form">
+                                </div>
+                            </div>
+                        </div>
+                        </form>
+                    </div>
+                </li>
+                <li class="searchForm show-for-small">
+                    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8" >
+                            <!--<div class="container-inline">-->
+                        <div class="">
+                            <div class="small-12 columns">
+                                <div class="row collapse" style="float:left">
+                                    <div class="small-10 columns">
+                                        <input title="Enter the terms you wish to search for." placeholder="Search..." type="text" id="edit-search-block-form--2" name="search_block_form" value=""  maxlength="128" class="form-text"/>
+                                    </div>
+                                    <div  class="small-2 columns" id="edit-actions2">
+                                        <input id="butonsearch" class="button postfix" type="submit" name="op" value="Go" />
+                                    </div>
+                                <input type="hidden" name="form_id" value="search_block_form"/>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </li>
+                <li class="divider show-for-small"></li>
+                <!--<li class="ad_nav">
+                    <a href="#"><img src="/profiles/ap/themes/bigstory_v2/assets/sample/ad_88x31.png" alt=""></a>
+                </li>-->
+            </ul>
+            <!--</nav>-->
+        </section>
+    </nav>
+</header>
+<div class="block block-boxes block-boxes-responsive-dfp block-responsive-leaderboard block-boxes-responsive-leaderboard odd block-without-title" id="block-boxes-responsive-leaderboard">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id='boxes-box-responsive_leaderboard' class='boxes-box'><div class="boxes-box-content"><div id="responsive_leaderboard-responsive-ad" class="responsive-ad"></div></div></div>    </div>
+  </div>
+
+</div>  </div>
+</div><!--<div>    <div id="whitelabel_header" class="clearfix">
+      </div>
+    <div class="menu-zone-inner-wrapper">
+	  <div>
+	    	  </div>
+  </div>
+</div>--></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+            <div id="section-article-full">
+
+
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                 
+            <div class="tabs clearfix"></div>        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    
+<section class="row article">
+<!-- Main article BEGIN -->
+<article class="large-9 medium-8 columns">
+    <section class="articleHeader">
+        
+        <div class="byline-dateline">
+            <!--
+                        <a href="/tags/municipal-governments">Municipal governments</a>
+                        -->
+        </div>
+
+                          <h1 class="story-heading">The Latest: Report says 1 pilot locked out before crash <span></span></h1>
+                
+      <div class="story-meta-footer">
+          
+        <div class="byline-dateline"> 
+            <div id="byline"><div class="field field-name-field-byline-original field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">By <a href="/content/associated-press">The Associated Press</a></div></div></div></div>
+            <div id="dateline">
+                   <span  class="updated" title="2015-03-25T20:21:14-04:00">Mar. 25, 2015 8:21 PM EDT</span> 
+            </div>
+        </div>
+          
+      </div>
+
+    </section>
+
+    <!-- sticky Tool-bar BEGIN -->
+    <section class="article_toolbar sticky" id="sticky-article-toolbar">
+        <div class="small-12 left">
+            
+<a class="share_bt hide-for-small" id="facebook" href="#"><i></i></a>
+<a class="share_bt hide-for-small" id="twitter" href="#"><i></i></a>
+<a class="share_bt hide-for-small" id="email" href="mailto:?subject=AP Big Story: The Latest: Report says 1 pilot locked out before crash&body=From AP, %0D%0A %0D%0AThe Latest: Report says 1 pilot locked out before crash. %0D%0A %0D%0A1:20 a.m. (0020 GMT, 8:20 p.m. EDT)  %0D%0A %0D%0Ahttp://bigstory.ap.org/article/74c9ba45177b4c4eb2cd57492ccc6ef2/latest-helicopter-searches-resume-alpine-jet-crash"><i></i></a>
+<a href="#" class="share_bt" id="shareAll" data-dropdown="social-dropdown" onclick="javascript:return false;"><i></i>
+  <span class="share_bt" id="sharesTotal"></span>
+</a>
+
+<div class="right">
+  <a href="#" class="share_bt right" id="commentsAnchor"><i></i><span id="comments-count"></span></a>
+</div>
+
+<div id="social-dropdown-parent">
+  <div id="social-dropdown" class="f-dropdown">
+    <h6>Share article</h6>
+    <ul class="small-block-grid-3">
+      <li><a class="share_bt" id="facebook" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="twitter" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="linkedin" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="googleplus" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="reddit" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="tumblr" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="email" href="mailto:?subject=AP Big Story: The Latest: Report says 1 pilot locked out before crash&body=From AP, %0D%0A %0D%0AThe Latest: Report says 1 pilot locked out before crash. %0D%0A %0D%0A1:20 a.m. (0020 GMT, 8:20 p.m. EDT)  %0D%0A %0D%0Ahttp://bigstory.ap.org/article/74c9ba45177b4c4eb2cd57492ccc6ef2/latest-helicopter-searches-resume-alpine-jet-crash"><i></i></a></li>
+    </ul>
+  </div>
+</div>
+        </div>
+    </section>
+    
+ <script type="text/javascript">var only_one_photo = 0;</script> 
+<section class="slideshow lead-photo" id="lead-photo-slideshow">
+    <div class="photo-count">
+        11 photos    </div>
+    <script>var total_imgs =11</script>
+
+    <ul class="gallery popup-gallery" id="ul-gallery">
+        
+                                                <li class="visible">
+                                                        <a class="open-gallery" href="http://binaryapi.ap.org/9d74ed46ef094595a5cbcb148fd5080e/460x.jpg" title="A Spanish flag flies at half staff,  for the victims of the Germanwings passenger jet, in Madrid, Spain, Wednesday, March 25, 2015. The plane carrying 150 people crashed Tuesday in the French Alps region as it traveled from Barcelona to Duesseldorf in Germany. (AP Photo/Andres Kudacki)">
+                                <img src="http://binaryapi.ap.org/9d74ed46ef094595a5cbcb148fd5080e/460x.jpg" alt="Spain France Plane Crash" title="Spain France Plane Crash" />
+                            </a>
+                        </li>                      
+                    
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            </ul>
+    
+    <script type="text/javascript">
+
+    //  array for galleries      
+        var imgArray = new Array();
+         imgArray[1] = '<a class="open_gallery" href="http://binaryapi.ap.org/d8c695f58d634b24a1356eb3ead59c63/460x.jpg" title="German Chancellor Angela Merkel, left, French President Francois Hollande, centre, and Spanish Prime Minister Mariano Rajoy pay respect to victims in front of the mountain where a Germanwings jetliner crashed Tuesday, in Le Vernet, France, French Alps, Wednesday,March 25, 2015.  French investigators cracked open the badly damaged cockpit voice recorder black box of the German jetliner on Wednesday and sealed off the rugged Alpine crash site where 150 people died when their plane on a flight from Barcelona, Spain, to Duesseldorf slammed into a mountain. (AP Photo/Christophe Ena, Pool)"><img src="http://binaryapi.ap.org/d8c695f58d634b24a1356eb3ead59c63/460x.jpg" alt="France Plane Crash" title="France Plane Crash" /></a>'; 
+             imgArray[2] = '<a class="open_gallery" href="http://binaryapi.ap.org/7f9949828af749df94f7f2793ed2bd63/460x.jpg" title="A French army helicopter heads to the Germanwings flight crash site near Seyne-les-Alpes, Wednesday, March 25, 2015, after the jetliner crashed Tuesday in the French Alps. French investigators cracked open the badly damaged black box of a German jetliner on Wednesday and sealed off the rugged Alpine crash site where 150 people died when their plane on a flight from Barcelona, Spain to Duesseldorf, Germany, slammed into a mountain. (AP Photo/Laurent Cipriani)"><img src="http://binaryapi.ap.org/7f9949828af749df94f7f2793ed2bd63/460x.jpg" alt="France Plane Crash" title="France Plane Crash" /></a>'; 
+             imgArray[3] = '<a class="open_gallery" href="http://binaryapi.ap.org/0f458b9603cf4f6eb22b1f2c4362ce79/460x.jpg" title="Rescue workers work on debris at the plane crash site near Seyne-les-Alpes, France, Wednesday, March 25, 2015, after a Germanwings jetliner crashed Tuesday in the French Alps. French investigators cracked open the badly damaged black box of a German jetliner on Wednesday and sealed off the rugged Alpine crash site where 150 people died when their plane on a flight from Barcelona, Spain to Duesseldorf, Germany, slammed into a mountain. (AP Photo/Laurent Cipriani)"><img src="http://binaryapi.ap.org/0f458b9603cf4f6eb22b1f2c4362ce79/460x.jpg" alt="France Plane Crash" title="France Plane Crash" /></a>'; 
+             imgArray[4] = '<a class="open_gallery" href="http://binaryapi.ap.org/3fe5b501fbf84fe4b70a996c233e6922/460x.jpg" title="This photo provided in Paris, Wednesday, March 25, 2015 by the BEA, the French Air Accident Investigation Agency, shows the voice data recorder of the Germanwings jetliner that crashed Tuesday in the French Alps. French investigators cracked open the badly damaged black box of a German jetliner on Wednesday and sealed off the rugged Alpine crash site where 150 people died when their plane on a flight from Barcelona, Spain to Duesseldorf slammed into a mountain. (AP Photo/Bureau d&#39Enquetes et d&#39Analyses)"><img src="http://binaryapi.ap.org/3fe5b501fbf84fe4b70a996c233e6922/460x.jpg" alt="APTOPIX France Plane Crash" title="APTOPIX France Plane Crash" /></a>'; 
+             imgArray[5] = '<a class="open_gallery" href="http://binaryapi.ap.org/8742e8b823f5488a8e29005155475d59/460x.jpg" title="This photo provided in Paris, Wednesday, March 25, 2015 by the BEA, the French Air Accident Investigation Agency, shows part of the voice data recorder of the Germanwings jetliner that crashed Tuesday in the French Alps. French investigators cracked open the badly damaged black box of a German jetliner on Wednesday and sealed off the rugged Alpine crash site where 150 people died when their plane on a flight from Barcelona, Spain to Duesseldorf slammed into a mountain. (AP Photo/Bureau d&#39Enquetes et d&#39Analyses)"><img src="http://binaryapi.ap.org/8742e8b823f5488a8e29005155475d59/460x.jpg" alt="APTOPIX France Plane Crash" title="APTOPIX France Plane Crash" /></a>'; 
+             imgArray[6] = '<a class="open_gallery" href="http://binaryapi.ap.org/80a1fafb85054077a760166336fc2a50/460x.jpg" title="This photo provided by the Gendarmerie Nationale shows rescue workers investigating on the crash site near Seyne-les-Alpes, French Alps, Wednesday, March 25, 2015.  French investigators cracked open the badly damaged black box of the Germanwings plane on Wednesday and sealed off the rugged Alpine crash site where 150 people died when their plane on a flight from Barcelona, Spain to Duesseldorf, Germany, slammed into a mountain.  (AP Photo/Fabrice Balsamo, Gendarmerie Nationale)"><img src="http://binaryapi.ap.org/80a1fafb85054077a760166336fc2a50/460x.jpg" alt="APTOPIX France Plane Crash" title="APTOPIX France Plane Crash" /></a>'; 
+             imgArray[7] = '<a class="open_gallery" href="http://binaryapi.ap.org/dd4a831f6eee432e8bc63be68ac3c41f/460x.jpg" title="A student who knew some of the German students involved in a crashed plane, reacts during a minute of silence in front of the council building in Llinars del Valles, near Barcelona, Spain, Wednesday, March 25, 2015. Sixteen 10th-grade students from a town in western Germany and two of their teachers had just spent a week on an exchange near Barcelona and were less than an hour from landing when their Germanwings flight crashed in southern France. Officials confirmed Tuesday they were among the 150 people who died in the crash, including what are believed to be 67 Germans, many Spaniards and one person from the Netherlands. (AP Photo/Emilio Morenatti)"><img src="http://binaryapi.ap.org/dd4a831f6eee432e8bc63be68ac3c41f/460x.jpg" alt="APTOPIX Spain France Plane Crash" title="APTOPIX Spain France Plane Crash" /></a>'; 
+             imgArray[8] = '<a class="open_gallery" href="http://binaryapi.ap.org/78d553159b244d91b4f6f1e7c123a5b8/460x.jpg" title="Lufthansa employees pay a minute of silence in Frankfurt, Germany, Wednesday, March 25, 2015, for the 150 victims who died in the Germanwings plane crash in the French alps on the way from Barcelona to Duesseldorf on Tuesday. (AP Photo/Michael Probst)"><img src="http://binaryapi.ap.org/78d553159b244d91b4f6f1e7c123a5b8/460x.jpg" alt="Germany France Plane Crash" title="Germany France Plane Crash" /></a>'; 
+             imgArray[9] = '<a class="open_gallery" href="http://binaryapi.ap.org/4bfd98f315ab47f4b0330378e7000d47/460x.jpg" title="Students, teachers and relatives  mourn in front of  a school  in Haltern, western Germany, Wednesday, March 25, 2015, one day after 16 school children and two teachers were among the 150 victims that died in the Germanwings plane crash in the French alps on the way from Barcelona to Duesseldorf. (AP Photo/Martin Meissner)"><img src="http://binaryapi.ap.org/4bfd98f315ab47f4b0330378e7000d47/460x.jpg" alt="APTOPIX Germany France Plane Crash" title="APTOPIX Germany France Plane Crash" /></a>'; 
+             imgArray[10] = '<a class="open_gallery" href="http://binaryapi.ap.org/70465c2951a14580aeea91b3cc523828/460x.jpg" title="German flags  fly on half-staff   on the roof of the Reichstag, the parliament building,  in Berlin,&#xa0;Germany, Wednesday March 25, 2015, the day after a Germanwings aircraft crashed in France on the way from Barcelona, Spain,  to Duesseldorf, Germany, killing 150 people.   (AP Photo/dpa,Bernd Jutrczenka)  (AP Photo/dpa,Bernd Jutrczenka)"><img src="http://binaryapi.ap.org/70465c2951a14580aeea91b3cc523828/460x.jpg" alt="APTOPIX Germany France Plane Crash" title="APTOPIX Germany France Plane Crash" /></a>'; 
+             
+    </script> 
+    
+        
+    <div class="field-name-caption"><block><p>A Spanish flag flies at half staff,  for the victims of the Germanwings passenger jet, in Madrid, Spain, Wednesday, March 25, 2015. The plane carrying 150 people crashed Tuesday in the French Alps region as it traveled from Barcelona to Duesseldorf in Germany. (AP Photo/Andres Kudacki)</p></block></div>    
+
+    <div id="information-small" class="small-12 show-for-small-only">
+	<div class="small-10 columns byline-dateline">
+            	</div>
+        <a id="infoGallery"><span class="caption overlay-caption" data-thumb-index="0">i</span></a>
+    </div>
+</section>
+ 
+    <script type="text/javascript">
+    $(document).ready(function() {
+
+        if (total_imgs == 1) {
+            var aImg = $('.popup-gallery li a');
+            
+            var text = aImg.attr('title');
+            
+            $('.field-name-caption').html('<block><p>' + text + '</p></block>');
+        }     
+        
+        var chrMax = 100;
+        
+        var origText = $('.field-name-caption block p').text();
+
+        var charLength = $('.field-name-caption block p').text().length;
+        
+        var screen_width = $( window ).width();
+        var width_mobile = 650;
+        
+        var pAbsoluteShow = 0;
+        
+        if (charLength > chrMax) {
+            var shortText = jQuery.trim(origText).substring(0, chrMax).split(" ").slice(0, -1).join(" ") + "... ";
+            $('.field-name-caption block p').text(shortText);            
+            $('.field-name-caption block p').append('<a id="readMore">Read more</a>');
+        }
+        
+
+        var screen_width = $( window ).width();
+
+        if (screen_width <= width_mobile) {  
+        
+        $$('.mfp-figure figure').tap(function() { 
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {  
+                switchPDescription(); 
+            }
+        }); 
+
+        $$('#p-absolute').unbind('tap').tap(function() { 
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {                      
+                switchPDescription(); 
+            }
+        }); 
+
+        $$('.mfp-figure figure').unbind('swipeLeft').swipeLeft(function() { 
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {                      
+                if (mfp.index == (total_imgs - 1)) {
+                    mfp.index = 0;
+                }
+                else {
+                    mfp.index = mfp.index + 1;
+                }      
+                mfp.updateItemHTML();
+            }
+        });
+
+        $$('.mfp-figure figure').unbind('swipeRight').swipeRight(function() {                
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {                   
+                if (mfp.index == 0) {
+                    mfp.index = total_imgs - 1;
+                }
+                else {
+                    mfp.index = mfp.index -1;
+                }
+                mfp.updateItemHTML();
+            }
+        });    
+        
+        }
+
+       function configMobile() {
+            var screen_width = $( window ).width();
+            
+            if (screen_width <= width_mobile) {        
+                showDescription(pAbsoluteShow);        
+            }
+        }
+
+
+        $('.popup-gallery').magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            tLoading: 'Loading image #%curr%...',
+            mainClass: 'mfp-img-mobile',
+            
+            gallery: {
+              enabled: true,
+              navigateByImgClick: true,
+              preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+            },
+            
+            image: {
+                tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+                titleSrc: function(item) {
+                    return item.el.attr('title');
+                }
+            },
+
+            callbacks: {
+                
+                open: function() {
+
+                    $('.mfp-bottom-carrousel').html("");
+
+                    var img_total = 0;
+
+                    $('.popup-gallery li a').each(function(idx,el){
+
+                        img_total = img_total + 1;
+                        var _img = document.createElement('img');
+
+                        $(_img).attr('id', 'thumb-gallery-'+idx );
+                        $(_img).attr('src', $(el).attr('href'));
+                        $(_img).attr('alt', $(el).attr('title'));
+
+
+                        if (idx == 0) $(_img).addClass('select');
+
+                        $(_img).click(function(){
+                            mfp.direction = (idx >= mfp.index);
+                            mfp.index = idx;
+                            mfp.updateItemHTML();
+
+                            updateCarousel(idx);
+                        });
+
+                        if (only_one_photo == 0) {
+                            $('.mfp-bottom-carrousel').append(_img);
+                        }
+
+                    })
+
+                    var width_img_total = (img_total * 120) + 3;
+
+                    $('.mfp-bottom-carrousel').width(width_img_total + 'px');
+                    
+                    configMobile();
+                },
+                close: function() {
+                    $('#p-absolute').hide();
+                    pAbsoluteShow = 0;
+                }
+                // e.t.c.
+            }
+        });
+        
+        $('#readMore').click(function(){
+            $('.open_gallery').click();
+            mfp.index = 0;
+            mfp.updateItemHTML();
+            updateCarousel(0);
+        });  
+        
+        $('#infoGallery').click(function(){
+            pAbsoluteShow = 1;
+            $('.open_gallery').click();
+            mfp.index = 0;
+            mfp.updateItemHTML();
+            updateCarousel(0);
+        });   
+        
+        $('#button_comments').click(function(){
+            if( $('#articleComments').is(":visible") ) {
+                $('#articleComments').css('cssText', 'display: none !important');
+                $('#button_comments').removeClass('comments_visible');
+                $('#button_comments').html('SEE COMMENTS');
+            }
+            else {
+                $('#articleComments').css('cssText', 'display: block !important');
+                $('#button_comments').addClass('comments_visible');
+                $('#button_comments').html('HIDE COMMENTS');                
+            }
+        });
+        
+        
+    });
+    </script>
+
+ 
+
+<div  class="hnews-hidden"><div  class="hnews-author-org">By: <span  class="author vcard"><a href="/content/associated-press" class="fn">The Associated Press</a></span> (<span  class="source-org vcard"><span  class="org fn">AP</span></span>)</div><a  rel="item-license" id="license-7b10cbbeffae10d8827543c918ff3645" href="#license-7b10cbbeffae10d8827543c918ff3645">Copyright 2015 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</a></div><div class="field field-name-field-ndn-video field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><script>
+<!--//--><![CDATA[// ><!--
+
+$(document).ready(function(){
+$( "#ndn" ).insertBefore( "#lead-photo-slideshow" );
+});
+
+//--><!]]>
+</script><div id="ndn" style="display:block"><center><br /><div class="ndn_embed" data-config-distributor-id="92351" data-config-height="9/16w" data-config-playlist-id="10212" id="ndn-video-player-1" style="width:80%;"> </div>
+<div class="ndn_embed" data-config-distributor-id="92351" data-config-height="9/16w" data-config-playlist-id="10212" id="ndn-video-player-2" style="width:50%;"> </div>
+<div class="ndn_embed" data-config-distributor-id="92351" data-config-height="9/16w" data-config-playlist-id="10212" id="ndn-video-player-3" style="width:20%;"> </div>
+<p></p></center></div>
+</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden entry-content"><div class="field-items"><div class="field-item even"><p><block><p>1:20 a.m. (0020 GMT, 8:20 p.m. EDT)</p>
+<p>A newspaper is reporting that the voice recorder indicates that one of the pilots was locked out of the cockpit before a Germanwings jetliner plummeted into a remote Alpine mountainside.</p>
+<p>The New York Times is citing an investigator it doesn't identify as saying that the audio shows that after an ordinary start to the flight, one of the pilots left the cockpit and could not get back in.</p>
+<p>The investigator told the newspaper that the pilot began knocking quietly on the door, then became more insistent, saying that eventually: "You can hear he is trying to smash the door down."</p>
+<p>The investigator does not speculate as to why the other pilot didn't open the door or make contact with ground control before the plane crashed Tuesday. All 150 people aboard were killed.</p>
+<p>___</p>
+<p>10:25 p.m. (2125 GMT, 5:25 p.m. EDT)</p>
+<p>A bus with 14 relatives of the Spanish victims who died in the French Alps plane crash has left Barcelona for an overnight journey that will take them to the crash area by Thursday.</p>
+<p>Those going on the bus apparently did not want to take a Thursday morning flight from Barcelona to Marseille that is expected to shuttle many more relatives toward the site.</p>
+<p>Spanish civil protection spokesman Sergio Delgado said all of the Spanish relatives will meet up in Marseille and head to the remote crash zone in Seyne-Les-Alpes together.</p>
+<p>Spain's government has said at least 51 Spaniards were among the 150 victims of the crash. Airline Germanwings has said 35 of the 125 passengers identified were Spaniards.</p>
+<p>___</p>
+<p>7:50 p.m. (1850 GMT, 2:50 p.m. EDT)</p>
+<p>Lufthansa CEO Carsten Spohr says the late take-off from Barcelona of the Germanwings plane that crashed in the French Alps was due to airport congestion and not related to the incident.</p>
+<p>Spohr added the crash of the plane that killed 150 people remained "incomprehensible."</p>
+<p>Spohr said Wednesday that "we still cannot understand" what happened in the "terrible accident." He said it is "too early for speculation" about the cause.</p>
+<p>The aircraft "had a clean maintenance bill" from an inspection the day before Tuesday's crash and was "in perfect technical shape," he said. No distress signal was received from the plane.</p>
+<p>Spohr said he had a "very, very emotional meeting" with the relatives of the victims.</p>
+<p>Lufthansa, which owns Germanwings, has offered "immediate financial help" for those who need it.</p>
+<p>___</p>
+<p>7:05 p.m. (1805 GMT, 2:05 p.m. EDT)</p>
+<p>The U.S. State Department says a third American has been identified as a victim of the plane crash in France that killed a total of 150 people.</p>
+<p>The department said it is in contact with the victim's next of kin but is not releasing the name out of respect for the family.</p>
+<p>A person close to the family earlier said American Yvonne Selke and her daughter Emily Selke were also among the victims.</p>
+<p>___</p>
+<p>6:25 p.m. (1725 GMT, 1:25 p.m. EDT)</p>
+<p>Barcelona soccer club is joining three days of official mourning throughout Spain in memory of the Germanwings plane crash victims.</p>
+<p>The club made the announcement in a statement Wednesday, saying club flags will be flown at half-staff. The Germanwings flight departed Barcelona and was bound for Duesseldorf when in crashed in France on Tuesday.</p>
+<p>Two Iranian journalists who covered the "El Clasico" soccer match between Barcelona and Real Madrid on Sunday were among the crash victims.</p>
+<p>___</p>
+<p>5:45 p.m. (1645 GMT, 12:45 p.m. EDT)</p>
+<p>The northeastern Spanish town of La Llagosta said two of the 150 crash victims were natives of the town,  one of them a woman who had got married in the town on Saturday and was moving to Duesseldorf with her Moroccan husband, also a crash victim.</p>
+<p>In a statement on its website, La Llagosta town hall named the woman as Asmae Ouahhoud el Allaoui, 23. The husband's name wasn't made available.</p>
+<p>The town hall said another man born there, Francisco Javier Gonalons, 42, also died in the crash.</p>
+<p>The town declared three days of mourning for the victims of the crash and said it would hold a silent, five-minute homage outside the town hall later Wednesday. The town has a population of 14,000.</p>
+<p>___</p>
+<p>5:30 p.m. (1630 GMT, 12:30 p.m. EDT)</p>
+<p>The director of France's aviation investigative agency says there currently is not the "slightest explanation" for what caused the Germanwings plane to lose altitude and crash in the Alps.</p>
+<p>Remi Jouty says the investigation could take weeks or even months.</p>
+<p>Jouty says the plane was flying "until the end" — slamming into the mountain, not breaking up in the air.</p>
+<p>He says the final communication from the plane was a routine message about permission to continue on its route.</p>
+<p>___</p>
+<p>5:25 p.m. (1625 GMT, 12:25 p.m. EDT)</p>
+<p>The director of France's aviation investigative agency says audio has been recovered from the cockpit recorder salvaged from the crash of the Germanwings plane in the Alps.</p>
+<p>Remi Jouty says the material includes sound and voices, and was extracted Wednesday afternoon from the mangled black box recovered from a mountainside.</p>
+<p>Jouty says it was too early to draw conclusions from the recording. The case of the second black box, the flight data recorder, has been found, but not its contents, French President Francois Hollande said minutes earlier.</p>
+<p>Jouty says he couldn't confirm that the case of the second black box had been recovered.</p>
+<p>___</p>
+<p>5:10 p.m. (1610 GMT, 12:10 p.m. EDT)</p>
+<p>The Foreign Office identified Martyn Matthews, 50, a senior quality manager from Wolverhampton, as a victim of the crash.</p>
+<p>"We are devastated at the news of this tragic incident and request that we are allowed to deal with this terrible news without intrusion at this difficult time," the family said in a statement.</p>
+<p>He is survived by his wife, Sharon, and his two children.</p>
+<p>___</p>
+<p>4:40 p.m. (1540 GMT, 11:40 a.m. EDT)</p>
+<p>Two Americans presumed to have died in the plane crash in the southern French Alps include a U.S. government contractor and her daughter, according to a person close to the family.</p>
+<p>The mother was identified as Yvonne Selke of Nokesville, Virginia, a longtime and highly regarded employee of Booz Allen Hamilton Inc. in Washington, and her daughter, whose name wasn't immediately available.</p>
+<p>Selke worked with the National Geospatial-Intelligence Agency, the Pentagon's satellite mapping office, according to the person, who spoke on condition of anonymity because this person wasn't authorized to release information to reporters.</p>
+<p>—By Associated Press writer Ted Bridis in Washington.</p>
+<p>___</p>
+<p>4:10 p.m. (1510 GMT, 11:10 a.m. EDT)</p>
+<p>Spain's government has raised the number of Spanish victims in the crash from 49 to at least 51.</p>
+<p>Earlier Wednesday, the government put the number of Spanish victims at 49, but later issued a statement saying two more Spanish victims have been identified, bringing the number to 51.</p>
+<p>Germanwings said Wednesday said that of 125 passengers identified, 35 were Spaniards. It said some of the 125 could have dual nationalities.</p>
+<p>___</p>
+<p>3:55 p.m. (1455 GMT, 10:55 a.m. EDT)</p>
+<p>Investigators will use the cockpit voice and flight data recorders to map out and focus their work, says Alan E. Diehl, a former air safety investigator.</p>
+<p>"Both will point you in directions of what is critical," Diehl says. "Based on what you learn from the recorders, you might focus on key pieces of wreckage."</p>
+<p>The four possible causes of any crash are human error, mechanical problems, weather, criminal activity or a combination of two or more. Diehl says investigators will work backward, starting by eliminating what didn't happen.</p>
+<p>___</p>
+<p>3:45 p.m. (1445 GMT, 10:45 a.m. EDT)</p>
+<p>Iran's official IRNA news agency is reporting that the foreign ministry says two Iranian journalists died in the Germanwings plane crash.</p>
+<p>They were identified as Milad Hojatoleslami, who worked for semi-official Tasnim news agency and Hossein Javadi, a journalist at the Vatan-e-Emrouz daily.</p>
+<p>IRNA reported that the pair was in the Catalan capital to cover the "El Clasico" soccer match between Barcelona and Real Madrid.</p>
+<p>___</p>
+<p>2:40 p.m. (1340 GMT, 9:40 a.m. EDT)</p>
+<p>Britain's Foreign Office identified three British victims:</p>
+<p>—Marina Bandres Lopez-Belio, 37, and her son Julian, 7 months.</p>
+<p>—Paul Andrew Bramley, 28.</p>
+<p>Lopez-Belio's husband, Pawel Pracz of Manchester, England, said his Spanish-born wife and son had traveled to Spain for a family funeral.</p>
+<p>"She bought the tickets at the last moment, and decided to return to Manchester quickly as she wanted to return to her daily routine as soon as possible," he said.</p>
+<p>Bramley was studying hospitality and hotel management at Ceasar Ritz College in Lucerne and about to start an internship on April 1. He was flying back to Britain via Dusseldorf to meet with his mother.</p>
+<p>"Paul was a kind, caring and loving son," his mother, Carol Bramley, said in a statement.  "He was the best son, he was my world."</p>
+<p>___</p>
+<p>2:25 p.m. (1325 GMT, 9:25 a.m. EDT)</p>
+<p>The leaders of Germany, France and Spain gathered in the French Alps near the site of a German budget airlines crash to pay homage to the 150 victims.</p>
+<p>French President Francois Hollande and German Chancellor Angela Merkel arrived on a helicopter Wednesday on a mountain meadow whipped by strong winds. Spanish Prime Minister Mariano Rajoy also joined them at the scene, in the town of Seynes-les-Alpes.</p>
+<p>Most of the passengers on the Barcelona-Duesseldorf flight Tuesday were German and Spanish, though people of many other nationalities were also aboard.</p>
+<p>Hollande praised all the rescue workers who have been trying to retrieve debris and bodies from the hard-to-reach site.</p>
+<p>___</p>
+<p>2 p.m. (1300 GMT, 9 a.m. EDT)</p>
+<p>Spain says it will send a six-member scientific police team to France to help with victim identification in the Germanwings plane crash, as soon as the bodies start to be bought down from the crash site.</p>
+<p>Interior Ministry official Francisco Martinez also said six Spanish psychologists will be sent to the town of Seyne-Les-Alpes near the crash site and five to Marseille to help tend to victims' families.</p>
+<p>He said Spain has also offered to send army search and rescue teams if needed. Tuesday's crash killed all 150 people aboard the flight from Barcelona to Duesseldorf.</p>
+<p>___</p>
+<p>1:25 p.m. (1225 GMT, 8:25 a.m. EDT)</p>
+<p>Germanwings has had to cancel a few flights since the crash because some crews declared themselves unfit to fly after losing colleagues.</p>
+<p>A flight from Duesseldorf to Barcelona on Wednesday was scratched, along with some from Duesseldorf and Stuttgart on Tuesday.</p>
+<p>Chief executive Thomas Winkelmann said some cockpit and cabin crews "didn't want to fly today or yesterday for emotional reasons."</p>
+<p>___</p>
+<p>1:15 p.m. (1215 GMT, 8:15 a.m. EDT)</p>
+<p>Three generations of one family — a schoolgirl, her mother and grandmother — were on the Germanwings plane that crashed, according to a town outside Barcelona.</p>
+<p>A statement from Sant Cugat del Valles town hall didn't provide their names.</p>
+<p>The girl was a student of a middle school for children aged 10 to 11 at Santa Isabel school in Sant Cugat.</p>
+<p>—By Associated Press writer Jorge Sainz in Madrid.</p>
+<p>___</p>
+<p>1 p.m. (1200 GMT, 8 a.m. EDT)</p>
+<p>France's aviation investigation bureau has released photos of the badly mangled voice data recorder from the Germanwings flight that crashed into an Alpine mountainside.</p>
+<p>The images show the metal black box — which is actually a bright orange-red — twisted, dented and scarred by the impact of the crash.</p>
+<p>The cockpit voice recorder was recovered on Tuesday, and French officials say they are working to pull its data.</p>
+<p>___</p>
+<p>12:50 p.m. (1150 GMT, 7:50 a.m. EDT)</p>
+<p>Germanwings' chief executive says the airline's current information is that 72 Germans, 35 Spanish citizens and two Americans were on board the flight that crashed in southern France.</p>
+<p>Thomas Winkelmann told reporters in Cologne on Wednesday that the list isn't yet final because the company is still trying to contact relatives of 27 victims.</p>
+<p>There were two victims each from Australia, Argentina, Iran and Venezuela. One victim each came from Britain, the Netherlands, Colombia, Mexico, Japan, Denmark, Belgium and Israel.</p>
+<p>Winkelmann says in some cases victims' nationality isn't entirely clear, in part because of dual citizenship.</p>
+<p>___</p>
+<p>12:20 p.m. (1120 GMT, 7:20 a.m. EDT)</p>
+<p>Executives, pilots and employees of German airline Lufthansa have held a minute of silence at company headquarters for the 150 people who died in the Germanwings crash.</p>
+<p>The Airbus A320 flown by Lufthansa's low-cost division crashed on Tuesday in the Alps in southern France.</p>
+<p>___</p>
+<p>12:15 p.m. (1115 GMT, 7:15 a.m. EDT)</p>
+<p>Germany's top security official says there is no evidence at this stage that foul play was involved in the plane crash in southern France.</p>
+<p>Interior Minister Thomas de Maiziere told reporters in Berlin on Wednesday that "according to the latest information there is no hard evidence that the crash was intentionally brought about by third parties."</p>
+<p>He says that authorities are nevertheless investigating all possible causes for the crash of a Germanwings flight from Barcelona to Spain on Tuesday in which 144 passengers and six crew members died.</p>
+<p>___</p>
+<p>12 p.m. (1100 GMT, 7 a.m. EDT)</p>
+<p>The principal of the German high school where 16 students and two teachers died in the Germanwings crash says "nothing will be the way it was at our school anymore."</p>
+<p>Ulrich Wessel, principal of the Joseph Koenig High School, said Wednesday that when the first call came about the crash, he hoped that the students had missed the plane.</p>
+<p>But the regional governor informed local officials that they were on the passenger list.</p>
+<p>Wessel says one of the teachers who was on the plane had been married for less than six months.</p>
+<p>He said: "It is a tragedy that makes one speechless and we will have to learn to deal with it."</p>
+<p>___</p>
+<p>11:50 a.m. (1050 GMT, 6:50 a.m. EDT)</p>
+<p>In Spain, flags flew at half-staff on government buildings and a minute of silence was held at legislative and government buildings across the country in memory of the Germanwings crash victims. Spain's national parliament canceled its normal Wednesday session out of respect.</p>
+<p>Barcelona's Liceu opera house held two minutes of silence at noon in homage to two opera singers — Oleg Bryjak and Maria Radner — who took the flight after performing at the theater last weekend.</p>
+<p>In the small northeastern town of Llinars del Valles, parents and children attended a memorial service at the Giola Institute for the 16 German high school students and their two teachers who had been on an exchange program there for a week before boarding the plane. A minute of silence was held at the town hall at midday.</p>
+<p>___</p>
+<p>8:55 a.m. (0755 GMT, 3:55 a.m. EDT)</p>
+<p>The mayor of a town close to the site of the plane crash in the French Alps that killed 150 says bereaved families are expected to begin arriving in the town Wednesday morning.</p>
+<p>Francis Hermitte, mayor of Seyne-Les-Alpes, says said local families are offering to host the families because of a shortage of rooms to rent. Leaders of France, Germany and Spain will also meet with them in a makeshift chapel set up in a gymnasium, Hermitte said.</p>
+<p>Marion Cotterill, head of civil protection there, says the priority is to welcome families humanely. "We offer a hot drink, a smile, a warm regard, or psychological counseling if asked for."</p>
+<p>Interior Ministry spokesman Paul-Henry Brandet says overnight rain and snow in the crash zone has made the rocky ravine slippery, increasing the difficulty of reaching the steep and remote area.</p>
+<p>___</p>
+<p>8:50 a.m. (0750 GMT; 3:50 a.m. EDT)</p>
+<p>An Israeli citizen who lived in Spain was among the victims of the French plane crash, the Israeli Foreign Ministry said Wednesday.</p>
+<p>Eyal Baum was 39 and lived in Barcelona with his wife, his sister, Liat Baum, told Army Radio.</p>
+<p>"He was amazing, with a winning smile. Whoever met him fell in love with him from the first moment," Baum said, crying.</p>
+<p>"The thought of what he went through in those moments is very difficult."</p>
+<p>The crash Tuesday of the Germanwings Airbus 320 killed 150 people. There were no survivors.</p>
+<p>A delegation from the ultra-Orthodox Jewish movement Chabad is traveling to the crash site to help in rescue efforts, Chabad Rabbi Eliyahu Attia told Army Radio.</p>
+<p>___</p>
+<p>8:00 a.m. (0700 GMT, 3:00 a.m. EDT)</p>
+<p>French Interior Minister Bernard Cazeneuve says the black box recovered from the crash site has been damaged but is believed to be "useable." He says it is the voice and cockpit sound recorder.</p>
+<p>Cazeneuve told RTL radio on Wednesday that investigators were working to pull information from the black box voice recorder.</p>
+<p>Although officials have been firm that no cause has been ruled out, Cazeneuve said terrorism is not considered likely.</p>
+<p>Segolene Royal, another top French official, says the seconds between 10:30 a.m. and 10:31 a.m. are considered vital to the investigation into the crash. She says the pilot stopped responding after 10:31.</p>
+<p>___</p>
+<p>6:30 a.m. (0530 GMT, 1:30 a.m. EDT)</p>
+<p>Helicopter operations have resumed over mountainsides in the French Alps where a German jetliner crashed, killing all 150 people on board.</p>
+<p>Under overcast skies, with temperatures just above freezing, helicopters resumed flights Wednesday over a widely scattered debris field.</p>
+<p>A black box has been recovered from the scene. The Airbus A320 operated by Germanwings, a budget subsidiary of Lufthansa, was less than an hour from landing in Duesseldorf on a flight from Barcelona Tuesday when it unexpectedly went into a rapid descent. The pilots did not send out a distress call and had lost radio contact with their control center, France's aviation authority said.</p>
+</block></p></div></div></div>
+</article>
+
+
+
+  <div class="loadMore show-full-article">
+    <section id="articleExpand">
+        <div class="fade"></div>
+	<button>SEE FULL ARTICLE</button>
+
+	<!-- ad -->
+        <section class="columns ad-block">
+            <div class="block block-dfp block-topic-box-2 block-dfp-topic-box-2 odd block-without-title" id="block-dfp-topic-box-2">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="dfp-ad-topic_box_2-wrapper" class="dfp-tag-wrapper"><div class="slug">Advertisement</div>
+<div  id="dfp-ad-topic_box_2" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-topic_box_2");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+
+</div>            <!--<img src="/profiles/ap/themes/bigstory_v2/assets/sample/ad_300x250.png" alt="" />-->
+        </section>
+    </section>
+  </div>
+
+<!-- Pagination BEGIN -->
+<!--    <section id="pagination" class="large-8 medium-8 small-12 columns">
+        <a class="article-prev" href="#">
+            <span class="arrow"><img src="assets/images/pagination_arrows_prev.png" alt="" /></span>
+            <div class="title">
+                <span>&#60; Previous</span>
+                Article title Lorem ipsum dolor aner xculis Article title Lorem ipsum dolor
+                long Article title
+            </div>
+        </a>
+
+        <a class="article-next right" href="#">
+            <span class="arrow"><img src="assets/images/pagination_arrows_next.png" alt="" /></span>
+            <div class="title">
+                <span>Next &#62;</span>
+                Article title Lorem ipsum dolor aner xculis Article title Lorem ipsum dolor
+            </div>
+        </a>
+    </section> -->
+    <!-- Pagination END -->
+
+    <div class="loadMore hide-for-medium-up">
+        <button id="button_comments" class="small-12 left">SEE COMMENTS</button>
+    </div>
+    
+    <section id="articleComments" class="large-8 medium-8 left columns hide-for-small">
+	<h4>Comments</h4>
+	<div id="disqus_thread"><noscript><p><a href="http://thebigstory.disqus.com/?url=http%3A%2F%2Fbigstory.ap.org%2Farticle%2F74c9ba45177b4c4eb2cd57492ccc6ef2%2Flatest-helicopter-searches-resume-alpine-jet-crash">View the discussion thread.</a></p></noscript></div>    </section>    
+
+</section>
+
+    </div>
+  </div>
+
+</div>      </div>
+</div><aside class="grid-4 region region-sidebar-first" id="region-sidebar-first">
+  <div class="region-inner region-sidebar-first-inner">
+    <div class="ap-recent-articles"><section class="block block-ap-misc block-ap-recent-articles block-ap-misc-ap-recent-articles odd" id="block-ap-misc-ap-recent-articles">
+  <div class="block-inner clearfix">
+                      <h2 class="block-title">Latest News</h2>
+            
+    <div class="content clearfix"   data-vr-zone='Latest News'>
+       <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin even clearfix" id="node-ap-article-11013256">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+            <div class="field field-name-field-ap-photo-ref field-type-ap-photo-ref field-label-hidden">
+        <div class="field-items" >
+          <div class="field-item even">
+              <a href="/article/c717bab11e214a6e9163a0721bab7388/timeline-child-porn-case-brought-down-us-bishop"><img src="http://binaryapi.ap.org/7b427c26dbf2436082ce5b4c2e1003ba/115x.jpg" alt="Vatican US Bishop" title="Vatican US Bishop"></a>
+          </div>
+        </div>
+      </div>
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/c717bab11e214a6e9163a0721bab7388/timeline-child-porn-case-brought-down-us-bishop" title="Timeline of child-porn case that brought down US bishop"><a href="/article/c717bab11e214a6e9163a0721bab7388/timeline-child-porn-case-brought-down-us-bishop">Timeline of child-porn case that brought down US bishop</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-04-21T17:11:58-04:00">Apr. 21, 2015 5:11 PM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+   <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin odd clearfix" id="node-ap-article-11013186">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+            <div class="field field-name-field-ap-photo-ref field-type-ap-photo-ref field-label-hidden">
+        <div class="field-items" >
+          <div class="field-item even">
+              <a href="/article/6e4dcbfb9a1e42c0b123ad757f5c459a/ap-photos-desperate-migrants-meeting-death-mediterranean"><img src="http://binaryapi.ap.org/abf072428b704316b23a65b155f13200/115x.jpg" alt="Europe Migrants Photo Gallery" title="Europe Migrants Photo Gallery"></a>
+          </div>
+        </div>
+      </div>
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/6e4dcbfb9a1e42c0b123ad757f5c459a/ap-photos-desperate-migrants-meeting-death-mediterranean" title="AP PHOTOS: Desperate migrants meeting death in Mediterranean"><a href="/article/6e4dcbfb9a1e42c0b123ad757f5c459a/ap-photos-desperate-migrants-meeting-death-mediterranean">AP PHOTOS: Desperate migrants meeting death in Mediterranean</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-04-21T17:11:15-04:00">Apr. 21, 2015 5:11 PM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+   <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin even clearfix" id="node-ap-article-11013181">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+            <div class="field field-name-field-ap-photo-ref field-type-ap-photo-ref field-label-hidden">
+        <div class="field-items" >
+          <div class="field-item even">
+              <a href="/article/a324c8fc7dda47f675990a226f935990/discover-1q-profit-drops-beats-wall-street-estimate"><img src="http://binaryapi.ap.org/ace7e01f61114911a1c50d77ad846bb6/115x.jpg" alt="Earns Discover Financial Services" title="Earns Discover Financial Services"></a>
+          </div>
+        </div>
+      </div>
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/a324c8fc7dda47f675990a226f935990/discover-1q-profit-drops-beats-wall-street-estimate" title="Discover 1Q profit drops but beats Wall Street estimate"><a href="/article/a324c8fc7dda47f675990a226f935990/discover-1q-profit-drops-beats-wall-street-estimate">Discover 1Q profit drops but beats Wall Street estimate</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-04-21T17:10:59-04:00">Apr. 21, 2015 5:10 PM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+   <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin odd clearfix" id="node-ap-article-11013171">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+            <div class="field field-name-field-ap-photo-ref field-type-ap-photo-ref field-label-hidden">
+        <div class="field-items" >
+          <div class="field-item even">
+              <a href="/article/a851dcb0fc3945d88a3e609b363119b6/bayern-routs-porto-6-1-reach-champions-league-semifinals"><img src="http://binaryapi.ap.org/32c43c81218b4b1291c8ca2089effc7a/115x.jpg" alt="Thiago" title="Thiago"></a>
+          </div>
+        </div>
+      </div>
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/a851dcb0fc3945d88a3e609b363119b6/bayern-routs-porto-6-1-reach-champions-league-semifinals" title="Bayern routs Porto 6-1 to reach Champions League semifinals"><a href="/article/a851dcb0fc3945d88a3e609b363119b6/bayern-routs-porto-6-1-reach-champions-league-semifinals">Bayern routs Porto 6-1 to reach Champions League semifinals</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-04-21T17:10:17-04:00">Apr. 21, 2015 5:10 PM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+   <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin even clearfix" id="node-ap-article-11010656">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+            <div class="field field-name-field-ap-photo-ref field-type-ap-photo-ref field-label-hidden">
+        <div class="field-items" >
+          <div class="field-item even">
+              <a href="/article/d2806061c13447c5aedd045db8869b5f/ap-source-dea-chief-set-resign-agency-soon"><img src="http://binaryapi.ap.org/5225929562f749dda41ca3bb4d4e06ba/115x.jpg" alt="Michele Leonhart" title="Michele Leonhart"></a>
+          </div>
+        </div>
+      </div>
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/d2806061c13447c5aedd045db8869b5f/ap-source-dea-chief-set-resign-agency-soon" title="AP source: DEA chief set to resign from agency soon"><a href="/article/d2806061c13447c5aedd045db8869b5f/ap-source-dea-chief-set-resign-agency-soon">AP source: DEA chief set to resign from agency soon</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-04-21T17:08:47-04:00">Apr. 21, 2015 5:08 PM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+    </div>
+  </div>
+
+</section></div><div class="block block-ap-polar-ads block-ap-polar-ad-article block-ap-polar-ads-ap-polar-ad-article even block-without-title" id="block-ap-polar-ads-ap-polar-ad-article">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="polar-article-content"><input type="hidden" id="polar-identifier" /></div>    </div>
+  </div>
+
+</div><div class="block block-dfp block-half-page block-dfp-half-page odd block-without-title" id="block-dfp-half-page">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="dfp-ad-half_page-wrapper" class="dfp-tag-wrapper"><div class="slug">Advertisement</div>
+<div  id="dfp-ad-half_page" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-half_page");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+
+</div><div class="block block-block block-6 block-block-6 even block-without-title" id="block-block-6">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+#block-block-6
+{
+margin-top: 15px;
+}
+
+#block-block-6 .slug
+{
+position: relative;
+}
+/*--><!]]>*/
+</style><div class="slug">Advertisement</div>
+<div id="hgWdgBd"></div>
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+(function(window, undefined) {var d = window.document,s = d.getElementById("hgWdgBd"),f = d.createElement('IFRAME'),h;f.scrolling = 'no';f.style.border = 'none';f.style.width = '100%';f.src = "http://healthguides.healthgrades.com/ap-syndication-big-story?_embed=true&_format=_frame&refurl="+document.URL;s.parentNode.insertBefore(f, s);window.addEventListener('message', function(event) {var nh = parseInt(event.data, 10);if (h !== nh) {f.style.height = nh + 'px';h = nh;}}, false);})(window);
+
+//--><!]]>
+</script>    </div>
+  </div>
+
+</div><div class="block block-ap-misc block-ap-tags-detail block-ap-misc-ap-tags-detail odd block-without-title" id="block-ap-misc-ap-tags-detail">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div  class="ap-article-tags categories">
+    
+    
+    
+<h3 class="h3_tags">Topics</h3>
+<div class="tags">
+<a href="/tags/municipal-governments" rel="tag">Municipal governments</a>, <a href="/tags/local-governments" rel="tag">Local governments</a>, <a href="/tags/plane-crashes" rel="tag">Plane crashes</a>, <a href="/tags/aviation-accidents-and-incidents" rel="tag">Aviation accidents and incidents</a>, <a href="/tags/criminal-investigations" rel="tag">Criminal investigations</a>, <a href="/tags/education" rel="tag">Education</a>, <a href="/tags/transportation-safety" rel="tag">Transportation safety</a>, <a href="/tags/media" rel="tag">Media</a>, <a href="/tags/david-cameron" rel="tag">David Cameron</a>, <a href="/tags/news-media" rel="tag">News media</a>, <a href="/tags/travel" rel="tag">Travel</a>, <a href="/tags/iran" rel="tag">Iran</a>, <a href="/tags/us-department-state" rel="tag">U.S. Department of State</a>, <a href="/tags/african-americans" rel="tag">African-Americans</a>, <a href="/tags/air-travel-disruptions" rel="tag">Air travel disruptions</a>, <a href="/tags/weather" rel="tag">Weather</a>, <a href="/tags/israel" rel="tag">Israel</a>, <a href="/tags/international-students" rel="tag">International students</a>, <a href="/tags/media-industry" rel="tag">Media industry</a>, <a href="/tags/industrial-products-and-services" rel="tag">Industrial products and services</a>, <a href="/tags/search-and-rescue-efforts" rel="tag">Search and rescue efforts</a>, <a href="/tags/funerals-and-memorial-services" rel="tag">Funerals and memorial services</a>, <a href="/tags/manchester" rel="tag">Manchester</a>, <a href="/tags/student-exchange-programs" rel="tag">Student exchange programs</a>, <a href="/tags/airport-operation" rel="tag">Airport operation</a>, <a href="/tags/transportation-infrastructure" rel="tag">Transportation infrastructure</a>, <a href="/tags/transportation-and-shipping" rel="tag">Transportation and shipping</a>, <a href="/tags/science" rel="tag">Science</a>, <a href="/tags/angela-merkel" rel="tag">Angela Merkel</a>, <a href="/tags/sports-media" rel="tag">Sports media</a>, <a href="/tags/barcelona" rel="tag">Barcelona</a>, <a href="/tags/francois-hollande" rel="tag">Francois Hollande</a>, <a href="/tags/airlines" rel="tag">Airlines</a>, <a href="/tags/passenger-airlines" rel="tag">Passenger airlines</a>, <a href="/tags/primary-and-secondary-education" rel="tag">Primary and secondary education</a>, <a href="/tags/madrid" rel="tag">Madrid</a>, <a href="/tags/mariano-rajoy" rel="tag">Mariano Rajoy</a>, <a href="/tags/journalists" rel="tag">Journalists</a>, <a href="/tags/intelligence-agencies" rel="tag">Intelligence agencies</a>, <a href="/tags/helicopter-crashes" rel="tag">Helicopter crashes</a>, <a href="/tags/forensics" rel="tag">Forensics</a>, <a href="/tags/france-government" rel="tag">France government</a>, <a href="/tags/germany-government" rel="tag">Germany government</a>, <a href="/tags/spain-government" rel="tag">Spain government</a>, <a href="/tags/ciara" rel="tag">Ciara</a>, <a href="/tags/train-travel" rel="tag">Train travel</a>, <a href="/tags/iran-government" rel="tag">Iran government</a>, <a href="/tags/philip-hammond" rel="tag">Philip Hammond</a>, <a href="/tags/united-kingdom-government" rel="tag">United Kingdom government</a>, <a href="/tags/psychology" rel="tag">Psychology</a>, <a href="/tags/marseille" rel="tag">Marseille</a>, <a href="/tags/thomas-de-maiziere" rel="tag">Thomas De Maiziere</a>, <a href="/tags/media-and-entertainment-industry" rel="tag">Media and entertainment industry</a>, <a href="/tags/news-industry" rel="tag">News industry</a></div>
+</div>    </div>
+  </div>
+
+</div><div class="block block-dfp block-mediumrectangle block-dfp-mediumrectangle even block-without-title" id="block-dfp-mediumrectangle">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="dfp-ad-mediumrectangle-wrapper" class="dfp-tag-wrapper"><div class="slug">Advertisement</div>
+<div  id="dfp-ad-mediumrectangle" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-mediumrectangle");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+
+</div>  </div>
+</aside>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    
+<footer>
+  <div id="siteFooter">
+    <div class="row">
+        <div class="medium-4 columns">
+            <h5>Get the AP Mobile app</h5>
+<a href="http://www.ap.org/apmobile/"><img src="http://bigstory.ap.org/sites/bigstory/files/Mobile%20App%20Download.png"></a>
+        </div>
+        <div class="medium-4 columns">
+            <h5>AP Sites</h5>
+            <ul class="">
+                <li><a href="http://wintergames.ap.org" >Winter Games</a></li>
+                <li><a href="http://collegebasketball.ap.org" >College Basketball</a></li>
+                <li><a href="http://racing.ap.org" >Auto Racing</a></li>
+                <li><a href="http://pro32.ap.org" >Football</a></li>
+            </ul>
+        </div>
+        <div class="medium-4 columns">
+            <h5>Follow AP</h5>
+            <ul class="">
+                <li><a href="https://www.facebook.com/pages/Associated-Press/107751995914945">Facebook</a></li>
+                <li><a href="https://twitter.com/AP">Twitter</a></li>
+                <li><a href="https://plus.google.com/+AP/">Google+</a></li>
+                <li><a href="https://www.linkedin.com/company/associated-press">LinkedIn</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <hr>
+        <div class="medium-12 columns"> 
+            AP News | 
+           &copy; 2015 Associated Press  | 
+            <a href="/content/privacy-policy">Privacy Policy</a>  |  
+            <a href="/content/terms-use">Terms of Use</a>  |  
+            <a href="http://www.apimages.com/">AP Images</a>  |  
+            <a href="http://www.ap.org/">ap.org</a>
+        </div>
+    </div>
+</div>
+
+
+
+<style>
+#dfp-ad-leaderboard{
+text-align: center
+}
+</style></footer>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+    <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=11304492&cv=2.0&cj=1" /></noscript>  </div>
+</div><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _sf_async_config={uid:11689,domain:""};(function() {function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js"); document.body.appendChild(e); }var oldonload = window.onload;window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/optional/ap_social/js/ap_social.min.js?nn5y9u"></script>
+  <script type="text/javascript" src="http://platform.tumblr.com/v1/share.js"></script>
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"560baa128a","applicationID":"555721","transactionName":"MlRTYkFSWkNUU0EKDQsecFVHWlteGl5aBwc6QVBRVmxCWVBH","queueTime":0,"applicationTime":1212,"ttGuid":"","agentToken":"","atts":"HhNQFAlISU0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-627.min.js"}</script></body>
+</html>

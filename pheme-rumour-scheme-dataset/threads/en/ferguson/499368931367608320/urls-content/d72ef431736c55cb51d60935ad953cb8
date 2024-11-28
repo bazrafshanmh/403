@@ -1,0 +1,146 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+date: Tue, 24 Mar 2015 02:56:43 GMT
+location: https://twitter.com/michael_flinch/status/499373172601683968/photo/1
+server: tsa_f
+set-cookie: guest_id=v1%3A142716580296410496; Domain=.twitter.com; Path=/; Expires=Thu, 23-Mar-2017 02:56:42 UTC
+x-connection-hash: ec23d2762a1e54bafc0246914399cf04
+x-response-time: 98
+
+HTTP/1.1 404 Not Found
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+content-encoding: gzip
+content-length: 1451
+content-security-policy-report-only: default-src 'none'; img-src https://abs.twimg.com https://ssl.google-analytics.com; script-src https://abs.twimg.com https://ssl.google-analytics.com about:; style-src https://abs.twimg.com 'unsafe-inline'; font-src https://abs.twimg.com https://twitter.com; connect-src 'none'; object-src 'none'; media-src 'none'; frame-src 'none'; report-uri https://twitter.com/i/csp_report?a=ORTGK%3D%3D%3D&ro=true
+content-type: text/html;charset=utf-8
+date: Tue, 24 Mar 2015 02:56:43 GMT
+expires: Tue, 31 Mar 1981 05:00:00 GMT
+last-modified: Tue, 24 Mar 2015 02:56:43 GMT
+ms: A
+pragma: no-cache
+server: tsa_f
+set-cookie: nodocdom=1; Path=/; Domain=.twitter.com
+set-cookie: _twitter_sess=BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCFHytUlMAToMY3NyZl9p%250AZCIlNjdlMmE4MzgwN2U3ZmU4NWM5YTVhMDNlNzZiZDM4ZmE6B2lkIiUwYjY4%250ANTMzODBiODc3NWZjZTlhNjZiNjNiOTAzZjhmYw%253D%253D--09c90588ae792de1e026415f48b9c14844c4d528; Path=/; Domain=.twitter.com; Secure; HTTPOnly
+status: 404 Not Found
+strict-transport-security: max-age=631138519
+x-connection-hash: dd10dcc0c902827903edb07bc7185e1e
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-response-time: 102
+x-transaction: ec3360b60875438c
+x-twitter-response-tags: BouncerCompliant
+x-ua-compatible: IE=edge,chrome=1
+x-xss-protection: 1; mode=block
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Language" content="en-us">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter / ?</title>
+    <link href="https://abs.twimg.com/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link rel="stylesheet" href="https://abs.twimg.com/errors/fullscreen_errors-91ecc652e4fafac52ce8a1a8a181ad24.css">
+  </head>
+  <body>
+    <div class="topbar js-topbar">
+      <div class="global-nav" data-section-term="top_nav">
+        <div class="global-nav-inner">
+          <div class="container">
+            <ul class="nav js-global-actions">
+              <li class="home">
+                <a class="nav-logo-link" href="https://twitter.com"><img class="bird" src="https://abs.twimg.com/errors/logo23x19.png" alt="Twitter"></a>
+              </li>
+            </ul>
+            <div class="pull-right">
+              <ul class="nav secondary-nav">
+                <li><a href="https://twitter.com" id="homeLink">Home &rarr;</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="blue-sky">
+      <div class="body-content">
+
+          <h1>Sorry, that page doesn’t exist!</h1>
+          <p>You can <a href="https://twitter.com/search-home">search Twitter</a> using the search box below or <a href="https://twitter.com">return to the homepage</a>.</p>
+          <form class="search-404" action="https://twitter.com/search" method="get">
+            <input id="search_q" name="q" type="text" aria-label="Search query" placeholder="Search for a topic, full name, or @username">
+            <input class="btn" id="search_submit" type="submit" value="Search">
+          </form>
+
+        <div class="footer">
+
+            <ul class="languages">
+
+                <li><a data-language="ar" href="#">العربية</a></li>
+
+                <li><a data-language="da" href="#">Dansk</a></li>
+
+                <li><a data-language="de" href="#">Deutsch</a></li>
+
+                <li><a data-language="en" href="#">English</a></li>
+
+                <li><a data-language="en-gb" href="#">English UK</a></li>
+
+                <li><a data-language="es" href="#">Español</a></li>
+
+                <li><a data-language="fa" href="#">فارسی</a></li>
+
+                <li><a data-language="fi" href="#">Suomi</a></li>
+
+                <li><a data-language="fil" href="#">Filipino</a></li>
+
+                <li><a data-language="fr" href="#">Français</a></li>
+
+                <li><a data-language="he" href="#">עִבְרִית</a></li>
+
+                <li><a data-language="hi" href="#">हिन्दी</a></li>
+
+                <li><a data-language="hu" href="#">Magyar</a></li>
+
+                <li><a data-language="id" href="#">Bahasa Indonesia</a></li>
+
+                <li><a data-language="it" href="#">Italiano</a></li>
+
+                <li><a data-language="ja" href="#">日本語</a></li>
+
+                <li><a data-language="ko" href="#">한국어</a></li>
+
+                <li><a data-language="msa" href="#">Bahasa Melayu</a></li>
+
+                <li><a data-language="nl" href="#">Nederlands</a></li>
+
+                <li><a data-language="no" href="#">Norsk</a></li>
+
+                <li><a data-language="pl" href="#">Polski</a></li>
+
+                <li><a data-language="pt" href="#">Português</a></li>
+
+                <li><a data-language="ru" href="#">Русский</a></li>
+
+                <li><a data-language="sv" href="#">Svenska</a></li>
+
+                <li><a data-language="th" href="#">ภาษาไทย</a></li>
+
+                <li><a data-language="tr" href="#">Türkçe</a></li>
+
+                <li><a data-language="zh-cn" href="#">简体中文</a></li>
+
+            </ul>
+
+          <ul class="links">
+            <li class="first">&copy; <span id="copyright-year"></span> Twitter</li>
+            <li><a href="https://about.twitter.com/">About</a></li>
+            <li><a href="https://support.twitter.com/">Help</a></li>
+            <li><a href="http://status.twitter.com/">Status</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <script src="https://abs.twimg.com/errors/404-5b74379aef88b251a1bb61207fdf03a9.js"></script>
+  </body>
+</html>

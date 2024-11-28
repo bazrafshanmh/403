@@ -1,0 +1,2040 @@
+HTTP/1.1 200 OK
+Server: Day-Servlet-Engine/4.1.52
+Content-Type: text/html;charset=UTF-8
+X-ESI-Enable: 1
+Vary: Accept-Encoding
+X-Varnish: 1874635896
+Content-Encoding: gzip
+Cache-Control: max-age=167
+Date: Tue, 24 Mar 2015 01:02:33 GMT
+Content-Length: 26894
+Connection: keep-alive
+
+<!DOCTYPE html>
+<!--[if lte IE 7]> <html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" class="ie7 lte8 lte9 " lang="en-au"> <![endif]-->
+<!--[if IE 8]> <html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" class="ie8 lte8 lte9 " lang="en-au"> <![endif]-->
+<!--[if IE 9]> <html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" class="ie9 lte9 " lang="en-au"> <![endif]-->
+<!--[if gt IE 9]> <!--> <html lang="en-au" class=""> <!--<![endif]-->
+<head>
+    <script type="text/javascript" src="/etc/designs/ffx/wcm/shared/device-detect/device-detect-1.43.1-21.js"></script>
+<!-- APM Digital Data Script -->
+
+<!-- Digital Data Script -->
+<script>
+    var titanEnabled = true;
+    var digitalData = {"page":{"pageInfo":{"pageID":"64164672","pageName":"Flag being held by Lindt Chocolat Cafe hostages is not an Islamic State flag","brand":"smh","generator":"CQ","author":"David Wroe and James Massola ","effectiveDate":"2014-12-15T16:38:00Z","issueDate":"2014-12-15T00:03:56Z","sysEnv":"desktop","template":"twocolumn-rightrail","environment":"","domain":"","layout":""},"category":{"pageType":"Article","primaryCategory":"national","subCategory1":"","subCategory2":"","subCategory3":"","subCategory4":""}},"titan":{"adSite":"smh","adZone":"news/national","adExclusions":["AdExclusion-Terrorism"],"adKeyValues":{"cat1":"national","cat":"news","ctype":"article"},"adSlots":["adspot-300x70-pos1","adspot-300x1515-pos1","adspot-300x600_300x250-pos1","adspot-300x250-pos2","adspot-149x170-pos1","adspot-996x120_970x250_940x250_940x120-pos1","adspot-149x170-pos2","adspot-1x11-pos1","adspot-728x90-pos2","adspot-728x90-pos1","adspot-300x250-pos3"],"adRegistry":"3314","cmsRemove":"false"},"user":[{"profile":[{"profileInfo":{"profileID":""},"membershipType":"visitor"}]}],"version":"1.0","events":[],"myfairfax":{"baseUrl":"http://www.smh.com.au","brandSite":"smh","domain":"smh.com.au","hagridApiUrl":"https://api.myfairfax.com.au","hagridBaseUrl":"https://smh.myfairfax.com.au","hagridChannelKey":"Dks89-tJMqw6zsOGPU5c5Q","drmHost":"http://access.fairfaxapi.com.au","assetCategories":["National"],"assetId":"64164672","assetSources":["SMH"],"assetType":["article"]}};
+
+    var titan = window.titan || {};
+    titan.requestAd = titan.requestAd || [];
+    titan.requestConditionalAd = titan.requestConditionalAd || [];
+
+    function getAdCookie(name) {
+        var regex = new RegExp('(?:^|; )' + name + '=([^;]*)');
+        var value = regex.exec(document.cookie);
+        if (value && value.length > 1) {
+            value = decodeURIComponent(value[1]);
+        } else {
+            value = "";
+        }
+        return value;
+    }
+
+    function conditionalTitanAdPushExternalReferrer(adUniqueName, cookieExternalReferrer) {
+        window.externalReferrerAds = window.externalReferrerAds || [];
+        externalReferrerAds.push(function() {
+            var externalReferrer = getAdCookie(cookieExternalReferrer);
+            if (externalReferrer != "") {
+                titan.requestConditionalAd.push(adUniqueName);
+            }
+        });
+    }
+</script>
+
+<style>
+    .ads-edit-mode-placeholder {
+        line-height: normal;
+        background: #fff;
+        color: #4779bc;
+        border: .4em solid;
+        font-size: 1.0em;
+        padding: 0.5em 0;
+        text-align: center;
+        margin: 5px 0px 0px 5px;
+    }
+
+    .ads-edit-mode-placeholder .title {
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: normal;
+        padding-left: .4em
+    }
+
+    .ads-edit-mode-placeholder .message {
+        font-size: .7em;
+        font-weight: 300;
+        font-style: italic;
+        letter-spacing: .12em;
+        padding-left: .12em
+    }
+
+    .ads-edit-mode-placeholder .green {
+        color: #2e8b57;
+    }
+
+    .ads-edit-mode-placeholder .red {
+        color: #cd5c5c;
+    }
+</style>
+
+<script src="//assets.adobedtm.com/7d5ea80d054b96730162d0905d59678c4d2bf30c/satelliteLib-fc35eab6559a121532bab25bb77b90e6a30892b9.js"></script>
+
+<!--Define the js and css resources server info, can be overridden-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Flag being held by Lindt Chocolat Cafe hostages is not an Islamic State flag</title>
+
+<meta http-equiv="content-language" content="en"/>
+<meta http-equiv="imagetoolbar" content="no"/>
+<link rel="canonical" href="http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html"/>
+    <meta name="robots" content="noarchive,noodp,index"/>
+<meta name="robots" content="ACAP allow-index"/>
+<meta name="robots" content="ACAP allow-follow"/>
+<meta name="robots" content="ACAP disallow-preserve"/>
+<meta name="robots" content="ACAP allow-present prohibited-modification=annotation"/>
+<meta name="description" content="The flag shown being held by hostages against the window of Lindt Chocolat Cafe is not an Islamic State flag, but is an Islamic flag that has been co-opted by ..."/>
+ <meta name="keywords" content=""/>
+        <meta name="news_keywords" content="martin place, martin place siege, lindt café, martin place hostages, Sydney cbd siege, lindt café siege, lindt chocolat cafe, sydney cbd hostages, islamic flag, jihadist"/>
+    <link rel="shortcut icon" type="image/ico" href="http://www.smh.com.au/favicon.ico"/>
+<meta name="application-name" content="The Sydney Morning Herald"/>
+<meta name="msapplication-tooltip" content="Open The Sydney Morning Herald"/>
+<meta name="msapplication-starturl" content="http://www.smh.com.au"/>
+<meta name="msapplication-task" content="name=National;action-uri=http://www.smh.com.au/national;icon-uri=http://www.smh.com.au/favicon.ico;"/>
+<meta name="msapplication-task" content="name=World;action-uri=http://www.smh.com.au/world;icon-uri=http://www.smh.com.au/favicon.ico;"/>
+<meta name="msapplication-task" content="name=Sport;action-uri=http://www.smh.com.au/sport;icon-uri=http://www.smh.com.au/favicon.ico;"/>
+<meta name="msapplication-task" content="name=Weather;action-uri=http://www.smh.com.au/weather;icon-uri=http://www.smh.com.au/favicon.ico;"/>
+<meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@smh">
+    <meta property="og:title" content="Flag being held by Lindt Chocolat Cafe hostages is not an Islamic State flag"/>
+    <meta property="og:description" content="The flag shown being held by hostages against the window of Lindt Chocolat Cafe is not an Islamic State flag, but is an Islamic flag that has been co-opted by jihadist groups."/>
+    <meta property="og:site_name" content="The Sydney Morning Herald"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html"/>
+    <meta property="og:image" content="http://www.smh.com.au/content/dam/images/1/2/7/9/a/y/image.related.articleLeadwide.620x349.1279s0.png/1418601847601.jpg"/>
+    <meta property="fb:app_id" content="193677504039845"/>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html"/>
+<meta property="og:image"  content="http://www.smh.com.au/content/dam/images/1/2/7/9/a/y/image.related.articleLeadwide.620x349.1279s0.png/1418601847601.jpg">
+<link rel="stylesheet" type="text/css" media="screen,print" href="http://resources.smh.com.au/common/media-common-1.0/css/output/7.48.4/common.skin.news.css/common.skin.news_min.css"/>
+<link rel="stylesheet" type="text/css" media="screen,print" href="http://resources.smh.com.au/common/media-common-1.0/css/output/7.48.4/common.skin.smh.css/common.skin.smh_min.css"/>
+
+
+<link rel="stylesheet" type="text/css" media="screen,print" href="http://resources.smh.com.au/common/media-common-1.0/css/output/7.48.4/common.skin.national.css/common.skin.national_min.css"/>
+    <link rel="stylesheet" type="text/css" media="screen,print" href="http://resources.smh.com.au/common/media-common-1.0/css/output/7.48.4/skin.promotions.css/skin.promotions_min.css"/>
+<link rel="stylesheet" type="text/css" media="screen,print" href="http://resources.smh.com.au/common/media-common-1.0/css/output/7.48.4/common.skin.mysite.css/common.skin.mysite_min.css"/>
+
+<link rel="stylesheet" type="text/css" media="screen,print" href="http://resources.smh.com.au/common/media-common-1.0/css/output/7.48.4/common.skin.article.css/common.skin.article_min.css"/>
+<!-- Initialise Google Analytics event queue -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+    </script>
+    </head>
+
+<body class=" article-template smh national "><script type="text/javascript">
+        // <![CDATA[
+        document.body.className += " scriptable";
+        // ]]>
+    </script>
+        <a class="skipLink" href="#nav">Skip to navigation</a>
+
+    <a class="skipLink" href="#content">Skip to content</a>
+
+    <a class="skipLink" href="http://www.smh.com.au/siteguide/accessibility">Help
+        using this website - Accessibility statement</a><div class="index page base twocolumn-rightrail"><div data-brandTimezone="Australia/Sydney" data-brandSite="smh" data-brandDomain="smh.com.au"></div>
+            
+                        
+                            <div class="mySite" role="document" aria-live="polite" aria-relevant="additions removals" aria-atomic="true">
+    <div class="ms-toolbarWrap">
+        <div class="ms-toolbar clearfix">
+            <p class="hiddenWithJS alert"><em>JavaScript disabled.</em> Please enable JavaScript to use My News, My Clippings, My Comments and user settings.</p>
+<ul class="inactive">
+    <li class="account login">
+        <a class="trackingClick" href="https://smh.myfairfax.com.au/members/session/new?channel_key=Dks89-tJMqw6zsOGPU5c5Q&callback_uri=http%3A%2F%2Fwww.smh.com.au%2Fugc%2Flogin.html" title="My News" data-tracking-types="ga,sc" data-tracking-no-reclick="true" data-ga-action="Login-MyNews" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event5","events":"event5","eVar56":"Dock_MyNews"}' data-sc-tl="login"><span class="icon news"></span>My News </a>
+    </li>
+    <li class="account login">
+        <a class="trackingClick" href="https://smh.myfairfax.com.au/members/session/new?channel_key=Dks89-tJMqw6zsOGPU5c5Q&callback_uri=http%3A%2F%2Fwww.smh.com.au%2Fugc%2Flogin.html" title="My Clippings" data-tracking-types="ga,sc" data-tracking-no-reclick="true" data-ga-action="Login-MyClippings" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event5","events":"event5","eVar56":"Dock_MyClippings"}' data-sc-tl="login"><span class="icon clippings"></span>My Clippings </a>
+    </li>
+    <li class="account login">
+        <a class="trackingClick" href="https://smh.myfairfax.com.au/members/session/new?channel_key=Dks89-tJMqw6zsOGPU5c5Q&callback_uri=http%3A%2F%2Fwww.smh.com.au%2Fugc%2Flogin.html" title="My Comments" data-tracking-types="ga,sc" data-tracking-no-reclick="true" data-ga-action="Login-MyComments" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event5","events":"event5","eVar56":"Dock_MyComments"}' data-sc-tl="login"><span class="icon comments"></span>My Comments </a>
+    </li>
+        <li class="account login">
+            <a class="trackingClick" href="https://smh.myfairfax.com.au/members/session/new?channel_key=Dks89-tJMqw6zsOGPU5c5Q&callback_uri=http%3A%2F%2Fwww.smh.com.au%2Fugc%2Flogin.html" title="My Benefits" data-tracking-types="ga,sc" data-tracking-no-reclick="true" data-ga-action="Login-MyBenefits" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event5","events":"event5","eVar56":"Dock_MyBenefits"}' data-sc-tl="login"><span class="icon benefits"></span>My Benefits </a>
+        </li>
+</ul>
+
+<ul class="alt">
+        <li class="account todaysPaper">
+            <a class="btn trackingClick" href="/nsw/digitaleditionredirector" target="_blank" data-tracking-types="ga,sc" data-ga-action="TodaysPaper" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event50","events":"event50","eVar56":"mym_dock"}' data-sc-tl="todaysPaper" data-sub="http://www.smh.com.au/subscribe?channel_key=Dks89-tJMqw6zsOGPU5c5Q&callback_uri=http%3A%2F%2Fwww.smh.com.au%2F&plain_token=true&iid=other:webadv-14omn0064-prod-consumersubs:nnn-02/07/2014-todays_paper_redirection-all-dockbutton-nnn-smh-u&campaign_code=14iaf200&promote_channel=webadvt" data-deu="http://smh.digitaleditions.com.au/olive/ode/smhweb/Login/Login.aspx?&Id=ef4b9370790bb0e3be68bef94e4b35d527533398b4939dfaad316adaeb68ca47&d=2015-03-23&c=4C93F4503CA98122712B058F0A10774A">Today's Paper</a>
+        </li>
+        <li class="account">
+            <a class="btn alt trackingClick" href="http://www.smh.com.au/subscribe?channel_key=Dks89-tJMqw6zsOGPU5c5Q&callback_uri=http%3A%2F%2Fwww.smh.com.au%2F&plain_token=true&iid=houseinv:nnn-13omn780-acq-consumersubs:dsubs_onassets-24/10/2013-all_page_subscribe_link-all-allpage_subscribe_cta-nnn-smh-o&campaign_code=13iaf022&promote_channel=house_inventory" target="_blank" data-tracking-types="ga,sc" data-ga-action="Subscribe" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event5","events":"event5","eVar56":"Dock_Subscribe"}' data-sc-tl="subscribe">Subscribe</a>
+        </li>
+        <li class="account login">
+            <a class="btn trackingClick" href="https://smh.myfairfax.com.au/members/session/new?channel_key=Dks89-tJMqw6zsOGPU5c5Q&callback_uri=http%3A%2F%2Fwww.smh.com.au%2Fugc%2Flogin.html" data-tracking-types="ga,sc" data-tracking-no-reclick="true" data-ga-action="Login" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event5","events":"event5","eVar56":"Dock_Login"}' data-sc-tl="login">Log in</a>
+        </li>
+        <li class="account last demo">
+            <a class="btn trackingClick" href="https://smh.myfairfax.com.au/members/members/signup?channel_key=Dks89-tJMqw6zsOGPU5c5Q&callback_uri=http%3A%2F%2Fwww.smh.com.au%2Fugc%2Flogin.html" id="demo-btn" data-tracking-types="ga,sc" data-tracking-no-reclick="true" data-ga-action="Register" data-ga-category="MyMasthead" data-ga-label="Dock Bar" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event2","events":"event2","eVar56":"Dock_Register"}' data-sc-tl="register">Register</a>
+            <div class="demo-tooltip">
+                <p>Personalise your news, save articles to read later and customise settings</p>
+            </div>
+        </li>
+</ul>
+<div id="ms-dialogLogin" class="dialogWrap hiddenVisually">
+    <div class="dialogContent main" id="loginIframeContainer" style="width: 625px; height: 425px" data-dialogHref="https://smh.myfairfax.com.au/members/session/dialog?channel_key=Dks89-tJMqw6zsOGPU5c5Q&callback_uri=http%3A%2F%2Fwww.smh.com.au%2Fugc%2Flogin.html">
+        <p class="hiddenVisually">If you have trouble accessing our login form below, you can go to our <a href="https://smh.myfairfax.com.au/members/session/new?channel_key=Dks89-tJMqw6zsOGPU5c5Q&callback_uri=http%3A%2F%2Fwww.smh.com.au%2Fugc%2Flogin.html" title="This link will open in a new window" target="_parent">login page</a>.</p>
+    </div>
+</div>    <div id="ms-dialogLoginPrompt" class="dialogWrap hiddenVisually">
+        <div class="dialogContent main">
+            <p class="hiddenVisually">If you have trouble accessing our login form below, you can go to our <a href="https://smh.myfairfax.com.au/members/session/new?channel_key=Dks89-tJMqw6zsOGPU5c5Q&callback_uri=http%3A%2F%2Fwww.smh.com.au%2Fugc%2Flogin.html" title="This link will open in a new window" target="_parent">login page</a>.</p>
+            <iframe id="loginPromptIframe" width="625" height="425" frameborder="0" scrolling="no" src="" data-dialogHref="https://smh.myfairfax.com.au/members/session/dialog?skin=prompt&channel_key=Dks89-tJMqw6zsOGPU5c5Q&callback_uri=http%3A%2F%2Fwww.smh.com.au%2Fugc%2Flogin.html"></iframe>
+        </div>
+    </div>
+<script>
+    var memberNumberParameterName = "mbnr";
+    var paramValue = new RegExp("[\?&]" + memberNumberParameterName + "=([^&#]*)").exec(location.search);
+    var memberId = (paramValue == null ? "" : paramValue[1]);
+    if(memberId.length > 0) {
+        var cX_ffx_customParameters = cX_ffx_customParameters || {};
+        cX_ffx_customParameters.u_ffx_memberid = memberId;
+    }
+</script>        </div>
+    </div>
+</div>
+                </div>
+    <div id="sponsorLink_cA-helmet" class="cA-helmet">
+        <div id="video-player-companion-ad-helmet"></div>
+        <!-- id:video-player-companion-ad-helmet -->
+    </div>
+    <!-- id:sponsorLink_cA-helmet --><div class="network-strip-component-element"><div id="network-strip" class="network-strip-wrap">
+    <div class="network-strip cf">
+        <ul class="nav edition" role="menu">
+            <li role="menuitem" id="whiteStrip-time"><em>12:02PM</em> Tuesday Mar 24, 2015</li>
+            <li role="menuitem" id="whiteStrip-users" class="online">    29253<span class="collectorHidden" style="display:none">(0)</span> online now</li>
+            <li role="menuitem">
+                <span>Do you know more about a story?</span>
+                <div class="dropdown-panel">
+                    <button class="dropdown-panel-toggle generic-selector" aria-owns="box-contact" aria-haspopup="true" title="contact us"><span class="icon ddown">contact us</span></button>
+                    <div id="box-contact" class="dropdown-content dropdown-content-contact generic-selector">
+                        <button class="close generic-selector" title="close">Close</button>
+                        <form method="GET" action="mailto:scoop@smh.com.au">
+                            <label class="h4">Provide detailed information, including contact details (if relevant)</label>
+                            <textarea name="body"></textarea>
+                            <input type="hidden" name="subject" value="Tip">
+                            <input type="submit" value="Post" class="btn">
+                        </form>
+                    </div><!-- id:box-contact, class:dropdown-content dropdown-content-contact generic-selector -->
+                </div><!-- class:dropdown-panel -->
+            </li>
+        </ul>
+        <ul class="nav external" role="menu">
+        	<li><a href="http://www.domain.com.au" onclick="linktop(this);">Real Estate</a></li>
+			<li><a href="http://www.drive.com.au" onclick="linktop(this);">Cars</a></li>
+			<li><a href="http://www.adzuna.com.au" onclick="linktop(this);">Jobs</a></li>
+			<li><a href="http://www.rsvp.com.au" onclick="linktop(this);">Dating</a></li>
+			<li><a href="https://membercentre.fairfax.com.au/NewsletterSubscription.aspx" onclick="linktop(this);">Newsletters</a></li>
+			<li class="menuitem">
+                <div class="dropdown-panel">
+                    <button class="dropdown-panel-toggle generic-selector" aria-owns="box-network" aria-haspopup="true">Fairfax Media Network<span class="icon ddown">More</span></button>
+                    <div id="box-network" class="dropdown-content dropdown-content-logos">
+                        <button class="close generic-selector" title="close generic-selector">Close</button>
+                        <div class="logos cf">
+                            <div class="col">
+                                <h4>News &amp; Weather</h4>
+                                <ul role="navigation">
+                                    <li class="smh"><a href="http://www.smh.com.au" title="The Sydney Morning Herald">smh.com.au</a></li>
+                                    <li class="theage"><a href="http://www.theage.com.au" title="The Age">theage.com.au</a></li>
+                                    <li class="brisbanetimes"><a href="http://www.brisbanetimes.com.au" title="Brisbane Times">brisbanetimes.com.au</a></li>
+                                    <li class="canberratimes"><a href="http://www.canberratimes.com.au" title="Canberra Times">canberratimes.com.au</a></li>
+                                    <li class="nationaltimes"><a href="http://www.nationaltimes.com.au" title="National Times">nationaltimes.com.au</a></li>
+                                    <li class="watoday"><a href="http://www.watoday.com.au" title="WA Today">watoday.com.au</a></li>
+                                    <li class="weatherzone"><a href="http://www.weatherzone.com.au" title="Weather Zone">weatherzone.com.au</a></li>
+                                </ul>
+                            </div><!-- class:col -->
+                            <div class="col">
+                                <h4>Business &amp; Finance</h4>
+                                <ul role="navigation">
+                                    <li class="businessday"><a href="http://www.businessday.com.au" title="Business Day">businessday.com.au</a></li>
+                                    <li class="brw"><a href="http://www.brw.com.au" title="BRW">brw.com.au</a></li>
+                                    <li class="afr"><a href="http://www.afr.com" title="AFR">afr.com</a></li>
+                                    <li class="afrmagazine"><a href="http://www.afrmagazine.com.au" title="AFR Magzine">afrmagazine.com.au</a></li>
+                                    <li class="smartinvestor"><a href="http://www.smartinvestor.com.au" title="SmartInvestor">smartinvestor.com.au</a></li>
+                                    <li class="investsmart"><a href="http://www.investsmart.com.au" title="investSmart">investsmart.com.au</a></li>
+                                </ul>
+                            </div><!-- class:col -->
+                            <div class="col">
+                                <h4>Lifestyle</h4>
+                                <ul role="navigation">
+                                    <li class="lifestyle"><a href="http://www.smh.com.au/lifesyle" title="LifeStyle">life &amp; style</a></li>
+                                    <li class="dailylife"><a href="http://www.dailylife.com.au" title="Daily Life">dailylife.com.au</a></li>
+                                    <li class="thevine"><a href="http://www.thevine.com.au" title="The Vine">thevine.com.au</a></li>
+                                    <li class="essentialbaby"><a href="http://www.essentialbaby.com.au" title="Essential Baby">essentialbaby.com.au</a></li>
+                                    <li class="essentialkids"><a href="http://www.essentialkids.com.au" title="Essential Kids">essentialkids.com.au</a></li>
+                                    <li class="findababysitter"><a href="http://www.findababysitter.com.au" title="Find a Baby Sitter">findababysitter.com.au</a></li>
+                                    <li class="goodfood"><a href="http://www.goodfood.com.au" title="Good Food">goodfood.com.au</a></li>
+                                </ul>
+                            </div><!-- class:col -->
+                            <div class="col last">
+                                <h4>Classifieds</h4>
+                                <ul role="navigation">
+                                    <li class="domain"><a href="http://www.domain.com.au" title="Domain">domain.com.au</a></li>
+                                    <li class="drive"><a href="http://www.drive.com.au" title="Drive">drive.com.au</a></li>
+                                    <li class="adzuna"><a href="http://www.adzuna.com.au" title="Adzuna">adzuna.com.au</a></li>
+                                    <li class="rsvp"><a href="http://www.rsvp.com.au" title="RSVP">rsvp.com.au</a></li>
+                                    <li class="stayz"><a href="http://www.stayz.com.au" title="Stayz">stayz.com.au</a></li>
+                                </ul>
+                            </div><!-- class:col last -->
+                        </div><!-- class:logos cf -->
+                        <div class="additional-links">
+                            <ul class="nav">
+                                <ul class="nav">
+                                	<li><a href="http://adcentre.fairfaxdigital.com.au" title="Advertise with us">Advertise with us</a></li>
+                                    <li><a href="https://membercentre.fairfax.com.au/NewsletterSubscription.aspx" title="Newsletters">Newsletters</a></li>
+                                    <li><a href="http://www.fairfax.com.au/network-map.aspx" title="Full list of sites">Full list of sites</a></li>
+                                    <li><a href="http://fairfaxmedia.com.au" title="About Fairfax Media">About Fairfax Media</a></li>
+                                    <li><a href="http://www.fairfax.com.au/privacy" title="Privacy">Privacy</a></li>
+                                    <li><a href="http://www.fairfax.com.au/conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+                                </ul>
+                            </ul>
+                        </div><!-- class:additional-links -->
+                    </div><!-- id:box-network, class:dropdown-content dropdown-content-logos -->
+                </div><!-- class:dropdown-panel -->
+            </li>
+        </ul>
+    </div><!-- class:network-strip cf -->
+</div><!-- id:network-strip, class:network-strip-wrap --></div>
+<div class="outerWrap">
+        <div class="wrap cfix">
+            <div class="header span-24">
+    <div id="adspot-728x90-pos1" class="ad " style='display:none;'>
+        <script>
+                        titan.requestAd.push("adspot-728x90-pos1");
+                    </script>
+                </div>
+<div class="index page base twocolumn-rightrail"><p class="mh-logo" style="background-color:">
+    <a href="http://smh.com.au" title="The Sydney Morning Herald">The Sydney Morning Herald</a>
+</p>
+<h2>
+    <a href="/national" title="National">National</a>
+</h2></div>
+<div class="primary-nav"><ul id="nav" role="navigation" >
+    <li>
+                    <a href="/national/investigations" title="Investigations">Investigations</a>
+            <div class="subLink primaryNav-links-column"></div>
+</li>
+    <li>
+                    <a href="/national/interactive-hub" title="Interactives">Interactives</a>
+            <div class="subLink primaryNav-links-column"></div>
+</li>
+    <li>
+                    <a href="/national/health" title="Health">Health</a>
+            <div class="subLink primaryNav-links-column"></div>
+</li>
+    <li>
+                    <a href="/national/education" title="Education">Education</a>
+            <div class="subLink primaryNav-links-column"></div>
+</li>
+    <li>
+                    <a href="/national/public-service" title="Public Service News">Public Service News</a>
+            <div class="subLink primaryNav-links-column"></div>
+</li>
+    <li>
+                    <a href="/national/ww1" title="World War 1 Centenary">World War 1 Centenary</a>
+            <div class="subLink primaryNav-links-column"></div>
+</li>
+    <li>
+                    <a href="/national/clique" title="Clique Photos">Clique Photos</a>
+            <div class="subLink primaryNav-links-column"></div>
+</li>
+    <li>
+                    <a href="/national/photography" title="Photo Galleries">Photo Galleries</a>
+            <div class="subLink primaryNav-links-column"></div>
+</li>
+    </ul></div>
+<div class="breadcrumb-component"><p class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+            <span>You are here:</span> <a href="http://www.smh.com.au" itemprop="item"><span itemprop="name">Home</span></a> <a href="/national" itemprop="item"><span itemprop="name">National</span></a> </p>
+    </div>
+<div class="search"><div class="cN-searchBox cfix">
+	<form action="http://www.smh.com.au/execute_search.html" method="get">
+	    <h2>Search smh:</h2>
+	    <label for="search">
+	        <input type="text" name="text" id="search" placeholder='Search here...'  onfocus="this.value='';" />
+	    </label>
+	    <h3>Search in:</h3>
+	    <ul id="ddown" class="ddown">
+	        <li>
+	        	<a class="selected" href="#">National</a>
+	            <div class="srch-wrap">
+    <div></div>
+    <ul class="cfix">
+        <li class="first"><a href="#">smh.com.au</a></li>
+        <li><a href="#">Web</a></li>
+        <li><a href="#">National</a></li>
+        </ul>
+</div><!-- class:srch-wrap --></li>
+	    </ul>
+	    <input type="hidden" name="ss" value="National" />
+	    <input type="submit" class="btnSubmit" value="Search" />
+	</form>
+</div><!-- class:cN-searchBox cfix --></div>
+</div><!-- class:header span-24 --><div id="adspot-996x120_970x250_940x250_940x120-pos1" class="ad adPageTop" style='display:none;'>
+        <script>
+                        titan.requestAd.push("adspot-996x120_970x250_940x250_940x120-pos1");
+                    </script>
+                </div>
+<div id="content" class="span-16 article" role="main" itemscope itemtype="http://schema.org/NewsArticle">
+    <div class="cT-returnToSite"></div>
+    <!-- google_ad_section_start -->
+    <h1 class="cN-headingPage" itemprop="name">Flag being held by Lindt Chocolat Cafe hostages is not an Islamic State flag</h1>
+    <!-- google_ad_section_end -->
+    <div class="meta hnews">
+        <dl>
+            <dt class="hiddenVisually">Date</dt>
+            <dd class="updated dtstamp">
+                <time itemprop="datePublished" datetime="December 16, 2014">
+                December 16, 2014</time>
+            </dd>
+        </dl>
+        <!--todo: on UGC-->
+        <ul class="tools">
+            <li class="reading collectorHidden" style="display:none">(29)</li>
+            <li class="clipping" data-assetid="d-1279s0" data-assettype="ARTICLE" data-asseturl="http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html">
+                    <button class="btnClipping btnFauxLink" type="button">Read later</button>
+                </li>
+            </ul>
+        <!-- Display author details -->
+        <!-- class:cT-headshot -->
+                    <div class="author optionA">
+                        <div class="cT-headshot">
+                            <h3 class="authorName">David Wroe and James Massola </h3>
+                        </div>
+                        <!-- class:cT-headshot -->
+                    </div>
+                <!-- Display author details
+        <div class="zoom hiddenVisually">
+            <!-- remove isPublishedAfter from the conditions if one day the keywords of all articles in DCDS are synched with FP --><!-- self here refers to TimelineEntityLinksComponent.java
+            <p><strong>Zoom in on this story</strong>. Explore all there is to know.</p>
+            <ul class="cfix">
+                <li><a href="http://resources.smh.com.au/zoom/Labor"> Labor </a></li>
+                <li><a href="http://resources.smh.com.au/zoom/ALP"> ALP </a></li>
+                <li><a href="http://resources.smh.com.au/zoom/Australia"> Australia </a></li>
+                <li><a href="http://resources.smh.com.au/zoom/Australian"> Australian </a></li>
+            </ul>
+        </div><!-- class:zoom hiddenVisually -->
+        <!--todo end: is this block required-->
+        <ul class="social sponsored cfix">
+    <li class="tweet">
+            <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url="http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html" data-via="smh" data-text="Flag being held by Lindt Chocolat Cafe hostages is not an Islamic State flag">Tweet</a>
+        </li>
+        <li class="fblike"><div class="fb-share-button" data-href="http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html" data-type="button_count"></div></li>
+        <li class="gplus"><div class="g-plus" data-action="share" data-annotation="bubble"></div></li>
+        <li class="linkedin"><script type="IN/Share" data-url="http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html"></script></li>
+        <li class="pinterest">
+            <a href="http://pinterest.com/pin/create/button/?url=http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html&media=http://www.smh.com.au/content/dam/images/1/2/7/9/a/y/image.imgscale.750x750.png" class="pin-it-button pinterest" count-layout="horizontal">Pin It</a>
+        </li>
+        <li class="reddit"><a href="http://www.reddit.com/submit?url=http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html&amp;title=Flag being held by Lindt Chocolat Cafe hostages is not an Islamic State flag">submit to reddit</a></li>
+    <li class="email"><a href="http://www.smh.com.au/action/emailToFriend?id=64164672" title="Email to a friend" rel="nofollow" data-emailsociallink="true" data-emailurl="http://www.smh.com.au/action/emailToFriend?id=64164672">Email article</a></li>
+    <li class="print">
+        <a href="http://www.smh.com.au/action/printArticle?id=64164672" title="Print this story" rel="nofollow" data-printsociallink="true" data-printurl="http://www.smh.com.au/action/printArticle?id=64164672">Print</a>
+    </li>
+    <li class="reprint">
+        	<a href="http://rightsportal.copyright.com.au/pages/republicationpage.aspx?publisher=fxj&publication=SMH&title=Flag being held by Lindt Chocolat Cafe hostages is not an Islamic State flag&publicationdate=15/12/2014&url=http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html" target="_blank" title="Reprints and permissions" rel="nofollow">Reprints &amp; permissions</a>
+    	</li>
+    </ul>
+</div><!-- class:meta hnews -->
+    <!--honey pot ad inserted via trickyness-->
+        <div class="ad adSpot-textBox">
+            <ins id="googleAds" class="adsbygoogle"></ins>
+        </div>
+    <!-- google_ad_section_start -->
+    <div class="articleBody" itemprop="articleBody">
+        <div id="video-player-content" class="cT-imageMultimedia" itemprop="video" itemscope itemType="http://schema.org/VideoObject">
+    <div id="video-player-content-player" class="videoWrap">
+        </div>
+    <div class="overlay overlayAd"></div>
+    <div class="overlay overlayAutoPlay">
+        <a class="previous close" href="javascript:;">Return to video</a>
+        <h3>Video settings</h3>
+        <p>Please <a href="javascript:;" class="overlayLogIn trackingClick" title="Log in" data-tracking-types="sc" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event5","events":"event5","eVar56":"VideoAutoPlay_Login"}' data-sc-tl="login">Log in</a> to update your video settings</p>
+    </div><!-- class:overlay overlayAutoPlay -->
+<div class="overlay overlayPlayCountdown overlayPrePlay">
+    <p>Video will begin in <span class="playCountdownCounter">5</span> seconds.</p>
+    <ul>
+        <li><a class="playCountdownStop" href="javascript:;">Don't play</a></li>
+        <li class="last"><a class="playCountdownPlayNow" href="javascript:;">Play now</a></li>
+    </ul>
+</div><!-- class:overlay overlayPlayCountdown -->
+<div class="overlay overlayPostPlay sticky">
+    <a class="previous" href="http://media.smh.com.au/">More video</a>
+
+    <h3>Recommended</h3>
+    <div class="cS-videoGalleryLinks">
+            <ul class="cfix">
+
+                <li>
+
+                            <a href="http://media.smh.com.au/video-news/video-national-news/too-many-mental-health-services-6380111.html" title="Too many mental health services? ">
+                            <img alt="wacka" title="" src="/content/dam/images/1/m/6/9/1/g/image.related.videoThumbnail.54x36.3sqxb.png/1427157853873.jpg"><p>Too many mental health services? </p>
+                            </a>
+                        </li>
+                    <li>
+
+                            <a href="http://media.smh.com.au/video-news/video-national-news/polls-up-unity-down-6380502.html" title="Polls up, unity down">
+                            <img alt="null" title="" src="/content/dam/images/3/s/r/8/7/image.related.videoThumbnail.54x36.3sr86.png/1427157596231.jpg"><p>Polls up, unity down</p>
+                            </a>
+                        </li>
+                    <li>
+
+                            <a href="http://media.smh.com.au/video-news/video-national-news/poll-bounce-for-the-coalition-6380498.html" title="Poll bounce for the Coalition ">
+                            <img alt="Wacka&amp;Butler" title="" src="/content/dam/images/1/m/6/8/q/5/image.related.videoThumbnail.54x36.3sr82.png/1427157274221.jpg"><p>Poll bounce for the Coalition </p>
+                            </a>
+                        </li>
+                    <li>
+
+                            <a href="http://media.smh.com.au/video-news/video-national-news/weekend-penalty-rates-cut-in-south-australia-6380486.html" title="Weekend penalty rates cut in South Australia">
+                            <img alt="weekendbeers" title="" src="/content/dam/images/1/m/6/6/n/x/image.related.videoThumbnail.54x36.3sr7q.png/1427153308756.jpg"><p>Weekend penalty rates cut in South Australia</p>
+                            </a>
+                        </li>
+                    <li>
+
+                            <a href="http://media.smh.com.au/video-news/video-national-news/team-abbott-cabinet-cracks-6378861.html" title="Team Abbott: cabinet cracks">
+                            <img alt="cabinet cracks" title="" src="/content/dam/images/1/m/6/6/5/p/image.related.videoThumbnail.54x36.3spyl.png/1427152613174.jpg"><p>Team Abbott: cabinet cracks</p>
+                            </a>
+                        </li>
+                    </ul>
+        </div>
+        <!-- class:cS-videoGalleryLinks -->
+
+    <a class="replay" href="javascript:;">Replay video</a>
+
+</div>
+<!-- class:overlay overlayPostPlay sticky -->
+<div class="overlay overlaySettings">
+            <a class="previous close" href="javascript:;">Return to video</a>
+            <h3>Video settings</h3>
+            <p>Please <a href="javascript:;" class="overlayLogIn trackingClick" title="Log in" data-tracking-types="sc" data-sc='{"linkTrackVars":"events,eVar56","linkTrackEvents":"event5","events":"event5","eVar56":"VideoSettings_Login"}' data-sc-tl="login">Log in</a> to update your video settings</p>
+        </div><!-- class:overlay overlaySettings -->
+    <div class="fdVideoWof">
+        <h4 itemprop="name">What is the Shahada flag?</h4>
+        <p itemprop="description">Counter terrorism expert Anne Azza Aly explains the history and significance of the flag being held up to the window in the Sydney Lindt cafe siege.</p>
+        <span class="gone" itemprop="duration">PT1M3S</span>
+        <span class="gone" itemprop="embedUrl"></span>
+        <span class="gone" itemprop="width">620</span>
+        <span class="gone" itemprop="height">349</span>
+        <ul>
+                <li class="autoplay">Autoplay <strong>On</strong><a href="javascript:;" data-autoplayoverlay="true">Off</a></li>
+                <li><a href="javascript:;" data-kampylefeedback="true">Video feedback</a></li>
+                <li class="last"><a href="javascript:;" data-settingsoverlay="true">Video settings</a></li>
+            </ul>
+        </div><!-- class:fdVideoWof -->
+</div><!-- id:video-player-content -->
+<ul> 
+ <li><a href="http://www.smh.com.au/nsw/lindt-cafe-hostage-drama-in-martin-place-sydney-day-two-20141215-127suz.html" target="_blank">Martin Place siege - Live updates on day two</a></li> 
+ <li><a href="/nsw/police-clear-martin-place-after-gunman-holds-hostages-at-lindt-chocolat-cafe-20141214-127824.html">Hostages held at Lindt Chocolat Cafe</a></li> 
+ <li><a href="/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html"></a><a href="/nsw/martin-place-lindt-cafe-worker-bruno-arrives-moments-after-siege-begins-20141215-127byu.html" title="Martin Place cafe worker missed siege by moments">Cafe worker missed siege by moments</a></li> 
+ <li><a href="/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html"></a><a href="/nsw/martin-place-lindt-cafe-worker-bruno-arrives-moments-after-siege-begins-20141215-127byu.html" title="Martin Place cafe worker missed siege by moments"></a><a href="/national/martin-place-siege-horror-in-the-everyday-is-terrorists-goal-20141215-127bo0.html">Horror in the everyday is terrorists' goal</a></li> 
+ <li><a href="/nsw/martin-place-siege-makes-global-headlines-20141215-127efq.html">Siege makes global headlines</a></li> 
+</ul><p>The flag shown being held by hostages against the window of Lindt Chocolat Cafe is not an Islamic State flag, but is an Islamic flag that has been co-opted by jihadist groups.</p><p>However, Greg Barton, a terrorism expert from Melbourne's Monash University, said that &quot;getting hold of an [Islamic State] flag would be quite difficult, and people will make do with what they have got&quot;.</p><div class="cT-imageLandscape">
+                                        <img alt="A screenshot from Channel Seven, showing hostages in the Lindt cafe" title="" src="/content/dam/images/1/2/7/9/a/y/image.related.articleLeadwide.620x349.1279s0.png/1418601847601.jpg"><p>
+                                A screenshot from Channel Seven, showing hostages in the Lindt cafe<cite><i> Photo: Channel Seven</i></cite>
+                                </p>
+    </div><!-- class:cT-imageLandscape/cT-imagePortrait -->
+    <p>That means it doesn't help confirm or rule out that the hostage-takers' affiliation is with Islamic State or any other group.</p><div id="adspot-300x250-pos3" class="ad adAlignRight" style='display:none;'>
+        <small>Advertisement</small>
+        <script>
+                        titan.requestAd.push("adspot-300x250-pos3");
+                    </script>
+                </div>
+<p>The flag appears to be a Shahada flag, which represents a general expression of faith in Islam, but has been co-opted by various jihadist groups.</p><p>That means it doesn't help confirm or rule out that the hostage-takers' affiliation is with Islamic State or any other group.</p><div class="cT-imagePortrait">
+                                        <img alt="" title="" src="/content/dam/images/1/2/7/c/h/m/image.related.articleLeadNarrow.300x0.1279s0.png/1418661480969.jpg" itemprop="image"><p>
+                                   </p>
+    </div><!-- class:cT-imageLandscape/cT-imagePortrait -->
+    <p>The translation of the flag is: &quot;There is no god but Allah; Muhammad is the Messenger of Allah.&quot;</p><p>The Shahada is the testament of Islamic faith, which is one of the five pillars of Islam.</p><p>A translation by Fairfax Media has established that the script on the flag is very precise, classical Arabic. Mass-produced flags typically skip over the more complex grammatical notation - such as short vowel signs - because they are hard to reproduce.</p><p>This one is very precise in detail, suggesting it is not mass-produced.</p><p>Monash University senior politics lecturer Ben MacQueen, whose work focuses on the Middle East, said the Shahadah - which is what the white writing on the flag appeared to be - was the testimony or core statement of belief in Islam.</p><p>Dr MacQueen said the flag looked &quot;like the black banner which was used in the 1990s - it is not the Islamic State flag per se - it has been used in recent times, for example, by Chechen groups.&quot;</p><p>&quot;The black symbolises the second caliphate - it is to say we [IS] are re-creating the caliphate,&quot; he said.</p><p>&quot;A lot of Islamic states have used the black. In Afghanistan at the turn of the 20th century for example, they had just a black flag.&quot;</p><p>Dr MacQueen said the people holding hostages &quot;may be young guys, maybe not savvy, they've got their hands on a bit of paraphernalia to suggest they have aligned themselves with the IS.&quot;</p><p>&quot;If this was centrally organised from Syria or Iraq they would not be using that flag.&quot;</p><p>Prime Minister Tony Abbott <a target="_blank" href="/federal-politics/political-news/martin-place-siege-tony-abbott-convenes-national-security-committee-20141215-127brq.html">has issued a short statement</a> confirming that the National Security Committee of Cabinet has met to discuss the issue.</p><p>&quot;This is obviously a deeply concerning incident but all Australians should be reassured that our law enforcement and security agencies are well trained and equipped and are responding in a thorough and professional manner,&quot; Mr Abbott said.</p><p>He said he had spoken to NSW Premier Mike Baird and &quot;offered him all possible Commonwealth support and assistance&quot;.</p><p>He said the federal government would provide regular updates.</p><p><img src="https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif"/><b>More to come...</b></p></div><!-- class:articleBody --><!-- google_ad_section_end -->
+<!-- class:cS-poll cfix pollContainer -->
+<div class="ad adSpot-textBox">
+    <ins id="moreGoogleAds" class="adsbygoogle"></ins>
+</div><!-- id:moreGoogleAds --><div class="index page base twocolumn-rightrail"><div class="cT-storyTools cfix">
+    	<!--h3 class="cT-strapHeading">The Sydney Morning Herald Jobs</h3-->
+    	<div id="jobs" data-jobsBrand="smh" data-jobsSkew="generic2" data-jobsWidth="620" data-jobsHeight="180"></div>
+	</div>
+</div>
+<div class="recommended-left-outbrain recommended-articles"><div class="OUTBRAIN"
+        data-src="http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html"
+        data-widget-id="AR_1"
+        data-ob-template="The_Sydney_Morning_Herald_Fairfax">
+    </div>
+<div class="OUTBRAIN"
+        data-src="http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html"
+        data-widget-id="AR_10"
+        data-ob-template="The_Sydney_Morning_Herald_Fairfax">
+    </div>
+</div>
+<div class="meta">
+    <!--We need to call this as a dynamic component, to many variants meant i had to start hacking it for different sections -->
+    <ul class="social sponsored cfix">
+    <li class="tweet">
+            <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url="http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html" data-via="smh" data-text="Flag being held by Lindt Chocolat Cafe hostages is not an Islamic State flag">Tweet</a>
+        </li>
+        <li class="fblike"><div class="fb-share-button" data-href="http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html" data-type="button_count"></div></li>
+        <li class="gplus"><div class="g-plus" data-action="share" data-annotation="bubble"></div></li>
+        <li class="linkedin"><script type="IN/Share" data-url="http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html"></script></li>
+        <li class="pinterest">
+            <a href="http://pinterest.com/pin/create/button/?url=http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html&media=http://www.smh.com.au/content/dam/images/1/2/7/9/a/y/image.imgscale.750x750.png" class="pin-it-button pinterest" count-layout="horizontal">Pin It</a>
+        </li>
+        <li class="reddit"><a href="http://www.reddit.com/submit?url=http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html&amp;title=Flag being held by Lindt Chocolat Cafe hostages is not an Islamic State flag">submit to reddit</a></li>
+    <li class="email"><a href="http://www.smh.com.au/action/emailToFriend?id=64164672" title="Email to a friend" rel="nofollow" data-emailsociallink="true" data-emailurl="http://www.smh.com.au/action/emailToFriend?id=64164672">Email article</a></li>
+    <li class="print">
+        <a href="http://www.smh.com.au/action/printArticle?id=64164672" title="Print this story" rel="nofollow" data-printsociallink="true" data-printurl="http://www.smh.com.au/action/printArticle?id=64164672">Print</a>
+    </li>
+    <li class="reprint">
+        	<a href="http://rightsportal.copyright.com.au/pages/republicationpage.aspx?publisher=fxj&publication=SMH&title=Flag being held by Lindt Chocolat Cafe hostages is not an Islamic State flag&publicationdate=15/12/2014&url=http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html" target="_blank" title="Reprints and permissions" rel="nofollow">Reprints &amp; permissions</a>
+    	</li>
+    </ul></div><!-- class:meta -->
+<!--cq:include path="relatedArticles" resourceType="ffx/wcm/shared/desktop/components/content/relatedcoverage" /-->
+</div><!-- id:content, class:span-16 article -->
+<div class="aside span-8 last">
+    <div id="adspot-300x1515-pos1" class="ad " style='display:none;'>
+        <script>
+                        titan.requestAd.push("adspot-300x1515-pos1");
+                    </script>
+                </div>
+<div id="adspot-300x600_300x250-pos1" class="ad " style='display:none;'>
+        <small>Advertisement</small>
+        <script>
+                        titan.requestAd.push("adspot-300x600_300x250-pos1");
+                    </script>
+                </div>
+<div id="aside-content1">
+        <section class="strap">
+        <header class="cf ">
+            <h3>Related Coverage</h3>
+        </header>
+
+        <article class="article clippingArea clippingAction trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="Related Coverage Click" data-ga-category="Article RHS" data-ga-label="smh, National" data-assetid="d-3mkvm" data-assettype="VIDEO" data-asseturl="http://media.smh.com.au/video-news/video-national-news/what-is-the-shahada-flag-6092338.html">
+                    <a href="http://media.smh.com.au/video-news/video-national-news/what-is-the-shahada-flag-6092338.html" title="What is the Shahada flag?">
+                        <img alt="null" title="" src="/content/dam/images/3/m/k/v/o/image.related.thumbnail.90x60.3mkvm.png/1418620440308.jpg"></a>
+                    <h3><a href="http://media.smh.com.au/video-news/video-national-news/what-is-the-shahada-flag-6092338.html" title="What is the Shahada flag?">What is the Shahada flag?</a></h3>
+                    </article>
+</section>
+<div class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="Most Popular Click" data-ga-category="Article RHS" data-ga-label="smh, national">
+        <section class="strap most-popular" id="MostPopularRHS">
+            <header class="cf">
+                <h3>
+                    Most popular
+                </h3>
+            </header>
+            <article class="article clippingArea clippingAction" data-assetid="d-1m5jf6" data-assettype="ARTICLE" data-asseturl="/national/customs-hid-details-of-officer-snorting-cocaine-after-drug-bust-documents-show-20150323-1m5jf6.html">
+                    <a href="/national/customs-hid-details-of-officer-snorting-cocaine-after-drug-bust-documents-show-20150323-1m5jf6.html" tabindex="0" sl-processed="1">
+                        <span class="num">1</span>
+                    </a>
+                    <a href="/national/customs-hid-details-of-officer-snorting-cocaine-after-drug-bust-documents-show-20150323-1m5jf6.html" title="Customs hid details of officer snorting cocaine after drug bust, documents show">
+                        <img alt="justice" title="" src="/content/dam/images/1/3/r/2/q/t/image.related.thumbnail.90x60.1m5jf6.png/1427151147883.jpg"></a>
+                    <h3>
+                        <a href="/national/customs-hid-details-of-officer-snorting-cocaine-after-drug-bust-documents-show-20150323-1m5jf6.html">Customs hid details of officer snorting cocaine ...</a>
+
+                    </h3>
+                    <div class="article-meta">
+                        <em class="access">Contains:</em>
+                        </div>
+                </article>
+            <article class="article clippingArea clippingAction" data-assetid="d-1m5zb1" data-assettype="ARTICLE" data-asseturl="/national/australian-woman-dies-during-simple-medical-procedure-in-mexico-20150323-1m5zb1.html">
+                    <a href="/national/australian-woman-dies-during-simple-medical-procedure-in-mexico-20150323-1m5zb1.html" tabindex="0" sl-processed="1">
+                        <span class="num">2</span>
+                    </a>
+                    <a href="/national/australian-woman-dies-during-simple-medical-procedure-in-mexico-20150323-1m5zb1.html" title="Australian woman dies during 'simple medical procedure' in Mexico">
+                        <img alt="Minimal risks: Evita Nicole Sarmonikas." title="" src="/content/dam/images/1/m/5/z/n/f/image.related.thumbnail.90x60.1m5zb1.png/1427143249335.jpg"></a>
+                    <h3>
+                        <a href="/national/australian-woman-dies-during-simple-medical-procedure-in-mexico-20150323-1m5zb1.html">Australian woman dies during 'simple medical ...</a>
+
+                    </h3>
+                    <div class="article-meta">
+                        <em class="access">Contains:</em>
+                        </div>
+                </article>
+            <article class="article clippingArea clippingAction" data-assetid="d-1m61xb" data-assettype="ARTICLE" data-asseturl="/national/thredbo-landslide-survivor-stuart-diver-loses-second-wife-rosanna-to-breast-cancer-20150323-1m61xb.html">
+                    <a href="/national/thredbo-landslide-survivor-stuart-diver-loses-second-wife-rosanna-to-breast-cancer-20150323-1m61xb.html" tabindex="0" sl-processed="1">
+                        <span class="num">3</span>
+                    </a>
+                    <a href="/national/thredbo-landslide-survivor-stuart-diver-loses-second-wife-rosanna-to-breast-cancer-20150323-1m61xb.html" title="Thredbo landslide survivor Stuart Diver loses second wife Rosanna to breast cancer">
+                        <img alt="Stuart Diver" title="" src="/content/dam/images/1/m/6/2/0/f/image.related.thumbnail.90x60.1m61xb.png/1427152696664.jpg"></a>
+                    <h3>
+                        <a href="/national/thredbo-landslide-survivor-stuart-diver-loses-second-wife-rosanna-to-breast-cancer-20150323-1m61xb.html">Thredbo landslide survivor Stuart Diver loses ...</a>
+
+                    </h3>
+                    <div class="article-meta">
+                        <em class="access">Contains:</em>
+                        </div>
+                </article>
+            <article class="article clippingArea clippingAction" data-assetid="d-1m5c1j" data-assettype="ARTICLE" data-asseturl="/national/khaled-sharroufs-daughter-14-marries-mohamed-elomar-in-syria-claim-20150322-1m5c1j.html">
+                    <a href="/national/khaled-sharroufs-daughter-14-marries-mohamed-elomar-in-syria-claim-20150322-1m5c1j.html" tabindex="0" sl-processed="1">
+                        <span class="num">4</span>
+                    </a>
+                    <a href="/national/khaled-sharroufs-daughter-14-marries-mohamed-elomar-in-syria-claim-20150322-1m5c1j.html" title="Khaled Sharrouf's daughter, 14, marries Mohamed Elomar in Syria: claim">
+                        </a>
+                    <h3>
+                        <a href="/national/khaled-sharroufs-daughter-14-marries-mohamed-elomar-in-syria-claim-20150322-1m5c1j.html">Khaled Sharrouf's daughter, 14, marries Mohamed ...</a>
+
+                    </h3>
+                    <div class="article-meta">
+                        <em class="access">Contains:</em>
+                        </div>
+                </article>
+            <article class="article clippingArea clippingAction" data-assetid="d-1m566x" data-assettype="ARTICLE" data-asseturl="/national/jake-bilardis-father-says-his-son-was-a-disturbed-child-20150322-1m566x.html">
+                    <a href="/national/jake-bilardis-father-says-his-son-was-a-disturbed-child-20150322-1m566x.html" tabindex="0" sl-processed="1">
+                        <span class="num">5</span>
+                    </a>
+                    <a href="/national/jake-bilardis-father-says-his-son-was-a-disturbed-child-20150322-1m566x.html" title="Jake Bilardi's father says his son was a disturbed child">
+                        <img alt="&quot;I knew there was something not right with his behaviour&quot; John Bilardi." title="" src="/content/dam/images/1/m/5/6/b/v/image.related.thumbnail.90x60.1m566x.png/1427057291344.jpg"></a>
+                    <h3>
+                        <a href="/national/jake-bilardis-father-says-his-son-was-a-disturbed-child-20150322-1m566x.html">Jake Bilardi's father says his son was a ...</a>
+
+                    </h3>
+                    <div class="article-meta">
+                        <em class="access">Contains:</em>
+                        </div>
+                </article>
+            </section>
+    </div>
+<div id="adspot-300x70-pos1" class="ad " style='display:none;'>
+        <script>
+                        titan.requestAd.push("adspot-300x70-pos1");
+                    </script>
+                </div>
+<div class="latestvideo section latestvideo_5e30"><script type="text/javascript">
+        document.addEventListener("DOMContentLoaded",function() {
+            
+    (function() {
+        
+        FD.addVideoPlayer(new FD.VideoPlayer({
+            "adServerUrl": "http://pubads.g.doubleclick.net/gampad/ads?sz=4x1&iu=/6411/vid.smh/news&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&cust_params=channel%3Dnews%26show%3Dnationalnews%26ctype%3Darticle%26source%3DFDP&correlator=90882",
+            "assetId": "6380111",
+            "divId": "video-player-rhs-playlist",
+            
+                "isPlayCountdown": true,
+            
+            "playerId": "video-player-rhs-playlist-player",
+            "playerType": "Article",
+            "postPlay": "Links"
+            
+        }, {
+            
+            "height": 169,
+            
+"playlist": [
+    {
+        
+                "sources": [
+                    
+                        {
+                            "bitrate": "802",
+                            "file": "http://mediadownload.f2.com.au/flash/media/2015/03/24/6380111/6380111_high.mp4"
+                        },
+                        {
+                            "bitrate": "553",
+                            "file": "http://mediadownload.f2.com.au/flash/media/2015/03/24/6380111/6380111_ihigh.mp4"
+                        },
+                        {
+                            "bitrate": "521",
+                            "file": "http://mediadownload.f2.com.au/flash/media/2015/03/24/6380111/6380111_mid.mp4"
+                        },
+                        {
+                            "bitrate": "520",
+                            "file": "http://mediadownload.f2.com.au/flash/media/2015/03/24/6380111/6380111_low.mp4"
+                        },
+                        {
+                            "bitrate": "370",
+                            "file": "http://mediadownload.f2.com.au/flash/media/2015/03/24/6380111/6380111_imid.mp4"
+                        },
+                        {
+                            "bitrate": "199",
+                            "file": "http://mediadownload.f2.com.au/flash/media/2015/03/24/6380111/6380111_ilow.mp4"
+                        }
+                ],
+            
+        "image": "/content/dam/images/1/m/6/9/1/g/image.related.videoThumbnail.300x169.3sqxb.png/1427157853873.jpg",
+        "title": "Too many mental health services? "
+    }
+],
+            "primary": "flash",
+            
+"advertising": {
+    "client": "googima",
+    
+    "tag": "http://pubads.g.doubleclick.net/gampad/ads?sz=4x1&iu=/6411/vid.smh/news&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&cust_params=channel%3Dnews%26show%3Dnationalnews%26ctype%3Darticle%26source%3DFDP&correlator=90882"
+,
+    "companiondiv": {
+        "height": 250,
+        "id": "video-player-companion-ad-mrec",
+        "width": 300
+    }
+},
+
+"timeslidertooltipplugin-2": {},
+            
+            "width": 300
+        }, {
+            "ga": 
+
+{
+    "channel": "news",
+    "duration": "205076",
+    "headline": "Too many mental health services?",
+    "interval": 10000,
+    "referrer": "",
+    "playerType": "Article",
+    "channel": "nationalnews",
+}
+,
+            "nielsen": 
+
+{
+    "brand": "",
+    
+        "c6": "b17",
+    
+    "duration": "205076",
+    "interval": 10000,
+    "ou": "video/news/national-news",
+    "vc": "vc-smh-Video_News-Article-Video_National_News-Unknown-Callum_Denness,_Chris_Hammer,_Paddy_Doulman-6380111-Too_many_mental_health_services?_-00:03:25"
+},
+            "collector": 
+{
+    "system": "",
+    "brand": "",
+    "section": "",
+    "assetId": "6380111",
+    "title": "Too many mental health services? ",
+    "assetType": "Video",
+    "assetUrl": "http://media.smh.com.au/video-news/video-national-news/too-many-mental-health-services-6380111.html",
+    "category": "Video National News",
+    "showName": "nationalnews",
+    "duration": "205076",
+    "videoSource": "FDP",
+    "producer":"Callum Denness, Chris Hammer, Paddy Doulman",
+    "playerType": "Article"
+},
+            "sitecatalyst": 
+{
+    "assetId": "6380111",
+    "assetType": "Video",
+    "assetUrl": "video.url",
+    "brand": "",
+    "category": "Video National News",
+    "channelName": "news",
+    "duration": "205076",
+    "interval": 10000,
+    "producer":"Callum Denness, Chris Hammer, Paddy Doulman",
+    "playerType": "Article",
+    "section": "",
+    "showName": "nationalnews",
+    "system": "",
+    "title": "Too many mental health services? ",
+    "type":"Video",
+    "videoSource": "FDP",
+    "videoType": "Standard"
+}
+        }));
+    })();
+
+        });
+    </script>
+<ul id="cN-tabBox1" class="cN-tabBox cS-latestArticlesVideos">
+    		<li class="tab1  selected">
+        		<h4><a href="javascript:;" sl-processed="1">LATEST VIDEO</a></h4>
+        		<div class="cS-latestVideo">
+    			
+        			<h3>National News Videos <a href="http://media.smh.com.au">More video</a></h3>
+        			<div class="media-video"  id="video-player-rhs-playlist">
+    					<div id="video-player-rhs-playlist-player" class="videoWrap">
+        				</div>
+    					<div class="fdVideoWof accessibleWof">
+    						<h4 itemprop="name" 
+
+
+
+
+
+>Too many mental health services? </h4>
+            				<p itemprop="description" 
+
+
+
+
+
+>Nationals Senator John 'Wacka' Williams has criticised the "scattergun" approach to mental health and believes there may be a case to reduce the number of different services. </p>
+            				<span class="gone" itemprop="duration">PT3M25S</span>
+            				<span class="gone" itemprop="embedUrl"></span>
+            				<span class="gone" itemprop="width">300</span>
+            				<span class="gone" itemprop="height">169</span>
+            				<span class="gone" itemprop="datePublished">Tue Mar 24 00:44:13 UTC 2015</span>
+                        </div><!-- class:fdVideoWof -->
+            			<ul class="span-5">
+            			    
+
+
+
+
+
+
+
+
+
+	
+	
+		<li>
+	
+
+	<a class="play-video" href="http://media.smh.com.au/video-news/video-national-news/polls-up-unity-down-6380502.html" title="Polls up, unity down">
+		<img src="/content/dam/images/3/s/r/8/7/image.related.videoThumbnail.92x52.3sr86.png/1427157596231.jpg" alt="null" width="92" height="52"/>
+		<span class="size-sml">Click to play video</span>
+	</a>
+	<p><a href="http://media.smh.com.au/video-news/video-national-news/polls-up-unity-down-6380502.html">Polls up, unity down" </a></p>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li>
+	
+
+	<a class="play-video" href="http://media.smh.com.au/video-news/video-national-news/poll-bounce-for-the-coalition-6380498.html" title="Poll bounce for the Coalition ">
+		<img src="/content/dam/images/1/m/6/8/q/5/image.related.videoThumbnail.92x52.3sr82.png/1427157274221.jpg" alt="Wacka&amp;Butler" width="92" height="52"/>
+		<span class="size-sml">Click to play video</span>
+	</a>
+	<p><a href="http://media.smh.com.au/video-news/video-national-news/poll-bounce-for-the-coalition-6380498.html">Poll bounce for the Coalition " </a></p>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li>
+	
+
+	<a class="play-video" href="http://media.smh.com.au/video-news/video-qld-news/valley-station-flooding-causes-headaches-6380773.html" title="Valley station flooding causes headaches">
+		<img src="/content/dam/images/3/s/r/f/q/image.related.videoThumbnail.92x52.3srfp.png/1427156791928.jpg" alt="null" width="92" height="52"/>
+		<span class="size-sml">Click to play video</span>
+	</a>
+	<p><a href="http://media.smh.com.au/video-news/video-qld-news/valley-station-flooding-causes-headaches-6380773.html">Valley station flooding causes headaches" </a></p>
+</li>
+
+</ul>
+        			</div><!-- class:media-video -->
+    			</div><!-- cS-latestVideo -->
+            </li>
+    	</ul> 
+
+</div>
+<div class="section"><div class="new *"></div>
+</div><div class="iparys_inherited"><div class="index page base twocolumn-rightrail">
+</div>
+</div>
+</div>
+
+    <div class="ad adSpot-twin cfix">
+        <small>Featured advertisers</small>
+        <div id="adspot-149x170-pos1" class="ad " style='display:none;'>
+        <script>
+                        titan.requestAd.push("adspot-149x170-pos1");
+                    </script>
+                </div>
+<div id="adspot-149x170-pos2" class="ad " style='display:none;'>
+        <script>
+                        titan.requestAd.push("adspot-149x170-pos2");
+                    </script>
+                </div>
+</div>
+
+    <div id="aside-content2">
+        <div class="mozo-olg-widget mozo_olg_widget_8bb3 section"><div id="aside-content2">
+            <h3 class="cN-headerRich headerMozo">Special offers</h3>
+<div style="width:300px;height:163px;">
+    <iframe width="300" scrolling="no" height="150" frameborder="0" class="iframeMozo" src="http://mozo-widgets.f2.com.au/widgets/smh/fm-news">
+        <!-- UI NOTE: Make iframed content accessible: -->
+        <a href="http://mozo-widgets.f2.com.au/widgets/smh/fm-news">View these special deals by Mozo.</a>
+    </iframe>
+<a href="http://mozo.com.au" target="_blank" sl-processed="1"><img src="http://mozo-widgets.f2.com.au/images/mozo-powered-mini.gif" style="border:0;float:right;" width="82" height="13" alt="Credit card, savings and loan rates by Mozo"></a>
+</div>
+<script type="text/javascript">
+    var olgTracking = {
+        provider: "Mozo",
+        productType: "Financial Products",
+        location: "Right"
+    };
+</script><script id='CSCO_GHOST' language='JavaScript'>CSCO_seppuku();CSCO_WebVPN["flush"]();</script>
+<div data-iframe-click-tracking="true" data-iframe-src="http://mozo-widgets.f2.com.au/widgets/smh/fm-news" data-provider="Mozo" ></div>
+
+<script id='CSCO_GHOST'>top.noUrlEntry=true; CSCO_seppuku();</script>
+</div></div>
+<div class="section"><div class="new *"></div>
+</div><div class="iparys_inherited"><div class="index page base twocolumn-rightrail">
+</div>
+</div>
+</div>
+    <div id="adspot-300x250-pos2" class="ad " style='display:none;'>
+        <small>Advertisement</small>
+        <script>
+                        titan.requestAd.push("adspot-300x250-pos2");
+                    </script>
+                </div>
+</div>
+<!-- class:aside span-8 last -->
+<div class="footer span-24" role="contentinfo">
+    <div class="c5 classifieds cfix"></div><!-- class:c5 classifieds cfix -->
+	<div class="index page base twocolumn-rightrail"><div class="c5 classifieds cfix">
+                            <div class="s1 cDomain">
+                            <!-- Campaign ID: 1262094 -->
+                            <h2><a title="Real Estate" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.domain.com.au">Real Estate</a></h2>
+                                        <div class="puff">
+                                                <a href="http://ad.doubleclick.net/ddm/clk/281221992;108022187;a?http://www.domain.com.au/celebrity" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
+    <img src="http://images.smh.com.au/2014/12/23/6114792/Rainbow_michael_clark-172x115.jpg" width="172" alt="Inside Michael Clarke's home"/></a>
+
+                                            <h5><a href="http://ad.doubleclick.net/ddm/clk/281221992;108022187;a?http://www.domain.com.au/celebrity" rel="nofollow" title="insidemichaelclarkeshome" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Inside Michael Clarke's home</a></h5>
+                                        </div><!-- class:puff -->
+                                        <ul><li class="lDomain"><a href="http://www.domain.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Domain.com.au</a></li>
+                                        <li><a href="http://www.domain.com.au?utm_source=mastheads&utm_medium=rainbow&utm_campaign=buy" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Buy real estate</a></li>
+                                        <li><a href="http://www.homepriceguide.com.au/Products/Product.aspx?ProductID=7&utm_source=mastheads&utm_medium=rainbow&utm_campaign=APM-Property-Report" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">How much is my house worth?</a></li>
+                                        <li><a href="http://www.domain.com.au/SignIn.aspx?ReturnUrl=%2fPublic%2fNewsletter.aspx&utm_source=mastheads&utm_medium=rainbow&utm_campaign=newsletter" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">FREE Property Newsletter</a></li>
+                                </ul>
+                        </div><!-- class:s1 cDomain -->
+                        <div class="s2 cSmh">
+                            <!-- Campaign ID: 1204879 -->
+                            <h2><a title="Money" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.smh.com.au">Money</a></h2>
+                                        <div class="puff">
+                                                <a href="http://compare.smh.com.au/home-loans?mpp_tab=1&utm_source=SMH&utm_medium=Rainbow&utm_campaign=HL_trim" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
+    <img src="http://images.smh.com.au/2014/03/07/5241079/Rainbow%20cross-promo%20pointer%20home-loan-trim-172x115.jpg" width="172" alt="Mozo 2014"/></a>
+
+                                            <h5><a href="http://compare.smh.com.au/home-loans?mpp_tab=1&utm_source=SMH&utm_medium=Rainbow&utm_campaign=HL_trim" rel="nofollow" title="trimthousandsoffyourhomeloan" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Trim thousands off your home loan</a></h5>
+                                        </div><!-- class:puff -->
+                                        <ul><li class="lSmh"><a href="http://www.smh.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Smh.com.au</a></li>
+                                        <li><a href="http://compare.theage.com.au/savings-accounts" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Compare All Saving Accounts </a></li>
+                                        <li><a href="http://compare.smh.com.au/credit-cards" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Compare All Credit Cards </a></li>
+                                        <li><a href="http://compare.smh.com.au/home-loans" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Compare All Home Loans</a></li>
+                                </ul>
+                        </div><!-- class:s2 cSmh -->
+                        <div class="s3 cSmh">
+                            <!-- Campaign ID: 1262412 -->
+                            <h2><a title="Video" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.smh.com.au">Video</a></h2>
+                                        <div class="puff">
+                                                <a href="http://media.smh.com.au/executive-style/executive-style-special/australia-stops-without-tugboats-5799306.html" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
+    <img src="http://images.smh.com.au/2014/09/23/5802874/rb-tugboat1-172x115.jpg" width="172" alt="Tugboat"/></a>
+
+                                            <h5><a href="http://media.smh.com.au/executive-style/executive-style-special/australia-stops-without-tugboats-5799306.html" rel="nofollow" title="australiastopswithouttugboats" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Australia stops without tugboats</a></h5>
+                                        </div><!-- class:puff -->
+                                        <ul><li class="lSmh"><a href="http://www.smh.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Smh.com.au</a></li>
+                                        <li><a href="http://media.smh.com.au/entertainment/red-carpet" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Entertainment and Red Carpet</a></li>
+                                        <li><a href="http://media.smh.com.au/sport/sports-hq" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Latest Sports videos</a></li>
+                                        <li><a href="http://media.f2.com.au/?rid=72697" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">This little piggy buys a home</a></li>
+                                </ul>
+                        </div><!-- class:s3 cSmh -->
+                        <div class="s4 cStayz">
+                            <!-- Campaign ID: 1262354 -->
+                            <h2><a title="Holiday Rentals" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.stayz.com.au">Holiday Rentals</a></h2>
+                                        <div class="puff">
+                                                <a href="http://www.stayz.com.au?utm_source=ffx&utm_medium=rainbow&utm_campaign=Sapphire7305" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
+    <img src="http://images.smh.com.au/2014/12/02/6050579/7305_Sapphire-172x115.jpg" width="172" alt="Sapphire Seas Beach House"/></a>
+
+                                            <h5><a href="http://www.stayz.com.au?utm_source=ffx&utm_medium=rainbow&utm_campaign=Sapphire7305" rel="nofollow" title="over40,000amazingholidayhomesacrossaustralia" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Over 40,000 amazing holiday homes across Australia</a></h5>
+                                        </div><!-- class:puff -->
+                                        <ul><li class="lStayz"><a href="http://www.stayz.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Stayz.com.au</a></li>
+                                        <li><a href="http://www.stayz.com.au/accommodation/nsw/sydney?utm_source=ffx&utm_medium=rainbow&utm_campaign" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Sydney holiday homes</a></li>
+                                        <li><a href="http://www.stayz.com.au/accommodation/vic/melbourne?utm_source=ffx&utm_medium=rainbow&utm_campaign" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Melbourne holiday homes</a></li>
+                                        <li><a href="http://www.stayz.com.au/accommodation/qld/gold-coast?utm_source=ffx&utm_medium=rainbow&utm_campaign" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Gold Coast holiday homes</a></li>
+                                </ul>
+                        </div><!-- class:s4 cStayz -->
+                        <div class="s5 cSmh">
+                            <!-- Campaign ID: 1262386 -->
+                            <h2><a title="Horse Racing" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip" href="http://www.smh.com.au">Horse Racing</a></h2>
+                                        <div class="puff">
+                                                <a href="http://wizardofodds.smh.com.au" rel="nofollow" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">
+    <img src="http://images.smh.com.au/2014/12/24/6117543/WizardOfOdds_banner_172x115-172x115.jpg" width="172" alt="WizardOfOdds_banner_172x115"/></a>
+
+                                            <h5><a href="http://wizardofodds.smh.com.au" rel="nofollow" title="theultimatehorseracingformguide" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">The Ultimate Horse Racing Form Guide</a></h5>
+                                        </div><!-- class:puff -->
+                                        <ul><li class="lSmh"><a href="http://www.smh.com.au" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Smh.com.au</a></li>
+                                        <li><a href="http://smh.com.au/sport/horseracing" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Horse Racing News</a></li>
+                                        <li><a href="http://smh.com.au/sport" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Latest Sport News</a></li>
+                                        <li><a href="http://smh.com.au/cricket" class="trackingClick" data-tracking-types="ga" data-tracking-stop-event="true" data-ga-action="RainbowStrip Click" data-ga-category="RainbowStrip">Cricket News</a></li>
+                                </ul>
+                        </div><!-- class:s5 cSmh -->
+</div><!-- class:c5 classifieds cfix -->
+
+</div>
+<div class="compare-and-save"><div class="affiliateTabsInitParams" selectedTab="1" selectedTitle="" style="visibility:hidden"></div><!-- class:affiliateTabsInitParams -->
+
+<div class="fN-affiliateStrip">
+    <h2>Compare and Save</h2>
+    <div class="cN-tabPages affiliateStrip cfix">
+        <p class="access">Skip to:</p>
+        <ul class="nav" role="navigation">
+            <li class="tab-1 selected"><a id="link-tab-1" data-remote="true" data-remote-url="/national/jcr:content/compare-and-save.compare-and-save-tab.1.html" href="#tab-1">Best Deals</a></li>
+                    <li class="tab-2"><a id="link-tab-2" data-remote="true" data-remote-url="/national/jcr:content/compare-and-save.compare-and-save-tab.2.html" href="#tab-2">Mobile</a></li>
+                    <li class="tab-3"><a id="link-tab-3" data-remote="true" data-remote-url="/national/jcr:content/compare-and-save.compare-and-save-tab.3.html" href="#tab-3">Broadband</a></li>
+                    <li class="tab-4"><a id="link-tab-4" data-remote="true" data-remote-url="/national/jcr:content/compare-and-save.compare-and-save-tab.4.html" href="#tab-4">Home Loans</a></li>
+                    <li class="tab-5"><a id="link-tab-5" data-remote="true" data-remote-url="/national/jcr:content/compare-and-save.compare-and-save-tab.5.html" href="#tab-5">Credit Cards</a></li>
+                    <li class="tab-6"><a id="link-tab-6" data-remote="true" data-remote-url="/national/jcr:content/compare-and-save.compare-and-save-tab.6.html" href="#tab-6">Low Rate Cards</a></li>
+                    <li class="tab-7"><a id="link-tab-7" data-remote="true" data-remote-url="/national/jcr:content/compare-and-save.compare-and-save-tab.7.html" href="#tab-7">Rewards Cards</a></li>
+                    <li class="tab-8"><a id="link-tab-8" data-remote="true" data-remote-url="/national/jcr:content/compare-and-save.compare-and-save-tab.8.html" href="#tab-8">Savings Accts</a></li>
+                    <li class="tab-9"><a id="link-tab-9" data-remote="true" data-remote-url="/national/jcr:content/compare-and-save.compare-and-save-tab.9.html" href="#tab-9">Money Deals</a></li>
+                    <li class="tab-10 last"><a id="link-tab-10" data-remote="true" data-remote-url="/national/jcr:content/compare-and-save.compare-and-save-tab.10.html" href="#tab-10">Loans</a></li>
+                    </ul>
+
+        <div id="tab-1" class="tab selected cfix" aria-live="polite">
+                <h3>Check out today's best deals</h3>
+<div class="one">
+        <h3><a href="http://compare.smh.com.au/credit-cards?utm_source=CS_front&utm_medium=CnS&utm_campaign=CC_woolworths" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="1" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">$0 Annual Fee!</a></h3>
+        <a href="http://compare.smh.com.au/credit-cards?utm_source=CS_front&utm_medium=CnS&utm_campaign=CC_woolworths" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="1" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save"><img src="/content/ffx/compare-save-cache/image/cc-woolworths-money.png" width="60" height="50"/></a>
+        <p><a href="http://compare.smh.com.au/credit-cards?utm_source=CS_front&utm_medium=CnS&utm_campaign=CC_woolworths" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="1" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">In first year + $10 off orders over $100. T&Cs apply</a></p>
+        <span></span>
+        <p class="links"><a href="http://compare.smh.com.au/credit-cards?utm_source=CS_front&utm_medium=CnS&utm_campaign=CC_woolworths" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="1" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Find Out More</a></p>
+    </div>
+<div class="two">
+        <h3><a href="http://compare.smh.com.au/home-loans?utm_source=CS_front&utm_medium=CnS&utm_campaign=HL_ubank" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="2" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Low Rate Home Loan</a></h3>
+        <a href="http://compare.smh.com.au/home-loans?utm_source=CS_front&utm_medium=CnS&utm_campaign=HL_ubank" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="2" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save"><img src="/content/ffx/compare-save-cache/image/hl-loans-425.png" width="60" height="50"/></a>
+        <p><a href="http://compare.smh.com.au/home-loans?utm_source=CS_front&utm_medium=CnS&utm_campaign=HL_ubank" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="2" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Low variable rate + no monthly fees</a></p>
+        <span></span>
+        <p class="links"><a href="http://compare.smh.com.au/home-loans?utm_source=CS_front&utm_medium=CnS&utm_campaign=HL_ubank" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="2" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">More Info</a></p>
+    </div>
+<div class="three">
+        <h3><a href="http://compare.smh.com.au/credit-cards?utm_source=CS_front&utm_medium=CnS&utm_campaign=CC_stgeorge&mpp_tab=3" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="3" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">0% p.a. for 18 Months</a></h3>
+        <a href="http://compare.smh.com.au/credit-cards?utm_source=CS_front&utm_medium=CnS&utm_campaign=CC_stgeorge&mpp_tab=3" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="3" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save"><img src="/content/ffx/compare-save-cache/image/stgeorge-cc.png" width="60" height="50"/></a>
+        <p><a href="http://compare.smh.com.au/credit-cards?utm_source=CS_front&utm_medium=CnS&utm_campaign=CC_stgeorge&mpp_tab=3" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="3" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">On balance transfers + low annual fee </a></p>
+        <span></span>
+        <p class="links"><a href="http://compare.smh.com.au/credit-cards?utm_source=CS_front&utm_medium=CnS&utm_campaign=CC_stgeorge&mpp_tab=3" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="3" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Find Out More</a></p>
+    </div>
+<div class="four">
+        <h3><a href="http://mobile-phones.smh.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Love_Mobile_Data%3f" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Love Mobile Data?</a></h3>
+        <a href="http://mobile-phones.smh.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Love_Mobile_Data%3f" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save"><img src="/content/ffx/compare-save-cache/image/virgin_160x70_0315_left_a.jpg" width="60" height="50"/></a>
+        <p><a href="http://mobile-phones.smh.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Love_Mobile_Data%3f" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">New features from telcos let you keep unused data</a></p>
+        <span></span>
+        <p class="links"><a href="http://mobile-phones.smh.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Love_Mobile_Data%3f" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="4" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Compare Deals</a></p>
+    </div>
+<div class="five">
+        <h3><a href="http://mobile-phones.smh.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Keep_it_Longer!" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Keep it Longer!</a></h3>
+        <a href="http://mobile-phones.smh.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Keep_it_Longer!" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save"><img src="/content/ffx/compare-save-cache/image/virgin_160x70_0315_right_a.jpg" width="60" height="50"/></a>
+        <p><a href="http://mobile-phones.smh.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Keep_it_Longer!" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">With data rolling over into the next month for your use. </a></p>
+        <span></span>
+        <p class="links"><a href="http://mobile-phones.smh.com.au/MobilePhones/virgin-mobile-data-rollover?utm_source=Widget_Fairfax_SMH_CompareAndSave&utm_medium=Widget&utm_campaign=Keep_it_Longer!" class="trackingClick" data-tracking-types="ga,s" data-tracking-stop-event="true" data-ga-action="" data-ga-category="CompareSave" data-ga-label="5" data-sc='{"events":"event22","eVar22":"s.prop1-s.prop2-Various--bottom"}' data-sc-tl="compare_and_save">Compare Deals</a></p>
+    </div>
+</div>
+    <div id="tab-2" class="tab cfix" aria-live="polite">
+                </div>
+    <div id="tab-3" class="tab cfix" aria-live="polite">
+                </div>
+    <div id="tab-4" class="tab cfix" aria-live="polite">
+                </div>
+    <div id="tab-5" class="tab cfix" aria-live="polite">
+                </div>
+    <div id="tab-6" class="tab cfix" aria-live="polite">
+                </div>
+    <div id="tab-7" class="tab cfix" aria-live="polite">
+                </div>
+    <div id="tab-8" class="tab cfix" aria-live="polite">
+                </div>
+    <div id="tab-9" class="tab cfix" aria-live="polite">
+                </div>
+    <div id="tab-10" class="tab cfix" aria-live="polite">
+                </div>
+    </div>
+</div></div>
+<div class="most-viewed"><div class="c5 top5 cfix">
+    <h2 class="cfix">Readers' most viewed</h2>
+    <div class="s1 lBT">
+            <a href="http://www.brisbanetimes.com.au">Most viewed articles on Brisbane Times</a><h5>Top 5 <a href="http://www.brisbanetimes.com.au/national">National</a> articles</h5>
+            <ol>
+                <li>
+                        <a href="http://www.brisbanetimes.com.au/national/friends-pay-tribute-to-evita-sarmonikas-who-died-after-surgery-in-mexico-20150323-1m658a.html" title="Friends pay tribute to Evita Sarmonikas, who died after surgery in Mexico" style="">Friends pay tribute to Evita Sarmonikas, who died after surgery in Mexico</a>
+                    </li>
+                <li>
+                        <a href="http://www.brisbanetimes.com.au/national/australian-woman-dies-during-simple-medical-procedure-in-mexico-20150323-1m5zb1.html" title="Australian woman dies during 'simple medical procedure' in Mexico" style="">Australian woman dies during 'simple medical procedure' in Mexico</a>
+                    </li>
+                <li>
+                        <a href="http://www.brisbanetimes.com.au/national/qantas-bans-student-who-stood-up-for-what-she-believed-in-20150306-13xosl.html" title="Qantas bans student who stood up for what she believed in" style="">Qantas bans student who stood up for what she believed in</a>
+                    </li>
+                <li>
+                        <a href="http://www.brisbanetimes.com.au/national/customs-hid-details-of-officer-snorting-cocaine-after-drug-bust-documents-show-20150323-1m5jf6.html" title="Customs hid details of officer snorting cocaine after drug bust, documents show" style="">Customs hid details of officer snorting cocaine after drug bust, documents show</a>
+                    </li>
+                <li>
+                        <a href="http://www.brisbanetimes.com.au/national/thredbo-landslide-survivor-stuart-diver-loses-second-wife-rosanna-to-breast-cancer-20150323-1m61xb.html" title="Thredbo landslide survivor Stuart Diver loses second wife Rosanna to breast cancer" style="">Thredbo landslide survivor Stuart Diver loses second wife Rosanna to breast cancer</a>
+                    </li>
+                </ol>
+        </div>
+    <div class="s2 lWAToday">
+            <a href="http://www.watoday.com.au">Most viewed articles on WA Today</a><h5>Top 5 <a href="http://www.watoday.com.au/national">National</a> articles</h5>
+            <ol>
+                <li>
+                        <a href="http://www.watoday.com.au/national/thredbo-landslide-survivor-stuart-diver-loses-second-wife-rosanna-to-breast-cancer-20150323-1m61xb.html" title="Thredbo landslide survivor Stuart Diver loses second wife Rosanna to breast cancer" style="">Thredbo landslide survivor Stuart Diver loses second wife Rosanna to breast cancer</a>
+                    </li>
+                <li>
+                        <a href="http://www.watoday.com.au/national/what-really-happened-when-asylum-seekers-boat-exploded-20090423-ah3k.html" title="What really happened when asylum seekers' boat exploded" style="">What really happened when asylum seekers' boat exploded</a>
+                    </li>
+                <li>
+                        <a href="http://www.watoday.com.au/national/australian-woman-dies-during-simple-medical-procedure-in-mexico-20150323-1m5zb1.html" title="Australian woman dies during 'simple medical procedure' in Mexico" style="">Australian woman dies during 'simple medical procedure' in Mexico</a>
+                    </li>
+                <li>
+                        <a href="http://www.watoday.com.au/national/best-man-ridden-like-dog-by-stripper-20080908-4chy.html" title="Best man 'ridden like dog' by stripper" style="">Best man 'ridden like dog' by stripper</a>
+                    </li>
+                <li>
+                        <a href="http://www.watoday.com.au/national/friends-pay-tribute-to-evita-sarmonikas-who-died-after-surgery-in-mexico-20150323-1m658a.html" title="Friends pay tribute to Evita Sarmonikas, who died after surgery in Mexico" style="">Friends pay tribute to Evita Sarmonikas, who died after surgery in Mexico</a>
+                    </li>
+                </ol>
+        </div>
+    <div class="s3 lAge">
+            <a href="http://www.theage.com.au">Most viewed articles on The Age</a><h5>Top 5 <a href="http://www.theage.com.au/national">National</a> articles</h5>
+            <ol>
+                <li>
+                        <a href="http://www.theage.com.au/national/thredbo-landslide-survivor-stuart-diver-loses-second-wife-rosanna-to-breast-cancer-20150323-1m61xb.html" title="Thredbo landslide survivor Stuart Diver loses second wife Rosanna to breast cancer" style="">Thredbo landslide survivor Stuart Diver loses second wife Rosanna to breast cancer</a>
+                    </li>
+                <li>
+                        <a href="http://www.theage.com.au/national/friends-pay-tribute-to-evita-sarmonikas-who-died-after-surgery-in-mexico-20150323-1m658a.html" title="Friends pay tribute to Evita Sarmonikas, who died after surgery in Mexico" style="">Friends pay tribute to Evita Sarmonikas, who died after surgery in Mexico</a>
+                    </li>
+                <li>
+                        <a href="http://www.theage.com.au/national/australian-woman-dies-during-simple-medical-procedure-in-mexico-20150323-1m5zb1.html" title="Australian woman dies during 'simple medical procedure' in Mexico" style="">Australian woman dies during 'simple medical procedure' in Mexico</a>
+                    </li>
+                <li>
+                        <a href="http://www.theage.com.au/national/health/exit-international-members-death-prompts-victoria-police-to-suspect-assisted-suicide-20150323-1m5u5s.html" title="Exit International member's death prompts Victoria police to suspect assisted suicide" style="">Exit International member's death prompts Victoria police to suspect assisted suicide</a>
+                    </li>
+                <li>
+                        <a href="http://www.theage.com.au/national/judy-moran-arrested-over-des-moran-shooting-20090616-cf93.html" title="Judy Moran arrested over Des Moran shooting " style="">Judy Moran arrested over Des Moran shooting </a>
+                    </li>
+                </ol>
+        </div>
+    <div class="s4 lCanberratimes">
+            <a href="http://www.canberratimes.com.au">Most viewed articles on Canberra Times</a><h5>Top 5 <a href="http://www.canberratimes.com.au/national">National</a> articles</h5>
+            <ol>
+                <li>
+                        <a href="http://www.canberratimes.com.au/national/thredbo-landslide-survivor-stuart-diver-loses-second-wife-rosanna-to-breast-cancer-20150323-1m61xb.html" title="Thredbo landslide survivor Stuart Diver loses second wife Rosanna to breast cancer" style="">Thredbo landslide survivor Stuart Diver loses second wife Rosanna to breast cancer</a>
+                    </li>
+                <li>
+                        <a href="http://www.canberratimes.com.au/national/public-service/public-service-strikes-at-agriculture-department-bureau-of-meteorology-looming-20150323-1m5dml.html" title="Public service strikes at Agriculture Department, Bureau of Meteorology looming " style="">Public service strikes at Agriculture Department, Bureau of Meteorology looming </a>
+                    </li>
+                <li>
+                        <a href="http://www.canberratimes.com.au/national/customs-hid-details-of-officer-snorting-cocaine-after-drug-bust-documents-show-20150323-1m5jf6.html" title="Customs hid details of officer snorting cocaine after drug bust, documents show" style="">Customs hid details of officer snorting cocaine after drug bust, documents show</a>
+                    </li>
+                <li>
+                        <a href="http://www.canberratimes.com.au/national/public-service/public-service-contractors-catch22-welcome-to-the-security-clearance-roundabout-20150322-13z7eq.html" title="Public service contractors' catch-22: Welcome to the security clearance roundabout" style="">Public service contractors' catch-22: Welcome to the security clearance roundabout</a>
+                    </li>
+                <li>
+                        <a href="http://www.canberratimes.com.au/national/public-service/public-service-not-buying-government-assurances-that-superannuation-is-safe-20150322-1m0u2e.html" title="Public service not buying government assurances that superannuation is safe" style="">Public service not buying government assurances that superannuation is safe</a>
+                    </li>
+                </ol>
+        </div>
+    <div class="s5 lSmh">
+            <a href="http://www.smh.com.au">Most viewed articles on The Sydney Morning Herald</a><h5>Top 5 <a href="http://www.smh.com.au/national">National</a> articles</h5>
+            <ol>
+                <li>
+                        <a href="http://www.smh.com.au/national/thredbo-landslide-survivor-stuart-diver-loses-second-wife-rosanna-to-breast-cancer-20150323-1m61xb.html" title="Thredbo landslide survivor Stuart Diver loses second wife Rosanna to breast cancer" style="">Thredbo landslide survivor Stuart Diver loses second wife Rosanna to breast cancer</a>
+                    </li>
+                <li>
+                        <a href="http://www.smh.com.au/national/friends-pay-tribute-to-evita-sarmonikas-who-died-after-surgery-in-mexico-20150323-1m658a.html" title="Friends pay tribute to Evita Sarmonikas, who died after surgery in Mexico" style="">Friends pay tribute to Evita Sarmonikas, who died after surgery in Mexico</a>
+                    </li>
+                <li>
+                        <a href="http://www.smh.com.au/national/customs-hid-details-of-officer-snorting-cocaine-after-drug-bust-documents-show-20150323-1m5jf6.html" title="Customs hid details of officer snorting cocaine after drug bust, documents show" style="">Customs hid details of officer snorting cocaine after drug bust, documents show</a>
+                    </li>
+                <li>
+                        <a href="http://www.smh.com.au/national/australian-woman-dies-during-simple-medical-procedure-in-mexico-20150323-1m5zb1.html" title="Australian woman dies during 'simple medical procedure' in Mexico" style="">Australian woman dies during 'simple medical procedure' in Mexico</a>
+                    </li>
+                <li>
+                        <a href="http://www.smh.com.au/national/khaled-sharroufs-daughter-14-marries-mohamed-elomar-in-syria-claim-20150323-1m5c1j.html" title="Khaled Sharrouf's daughter, 14, marries Mohamed Elomar in Syria: claim" style="">Khaled Sharrouf's daughter, 14, marries Mohamed Elomar in Syria: claim</a>
+                    </li>
+                </ol>
+        </div>
+    </div></div>
+<div id="adspot-728x90-pos2" class="ad " style='display:none;'>
+        <script>
+                        titan.requestAd.push("adspot-728x90-pos2");
+                    </script>
+                </div>
+<div class="links links_28bb section"><ul class="fSectionLinks cfix">
+    <li>
+                    <a href="http://www.smh.com.au/" title="SMH Home">SMH Home</a>
+                </li>
+            <li>
+                    <a href="http://www.smh.com.au/nsw" title="NSW">NSW</a>
+                </li>
+            <li>
+                    <a href="http://www.smh.com.au/opinion" title="Politics">Politics</a>
+                </li>
+            <li>
+                    <a href="http://www.smh.com.au/world" title="World">World</a>
+                </li>
+            <li>
+                    <a href="http://www.smh.com.au/national" title="National">National</a>
+                </li>
+            <li>
+                    <a href="http://www.smh.com.au/environment" title="Environment">Environment</a>
+                </li>
+            <li>
+                    <a href="http://www.smh.com.au/business" title="Business">Business</a>
+                </li>
+            <li>
+                    <a href="http://www.smh.com.au/digital-life" title="Digital Life">Digital Life</a>
+                </li>
+            <li>
+                    <a href="http://www.smh.com.au/entertainment/" title="Entertainment">Entertainment</a>
+                </li>
+            <li>
+                    <a href="http://www.smh.com.au/lifestyle" title="Life & Style">Life & Style</a>
+                </li>
+            <li>
+                    <a href="http://www.smh.com.au/travel" title="Travel">Travel</a>
+                </li>
+            <li>
+                    <a href="http://www.smh.com.au/drive" title="Cars">Cars</a>
+                </li>
+            <li>
+                    <a href="http://www.smh.com.au/executive-style" title="Exec Style">Exec Style</a>
+                </li>
+            <li>
+                    <a href="http://www.smh.com.au/sport" title="Sport">Sport</a>
+                </li>
+            <li class="last">
+                    <a href="http://weather.smh.com.au/local.jsp" title="Weather">Weather</a>
+                </li>
+            </ul>
+<div class="fMastheadLinks cfix">
+    <ul class="span-4 cfix">
+            <li class="first">
+                <h5>Sydney Morning Herald</h5>
+            </li>
+            <div class="columnlink links-column"><li>
+        <a href="http://www.smh.com.au/siteguide/" title="Sitemap">Sitemap</a>
+    </li>
+<li>
+        <a href="http://www.smh.com.au/aboutsmh/index.html" title="About Us">About Us</a>
+    </li>
+<li>
+        <a href="http://www.smh.com.au/support/" title="Contact Us">Contact Us</a>
+    </li>
+<li>
+        <a href="http://adcentre.com.au/brands/the-sydney-morning-herald/" title="Advertise with Us">Advertise with Us</a>
+    </li>
+<li>
+        <a href="http://www.smh.com.au/am/" title="AM Today">AM Today</a>
+    </li>
+<li>
+        <a href="http://www.smh.com.au/newsstore/index.html" title="Last 8 days">Last 8 days</a>
+    </li>
+<li>
+        <a href="http://www.smh.com.au/text/" title="Text Version">Text Version</a>
+    </li>
+<li>
+        <a href="http://www.smh.com.au/siteguide/accessibility" title="Site Accessibility Guide">Site Accessibility Guide</a>
+    </li>
+</div>
+</ul>
+    <ul class="span-4 cfix">
+            <li class="first">
+                <h5>Connect</h5>
+            </li>
+            <div class="columnlink links-column"><li>
+        <a href="http://m.smh.com.au/" title="Mobile Site">Mobile Site</a>
+    </li>
+<li>
+        <a href="http://www.smh.com.au/interactive/ipad-app-landing/" title="SMH for iPad">SMH for iPad</a>
+    </li>
+<li>
+        <a href="http://www.smh.com.au/digitaledition" title="Digital Edition">Digital Edition</a>
+    </li>
+<li>
+        <a href="http://www.smh.com.au/rssheadlines" title="RSS">RSS</a>
+    </li>
+<li>
+        <a href="http://www.facebook.com/sydneymorningherald" title="Facebook">Facebook</a>
+    </li>
+<li>
+        <a href="https://twitter.com/#!/smh" title="Twitter">Twitter</a>
+    </li>
+<li>
+        <a href="http://www.linkedin.com/today/smh.com.au" title="LinkedIn">LinkedIn</a>
+    </li>
+</div>
+</ul>
+    <ul class="span-4 cfix">
+            <li class="first">
+                <h5>Products & Services</h5>
+            </li>
+            <div class="columnlink links-column"><li>
+        <a href="https://subscriptions.fairfax.com.au/Campaigns/Campaign.aspx?cid=55&src=INTERNET&s_cid=default&pub=SMH&subsrc=" title="Subscribe">Subscribe</a>
+    </li>
+<li>
+        <a href="https://subscriptions.fairfax.com.au/landing/SMH/smh_subscriptions.aspx" title="Manage My Subscription">Manage My Subscription</a>
+    </li>
+<li>
+        <a href="http://smh.fairfaxbenefits.com.au/" title="My Benefits">My Benefits</a>
+    </li>
+<li>
+        <a href="http://www.goodfood.com.au/" title="Good Food Guide">Good Food Guide</a>
+    </li>
+<li>
+        <a href="http://www.smhshop.com.au/" title="SMH Shop">SMH Shop</a>
+    </li>
+<li>
+        <a href="https://membercentre.fairfax.com.au/NewsletterSubscription.aspx" title="Newsletters">Newsletters</a>
+    </li>
+<li>
+        <a href="http://www.crackawines.com.au/" title="Cracka Wines">Cracka Wines</a>
+    </li>
+</div>
+</ul>
+    <ul class="span-4 cfix">
+            <li class="first">
+                <h5>Classifieds</h5>
+            </li>
+            <div class="columnlink links-column"><li>
+        <a href="http://www.advertisers.com.au/" title="Place an Ad">Place an Ad</a>
+    </li>
+<li>
+        <a href="http://www.stayz.com.au/" title="Accommodation">Accommodation</a>
+    </li>
+<li>
+        <a href="http://www.drive.com.au/" title="Cars">Cars</a>
+    </li>
+<li>
+        <a href="http://www.rsvp.com.au/" title="Dating">Dating</a>
+    </li>
+<li>
+        <a href="http://www.adzuna.com.au/" title="Jobs">Jobs</a>
+    </li>
+<li>
+        <a href="http://apm.com.au/" title="Property Price Data">Property Price Data</a>
+    </li>
+<li>
+        <a href="http://www.domain.com.au/" title="Real Estate">Real Estate</a>
+    </li>
+<li>
+        <a href="http://www.buyandsell.com.au/?utm_source=SMH&utm_medium=HomeFooterLink&utm_campaign=Buy%2Band%2BSell" title="Buy and Sell">Buy and Sell</a>
+    </li>
+<li>
+        <a href="http://tributes.smh.com.au/obituaries/smh-au/?utm_source=SMH&utm_medium=Homefooterlink&utm_campaign=SMH%2BTributes" title="Tributes">Tributes</a>
+    </li>
+<li>
+        <a href="http://celebrations.smh.com.au/celebration/smh-au/?utm_source=SMH&utm_medium=HomeFooter&utm_campaign=SMH%2BCelebrations" title="Celebrations">Celebrations</a>
+    </li>
+<li>
+        <a href="http://www.smhfeatures.com.au/" title="Special Reports">Special Reports</a>
+    </li>
+</div>
+</ul>
+    <ul class="span-4 cfix">
+            <li class="first">
+                <h5>Fairfax Media</h5>
+            </li>
+            <div class="columnlink links-column"><li>
+        <a href="https://membercentre.fairfax.com.au/" title="Member Centre">Member Centre</a>
+    </li>
+<li>
+        <a href="http://www.fairfax.com.au/conditions" title="Conditions of Use">Conditions of Use</a>
+    </li>
+<li>
+        <a href="http://www.fairfax.com.au/privacy" title="Privacy Policy">Privacy Policy</a>
+    </li>
+<li>
+        <a href="http://newsstore.fairfax.com.au/apps/newsSearch.ac?sy=nstore" title="News Store Archive">News Store Archive</a>
+    </li>
+<li>
+        <a href="http://www.fairfaxsyndication.com/" title="Photo Sales">Photo Sales</a>
+    </li>
+<li>
+        <a href="http://consumer.fairfaxsyndication.com/C.aspx?VP3=ViewBox_VPage&ALID=2ITHRGMNCNCN&CT=Album" title="Purchase Front Pages">Purchase Front Pages</a>
+    </li>
+<li>
+        <a href="http://www.fairfaxsyndication.com/" title="Fairfax Syndication">Fairfax Syndication</a>
+    </li>
+<li>
+        <a href="http://www.fairfaxevents.com.au/" title="Fairfax Events">Fairfax Events</a>
+    </li>
+<li>
+        <a href="http://careers.fairfax.com.au/home.asp" title="Fairfax Careers">Fairfax Careers</a>
+    </li>
+<li>
+        <a href="http://www.presscouncil.org.au/what-we-do/" title="Press Council">Press Council</a>
+    </li>
+</div>
+</ul>
+    </div><!-- class:fMastheadLinks cfix -->
+<div class="Kampyle" data-kampyleformid="43595" data-kampylesitecode="9067101">
+    <a id="kampylink" class="k_static" style="" href="http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=9067101&amp;lang=en&amp;form_id=43595" target="kampyleWindow">
+        <img src="http://resources.smh.com.au/smh/media-common-1.0/images/feedback-button.gif" alt="Feedback Form" style="border:0">
+    </a>
+</div><!-- class:Kampyle --></div>
+<div class="section"><div class="new *"></div>
+</div><div class="iparys_inherited"><div class="index page base twocolumn-rightrail"></div>
+</div>
+<div class="banner"><div class="nN-footerLinks">
+    <a href="http://www.fairfaxdigital.com.au" class="logo">Fairfax Media</a>
+    <div>
+        <h3>Our Sites</h3>
+            <ul>
+	<li class="first">
+		    		<a title="The Sydney Morning Herald" href="http://www.smh.com.au/">The Sydney Morning Herald</a>
+		        </li>
+	        <li>
+	    			<a title="The Age" href="http://www.theage.com.au/">The Age</a>
+	        	</li>
+			<li>
+	    			<a title="Adzuna" href="http://www.adzuna.com.au/">Adzuna</a>
+	        	</li>
+			<li>
+	    			<a title="Domain" href="http://www.domain.com.au/">Domain</a>
+	        	</li>
+			<li>
+	    			<a title="Drive" href="http://www.drive.com.au/">Drive</a>
+	        	</li>
+			<li>
+	    			<a title="RSVP" href="http://www.rsvp.com.au/">RSVP</a>
+	        	</li>
+			<li>
+	    			<a title="Essential Baby" href="http://www.essentialbaby.com.au/">Essential Baby</a>
+	        	</li>
+			<li>
+	    			<a title="InvestSMART" href="http://www.investsmart.com.au/">InvestSMART</a>
+	        	</li>
+			<li>
+	    			<a title="APM" href="http://apm.com.au/">APM</a>
+	        	</li>
+			<li>
+	    			<a title="Stayz" href="http://www.stayz.com.au/">Stayz</a>
+	        	</li>
+			<li>
+	    			<a title="Weatherzone" href="http://www.weatherzone.com.au/">Weatherzone</a>
+	        	</li>
+			<li>
+	    			<a title="TheVine" href="http://www.thevine.com.au/#utm_source=FD&utm_medium=mastheadpuff&utm_campaign=thevineheader">TheVine</a>
+	        	</li>
+			</ul><h3>Our Partners</h3>
+            <ul>
+	<li class="first">
+		    		<a title="Buy & Sell" href="http://www.buyandsell.com.au/">Buy & Sell</a>
+		        </li>
+	        <li>
+	    			<a title="Cruises" href="http://www.cruises.com.au/">Cruises</a>
+	        	</li>
+			<li>
+	    			<a title="Lawyers" href="http://www.lawyers.com.au/">Lawyers</a>
+	        	</li>
+			<li>
+	    			<a title="Credit Cards" href="http://www.creditcards.com.au/">Credit Cards</a>
+	        	</li>
+			<li>
+	    			<a title="Business" href="http://www.business.com.au/">Business</a>
+	        	</li>
+			<li>
+	    			<a title="Mechanics" href="http://www.mechanics.com.au/">Mechanics</a>
+	        	</li>
+			<li>
+	    			<a title="Electricians" href="http://www.electrician.com.au/">Electricians</a>
+	        	</li>
+			<li>
+	    			<a title="Fitness" href="http://www.fitness.com.au/">Fitness</a>
+	        	</li>
+			<li>
+	    			<a title="Hair Salons" href="http://www.hairsalon.com.au/">Hair Salons</a>
+	        	</li>
+			<li>
+	    			<a title="Weddings" href="http://www.wedding.com.au/">Weddings</a>
+	        	</li>
+			<li>
+	    			<a title="Home Builder" href="http://www.homebuilders.com.au/">Home Builder</a>
+	        	</li>
+			<li>
+	    			<a title="Cracker" href="http://cracker.com.au/">Cracker</a>
+	        	</li>
+			</ul></div>
+    <cite>Copyright &#169; 2015 Fairfax Media</cite>
+</div><!-- class:nN-footerLinks --></div>
+<div id="adspot-1x11-pos1" class="ad " style='display:none;'>
+        <script>
+                        titan.requestAd.push("adspot-1x11-pos1");
+                    </script>
+                </div>
+</div><!-- End fN-footerNetwork --></div><!-- class:wrap cfix -->
+    </div><!-- class:outerWrap -->
+    <div id="subscription-overlay" class="subscription-overlay"
+     data-hagrid-channel-key='Dks89-tJMqw6zsOGPU5c5Q'
+     data-hagrid-base-url='https://smh.myfairfax.com.au'
+     data-hagrid-api-url='https://api.myfairfax.com.au'
+     data-hagrid-proxy-url="/etc/designs/ffx/wcm/shared/static/hagridproxy-0.9.35.html"
+     data-hagrid-iframe-container-id="loginIframeContainer"
+     data-drm-host='http://access.fairfaxapi.com.au'
+     data-hagrid-member-profile-provider-name="customMemberProfileProvider">
+</div>
+<!-- NOTE: needs to be at the bottom of the page. -->
+    <!-- START Google Analytics Tracking -->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-22700242-1']);
+    _gaq.push(['_setDomainName', '.smh.com.au']);
+    _gaq.push(['_addIgnoredRef', 'smh.com.au']);
+    _gaq.push(['_setAllowAnchor', true]);
+    _gaq.push(['_setCustomVar', 1, 'Section', 'National', 3]);
+    _gaq.push(['_setCustomVar', 2, 'Sub-Section', '', 3]);
+    _gaq.push(['_setCustomVar', 3, 'Byline', 'David Wroe and James Massola ', 3]);
+    _gaq.push(['_setCustomVar', 4, 'Page Type', 'Article', 3]);
+    _gaq.push(['_setAllowAnchor', true]);
+    _gaq.push(['_setCampaignCookieTimeout', 1209600000]);
+    (function() {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<!-- END Google Analytics Tracking -->
+
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = '1024966411';
+var google_conversion_label = '8BTjCLXqgAQQi_7e6AM';
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1024966411/?value=0&label=8BTjCLXqgAQQi_7e6AM&guid=ON&script=0"/>
+</div>
+</noscript>
+<!-- End Google Code for Remarketing tag -->
+<script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/7.48.4/fd.js/fd_min.js"></script>
+        <script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/7.48.4/fd.google.js/fd.google_min.js"></script>
+    <script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/7.48.4/fd.registrars.js/fd.registrars_min.js"></script>
+    <script>
+    var adParameters = {
+        paywall: false
+    };
+    FD.trigger("FDLoadJSSDK", [
+        "",
+        "smh.com.au",
+        "http://www.smh.com.au",
+        "https://smh.myfairfax.com.au",
+        "https://api.myfairfax.com.au",
+        "Dks89-tJMqw6zsOGPU5c5Q"
+        ,
+            "http://access.fairfaxapi.com.au"
+            ,
+            
+            {
+                id: '64164672',
+                types: ['article'],
+                sources: [
+                    
+                        'SMH'
+                ],
+                categories: [
+                    
+                        'National'
+                ]
+            }
+            
+    ]);
+</script>
+
+
+<div data-brandName="smh"></div>
+<script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/7.48.4/fd.videoplayer.js/fd.videoplayer_min.js"></script>
+        <script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/jwplayer6/jwplayer.js"></script>
+    <script type="text/javascript">jwplayer.key="3Kw6cxrtDRgcWRtdGLa2YBoPkAlVC9+iy+DgiQ==";</script>
+<script type="text/javascript" src="/etc/designs/ffx/wcm/shared/device-detect/device-detect-1.43.1-21.js"></script>
+<script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/7.48.4/fd.registrars.mymasthead.js/fd.registrars.mymasthead_min.js"></script>
+<script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/7.48.4/fd.sport.fixtures.js/fd.sport.fixtures_min.js"></script>
+<script type="text/javascript" src="/etc/designs/ffx/wcm/shared/fdjsf/jquery-plugins/jquery.jstockticker-1.1.1.js"></script>
+<script type="text/javascript" src="/etc/designs/ffx/wcm/shared/fdjsf/registrars/business/fd.registrar.business.stock.ticker.js"></script>
+
+<script src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+    google.load("feeds", "1");
+    function mashableFeed(){
+        var feed = new google.feeds.Feed("http://mashable.com/follow/stories/top.rss?f=1");
+        feed.setNumEntries(5);
+        feed.load(function(result) {
+            if (!result.error) {
+                var title = document.createElement("h3");
+                title.innerHTML = "Top headlines from";
+                document.getElementById("mashable-content").innerHTML = '';
+                var container = document.getElementById("mashable-content").appendChild(document.createElement("ul"));
+                for (var i = 0; i < 5 /*result.feed.entries.length*/; i++) {
+                    var entry = result.feed.entries[i];
+                    var item = document.createElement("li");
+                    var link = document.createElement("a");
+                    link.setAttribute('href', entry.link);
+                    link.setAttribute('target', '_blank');
+                    link.innerHTML = entry.title;
+                    item.appendChild(link);
+                    container.appendChild(item);
+                }
+                var link = document.createElement("a");
+                link.setAttribute('href', result.feed.link);
+                link.setAttribute('target', '_blank');
+                link.innerHTML = "Read more Mashable posts";
+                document.getElementById("mashable-footer").innerHTML = '';
+                document.getElementById("mashable-footer").appendChild(link);
+            }
+        });
+        setTimeout('mashableFeed()', 180000);
+    }
+    google.setOnLoadCallback(mashableFeed);
+</script>
+
+<script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/7.48.4/fd.registrars.social.js/fd.registrars.social_min.js"></script>
+<script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/7.48.4/fd.registrars.images.httppipelining.js/fd.registrars.images.httppipelining_min.js"></script>
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2009 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js"></script>
+<script type="text/javascript">
+    var pvar = {cid:"f2", content:"SMH-national-story-online", server:"secure-au"};
+    var trac = nol_t(pvar);
+    trac.record().post();
+    window.s_pageName = "smh:article:national:flag being held by lindt chocolat cafe hostages is not an islamic state flag";
+</script>
+<noscript>
+    <div>
+        <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=f2&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt=""/>
+    </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!-- TODO: Add ClientSideViewTracking here. There are a lot of gaps between DCDS and CQ implementation, for example we have primary Asset in DCDS but not in CQ, so 
+we are not at the position to add client side view tracking code now-->
+<!-- FFX analytics stuff -->
+<script type="text/javascript">
+    var _fmaq = _fmaq || [];
+        _fmaq.push(["_trackEvent", [
+            ["event", "view"],
+            ["system", "DCDS"],
+            ["site", "smh"],
+            ["assetCategory", "National"],
+            ["asset", "64164672"],
+            ["title", "Flag being held by Lindt Chocolat Cafe hostages is not an Islamic State flag"],
+            ["assetType", "Article"],
+            ["urlHash", window.location.hash],
+            ["pageType", ((typeof digitalData !== "undefined") ? digitalData.page.category.pageType : "")],
+            ["primaryCategory", ((typeof digitalData !== "undefined") ? digitalData.page.category.primaryCategory : "")]
+        ]]);
+
+    var _fma_options = {};
+
+    (function () {
+        var fma_script = document.createElement('script');
+        fma_script.src = 'http://resources.fairfax.com.au/js/track/1.0/track.min.js';
+        fma_script.setAttribute('async', 'true');
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(fma_script, s);
+    })();
+</script>
+<!-- TODO: Add the CXense analytics tracking code here. Depending on CXense integration-->
+<!-- TODO: SiteCatalyst tracking is not completed. Need latest DCDS implementation for reference-->
+<!-- Adobe Marketing Cloud Tag Management code
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.adobe.com -->
+<script type="text/javascript">
+var membershipStatus = (function() {
+    var userType = "unknown";
+
+    if (typeof FFXHagrid !== "undefined" && FFXHagrid.isLoggedIn()) {
+        try {
+            FFXHagrid.getUserPlansProvider().getUserPlans(false, function(plans) {
+                if (typeof plans !== "undefined" && plans.length > 0) {
+                    userType = "subscriber " + plans.join(",").toLowerCase();
+                } else {
+                    userType = "member";
+                }
+            });
+        } catch (e) {
+            userType ="member";
+        }
+    } else {
+        userType = "visitor";
+    }
+
+    return userType;
+})();
+
+var memberID = (function() {
+    var cookies = (document.cookie && document.cookie.length > 0) ? document.cookie.split(";") : [];
+    for(var i = 0; i < cookies.length; i++) {
+        var cookie = cookies[i].trim();
+        var cookieName = cookie.split("=")[0];
+        var cookieValue = cookie.split("=")[1];
+        if (cookieName.indexOf("ffx_unique_id") === 0) {
+            return cookieValue;
+        }
+    }
+    return "unknown";
+})();
+
+if(s){
+    // Brand:Site Section:Sub Section:Sub Section 2:Page Title:Asset ID
+    s.pageName = "smh:National:::Flag being held by Lindt Chocolat Cafe hostages is not an Islamic State flag:64164672"
+    // Member ID (prop51)
+    s.prop51 = memberID
+
+    
+        s.prop1 = "smh"
+    
+        s.prop2 = "National"
+    
+        s.prop6 = ""
+    
+        s.prop7 = "Article"
+    
+        s.prop8 = "64164672 + Flag being held by Lindt Chocolat Cafe hostages is not an Islamic State flag"
+    
+        s.prop31 = "David Wroe and James Massola "
+    
+        s.prop32 = "2014-12-15"
+    
+
+
+    if (window["FD"]) {
+        if (typeof FD.s_prop24 !== "undefined") {
+            s.prop24 = FD.s_prop24
+        }
+    }
+    // See User Type tracking for invocation
+
+    // OLG tracking
+    if(typeof olgTracking !== "undefined") {
+        if(s.events) {
+            s.events += ",event21";
+        } else {
+            s.events = "event21";
+        }
+        s.eVar22 = s.prop1 + "-" + s.prop2 + "-" + olgTracking.provider + "-" + olgTracking.productType + "-" + olgTracking.location;
+    }
+    s.eVar57 = membershipStatus;
+    s.t();
+}
+</script>
+<!-- End Adobe Marketing Cloud Tag Management code -->
+<div data-boomerangSegment="132491"></div>
+
+<!-- outbrain js -->
+    <script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+<script src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript" async="true"></script>
+<div data-google-ad-sense="true" data-ad-channel="national" data-adtest="off" data-short-site-name="smh" data-url="http://www.smh.com.au/national/flag-being-held-by-lindt-chocolat-cafe-hostages-is-not-an-islamic-state-flag-20141215-1279s0.html"></div>
+<script type="text/javascript">
+ (function (FD) {
+     new FD.GoogleAdSense({
+         googleAdSenseContainerElement: 'div[data-google-ad-sense="true"]'
+     });
+ })(FD);
+</script><script type="text/javascript">
+            (function() {
+                
+    (function() {
+        
+        FD.addVideoPlayer(new FD.VideoPlayer({
+            "adServerUrl": "http://pubads.g.doubleclick.net/gampad/ads?sz=4x1&iu=/6411/vid.smh/news&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&cust_params=channel%3Dnews%26show%3Dnationalnews%26ctype%3Darticle%26source%3DFDP&correlator=685276",
+            "assetId": "6092338",
+            "divId": "video-player-content",
+            
+                "isPlayCountdown": true,
+            
+            "playerId": "video-player-content-player",
+            "playerType": "Article",
+            "postPlay": "Links"
+            
+        }, {
+            
+            "height": 349,
+            
+"playlist": [
+    {
+        
+                "sources": [
+                    
+                        {
+                            "bitrate": "857",
+                            "file": "http://mediadownload.f2.com.au/flash/media/2014/12/15/6092338/6092338_high.mp4"
+                        },
+                        {
+                            "bitrate": "588",
+                            "file": "http://mediadownload.f2.com.au/flash/media/2014/12/15/6092338/6092338_ihigh.mp4"
+                        },
+                        {
+                            "bitrate": "566",
+                            "file": "http://mediadownload.f2.com.au/flash/media/2014/12/15/6092338/6092338_low.mp4"
+                        },
+                        {
+                            "bitrate": "560",
+                            "file": "http://mediadownload.f2.com.au/flash/media/2014/12/15/6092338/6092338_mid.mp4"
+                        },
+                        {
+                            "bitrate": "400",
+                            "file": "http://mediadownload.f2.com.au/flash/media/2014/12/15/6092338/6092338_imid.mp4"
+                        },
+                        {
+                            "bitrate": "210",
+                            "file": "http://mediadownload.f2.com.au/flash/media/2014/12/15/6092338/6092338_ilow.mp4"
+                        }
+                ],
+            
+        "image": "/content/dam/images/3/m/k/v/n/image.related.videoThumbnail.620x349.3mkvm.png/1418620440308.jpg",
+        "title": "What is the Shahada flag?"
+    }
+],
+            "primary": "flash",
+            
+"advertising": {
+    "client": "googima",
+    
+    "tag": "http://pubads.g.doubleclick.net/gampad/ads?sz=4x1&iu=/6411/vid.smh/news&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&cust_params=channel%3Dnews%26show%3Dnationalnews%26ctype%3Darticle%26source%3DFDP&correlator=685276"
+,
+    "companiondiv": {
+        "height": 250,
+        "id": "video-player-companion-ad-mrec",
+        "width": 300
+    }
+},
+
+"timeslidertooltipplugin-2": {},
+            
+            "width": 620
+        }, {
+            "ga": 
+
+{
+    "channel": "news",
+    "duration": "63014",
+    "headline": "What is the Shahada flag?",
+    "interval": 10000,
+    "referrer": "",
+    "playerType": "Article",
+    "channel": "nationalnews",
+}
+,
+            "nielsen": 
+
+{
+    "brand": "smh",
+    
+        "c6": "b17",
+    
+    "duration": "63014",
+    "interval": 10000,
+    "ou": "video/news/national-news",
+    "vc": "vc-smh-Video_News-Article-Video_National_News-Unknown-Tom_Wright-6092338-What_is_the_Shahada_flag?-00:01:03"
+},
+            "collector": 
+{
+    "system": "DCDS",
+    "brand": "smh",
+    "section": "National",
+    "assetId": "6092338",
+    "title": "What is the Shahada flag?",
+    "assetType": "Video",
+    "assetUrl": "http://media.smh.com.au/video-news/video-national-news/too-many-mental-health-services-6380111.html",
+    "category": "Video National News",
+    "showName": "nationalnews",
+    "duration": "63014",
+    "videoSource": "FDP",
+    "producer":"Tom Wright",
+    "playerType": "Article"
+},
+            "sitecatalyst": 
+{
+    "assetId": "6092338",
+    "assetType": "Video",
+    "assetUrl": "video.url",
+    "brand": "smh",
+    "category": "Video National News",
+    "channelName": "news",
+    "duration": "63014",
+    "interval": 10000,
+    "producer":"Tom Wright",
+    "playerType": "Article",
+    "section": "National",
+    "showName": "nationalnews",
+    "system": "DCDS",
+    "title": "What is the Shahada flag?",
+    "type":"Video",
+    "videoSource": "FDP",
+    "videoType": "Standard"
+}
+        }));
+    })();
+
+            })();
+        </script>
+    <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script src="http://widgets.twimg.com/j/2/widget.js" type="text/javascript"></script>
+<script src="http://apis.google.com/js/plusone.js" type="text/javascript"></script>
+<div id="fb-root"></div><!-- id:fb-root -->
+<script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+<script type="text/javascript">
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId: "193677504039845",
+            cookie: true,
+            status: true,
+            xfbml: true
+        });
+        FD.register(function() {
+            new FD.Facebook({});
+        });
+    };
+</script>
+<script src="http://platform.linkedin.com/in.js" type="text/javascript">
+    api_key: 9av1epdechow
+    authorize: true
+</script>
+<script src="//assets.pinterest.com/js/pinit.js"></script>
+<script type="text/javascript">
+    if (window["FD"]) {
+        (function() {
+            // Check that the user is at least logged in before attempting to say that they have read an article.
+            if (FD.isLoggedIn()) {
+                FD.trigger("FDArticleRead");
+            } else {
+                FD.trigger("FDMyMastheadAccountLoginPrompt");
+            }
+        })();
+    }
+</script>
+<script type="text/javascript" src="http://resources.smh.com.au/common/media-common-1.0/js/fdjsf/output/7.48.4/fd.registrars.contentpagewide.js/fd.registrars.contentpagewide_min.js"></script>
+    <script type="text/javascript" src="/etc/designs/ffx/wcm/shared/clientlibs/desktop/ads.min.clientlibversion.aec370a44dc3863e687c6170a0712e79.js"></script>
+
+<!-- NOTE: needs to be at the bottom of the page. -->
+<div id="adspot-interstitial">
+   <script>
+   var titan = window.titan || {};
+   titan.requestAd = titan.requestAd || [];
+   titan.requestAd.push("adspot-interstitial");
+   </script>
+</div><script type="text/javascript">
+_satellite.pageBottom();
+</script></body>
+
+</html>

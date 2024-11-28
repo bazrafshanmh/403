@@ -1,0 +1,1832 @@
+HTTP/1.1 200 OK
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 24 Mar 2015 03:39:14 GMT
+Last-Modified: Mon, 23 Mar 2015 22:25:13 GMT
+Server: ECS (lhr/4BB9)
+Vary: Accept-Encoding
+X-Cache: HIT
+Content-Length: 22580
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head><title>Petition: Stop the Militarization of Police in America Immediately</title><link href="//dingo.care2.com/pictures/static/css/f_e/front_end/css/petitionsite/petitionsite.1426271889.css" type="text/css" rel="stylesheet"><meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcOUVJQGwYGU1JaAQI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><link rel="stylesheet" type="text/css" href="//dingo.care2.com/pictures/static/css/f_e/front_end/css/petitionsite_sign/petitionsite_sign.1426784026.css" />
+<script type='text/javascript' src='//dingo.care2.com/pictures/static/js/f_e/front_end/jscript/petitionsite_sign/petitionsite_sign.1427140386.js' language='javascript'></script>
+<script type="text/javascript">
+
+        if (!window.care2_ua_header_ts) {
+            window.care2_ua_header_ts = new Date().getTime() / 1000;
+        }
+        
+</script><link rel="canonical" href="http://www.thepetitionsite.com/takeaction/423/349/851/" />
+<link rel="image_src" href="http://dingo.care2.com/pictures/petition_images/petition/851/423349-1408040951-wide.jpg"><meta property="og:image" content="http://dingo.care2.com/pictures/petition_images/petition/851/423349-1408040951-wide.jpg"/><meta property="og:title" content="Petition: Protesters are not Enemy Combatants"/><meta property="og:description" content="The militarization of police in Ferguson, Missouri &amp;amp; across the country must be stopped. Please sign the petition today. (45617 signatures on petition)"/><meta property="og:url" content="http://www.thepetitionsite.com/takeaction/423/349/851/"/><meta name="description" content="The militarization of police in Ferguson, Missouri &amp;amp; across the country must be stopped. Please sign the petition today. (45617 signatures on petition)" /><meta property="fb:app_id" content="83187307959" /><script src="//cdn.optimizely.com/js/22866392.js"></script>
+<!--[if lt IE 9]>
+<script src="//dingo.care2.com/pictures/static/js/www/js/html5shiv/html5shiv.1373489116.js"></script>
+<![endif]-->
+
+    <script>(function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded)
+    { var fbds = document.createElement('script'); fbds.async = true; fbds.src = '//connect.facebook.net/en_US/fbds.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fbds, s); _fbq.loaded = true; }
+    _fbq.push(['addPixelId', '388957491260477']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=388957491260477&ev=PixelInitialized" /></noscript>
+
+</head>
+
+<body class="petitionsite petitionsite_sign standalone_css">
+
+<img src="//www.care2.com/servlets/petitions/viewed.php" style="position:absolute;left:0;top:0;" />
+<a name="top"></a>
+
+<div id="fb-root"></div><header class="contain_floats">
+
+    <div class="petitionsite_header">
+        <div class="care2_wrapper contain_floats">
+            <a id="care2_logo" href="http://www.care2.com/">Care2</a>
+            <a id="care2_tagline" href="http://www.thepetitionsite.com/">PETITIONS</a>
+
+            <a href="http://www.thepetitionsite.com/create-a-petition.html?cid=headerClick" class="header_link header_link_start">START A PETITION</a>
+            <a href="http://www.thepetitionsite.com/browse-petitions/" class="header_link header_link_browse">BROWSE</a>
+
+            
+            <ul class="login_links loggedin">
+                <li><a href="http://www.care2.com/accounts/" class="name"></a></li>
+            </ul>
+
+            <ul class="login_links loggedout">
+                <li><a href="http://www.care2.com/accounts/login.html" rel="nofollow" class="login_link">login / join</a></li>
+            </ul>
+
+            <div class="fb_like">
+                <div class="fb-like" data-href="http://www.facebook.com/Care2" data-share="false" data-layout="button_count" data-show-faces="face"></div>
+            </div>
+        </div>
+    </div>
+
+    <nav>
+        <ul class="care2_wrapper">
+                                                    <li><a href="http://www.thepetitionsite.com/animal-welfare/" class="animal-welfare">ANIMAL RIGHTS</a></li>
+            <li><a href="http://www.thepetitionsite.com/education/" class="education">EDUCATION</a></li>
+            <li><a href="http://www.thepetitionsite.com/environment-and-wildlife/" class="environment-and-wildlife">ENVIRONMENT &amp; WILDLIFE</a></li>
+            <li><a href="http://www.thepetitionsite.com/health/" class="health">HEALTH</a></li>
+            <li><a href="http://www.thepetitionsite.com/human-rights/" class="human-rights">HUMAN RIGHTS</a></li>
+            <li><a href="http://www.thepetitionsite.com/human-rights/gay-rights/" class="gay-rights">LGBT ISSUES</a></li>
+            <li><a href="http://www.thepetitionsite.com/politics/" class="politics">POLITICS</a></li>
+            <li><a href="http://www.thepetitionsite.com/human-rights/womens-rights/" class="womens-rights">WOMEN'S RIGHTS</a></li>
+            <li><a href="http://www.thepetitionsite.com/browse-petitions/" class="more-petitions">MORE</a></li>
+        </ul>
+    </nav>
+
+</header>
+
+
+        <header id="sticky_header" style="display:none;"><div class="care2_wrapper">
+            <div class="care2_logo"></div>
+            <div class="title">Stop the Militarization of Police in America...</div>
+            <ul data-url="http://www.thepetitionsite.com/takeaction/423/349/851/" data-actions="get_counts open_window" class="share_widget">
+                <li class="facebook"><a data-height="400" data-width="640" href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.thepetitionsite.com%2Ftakeaction%2F423%2F349%2F851%2F&title=Stop+the+Militarization+of+Police+in+America...&system=6&system_key=423349851&service=facebook"></a></li>
+                <li class="twitter"><a data-height="400" data-width="640" href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.thepetitionsite.com%2Ftakeaction%2F423%2F349%2F851%2F&title=Stop+the+Militarization+of+Police+in+America...&system=6&system_key=423349851&service=twitter"></a></li>
+            </ul>
+        </div></header>
+
+
+
+<div id="care2_wrapper" class="care2_wrapper"><div id="care2_main_container" class="contain_floats">
+
+
+<div class="pe_container">
+
+
+
+
+
+
+
+<script>
+
+    var petitionParams = {
+        petitionID      : "423349851",
+        petitionType    : "campaign",
+        platform        : "website",
+        title           : "Stop the Militarization of Police in America Immediately",
+        short_summary   : "The militarization of police in Ferguson, Missouri & across the country must be stopped. Please sign the petition today.",
+        petition_url    : "http://www.thepetitionsite.com/takeaction/423/349/851/",
+        image_url       : "http://dingo.care2.com/pictures/petition_images/petition/851/423349-1408040951-wide.jpg",
+        stopdate        : "2015-08-14",
+        defaultOptinURL : "http://www.thepetitionsite.com/xml/optins/62/optin_2362.xml",
+        showfields      : ['name','state','country','photo','custom_1'],
+        reqfields       : ['name','email','address','city','state','zip','country'],
+        hiddenOptIns    : [],
+        collfields      : ['name','email','address','city','state','zip','country','photo','custom_1'],
+        authorID        : false,
+        client_name     : false,
+        show_taf_popup  : "new",
+        draft           : false
+    }
+
+    
+</script>
+
+
+
+<div id="petitionsPage_sign" class="contain_floats" style="display:none">
+
+    <!--##closed_type:0##-->
+    <div id="petition_description">
+        
+            <div class="about_petition contain_floats">
+
+                <div class="thumbnail"><img src="//dingo.care2.com/pictures/petition_images/petition/851/423349-1408040951-wide.jpg" alt="Stop the Militarization of Police in America Immediately" /><div id="closed_message"><h3>PETITION CLOSED</h3><div class="message">This petition is now closed. You can still make a difference in the Care2 community by signing other petitions today.</div><p class="browse"><a href="/browse-petitions/">BROWSE PETITIONS &#9656;</a></p></div></div>
+
+                <h1>Stop the Militarization of Police in America Immediately</h1>
+
+                <ul class="description_stats">
+                                        <li><strong>target:</strong> U.S. Department of Defense, President Obama, Secretary of Defense Chuck Hagel</li>                    <li><strong>signatures:</strong> <span class="data_sig_count"></span></li>
+                </ul>
+
+                
+            </div>
+
+            <div class="progress_bar"><div id="sigcount_goalbar" class="sigcount_goalbar"></div><span class="petition_num_sigs data_sig_count"></span></div> <strong class="petition_sigs_goal">50,000</strong>
+
+            <p class="signature_tagline">
+                we've got <strong><span class="data_sig_count"></span> signatures</strong>,
+                help us get to <span class="petition_sigs_goal">50,000</span>
+                
+                            </p>
+
+            <div class="petition_description">
+                                <ul id="description_nav" class="description_nav">
+                    <li class="active"><a href="#" rel="overview" class="overview">overview</a></li>
+                    <li><a href="#" rel="letter" class="petition">petition</a></li>
+                </ul>
+                
+                <div id="tab_overview">
+                                                                                                        <div class="update_container">
+                                    <h3>Update #1 December  1, 2014</h3>
+
+                                    <p>
+                                        Big news: President Obama is reforming how the federal government gives military equipment to local police! His order will direct agencies to "require a local civilian review of all federal equipment requests, mandate police receive the necessary training to use the equipment, require that police generate after-action reports when they use the equipment, and develop a database cataloging equipment sold." This is a big first step. Keep sharing this petition to help get the rest of the job done!
+                                    </p>
+                                </div>
+                                                    
+                        <h3>About this Petition</h3>
+                                        <div id="overview_truncate">Mike Brown allegedly threw his hands up and yelled "I don't have a gun! Stop shooting!" but he was shot to death anyway by a yet-to-be-named police officer. Protesters following the event in Ferguson, Missouri are being watched by rooftop snipers. And there are numerous reports of police aiming automatic rifles at people filming the events, and opening fire with rubber bullets on unarmed crowds. This is what the disturbing trend of the militarization of America’s police force looks like. 
+<BR><BR>
+This new precedent across the country has one particularly upsetting source: the Pentagon. <strong>A federal program called 1033 allows the Department of Defense to distribute hundreds of millions of dollars worth of military equipment to police forces across the country.</strong> <em>The chilling motto for this program is “From Warfighter to Crimefighter.”</em>
+<BR><BR>
+From Mike Brown in Ferguson to Eric Garner in New York, police forces are assaulting and killing innocent people, with no accountability. This is unacceptable. Police forces should be protecting us. By militarizing police across the country through the 1033 program, the Pentagon is encouraging local police forces to feel as if they are going into battle — with a clear enemy and a shoot-to-kill mentality. This national militarization of police must be stopped immediately. <strong>Sign the petition to demand that the Department of Defense dissolve the 1033 program and hold all police officers involved in brutality accountable.</strong></div>
+                </div>
+
+                                <div id="tab_letter" style="display: none;">
+                    <div id="letter_truncate">
+                        Defense Department, Defense Logistics Agency and The Law Enforcement Support Office,<br />
+<br />
+In light of recent events in Ferguson, Missouri and similar events across the country that indicate a militarization of our police forces, I am writing to demand that the 1033 program be shut down immediately.<br />
+<br />
+Police forces should be operating in the spirit of service, protection, morality and professionalism. Providing these forces with military-grade equipment has begun a dangerous and terrifying shift in mindset for police forces that they are operating in a war-like environment. In Ferguson, police have fired rubber bullets at unarmed crowds and used tear gas against journalists. America is not a war zone, and the American people are not enemy combatants. We do not deserve to be treated as such.<br />
+<br />
+The Department of Defense needs to take responsibility for this police brutality and cut off this equipment at the source. Please do what is right for the people of America, and help restore our trust in our own police forces.
+                                            </div>
+                </div>
+                            </div>
+
+            <div class="create_change">
+                <h3><strong>you</strong> have the power to <strong>create change.</strong></h3>
+                <h4>Start sharing and watch your impact grow</h4>
+
+                                
+
+    
+
+    <ul class="care2_horiz_squares contain_floats share_widget" data-actions="get_counts open_window" data-url="http://www.thepetitionsite.com/takeaction/423/349/851/"><li class="facebook"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.thepetitionsite.com%2Ftakeaction%2F423%2F349%2F851%2F&title=Protesters%20are%20not%20Enemy%20Combatants&media=&summary=&system=6&system_key=423349851&service=facebook" data-width="640" data-height="400"></a></li><li class="twitter"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.thepetitionsite.com%2Ftakeaction%2F423%2F349%2F851%2F&title=Protesters%20are%20not%20Enemy%20Combatants&media=&summary=&system=6&system_key=423349851&service=twitter" data-width="640" data-height="400"></a></li><li class="email"><a href="#"></a></li><li class="widget"><a href="#"></a></li></ul>
+
+        <style>
+
+        ul.care2_horiz_squares li a {
+            float: left;
+            width: 73px;
+            height: 30px;
+            line-height: 30px;
+            margin-left: 8px;
+            padding-bottom: 42px;
+            background: transparent url(//dingo.care2.com/c2/sharing/sprites/horiz_squares.png) no-repeat scroll 0 0;
+            font-size: 16px;
+            font-weight: bold;
+            color: inherit;
+            text-align: center;
+        }
+
+        ul.care2_horiz_squares li a:hover {
+            text-decoration: none;
+        }
+
+        ul.care2_horiz_squares li:first-child a {
+            margin-left: 0;
+        }
+
+        ul.care2_horiz_squares li.twitter a {
+            background-position: -73px 0;
+        }
+
+        
+
+        ul.care2_horiz_squares li.email a {
+            background-position: -365px 0;
+        }
+
+        ul.care2_horiz_squares li.widget a {
+            background-position: -438px 0;
+        }
+
+    </style>
+    
+
+                <div id="sign_sharing_email_bottom"></div>
+            </div>
+
+            <a name="whosignedthis"></a>
+                        <div id="signature_module">
+                <h3>we signed: Stop the Militarization of Police in America Immediately</h3>
+
+                <div id="signature_container"></div>
+
+                <ul id="pagination_container" class="pagination"></ul>
+            </div>
+            
+                            <div id="categorylinks"><strong>See more petitions:</strong><ul>
+                                    <li><a href="http://www.thepetitionsite.com/human-rights/" class="categoryForPixel">Human Rights</a>
+                    <ul>
+                                                <li>&raquo; <a href="http://www.thepetitionsite.com/human-rights/armed-conflict-arms-trade/" class="categoryForPixel">Armed Conflict/Arms Trade</a></li>
+                                                <li>&raquo; <a href="http://www.thepetitionsite.com/human-rights/civil-rights/" class="categoryForPixel">Civil Rights</a></li>
+                                                <li>&raquo; <a href="http://www.thepetitionsite.com/human-rights/peace-and-nonviolence/" class="categoryForPixel">Peace and Nonviolence</a></li>
+                        </ul>
+                    </li>
+                                    <li><a href="http://www.thepetitionsite.com/politics/" class="categoryForPixel">Politics</a>
+                    <ul>
+                                                <li>&raquo; <a href="http://www.thepetitionsite.com/politics/progressive/" class="categoryForPixel">Progressive</a></li>
+                        </ul>
+                    </li>
+                                </ul></div>
+                    
+    </div>
+
+    <div id="petition_sign_area">
+        <ul id="creator_buttons" class="contain_floats">
+            <li class="edit"><a href="http://www.care2.com/create/edit-petition/423349851">edit</a></li>
+            <li class="manage"><a href="http://www.care2.com/my/petitionsite/dashboard/423349851">manage</a></li>
+            <li class="update"><a href="http://www.care2.com/create/update-petition/423349851">manage</a></li>
+        </ul>
+
+        <div class="ajax_loading_graphic"><img src="//dingo.care2.com/petitions/loading_form.gif" alt="loading..." /></div>
+
+        <div id="ajax_sign_form" style="display: none">
+            <h2>
+                                Sign Petition
+            </h2>
+
+            <div class="form_container" style="padding-left:10px">
+                <div id="sign_error_alert" style="display:none"></div>
+
+                <form id="signature_form" name="signature_form" action="javascript:void(0)">
+                    <input type="hidden" id="sign_sig_number" name="sigNumber" value="" />
+
+                    <div id="ajax_user_card">
+                        <ul>
+                            <li>
+                                <span id="user_firstname"></span>
+                                <span id="user_lastname"></span>
+                            </li>
+                            <li>
+                                <span id="user_city"></span>,
+                                <span id="user_state"></span>
+                            </li>
+                            <li>
+                                <span id="user_phone"></span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div id="form_fields_block">
+
+                        <div id="form_r1">
+
+                            <div id="form_field_name">
+                                <div id="form_field_firstname" class="form_field form_field_no_errors form_field_firstname">
+                                    <div class="form_label" for="sign_firstname">
+                                        (optional)
+                                    </div>
+                                    <div class="form_input">
+                                        <input type="text" id="sign_firstname" x-autocompletetype="given-name" name="sign[firstname]" class="form_field_firstname" placeholder="First Name" />
+                                    </div>
+                                </div>
+                                <div id="form_field_lastname" class="form_field form_field_no_errors form_field_lastname">
+                                    <div class="form_label" for="sign_lastname">
+                                        (optional)
+                                    </div>
+                                    <div class="form_input">
+                                        <input type="text" id="sign_lastname" x-autocompletetype="family-name" name="sign[lastname]" class="form_field_lastname" placeholder="Last Name" />
+                                    </div>
+                                </div>
+                            </div>
+                                                            <div id="form_field_anon">
+                                    <input name="sign[anon]" type="checkbox" id="sign_anon" tabindex="-1" value="1" />
+                                    <label for="sign_anon" tabindex="-1">don't display my name</label>
+                                </div>
+                            
+                            <div id="form_field_email" class="form_field form_field_no_errors form_field_email">
+                                <div class="form_label" for="sign_email">
+                                    (optional)
+                                </div>
+                                <div class="form_input">
+                                    <input type="text" name="sign[email]" id="sign_email" x-autocompletetype="email" class="form_field_email" placeholder="Email" maxlength="50" />
+                                </div>
+                            </div>
+
+                            <div id="form_field_country" class="form_field form_field_no_errors form_field_country">
+                                <div class="form_label" for="sign_country">
+                                    (optional)
+                                </div>
+                                <div class="form_input form_select">
+                                                                        <select name=sign[country] id="sign_country" x-autocompletetype="country-name" class="form_field_country">
+<option value='af' >Afghanistan</option>
+<option value='ax' >Aland Islands</option>
+<option value='al' >Albania</option>
+<option value='dz' >Algeria</option>
+<option value='as' >American Samoa</option>
+<option value='ad' >Andorra</option>
+<option value='ao' >Angola</option>
+<option value='ai' >Anguilla</option>
+<option value='aq' >Antarctica</option>
+<option value='ag' >Antigua And Barbuda</option>
+<option value='ar' >Argentina</option>
+<option value='am' >Armenia</option>
+<option value='aw' >Aruba</option>
+<option value='au' >Australia</option>
+<option value='at' >Austria</option>
+<option value='az' >Azerbaijan</option>
+<option value='bs' >Bahamas</option>
+<option value='bh' >Bahrain</option>
+<option value='bd' >Bangladesh</option>
+<option value='bb' >Barbados</option>
+<option value='by' >Belarus</option>
+<option value='be' >Belgium</option>
+<option value='bz' >Belize</option>
+<option value='bj' >Benin</option>
+<option value='bm' >Bermuda</option>
+<option value='bt' >Bhutan</option>
+<option value='bo' >Bolivia</option>
+<option value='bq' >Bonaire</option>
+<option value='ba' >Bosnia And Herzegovina</option>
+<option value='bw' >Botswana</option>
+<option value='bv' >Bouvet Island</option>
+<option value='br' >Brazil</option>
+<option value='io' >British Indian Ocean Territory</option>
+<option value='bn' >Brunei Darussalam</option>
+<option value='bg' >Bulgaria</option>
+<option value='bf' >Burkina Faso</option>
+<option value='bi' >Burundi</option>
+<option value='kh' >Cambodia</option>
+<option value='cm' >Cameroon</option>
+<option value='ca' >Canada</option>
+<option value='cv' >Cape Verde</option>
+<option value='ky' >Cayman Islands</option>
+<option value='cf' >Central African Republic</option>
+<option value='td' >Chad</option>
+<option value='cl' >Chile</option>
+<option value='cn' >China</option>
+<option value='cx' >Christmas Island</option>
+<option value='cc' >Cocos (keeling) Islands</option>
+<option value='co' >Colombia</option>
+<option value='km' >Comoros</option>
+<option value='cg' >Congo</option>
+<option value='cd' >Congo, The Democratic Republic Of The</option>
+<option value='ck' >Cook Islands</option>
+<option value='cr' >Costa Rica</option>
+<option value='ci' >Cote D'ivoire</option>
+<option value='hr' >Croatia</option>
+<option value='cu' >Cuba</option>
+<option value='cw' >Curacao</option>
+<option value='cy' >Cyprus</option>
+<option value='cz' >Czech Republic</option>
+<option value='dk' >Denmark</option>
+<option value='dj' >Djibouti</option>
+<option value='dm' >Dominica</option>
+<option value='do' >Dominican Republic</option>
+<option value='ec' >Ecuador</option>
+<option value='eg' >Egypt</option>
+<option value='sv' >El Salvador</option>
+<option value='gq' >Equatorial Guinea</option>
+<option value='er' >Eritrea</option>
+<option value='ee' >Estonia</option>
+<option value='et' >Ethiopia</option>
+<option value='fk' >Falkland Islands (malvinas)</option>
+<option value='fo' >Faroe Islands</option>
+<option value='fj' >Fiji</option>
+<option value='fi' >Finland</option>
+<option value='fr' >France</option>
+<option value='gf' >French Guiana</option>
+<option value='pf' >French Polynesia</option>
+<option value='tf' >French Southern Territories</option>
+<option value='ga' >Gabon</option>
+<option value='gm' >Gambia</option>
+<option value='ge' >Georgia</option>
+<option value='de' >Germany</option>
+<option value='gh' >Ghana</option>
+<option value='gi' >Gibraltar</option>
+<option value='gr' >Greece</option>
+<option value='gl' >Greenland</option>
+<option value='gd' >Grenada</option>
+<option value='gp' >Guadeloupe</option>
+<option value='gu' >Guam</option>
+<option value='gt' >Guatemala</option>
+<option value='gg' >Guernsey</option>
+<option value='gn' >Guinea</option>
+<option value='gw' >Guinea-bissau</option>
+<option value='gy' >Guyana</option>
+<option value='ht' >Haiti</option>
+<option value='hm' >Heard Island And Mcdonald Islands</option>
+<option value='va' >Holy See (vatican City State)</option>
+<option value='hn' >Honduras</option>
+<option value='hk' >Hong Kong</option>
+<option value='hu' >Hungary</option>
+<option value='is' >Iceland</option>
+<option value='in' >India</option>
+<option value='id' >Indonesia</option>
+<option value='ir' >Iran, Islamic Republic Of</option>
+<option value='iq' >Iraq</option>
+<option value='ie' >Ireland</option>
+<option value='im' >Isle Of Man</option>
+<option value='il' >Israel</option>
+<option value='it' >Italy</option>
+<option value='jm' >Jamaica</option>
+<option value='jp' >Japan</option>
+<option value='je' >Jersey</option>
+<option value='jo' >Jordan</option>
+<option value='kz' >Kazakhstan</option>
+<option value='ke' >Kenya</option>
+<option value='ki' >Kiribati</option>
+<option value='kp' >Korea, Democratic People's Republic Of</option>
+<option value='kr' >Korea, Republic Of</option>
+<option value='kv' >Kosovo</option>
+<option value='kw' >Kuwait</option>
+<option value='kg' >Kyrgyzstan</option>
+<option value='la' >Lao People's Democratic Republic</option>
+<option value='lv' >Latvia</option>
+<option value='lb' >Lebanon</option>
+<option value='ls' >Lesotho</option>
+<option value='lr' >Liberia</option>
+<option value='ly' >Libyan Arab Jamahiriya</option>
+<option value='li' >Liechtenstein</option>
+<option value='lt' >Lithuania</option>
+<option value='lu' >Luxembourg</option>
+<option value='mo' >Macao</option>
+<option value='mk' >Macedonia, The Former Yugoslav Republic Of</option>
+<option value='mg' >Madagascar</option>
+<option value='mw' >Malawi</option>
+<option value='my' >Malaysia</option>
+<option value='mv' >Maldives</option>
+<option value='ml' >Mali</option>
+<option value='mt' >Malta</option>
+<option value='mh' >Marshall Islands</option>
+<option value='mq' >Martinique</option>
+<option value='mr' >Mauritania</option>
+<option value='mu' >Mauritius</option>
+<option value='yt' >Mayotte</option>
+<option value='mx' >Mexico</option>
+<option value='fm' >Micronesia, Federated States Of</option>
+<option value='md' >Moldova, Republic Of</option>
+<option value='mc' >Monaco</option>
+<option value='mn' >Mongolia</option>
+<option value='me' >Montenegro</option>
+<option value='ms' >Montserrat</option>
+<option value='ma' >Morocco</option>
+<option value='mz' >Mozambique</option>
+<option value='mm' >Myanmar</option>
+<option value='na' >Namibia</option>
+<option value='nr' >Nauru</option>
+<option value='np' >Nepal</option>
+<option value='nl' >Netherlands</option>
+<option value='nc' >New Caledonia</option>
+<option value='nz' >New Zealand</option>
+<option value='ni' >Nicaragua</option>
+<option value='ne' >Niger</option>
+<option value='ng' >Nigeria</option>
+<option value='nu' >Niue</option>
+<option value='nf' >Norfolk Island</option>
+<option value='mp' >Northern Mariana Islands</option>
+<option value='no' >Norway</option>
+<option value='om' >Oman</option>
+<option value='pk' >Pakistan</option>
+<option value='pw' >Palau</option>
+<option value='ps' >Palestinian Territory, Occupied</option>
+<option value='pa' >Panama</option>
+<option value='pg' >Papua New Guinea</option>
+<option value='py' >Paraguay</option>
+<option value='pe' >Peru</option>
+<option value='ph' >Philippines</option>
+<option value='pn' >Pitcairn</option>
+<option value='pl' >Poland</option>
+<option value='pt' >Portugal</option>
+<option value='pr' >Puerto Rico</option>
+<option value='qa' >Qatar</option>
+<option value='re' >Reunion</option>
+<option value='ro' >Romania</option>
+<option value='ru' >Russian Federation</option>
+<option value='rw' >Rwanda</option>
+<option value='bl' >Saint Barthelemy</option>
+<option value='sh' >Saint Helena</option>
+<option value='kn' >Saint Kitts And Nevis</option>
+<option value='lc' >Saint Lucia</option>
+<option value='pm' >Saint Pierre And Miquelon</option>
+<option value='vc' >Saint Vincent And The Grenadines</option>
+<option value='ws' >Samoa</option>
+<option value='sm' >San Marino</option>
+<option value='st' >Sao Tome And Principe</option>
+<option value='sa' >Saudi Arabia</option>
+<option value='sn' >Senegal</option>
+<option value='rs' >Serbia</option>
+<option value='sc' >Seychelles</option>
+<option value='sl' >Sierra Leone</option>
+<option value='sg' >Singapore</option>
+<option value='sx' >Sint Maarten</option>
+<option value='sk' >Slovakia</option>
+<option value='si' >Slovenia</option>
+<option value='sb' >Solomon Islands</option>
+<option value='so' >Somalia</option>
+<option value='za' >South Africa</option>
+<option value='gs' >South Georgia And The South Sandwich Islands</option>
+<option value='ss' >South Sudan</option>
+<option value='es' >Spain</option>
+<option value='lk' >Sri Lanka</option>
+<option value='sd' >Sudan</option>
+<option value='sr' >Suriname</option>
+<option value='sj' >Svalbard And Jan Mayen</option>
+<option value='sz' >Swaziland</option>
+<option value='se' >Sweden</option>
+<option value='ch' >Switzerland</option>
+<option value='sy' >Syrian Arab Republic</option>
+<option value='tw' >Taiwan</option>
+<option value='tj' >Tajikistan</option>
+<option value='tz' >Tanzania, United Republic Of</option>
+<option value='th' >Thailand</option>
+<option value='tl' >Timor-leste</option>
+<option value='tg' >Togo</option>
+<option value='tk' >Tokelau</option>
+<option value='to' >Tonga</option>
+<option value='tt' >Trinidad And Tobago</option>
+<option value='tn' >Tunisia</option>
+<option value='tr' >Turkey</option>
+<option value='tm' >Turkmenistan</option>
+<option value='tc' >Turks And Caicos Islands</option>
+<option value='tv' >Tuvalu</option>
+<option value='ug' >Uganda</option>
+<option value='ua' >Ukraine</option>
+<option value='ae' >United Arab Emirates</option>
+<option value='gb' >United Kingdom</option>
+<option value='us' selected>United States</option>
+<option value='um' >United States Minor Outlying Islands</option>
+<option value='uy' >Uruguay</option>
+<option value='uz' >Uzbekistan</option>
+<option value='vu' >Vanuatu</option>
+<option value='ve' >Venezuela</option>
+<option value='vn' >Viet Nam</option>
+<option value='vg' >Virgin Islands, British</option>
+<option value='vi' >Virgin Islands, U.s.</option>
+<option value='wf' >Wallis And Futuna</option>
+<option value='eh' >Western Sahara</option>
+<option value='ye' >Yemen</option>
+<option value='zm' >Zambia</option>
+<option value='zw' >Zimbabwe</option>
+<option value='' >(none)</option></select>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="form_address_r1">
+                            <div id="form_field_address" class="form_field form_field_no_errors form_field_address">
+                                <div class="form_label" for="sign_address">
+                                    (optional)
+                                </div>
+                                <div class="form_input">
+                                    <input type="text" name="sign[address]" id="sign_address" autocomplete="off" class="form_field_address" placeholder="Street Address" />
+                                </div>
+                            </div>
+
+                            <div id="form_field_city" class="form_field form_field_no_errors form_field_city">
+                                <div class="form_label" for="sign_city">
+                                    (optional)
+                                </div>
+                                <div class="form_input">
+                                    <input type="text" name="sign[city]" id="sign_city" x-autocompletetype="city" class="form_field_city" placeholder="City" />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="form_address_r2" class="contain_floats">
+                            <div id="form_field_state" class="form_field form_field_no_errors form_field_state">
+                                <div class="form_label" for="sign_state">
+                                    (optional)
+                                </div>
+                                <div class="form_input form_select">
+                                                                        <span class="state_us"><select name=sign[state]  x-autocompletetype="state" class="form_field_state"><option value="">State</option>
+<option value='AL' >Alabama</option>
+<option value='AK' >Alaska</option>
+<option value='AS' >American Samoa</option>
+<option value='AZ' >Arizona</option>
+<option value='AR' >Arkansas</option>
+<option value='CA' >California</option>
+<option value='CO' >Colorado</option>
+<option value='CT' >Connecticut</option>
+<option value='DE' >Delaware</option>
+<option value='FM' >Federated States of Micronesia</option>
+<option value='FL' >Florida</option>
+<option value='GA' >Georgia</option>
+<option value='GU' >Guam</option>
+<option value='HI' >Hawaii</option>
+<option value='ID' >Idaho</option>
+<option value='IL' >Illinois</option>
+<option value='IN' >Indiana</option>
+<option value='IA' >Iowa</option>
+<option value='KS' >Kansas</option>
+<option value='KY' >Kentucky</option>
+<option value='LA' >Louisiana</option>
+<option value='ME' >Maine</option>
+<option value='MH' >Marshall Islands</option>
+<option value='MD' >Maryland</option>
+<option value='MA' >Massachusetts</option>
+<option value='MI' >Michigan</option>
+<option value='MN' >Minnesota</option>
+<option value='MS' >Mississippi</option>
+<option value='MO' >Missouri</option>
+<option value='MT' >Montana</option>
+<option value='NE' >Nebraska</option>
+<option value='NV' >Nevada</option>
+<option value='NH' >New Hampshire</option>
+<option value='NJ' >New Jersey</option>
+<option value='NM' >New Mexico</option>
+<option value='NY' >New York</option>
+<option value='NC' >North Carolina</option>
+<option value='ND' >North Dakota</option>
+<option value='MP' >Northern Mariana Islands</option>
+<option value='OH' >Ohio</option>
+<option value='OK' >Oklahoma</option>
+<option value='OR' >Oregon</option>
+<option value='PW' >Palau</option>
+<option value='PA' >Pennsylvania</option>
+<option value='PR' >Puerto Rico</option>
+<option value='RI' >Rhode Island</option>
+<option value='SC' >South Carolina</option>
+<option value='SD' >South Dakota</option>
+<option value='TN' >Tennessee</option>
+<option value='TX' >Texas</option>
+<option value='UT' >Utah</option>
+<option value='VT' >Vermont</option>
+<option value='VI' >Virgin Islands</option>
+<option value='VA' >Virginia</option>
+<option value='WA' >Washington</option>
+<option value='DC' >Washington D.C.</option>
+<option value='WV' >West Virginia</option>
+<option value='WI' >Wisconsin</option>
+<option value='WY' >Wyoming</option>
+<option value='AA' >Armed Forces Americas</option>
+<option value='AE' >Armed Forces Europe</option>
+<option value='AP' >Armed Forces Pacific</option></select>
+</span>
+                                    <span class="state_ca"><select name=foo  x-autocompletetype="state" class="form_field_state"><option value="">Province</option>
+<option value='AB' >Alberta</option>
+<option value='BC' >British Columbia</option>
+<option value='MB' >Manitoba</option>
+<option value='NB' >New Brunswick</option>
+<option value='NL' >Newfoundland and Labrador</option>
+<option value='NT' >Northwest Territories</option>
+<option value='NS' >Nova Scotia</option>
+<option value='NU' >Nunavut</option>
+<option value='ON' >Ontario</option>
+<option value='PE' >Prince Edward Island</option>
+<option value='QC' >Quebec</option>
+<option value='SK' >Saskatchewan</option>
+<option value='YT' >Yukon</option></select>
+</span>
+                                    <span class="state_au"><select name=foo  x-autocompletetype="state" class="form_field_state"><option value="">State</option>
+<option value='CT' >Australian Capital Territory</option>
+<option value='SW' >New South Wales</option>
+<option value='NT' >Northern Territory</option>
+<option value='QL' >Queensland</option>
+<option value='SA' >South Australia</option>
+<option value='TA' >Tasmania</option>
+<option value='VI' >Victoria</option>
+<option value='WA' >Western Australia</option></select>
+</span>
+                                </div>
+                            </div>
+
+                            <div id="form_field_zip" class="form_field form_field_no_errors form_field_zip">
+                                <div class="form_label" for="sign_zip">
+                                    (optional)
+                                </div>
+                                <div class="form_input">
+                                    <input type="text" name="sign[zip]" id="sign_zip" x-autocompletetype="postal-code" class="form_field_zip" placeholder="Zip" />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="form_field_phone" class="form_field form_field_no_errors form_field_phone">
+                            <div class="form_label" for="sign_phone">
+                                (optional)
+                            </div>
+                            <div class="form_input"><input type="text" name="sign[phone]" id="sign_phone" x-autocompletetype="tel" class-"form_field_phone" placeholder="Phone Number" /></div>
+                        </div>
+
+                    </div>
+
+                    <div id="optional_questions">
+                                                    
+                            <div id="form_field_custom_1" class="form_field form_field_no_errors form_field_custom_1">
+                                <div class="form_input form_textarea">
+                                                                            <div class="form_label">(optional)</div>
+                                        <textarea name="sign[custom_1]" class="sign_optional_questions form_field_custom_1" id="sign_custom_1" placeholder="Please add a personal message here about why police militarization needs to stop."></textarea>
+                                    
+                                    
+                                    
+                                </div>
+                            </div>
+                                            </div>
+                    <input type="hidden" name="terms" id="sign_terms" value="1" />
+
+                    <div class="optins_list">
+                        <h3>keep me updated:</h3>
+                        <div class="sponsor_optin"></div>
+                        <div class="internal_optin"></div>
+                    </div>
+
+                    
+                    <div id="sign_page_buttons" class="sign_button form_buttons">
+                        <input type="submit" id="sign_button" value="sign now" />
+                        <div class="sending_notice" style="display:none">
+                            Sending...<br/>
+                            <img src="//dingo.care2.com/c2/loading_square.gif" />
+                        </div>
+                        <div class="loading_notice" style="display:none">
+                            <img src="//dingo.care2.com/c2/loading_square.gif" />
+                        </div>
+                    </div>
+
+                                            <div class="facebook_checkbox">
+                            <input type="checkbox" id="fb_publish" name="fb_publish" class="fb_publish" checked="checked" value="1" />
+                            <label for="fb_publish">share my signature on Facebook</label>
+                        </div>
+                        <div class="terms">By signing, you accept Care2's <a href="http://www.care2.com/help/general/tos.html">Terms of Service</a></div>
+                        <div class="protected">Your email and postal address will <a href="http://www.care2.com/help/general/tos.html">remain private</a></div>
+                                    </form>
+            </div>
+
+            
+            <div class="sign_problems">
+                Having problems signing this?
+                <a rel="nofollow" href="http://www.thepetitionsite.com/help-survey">Let us know</a>.
+            </div>
+        </div>
+
+        <script>
+
+
+
+
+        </script>
+
+        <div id="ajax_already_signed">
+            
+                <div id="signed_message">
+                    <h4><span class="data_firstname"></span>,<br/> you took action on <span class="data_signed_date"></span></h4>
+                    <span class="care2_horiz_squares">you can help by sharing</span>
+                </div>
+
+                
+
+    
+
+    <ul class="care2_horiz_squares contain_floats share_widget" data-actions="get_counts open_window" data-url="http://www.thepetitionsite.com/takeaction/423/349/851/"><li class="facebook"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.thepetitionsite.com%2Ftakeaction%2F423%2F349%2F851%2F&title=Protesters%20are%20not%20Enemy%20Combatants&media=&summary=&system=6&system_key=423349851&service=facebook" data-width="640" data-height="400"></a></li><li class="twitter"><a href="http://www.care2.com/share/doshare.html?url=http%3A%2F%2Fwww.thepetitionsite.com%2Ftakeaction%2F423%2F349%2F851%2F&title=Protesters%20are%20not%20Enemy%20Combatants&media=&summary=&system=6&system_key=423349851&service=twitter" data-width="640" data-height="400"></a></li><li class="email"><a href="#"></a></li><li class="widget"><a href="#"></a></li></ul>
+
+        <style>
+
+        ul.care2_horiz_squares li a {
+            float: left;
+            width: 73px;
+            height: 30px;
+            line-height: 30px;
+            margin-left: 8px;
+            padding-bottom: 42px;
+            background: transparent url(//dingo.care2.com/c2/sharing/sprites/horiz_squares.png) no-repeat scroll 0 0;
+            font-size: 16px;
+            font-weight: bold;
+            color: inherit;
+            text-align: center;
+        }
+
+        ul.care2_horiz_squares li a:hover {
+            text-decoration: none;
+        }
+
+        ul.care2_horiz_squares li:first-child a {
+            margin-left: 0;
+        }
+
+        ul.care2_horiz_squares li.twitter a {
+            background-position: -73px 0;
+        }
+
+        
+
+        ul.care2_horiz_squares li.email a {
+            background-position: -365px 0;
+        }
+
+        ul.care2_horiz_squares li.widget a {
+            background-position: -438px 0;
+        }
+
+    </style>
+    
+
+
+            
+                        <div id="sign_next_actions">
+                <h4>other urgent petitions need your help</h4>
+                <h3>take action now</h3>
+                <div id="ajax_next_actions"></div>
+            </div>
+            
+            <div class="signed_create_ad">
+                <h3>Make A Difference</h3>
+
+                <a href="/create-a-petition.html">start a new petition</a>
+
+                <h4>with the #1 petition site in the world</h4>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+<div style="display:none">
+<div id="petitionsPage_confirm" class="contain_floats">
+
+    <h3>THANK YOU!</h3>
+
+    <div class="signature_block contain_floats">
+        <h4>Step 2: Confirm Your Signature</h4>
+
+        <div class="signature">
+            <div class="signer"></div>
+            <div class="date"></div>
+        </div>
+
+        <div id="confirm_page_buttons" class="form_buttons">
+            <input name="button_sign" type="submit" value="CONFIRM" id="button_sign" />
+            <div class="sending_notice" style="display:none">
+                Sending...<br/>
+                <img src="//dingo.care2.com/c2/loading_square.gif" />
+            </div>
+            <div class="loading_notice" style="display:none">
+                <img src="//dingo.care2.com/c2/loading_square.gif" />
+            </div>
+        </div>
+    </div>
+
+    <div class="optins_list contain_floats">
+        <div id="ajax_optin_sponsor" class="sponsor_optin"></div>
+        <div id="ajax_optin_internal" class="internal_optin"></div>
+    </div>
+
+    <div class="integrated_petition">
+        <h3>DOUBLE YOUR IMPACT!</h3>
+
+        <div class="optin"></div>
+
+        <div class="description">
+            <img src="" />
+            <h4></h4>
+            <div class="signatures"><span></span> SIGNATURES</div>
+        </div>
+
+        <div class="summary"></div>
+
+        <div class="sponsor">
+            SPONSORED BY:
+            <span></span>
+            <img src="" />
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div id="petitionsPage_next_action" class="contain_floats" style="display:none">
+    <div id="na_loading">
+        <h3><span>thank you</span> for caring</h3>
+        <img src="//dingo.care2.com/petitions/global/loader.gif" alt="loading..." />
+        <p>loading</p>
+    </div>
+
+    <div id="na_mid">
+        <div class="mini_header contain_floats">
+            <div id="next_action_sharing" class="contain_floats">
+                <div class="arrow_box"></div>
+                <h4>INCREASE YOUR IMPACT</h4>
+                <div class="facebook"><a href="http://www.care2.com/share/doshare.html?url=http://www.thepetitionsite.com%2Ftakeaction%2F423%2F349%2F851%2F%3Fcid=fb_na&title=Protesters%20are%20not%20Enemy%20Combatants&system=6&system_key=423349851&service=facebook_petition"></a></div>
+            </div>
+
+            <h3>Thank you, <span class="data_firstname"></span>.</h3>
+
+            <div class="thank_you contain_floats">
+                <img src="//dingo.care2.com/pictures/petition_images/petition/851/423349-1408040951-wide_thumb.jpg" alt="Stop the Militarization of Police in America Immediately" />
+                <h4>Stop the Militarization of Police in America Immediately</h4>
+            </div>
+        </div>
+
+        <div id="next_actions" class="contain_floats">
+            <div id="na_left_arrow" class="na_arrow"></div>
+            <div id="na_right_arrow" class="na_arrow"></div>
+
+            <div id="na_pet_content"></div>
+
+            <div id="na_area">
+                <h2 class="petition_data" rel="title|text"></h2>
+
+                <div class="petition_description">
+                    <div class="description">
+                        <a target="_top" class="petition_data thumbnail" rel="petition_url|href"><img class="petition_data" rel="image_url|src" /></a>
+                        <h3><a target="_top" class="petition_data" rel="title|text::petition_url|href"></a></h3>
+                        <h4><span class="petition_data" rel="sig_count|text"></span> SUPPORTERS</h4>
+                    </div>
+
+                    <div class="freeform_target">TARGET: <span class="petition_data" rel="freeform_target|text|parent"></span></div>
+                    <div class="petition_data summary" rel="summary|html"></div>
+                    <div class="read_more"><a target="_top" class="petition_data" rel="petition_url|href" id="na_summary_read_more">read more</a></div>
+                </div>
+
+
+                <form id="na_signature_form" name="signature_form" action="javascript:void(0)">
+                    <input type="hidden" id="na_sign_sig_number" name="sigNumber" value="" />
+                    <input type="hidden" id="na_sign_page" name="signPage" value="" />
+
+                    <h5><span class="data_firstname"></span>, please answer these quick questions</h5>
+
+                    <div class="phone_disclaimer petition_data" rel="extended_body|html"></div>
+
+                    <span class="sign_optional_error"></span>
+
+                    <div class="contain_floats">
+
+                        <div id="na_form_field_firstname" class="form_field form_field_no_errors form_field_firstname">
+                            <div class="form_label" for="na_sign_firstname">First Name</div>
+                            <div class="form_input"><input type="text" id="na_sign_firstname" name="sign[firstname]" class="form_field_firstname" /></div>
+                        </div>
+
+                        <div id="na_form_field_lastname" class="form_field form_field_no_errors form_field_lastname">
+                            <div class="form_label" for="na_sign_lastname">Last Name</div>
+                            <div class="form_input">
+                                <input type="text" id="na_sign_lastname" name="sign[lastname]" class="form_field_lastname" />
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div id="na_form_field_email" class="form_field form_field_no_errors form_field_email">
+                        <div class="form_label" for="na_sign_email">Email</div>
+                        <div class="form_input"><input type="text" name="sign[email]" id="na_sign_email" class="form_field_email" maxlength="50" /></div>
+                    </div>
+
+                    <div id="na_form_field_country" class="form_field form_field_no_errors form_field_country">
+                        <div class="form_label" for="na_sign_country">Country</div>
+                        <div class="form_input">
+                                                        <select name=sign[country] id="na_sign_country" class="form_field_country">
+<option value='af' >Afghanistan</option>
+<option value='ax' >Aland Islands</option>
+<option value='al' >Albania</option>
+<option value='dz' >Algeria</option>
+<option value='as' >American Samoa</option>
+<option value='ad' >Andorra</option>
+<option value='ao' >Angola</option>
+<option value='ai' >Anguilla</option>
+<option value='aq' >Antarctica</option>
+<option value='ag' >Antigua And Barbuda</option>
+<option value='ar' >Argentina</option>
+<option value='am' >Armenia</option>
+<option value='aw' >Aruba</option>
+<option value='au' >Australia</option>
+<option value='at' >Austria</option>
+<option value='az' >Azerbaijan</option>
+<option value='bs' >Bahamas</option>
+<option value='bh' >Bahrain</option>
+<option value='bd' >Bangladesh</option>
+<option value='bb' >Barbados</option>
+<option value='by' >Belarus</option>
+<option value='be' >Belgium</option>
+<option value='bz' >Belize</option>
+<option value='bj' >Benin</option>
+<option value='bm' >Bermuda</option>
+<option value='bt' >Bhutan</option>
+<option value='bo' >Bolivia</option>
+<option value='bq' >Bonaire</option>
+<option value='ba' >Bosnia And Herzegovina</option>
+<option value='bw' >Botswana</option>
+<option value='bv' >Bouvet Island</option>
+<option value='br' >Brazil</option>
+<option value='io' >British Indian Ocean Territory</option>
+<option value='bn' >Brunei Darussalam</option>
+<option value='bg' >Bulgaria</option>
+<option value='bf' >Burkina Faso</option>
+<option value='bi' >Burundi</option>
+<option value='kh' >Cambodia</option>
+<option value='cm' >Cameroon</option>
+<option value='ca' >Canada</option>
+<option value='cv' >Cape Verde</option>
+<option value='ky' >Cayman Islands</option>
+<option value='cf' >Central African Republic</option>
+<option value='td' >Chad</option>
+<option value='cl' >Chile</option>
+<option value='cn' >China</option>
+<option value='cx' >Christmas Island</option>
+<option value='cc' >Cocos (keeling) Islands</option>
+<option value='co' >Colombia</option>
+<option value='km' >Comoros</option>
+<option value='cg' >Congo</option>
+<option value='cd' >Congo, The Democratic Republic Of The</option>
+<option value='ck' >Cook Islands</option>
+<option value='cr' >Costa Rica</option>
+<option value='ci' >Cote D'ivoire</option>
+<option value='hr' >Croatia</option>
+<option value='cu' >Cuba</option>
+<option value='cw' >Curacao</option>
+<option value='cy' >Cyprus</option>
+<option value='cz' >Czech Republic</option>
+<option value='dk' >Denmark</option>
+<option value='dj' >Djibouti</option>
+<option value='dm' >Dominica</option>
+<option value='do' >Dominican Republic</option>
+<option value='ec' >Ecuador</option>
+<option value='eg' >Egypt</option>
+<option value='sv' >El Salvador</option>
+<option value='gq' >Equatorial Guinea</option>
+<option value='er' >Eritrea</option>
+<option value='ee' >Estonia</option>
+<option value='et' >Ethiopia</option>
+<option value='fk' >Falkland Islands (malvinas)</option>
+<option value='fo' >Faroe Islands</option>
+<option value='fj' >Fiji</option>
+<option value='fi' >Finland</option>
+<option value='fr' >France</option>
+<option value='gf' >French Guiana</option>
+<option value='pf' >French Polynesia</option>
+<option value='tf' >French Southern Territories</option>
+<option value='ga' >Gabon</option>
+<option value='gm' >Gambia</option>
+<option value='ge' >Georgia</option>
+<option value='de' >Germany</option>
+<option value='gh' >Ghana</option>
+<option value='gi' >Gibraltar</option>
+<option value='gr' >Greece</option>
+<option value='gl' >Greenland</option>
+<option value='gd' >Grenada</option>
+<option value='gp' >Guadeloupe</option>
+<option value='gu' >Guam</option>
+<option value='gt' >Guatemala</option>
+<option value='gg' >Guernsey</option>
+<option value='gn' >Guinea</option>
+<option value='gw' >Guinea-bissau</option>
+<option value='gy' >Guyana</option>
+<option value='ht' >Haiti</option>
+<option value='hm' >Heard Island And Mcdonald Islands</option>
+<option value='va' >Holy See (vatican City State)</option>
+<option value='hn' >Honduras</option>
+<option value='hk' >Hong Kong</option>
+<option value='hu' >Hungary</option>
+<option value='is' >Iceland</option>
+<option value='in' >India</option>
+<option value='id' >Indonesia</option>
+<option value='ir' >Iran, Islamic Republic Of</option>
+<option value='iq' >Iraq</option>
+<option value='ie' >Ireland</option>
+<option value='im' >Isle Of Man</option>
+<option value='il' >Israel</option>
+<option value='it' >Italy</option>
+<option value='jm' >Jamaica</option>
+<option value='jp' >Japan</option>
+<option value='je' >Jersey</option>
+<option value='jo' >Jordan</option>
+<option value='kz' >Kazakhstan</option>
+<option value='ke' >Kenya</option>
+<option value='ki' >Kiribati</option>
+<option value='kp' >Korea, Democratic People's Republic Of</option>
+<option value='kr' >Korea, Republic Of</option>
+<option value='kv' >Kosovo</option>
+<option value='kw' >Kuwait</option>
+<option value='kg' >Kyrgyzstan</option>
+<option value='la' >Lao People's Democratic Republic</option>
+<option value='lv' >Latvia</option>
+<option value='lb' >Lebanon</option>
+<option value='ls' >Lesotho</option>
+<option value='lr' >Liberia</option>
+<option value='ly' >Libyan Arab Jamahiriya</option>
+<option value='li' >Liechtenstein</option>
+<option value='lt' >Lithuania</option>
+<option value='lu' >Luxembourg</option>
+<option value='mo' >Macao</option>
+<option value='mk' >Macedonia, The Former Yugoslav Republic Of</option>
+<option value='mg' >Madagascar</option>
+<option value='mw' >Malawi</option>
+<option value='my' >Malaysia</option>
+<option value='mv' >Maldives</option>
+<option value='ml' >Mali</option>
+<option value='mt' >Malta</option>
+<option value='mh' >Marshall Islands</option>
+<option value='mq' >Martinique</option>
+<option value='mr' >Mauritania</option>
+<option value='mu' >Mauritius</option>
+<option value='yt' >Mayotte</option>
+<option value='mx' >Mexico</option>
+<option value='fm' >Micronesia, Federated States Of</option>
+<option value='md' >Moldova, Republic Of</option>
+<option value='mc' >Monaco</option>
+<option value='mn' >Mongolia</option>
+<option value='me' >Montenegro</option>
+<option value='ms' >Montserrat</option>
+<option value='ma' >Morocco</option>
+<option value='mz' >Mozambique</option>
+<option value='mm' >Myanmar</option>
+<option value='na' >Namibia</option>
+<option value='nr' >Nauru</option>
+<option value='np' >Nepal</option>
+<option value='nl' >Netherlands</option>
+<option value='nc' >New Caledonia</option>
+<option value='nz' >New Zealand</option>
+<option value='ni' >Nicaragua</option>
+<option value='ne' >Niger</option>
+<option value='ng' >Nigeria</option>
+<option value='nu' >Niue</option>
+<option value='nf' >Norfolk Island</option>
+<option value='mp' >Northern Mariana Islands</option>
+<option value='no' >Norway</option>
+<option value='om' >Oman</option>
+<option value='pk' >Pakistan</option>
+<option value='pw' >Palau</option>
+<option value='ps' >Palestinian Territory, Occupied</option>
+<option value='pa' >Panama</option>
+<option value='pg' >Papua New Guinea</option>
+<option value='py' >Paraguay</option>
+<option value='pe' >Peru</option>
+<option value='ph' >Philippines</option>
+<option value='pn' >Pitcairn</option>
+<option value='pl' >Poland</option>
+<option value='pt' >Portugal</option>
+<option value='pr' >Puerto Rico</option>
+<option value='qa' >Qatar</option>
+<option value='re' >Reunion</option>
+<option value='ro' >Romania</option>
+<option value='ru' >Russian Federation</option>
+<option value='rw' >Rwanda</option>
+<option value='bl' >Saint Barthelemy</option>
+<option value='sh' >Saint Helena</option>
+<option value='kn' >Saint Kitts And Nevis</option>
+<option value='lc' >Saint Lucia</option>
+<option value='pm' >Saint Pierre And Miquelon</option>
+<option value='vc' >Saint Vincent And The Grenadines</option>
+<option value='ws' >Samoa</option>
+<option value='sm' >San Marino</option>
+<option value='st' >Sao Tome And Principe</option>
+<option value='sa' >Saudi Arabia</option>
+<option value='sn' >Senegal</option>
+<option value='rs' >Serbia</option>
+<option value='sc' >Seychelles</option>
+<option value='sl' >Sierra Leone</option>
+<option value='sg' >Singapore</option>
+<option value='sx' >Sint Maarten</option>
+<option value='sk' >Slovakia</option>
+<option value='si' >Slovenia</option>
+<option value='sb' >Solomon Islands</option>
+<option value='so' >Somalia</option>
+<option value='za' >South Africa</option>
+<option value='gs' >South Georgia And The South Sandwich Islands</option>
+<option value='ss' >South Sudan</option>
+<option value='es' >Spain</option>
+<option value='lk' >Sri Lanka</option>
+<option value='sd' >Sudan</option>
+<option value='sr' >Suriname</option>
+<option value='sj' >Svalbard And Jan Mayen</option>
+<option value='sz' >Swaziland</option>
+<option value='se' >Sweden</option>
+<option value='ch' >Switzerland</option>
+<option value='sy' >Syrian Arab Republic</option>
+<option value='tw' >Taiwan</option>
+<option value='tj' >Tajikistan</option>
+<option value='tz' >Tanzania, United Republic Of</option>
+<option value='th' >Thailand</option>
+<option value='tl' >Timor-leste</option>
+<option value='tg' >Togo</option>
+<option value='tk' >Tokelau</option>
+<option value='to' >Tonga</option>
+<option value='tt' >Trinidad And Tobago</option>
+<option value='tn' >Tunisia</option>
+<option value='tr' >Turkey</option>
+<option value='tm' >Turkmenistan</option>
+<option value='tc' >Turks And Caicos Islands</option>
+<option value='tv' >Tuvalu</option>
+<option value='ug' >Uganda</option>
+<option value='ua' >Ukraine</option>
+<option value='ae' >United Arab Emirates</option>
+<option value='gb' >United Kingdom</option>
+<option value='us' selected>United States</option>
+<option value='um' >United States Minor Outlying Islands</option>
+<option value='uy' >Uruguay</option>
+<option value='uz' >Uzbekistan</option>
+<option value='vu' >Vanuatu</option>
+<option value='ve' >Venezuela</option>
+<option value='vn' >Viet Nam</option>
+<option value='vg' >Virgin Islands, British</option>
+<option value='vi' >Virgin Islands, U.s.</option>
+<option value='wf' >Wallis And Futuna</option>
+<option value='eh' >Western Sahara</option>
+<option value='ye' >Yemen</option>
+<option value='zm' >Zambia</option>
+<option value='zw' >Zimbabwe</option>
+<option value='' >(none)</option></select>
+
+                        </div>
+                    </div>
+
+                    <div class="contain_floats">
+
+                        <div id="na_form_field_address" class="form_field form_field_no_errors form_field_address">
+                            <div class="form_label" for="na_sign_address">Street Address</div>
+                            <div class="form_input"><input type="text" name="sign[address]" id="na_sign_address" value="" /></div>
+                        </div>
+
+                        <div id="na_form_field_city" class="form_field form_field_no_errors form_field_city">
+                            <div class="form_label" for="na_sign_city">City</div>
+                            <div class="form_input"><input type="text" name="sign[city]" id="na_sign_city" class="form_field_city" /></div>
+                        </div>
+
+                    </div>
+
+                    <div class="contain_floats">
+
+                        <div id="na_form_field_state" class="form_field form_field_no_errors form_field_state">
+                            <div class="form_label" for="na_sign_state">
+                                <span class="dynamic_label"></span>
+                            </div>
+                            <div class="form_input">
+                                                                <span class="state_us"><select name=sign[state]  class="form_field_state"><option value="">State</option>
+<option value='AL' >Alabama</option>
+<option value='AK' >Alaska</option>
+<option value='AS' >American Samoa</option>
+<option value='AZ' >Arizona</option>
+<option value='AR' >Arkansas</option>
+<option value='CA' >California</option>
+<option value='CO' >Colorado</option>
+<option value='CT' >Connecticut</option>
+<option value='DE' >Delaware</option>
+<option value='FM' >Federated States of Micronesia</option>
+<option value='FL' >Florida</option>
+<option value='GA' >Georgia</option>
+<option value='GU' >Guam</option>
+<option value='HI' >Hawaii</option>
+<option value='ID' >Idaho</option>
+<option value='IL' >Illinois</option>
+<option value='IN' >Indiana</option>
+<option value='IA' >Iowa</option>
+<option value='KS' >Kansas</option>
+<option value='KY' >Kentucky</option>
+<option value='LA' >Louisiana</option>
+<option value='ME' >Maine</option>
+<option value='MH' >Marshall Islands</option>
+<option value='MD' >Maryland</option>
+<option value='MA' >Massachusetts</option>
+<option value='MI' >Michigan</option>
+<option value='MN' >Minnesota</option>
+<option value='MS' >Mississippi</option>
+<option value='MO' >Missouri</option>
+<option value='MT' >Montana</option>
+<option value='NE' >Nebraska</option>
+<option value='NV' >Nevada</option>
+<option value='NH' >New Hampshire</option>
+<option value='NJ' >New Jersey</option>
+<option value='NM' >New Mexico</option>
+<option value='NY' >New York</option>
+<option value='NC' >North Carolina</option>
+<option value='ND' >North Dakota</option>
+<option value='MP' >Northern Mariana Islands</option>
+<option value='OH' >Ohio</option>
+<option value='OK' >Oklahoma</option>
+<option value='OR' >Oregon</option>
+<option value='PW' >Palau</option>
+<option value='PA' >Pennsylvania</option>
+<option value='PR' >Puerto Rico</option>
+<option value='RI' >Rhode Island</option>
+<option value='SC' >South Carolina</option>
+<option value='SD' >South Dakota</option>
+<option value='TN' >Tennessee</option>
+<option value='TX' >Texas</option>
+<option value='UT' >Utah</option>
+<option value='VT' >Vermont</option>
+<option value='VI' >Virgin Islands</option>
+<option value='VA' >Virginia</option>
+<option value='WA' >Washington</option>
+<option value='DC' >Washington D.C.</option>
+<option value='WV' >West Virginia</option>
+<option value='WI' >Wisconsin</option>
+<option value='WY' >Wyoming</option>
+<option value='AA' >Armed Forces Americas</option>
+<option value='AE' >Armed Forces Europe</option>
+<option value='AP' >Armed Forces Pacific</option></select>
+</span>
+                                <span class="state_ca"><select name=foo  class="form_field_state"><option value="">Province</option>
+<option value='AB' >Alberta</option>
+<option value='BC' >British Columbia</option>
+<option value='MB' >Manitoba</option>
+<option value='NB' >New Brunswick</option>
+<option value='NL' >Newfoundland and Labrador</option>
+<option value='NT' >Northwest Territories</option>
+<option value='NS' >Nova Scotia</option>
+<option value='NU' >Nunavut</option>
+<option value='ON' >Ontario</option>
+<option value='PE' >Prince Edward Island</option>
+<option value='QC' >Quebec</option>
+<option value='SK' >Saskatchewan</option>
+<option value='YT' >Yukon</option></select>
+</span>
+                                <span class="state_au"><select name=foo  class="form_field_state"><option value="">State</option>
+<option value='CT' >Australian Capital Territory</option>
+<option value='SW' >New South Wales</option>
+<option value='NT' >Northern Territory</option>
+<option value='QL' >Queensland</option>
+<option value='SA' >South Australia</option>
+<option value='TA' >Tasmania</option>
+<option value='VI' >Victoria</option>
+<option value='WA' >Western Australia</option></select>
+</span>
+                            </div>
+                        </div>
+
+                        <div id="na_form_field_zip" class="form_field form_field_no_errors form_field_zip">
+                            <div class="form_label" for="na_sign_zip">
+                                <span class="dynamic_label"></span>
+                            </div>
+                            <div class="form_input">
+                                <input type="text" name="sign[zip]" id="na_sign_zip" class="form_field_zip" />
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div id="na_form_field_phone" class="form_field form_field_no_errors form_field_phone">
+                        <div class="form_label" for="na_sign_phone">
+                            <span class="dynamic_label"></span>
+                        </div>
+                        <div class="form_input"><input type="text" name="sign[phone]" id="na_sign_phone" class="form_field_phone" /></div>
+                    </div>
+
+                    <div id="na_custom_questions" style="display:none"></div>
+
+                    <div class="optins_list">
+                        <div class="sponsor_optin"></div>
+                        <div class="internal_optin"></div>
+                    </div>
+
+                    <div id="next_action_page_buttons" class="sign_button form_buttons">
+                        <input type="submit" id="na_sign_button" value="Sign Now!" />
+                        <div class="sending_notice" style="display:none">
+                            Sending...<br/>
+                            <img src="//dingo.care2.com/c2/loading_square.gif" />
+                        </div>
+                        <div class="loading_notice" style="display:none">
+                            <img src="//dingo.care2.com/c2/loading_square.gif" />
+                        </div>
+                    </div>
+
+                    <div class="facebook_checkbox">
+                        <input type="checkbox" id="na_fb_publish" name="fb_publish" class="fb_publish" checked="checked" value="1" />
+                        <label for="na_fb_publish">Share my signature on Facebook</label>
+                    </div>
+
+                    <div class="forprofit_summary petition_data" rel="extended_body|html"></div>
+                </form>
+
+                <div class="sponsored_by">
+                    SPONSORED BY:
+                    <span class="petition_data" rel="freeform_sponsor|text"></span>
+                    <span class="petition_sponsor_image"><img class="petition_data" rel="org_image|src" /></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+
+#petitionWidget { height:490px; }
+</style>
+
+<!--[if IE 7]>
+
+<style>
+#wp_title { left:0; }
+#wp_signatures { left:97px; }
+#wp_author { left:85px; }
+#wp_image { left:-77px; }
+</style>
+
+<![endif]-->
+
+<script>
+
+    window.grabWidgetCSS = "//dingo.care2.com/pictures/static/css/www/styles/petitionsite/grab_widget/grab_widget.1403630653.css";
+    window.grabWidgetJS = "//dingo.care2.com/pictures/static/js/www/js/petitionsite/grab_widget/grab_widget.1426615729.js";
+    window.ZeroClipboardJS = "//dingo.care2.com/pictures/static/js/www/js/ZeroClipboard/ZeroClipboard.1377720672.js";
+
+    window.loadgrabWidget = function(e) {
+
+        window.grabWidgetIntvl = setInterval(function() {
+            if(typeof CARE2.grabWidget != "undefined" && typeof ZeroClipboard != "undefined") {
+                clearInterval(window.grabWidgetIntvl);
+
+                CARE2.grabWidget.init("ul.care2_horiz_squares li.widget a","single","423349851");
+            }
+        }, 250);
+
+        if(window.grabWidgetCSS) {
+            $("head:first").append('<link rel="stylesheet" type="text/css" href="' + window.grabWidgetCSS + '" />');
+            window.grabWidgetCSS = false;
+        }
+
+        if(window.grabWidgetJS) {
+            var script = document.createElement( 'script' );
+            script.type = 'text/javascript';
+            script.src = window.grabWidgetJS;
+            $("head:first").append( script );
+            window.grabWidgetJS = false;
+        }
+
+        if(window.ZeroClipboardJS) {
+            var script = document.createElement( 'script' );
+            script.type = 'text/javascript';
+            script.src = window.ZeroClipboardJS;
+            $("head:first").append( script );
+            window.ZeroClipboardJS = false;
+        }
+
+        return false;
+
+    }
+
+            $("ul.care2_horiz_squares li.widget a").one("click", window.loadgrabWidget);
+    
+</script>
+
+<div style="display:none"><div id="petitionWidget">
+    <div id="widgetContents">
+        <div class="header">
+            embed this petition            <span>&nbsp;onto your site or blog</span>
+        </div>
+        <div class="widgetNote">
+                            Make a difference for the issues you care about while adding cool interactive
+                content. Your readers sign without ever leaving your site. It's simple, just choose
+                your widget size and color and copy the embed code to your site or blog.
+                    </div>
+
+        <h3>customize your widget</h3>
+
+        
+        <div id="widgetContents_left">
+            widget size<br />
+            <select id="widgetSizeValue" onchange="CARE2.grabWidget.updateCode()">
+                <option value="small" selected="selected">300x250</option>
+                <option value="large">460x375</option>
+                <option value="wide">500x190</option>
+                <option value="150x250">150x250</option>
+                <option value="180x250">180x250</option>
+                <option value="interstitial">600x650</option>
+            </select><br />
+            widget color<br />
+            <select id="widgetColorValue" onchange="CARE2.grabWidget.updateCode()">
+                <option value="22489c" selected="selected">blue</option>
+                <option value="62a129">bright green</option>
+                <option value="ac1a1f">red</option>
+                <option value="1aaca6">aqua</option>
+                <option value="94a513">green</option>
+                <option value="841aaa">purple</option>
+                <option value="e02a8e">fuschia</option>
+                <option value="e54731">orange red</option>
+                <option value="ff8820">orange</option>
+                <option value="69564d">brown</option>
+            </select>
+            <div class="grab_wdgt_interface_btn" id="grab_wdgt_update_preview">
+                <a href="#" class="grab_wdgt_interface_link button_sprite" onclick="CARE2.grabWidget.updatePreview();return false;">
+                    update preview
+                </a>
+            </div>
+            <div id="generateCode">
+                <a href="#" class="grab_wdgt_interface_link button_sprite" onclick="CARE2.grabWidget.generateCode();return false;">
+                    generate code
+                </a>
+            </div>
+            <div id="embedCode">
+                <h3>copy the embed code*</h3>
+                <div id="embedCodeContent"></div>
+                <div class="grab_wdgt_interface_btn" style="position:relative;">
+                    <a href="#" id="grab_wdgt_copy_code" class="grab_wdgt_interface_link button_sprite" onclick="return false;">
+                        copy the code
+                    </a>
+                    <span id="copied_code" style="display:none">Successfully copied!</span>
+                </div>
+            </div>
+        </div>
+        <div id="widgetContents_right">
+            widget preview
+            <div class="widgetPH widget_preview_sprite" id="widget_preview_sprite"></div>
+        </div>
+        <div id="js_msg">*javascript must be enabled on your website or blog</div>
+    </div>
+</div>
+</div>
+
+
+
+
+<script>
+
+    window.addressBookCSS = "//dingo.care2.com/pictures/static/css/www/styles/addressbook_popup/addressbook_popup.1373489117.css";
+    window.addressBookJS = "//dingo.care2.com/pictures/static/js/f_e/front_end/jscript/addressbook/addressbook.1403630653.js";
+
+
+    $(function() {
+
+        CARE2.addressBook = function(actionLink,textbox,helpLink) {
+            this.helpLink=helpLink||false;
+            this.actionLink=actionLink;
+            this.textbox=textbox;
+
+            $(this.actionLink).one("click",{obj:this},function(e) {
+                e.preventDefault();
+
+                var obj = e.data.obj;
+
+                CARE2.addressBookInit = function() {
+                    obj.bind();
+                    delete CARE2.addressBookInit;
+                }
+
+                if(!$("#addybook_box").length) {
+                    $(document.body).append(
+                        '<div id="addybook_box" class="care2_floater_container" style="display:none">' +
+                            '<div id="addybook_title" class="floater_header branding_care2" style="cursor: move;"><span>Address Book</span></div>' +
+                            '<div id="addybook_close_box" class="floater_closebox"></div>' +
+                            '<div style="padding: 10px;" class="contain_floats">' +
+                                '<div id="addressBook_loading" style="width: 300px; height: 200px; padding: 25px; text-align: center"><img src="http://dingo.care2.com/petitions/loading.gif" /> Loading...</div>' +
+                                '<div id="addybook_contents"></div>' +
+                            '</div>' +
+                        '</div>'
+                    );
+                }
+
+                if(window.addressBookCSS) {
+                    $("head:first").append('<link rel="stylesheet" type="text/css" href="' + window.addressBookCSS + '" />');
+                    window.addressBookCSS = false;
+                }
+
+                if(window.addressBookJS) {
+                    var script = document.createElement( 'script' );
+                    script.type = 'text/javascript';
+                    script.src = window.addressBookJS;
+                    $("head:first").append( script );
+                    window.addressBookJS = false;
+                } else {
+                    obj.bind();
+                }
+            });
+        }
+
+    });
+
+</script>
+
+
+
+<div id="tell_a_friend_holder" style="display:none">
+    <form id="tell_a_friend_embed">
+
+        <input type="hidden" value="423349851" name="taf[system_key]" id="taf_system_key">        <input type="hidden" value="6" name="taf[system]" id="taf_system">        <input type="hidden" value="email_na" name="taf[cid]" id="taf_cid">        <input type="hidden" value="social_share_Email_petition" name="taf[nitroAction]" id="taf_nitroAction">
+        <div id="taf_form_field_name" class="taf_form_field">
+            <label for="taf_name">Your Name</label>
+            <input type="text" name="taf[sender_name]" id="taf_name" autocorrect="off" autocomplete="off" />
+        </div>
+
+        <div id="taf_form_field_email" class="taf_form_field">
+            <label for="taf_email">Your Email</label>
+            <input type="text" name="taf[sender_email]" id="taf_email" autocorrect="off" autocomplete="off" autocapitalize="off" />
+        </div>
+
+        <div id="taf_form_field_to" class="taf_form_field">
+            <label for="taf_to">To</label>
+            <input type="text" name="taf[recipients]" id="taf_to" placeholder="enter up to 100 email adresses- separated by commas" autocorrect="off" autocomplete="off" autocapitalize="off" /><br/>
+            <input type="checkbox" value="1" checked="checked" name="taf[addressbook]" id="taf_address_book">&nbsp;<label for="taf_address_book">add to Care2 address book</label>
+        </div>
+
+        <div id="taf_import_address">
+            <h3>click to add addresses from:</h3>
+            <div class="hint">(* Requires pop-ups to be enabled)</div>
+            <ul>
+                <li class="yahoo"><a href="#" title="Yahoo!"></a></li>
+                <li class="gmail"><a href="#" title="Gmail"></a></li>
+                <li class="windowslive"><a href="#" title="Windows Live / Hotmail / MSN"></a></li>
+                <li class="aol"><a href="#" title="Aol"></a></li>
+                <li class="plaxo"><a href="#" title="Plaxo"></a></li>
+                <li class="addressbook"><a href="#" title="Address Book"></a></li>
+                <li class="care2"><a href="#" title="Care2"></a></li>
+            </ul>
+        </div>
+
+        <div id="taf_form_field_message" class="taf_form_field">
+            <label for="taf_message">Personal Message</label>
+            <textarea id="taf_message" name="taf[message]" autocorrect="off" autocomplete="off" autocapitalize="off">Hi -
+
+When 18-year-old Mike Brown was approached by police he threw his hands up and yelled "I don't have a gun! Stop shooting!"
+
+But the officer didn't stop shooting. Mike Brown was shot to death by the police officer. His body lay on the street for four hours before officials finally took it away.
+
+Protesters following the event in Ferguson, Missouri are now being watched by rooftop snipers and are being fired with rubber bullets. This militarization of police is unnacceptable.
+
+I just signed a petition demanding justice for Mike Brown and that all officers involved in the recent brutality are held accountable. Please click here to sign it too: 
+http://www.thepetitionsite.com/takeaction/423/349/851/
+
+Thank you.</textarea>
+        </div>
+
+        <ul class="taf_buttons">
+            <li class="send"><button>send</button></li>
+            <li class="cancel"><button>cancel</button></li>
+        </ul>
+
+        <p class="hate_spam">We <strong>hate spam</strong>. We do not sell or share the email addresses you provide.</p>
+
+    </form>
+</div>
+
+
+
+
+
+<div style="display:none">
+<div id="login_action">
+    <h3>In order to share your signature, please connect with Facebook.</h3>
+    <a href="" class="fb_connect_button" data-onlogin="CARE2.petitionSite.sendSigToFB" data-scope="publish_actions,email"></a>
+</div>
+</div>
+
+<div class="OUTBRAIN" data-src="http://www.thepetitionsite.com/takeaction/423/349/851/" data-widget-id="AR_1" data-ob-template="care2"></div>
+<div class="OUTBRAIN" data-src="http://www.thepetitionsite.com/takeaction/423/349/851/" data-widget-id="AR_2" data-ob-template="care2"></div>
+<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+<style> div.OUTBRAIN { display: none; } </style>
+
+
+
+
+
+
+
+
+
+
+</div>
+<script type="text/javascript">
+window.tellAFriendEmbedCSS = "//dingo.care2.com/pictures/static/css/www/styles/tellafriend_embed/tellafriend_embed.1391732696.css";
+    window.tellAFriendEmbedJS = "//dingo.care2.com/pictures/static/js/f_e/front_end/jslibs/tellafriend_embed/tellafriend_embed.1384812386.js";
+
+
+    $(function() {
+
+        CARE2.tellAFriendEmbed = function(params) {
+            var _self = this;
+
+            $.each(params, function(k,v) {
+                _self[k] = v;
+            });
+
+            this.button.data("obj", this).click(function(e) {
+                e.preventDefault();
+
+                CARE2.tellAFriendEmbedInit = function() {
+                    obj.bind();
+                    delete CARE2.tellAFriendEmbedInit;
+                }
+
+                var obj = $(this).data("obj");
+
+                if(window.tellAFriendEmbedCSS) {
+                    $("head:first").append('<link rel="stylesheet" type="text/css" href="' + window.tellAFriendEmbedCSS + '" />');
+                    window.tellAFriendEmbedCSS = false;
+                }
+
+                if(window.tellAFriendEmbedJS) {
+                    var script = document.createElement( 'script' );
+                    script.type = 'text/javascript';
+                    script.src = window.tellAFriendEmbedJS;
+                    $("head:first").append( script );
+                    window.tellAFriendEmbedJS = false;
+                } else {
+                    obj.bind();
+                }
+            });
+        }
+
+        $(window).trigger("tellAFriendEmbed_SET");
+
+    });
+</script><script type="text/javascript">
+        if (!window.care2_ua_footer_ts) {
+            window.care2_ua_footer_ts = new Date().getTime() / 1000;
+        
+            }
+</script>
+<div style="position:absolute">
+<!-- SiteCatalyst code version: H.26.2.
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript"><!--
+var analytics_site = "c2preprod";
+//--></script>
+
+<script type="text/javascript" src="//dingo.care2.com/pictures/static/js/f_e/front_end/jscript/s_code/s_code.1411416831.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="Petitions : Takeaction : View Petition"
+s.server="www.thepetitionsite.com"
+s.channel="Petitions"
+s.pageType=""
+s.prop16="Unregistered"
+s.prop22="Petition : 423349851 (Stop the Militarization of Police in America Immediately)"
+s.prop29="NPO"
+s.prop30="petition"
+s.prop32="NPO : petition"
+s.prop35="B"
+s.prop37="Petitions : Takeaction : View Petition - Petition : 423349851 (Stop the Militarization of Police in America Immediately)"
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar14="Unregistered"
+s.eVar21="NPO"
+s.eVar22="petition"
+s.eVar24="NPO : petition"
+s.eVar30="Petition : 423349851 (Stop the Militarization of Police in America Immediately)"
+s.eVar35="B"
+/* Hierarchy Variables */
+s.hier1=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+//--></script>
+<!-- End SiteCatalyst code version: H.9. -->
+</div>
+
+
+</div></div><footer><div id="psite_footer_top"><div class="care2_wrapper"><a href="http://www.care2.com/" class="care2_logo">care2</a><ul><li><a href="http://www.thepetitionsite.com/">care2 petitions</a></li><li><a href="http://www.thepetitionsite.com/create-a-petition.html">start a petition</a></li><li><a href="http://www.care2.com/">care2 home</a></li><li><a href="http://www.thepetitionsite.com/petitionfaqs.html">help</a></li></ul><a href="#" id="psite_footer_control">more</a></div></div><div id="psite_footer_bottom"><div class="browse_the_site"><div class="contain_floats care2_wrapper"><div class="browse_section browse_petitions"><h3><a href="http://www.thepetitionsite.com/browse-petitions/">Browse Petitions</a></h3><ul><li><a href="http://www.thepetitionsite.com/browse-petitions/hottest/">hottest petitions</a></li><li><a href="http://www.thepetitionsite.com/browse-petitions/activist/">community created petitions</a></li><li><a href="http://www.thepetitionsite.com/browse-petitions/non-profit/">nonprofit petitions</a></li><li><a href="http://www.thepetitionsite.com/archive/">archived petitions</a></li></ul><ul><li><a href="http://www.thepetitionsite.com/animal-welfare/">animal welfare</a></li><li><a href="http://www.thepetitionsite.com/corporate-accountability/">corporate accountability</a></li><li><a href="http://www.thepetitionsite.com/education/">education</a></li><li><a href="http://www.thepetitionsite.com/environment-and-wildlife/">environment &amp; wildlife</a></li><li><a href="http://www.thepetitionsite.com/health/">health</a></li></ul><ul><li><a href="http://www.thepetitionsite.com/human-rights/">human rights</a></li><li><a href="http://www.thepetitionsite.com/media-arts-culture/">media, arts &amp; culture</a></li><li><a href="http://www.thepetitionsite.com/politics/">politics</a></li><li><a href="http://www.thepetitionsite.com/spirituality-and-religion/">faith</a></li><li><a href="http://www.thepetitionsite.com/petitionfaqs.html">help</a></li></ul></div><div class="browse_section the_petitionsite"><h3><a href="http://www.thepetitionsite.com/">Care2 Petitions</a></h3><ul><li><a href="http://www.thepetitionsite.com/create-a-petition.html">start a petition</a></li><li><a href="http://www.thepetitionsite.com/petitionfaqs.html">petition FAQs</a></li><li><a href="http://www.care2.com/my/petitionsite">my petitionsite</a></li><li><a href="http://www.thepetitionsite.com/toolkit/">petitions toolkit</a></li><li><a href="http://www.thepetitionsite.com/">petionsite home</a></li></ul></div><div class="browse_section care2"><h3><a href="http://www.care2.com/">Care2</a></h3><ul><li><a href="http://www.care2.com/">Care2 home</a></li><li><a href="http://www.care2.com/causes/">causes &amp; news</a></li><li><a href="http://www.care2.com/greenliving/">healthy living</a></li><li><a href="http://www.care2.com/ecards/">ecards</a></li><li><a href="http://www.care2.com/rewards/">butterfly rewards</a></li></ul></div></div></div><div class="footer_links"><div class="care2_wrapper"><ul><li><a href="http://www.care2.com/aboutus/">about us</a></li><li><a href="http://www.care2.com/aboutus/advertise.html">advertise</a></li><li><a href="http://www.care2.com/aboutus/partnerships.html">partnerships</a></li><li><a href="http://www.care2.com/aboutus/careers.html">careers</a></li><li><a href="http://www.care2.com/aboutus/press.html">press</a></li><li><a href="http://www.care2.com/aboutus/contactus.html">contact us</a></li><li><a href="http://www.care2.com/help/general/tos.html">terms of service</a></li><li><a href="http://www.care2.com/help/membership/privacy.html">privacy</a></li><li><a href="http://www.care2.com/newsletters">subscription center</a></li><li><a href="http://www.care2.com/help">help</a></li><li><a href="http://www.care2.com/rssfeeds/">rss feeds</a></li><li><a id="adChoicesLogo" href="//quantcast.com/adchoices-pub?pub=0EpgOlEO2sNQf5034w2u7Q" target="_blank">AdChoices</a></li></ul><span class="copyright">Copyright &copy; 2015 Care2.com, inc. and its licensors. All rights reserved</span></div></div></div></footer><div id="nav_dropdowns"><ul class="animal-welfare"><li><a href="http://www.thepetitionsite.com/animal-welfare/animal-abuse/">animal abuse</a></li><li><a href="http://www.thepetitionsite.com/animal-welfare/animal-research/">animal research</a></li><li><a href="http://www.thepetitionsite.com/animal-welfare/farm-animals/">farm animals</a></li><li><a href="http://www.thepetitionsite.com/animal-welfare/pets/">pets</a></li></ul><ul class="environment-and-wildlife"><li><a href="http://www.thepetitionsite.com/environment-and-wildlife/arctic/">arctic</a></li><li><a href="http://www.thepetitionsite.com/environment-and-wildlife/endangered-species/">endangered species</a></li><li><a href="http://www.thepetitionsite.com/environment-and-wildlife/environmental-health/">environmental health</a></li><li><a href="http://www.thepetitionsite.com/environment-and-wildlife/global-warming-climate-change/">climate change</a></li><li><a href="http://www.thepetitionsite.com/environment-and-wildlife/national-parks-and-forests/">national parks and forests</a></li><li><a href="http://www.thepetitionsite.com/environment-and-wildlife/oceans/">oceans</a></li><li><a href="http://www.thepetitionsite.com/environment-and-wildlife/oil-drilling/">oil drilling</a></li><li><a href="http://www.thepetitionsite.com/environment-and-wildlife/pollution/">pollution</a></li><li><a href="http://www.thepetitionsite.com/environment-and-wildlife/rainforest/">rainforest</a></li><li><a href="http://www.thepetitionsite.com/environment-and-wildlife/whales/">whales</a></li><li><a href="http://www.thepetitionsite.com/environment-and-wildlife/wildlife/">wildlife</a></li></ul><ul class="health"><li><a href="http://www.thepetitionsite.com/health/aging/">aging</a></li><li><a href="http://www.thepetitionsite.com/health/childrens-health/">children's health</a></li><li><a href="http://www.thepetitionsite.com/health/drug-safety/">drug safety</a></li><li><a href="http://www.thepetitionsite.com/health/food-safety/">food safety</a></li><li><a href="http://www.thepetitionsite.com/health/reproductive-rights/">reproductive rights</a></li><li><a href="http://www.thepetitionsite.com/health/womens-health/">women's health</a></li></ul><ul class="human-rights"><li><a href="http://www.thepetitionsite.com/human-rights/armed-conflict-arms-trade/">armed conflict/arms trade</a></li><li><a href="http://www.thepetitionsite.com/human-rights/childrens-rights/">children's rights</a></li><li><a href="http://www.thepetitionsite.com/human-rights/civil-rights/">civil rights</a></li><li><a href="http://www.thepetitionsite.com/human-rights/death-penalty/">death penalty</a></li><li><a href="http://www.thepetitionsite.com/human-rights/gay-rights/">gay rights</a></li><li><a href="http://www.thepetitionsite.com/human-rights/international-justice/">international justice</a></li><li><a href="http://www.thepetitionsite.com/human-rights/peace-and-nonviolence/">peace and nonviolence</a></li><li><a href="http://www.thepetitionsite.com/human-rights/refugees/">refugees</a></li><li><a href="http://www.thepetitionsite.com/human-rights/torture/">torture</a></li><li><a href="http://www.thepetitionsite.com/human-rights/war-on-terror/">war on terror</a></li><li><a href="http://www.thepetitionsite.com/human-rights/womens-rights/">women's rights</a></li></ul><ul class="media-arts-culture"><li><a href="http://www.thepetitionsite.com/media-arts-culture/arts-funding/">arts funding</a></li><li><a href="http://www.thepetitionsite.com/media-arts-culture/celebrities/">celebrities</a></li><li><a href="http://www.thepetitionsite.com/media-arts-culture/gaming/">gaming</a></li><li><a href="http://www.thepetitionsite.com/media-arts-culture/independent-media/">independent media</a></li><li><a href="http://www.thepetitionsite.com/media-arts-culture/internet/">internet</a></li><li><a href="http://www.thepetitionsite.com/media-arts-culture/media-accountability-reporting/">media accountability</a></li><li><a href="http://www.thepetitionsite.com/media-arts-culture/movies/">movies</a></li><li><a href="http://www.thepetitionsite.com/media-arts-culture/museums/">museums</a></li><li><a href="http://www.thepetitionsite.com/media-arts-culture/music/">music</a></li><li><a href="http://www.thepetitionsite.com/media-arts-culture/newspapers-magazines/">newspapers & magazines</a></li><li><a href="http://www.thepetitionsite.com/media-arts-culture/public-broadcasting/">public broadcasting</a></li><li><a href="http://www.thepetitionsite.com/media-arts-culture/television/">television</a></li></ul><ul class="politics"><li><a href="http://www.thepetitionsite.com/politics/conservative/">conservative</a></li><li><a href="http://www.thepetitionsite.com/politics/international/">international</a></li><li><a href="http://www.thepetitionsite.com/politics/progressive/">progressive</a></li></ul><ul class="more-petitions"><li><a href="http://www.thepetitionsite.com/corporate-accountability/" class="top_level">Corporate Accountability</a></li><li><a href="http://www.thepetitionsite.com/corporate-accountability/consumer-protection/">consumer protection</a></li><li><a href="http://www.thepetitionsite.com/corporate-accountability/fair-trade/">fair trade</a></li><li><a href="http://www.thepetitionsite.com/corporate-accountability/labor-workers-rights/">labor/workers' rights</a></li><li><a href="http://www.thepetitionsite.com/spirituality-and-religion/" class="top_level">Faith</a></li></ul><ul class="name"><li id="petition_user_stats"><a href="http://www.care2.com/c2c/my/kudos_green_stars.html" class="greenstars"></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.care2.com/rewards/" class="credits"></a></li><li><a href="http://www.care2.com/my/petitionsite">my dashboard</a></li><li><a href="http://www.care2.com/accounts/">my account</a></li><li><a href="http://www.care2.com/accounts/logoff.html" class="login_link">log out</a></li></ul></div><div id="mobile_dropdowns"><div class="arrow"></div><ul class="name"><li><a href="http://www.thepetitionsite.com/">CARE2 PETITION SITE HOME</a></li><li><a href="http://www.thepetitionsite.com/create-a-petition.html">START A PETITION</a></li><li><a href="http://www.thepetitionsite.com/browse-petitions/">BROWSE PETITIONS</a></li><li><a href="http://www.care2.com/my/petitionsite">MY DASHBOARD</a></li><li><a href="http://www.care2.com/accounts/logoff.html" class="login_link">SIGN OUT</a></li></ul></div><noscript>
+<img src="//pixel.quantserve.com/pixel/p-f3U7oBPZrSNpQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
+</noscript>
+
+    
+
+        
+        <!-- do not remove the below or there will be problems -->
+        <!-- aw4y1n -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5c61b037c4","applicationID":"5673863","transactionName":"YFVUY0IHWUsAAkZZClkfY0VZSRkSEQlC","queueTime":0,"applicationTime":126,"atts":"TBJXFQodSkU=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-627.min.js"}</script></body>
+</html>

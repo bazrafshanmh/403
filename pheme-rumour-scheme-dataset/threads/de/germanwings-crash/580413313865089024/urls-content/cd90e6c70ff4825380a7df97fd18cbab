@@ -1,0 +1,1141 @@
+HTTP/1.1 200 OK
+Server: Apache
+Content-Encoding: gzip
+X-Cobbler: octo02.heise.de
+X-Clacks-Overhead: GNU Terry Pratchett
+Content-Type: text/html; charset=utf-8
+Last-Modified: Tue, 21 Apr 2015 21:21:53 GMT
+Expires: Tue, 21 Apr 2015 21:23:52 GMT
+Cache-Control: public, max-age=118
+Content-Length: 15007
+Accept-Ranges: bytes
+Date: Tue, 21 Apr 2015 21:21:53 GMT
+Age: 0
+Connection: keep-alive
+Vary: Accept-Encoding,User-Agent,X-Export-Format
+
+
+
+
+<!DOCTYPE html>
+<html lang="de">
+<!-- Template-Version 3.6.14-5 [25.02.2015-14:07] / 150421-0934 -->
+
+
+<head>
+
+<!--googleoff: all-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="copyright" content="&copy; Telepolis, Heise Medien GmbH &amp; Co.KG" />
+<link rel="copyright" title="&copy; Telepolis, Heise Medien GmbH &amp; Co.KG" href="/tp/html/impressum.html" />
+<link rel="shortcut icon" href="/tp/icons/frame/favicon.ico" type="image/x-icon" />
+
+
+
+
+<meta property="OG:title" content="Was steht hinter der Rufmord-Kampagne der Mainstream-Medien?" />
+<meta property="OG:type" content="website" />
+<meta property="OG:locale" content="de_DE" />
+<meta property="OG:url" content="http://www.heise.de/tp/artikel/44/44541/" />
+<meta property="OG:site_name" content="Telepolis" />
+
+<meta property="OG:image" content="http://www.heise.de/tp/artikel/44/44541/44541_1.jpg" />
+
+<meta property="OG:description" content="Der Absturz von Germanwings-Flug 4U9525" />
+
+
+
+
+<meta name="robots" content="index,follow" />
+<meta name="author" content="Ernst Wolff" />
+<meta name="date" content="2015-03-31T13:00:00" />
+<meta name="title" content="Was steht hinter der Rufmord-Kampagne der Mainstream-Medien?" />
+<meta name="description" content="Der Absturz von Germanwings-Flug 4U9525" />
+<meta name="topic" content="Artikel" />
+
+
+
+<link rel="start" type="text/html" href="1.html" title="Was steht hinter der Rufmord-Kampagne der Mainstream-Medien?" />
+
+
+<title>Was steht hinter der Rufmord-Kampagne der Mainstream-Medien? | Telepolis</title>
+
+
+<link href="/stil/navi_top2012.css" rel="stylesheet" type="text/css" /> 
+<link href="/tp/css/navi_top2012.css" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" href="/support/lib/jquery/socialshareprivacy/socialshareprivacy.css" />
+
+
+
+<link rel="stylesheet" href="/tp/css/frame_06.css" type="text/css" />
+<link rel="stylesheet" href="/tp/css/element.css" type="text/css" />
+
+<link rel="stylesheet" type="text/css" href="/tp/css/content_04.css" />
+<link rel="stylesheet" type="text/css" href="/tp/css/inter_05.css" />
+<link rel="stylesheet" type="text/css" href="/tp/css/htm.css" />
+
+<!--[if lte IE 8]>
+<link href="/tp/css/xplorer_ie8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link href="/tp/css/xplorer_ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<link rel="stylesheet" href="/tp/css/wide.css" type="text/css"  title="default" />
+<link rel="alternate stylesheet" href="/tp/css/small.css" type="text/css" title="narrow" />
+
+
+<script type="text/javascript" src="/js/jquery/jquery-1.7.2.min.js"></script> 
+<script type="text/javascript" src="/tp/script/modernizr-01.js"></script>
+<script type="text/javascript" src="/support/lib/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/plugins/jquery.socialshareprivacy_heise.min.js"></script>
+<script type="text/javascript" src="/tp/script/pop.js"></script>
+<script type="text/javascript" src="/tp/script/touch-02.js"></script>
+<script type="text/javascript" src="/tp/script/bottom-01.js"></script>
+
+<script type="text/javascript">
+if (tp_touchscreen()) {
+	$( document ).ready( tp_bottomReady_touch );
+} else {
+	$( document ).ready( tp_bottomReady_notouch );
+}
+</script>
+
+
+
+<script type="text/javascript" src="//script.ioam.de/iam.js"></script>
+
+
+</head>
+
+
+<body   onload="set_style_from_cookie()" id="telepolis_all" lang="de">
+
+<!--heise-leiste-->
+<div class="heisetopnavi no-touch heisetopnavi_relaunch" style="font-size: 16px;">
+    <div class="heisetopnavi_header">
+        <header role="banner">
+            <div class="heisetopnavi_login">
+                <script type="text/javascript" src="//www.heise.de/js/ho/login.min.js"></script>
+                <div id="navi_login">
+                    <p><a href="https://www.heise.de/userdb/sso?rm=show_login&amp;dirid=1&amp;objekt=/">Einloggen</a> auf heise online</p>
+                </div>
+            </div>
+            <nav role="navigation">
+                <div class="heisetopnavi_hover_legacy">
+                    <a href="//www.heise.de/index.html/from/navi_oben_ho" class="heisetopnavi_logo" title="heise online">
+                        <img src="//www.heise.de/icons/ho/heise_online_logo_top.gif" width="200" height="44" alt="heise online" id="heisetopnavi_ho_logo_top_img" />
+                    </a>
+                    <a href="#heisetopnavi_sub_container" class="heisetopnavi_button" aria-haspopup="true">Menü auf-/zuklappen</a>
+                    <div id="heisetopnavi_sub_container">
+                        <ul id="heisetopnavi_sub">
+                            <li>
+                                <ul>
+                                    <li class="heisetopnavi_ho"><a href="//www.heise.de/index.html/from/navi_oben_ho" title="heise online – IT-News" name="dachzeile.ho.ho">News</a></li>
+                                    <li class="heisetopnavi_ct"><a href="//www.heise.de/ct/from/navi_oben_ct" title="c't – Magazin für Computertechnik" name="dachzeile.ho.ct">c't</a></li>
+                                    <li class="heisetopnavi_ix"><a href="//www.heise.de/ix/from/navi_oben_ix" title="iX – Magazin für professionelle Informationstechnik" name="dachzeile.ho.ix">iX</a></li>
+                                    <li class="heisetopnavi_tr"><a href="//www.heise.de/tr/from/navi_oben_tr" title="Technology Review – Das M.I.T.-Magazin für Innovation" name="dachzeile.ho.tr">Technology Review</a></li>
+                                    <li class="heisetopnavi_mac"><a href="//www.heise.de/mac-and-i/from/navi_oben_mac" title="Mac &amp; i – Nachrichten, Tests, Tipps und Meinungen rund um Apple" name="dachzeile.ho.mac-and-i">Mac &amp; i</a></li>
+                                    <li class="heisetopnavi_tp"><a href="//www.heise.de/tp/from/navi_oben_tp" title="Telepolis" name="dachzeile.ho.tp">Telepolis</a></li>
+                                    <li class="heisetopnavi_hh"><a href="//www.heise.de/make/from/navi_oben_hh" title="Make – Kreativ mit Technik" name="dachzeile.ho.make">Make</a></li>
+                                    <li class="heisetopnavi_df"><a href="//www.heise.de/foto/special/from/navi_oben_df" title="Digitale Fotografie" name="dachzeile.ho.digitale-fotografie">Digitale Fotografie</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <ul>
+                                    <li class="heisetopnavi_aut"><a href="//www.heise.de/autos/from/navi_oben_aut" title="heise Autos – News, Tests, Technik, Service rund ums Auto" name="dachzeile.ho.autos">heise Autos</a></li>
+                                    <li class="heisetopnavi_dev"><a href="//www.heise.de/developer/from/navi_oben_dev" title="heise Developer – Informationen für Entwickler" name="dachzeile.ho.developer">heise Developer</a></li>
+                                    <li class="heisetopnavi_foto"><a href="//www.heise.de/foto/from/navi_oben_foto" title="heise Foto – Das Online-Magazin rund ums digitale Bild" name="dachzeile.ho.foto">heise Foto</a></li>
+                                    <li class="heisetopnavi_net"><a href="//www.heise.de/netze/from/navi_oben_net" title="heise Netze – Alles über Netzwerk-Technik" name="dachzeile.ho.netze">heise Netze</a></li>
+                                    <li class="heisetopnavi_op"><a href="//www.heise.de/open/from/navi_oben_op" title="heise open – Open Source im Unternehmen" name="dachzeile.ho.open">heise Open Source</a></li>
+                                    <li class="heisetopnavi_sec"><a href="//www.heise.de/security/from/navi_oben_sec" title="heise Security – News, Dienste und Foren zum Thema Computer-Sicherheit" name="dachzeile.ho.security">heise Security</a></li>
+                                    <li class="heisetopnavi_video"><a href="//www.heise.de/video/from/navi_oben_video" title="heise Video – Clips zu Nachrichten und Artikeln" name="dachzeile.ho.video">heise Video</a></li>
+                                    <li class="heisetopnavi_tech"><a href="//www.heise.de/redirect-to/techstage/from/navi_oben_techstage" title="TechStage – News, Tests &amp; Praxis zu Smartphones und Tablets mit Android, iOS, Windows Phone &amp; Co." name="dachzeile.ho.techstage">TechStage</a></li>
+                                </ul>
+                            </li>
+                            <li class="heisetopnavi_third">
+                                <ul>
+                                    <li class="heisetopnavi_swv"><a href="//www.heise.de/download/from/navi_oben_swv" title="Software-Verzeichnis – Software zum Download fuer Windows, Mac, Linux, iPhone, Symbian, Android" name="dachzeile.ho.download">Download</a></li>
+                                    <li class="heisetopnavi_pvg"><a href="//www.heise.de/preisvergleich/from/navi_oben_pvg" title="Preisvergleich – Günstige Preise, Meinungen und Bewertungen zu vielen Produkten" name="dachzeile.ho.preisvergleich">Preisvergleich</a></li>
+                                    <li class="heisetopnavi_job"><a href="//www.heise.de/jobs/from/navi_oben_job" title="heise jobs – Jobbörse für qualifizierte Fach- und Führungskräfte aus der IT-Branche" name="dachzeile.ho.jobs">Stellenmarkt</a></li>
+                                    <li class="heisetopnavi_eve"><a href="//www.heise.de/events/from/navi_oben_eve" title="heise Events – Konferenzen, Seminare, Workshops" name="dachzeile.ho.events">Veranstaltungen</a></li>
+                                    <li class="heisetopnavi_itm"><a href="//www.heise.de/itmarkt/from/navi_oben_itm" title="IT-Markt – Branchenverzeichnis der IT-Fachhändler" name="dachzeile.ho.itmarkt">IT-Markt</a></li>
+                                    <li class="heisetopnavi_whi"><a href="//www.heise.de/whitepapers/from/navi_oben_whi" title="heise Whitepapers – Kostenloser Download aktueller Praxisbeispiele, Firmeninfos, Case Studies und Webcasts zu neuen Produkten, Strategien und Lösungen namhafter IT-Hersteller" name="dachzeile.ho.whitepapers">Whitepapers</a></li>
+                                    <li class="heisetopnavi_webcasts"><a href="//www.heise.de/redirect-to/webcasts/from/navi_oben_webcasts" title="heise Webcasts – Kompakte Firmeninformationen zu komplexen IT-Sachverhalten" name="dachzeile.ho.webcasts">Webcasts</a></li>
+                                    <li class="heisetopnavi_tarifr"><a href="//www.heise.de/redirect-to/tarifrechner/from/navi_oben_tarifr" title="Tarifrechner – DSL, Mobiles Internet, Handy, Telefon, Strom, Gas" name="dachzeile.ho.tarifrechner">Tarifrechner</a></li>
+                                </ul>
+                            </li>
+                            <li class="heisetopnavi_fourth">
+                                <ul>
+                                    <li class="heisetopnavi_shop"><a href="//www.heise.de/redirect-to/shop/from/navi_oben_shop" title="heise shop – IT Fachzeitschriften, Bücher, CD/DVD/Blu-ray" name="dachzeile.ho.shop">heise shop</a></li>
+                                    <li class="heisetopnavi_kio"><a href="//www.heise.de/artikel-archiv/from/navi_oben_kio" title="Artikel-Archiv – c't, iX, Technology Review, Digitale Fotografie, Mac &amp; i, Sonderhefte" name="dachzeile.ho.artikel-archiv">Artikel-Archiv</a></li>
+                                    <li class="heisetopnavi_abo"><a href="//www.heise.de/redirect-to/abo/from/navi_oben_abo" title="Abo – c't, iX, Technology Review, Digitale Fotografie, Mac &amp; i" name="dachzeile.ho.abo">Zeitschriften-Abo</a></li>
+                                    <li class="heisetopnavi_hmg"><a href="//www.heise.de/redirect-to/hmg/from/navi_oben_hmg" title="Arbeiten bei heise – Aktuelle Stellenangebote der Heise Gruppe" name="dachzeile.ho.hmg">Arbeiten bei heise</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+            
+
+            
+
+            <form accept-charset="utf-8" method="get" action="http://www.heise.de/suche/" id="heisetopnavi_search" role="search">
+                <fieldset>
+                    <input type="text" class="search_text" value="" name="q" placeholder="in heise online suchen"><input type="image" src="//www.heise.de/icons/ho/heise_online_lupe.gif" alt="Los" class="search_submit" name="search_submit">
+                    <input type="hidden" class="search_hidden" value="search" name="rm">
+                </fieldset>
+            </form>
+        </header>
+    </div>
+    <div class="clear"></div>
+</div>
+
+<script type="text/javascript">
+if (typeof jQuery !== "undefined") {
+    jQuery(document).ready(function($) {
+        // Support Touch-Devices
+        if ('ontouchstart' in document) {
+            $('.heisetopnavi_relaunch').removeClass('no-touch');
+        }
+        $('.heisetopnavi_button').bind('touchstart', function(e) {
+            e.preventDefault();
+            if ($(e.target).is('a.heisetopnavi_button')) {
+                $(this).toggleClass('active');
+                $('.heisetopnavi header > nav').toggleClass('hover');
+            }
+        });
+
+        $('.heisetopnavi_relaunch .heisetopnavi_button').click(function(e) {
+            e.preventDefault();
+        });
+
+        // Support Keyboard
+        $('.heisetopnavi_relaunch .heisetopnavi_button').keyup(function(e) {
+            if (e.which == 13 && $(e.target).is('a.heisetopnavi_button')) {
+                $('.heisetopnavi_relaunch .heisetopnavi_button').toggleClass('active');
+                $('.heisetopnavi_relaunch header > nav').toggleClass('hover');
+            }
+        });
+
+        /*
+         * Open/Close Menu with JavaScript for more Usability
+         */
+
+        $('.heisetopnavi_relaunch').removeClass('no-touch');
+
+        // Logo + Icon
+        $('.heisetopnavi_relaunch .heisetopnavi_hover_legacy').mouseenter(function() {
+            var timeout_id = window.setTimeout(function() {
+                $('.heisetopnavi_relaunch .heisetopnavi_button').addClass('active');
+                $('.heisetopnavi_relaunch nav').addClass('hover');
+                $('body').addClass('refreshDOM');
+                $('body').removeClass('refreshDOM');
+            }, 300);
+            $(this).data('timeout_id', timeout_id);
+        });
+        $('.heisetopnavi_relaunch .heisetopnavi_hover_legacy').mouseleave(function() {
+            var timeout_id = $(this).data('timeout_id');
+            window.clearTimeout(timeout_id);
+            timeout_id = window.setTimeout(function() {
+                $('.heisetopnavi_relaunch .heisetopnavi_button').removeClass('active');
+                $('.heisetopnavi_relaunch nav').removeClass('hover');
+                $('body').addClass('refreshDOM');
+                $('body').removeClass('refreshDOM');
+            }, 0);
+            $(this).data('timeout_id', timeout_id);
+        });
+    });
+
+    if (typeof heiseLogin != "undefined") {
+        heiseLogin.login_fill_navigation({});
+    }
+}
+</script>
+
+<!--END-heise-leiste-->
+
+
+
+<!--positionierung-aussen-->
+<div class="mainframe">
+
+<!--content-rahmen-->
+<div class="main">
+
+<!--content-innen-->
+
+
+<div class="leftbox">
+<div class="pos-content artext"> 
+ 
+
+
+
+<!--googleon: index-->
+
+<!--Kopf-->
+
+<h1>Was steht hinter der Rufmord-Kampagne der Mainstream-Medien?</h1>
+
+<div class="mar0">
+
+
+<span class="vcard" id="ernstwolff" itemscope itemtype="http://microformats.org/profile/hcard">
+<span class="fn" itemprop="fn"><a  itemprop="url" class="author" href="/tp/autor/ernstwolff/default.html"  title="Weitere Artikel von Ernst Wolff">Ernst Wolff</a></span>
+</span>
+
+
+<span class="date">31.03.2015</span>
+</div>
+
+
+<h2>Der Absturz von Germanwings-Flug 4U9525</h2>
+
+
+
+<h3>Am Dienstag, den 24. M&auml;rz, st&uuml;rzte ein Airbus der Fluglinie Germanwings &uuml;ber den franz&ouml;sischen Alpen ab. Nur 48 Stunden sp&auml;ter gab die Staatsanwaltschaft Marseille eine Pressekonferenz zu dem Ungl&uuml;ck. Vor Kamerateams aus aller Welt behauptete der leitende Staatsanwalt Robin, es sehe so aus, &quot;als ob der Kopilot das Flugzeug vors&auml;tzlich zum Absturz gebracht und so zerst&ouml;rt hat&quot;.</h3>
+
+
+
+<!--END-Kopf-->
+
+<!--googleoff: index-->
+
+
+
+<!--googleon: index-->
+
+
+<a name="44541_1"></a>
+<table class="img-block" cellpadding="0" cellspacing="0">
+ <tr>
+  <td class="strict"><img src="44541_1.jpg"  width="380" height="317"  alt="" /></td>
+  <td class="bild-plus"></td>
+ </tr>
+
+ <tr>
+  <td valign="top" class="bu">Bergung der Opfer und Suche nach dem Flugdatenschreiber. Bild: Minist&egrave;re de l'int&eacute;rieur</td>
+  <td></td>
+ </tr>
+</table>
+
+<p class="text">Es ist allgemein bekannt, dass es Monate oder Jahre dauert, bis nach einem Flugunfall gesicherte Erkenntnisse &uuml;ber die Absturzursache vorliegen. Dennoch wurde Robins voreilige und allen juristischen Prinzipien zuwiderlaufende Schuldzuweisung umgehend von den Mainstream-Medien aufgegriffen, um eine der gr&ouml;&szlig;ten Rufmord-Kampagnen in der Geschichte der Informationsindustrie zu entfachen.  </p>
+
+<p class="text">Binnen Stunden wurden der vollst&auml;ndige Name des betroffenen Kopiloten genannt und private Fotos von ihm verbreitet. Seine beiden Wohnorte wurden bekanntgegeben und im Bild gezeigt, sein Elternhaus wurde von einer Heerschar von Sensationsjournalisten aus dem In- und Ausland belagert, der Bruder von der Polizei vor laufenden Kameras abgef&uuml;hrt. Verwandte, Nachbarn, Schulkameraden und Freunde wurden mit Fragen bombardiert, die alle eines gemeinsam hatten: Sie gingen von der bereits erwiesenen Schuld des Betroffenen aus. </p>
+
+<p class="text">Sowohl die Aussagen von Staatsanwalt Robin als auch die anschlie&szlig;ende Kampagne der Mainstream-Medien stehen in eklatantem Widerspruch zu den elementarsten Grunds&auml;tzen des Journalismus und unseres Rechtssystems. Eines der Fundamente der Rechtsstaatlichkeit ist die <i>Unschuldsvermutung</i>. In Artikel 11, Absatz 1 der Allgemeinen Erkl&auml;rung der Menschenrechte der Vereinten Nationen von 1948 hei&szlig;t es: &quot;Jeder Mensch, der einer strafbaren Handlung beschuldigt wird, ist solange als unschuldig anzusehen, bis seine Schuld in einem &ouml;ffentlichen Verfahren, in dem alle f&uuml;r seine Verteidigung n&ouml;tigen Voraussetzungen gew&auml;hrleistet waren, gem&auml;&szlig; dem Gesetz nachgewiesen ist.&quot; </p>
+
+<p class="text">Dass diese Unschuldsvermutung in der vergangenen Woche von den Mainstream-Medien (und auch einem Teil einer angeblich kritischen Presse) vollst&auml;ndig au&szlig;er Kraft gesetzt wurde, wirft nicht nur ein bezeichnendes Licht auf den moralischen Zustand unserer Gesellschaft. Dass ein Verstorbener, der sich nicht mehr wehren kann, medial posthum moralisch vernichtet und seine Familie zur Generalverurteilung in den Fokus der &Ouml;ffentlichkeit gezerrt wird, sollte aber auch zum Anlass genommen werden, folgende Fragen zu stellen: Welche Interessen verbergen sich hinter dieser gezielten Rufmordkampagne? Wem n&uuml;tzt sie? </p>
+<h4 class="zu">Luftfahrtindustrie in Schwierigkeiten</h4>
+<p class="text">Schon ein fl&uuml;chtiger Blick auf die Luftfahrtindustrie zeigt, dass  sie sich seit l&auml;ngerem in erheblichen Schwierigkeiten befindet. Fusionen, Pleiten, &Uuml;bernahmen und Neugr&uuml;ndungen von Billig-Airlines und ein unerbittlicher internationaler Preiskampf haben die Entwicklung der vergangenen Jahre ebenso bestimmt wie fl&auml;chendeckende Streiks, Lohnsenkungen und Entlassungen des Stammpersonals bei gleichzeitiger Einstellung von Leiharbeitern.  </p>
+
+<p class="text">Dazu befindet sich die F&uuml;hrungsebene im internationalen Fluggesch&auml;ft wegen der dubiosen Begleitumst&auml;nde mehrerer Luftfahrtkatastrophen der j&uuml;ngeren Vergangenheit in immer gr&ouml;&szlig;erer Erkl&auml;rungsnot. Auch die Umst&auml;nde des Absturzes der Germanwings-Maschine - die Weigerung mehrerer Crews, den Dienst nach dem Absturz der Ungl&uuml;cksmaschine anzutreten, der desolate Zustand des Voice-Recorders und die Tatsache, dass die Blackbox bisher nicht aufgefunden wurde - sind nicht gerade dazu angetan, verlorenes Vertrauen zur&uuml;ckzugewinnen. </p>
+
+<p class="text">Um die Hintergr&uuml;nde dieser Entwicklung zu verstehen, ist es hilfreich, einen kurzen Blick auf die Geschichte der Lufthansa (der Muttergesellschaft der Germanwings) zu werfen: Das 1926 gegr&uuml;ndete Unternehmen war vierzig Jahre lang ausschlie&szlig;lich in staatlichem Besitz. 1966 ging es an die B&ouml;rse. Im Zuge der Privatisierungswelle Anfang der Neunziger Jahre reduzierte der deutsche Staat seinen Anteil an den Aktien von &uuml;ber 50 % auf 34 %, 1997 erfolgte die vollst&auml;ndige Privatisierung. Das hei&szlig;t im Klartext: Seit 1997 liegt die Finanzierung der Lufthansa in den H&auml;nden privater und an ihrem Gewinn interessierter Investoren. </p>
+
+<p class="text">Da der durch die Deregulierung der Finanzwirtschaft erm&ouml;glichte und f&uuml;r Investoren hochlukrative Bereich der reinen Finanzprodukte (Derivate) seit der Mitte der Neunziger Jahre f&ouml;rmlich explodiert ist, befindet sich die Realwirtschaft, zu der auch die Luftfahrtindustrie geh&ouml;rt, seitdem in einem immer sch&auml;rferen Konkurrenzkampf um Renditen und Profite.  </p>
+<h4 class="zu">Billigfluglinien und zunehmender Konkurrenzdruck</h4>
+<p class="text">Um in diesem Kampf bestehen zu k&ouml;nnen, wurde das Billigfliegergesch&auml;ft in den Neunzigern erheblich ausgeweitet und auch von den gro&szlig;en Fluggesellschaften &uuml;bernommen. Flogen 1994 nur 3 Mio. Passagiere mit Billigfliegern, waren es 1999 bereits 17,5 Mio. 2002 wurde das Lufthansa-Tochterunternehmen Germanwings gegr&uuml;ndet. 2013 bew&auml;ltigte es mit nur wenig mehr als 2.000 Mitarbeitern bereits ein Fluggastaufkommen von 13 Mio. Passagieren.  </p>
+
+<p class="text">Billigfluggesellschaften zahlen ihren Mitarbeitern, die entweder nicht oder nur zu einem geringen Prozentsatz gewerkschaftlich organisiert sind, bei h&auml;rteren Arbeitsbedingungen schlechtere L&ouml;hne und greifen h&auml;ufig auf (zum Teil von ihnen selbst mitbetriebene) Leiharbeitsfirmen zur&uuml;ck. Zudem &uuml;ben sie wegen der direkten Konkurrenz einen erheblichen Druck auf die Mitarbeiter der verbliebenen konventionellen Fluglinien aus. </p>
+
+<p class="text">Hinzu kommen zwei weitere Faktoren, die die Entwicklung der internationalen Luftfahrt in den vergangenen Jahren entscheidend gepr&auml;gt haben: Die Krise von 2007 / 2008 hat nicht etwa zu einer Eingrenzung, sondern zur Ausweitung der Derivatewirtschaft gef&uuml;hrt. Die den Banken in den USA, Japan und der Eurozone fast zum Nullzinssatz zur Verf&uuml;gung gestellten Billionenbetr&auml;ge sind fast ausschlie&szlig;lich zur Spekulation benutzt worden und haben den Druck auf die Investoren in der Realwirtschaft noch weiter erh&ouml;ht.  </p>
+
+<p class="text">Der zweite Faktor ist der seit einigen Jahren tobende Wettbewerb der klassischen Luftfahrtindustrie mit neuen, nur wenige Jahre alten Konkurrenzairlines aus dem Nahen Osten, die samt und sonders von den erheblich niedrigeren Treibstoffkosten ihrer &ouml;lreichen L&auml;nder profitieren.  </p>
+
+<p class="text">Da unter diesen erschwerten Gesch&auml;ftsbedingungen die normalerweise f&auml;llige Erh&ouml;hung der Flugpreise wegen der nachlassenden Kaufkraft der Zielgruppe der Billigreisenden (sie sind am st&auml;rksten vom Absinken der Reall&ouml;hne und der Ausweitung des Billiglohnsektors betroffen) nicht m&ouml;glich war, blieb den Airlines angesichts des Pochens der Investoren auf hoher Rendite nur die kontinuierliche Senkung ihrer Kosten. Sie hat bei allen Luftfahrtunternehmen eine h&ouml;chst gef&auml;hrliche Spirale in Gang gesetzt und zur fortschreitenden Verschlechterung der Sicherheitssituation f&uuml;r die Flugg&auml;ste gef&uuml;hrt.  </p>
+
+<p class="text">Um genau diesen Missstand zu verschleiern und somit von den wahren Ursachen der Misere der Branche abzulenken, beeilt sich die Luftfahrtindustrie nach jedem Ungl&uuml;ck, den Fokus der &Ouml;ffentlichkeit so schnell wie m&ouml;glich auf Faktoren wie &quot;menschliches Versagen&quot; zu richten. Bereits beim bis heute nicht erkl&auml;rten Verschwinden des Fluges 370 der Air Malaysia wurden verschiedenste Spekulationen &uuml;ber einen m&ouml;glichen Selbstmord des Piloten verbreitet. Diesmal sind es die angeblichen und bisher nicht bewiesenen psychischen Probleme eines Kopiloten, die der &Ouml;ffentlichkeit als Ursache der Katastrophe pr&auml;sentiert werden.   </p>
+
+<p class="text">Dass die Mainstream-Medien die Luftfahrtindustrie dabei r&uuml;ckhaltlos und unter Missachtung aller journalistischen Grunds&auml;tze unterst&uuml;tzen, liegt daran, dass sich die Informationsindustrie als ein Teil der Realwirtschaft in einem &auml;hnlichen Kampf wie die Luftfahrtindustrie befindet. Auch hier verlangen die Investoren, dass jede M&ouml;glichkeit, die Rendite zu erh&ouml;hen, ergriffen wird.  </p>
+
+<p class="text">Sowohl der Absturz der Germanwings-Maschine - mit dem Hintergrund der billigenden  Inkaufnahme geringerer Sicherheitsstandards zur Kostensenkung - als auch die anschlie&szlig;ende Kampagne der Mainstream-Medien - die moralische Vernichtung von Toten und ihren Angeh&ouml;rigen - zeigen, welche verheerenden Auswirkungen die inzwischen allumfassende Beherrschung der Weltwirtschaft durch den Finanzsektor auf s&auml;mtliche Bereiche unserer Gesellschaft hat. </p>
+<div class="fr">
+  <div class="fr-ecke">
+<p class="text frlast">Ernst Wolff ist freiberuflicher Journalist und Autor des Buches &quot;Weltmacht IWF - Chronik eines Raubzugs&quot;, erschienen im Tectum-Verlag, Marburg.</p>
+  </div>
+</div>
+
+<!--googleoff: index-->
+
+
+
+
+
+<div id="breadcrumb">
+<a href="http://www.heise.de/tp/">Telepolis</a>
+ 
+ &gt;
+
+
+
+<a href="/tp/inhalt/politik/default.html">Politik</a>
+
+
+ 
+ &gt;
+
+<a href="/tp/inhalt/mein/default.html">Meinung</a>
+
+
+
+
+</div>
+
+
+
+<!--START-bottom-leiste-->
+<NOSCRIPT><style type="text/css">#tp-services a  {display: inline-block; }</style></NOSCRIPT>
+  
+<div id="servfield">
+<div id="theodor"><iframe id="theodor-frame" src="/tp/zitat/44/44541/1.html"></iframe><img src="/tp/icons/newbottom/closex.gif" alt="x" class="hand" /></div>
+
+<div id="tp-services-cut"><div id="tp-services">
+
+<a href="http://www.heise.de/contentmailer/tp/artikel/44/44541/1.html" id="tp-sendartikel"><div class="bottomleiste-img"><img src="/tp/icons/newbottom/bottom_send.svg" alt="S" class="firstbottomimg" onerror="this.onerror=null; this.src='/tp/icons/newbottom/bottom_send.png'" /><img src="/tp/icons/newbottom/bottom_send-over.svg" alt="" class="secondbottomimg" onerror="this.onerror=null; this.src='/tp/icons/newbottom/bottom_send-over.png'" /></div><div class="nobrx">Artikel versenden</div></a>
+
+<a href="/tp/druck/mb/artikel/44/44541/1.html" id="tp-druckversion"><div class="bottomleiste-img"><img src="/tp/icons/newbottom/bottom_print.svg" alt="P" class="firstbottomimg" onerror="this.onerror=null; this.src='/tp/icons/newbottom/bottom_print.png'" /><img src="/tp/icons/newbottom/bottom_print_over.svg" alt="" class="secondbottomimg" onerror="this.onerror=null; this.src='/tp/icons/newbottom/bottom_print_over.png'" /></div><div class="nobrx">Druckversion</div></a>
+
+</div></div>
+
+<a href="mailto:tpred@tp.heise.de?subject=TP-Fehler%20in%20Artikel%20%5B44541%5D%20Was%20steht%20hinter%20der%20Rufmord-Kampagne%20der%20Mainstream-Medien%3F"><div id="tpfehlermelden">Fehler melden</div></a>
+
+<div id="zitatquery">
+<script type="text/javascript">document.write("<div class=\"tp-zitat\" id=\"doczit-out\"><img src=\"/tp/icons/newbottom/doczit-out.svg\" alt=\"Z\" onerror=\"this.onerror=null; this.src=\'/tp/icons/newbottom/doczit-out.png\'\" /></div>");</script>
+<NOSCRIPT><a href="/tp/zitat/44/44541/1.html"><div class="tp-zitat" id="doczit-out"><img src="/tp/icons/newbottom/doczit-out.svg" alt="Z" title="Telepolis zitieren" onerror="this.onerror=null; this.src='/tp/icons/newbottom/doczit-out.png'" /></div></a></NOSCRIPT>
+
+<div class="tp-zitat" id="doczit-in"><img src="/tp/icons/newbottom/doczit-in.svg" alt="" onerror="this.onerror=null; this.src='/tp/icons/newbottom/doczit-in.png'" /></div>
+<div id="tp-zitat-show">Telepolis zitieren</div><div  class="zitat-decker" id="zitat-decker-over"></div>
+</div>
+<div id="zitatquery-up">
+<div class="tp-zitat" id="doczit-up"><img src="/tp/icons/newbottom/doczit-up.svg" alt="" onerror="this.onerror=null; this.src='/tp/icons/newbottom/doczit-up.png'" /></div>
+<div class="zitat-decker" id="zitat-decker-up"></div>
+</div>
+
+<div id="deck-services"></div>
+<div id="tp-fehler-show">Vielen Dank!</div>
+
+</div>
+
+<div id="heisesocfield">
+<div id="heiseendit"></div>
+<div id="heiseembd"><div id="social_bookmarks"></div>
+
+<NOSCRIPT>
+<div id="tp-socialnoscript">
+<a href="https://www.facebook.com/telepolis.de" id="tp-bottom-facebook"><div class="bottomleiste-img"><img src="/tp/icons/newbottom/bottom_facebook.png"  alt="F" /></div><div class="nobrx">Teilen</div></a>
+<a href="https://twitter.com/telepolis_news/" id="tp-bottom-tweet"><div class="bottomleiste-img"><img src="/tp/icons/newbottom/bottom_twitter.png"  alt="T" /></div><div class="nobrx">Tweet</div></a>
+</div>
+<style type="text/css">#heiseembd, #heiseendit {max-height: 2.2em;}</style>
+</NOSCRIPT>
+
+</div>
+</div>
+
+<!--END-bottom-leiste-->
+
+
+
+
+</div>
+
+
+<!--forum-->
+<div id="forum-wapperl">
+<div class="forumbox"><a  href="/tp/foren/go.shtml?list=1&amp;forum_id=294345">
+<div class="forum-bottomimg"><img src="/tp/icons/newbottom/bottom_forum.svg" alt="" class="firstbottomimg" onerror="this.onerror=null; this.src='/tp/icons/newbottom/bottom_forum.png'" /><img src="/tp/icons/newbottom/bottom_forum-over.svg" alt="" class="secondbottomimg" onerror="this.onerror=null; this.src='/tp/icons/newbottom/bottom_forum-over.png'" /></div>
+<div class="forum-bottomtext">Telepolis Forum</div></a>
+</div>
+</div>
+
+
+
+<div class="forum">
+  
+  <!-- Forum schon bekannt -->
+    
+  <!-- mindestens ein Beitrag vorhanden -->
+  <a class="for" href="/tp/foren/go.shtml?list=1&amp;forum_id=294345"><b>Kommentare lesen</b></a>
+       <span class="for-comment">(735 Beitr&auml;ge)</span>
+      
+  <ul class="ul-for">
+
+
+<li class="li-for"><a class="for" href="/tp/foren/go.shtml?read=1&amp;msg_id=26697190&amp;forum_id=294345">Namennennung auch bei bestätigter Schuld falsch</a> <span class="for-date">(4.4.2015 12:02)</span></li>
+
+
+
+
+<li class="li-for"><a class="for" href="/tp/foren/go.shtml?read=1&amp;msg_id=26696552&amp;forum_id=294345">Re: Begriff Denkverbote</a> <span class="for-date">(3.4.2015 21:01)</span></li>
+
+
+
+
+<li class="li-for"><a class="for" href="/tp/foren/go.shtml?read=1&amp;msg_id=26695465&amp;forum_id=294345">Re: Sauerstoffmaske</a> <span class="for-date">(3.4.2015 2:42)</span></li>
+
+
+  </ul>
+      
+  <a class="for" href="/tp/foren/go.shtml?list=1&amp;forum_id=294345">mehr...</a>
+      
+    
+  
+
+<!--url-->
+<a href="http://www.heise.de/tp/artikel/44/44541/" id="tp-url" target="_top">http://www.heise.de/tp/artikel/44/44541/</a>
+<!--END-url-->
+
+</div>
+
+<!--END-forum-->
+
+
+
+<!-- DL+CUT -->
+<!--amazon-->
+<div class="amazon">
+ <iframe src="http://rcm-de.amazon.de/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=990000&t=telepolis0b-21&o=3&p=8&l=as1&m=amazon&f=ifr&asins=3828833292" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe> 
+</div>
+<!--END-amazon-->
+<!-- DL-CUT -->
+
+
+
+<div class="bottom-ad-fr">
+<div class="bottom-ad">
+<!-- ad-bottom -->
+
+<!--googleoff: index-->
+<!-- RSPEAK_STOP -->
+<a href="http://www.heise.de/mediadaten/online/" target="_blank" class="hinweis_anzeige">Anzeige</a><br><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var dfp_ord; if (!dfp_ord) { dfp_ord = Math.floor(Math.random()*1000000000)+1000000000; }
+var yp_res; if (typeof yl !== "undefined" && yl.YpResult !== "undefined") { yp_res = yl.YpResult.get(''); }
+document.write('<script src="http://ad-emea.doubleclick.net/N6514/adj/tp/tp-politik;sz=500x500;tile=1;_YL_;ord=_ORD_?" type="text/javascript"><\/script>'.replace('_ORD_', dfp_ord).replace(';_YL_', typeof yp_res !== "undefined" && yp_res.pricerange ? ';pricerange=' + yp_res.pricerange : ''));
+if (typeof jQuery != 'undefined') {
+    jQuery( function() {
+        jQuery('.adbottom div[id^=google_ads_div_]').parent().prepend('<span style="font-family: Arial, Helvetica, sans-serif; color: Black; font-size:7pt; font-weight: normal; text-align: left;">Anzeige</span><br/>');
+    });
+}
+
+//--><!]]>
+</script>
+<noscript><div><a href="http://ad-emea.doubleclick.net/N6514/jump/tp/tp-politik;sz=500x500;tile=1;_YL_;ord=5032069862?" target="_blank"><img alt="" src="http://ad-emea.doubleclick.net/N6514/ad/tp/tp-politik;sz=500x500;tile=1;_YL_;ord=5032069862?" /></a></div></noscript>
+
+<!-- RSPEAK_START -->
+<!--googleon: index-->
+<!-- END-ad-bottom -->
+</div>
+</div>
+
+<!--googleoff: all-->
+
+
+<!--fussleiste-->
+<div class="content-footer">
+<ul class="bottom-left">
+<li class="base-left"><a class="for" href="http://www.heise.de/-4860.html">Datenschutzhinweis</a> </li>
+<li class="base-left"><a class="for" href="/tp/html/impressum.html">Impressum</a> </li>
+</ul>
+<ul class="bottom-right">
+<li class="base-right"><a class="for" href="http://www.heise-medien.de/default.php/mediengruppe,zeitschriften/11/2">Copyright &copy; 2015 Heise Medien</a></li>
+</ul>
+</div>
+<!--END-fussleiste-->
+
+</div>
+
+<!--END-content-innen-->
+
+
+<!--rechte spalte-->
+<div class="pos-spalte">
+ <div class="spalte">
+
+<!--ansichtbreite-->
+<div id="default-width"><img 
+  src="/tp/icons/frame/wide.gif" alt="&gt;" 
+  onclick="switch_style('default');return false;" 
+  onmouseover="javascript:show('element');"  
+  onmouseout="javascript:hide('element');" class="hand" /></div>
+<div id="narrow-width"><img 
+  src="/tp/icons/frame/narrow.gif" alt="&lt;" 
+  onclick="switch_style('narrow');return false;" 
+  onmouseover="javascript:show('element');" 
+  onmouseout="javascript:hide('element');" class="hand"  /></div>
+<div  id="element" 
+  onmouseover="javascript:show('element');" 
+  onmouseout="javascript:hide('element');">
+<div id="flowfield">
+	<div class="dartfield">
+<p class="b-head">Darstellungsbreite &auml;ndern</p>
+<p class="b-fliess">Da bei gro&szlig;en Monitoren im Fullscreen-Modus die Zeilen teils unleserlich
+lang werden, k&ouml;nnen Sie hier die Breite auf das Minimum zur&uuml;cksetzen.
+Die einmal gew&auml;hlte Einstellung wird durch ein Cookie fortgesetzt, sofern Sie dieses akzeptieren.</p>
+	</div>
+</div>
+</div>
+<!--END-ansichtbreite-->
+
+
+
+
+
+
+
+<!-- aktuell 2015-04-21 23:13 -->
+
+<div class="k-icon aktuell">
+  <div class="kasten aktuell">
+<p class="list-h "><a href="/tp/artikel/44/44716/">Sinkendes Vertrauen in Demokratie unter jungen Arabern</a></p>    
+<p class="list-h "><a href="/tp/artikel/44/44719/">&quot;Nur die EU kann diesen Migranten helfen&quot;</a></p>    
+<p class="list-h "><a href="/tp/artikel/44/44717/">Parallelw&auml;hrung zur Grexit-Vermeidung?</a></p>    
+<p class="list-h "><a href="/tp/artikel/44/44714/">UK: Debatte um Labour-Duldung durch Sinn F&eacute;in</a></p>    
+<p class="list-h  last"><a href="/tp/artikel/44/44713/">Mit der &quot;Investitionsinitiative&quot; auf dem Weg zu Schattenhaushalten?</a></p>    
+   
+  </div>
+</div>
+
+
+
+<div class="spalte-ad">
+<!-- ad-bcadv -->
+
+<!--googleoff: index-->
+<!-- RSPEAK_STOP -->
+<div  class="bcadv ISI_IGNORE bcadv_oben"><a href="http://www.heise.de/mediadaten/online/" target="_blank" class="hinweis_anzeige">Anzeige</a><br><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var dfp_ord; if (!dfp_ord) { dfp_ord = Math.floor(Math.random()*1000000000)+1000000000; }
+var yp_res; if (typeof yl !== "undefined" && yl.YpResult !== "undefined") { yp_res = yl.YpResult.get('66442'); }
+document.write('<script src="http://ad-emea.doubleclick.net/N6514/adj/tp/tp-politik;sz=300x250,336x280;tile=2;_YL_;ord=_ORD_?" type="text/javascript"><\/script>'.replace('_ORD_', dfp_ord).replace(';_YL_', typeof yp_res !== "undefined" && yp_res.pricerange ? ';pricerange=' + yp_res.pricerange : ''));
+//--><!]]>
+</script>
+<noscript><div><a href="http://ad-emea.doubleclick.net/N6514/jump/tp/tp-politik;sz=300x250,336x280;tile=2;_YL_;ord=5032069862?" target="_blank"><img alt="" src="http://ad-emea.doubleclick.net/N6514/ad/tp/tp-politik;sz=300x250,336x280;tile=2;_YL_;ord=5032069862?" /></a></div></noscript>
+</div>
+<!-- RSPEAK_START -->
+<!--googleon: index-->
+<!-- END-ad-bcadv -->
+</div>
+
+<!--googleoff: all-->
+
+<!-- basic_2 2015-04-21 23:13 -->
+
+<!-- ttip -->
+<div class="ttip_div">
+
+<div class="k-icon dossier">
+<div class="kasten dossier">
+
+<div class="ttip-block"><div class="img-left"><a 
+href="/tp/artikel/42/42271/1.html" class="ttip_img"><img
+src="/tp/icons/elemente/divers/tipp.png" alt="ttip" class="ttip-img-left" 
+height="120" width="119"></a></div><div 
+class="ttip-row"><p class="k-head ttip_h"><a 
+href="/tp/artikel/42/42271/1.html">TTIP</a></p>  
+<p class="kasten-p ttip_p">Freihandelsabkommen oder 
+Demokratiezerst&ouml;rer?</p></div></div>
+
+
+
+<p class="list-h"><a href="/tp/artikel/44/44608/">TTIP: Weiter Geheimniskr&auml;merei statt Transparenz</a></p>
+
+
+<p class="list-h"><a href="/tp/artikel/44/44554/">Warum sehen viele Industrieverb&auml;nde TTIP so positiv?</a></p>
+
+
+<p class="list-h"><a href="/tp/artikel/44/44487/">Freihandel und Wirtschaftswachstum  statt Demokratie und &Ouml;kologie</a></p>
+
+
+<p class="list-h"><a href="/tp/artikel/44/44488/">Von patentierten K&uuml;hen, TTIP und gesellschaftlichen Spannungen</a></p>
+
+<p class="k-head"><script type="text/javascript">document.write("<a href=\"/tp/artikel/42/42271/1.html\" onMouseOver=\"javascript:elem_on('ttip')\" class=\"jk-mehr\">mehr</a>")</script>
+<noscript><a href="/tp/artikel/42/42271/1.html" class="jk-site">mehr im kompletten Dossier</a></noscript></p></div>
+</div>
+
+<div id="ttip" onMouseOut="javascript:elem_off('ttip')" onMouseOver="javascript:elem_on('ttip')">
+<div class="k-icon dossier">
+<div class="kasten dossier">
+   
+<div class="ttip-block"><div class="img-left"><a 
+href="/tp/artikel/42/42271/1.html" class="ttip_img"><img
+src="/tp/icons/elemente/divers/tipp.png" alt="ttip" class="ttip-img-left" 
+height="120" width="119"></a></div><div 
+class="ttip-row"><p class="k-head ttip_h"><a 
+href="/tp/artikel/42/42271/1.html">TTIP</a></p>  
+<p class="kasten-p ttip_p">Freihandelsabkommen oder 
+Demokratiezerst&ouml;rer?</p></div></div>
+
+
+
+
+<p class="list-h"><a href="/tp/artikel/44/44608/">TTIP: Weiter Geheimniskr&auml;merei statt Transparenz</a></p>
+
+
+<p class="list-h"><a href="/tp/artikel/44/44554/">Warum sehen viele Industrieverb&auml;nde TTIP so positiv?</a></p>
+
+
+<p class="list-h"><a href="/tp/artikel/44/44487/">Freihandel und Wirtschaftswachstum  statt Demokratie und &Ouml;kologie</a></p>
+
+
+<p class="list-h"><a href="/tp/artikel/44/44488/">Von patentierten K&uuml;hen, TTIP und gesellschaftlichen Spannungen</a></p>
+
+
+<p class="list-h"><a href="/tp/artikel/44/44391/">&quot;TTIP verhindert dringend erforderliche Verbesserungen unserer Standards&quot;</a></p>
+
+
+<p class="list-h"><a href="/tp/news/An-der-SPD-wird-TTIP-nicht-scheitern-2560630.html">An der SPD wird TTIP nicht scheitern</a></p>
+
+
+<p class="list-h"><a href="/tp/artikel/44/44119/">&quot;Einknicken der SPD bei TTIP&quot;</a></p>
+
+
+<p class="list-h"><a href="/tp/artikel/44/44055/">TTIP, US-Frackinggas und die Sicherheitskonferenz</a></p>
+
+<p class="k-head"><a href="/tp/artikel/42/42271/1.html" class="jk-site">mehr im kompletten Dossier</a></p>
+</div>
+</div>
+</div>
+
+</div>
+ 
+
+
+
+<!-- css -->
+<style type="text/css">
+
+.kasten-p.ttip_p {font-size: 0.78em; margin-bottom:0.3em}
+
+.ttip_div {
+	position: relative;
+	clear: left;	
+}
+
+#ttip {display: none}
+#ttip {
+	position: absolute;
+	z-index: +9;
+	left: 0px;
+	top: 0px;
+	border-bottom: 2px solid #444;	
+	width: 336px;
+	background: #eee;
+	padding-bottom: 8px
+}
+
+.ttip_div a:visited,
+.ttip_div a:hover,
+.ttip_div a {color: #004a6b; background: url(/tp/icons/content/list/li_klx.gif) no-repeat left center; padding-left: 14px}
+.ttip_div a:hover {background: #fff url(/tp/icons/content/list/li_klx.gif) no-repeat left center;}
+
+.ttip_h a:visited,
+.ttip_h a:hover,
+.ttip_h a {color: #004a6b; padding-left: 0; background: none}
+.ttip_h a:hover {background: #e4e4e4;}
+
+a.ttip_img:hover,
+a.ttip_img:visited,
+a.ttip_img:hover,
+a.ttip_img {padding-left: 0; background: none}
+
+
+.ttip_div a.jk-mehr:visited,
+.ttip_div a.jk-mehr:hover,
+.ttip_div a.jk-mehr {color: #004a6b}
+.ttip_div a.jk-mehr {
+	margin: 0 0.4em 0.2em 0;	
+	font-size: 0.9em;
+	font-weight: bold;
+	clear: left;
+	background: url(/tp/icons/elemente/divers/moreblu.gif) no-repeat right center;
+	padding: 0 16px 0 0;
+}
+
+.ttip_div a.jk-site:visited,
+.ttip_div a.jk-site:hover,
+.ttip_div a.jk-site {color: #004a6b}
+.ttip_div a.jk-site {
+	margin: 0 0.4em 0.2em 0;	
+	font-size: 0.9em;
+	font-weight: bold;
+	clear: left;
+	background: url(/tp/icons/elemente/divers/siteblu.gif) no-repeat right center;
+	padding: 0 16px 0 0;
+}
+
+
+.ttip-row {width: 180px; }
+.ttip-img-left {
+float: right;
+margin-left: 8px;
+position: absolute;
+bottom: 0px;
+right: 0px
+}
+.k-head.ttip_h {font-size: 1em; letter-spacing: 0.05em;}
+
+.ttip-block {
+     background:  #dfe1e5;
+     clear: both;
+     margin: 0 0 0.2em;
+     width: 303px;
+     position: relative;
+     left: -8px;
+     top: -6px;
+     min-height: 112px;
+     padding: 6px 0 3px 8px
+}
+
+
+.ttip_div .ttip-block a, .ttip_div .ttip-block a:visited { color: #3f4989; }
+.ttip_div .ttip-block a:hover { color: #51629f; background: none;}
+
+.kasten-p.ttip_p {font-size: 0.78em; margin-bottom:0.3em}
+
+
+
+</style>
+
+<!-- END-css -->
+
+<script type="text/javascript">
+
+function elem_on(elementname)
+{
+	document.getElementById(elementname).style.display='block';
+}
+
+function elem_off(elementname)
+{
+	document.getElementById(elementname).style.display='none';
+}
+</script>
+
+<!-- END-%(NAME)s -->
+
+
+
+<div class="spalte-ad">
+<!-- ad-content_rect -->
+
+<!--googleoff: index-->
+<!-- RSPEAK_STOP -->
+<div  class="bcadv ISI_IGNORE"><a href="http://www.heise.de/mediadaten/online/" target="_blank" class="hinweis_anzeige">Anzeige</a><br><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var dfp_ord; if (!dfp_ord) { dfp_ord = Math.floor(Math.random()*1000000000)+1000000000; }
+var yp_res; if (typeof yl !== "undefined" && yl.YpResult !== "undefined") { yp_res = yl.YpResult.get(''); }
+document.write('<script src="http://ad-emea.doubleclick.net/N6514/adj/tp/tp-politik;sz=300x200;tile=3;_YL_;ord=_ORD_?" type="text/javascript"><\/script>'.replace('_ORD_', dfp_ord).replace(';_YL_', typeof yp_res !== "undefined" && yp_res.pricerange ? ';pricerange=' + yp_res.pricerange : ''));
+//--><!]]>
+</script>
+<noscript><div><a href="http://ad-emea.doubleclick.net/N6514/jump/tp/tp-politik;sz=300x200;tile=3;_YL_;ord=5032069862?" target="_blank"><img alt="" src="http://ad-emea.doubleclick.net/N6514/ad/tp/tp-politik;sz=300x200;tile=3;_YL_;ord=5032069862?" /></a></div></noscript>
+</div>
+<!-- RSPEAK_START -->
+<!--googleon: index-->
+<!-- END-ad-content_rect -->
+</div>
+<!--googleoff: all-->
+
+
+<!-- mostcommented 2015-04-21 23:13 -->
+
+<div class="k-icon mostcommented">
+  <div class="kasten mostcommented">
+<p class="list-h "><a href="/tp/artikel/44/44699/">Bislang gr&ouml;&szlig;te Fl&uuml;chtlingskatastrophe im Mittelmeer</a></p>    
+<p class="list-h "><a href="/tp/artikel/44/44696/">Erneut Schleuserschiff gekentert</a></p>    
+<p class="list-h "><a href="/tp/artikel/44/44703/">&quot;Zigarettenpackung m&uuml;sste 11,30 Euro kosten&quot;</a></p>    
+<p class="list-h "><a href="/tp/artikel/44/44660/">Warum ist das Alter f&uuml;r Arbeitnehmer vielfach ein Problem?</a></p>    
+<p class="list-h  last"><a href="/tp/artikel/44/44705/">Umsetzung des Minsker Abkommens kommt nicht voran</a></p>    
+   
+  </div>
+</div>
+
+
+
+<!-- frisch 2015-04-21 23:13 -->
+		
+<div class="k-icon frisch">
+<div class="kasten frisch">
+<p class="k-head"><a class="k-link" href="/tp/artikel/39/39462/">Zum Record Store Day frisch aus dem Archiv: Original-Vinyl als Wertanlage?</a></p>
+<p class="k-autor">Reinhard Jellen <span class="k-date">07.07.2013</span></p>
+<p class="k-dach">Christoph Best &uuml;ber die politische &Ouml;konomie der Schallplatte</p>
+<p class="k-fliess">In der Wirtschafts- und Finanzkrise sind mittlerweile zahlreiche klassische Wertanlagen wie etwa Gold unsicher geworden. Sind hief&uuml;r Schallplatten ein geeignetes Objekt? Ein Interview mit Christoph Best, der seit mehr als 20 Jahren einen Second-Hand-Plattenladen in M&uuml;nchen betreibt.</p>
+<a class="k-weiter" href="/tp/artikel/39/39462/">weiterlesen</a>    
+</div>
+</div>
+
+
+
+<!-- print3 2015-04-21 23:13 -->
+
+<div class="k-icon print">
+<div class="kasten">
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+<td><a href="/tp/buch/buch_49.html"><img src="/tp/buch/elemente/buch49.jpg" alt="9/11 - Der Kampf um die Wahrheit" width="94" height="133" class="buch-td" /></a></td>
+<td><a href="/tp/buch/buch_52.html"><img src="/tp/buch/elemente/buch52.jpg" alt="Die verspielte Gesellschaft" width="94" height="133" class="buch-td" /></a></td>
+<td><a href="/tp/buch/buch_48.html"><img src="/tp/buch/elemente/buch48.jpg" alt="Vom Datum zum Dossier" width="94" height="133" class="buch-td" /></a></td>
+
+  </tr>
+</table>
+
+</div>
+</div>
+
+
+
+<div class="k-icon anzeige">
+<div class="kasten anzeige">
+<a href="http://www.seenby.de/?from=telepolis"><img src="/tp/icons/elemente/divers/seenpict.gif" alt="bilder" class="seen" width="105" /></a>
+
+<p class="kasten-p"><a href="http://www.seenby.de/?from=telepolis"><img src="/tp/icons/elemente/divers/seen.gif" alt="seen.by" width="188" height="130" class="seen" /></a></p>
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div class="k-space"><img src="/tp/icons/frame/sp_1.gif" alt="" width="1" height="50" /></div>
+</div>
+ </div>
+<!--END-rechte spalte-->
+
+</div>
+<!-- END-content-rahmen -->
+
+
+<!--menu-->
+
+<div class="men-1">
+
+
+<!--suche-->    
+<div class="men-such">
+<form action="/tp/suche/">
+<input name="rm" type="hidden" value="search" />
+<input name="q" size="14" value="" class="suche-cgi" />
+<input type="image" src="/tp/icons/frame/lupe.svg.png" name="suchen"  alt="suchen" class="suche-los" /><br />
+<table class="such-box" cellpadding="0" cellspacing="0">
+ <tr>
+  <td><input type="image" name="suchen"  src="/tp/icons/frame/heise-suche.gif" alt="heise-suche" width="58" height="8" /></td>
+ </tr>
+</table>
+<input name="channel" type="hidden" value="tp" />
+<input name="sort" type="hidden" value="d" />
+</form>
+</div>
+<!--END-suche-->    
+    
+
+<a href="/tp/default.html"><img src="/tp/icons/frame/tplogo.png" alt="TELEPOLIS" width="132" height="34" class="tp-img" /></a>
+    
+<div class="navi-main">
+
+
+<div class="menu-main dart"><a href="/tp/inhalt/politik-x/default.html"><img height="22" width="44" src="/tp/icons/menu/politik.gif" alt="POLITIK" /></a></div>
+
+<div class="menu-main"><a href="/tp/inhalt/wissenschaft-x/default.html"><img height="22" width="86" src="/tp/icons/menu/wissenschaft.gif" alt="WISSENSCHAFT" /></a></div>
+
+<div class="menu-main"><a href="/tp/inhalt/energie-x/default.html"><img height="22" width="100" src="/tp/icons/menu/energie.gif" alt="ENERGIE" /></a></div>
+
+<div class="menu-main"><a href="/tp/inhalt/kultur-x/default.html"><img height="22" width="43" src="/tp/icons/menu/kultur.gif" alt="KULTUR" /></a></div>
+
+<div class="menu-main"><a href="/tp/inhalt/medien-x/default.html"><img height="22" width="44" src="/tp/icons/menu/medien.gif" alt="MEDIEN" /></a></div>
+
+<div class="menu-main"><a href="/tp/inhalt/magazin-x/default.html"><img height="22" width="54" src="/tp/icons/menu/magazin.gif" alt="MAGAZIN" /></a></div>
+</div>
+
+
+<!--submenu-->
+
+<div class="navi-sub">
+
+<div class="menu-sub"><a href="/tp/inhalt/stasi/default.html"><img height="19" width="75" src="/tp/icons/menu/stasi.gif" 
+alt="Sicherheit 2.0" /></a></div>
+
+<div class="menu-sub dart"><a href="/tp/inhalt/mein/default.html"><img height="19" width="47" src="/tp/icons/menu/mein.gif" 
+alt="Meinung" /></a></div>
+
+<div class="menu-sub"><a href="/tp/inhalt/copy/default.html"><img height="19" width="54" src="/tp/icons/menu/copy.gif" 
+alt="Copyright" /></a></div>
+
+<div class="menu-sub"><a href="/tp/inhalt/eco/default.html"><img height="19" width="52" src="/tp/icons/menu/eco.gif" 
+alt="&Ouml;konomie" /></a></div>
+
+<div class="menu-sub"><a href="/tp/inhalt/us/default.html"><img height="19" width="19" src="/tp/icons/menu/us.gif" 
+alt="USA" /></a></div>
+
+<div class="menu-sub"><a href="/tp/inhalt/lat/default.html"><img height="19" width="76" src="/tp/icons/menu/lat.gif" 
+alt="Lateinamerika" /></a></div>
+
+<div class="menu-sub"><a href="/tp/inhalt/ost/default.html"><img height="19" width="34" src="/tp/icons/menu/ost.gif" 
+alt="Orient" /></a></div>
+
+<div class="menu-sub"><a href="/tp/news/pnews/default.html"><img height="19" width="67" src="/tp/icons/menu/pnews.gif" 
+alt="Politik-News" /></a></div>
+</div>
+
+
+
+
+
+
+<!--END-submenu-->
+
+
+</div>
+<!--END-menu-->
+
+
+<!--admin-link-->
+<!--topbanner-->
+<div class="top-ad">
+<div class="wall-p">
+
+<!-- ad-leaderboard -->
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var dfp_ord; if (!dfp_ord) { dfp_ord = Math.floor(Math.random()*1000000000)+1000000000; }
+var yp_res; if (typeof yl !== "undefined" && yl.YpResult !== "undefined") { yp_res = yl.YpResult.get('66444'); }
+var rb = false; document.write('<script src="http://ad-emea.doubleclick.net/N6514/adj/tp/tp-politik;sz=728x90,468x60;tile=4;_YL_;ord=_ORD_?" type="text/javascript"><\/script>'.replace('_ORD_', dfp_ord).replace(';_YL_', typeof yp_res !== "undefined" && yp_res.pricerange ? ';pricerange=' + yp_res.pricerange : ''));
+//--><!]]>
+</script>
+<noscript><div><a href="http://ad-emea.doubleclick.net/N6514/jump/tp/tp-politik;sz=728x90,468x60;tile=4;_YL_;ord=5032069862?" target="_blank"><img alt="" src="http://ad-emea.doubleclick.net/N6514/ad/tp/tp-politik;sz=728x90,468x60;tile=4;_YL_;ord=5032069862?" /></a></div></noscript>
+
+<!-- END-ad-leaderboard -->
+
+</div>
+</div>
+<!--END-topbanner-->
+
+
+<div class="pos-ad-high">
+<div class="ad-high">
+<!-- ad-skyscraper -->
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var dfp_ord; if (!dfp_ord) { dfp_ord = Math.floor(Math.random()*1000000000)+1000000000; }
+var yp_res; if (typeof yl !== "undefined" && yl.YpResult !== "undefined") { yp_res = yl.YpResult.get('66424'); }
+if (typeof rb != "undefined" && rb != true) document.write('<script src="http://ad-emea.doubleclick.net/N6514/adj/tp/tp-politik;sz=120x600,120x800,160x600,160x800;tile=5;_YL_;ord=_ORD_?" type="text/javascript"><\/script>'.replace('_ORD_', dfp_ord).replace(';_YL_', typeof yp_res !== "undefined" && yp_res.pricerange ? ';pricerange=' + yp_res.pricerange : ''));
+//--><!]]>
+</script>
+<noscript><div><a href="http://ad-emea.doubleclick.net/N6514/jump/tp/tp-politik;sz=120x600,120x800,160x600,160x800;tile=5;_YL_;ord=5032069862?" target="_blank"><img alt="" src="http://ad-emea.doubleclick.net/N6514/ad/tp/tp-politik;sz=120x600,120x800,160x600,160x800;tile=5;_YL_;ord=5032069862?" /></a></div></noscript>
+
+<!-- END-ad-skyscraper -->
+</div>
+</div>
+
+
+</div>
+<!--END-positionierung-aussen-->
+
+
+<!--ivw-->
+
+	
+		
+			
+<!-- Webtrekk 3.2.2, (c) www.webtrekk.com -->
+<script type="text/javascript" src="/js/ho/webtrekk-v3-bundle-heise-2013-01-21.js"></script>
+<script type="text/javascript">
+<!--
+var pageConfig = {
+    linkTrack : "standard", // Activate Link Tracking    [link or standard]
+    heatmap : "0",          // Activate Heatmap Tracking [1 = on | 0 = off]
+    form : "",              // Activate Form Tracking    [1 = on | 0 = off]
+    trackId : "288689636920174",
+    pixelSampling : "",
+    contentId: "www.heise.de.tp.artikel.was-steht-hinter-der-rufmord-kampagne-der-mainstream-medien-44541"
+};
+var wt = new webtrekkV3(pageConfig);
+wt.contentGroup = {};
+wt.contentGroup['1']  = "www.heise.de";
+wt.contentGroup['2']  = "tp";
+wt.contentGroup['3']  = "artikel";
+wt.contentGroup['4']  = "was-steht-hinter-der-rufmord-kampagne-der-mainstream-medien-44541";
+
+
+
+
+wt.contentGroup['9']  = "was-steht-hinter-der-rufmord-kampagne-der-mainstream-medien-44541";
+wt.contentGroup['10'] = "artikel";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wt.heatmapRefpoint = 'container_content';
+wt.sendinfo();
+
+    jQuery(document).ready(function($) {
+        $('.bilderstrecke_vorschau').on('webtrekk_bilderstrecke', function(w) {
+            wt.sendinfo({
+                linkId: 'bilderstrecke.' + w.action,
+                customClickParameter: {
+                    1: '' + w.bilderstrecken_id, // Bilderstrecke-CID
+                    2: '' + w.source             // Bild-Nummer
+                }
+            });
+        });
+    });
+
+//-->
+</script>
+<noscript><div><img src="//prophet.heise.de/288689636920174/wt.pl?p=322,www.heise.de.tp.artikel.was-steht-hinter-der-rufmord-kampagne-der-mainstream-medien-44541&cg1=www.heise.de&cg10=artikel&cg2=tp&cg3=artikel&cg4=was-steht-hinter-der-rufmord-kampagne-der-mainstream-medien-44541&cg9=was-steht-hinter-der-rufmord-kampagne-der-mainstream-medien-44541" height="1" width="1" alt="" /></div></noscript>
+<!-- /Webtrekk --> 
+
+
+<div style="display: inline;"><img id="ivw_pixel_intern" src="/ivw-bin/ivw/CP/tp/artikel/44/44541/1.html" width="1" height="1" alt="" /></div>
+
+<script type="text/javascript">
+var iam_data = {
+    "st":"heise",
+    "cp":"tp_politik",
+    "sv":"in",
+    "co":"/tp/artikel/44/44541/1.html"
+}
+iom.c(iam_data);
+</script>
+
+
+
+								<script type="text/javascript">
+								<!--//--><![CDATA[//><!--
+								var vgwort_token='07fb34306dc040f48c0bd2826d6de3f0';
+								document.write('<div style="display: inline;"><img src="http://heise.met.vgwort.de/na/' +  vgwort_token);
+								document.write('" width="1" height="1" alt="" /><' + '/div>');
+								//--><!]]>
+								</script>
+							
+			
+		
+	
+
+<!--END-ivw-->
+
+
+</body>
+</html>
+
+

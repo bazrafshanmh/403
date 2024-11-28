@@ -1,0 +1,1937 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/6.0
+Server: WWW16
+X-Powered-By: ASP.NET
+BTR-Request-Trace-MVC: ApplicationController->Header (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:11.0) Gecko/20100101 Firefox/11.0)
+BTR-Request-Trace-MVC: CategoryController->GetCategories (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:11.0) Gecko/20100101 Firefox/11.0)
+BTR-Request-Trace-MVC: NetworkController->HeaderMenu (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:11.0) Gecko/20100101 Firefox/11.0)
+BTR-Request-Trace-MVC: ApplicationController->Footer (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:11.0) Gecko/20100101 Firefox/11.0)
+BTR-Request-Trace-MVC: ScriptController->GlobalConstants (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:11.0) Gecko/20100101 Firefox/11.0)
+BTR-Request-Trace: /weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013? (Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:11.0) Gecko/20100101 Firefox/11.0)
+Content-Encoding: gzip
+Content-Length: 27792
+Expires: Tue, 24 Mar 2015 01:28:18 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 24 Mar 2015 01:28:18 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if IE 7]><html class="ie7" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" id="htmlTag"><![endif]-->
+<!--[if IE 8]><html class="ie8" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" id="htmlTag"><![endif]-->
+<!--[if IE 9]><html class="ie9" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" id="htmlTag"><![endif]-->
+<!--[if !(IE 7) | !(IE 8) | !(IE 9) ]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" id="htmlTag">
+<!--<![endif]-->
+<head id="ctl00_Head1" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blogtalk: http://ogp.me/ns/apps/blogtalk# profile: http://ogp.me/ns/profile#">
+<script type='text/javascript'>
+//<![CDATA[
+window['adrum-start-time'] = new Date().getTime();
+;/* Version f86d2a31df47d41865e76e563673cabf v:4.0.3.3, c:f287a08ea76d1e7e7a9c01e4e4ab5b4fae6f1bff, b:8309 n:19-4.0.3.next */(function(){(function(){if(!window.ADRUM&&!0!==window["adrum-disable"]){var a=window.ADRUM={};window["adrum-start-time"]=window["adrum-start-time"]||(new Date).getTime();(function(b){b.beaconUrlHttp="http://col.eum-appdynamics.com";b.beaconUrlHttps="https://col.eum-appdynamics.com";b.appKey=window["adrum-app-key"]||"AD-AAB-AAA-BYB";var c="https:"===document.location.protocol;if(window["adrum-geo-resolver-url"]){var e=window["adrum-geo-resolver-url"],d=e.indexOf("://");-1!=d&&(e=e.substring(d+3));e=(c?"https://":"http://")+e}else e=
+c?"":"";b.adrumExtUrl=(c?"https://cdn.appdynamics.com":"http://cdn.appdynamics.com")+"/adrum-ext.f86d2a31df47d41865e76e563673cabf.js";b.sendImageBeacon="false";b.geoResolverUrl=e;b.useStrictDomainCookies=!0===window["adrum-use-strict-domain-cookies"];b.k;(function(b){function e(b){return 0<=b.location.search.indexOf("ADRUM_debug=true")||0<=b.cookie.search(/(^|;)\s*ADRUM_debug=true/)}b.Ad=e;b.iDR=e})(b.a||(b.a={}));b.isDebug=b.a.Ad(document)})(a||
+(a={}));(function(b){b.logMessages=[];b.debug;b.warn;b.info;b.error;for(var c=["debug","warn","info","error"],e=0;e<c.length;e++)(function(e){b[e]=function(z,A){b.isDebug&&b.logMessages.push([e,Array.prototype.slice.call(arguments).join(" | ")])}})(c[e]);var d=0;(function(e){window.ADRUM.TPL=e;e.ea=function(b,e,z,m){b=z+"/eumcollector/error.gif?version=1&appKey="+m+"&msg="+encodeURIComponent(b.substring(0,500));e&&(b+="&stack=",b+=encodeURIComponent(e.substring(0,1500-b.length)));return b};e.cIEBU=
+e.ea;e.p=function(z,A){2<=d||((new Image).src=e.ea(z,A,b.beaconUrlHttps,b.appKey),d++)};e.dumpLog=b.isDebug?function(){for(var e="",z=0;z<b.logMessages.length;z++)var m=b.logMessages[z],e=e+("["+m[0]+"]\t"+m[1].replace(RegExp("<br/>","g"),"\n\t")+"\n");return e}:function(){}})(b.a||(b.a={}));var A=b.a,z=b.error;b.error=function(){for(var b=0;b<arguments.length-0;b++);0<arguments.length&&(b=Array.prototype.slice.call(arguments).join(" | "),z(b),A.p(b,null))};b.exception=function(){if(!(1>arguments.length)){var b=
+Array.prototype.slice.call(arguments),e;e=(e=b[0])?(e=e.stack)&&"string"===typeof e?e:null:null;b=b.slice(1).join(" | ");z(b);A.p(b,e)}};b.assert=function(e,z){e||b.error("Assert fail: "+z)};b.info("M0")})(a||(a={}));(function(b){(function(c){var e=function(){function e(){this.Kb=[];this.eb(e.nb,0)}e.prototype.ab=function(b){this.eb(e.Wb,b)};e.prototype.yb=function(b){this.eb(e.Zb,b)};e.prototype.bb=function(b){this.eb(e.Xb,b)};e.prototype.eb=function(b,e){this.Kb.push({Hd:(new Date).getTime(),Gd:e,
+pc:b});this.ld=b};e.prototype.getPhaseID=function(b){for(var z=0;z<e.Yb.length;z++)if(e.Yb[z]===b)return z;return null};e.prototype.getPhaseCallbackTime=function(b){for(var e=this.Kb,m=0;m<e.length;m++)if(e[m].pc===b)return e[m].Hd;return null};e.prototype.findPhaseAtNominalTime=function(c){b.assert(0<=c);for(var z=this.Kb,m=z.length-1;0<=m;m--)if(c>=z[m].Gd)return z[m].pc;b.error("M1",c,b.EXT.bc(z));return e.nb};e.nb="AFTER_FIRST_BYTE";e.Wb="AFTER_DOM_INTERACTIVE";e.Zb="AT_ONLOAD";e.Xb="AFTER_ONLOAD";
+e.Yb=[e.nb,e.Wb,e.Zb,e.Xb];return e}();c.Ta=e})(b.a||(b.a={}))})(a||(a={}));(function(b){(function(c){c.uc=function(b){setTimeout(b,0)};c.jd=function(){b.navTiming=null;var e=window.performance||window.f||window.g||window.i;if(e&&e.timing)if(e=e.timing,e.navigationStart&&e.navigationStart<=e.loadEventEnd){var c={},A;for(A in e){var z=e[A];"number"===typeof z&&(c[A]=z)}b.navTiming=c}else b.debug("M2")};c.kd=function(){b.resTiming=null;var e=window.performance||window.f||window.g||window.i;e&&e.getEntriesByType&&
+((e=e.getEntriesByType("resource"))&&e.length&&0!==e.length&&e.unshift?(b.resTiming=e,b.navTiming?(e=b.navTiming,e.initiatorType="other",e.name=document.URL,e.navigationStart&&!e.startTime&&(e.startTime=e.navigationStart),e.isBase=!0):e=null,e&&b.resTiming.unshift(e)):b.debug("M3"))}})(b.a||(b.a={}))})(a||(a={}));(function(b){(function(b){b.Sa=100;b.Aa=100})(b.a||(b.a={}));var c=b.a,e=function(){function b(e){this.max=e;this.qb=0}b.prototype.yd=function(){this.Ya()||this.qb++};b.prototype.Ya=function(){return this.qb>=
+this.max};b.prototype.reset=function(){this.qb=0};return b}(),d=function(){function A(){this.Va=[];this.Db=new e(c.Sa);this.xb=new e(c.Aa)}A.prototype.submit=function(e){this.push(e)&&b.initEXTDone&&this.processQ()};A.prototype.processQ=function(){for(var e=this.Ea(),m=0;m<e.length;m++){var c=e[m];"function"===typeof b.EXT.H[c[0]]?(b.isDebug&&b.debug("M4",c[0],c.slice(1).join(", ")),b.EXT.H[c[0]].apply(b,c.slice(1))):b.error("M5",c[0])}};A.prototype.Cd=function(b){return"reportXhr"===b||"reportError"===
+b};A.prototype.push=function(e){var m=e[0],c=this.Cd(m),A=c?this.Db:this.xb;if(A.Ya())return b.debug("M6",c?"spontaneous":"non spontaneous",m),!1;this.Va.push(e);A.yd();return!0};A.prototype.Ea=function(){var b=this.Va;this.reset();return b};A.prototype.size=function(){return this.Va.length};A.prototype.reset=function(){this.Va=[];this.Db.reset();this.xb.reset()};A.prototype.isSpontaneousQueueDead=function(){return this.Db.Ya()};A.prototype.isNonSpontaneousQueueDead=function(){return this.xb.Ya()};
+return A}();b.Ec=d})(a||(a={}));(function(b){b.q=new b.Ec;b.command=function(c,e){b.isDebug&&b.debug("M7",c,Array.prototype.slice.call(arguments).slice(1).join(", "));b.q.submit(Array.prototype.slice.call(arguments))}})(a||(a={}));(function(b){(function(c){window.ADRUM.aop=c;c.support=function(b){return!b||"apply"in b};c.around=function(e,d,A,z){b.assert(c.support(e),"aop.around called on a function which does not support interception");e=e||function(){};return function(){b.isDebug&&b.debug("M8",
+z,Array.prototype.slice.call(arguments).join(", "));var m=Array.prototype.slice.call(arguments),c;try{d&&(c=d.apply(this,m))}catch(l){b.exception(l,"M9",z,l)}b.assert(!c||"[object Array]"===Object.prototype.toString.call(c));var a=void 0;try{a=e.apply(this,c||m)}finally{try{A&&A.apply(this,m)}catch(n){b.exception(n,"M10",z,n)}}return a}};c.before=function(b,d){return c.around(b,d)};c.after=function(b,d){return c.around(b,null,d)}})(b.b||(b.b={}))})(a||(a={}));(function(b){b.initEXTDone=!1;b.addEventListener=
+function(c,e,d){function A(){try{return d.apply(this,Array.prototype.slice.call(arguments))}catch(z){b.exception(z,"M12",e,c,z)}}b.isDebug&&b.debug("M11",e,c);c.addEventListener?c.addEventListener(e,A,!1):c.attachEvent&&c.attachEvent("on"+e,A)};b.compareWindows=function(b,e){return b==e};b.lifecycle=new b.a.Ta;b.listenForErrors=null;(function(){var c=!1;b.listenForErrors=function(){b.b.support(window.onerror)?(window.onerror=b.b.around(window.onerror,function(e,d,A){c||b.command("reportError",e,d,
+A);c=!0},function(){c=!1},"onerror"),b.windowErrorHandler=window.onerror,b.info("M13")):b.info("M14")}})();b.windowErrorHandler=window.onerror;b.navTiming=null;b.resTiming=null;b.j=function(c){b.lifecycle.yb(c&&c.timeStamp);b.a.uc(function(){var e=(new Date).getTime();b.lifecycle.bb(e);b.command("mark","onload",e);b.a.jd();b.a.kd();b.command("reportOnload");b.e()});b.info("M15")};b.h=function(){function c(b){document.addEventListener?(document.removeEventListener("DOMContentLoaded",c,!1),e(b)):"complete"===
+document.readyState&&(document.detachEvent("onreadystatechange",c),e(b))}function e(e){d||(b.lifecycle.ab(e&&e.timeStamp),b.command("mark","onready",(new Date).getTime()),d=!0)}var d=!1;if(document.addEventListener)document.addEventListener("DOMContentLoaded",c,!1),window.addEventListener("load",e,!1);else{document.attachEvent("onreadystatechange",c);window.attachEvent("onload",e);var A=null;try{A=null===window.frameElement?document.documentElement:null}catch(z){}null!=A&&A.doScroll&&function h(){try{A.doScroll("left")}catch(b){setTimeout(h,
+10);return}e()}()}b.info("M16")};b.e=function(){var c=document.createElement("script");c.async=!0;c.src=b.adrumExtUrl;var e=document.getElementsByTagName("script")[0];e?(e.parentNode.insertBefore(c,e),b.info("M17")):b.info("M18")}})(a||(a={}));(function(b){b.startTimeCookie=null;b.cookieMetadataChunks=null;(function(c){c.M=function(e,c){function A(b){var e=[],z=u.exec(b);if(z){b=z[1];var z=z[2].replace(/^"|"$/g,""),z=decodeURIComponent(z).split("|"),c=z[0].split(":");if("R"===c[0]&&Number(c[1])===
+k)for(a(b),b=1;b<z.length;b++)e.push(z[b])}return e}function z(b){if(b=n.exec(b)){var e=b[1],z=b[4],c=b[5];if(Number(b[3])===k)return a(e),[Number(z),c]}return null}function m(e){var z=l.exec(e);z&&(b.debug("M21",e),3===z.length?(b.startTimeCookie={startTime:Number(z[1]),startPage:z[2]},a("ADRUM")):b.error("M22",e))}function a(e){b.debug("M20",e);var z=new Date;z.setTime(z.getTime()-1E3);document.cookie=e+"=;Expires="+z.toUTCString()}b.info("M19");for(var l=/^\s*ADRUM=s=([\d]+)&r=(.*)\s*/,k=c?c.length:
+0,n=/^\s*(ADRUM_(\d+)_(\d+)_(\d+))=(.*)\s*$/i,p=[],q=e.split(";"),r=0;r<q.length;r++){var s=q[r],t=z(s);t?p.push(t):m(s)}Array.prototype.sort.call(p,function(b,e){return b[0]-e[0]});s=[];for(r=0;r<p.length;r++)s.push(p[r][1]);for(var u=/^\s*(ADRUM_BT\w*)=(.*)\s*$/i,r=0;r<q.length;r++)(p=A(q[r]))&&0<p.length&&(s=s.concat(p));b.cookieMetadataChunks=s};c.eck=c.M})(b.a||(b.a={}))})(a||(a={}));(function(b){(function(e){e.$b=function(){return function(e,A){if(("load"===e||"error"===e)&&A&&this._adrumXhrData){var z;
+z=A;if(z.__adrumInterceptor)z=z.__adrumInterceptor;else if(b.b.support(z)){var m=c.ac(z,this,"XHR.invokeEventListener");z=z.__adrumInterceptor=m}else z=null;if(z)return m=Array.prototype.slice.call(arguments),m[1]=z,b.debug("M23"),m;b.debug("M24",e,A)}}}})(b.a||(b.a={}));(function(e){if(!0===window["adrum-xhr-disable"])b.info("M25");else if(window.XMLHttpRequest)if(e.I=window.XMLHttpRequest.prototype,e.I)if("open"in e.I&&"send"in e.I)if(b.b.support(e.I.open)&&b.b.support(e.I.send)){b.info("M30");
+b.xhrOpen=e.I.open;b.xhrSend=e.I.send;e.hc=function(e){var c=e._adrumXhrData;if(c){var A=(new Date).getTime();2==e.readyState?c.firstByteTime=c.firstByteTime||A:4==e.readyState&&(b.assert(null===c.respAvailTime,"M31"),c.respAvailTime=c.respAvailTime||A,c.firstByteTime=c.firstByteTime||A)}};e.d=function(e,c){var A=e.getAllResponseHeaders(),a=e.status;b.command("reportXhr",c,A,a,400<=a?e.responseText:null)};e.ac=function(z,m,A){return c(z,function(){e.hc(this)},function(){var z=m._adrumXhrData;if(z&&
+4==m.readyState){var c=(new Date).getTime();b.assert(null===z.respProcTime,"M32");z.respProcTime=z.respProcTime||c;e.d(m,z);delete m._adrumXhrData}},A)};e.gb=function(z){if(z._adrumXhrData){var c=(new Date).getTime()+3E4,A=function(){e.hc(z);var a=z._adrumXhrData;if(a){var d=(new Date).getTime();4==z.readyState?(b.assert(null===a.respProcTime,"M33"),a.respProcTime=a.respProcTime||d,b.debug("M34"),e.d(z,a),delete z._adrumXhrData):d<c?setTimeout(A,50):(delete z._adrumXhrData,b.debug("M35"))}};A()}};
+var c=function(e,c,A,a){var d=e;e&&"object"===typeof e&&"toString"in e&&"[xpconnect wrapped nsIDOMEventListener]"===e.toString()&&"handleEvent"in e&&(d=function(){e.handleEvent.apply(this,Array.prototype.slice.call(arguments))});return b.b.around(d,c,A,a)};e.I.open=b.b.around(e.I.open,function(){this._adrumXhrData={url:2<=arguments.length?String(arguments[1]):"",sendTime:null,firstByteTime:null,respAvailTime:null,respProcTime:null,parentPhase:null}},null,"XHR.open");var A=function(b){var e=document.createElement("a");
+e.href=b;b=document.location;return":"===e.protocol&&""===e.hostname&&""===e.port||e.protocol===b.protocol&&e.hostname===b.hostname&&e.port===b.port};e.I.send=b.b.around(e.I.send,function(){var c=this,m=c._adrumXhrData;if(m){var a=(new Date).getTime();b.assert(null===m.sendTime,"M36");m.sendTime=m.sendTime||a;m.parentPhase=b.lifecycle.ld;A(m.url)?c.setRequestHeader("ADRUM","isAjax:true"):b.debug("M37",document.location.href,m.url);var d=0,k=function(){if(4==c.readyState)b.debug("M38"),e.gb(c);else{var A=
+null;try{A=c.onreadystatechange}catch(m){b.debug("M39",m);e.gb(c);return}d++;A?b.b.support(A)?(c.onreadystatechange=e.ac(A,c,"XHR.onReadyStateChange"),b.debug("M40",d)):(b.debug("M41"),e.gb(c)):5>d?b.a.uc(k):(b.debug("M42"),e.gb(c))}};k()}},null,"XHR.send");"addEventListener"in e.I&&"removeEventListener"in e.I&&b.b.support(e.I.addEventListener)&&b.b.support(e.I.removeEventListener)?(e.I.addEventListener=b.b.around(e.I.addEventListener,b.a.$b(),null,"XHR.addEventListener"),e.I.removeEventListener=
+b.b.around(e.I.removeEventListener,function(e,c){if(this._adrumXhrData){var A=Array.prototype.slice.call(arguments);c.__adrumInterceptor?(A[1]=c.__adrumInterceptor,b.debug("M43")):b.debug("M44");return A}},null,"XHR.removeEventListener")):b.debug("M45");b.info("M46")}else b.info("M29");else b.info("M28");else b.info("M27");else b.info("M26")})(b.c||(b.c={}));var c=b.c})(a||(a={}));(function(){"APP_KEY_NOT_SET"===window.ADRUM.appKey&&"undefined"!==typeof console&&"undefined"!==typeof console.log&&
+console.log("AppDynamics EUM cloud application key missing. Please specify window['adrum-app-key']");var b=window.ADRUM;b.a.M(document.cookie,document.referrer);b.command("mark","firstbyte",window["adrum-start-time"]);b.listenForErrors();b.addEventListener(window,"load",b.j);b.h()})(a||(a={}))}})();})();
+
+
+
+//]]>
+</script>
+<title>
+	Lord ASHTAR SHERAN RADIO SHOW WEEKLY on SATURDAYS! 2013 12/13 by WeAreALLONeMovieXcom | Spirituality Podcasts
+</title><link rel="shortcut icon" href="/favicon.ico" />
+	<script type="text/javascript">("header footer section aside nav article figure figcaption hgroup time").replace(/\w+/g,function(a){document.createElement(a)})</script>
+<meta property="twitter:card" content="player" /><meta property="twitter:site" content="@blogtalkradio" /><meta property="twitter:title" content="Lord ASHTAR SHERAN RADIO SHOW WEEKLY on SATURDAYS! 2013" /><meta property="twitter:description" content="***Order a GALACTIC T-Shirt + Bonus DVD packed with Videos,Divine Messages &amp; Pics = $33 includes Shipping in US or + $11 Shipping Worldwide.Order:***One on One Session= $30 per 1/2hr or $50/hr donations greatly" /><meta property="twitter:url" content="http://www.blogtalkradio.com/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013" /><meta property="twitter:image" content="http://www.blogtalkradio.com/pics/showpics/large/422937_LQhPgIRc.jpg" /><meta property="twitter:player" content="https://player.cinchcast.com/?show_id=7102865&amp;platformId=1&amp;assetType=single" /><meta property="twitter:player:width" content="400" /><meta property="twitter:player:height" content="370" /><meta property="twitter:player:stream" content="http://www.blogtalkradio.com/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013.mp3" /><meta property="twitter:player:stream:content_type" content="audio/mpeg" /><meta property="twitter:creator" content="@ArcAngelRich" /><meta name="sailthru.featured" content="False" /><meta name="sailthru.tags" content="Spirituality" /><meta name="sailthru.author" content="WeAreALLONeMovieXcom" /><meta name="sailthru.date" content="2014-12-14T04:00:00" /><meta name="sailthru.staff-picks" content="False" /><script type="text/javascript" language="javascript" src="http://cdn2.btrstatic.com/javascript/constantsr32bj0cqv5ga4hle627vw.js"></script><link href="http://www.blogtalkradio.com/feed/featuredlive.rss" rel="alternate" type="application/rss+xml" title="BlogTalkRadio RSS Main Feed" /><link href="http://www.blogtalkradio.com/feed/onair.rss" rel="alternate" type="application/rss+xml" title="BlogTalkRadio RSS On Air Feed" /><link href="http://www.blogtalkradio.com/feed/featured.rss" rel="alternate" type="application/rss+xml" title="BlogTalkRadio RSS Featured Feed" /><link href="http://www.blogtalkradio.com/feed/allnetworks.rss" rel="alternate" type="application/rss+xml" title="BlogTalkRadio RSS Networks Feed" /><link href="http://www.blogtalkradio.com/feed/popular.rss" rel="alternate" type="application/rss+xml" title="BlogTalkRadio RSS Popular Feed" /><meta name="title" content="Lord ASHTAR SHERAN RADIO SHOW WEEKLY on SATURDAYS! 2013 12/13 by WeAreALLONeMovieXcom | Spirituality Podcasts" /><meta name="description" content="***Order a GALACTIC T-Shirt + Bonus DVD packed with Videos,Divine Messages &amp; Pics = $33 includes Shipping in US or + $11 Shipping Worldwide.Order:***One on One Session= $30 per 1/2hr or $50/hr donations greatly appreciated&amp; needed to continue Sharing/ Anchoring LIGHT~===HELP WANTED ~ Locally, Nationwide &amp; WorldwideMake 50% commission on Advertising Referrals. Website Design. Hosting. Check out services we offer at: www.DirectoryOfUS.com/advertise View actual website at: www.DirectoryOfUS.com JOIN OUR ??&amp;radic;?! &amp; LIGHT! Groups at: https://www.facebook.com/groups/374792225921922/ UFOs https://www.facebook.com/groups/610650618953792/ Galactic Federation of LIGHT by Ashtar Avatar https://www.facebook.com/groups/166289086878601 ASHTAR SHERAN https://www.facebook.com/groups/533928530000397/ PLANET X~ NIBURU ~ 2 SUNS ~ NESARA LAW ~ GOLDEN AGE ~ GLOBAL FREEDOM 2013~ https://www.facebook.com/groups/590504897659851/ " /><meta name="medium" content="video" /><meta name="video_height" content="200" /><meta name="video_width" content="220" /><meta name="video_type" content="application/x-shockwave-flash" /><link href="http://cdn.btrcdn.com/pics/hostpics/b7496574-4571-4a9f-949d-ad1eca0316de_ashtar-cover2.jpg" rel="image_src" /><link href="http://cdn.btrcdn.com/pics/hostpics/b7496574-4571-4a9f-949d-ad1eca0316de_ashtar-cover2.jpg" rel="videothumbnail" /><link href="http://www.blogtalkradio.com/btrplayer.swf?file=http://www.blogtalkradio.com%2fweareallonemovie%2fplay_list.xml?show_id=7102865&amp;autostart=true&amp;shuffle=false&amp;volume=80&amp;corner=rounded&amp;height=180&amp;width=210&amp;callback=http://www.blogtalkradio.com/FlashPlayerCallback.aspx" rel="video_src" /><link href="http://www.blogtalkradio.com/weareallonemovie/podcast" rel="alternate" type="application/rss+xml" /><link href="http://www.blogtalkradio.com/weareallonemovie/atomfeed" rel="alternate" type="application/atom+xml" /><meta name="keywords" content="GALACTIC FEDERATION OF LIGHT, ASHTAR SHERAN, Spirituality, GALACTIC FEDERATION OF LIGHT, ASHTAR SHERAN, ARCHANGEL MICHAEL, MOTHER EARTH, NESARA LAW" /><meta name="thumbnail" content="http://cdn.btrcdn.com/pics/hostpics/b7496574-4571-4a9f-949d-ad1eca0316de_ashtar-cover2.jpg" /><meta name="ROBOTS" content="INDEX,FOLLOW" /><meta property="og:description" content="***Order a GALACTIC T-Shirt + Bonus DVD packed with Videos,Divine Messages &amp; Pics = $33 includes Shipping in US or + $11 Shipping Worldwide.Order:***One on One Session= $30 per 1/2hr or $50/hr donations greatly appreciated&amp; needed to continue Sharing/ Anchoring LIGHT~===HELP WANTED ~ Locally, Nationwide &amp; WorldwideMake 50% commission on Advertising Referrals. Website Design. Hosting. Check out services we offer at: www.DirectoryOfUS.com/advertise View actual website at: www.DirectoryOfUS.com JOIN OUR ??&amp;radic;?! &amp; LIGHT! Groups at: https://www.facebook.com/groups/374792225921922/ UFOs https://www.facebook.com/groups/610650618953792/ Galactic Federation of LIGHT by Ashtar Avatar https://www.facebook.com/groups/166289086878601 ASHTAR SHERAN https://www.facebook.com/groups/533928530000397/ PLANET X~ NIBURU ~ 2 SUNS ~ NESARA LAW ~ GOLDEN AGE ~ GLOBAL FREEDOM 2013~ https://www.facebook.com/groups/590504897659851/ " /><meta property="og:image" content="http://cdn2.btrstatic.com/pics/showpics/large/422937_LQhPgIRc.jpg" /><meta property="og:site_name" content="BlogTalkRadio" /><meta property="og:title" content="Lord ASHTAR SHERAN RADIO SHOW WEEKLY on SATURDAYS! 2013" /><meta property="og:type" content="blogtalk:episodepage" /><meta property="og:url" content="http://www.blogtalkradio.com/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013" /><meta property="og:video" content="https://player.cinchcast.com/assets/player/jwplayer-5.9.2156.swf?config=https://player.cinchcast.com/config?platformId%3d1%26assetId%3d7102865%26assetType%3dsingle%26version%3d2.0" /><meta property="og:video:secure_url" content="https://player.cinchcast.com/assets/player/jwplayer-5.9.2156.swf?config=https://player.cinchcast.com/config?platformId%3d1%26assetId%3d7102865%26assetType%3dsingle%26version%3d2.0" /><meta property="og:video:width" content="400" /><meta property="og:video:height" content="370" /><meta property="og:video:type" content="application/x-shockwave-flash" /><meta property="profile:username" content="WeAreALLONeMovieXcom" /><meta property="profile:image" content="http://cdn.btrcdn.com/pics/hostpics/b7496574-4571-4a9f-949d-ad1eca0316de_ashtar-cover2.jpg" /><meta property="profile:url" content="http://www.blogtalkradio.com/weareallonemovie" /><meta property="profile:description" content="This is to talk about the Daily Messages from Angels, Archangels &amp; Galactics from the Company of Heaven &amp; the Galactic Federation of Light. " /><meta property="fb:app_id" content="72364733256" /><meta property="fb:admins" content="100003196743945,508193487,100003773906712,100003196743945,508193487,100003773906712,832007452,1075606712,832007452,746379552,1180318833,1335360029,1180318833,1335360029,1335360029,1266030015,1266030015,751518572,686929151,686929151,100006469459857,100002444163843,100006469459857,100003671419862,100003671419862,1162972587,797064915,100002304536069,797064915,561060199,100006699283625,100006699283625,100000468058411,100000468058411,100006699283625,1138243919,620692898,1497081862,1497081862" /><script>(function(){
+var MOBILE_WIDTH=760;
+window.UserAccount={
+cookie:'',
+userCookie:'',
+isAuthenticated:false,
+isHost:false,
+isPremium:false,
+wasPremium:false,
+hasAccount:false,
+isMobile:screen.width<MOBILE_WIDTH,
+isAid:false,
+aidContent:"",
+hasRememberMe:false,
+userCookieValues:{},
+hostId:null,
+userUrl:null,
+userId:null,
+init:function(){
+this.createAid();
+this.parseCookie();
+this.setTrafficDrivingStatus();
+window.isAidCookiePresent=this.isAid;
+this.setAuthenticationStatus();
+this.setUserAccountStatus();
+this.setUserData();
+},
+reload:function(){
+this.init();
+EarlyLoadingCssManager.addHideCssClassesBasedOnUserStatus();
+if(this.profileRefresh){
+this.profileRefresh();
+}
+},
+parseCookie:function(){
+this.cookie=document.cookie.toLowerCase();
+var userCookieIndex=this.cookie.indexOf('user=');
+var userCookieTerminatorIndex=this.cookie.substring(userCookieIndex).indexOf(';');
+this.userCookie=userCookieTerminatorIndex>-1?this.cookie.substr(userCookieIndex,userCookieTerminatorIndex):this.cookie.substring(userCookieIndex);
+var userCookiePairs=UserAccount.userCookie.substring(5).split("&");
+for(var index=0;index<userCookiePairs.length;index++){
+var pair=userCookiePairs[index].split("=");
+this.userCookieValues[pair[0]]=pair[1];
+}
+},
+setTrafficDrivingStatus:function(){
+var aidCookieValueKeys=['jema','adon','adcom','adkno','tab','65687978','7376','90277','4806','obtr'];
+var currentAidValues=this.aidContent.split(";");
+for(var i=0;i<aidCookieValueKeys.length;i++){
+for(var j=0;j<currentAidValues.length;j++){
+if(currentAidValues[j].toLowerCase().indexOf(aidCookieValueKeys[i])>-1){
+this.isAid=true;
+return;
+}
+}
+}
+},
+setAuthenticationStatus:function(){
+var authedCookieKey='authed=';
+var authedCookieIndex=this.cookie.indexOf(authedCookieKey);
+this.isAuthenticated=(authedCookieIndex>-1&&!isNaN(this.cookie.substr(authedCookieIndex+authedCookieKey.length,1)));
+},
+setUserAccountStatus:function(){
+if(this.userCookie.length==0)return;
+var hostIdCookieKey='hid=';
+var hostIdFirstCharacter=this.userCookie.substr(this.userCookie.indexOf(hostIdCookieKey)+hostIdCookieKey.length,1);
+this.isHost=(!isNaN(hostIdFirstCharacter)&&Number(hostIdFirstCharacter)>0);
+var hasPremiumAccountKey='prem=',
+wasPremiumKey='wasprem=';
+this.isPremium=this.userCookie.substr(this.userCookie.indexOf(hasPremiumAccountKey)+hasPremiumAccountKey.length,4).toLowerCase()=='true';
+this.wasPremium=this.userCookie.substr(this.userCookie.indexOf(wasPremiumKey)+wasPremiumKey.length,4).toLowerCase()=='true';
+this.hasAccount=this.cookie.indexOf('hasbtracct=true')>-1;
+this.hasRememberMe=this.cookie.indexOf('mybtracct')>-1;
+},
+setUserData:function(){
+this.hostId=this.userCookieValues["hid"];
+this.userUrl=this.userCookieValues["url"];
+this.userId=this.isAuthenticated?this.userCookieValues["uid"]:this.readCookie('BTRListenGUID');
+},
+readCookie:function(name){
+var buffer=(document.cookie.match('(^|; )'+name+'=([^;]*)')||0);
+if(buffer.length===0){
+return null;
+}
+return buffer[2];
+},
+createAid:function(){
+if(document.cookie.toLowerCase().indexOf('aid=')>-1){
+var buffer=this.readCookie("_aid")||"";
+this.aidContent=buffer.toLowerCase().replace("aid=","");
+return;
+}
+var aid=this.getQueryVariable("aid");
+if(aid!==null&&aid!==''&&aid!==undefined){
+aid=aid.toLowerCase();
+this.aidContent=unescape(aid);
+this.createCookie('_aid','aid='+unescape(aid),10);
+}
+},
+getQueryVariable:function(variable){
+var vars=window.location.search.substring(1).split("&");
+for(var i=0;i<vars.length;i++){
+var pair=vars[i].split("=");
+if(pair[0]===variable){
+return pair[1];
+}
+}
+return null;
+},
+createCookie:function(name,value,days){
+var expires;
+var domain=location.host.toLowerCase().indexOf('blogtalkradio.com')>-1?'blogtalkradio.com':location.hostname;
+if(days){
+var date=new Date();
+date.setTime(date.getTime()+(days*24*60*60*1000));
+expires="; expires="+date.toUTCString();
+}else{
+expires="";
+}
+document.cookie=name+"="+value+expires+"; path=/; domain="+domain;
+}
+};
+})();
+;window.UserAccount.init();
+</script>
+
+<script>window.UserAccount.setToolsEnabled=function(cookieName){
+cookieName+='=';
+var cookies=document.cookie.toLowerCase();
+var toolsEnabledCookieIndex=cookies.indexOf(cookieName);
+this.toolsEnabled=this.isHost&&!!(toolsEnabledCookieIndex>-1&&!isNaN(cookies.substr(toolsEnabledCookieIndex+cookieName.length,1)));
+};
+;window.UserAccount.setToolsEnabled("tools-enabled");
+</script>
+<script>window.EarlyLoadingCssManager={
+init:function(){
+this.elementsRemoved=[];
+this.addHideCssClassesBasedOnUserStatus();
+},
+addHideCssClassesBasedOnUserStatus:function(){
+var cssClasses={
+IfAuthenticated:UserAccount.isAuthenticated||UserAccount.hasRememberMe,
+IfNotAuthenticated:!(UserAccount.isAuthenticated||UserAccount.hasRememberMe),
+IfIsAid:UserAccount.isAid,
+IfUserIsAHost:UserAccount.isHost,
+IfUserIsNotAHost:!UserAccount.isHost,
+IfCurrentIsPremium:UserAccount.isPremium,
+IfCurrentIsNotPremium:!UserAccount.isPremium,
+IfHasBeenPremium:UserAccount.wasPremium,
+IfHasNeverBeenPremium:!UserAccount.wasPremium,
+IfUserHasAnAccount:UserAccount.hasAccount,
+IfAuthenticatedAndIsNotAHost:UserAccount.isAuthenticated&&!UserAccount.isHost,
+IfToolsEnabled:UserAccount.toolsEnabled,
+IfToolsNotEnabled:!UserAccount.toolsEnabled,
+IfIsSignupPage:location.href.toLowerCase().indexOf("/signup")>-1
+};
+var cssToHead=[];
+var cssToBeRemoved=[];
+for(var cssClass in cssClasses){
+if(cssClasses[cssClass]){
+cssToBeRemoved.push(cssClass);
+cssToHead.push('.hide'+cssClass+' { display: none !important; }');
+}
+}
+this.addCssToHead(cssToHead.join(''));
+this.removeDomElementsOnLoad(cssToBeRemoved);
+},
+addCssToHead:function(cssString){
+var styleElement=self.styleElement;
+if(!styleElement){
+styleElement=document.createElement('style');
+styleElement.type='text/css';
+styleElement.id='css-manager-styles';
+}else{
+while(styleElement.hasChildNodes()){
+styleElement.removeChild(styleElement.lastChild);
+}
+}
+if(styleElement.styleSheet){
+styleElement.styleSheet.cssText=cssString;
+}else{
+styleElement.appendChild(document.createTextNode(cssString));
+}
+if(!self.styleElement){
+document.getElementsByTagName('head')[0].appendChild(styleElement);
+self.styleElement=styleElement;
+}
+},
+removeDomElementsOnLoad:function(cssToBeRemoved){
+if(this.pageLoaded){
+this.removeDomElements(cssToBeRemoved);
+return;
+}
+var self=this;
+var removeFunc=function(){
+self.pageLoaded=true;
+setTimeout(function(){
+self.removeDomElements(cssToBeRemoved);
+},1);
+};
+if(!window.addEventListener){
+window.attachEvent("onload",removeFunc);
+}
+else{
+window.addEventListener("load",removeFunc,false);
+}
+},
+removeDomElement:function(element){
+var commentText=' removed '+element.tagName;
+if(element.id){
+commentText+='#'+element.id;
+}
+var placeholder=document.createComment(commentText);
+element.parentNode.replaceChild(placeholder,element);
+this.elementsRemoved.push([element,placeholder]);
+},
+restoreDomElement:function(element,placeholder){
+placeholder.parentNode.replaceChild(element,placeholder);
+},
+removeDomElements:function(cssToBeRemoved){
+var nodes,node;
+while(this.elementsRemoved.length){
+this.restoreDomElement.apply(this,this.elementsRemoved.pop());
+}
+for(var index=0;index<cssToBeRemoved.length;index++){
+var cssClass="hide"+cssToBeRemoved[index];
+if(document.getElementsByClassName){
+nodes=document.getElementsByClassName(cssClass);
+for(;nodes.length>0;){
+node=nodes[0];
+this.removeDomElement(node);
+}
+}else{
+nodes=document.querySelectorAll("."+cssClass);
+for(var nodeIndex=0;nodeIndex<nodes.length;nodeIndex++){
+node=nodes[nodeIndex];
+this.removeDomElement(node);
+}
+}
+}
+}
+};
+;window.EarlyLoadingCssManager.init();
+</script><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no" /><link href="http://cdn2.btrstatic.com/content/global-imports-dist.cache.6903bb5a.css" rel="stylesheet"/>
+
+<script type="text/javascript" language="javascript" src="http://cdn2.btrstatic.com/includefilesource/globaljs-bljegpgtzyferrmrfw.js"></script><script type="text/javascript" language="javascript" src="http://cdn1.btrstatic.com/includefilesource/defaultjs-f4m7cy3d7od7rtkzpw1aeq.js"></script><link href="http://cdn1.btrstatic.com/includefilesource/defaultcss-tjheu06rnpva3ginpochcq.css" rel="stylesheet" type="text/css" /><script type="text/javascript" language="javascript" src="http://cdn2.btrstatic.com/includefilesource/profileandepisodejs-cxbulhi9lcrj0agopodig.js"></script></head>
+<body id="ctl00_PageBody" class="mc640">
+    
+	<script type="text/javascript" language="javascript">
+		new UserAccountManager();
+		if (Browser.ie && (Browser.version == 7 || Browser.version == 8)) {
+			new IncludeManager().addCssInclude('/CSS/globalie' + Browser.version + '.css');
+		}
+	</script>
+	<div id="fb-root"></div>
+
+    <script src="http://cdn1.btrstatic.com/javascript/utag.header.js" type="text/javascript" language="javascript"></script>
+	<script type="text/javascript" language="javascript">
+var gconf = { 
+APIKey:'2_Rjx2fUtr3F4O28iJQEddgBuGHz26TPRZt5YUQu1Q8xSq_dfQ3tQuJqnwDpj__99w',
+facebookExtraPermissions:'publish_stream,create_event,offline_access',
+connectWithoutLoginBehavior:'alwaysLogin',
+signIDs:true,
+enabledProviders: 'facebook'};
+
+var logonParams = {
+	useHTML: true,
+	showTermsLink: false,
+	height:50,
+	width: 210,
+	containerID: "divGigya",
+	buttonsStyle: "fullLogo",
+	showWhatsThis:true,
+	UIConfig: "<config><b"+"ody><controls><snbuttons buttonsize='35'></snbuttons></controls></b"+"ody></config>"
+};
+</script>
+	<div class="headerback" id="header-banner">
+        <div id="ctl00_Div728x90"><div id="ctl00_Ad6_OpenXAd" class="banmanad" style="min-height:90px;">
+    <div id="ctl00_Ad6_divJsAd">
+        
+    </div>
+    <iframe id="ctl00_Ad6_OpenXIframe" scrolling="No" frameborder="0" vspace="0" hspace="0" marginheight="0" marginwidth="0" width="0" height="0"></iframe>
+</div></div>
+	</div>
+	
+
+
+
+
+
+<div id="header">
+        <div id="headerAd" class="clearfix">
+            <div data-widget='newsletter-subscription-popup' data-newsletter-subscription-popup-parameters='{"newsletterSubscriptionTimeout":60000,"newsletterSubscriptionFrequency":7,"newsletterSubscriptionTemplateName":"DevNewsletterSubscriptionTemplate","newsletterSubscriptionUrl":"http://link.blogtalkradio.com/s/email_interstitial"}'></div>
+        </div>
+    <div class="navbar navbar-inverse navbar-static-top" id="primary-nav">
+        <div class="navbar-inner">
+            <div class="container">
+                <a href="http://www.blogtalkradio.com" class="brand"><span class="btr-nav-img img-sprite">BlogTalkRadio</span></a>
+                <ul class="nav">
+                    <li id="nav-live" class="">
+                        <a href="http://www.blogtalkradio.com/live">Live</a>
+                    </li>
+                    <li id="nav-categories" class="dropdown ">
+                        <a href="http://www.blogtalkradio.com/categories" class="dropdown-toggle">Categories <b class="caret"></b></a>
+                        <div class="categories-menu dropdown-menu">
+                            <div class="row">
+                                <div class="span3">
+                                    <ul class="categories-list">
+        <li><a href="http://www.blogtalkradio.com/art" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Art">Art</a></li>
+        <li><a href="http://www.blogtalkradio.com/automotive" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Automotive">Automotive</a></li>
+        <li><a href="http://www.blogtalkradio.com/business" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Business">Business</a></li>
+        <li><a href="http://www.blogtalkradio.com/education" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Education">Education</a></li>
+        <li><a href="http://www.blogtalkradio.com/entertainment" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Entertainment">Entertainment</a></li>
+        <li><a href="http://www.blogtalkradio.com/family" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Family">Family</a></li>
+        <li><a href="http://www.blogtalkradio.com/food" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Food">Food</a></li>
+        <li><a href="http://www.blogtalkradio.com/health" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Health">Health</a></li>
+        <li><a href="http://www.blogtalkradio.com/hobbies" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Hobbies">Hobbies</a></li>
+        <li><a href="http://www.blogtalkradio.com/life" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Lifestyle">Lifestyle</a></li>
+        <li><a href="http://www.blogtalkradio.com/music" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Music">Music</a></li>
+        <li><a href="http://www.blogtalkradio.com/news" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="News">News</a></li>
+        <li><a href="http://www.blogtalkradio.com/politics" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Politics">Politics</a></li>
+        <li><a href="http://www.blogtalkradio.com/religion" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Religion">Religion</a></li>
+        <li><a href="http://www.blogtalkradio.com/science" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Science">Science</a></li>
+        <li><a href="http://www.blogtalkradio.com/self_help" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Self Help">Self Help</a></li>
+        <li><a href="http://www.blogtalkradio.com/spirituality" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Spirituality">Spirituality</a></li>
+        <li><a href="http://www.blogtalkradio.com/sports" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Sports">Sports</a></li>
+        <li><a href="http://www.blogtalkradio.com/technology" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Technology">Technology</a></li>
+        <li><a href="http://www.blogtalkradio.com/women" data-tracker-category="Categories" data-tracker-action="Link Click" data-tracker-label="Women">Women</a></li>
+</ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li id="nav-explore" class="dropdown ">
+                        <a href="http://www.blogtalkradio.com/popular" class="dropdown-toggle">Explore <b class="caret"></b></a>
+                        <div class="explore-menu dropdown-menu">
+                            <div class="row">
+                                <div class="span3">
+                                    <ul class="explore-list">
+                                        <li class="">
+                                            <a href="http://www.blogtalkradio.com/popular">Popular</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="http://www.blogtalkradio.com/todays-best">Today's Best Podcasts</a>
+                                        </li>
+                                        <li class="">
+                                            <a href="http://www.blogtalkradio.com/best-of">Best Of</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://www.blogtalkradio.com/featured-hosts">Featured Hosts</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li id="nav-networks" class=" dropdown">
+                        <a href="http://www.blogtalkradio.com/networks" class="dropdown-toggle">Networks <b class="caret"></b></a>
+                        <div class="stations-menu dropdown-menu">
+    <div class="row">
+        <div class="span3">
+            <ul class="explore-list">
+                    <li><a href="http://www.blogtalkradio.com/eWNRadioNetwork">eWN Radio Network</a></li>
+                    <li><a href="http://www.blogtalkradio.com/sbnation">SB Nation</a></li>
+                    <li><a href="http://www.blogtalkradio.com/mobileinsightsradio">Mobile Insights Radio</a></li>
+                    <li><a href="http://www.blogtalkradio.com/standupnylabs">Stand Up NY Labs</a></li>
+                    <li><a href="http://www.blogtalkradio.com/exitcoachnetwork">EXIT COACH NETWORK</a></li>
+                    <li><a href="http://www.blogtalkradio.com/fantasysportsnetwork">Fantasy Sports Network</a></li>
+                <li><br/></li>
+                <li><strong><a href="http://www.blogtalkradio.com/networks">view all networks</a></strong></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+                    </li>
+                </ul>
+                <form id="headerSearchForm" class="search-form navbar-search" action="http://www.blogtalkradio.com/search">
+                    <input id="headerSearchBox" name="q" type="text" class="search-query-input" placeholder="Search BlogTalkRadio" autocomplete="off" />
+                    <button type="submit" class="btn btn-small"><span data-btr-icon="p"></span></button>
+                </form>
+                <ul id="user-menu" class="nav pull-right">
+                    <li class="hideIfNotAuthenticated hidden-phone"><a id="faq-link" href="http://blogtalkradio.desk.com">Help</a></li>
+                    <li class="hideIfIsAid hidden-phone">
+                        <a class="highlight-link hideIfAuthenticated" href="https://secure.blogtalkradio.com/registerhost?via=header">
+                            Start your show
+                        </a>
+                        <a class="highlight-link hideIfNotAuthenticated hideIfUserIsAHost" href="http://www.blogtalkradio.com/user/becomehost.aspx">
+                            Start your show
+                        </a>
+                        <a id="premium-link" class="highlight-link hideIfNotAuthenticated hideIfUserIsNotAHost" href="http://www.blogtalkradio.com/premium.aspx" data-tracker-category="GoPremium" data-tracker-action="Link Click" data-tracker-label="Header Link">
+                            <span class="hideIfCurrentIsPremium hideIfHasBeenPremium">Free Premium Trial</span>
+                            <span class="hideIfCurrentIsPremium hideIfHasNeverBeenPremium">Go Premium</span>
+                            <span class="hideIfCurrentIsNotPremium">Upgrade</span>
+                        </a>
+                    </li>
+                    <li class="hideIfAuthenticated"><a id="login-link" href="https://secure.blogtalkradio.com/login.aspx?f=h&aid=Signin">Log in</a></li>
+                    <li class="hideIfAuthenticated hideIfIsAid hideIfIsSignupPage"><a id="signup-link" href='https://secure.blogtalkradio.com/register.aspx?aid=CRMTS' title="Create My Talk Show" class="btn btn-small btn-warning">Sign Up</a></li>
+                    <li id="profileTab" class="hideIfNotAuthenticated">
+                        <ul class="profileTab unstyled">
+                            <li>
+                                <a class="tabHeader dropdown-toggle"><img id="profileTab-userimage" style="height:35px;width:35px;" /></a>
+                                <div class="subnav2 dropdown-menu span4">
+                                    <div class="row-fluid">
+                                        <ul class="user-nav span6">
+                                            <li class="hideIfUserIsNotAHost"><a href="http://my.blogtalkradio.com/tools">Dashboard</a></li>
+                                            <li class="hideIfUserIsNotAHost"><a href="http://my.blogtalkradio.com/tools/#/new-episode">Create</a></li>
+                                            <li class="hideIfUserIsNotAHost"><a href="http://my.blogtalkradio.com/tools/#/my-episodes">Episodes</a></li>                                            
+                                            <li class="hideIfUserIsNotAHost"><a href="http://my.blogtalkradio.com/reports/default.aspx">Stats</a></li>
+                                            <li class="hideIfUserIsNotAHost"><a href="http://sb.blogtalkradio.com/host/studio.aspx">Studio</a></li>
+                                            <li><a href="http://my.blogtalkradio.com/user/settings.aspx">Settings</a></li>
+                                            <li><a href="http://my.blogtalkradio.com/user/messaging.aspx">Messages</a></li>
+                                            <li>
+                                                <a class="highlight-link hideIfNotAuthenticated hideIfUserIsAHost" href="http://www.blogtalkradio.com/user/becomehost.aspx">
+                                                    Start your show
+                                                </a>
+                                                <a href="http://www.blogtalkradio.com/premium.aspx" class="highlight-link hideIfNotAuthenticated hideIfUserIsNotAHost">
+                                                    <span class="hideIfCurrentIsPremium hideIfHasBeenPremium">Free Premium Trial</span>
+                                                    <span class="hideIfCurrentIsPremium hideIfHasNeverBeenPremium">Go Premium</span>
+                                                    <span class="hideIfCurrentIsNotPremium">Upgrade</span>
+                                                </a></li>
+                                        </ul>
+                                        <div class="user-card span6">
+                                            <div class="profilename"><a id="usercard-displayName" class="center"></a></div>
+                                            <p><a id="userimage-link" href="#"><img id="usercard-userimage" /></a></p>
+                                            <p><a id="aLogOut" href="http://www.blogtalkradio.com/logout.aspx">Log Out</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="player-controls inverse hide">
+            <div class="container">
+                <div class="progress player-timeline">
+                    <div class="buffer"></div>
+                    <div class="bar"></div>
+                    <span class="player-time"></span>
+                    <span class="player-duration"></span>
+                    <span id="player-shuttle"></span>
+                    <div class="player-message-playingAd">Your show will resume after this message</div>
+                    <div class="player-message-buffering">Loading audio for smooth playback...</div>
+                    <div class="player-message-processing">The episode audio is being processed and will be ready shortly.</div>
+                </div>
+                <!--a href="#" class="player-prev"><span data-btr-icon="L" class="prev-icon"></span></a-->
+                <a href="#" class="player-play pause"><span data-btr-icon="(" class="play-icon"></span><span data-btr-icon=")" class="pause-icon"></span></a>
+                <a href="#" class="player-next"><span data-btr-icon=":" class="next-icon"></span></a>
+                <div class="player-volume">
+                    <input id="input-volume" data-slider-id='volume-control' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="1" data-slider-value="80"/>
+                </div>
+                <a class="player-mute" href="#">
+                    <span data-btr-icon='=' data-volume="3" class="volume-icon"></span>
+                </a>
+                <a class="player-share" href="#" title="Embed this episode" data-tracker-category="player-onsite" data-tracker-action="embed episode" data-tracker-label="" target="_self" rel="nofollow">
+                    <span data-btr-icon="~" class="share-icon"></span>
+                </a>
+                <a class="player-download" href="#" title="Download this episode" data-tracker-category="player-onsite" data-tracker-action="download" data-tracker-label="" download="" rel="nofollow">
+                    <span data-btr-icon="J" class="download-icon"></span>
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="snap-header navbar navbar-inverse hide-desktop" style="display: none;">
+        <div class="navbar-inner">
+            <a class="btn btn-navbar" data-toggle="side-menu">
+                <span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </span>
+                Menu
+            </a>
+            <a href="http://www.blogtalkradio.com" class="brand"><span class="btr-nav-img img-sprite">BlogTalkRadio</span></a>
+        </div>
+    </div>
+
+</div>
+<!--  header end here -->
+
+	<!-- T&T Default Body --><div class="mboxDefault"></div><script type="text/javascript">if (!window.isAidCookiePresent) mboxCreate("global");</script><script>
+	(function(){
+		var redirectHost = function() { 
+				var wasLoggedOff = window.UserAccount.readCookie('wasLoggedOff');
+				if((window.UserAccount.hostId == 95599 || window.UserAccount.hostId == 320461) && !(wasLoggedOff === 'true')) {
+					window.UserAccount.createCookie('wasLoggedOff','true',360);
+					location.href = window.globalConstants.appRootUrl + '/logout.aspx';
+				} 
+			};
+
+		if(document.addEventListener){
+				document.addEventListener('DOMContentLoaded', redirectHost);
+		}
+		else{
+				document.attachEvent('onreadystatechange', function() { if(document.readyState == 'interactive') { redirectHost(); }});
+		}
+	})();
+	</script>
+    <section id="page-message-type-1000" class="page-message-workflow page-message-type-workflow"></section>
+
+	<form method="post" action="/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYxNTkwMDEyNmRkj/34lFYosa3DzL2bm39EruzmjiQ=" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var PageShows = [{ showID: 7102865, hostDisplayName: 'WeAreALLONeMovieXcom', showName: 'Lord ASHTAR SHERAN RADIO...', hostID: 422937, showDate: '12/14/2014 4:00:00 AM', hostUrl: 'weareallonemovie' },];//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5C743765" />
+</div>
+        <div id="breadcrumb" class="masthead">
+	<div class="container">
+		<div class="row">
+			<div class="span12">
+				<ul class="breadcrumb">
+	<li class="home-link">
+		<a href="http://www.blogtalkradio.com">Home</a>
+		<span class="divider">/</span>
+	</li>
+	<li >
+
+<a href='http://www.blogtalkradio.com/Networks'>Networks</a>
+
+<span class='divider'>/</span>
+		</li>
+<li class='active'>
+<h1>
+<a href='http://www.blogtalkradio.com/enespanol'>En Español</a>
+</h1>
+
+		</li>
+
+</ul>
+
+			</div>
+		</div>
+	</div>
+	<img src="http://cdn.btrcdn.com/pics/stationpics/113_headenespanolfinalbanner.jpg" alt="En Espa&#241;ol" />
+</div>
+
+
+        <div class="container custom-image" id="station-masthead">
+            <input type="hidden" name="hdnStationID" value="113" />
+            <input type="hidden" name="ctl00$hdnUserLogo" id="ctl00_hdnUserLogo" value="false" />
+            
+            
+    <style type="text/css">
+        #station-masthead {
+            display: none;
+        }
+        #station-masthead .masthead-background {
+            background: transparent !important;
+        }
+
+        
+    </style>
+
+
+        </div>
+
+		<div id="container" class="container">
+			<div id="ctl00_headerBack" class="row">
+				<div class="span8 maincontent" id="maincontent">
+					
+
+    <div class="episode-details page-episode" itemscope itemtype="http://schema.org/Event">
+
+        <meta itemprop="name" content="Lord ASHTAR SHERAN RADIO SHOW WEEKLY on SATURDAYS! 2013" />
+        <meta itemprop="description" content="***Order a GALACTIC T-Shirt + Bonus DVD packed with Videos,Divine Messages & Pics = $33 includes Shipping in US or + $11 Shipping Worldwide.Order:***One on One Session= $30 per 1/2hr or $50/hr donations greatly appreciated& needed to continue Sharing/ Anchoring LIGHT~===HELP WANTED ~ Locally, Nationwide & WorldwideMake 50% commission on Advertising Referrals. Website Design. Hosting. Check out services we offer at: www.DirectoryOfUS.com/advertise View actual website at: www.DirectoryOfUS.com JOIN OUR ??&radic;?! & LIGHT! Groups at: https://www.facebook.com/groups/374792225921922/ UFOs https://www.facebook.com/groups/610650618953792/ Galactic Federation of LIGHT by Ashtar Avatar https://www.facebook.com/groups/166289086878601 ASHTAR SHERAN https://www.facebook.com/groups/533928530000397/ PLANET X~ NIBURU ~ 2 SUNS ~ NESARA LAW ~ GOLDEN AGE ~ GLOBAL FREEDOM 2013~ https://www.facebook.com/groups/590504897659851/ " />
+        <meta itemprop="url" content="http://www.blogtalkradio.com/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013" />
+        <meta itemprop="image" content="http://cdn.btrcdn.com/pics/hostpics/b7496574-4571-4a9f-949d-ad1eca0316de_ashtar-cover2.jpg" />
+        <meta itemprop="startDate" content="2014-12-14T04:00:00Z" />
+        <meta itemprop="endDate" content="2014-12-14T04:45:00Z" />
+        <meta itemprop="duration" content="T45M" />
+
+        <h1 id="episode-title" itemprop="name">Lord ASHTAR SHERAN RADIO SHOW WEEKLY on SATURDAYS! 2013</h1>
+
+        <ul class="inline">
+
+            <li class="player-category">Broadcast in <a href="/spirituality">Spirituality</a></li>
+
+            <li class="player-date" >
+                <time datetime='2014-12-14 04:00:00Z' data-duration='2700000' data-time-label="#episode_archived" data-time-tooltip>
+                    <label id="1863b4fd-b360-4407-94d3-d3a23a4f38e5" class="BTRUTC">Sun, Dec 14, 2014 04:00AM UTC</label><script language="javascript" type="text/javascript">{fixThisFF("1863b4fd-b360-4407-94d3-d3a23a4f38e5", "ddd, MMM d, yyyy", "ddd, MMM d, yyyy hh:mmtt", "")};</script>
+                </time>
+                
+            </li>
+
+            
+                <li class="player-comments"><a href="#comments"><span>0</span> comments</a></li>
+            
+        </ul>
+
+        
+
+    </div>
+
+    <div id="host" class="episode-host" itemscope itemtype="http://schema.org/Person" style="background-image:url();">
+        <meta itemprop="url" content="http://www.blogtalkradio.com/weareallonemovie" />
+        <meta itemprop="jobTitle" content="WeAreALLONeMovieXcom" />
+        <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <meta itemprop="addressLocality" content="BlogTalkRadio" />
+            <meta itemprop="addressRegion" content="" />
+        </div>
+        <meta itemprop="name" content="WeAreALLONeMovieXcom" />
+        <meta itemprop="image" content="http://cdn.btrcdn.com/pics/hostpics/b7496574-4571-4a9f-949d-ad1eca0316de_ashtar-cover2.jpg" />
+
+        <div id="avatar-wrapper" class="host_image">
+            <a href="/weareallonemovie"><img width="48" height="48" class="show-img" alt="WeAreALLONeMovieXcom" src="http://cdn2.btrstatic.com/pics/hostpics/thumbs/b7496574-4571-4a9f-949d-ad1eca0316de_ashtar-cover2.jpg" /></a>
+        </div>
+
+        <h2 class="hostname" itemprop="performers" itemscope itemtype="http://schema.org/Person"><a href="/weareallonemovie"><span itemprop="name">WeAreALLONeMovieXcom</span></a></h2>
+
+        <div class="host-actions">
+            <a id="follow-host-button-422937" data-host-id="422937" title="Follow WeAreALLONeMovieXcom" data-tracker-category="Follow" data-tracker-action="Profile Page" data-tracker-label="Follow Click" class="btn btn-primary follow-host">follow</a>
+            
+        </div>
+
+        
+
+        <div class="popover bottom collapse tooltip-follow episode-follow " id="tooltip-follow">
+            <div class="arrow"></div>
+            <span class="close" onclick="$(this).closest('.popover').removeClass('in');">&times; &nbsp;</span>
+            <h3 class="popover-title">Follow This Show</h3>
+            <div class="popover-content">If you liked this show, you should follow WeAreALLONeMovieXcom.</div>
+        </div>
+
+    </div>
+
+    <div class="well player-callin hide">
+        
+        <p>Call in to speak with the host</p>
+        <p class="host-phone">(347) 996-5528</p>
+        
+    </div>
+
+    <div class="hhelp">h:422937<br />s:7102865<br /><span id="sState">archived</span></div>
+
+
+    <div class="player-wrapper" itemscope itemtype="http://schema.org/AudioObject">
+
+        <meta itemprop="url" content="http://www.blogtalkradio.com/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013" />
+        <meta itemprop="name" content="Lord ASHTAR SHERAN RADIO SHOW WEEKLY on SATURDAYS! 2013" />
+        <meta itemprop="description" content="***Order a GALACTIC T-Shirt + Bonus DVD packed with Videos,Divine Messages & Pics = $33 includes Shipping in US or + $11 Shipping Worldwide.Order:***One on One Session= $30 per 1/2hr or $50/hr donations greatly appreciated& needed to continue Sharing/ Anchoring LIGHT~===HELP WANTED ~ Locally, Nationwide & WorldwideMake 50% commission on Advertising Referrals. Website Design. Hosting. Check out services we offer at: www.DirectoryOfUS.com/advertise View actual website at: www.DirectoryOfUS.com JOIN OUR ??&radic;?! & LIGHT! Groups at: https://www.facebook.com/groups/374792225921922/ UFOs https://www.facebook.com/groups/610650618953792/ Galactic Federation of LIGHT by Ashtar Avatar https://www.facebook.com/groups/166289086878601 ASHTAR SHERAN https://www.facebook.com/groups/533928530000397/ PLANET X~ NIBURU ~ 2 SUNS ~ NESARA LAW ~ GOLDEN AGE ~ GLOBAL FREEDOM 2013~ https://www.facebook.com/groups/590504897659851/ " />
+        <meta itemprop="image" content="http://cdn2.btrstatic.com/pics/showpics/large/422937_LQhPgIRc.jpg" />
+        <meta itemprop="duration" content="T45M" />
+        <meta itemprop="about" content="Spirituality" />
+        <meta itemprop="thumbnailURL" content="http://cdn1.btrstatic.com/pics/showpics/thumbs/422937_LQhPgIRc.jpg" />
+        <meta itemprop="datePublished" content="2014-12-14T04:00:00Z" />
+        <meta itemprop="provider" content="BlogTalkRadio" />
+        <meta itemprop="publisher" content="WeAreALLONeMovieXcom" />
+        <meta itemprop="height" content="358" />
+        <meta itemprop="width" content="100%" />
+        <meta itemprop="encodingFormat" content="mp3" />
+
+        <div id="player">
+            <audio preload="none" id="player-audiotag" controls>
+                <source src="/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013.mp3?localembed=showpage&guid=d70fe73b-7da3-4f9a-b5cc-ce09bf685788" type="audio/mpeg" />
+            </audio>
+        </div>
+
+        <a href="#" id="play-call-to-action">Play</a>
+
+        <div id="slideshow" class="slideshow">
+            <ul class="unstyled">
+            
+                <li class="slide">
+                    <img src="http://cdn2.btrstatic.com/pics/showpics/large/422937_LQhPgIRc.jpg" class="pinterestImage" alt="" />
+                </li>
+                
+            </ul>
+            <a href="#" class="prev slideshow-arrow"><span data-btr-icon="<"></span></a>
+            <a href="#" class="next slideshow-arrow"><span data-btr-icon=">"></span></a>
+        </div>
+
+    </div>
+
+    <div class="episode-details">
+
+        
+        <ul class="tags">
+            <li><a href="/tags?q=galactic-federation-of-light" rel="nofollow">GALACTIC FEDERATION OF LIGHT</a></li><li><a href="/tags?q=ashtar-sheran" rel="nofollow">ASHTAR SHERAN</a></li><li><a href="/tags?q=archangel-michael" rel="nofollow">ARCHANGEL MICHAEL</a></li><li><a href="/tags?q=mother-earth" rel="nofollow">MOTHER EARTH</a></li><li><a href="/tags?q=nesara-law" rel="nofollow">NESARA LAW</a></li>
+        </ul>
+        
+
+        <div class="KonaBody player-description">***Order a GALACTIC T-Shirt + Bonus DVD packed with Videos,<br><br>Divine Messages &amp; Pics = $33 includes Shipping in US or + $11 Shipping Worldwide.<br>Order:<br><br>***One on One Session= $30 per 1/2hr or $50/hr donations greatly appreciated<br><br>&amp; needed to continue Sharing/ Anchoring LIGHT~<br><br>===<br><br>HELP WANTED ~ Locally, Nationwide &amp; Worldwide<br><br>Make 50% commission on Advertising Referrals. Website Design. Hosting. Check out services we offer at: <a href="http://www.sedonasinfo.com/advertise" rel="nofollow">www.DirectoryOfUS.com/advertise</a><p> &nbsp;</p><p> View actual website at: <a href="http://www.facebook.com/l.php?u=http%3A%2F%2Fwww.SedonaSinfo.com&amp;amp;amp;h=FAQHrv_obAQE38q8nXH3ai9yi-gtlfpMDCwE0UroUlZJYTA&amp;amp;amp;s=1" rel="nofollow">www.DirectoryOfUS.com</a><br> <br> <br> JOIN OUR ??&radic;?! &amp; LIGHT! Groups at:<br> <br> <a href="https://www.facebook.com/groups/374792225921922/" rel="nofollow"><span>https://www.facebook.com/</span>groups/374792225921922/</a><br> <br> UFOs<br> <a href="https://www.facebook.com/groups/610650618953792/" rel="nofollow"><span>https://www.facebook.com/</span>groups/610650618953792/</a><br> <br> Galactic Federation of LIGHT by Ashtar Avatar<br> <a href="https://www.facebook.com/groups/166289086878601" rel="nofollow"><span>https://www.facebook.com/</span>groups/166289086878601</a><br> <br> ASHTAR SHERAN<br> <a href="https://www.facebook.com/groups/533928530000397/" rel="nofollow"><span>https://www.facebook.com/</span>groups/533928530000397/</a><br> <br> PLANET X~ NIBURU ~ 2 SUNS ~ NESARA LAW ~ GOLDEN AGE ~ GLOBAL FREEDOM 2013~<br> <a href="https://www.facebook.com/groups/590504897659851/" rel="nofollow"><span>https://www.facebook.com/</span>groups/590504897659851/</a><br> &nbsp;</p></div>
+
+    </div>
+
+<script type="text/javascript" language="javascript">
+var Episode = {
+    ApiRootUrl: 'http://www.blogtalkradio.com/api',
+    ads:"Sun, Dec 14, 2014",
+    adTag: "http://ox-d.blogtalkradio.com/v/1.0/av?pgid=17591&c.title=Lord+ASHTAR+SHERAN+RADIO+SHOW+WEEKLY+on+SATURDAYS!+2013&c.url=http%3a%2f%2fwww.blogtalkradio.com%2fweareallonemovie%2f2014%2f12%2f14%2flord-ashtar-sheran-radio-show-weekly-on-saturdays-2013&c.show_id=7102865&c.hostid=422937&c.stationid=113&c.category=Spirituality&c.aid={aid}&c.qdsd={qdsd}&c.tpt={tpt}&c.campaign=",
+    adTagMidroll: "http://ox-d.blogtalkradio.com/v/1.0/av?pgid=17591&c.title=Lord+ASHTAR+SHERAN+RADIO+SHOW+WEEKLY+on+SATURDAYS!+2013&c.url=http%3a%2f%2fwww.blogtalkradio.com%2fweareallonemovie%2f2014%2f12%2f14%2flord-ashtar-sheran-radio-show-weekly-on-saturdays-2013&c.show_id=7102865&c.hostid=422937&c.stationid=113&c.category=Spirituality&c.aid={aid}&c.qdsd={qdsd}&c.tpt={tpt}&c.campaign=",
+    bProfile:false,
+    bitrate:128,
+    customEmbedCode:"Check Out Spirituality Podcasts at Blog Talk Radio with <a href=\"http://www.blogtalkradio.com/weareallonemovie\" rel=\"nofollow\">WeAreALLONeMovieXcom</a> on BlogTalkRadio",
+    CompanionHeight: 250,
+    CompanionId: 'companion1',
+    CompanionWidth: 300,
+    dur:2700000,
+    Duration: 2700,
+    EditDecisionList: [],
+    hostID:422937,
+    HostId: 422937,
+    hostName:"WeAreALLONeMovieXcom",
+    hName:"WeAreALLONeMovieXcom",
+    hUrl:"weareallonemovie",
+    hostUrl:"/weareallonemovie",
+    IsOvaEnabled: true,
+    jwPlayerKey: 'M+3IUee2GQZGAvOG7s09M+SNIWUCGpaekxAXsg==',
+    lp:false,
+    mod:"false",
+    notReady: false,
+    pageName:"lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013",
+    showDateUTC:1418529600,
+    showDateSTR:"12/14/2014 4:00:00 AM",
+    showFile:'/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013.mp3?localembed=showpage&guid=d70fe73b-7da3-4f9a-b5cc-ce09bf685788',
+    showID:7102865,
+    showImage: "http://cdn.btrcdn.com/pics/hostpics/b7496574-4571-4a9f-949d-ad1eca0316de_ashtar-cover2.jpg",
+    showLink: "/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013",
+    showName:"Lord ASHTAR SHERAN RADIO SHOW WEEKLY on SATURDAYS! 2013",
+    sIsMP3LiveStream:"1",
+    skipAds:false,
+    state:"archived",
+    status: "Archived",
+    ttstcd:-3600,
+    ttl:0,
+    wwwroot:"www.blogtalkradio.com",
+    userID:"b7496574-4571-4a9f-949d-ad1eca0316de",
+    z:{}
+}
+
+Player.createPlayer(Episode);
+
+$(document).ready(function () {
+    MYBTR.setupEpisode(Episode);
+
+    $(document).on("modulesReady", function() {
+        $(document).trigger("pageWireupReady", Episode);
+    });
+
+});
+
+
+</script>
+
+<div class="mboxDefault"></div><script type="text/javascript">if (!window.isAidCookiePresent) mboxCreate("episode-player");</script>
+
+    
+<div class="mboxDefault"></div>
+
+<script type="text/javascript">
+    (function() {
+        if (window.UserAccount.isAid) {
+           mboxCreate('EpisodeRecomNA',
+'entity.id=422937'
+);
+
+        }
+        else {
+            mboxCreate('episodePage',
+'entity.id=422937',
+'entity.categoryId=Spirituality',
+'entity.name=WeAreALLONeMovieXcom',
+'entity.pageUrl=/weareallonemovie',
+'entity.thumbnailUrl=http://cdn.btrcdn.com/pics/hostpics/b7496574-4571-4a9f-949d-ad1eca0316de_ashtar-cover2.jpg',
+'entity.nameEpisodeRecent=www.AshtarEnEspanol.com Todos Los DOMINGOS@8pm Los Angeles, CA.',
+'entity.pageUrlEpisodeRecent=/weareallonemovie/2015/03/23/wwwashtarenespanolcom-todos-los-domingos8pm-los-angeles-ca',
+'entity.thumbnailUrlEpisodeRecent=http://cdn2.btrstatic.com/pics/showpics/thumbs/b7496574-4571-4a9f-949d-ad1eca0316de_ashtar-cover2.jpg',
+'entity.nameEpisodePopular=www.AshtarEnEspanol.com Todos Los DOMINGOS@8pm Los Angeles, CA.',
+'entity.pageUrlEpisodePopular=/weareallonemovie/2015/03/23/wwwashtarenespanolcom-todos-los-domingos8pm-los-angeles-ca',
+'entity.thumbnailUrlEpisodePopular=http://cdn2.btrstatic.com/pics/showpics/thumbs/b7496574-4571-4a9f-949d-ad1eca0316de_ashtar-cover2.jpg',
+'entity.featured=false',
+'entity.numberOfFollowers=38',
+'entity.numberOfListeners=129641'
+);
+
+        }
+    })();
+</script>
+
+    <div class="addthis_recommended_horizontal"></div>
+
+    <div id="ctl00_ContentMain_Ad468x60" class="wideAd"><div id="ctl00_ContentMain_GoogleAdSense_OpenXAd" class="banmanad">
+    <div id="ctl00_ContentMain_GoogleAdSense_divJsAd">
+<!-- FM Content Well 650x300 Zone --> 
+<script> if (!(window.isAidCookiePresent)) {
+federated_media_section = "blogtalkradio-perma"; document.write("<scr"+"ipt type='text/javascript' src='http://static.fmpub.net/zone/8896'></scr"+"ipt> "); }
+else {
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "317131" });
+document.write('<scr'+'ipt src="http://ox-d.blogtalkradio.com/w/1.0/jstag"><\/scr'+'ipt>');}
+</script>
+</div>
+    
+</div></div>
+    
+
+    
+	<h3 class="section-heading">Comments</h3>
+        <div id="fb-root"></div>
+        <div id="facebook-comment-block">
+            <script>
+                $(window).load (function () {
+                    FB.init({
+                        appId: '72364733256', // App ID
+                        channelUrl: 'http://www.blogtalkradio.com/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013', // Channel File
+                        status: true, // check login status
+                        cookie: true, // enable cookies to allow the server to access the session
+                        oauth: true, // enable OAuth 2.0
+                        xfbml: true  // parse XFBML
+                    });
+                    FB.XFBML.parse(document.getElementById('facebook-comment-block'));
+                });
+
+                // Load the SDK Asynchronously
+                $(function (d) {
+                    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) { return; }
+                    js = d.createElement('script'); js.id = id; js.async = true;
+                    js.src = "//connect.facebook.net/en_US/all.js";
+                    d.getElementsByTagName('head')[0].appendChild(js);
+                } (document));
+            </script>
+
+            <fb:comments data-href="http://www.blogtalkradio.com/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013" data-num-posts="10" data-width="625"></fb:comments>
+	        <div id="facebook-comments">
+                     <div style="float:left" class="fb-comments-count" data-href="http://www.blogtalkradio.com/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013"></div><div>&nbsp;comments</div>
+            </div>
+        </div>
+    
+
+
+    <div class="comments-container">
+	    <div class="comments_wrap"></div>
+    </div>
+
+    
+<script type="text/javascript"> if (!window.OX_ads) { OX_ads = []; }OX_ads.push({ "auid" : "331511" });</script> <script type="text/javascript"> document.write('<scr'+'ipt src="http://ox-d.blogtalkradio.com/w/1.0/jstag"><\/scr'+'ipt>');</script> 
+<script type="text/javascript">
+function wallpaper_ads() {
+ var w = Math.floor((window.innerWidth - document.getElementById("container").offsetWidth)/2)-10,
+     css = "#SM__romeRightAdBg,#SM__romeLeftAdBg { width: "+w+"px !important; }",
+     style = document.getElementById("wallpaper-style");
+ if(style===null) { 
+  style = document.createElement("style");
+  style.type = "text/css";
+  style.setAttribute("id", "wallpaper-style");
+  document.getElementsByTagName("head")[0].appendChild(style);
+ }
+ style.innerHTML=css;
+}
+window.onresize = wallpaper_ads;
+wallpaper_ads();
+</script>
+
+    <script type="text/javascript" src="http://playerservices.live.streamtheworld.com/api/idsync.js?station=BLOGTALKRADIO"></script>
+
+
+				</div>
+				<div class="span4" id="rightColumn">
+					
+    <script id="userTemplate" type="text/html">
+        <# if (users) {
+            for (var i = 0; i < users.length; i++)
+            {
+                var u = users[i];
+        #>
+            <li><a href="/<#= u.userUrl #>"><img class="deferredLoad" data-src="<#= u.imgUrl #>" width="48" height="48" alt="<#= u.displayName #>" /></a></li>
+        <#  }
+        }else { #>
+            <div style="padding:10px;">[None]</div>
+        <# } #>
+    </script>
+    <script id="userTemplateExp" type="text/html">
+        <ul class="followers_lst_exp">
+        <# if (users) {
+            for (var i = 0; i < users.length; i++)
+            {
+                var u = users[i];
+        #>
+            <li>
+                <a class="aimg" href="/<#= u.userUrl #>"><img class="deferredLoad" data-src="<#= u.imgUrl #>" width="48" height="48" alt="<#= u.displayName #>" /></a>
+                <ul>
+                    <li>
+                        <a href="/<#= u.userUrl #>" class="uname"><#= u.displayName #></a>
+                    </li>
+                    <li>
+                        <# if (typeof(u.following) != "undefined") {
+                             if(u.following == "true") { #>
+                                <a class="btn tiny" title="unfollow <#= u.displayName #>" hid="<#= u.hid #>">unfollow</a>
+                            <# } else { #>
+                                <a class="btn tiny hot" title="follow <#= u.displayName #>" hid="<#= u.hid #>">follow</a>
+                            <# }
+                         } #>
+                    </li>
+                </ul>
+            </li>
+        <#  }
+        }else { #>
+            <div style="padding:10px;">[None]</div>
+        <# } #>
+        </ul>
+    </script>
+    <script id="commentsTemplate" type="text/html">
+        <div class="comments">
+            <# if (comments) {
+                for (var i = 0; i < comments.length; i++)
+                {
+                    var d = comments[i];
+            #>
+                <div class="comment_details">
+                    <div class="image_block"><a href="/<#= d.userUrl #>"><img class="deferredLoad" data-src="<#= d.imgUrl #>" width="50" height="50" alt="<#= d.displayName #>" /></a></div>
+                    <div class="text_block">
+                        <h3><a href="/<#= d.userUrl #>"><#= d.displayName #></a></h3>
+                        <# if (d.canDel) { #>
+                            <p><#= d.date #></p>
+                            <p class="date"><a class="delcmt" cid="<#= d.cid #>">delete</a></p>
+                        <# }else{ #>
+                            <p class="date"><#= d.date #></p>
+                        <# } #>
+                    </div>
+                    <p class="content"><#= d.text #></p>
+                </div>
+                <# } #>
+
+
+            <# } #>
+        </div>
+    </script>
+    <div id="ctl00_ContentRightColumn_RightColumn_pnlRightColumn" class="rightcolumnsidebar">
+	<div id="ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManAd" class="banmanad" style="height:60px;min-height:60px;">
+    <div id="ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_divFirstAd" class="banmanad"></div>
+    <iframe id="ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframe" scrolling="No" frameborder="0" vspace="0" hspace="0" marginheight="0" marginwidth="0" width="0" height="0"></iframe>
+</div>
+
+<div id='companion1' class="banmanad"></div><div id="ctl00_ContentRightColumn_RightColumn_Ad1_OpenXAd" class="banmanad" style="min-height:250px;">
+    <div id="ctl00_ContentRightColumn_RightColumn_Ad1_divJsAd">
+        
+    </div>
+    
+</div><div id="ctl00_ContentRightColumn_RightColumn_Ad3_OpenXAd" class="banmanad" style="min-height:500px;">
+    <div id="ctl00_ContentRightColumn_RightColumn_Ad3_divJsAd">
+        
+    </div>
+    <iframe id="ctl00_ContentRightColumn_RightColumn_Ad3_OpenXIframe" scrolling="No" frameborder="0" vspace="0" hspace="0" marginheight="0" marginwidth="0" width="0" height="0"></iframe>
+</div><div class='divListeners hide'></div>
+<div class="sections-legacy cards-legacy">
+    <section id="todays-best-podcasts" class="episode-cards">
+<header>
+    <h2>
+        <a name="todays-best-podcasts">Today&#39;s Best Podcasts</a>
+    </h2>
+</header>
+
+
+<ol class="card-list list-count-10 ">
+        <li class="list-first list-index-0 ">
+<article class="episode-card episode-archived" data-episode-id="60001">
+   
+    <div class="thumbnail">
+        <a href="http://www.blogtalkradio.com/monalisashow/2015/03/20/women-headliners-womens-march-madness">
+            
+                <img data-src="http://cdn.btrcdn.com/pics/hostpics/7cfdd9be-3344-4185-8e13-d7a6fcd7e577_radionetworkcard-monalisacomo.jpg" src="/img/spacer.gif" class="deferredLoad" alt="Power Lunch Radio" />
+
+        </a>
+        <a class="play-button" href="http://www.blogtalkradio.com/monalisashow/2015/03/20/women-headliners-womens-march-madness"></a>
+    </div>
+    <header>
+        <a class="category" rel="tag" href="http://www.blogtalkradio.com/news">
+            News
+        </a>
+        <h3>
+            <a rel="bookmark" href="http://www.blogtalkradio.com/monalisashow/2015/03/20/women-headliners-womens-march-madness">
+                Women&#39;s March Madness
+            </a>
+        </h3>
+        <address>
+            <a rel="author" href="http://www.blogtalkradio.com/monalisashow">
+                Power Lunch Radio
+            </a>
+        </address>
+    </header>
+    
+        <time pubdate datetime="2015-03-20 16:00:00Z" data-duration="0" data-time-label="#episode_archived" data-time-tooltip>3/20/2015 4:00 PM</time>
+
+</article>
+<hr/>
+
+        </li>
+        <li class="list-index-1 ">
+<article class="episode-card episode-archived" data-episode-id="59989">
+   
+    <div class="thumbnail">
+        <a href="http://www.blogtalkradio.com/veteransuicide/2015/02/24/058-recovering-from-abuse-feat-robert-consulmagno-marine">
+            
+                <img data-src="http://cdn.btrcdn.com/pics/hostpics/654bb916-b649-4a8f-8faa-94fa143730b4_with_script.jpg" src="/img/spacer.gif" class="deferredLoad" alt="Timothy Lawson" />
+
+        </a>
+        <a class="play-button" href="http://www.blogtalkradio.com/veteransuicide/2015/02/24/058-recovering-from-abuse-feat-robert-consulmagno-marine"></a>
+    </div>
+    <header>
+        <a class="category" rel="tag" href="http://www.blogtalkradio.com/health">
+            Health
+        </a>
+        <h3>
+            <a rel="bookmark" href="http://www.blogtalkradio.com/veteransuicide/2015/02/24/058-recovering-from-abuse-feat-robert-consulmagno-marine">
+                Stop Soldier Suicide
+            </a>
+        </h3>
+        <address>
+            <a rel="author" href="http://www.blogtalkradio.com/veteransuicide">
+                Timothy Lawson
+            </a>
+        </address>
+    </header>
+    
+        <time pubdate datetime="2015-02-24 17:00:00Z" data-duration="0" data-time-label="#episode_archived" data-time-tooltip>2/24/2015 5:00 PM</time>
+
+</article>
+<hr/>
+
+        </li>
+        <li class="list-index-2 ">
+<article class="episode-card episode-archived" data-episode-id="59981">
+   
+    <div class="thumbnail">
+        <a href="http://www.blogtalkradio.com/ringrustradio/2015/03/17/ring-rust-radio--mar-17-w-alberto-el-patron-and-wwe-wrestlemania-31-chatter">
+            
+                <img data-src="http://cdn.btrcdn.com/pics/hostpics/49bb1729-b3a7-46c7-af1e-a13437122a67_ringrust2.jpg" src="/img/spacer.gif" class="deferredLoad" alt="RingRustRadio" />
+
+        </a>
+        <a class="play-button" href="http://www.blogtalkradio.com/ringrustradio/2015/03/17/ring-rust-radio--mar-17-w-alberto-el-patron-and-wwe-wrestlemania-31-chatter"></a>
+    </div>
+    <header>
+        <a class="category" rel="tag" href="http://www.blogtalkradio.com/sports">
+            Sports
+        </a>
+        <h3>
+            <a rel="bookmark" href="http://www.blogtalkradio.com/ringrustradio/2015/03/17/ring-rust-radio--mar-17-w-alberto-el-patron-and-wwe-wrestlemania-31-chatter">
+                Alberto El Patron and WWE WrestleMania 
+            </a>
+        </h3>
+        <address>
+            <a rel="author" href="http://www.blogtalkradio.com/ringrustradio">
+                RingRustRadio
+            </a>
+        </address>
+    </header>
+    
+        <time pubdate datetime="2015-03-17 18:00:00Z" data-duration="0" data-time-label="#episode_archived" data-time-tooltip>3/17/2015 6:00 PM</time>
+
+</article>
+<hr/>
+
+        </li>
+        <li class="list-index-3 ">
+<article class="episode-card episode-archived" data-episode-id="60003">
+   
+    <div class="thumbnail">
+        <a href="http://www.blogtalkradio.com/fieldgulls/2015/03/12/3122015-with-guest-will-brinson-of-cbs-sports">
+            
+                <img data-src="http://cdn.btrcdn.com/pics/hostpics/a22d31c0-28d5-49a4-a7ba-a813edb9b622_btr_profile_pic.jpg" src="/img/spacer.gif" class="deferredLoad" alt="Field Gulls Radio" />
+
+        </a>
+        <a class="play-button" href="http://www.blogtalkradio.com/fieldgulls/2015/03/12/3122015-with-guest-will-brinson-of-cbs-sports"></a>
+    </div>
+    <header>
+        <a class="category" rel="tag" href="http://www.blogtalkradio.com/football">
+            Football
+        </a>
+        <h3>
+            <a rel="bookmark" href="http://www.blogtalkradio.com/fieldgulls/2015/03/12/3122015-with-guest-will-brinson-of-cbs-sports">
+                Will Brinson of CBS Sports
+            </a>
+        </h3>
+        <address>
+            <a rel="author" href="http://www.blogtalkradio.com/fieldgulls">
+                Field Gulls Radio
+            </a>
+        </address>
+    </header>
+    
+        <time pubdate datetime="2015-03-12 22:00:00Z" data-duration="0" data-time-label="#episode_archived" data-time-tooltip>3/12/2015 10:00 PM</time>
+
+</article>
+<hr/>
+
+        </li>
+        <li class="list-index-4 ">
+<article class="episode-card episode-archived" data-episode-id="59997">
+   
+    <div class="thumbnail">
+        <a href="http://www.blogtalkradio.com/dougfarrarnfl/2015/03/12/the-2015-nfl-free-agency-podcast-with-greg-cosell">
+            
+                <img data-src="http://cdn.btrcdn.com/pics/hostpics/113b2da8-a9aa-4a99-a073-4bb3bdfbd297_chalktalklarge.jpg" src="/img/spacer.gif" class="deferredLoad" alt="dfarrar777" />
+
+        </a>
+        <a class="play-button" href="http://www.blogtalkradio.com/dougfarrarnfl/2015/03/12/the-2015-nfl-free-agency-podcast-with-greg-cosell"></a>
+    </div>
+    <header>
+        <a class="category" rel="tag" href="http://www.blogtalkradio.com/football">
+            Football
+        </a>
+        <h3>
+            <a rel="bookmark" href="http://www.blogtalkradio.com/dougfarrarnfl/2015/03/12/the-2015-nfl-free-agency-podcast-with-greg-cosell">
+                The Wildest Free-agency Weeks in NFL 
+            </a>
+        </h3>
+        <address>
+            <a rel="author" href="http://www.blogtalkradio.com/dougfarrarnfl">
+                dfarrar777
+            </a>
+        </address>
+    </header>
+    
+        <time pubdate datetime="2015-03-12 18:00:00Z" data-duration="0" data-time-label="#episode_archived" data-time-tooltip>3/12/2015 6:00 PM</time>
+
+</article>
+<hr/>
+
+        </li>
+        <li class="list-index-5 ">
+<article class="episode-card episode-archived" data-episode-id="59983">
+   
+    <div class="thumbnail">
+        <a href="http://www.blogtalkradio.com/manero/2015/03/17/tune-in-kids-episode-2-of-the-manero-pop-podcast">
+            
+                <img data-src="http://cdn.btrcdn.com/pics/hostpics/fabf64fe-a495-45e4-8cce-c801937675b7_manero_logo_blue-black_gray_1400px.jpg" src="/img/spacer.gif" class="deferredLoad" alt="Manero" />
+
+        </a>
+        <a class="play-button" href="http://www.blogtalkradio.com/manero/2015/03/17/tune-in-kids-episode-2-of-the-manero-pop-podcast"></a>
+    </div>
+    <header>
+        <a class="category" rel="tag" href="http://www.blogtalkradio.com/popculture">
+            Pop Culture
+        </a>
+        <h3>
+            <a rel="bookmark" href="http://www.blogtalkradio.com/manero/2015/03/17/tune-in-kids-episode-2-of-the-manero-pop-podcast">
+                70&#39;s &amp; Up Pop Culture of Latin America 
+            </a>
+        </h3>
+        <address>
+            <a rel="author" href="http://www.blogtalkradio.com/manero">
+                Manero
+            </a>
+        </address>
+    </header>
+    
+        <time pubdate datetime="2015-03-17 04:00:00Z" data-duration="0" data-time-label="#episode_archived" data-time-tooltip>3/17/2015 4:00 AM</time>
+
+</article>
+<hr/>
+
+        </li>
+        <li class="list-index-6 ">
+<article class="episode-card episode-archived" data-episode-id="59985">
+   
+    <div class="thumbnail">
+        <a href="http://www.blogtalkradio.com/exitcoachradio/2015/03/19/3192015--the-exit-coach-radio-show">
+            
+                <img data-src="http://cdn.btrcdn.com/pics/hostpics/b190bf14-76af-4969-b529-65bc8f1fa308_bill_black.jpg" src="/img/spacer.gif" class="deferredLoad" alt="Exit Coach Radio" />
+
+        </a>
+        <a class="play-button" href="http://www.blogtalkradio.com/exitcoachradio/2015/03/19/3192015--the-exit-coach-radio-show"></a>
+    </div>
+    <header>
+        <a class="category" rel="tag" href="http://www.blogtalkradio.com/management">
+            Management
+        </a>
+        <h3>
+            <a rel="bookmark" href="http://www.blogtalkradio.com/exitcoachradio/2015/03/19/3192015--the-exit-coach-radio-show">
+                Baby Boomer Business Tips
+            </a>
+        </h3>
+        <address>
+            <a rel="author" href="http://www.blogtalkradio.com/exitcoachradio">
+                Exit Coach Radio
+            </a>
+        </address>
+    </header>
+    
+        <time pubdate datetime="2015-03-19 17:00:00Z" data-duration="0" data-time-label="#episode_archived" data-time-tooltip>3/19/2015 5:00 PM</time>
+
+</article>
+<hr/>
+
+        </li>
+        <li class="list-index-7 ">
+<article class="episode-card episode-archived" data-episode-id="59999">
+   
+    <div class="thumbnail">
+        <a href="http://www.blogtalkradio.com/lawlibcon/2015/03/20/the-future-of-technical-services-in-law-libraries">
+            
+                <img data-src="http://cdn.btrcdn.com/pics/hostpics/8c47caa2-c47e-4751-a332-6c41eeae3562_lawlibcon.jpg" src="/img/spacer.gif" class="deferredLoad" alt="Richard Leiter" />
+
+        </a>
+        <a class="play-button" href="http://www.blogtalkradio.com/lawlibcon/2015/03/20/the-future-of-technical-services-in-law-libraries"></a>
+    </div>
+    <header>
+        <a class="category" rel="tag" href="http://www.blogtalkradio.com/legal">
+            Legal
+        </a>
+        <h3>
+            <a rel="bookmark" href="http://www.blogtalkradio.com/lawlibcon/2015/03/20/the-future-of-technical-services-in-law-libraries">
+                Tech In The Law Libraries
+            </a>
+        </h3>
+        <address>
+            <a rel="author" href="http://www.blogtalkradio.com/lawlibcon">
+                Richard Leiter
+            </a>
+        </address>
+    </header>
+    
+        <time pubdate datetime="2015-03-20 19:00:00Z" data-duration="0" data-time-label="#episode_archived" data-time-tooltip>3/20/2015 7:00 PM</time>
+
+</article>
+<hr/>
+
+        </li>
+        <li class="list-index-8 ">
+<article class="episode-card episode-archived" data-episode-id="59993">
+   
+    <div class="thumbnail">
+        <a href="http://www.blogtalkradio.com/tiamariatorres/2015/03/15/pit-bulls-parolees-the-planet">
+            
+                <img data-src="http://cdn.btrcdn.com/pics/highlights/1382406_552994248088132_1961859967_n.jpg" src="/img/spacer.gif" class="deferredLoad" alt="Tails from the Tahyo" />
+
+        </a>
+        <a class="play-button" href="http://www.blogtalkradio.com/tiamariatorres/2015/03/15/pit-bulls-parolees-the-planet"></a>
+    </div>
+    <header>
+        <a class="category" rel="tag" href="http://www.blogtalkradio.com/pets">
+            Pets
+        </a>
+        <h3>
+            <a rel="bookmark" href="http://www.blogtalkradio.com/tiamariatorres/2015/03/15/pit-bulls-parolees-the-planet">
+                Pit Bulls, Parolees &amp; The Planet
+            </a>
+        </h3>
+        <address>
+            <a rel="author" href="http://www.blogtalkradio.com/tiamariatorres">
+                Tails from the Tahyo
+            </a>
+        </address>
+    </header>
+    
+        <time pubdate datetime="2015-03-15 03:00:00Z" data-duration="0" data-time-label="#episode_archived" data-time-tooltip>3/15/2015 3:00 AM</time>
+
+</article>
+<hr/>
+
+        </li>
+        <li class="list-index-9 list-last ">
+<article class="episode-card episode-archived" data-episode-id="60007">
+   
+    <div class="thumbnail">
+        <a href="http://www.blogtalkradio.com/fromthehelicarrier/2015/03/17/fth-80-filthy-casual-sandbagger-wallet-warrior">
+            
+                <img data-src="http://cdn.btrcdn.com/pics/hostpics/52814faa-37ad-4bf0-a361-e8f2d51512f8_10900175_10203391364158138_3286238076591618056_o.jpg" src="/img/spacer.gif" class="deferredLoad" alt="From The Helicarrier" />
+
+        </a>
+        <a class="play-button" href="http://www.blogtalkradio.com/fromthehelicarrier/2015/03/17/fth-80-filthy-casual-sandbagger-wallet-warrior"></a>
+    </div>
+    <header>
+        <a class="category" rel="tag" href="http://www.blogtalkradio.com/video_games">
+            Video Games
+        </a>
+        <h3>
+            <a rel="bookmark" href="http://www.blogtalkradio.com/fromthehelicarrier/2015/03/17/fth-80-filthy-casual-sandbagger-wallet-warrior">
+                Filthy Casual Sandbagger Wallet Warrior
+            </a>
+        </h3>
+        <address>
+            <a rel="author" href="http://www.blogtalkradio.com/fromthehelicarrier">
+                From The Helicarrier
+            </a>
+        </address>
+    </header>
+    
+        <time pubdate datetime="2015-03-17 20:00:00Z" data-duration="0" data-time-label="#episode_archived" data-time-tooltip>3/17/2015 8:00 PM</time>
+
+</article>
+<hr/>
+
+        </li>
+</ol>
+<footer>
+</footer>
+
+</section>
+
+
+</div>
+<div id="ctl00_ContentRightColumn_RightColumn_Ad2_OpenXAd" class="banmanad" style="min-height:250px;">
+    <div id="ctl00_ContentRightColumn_RightColumn_Ad2_divJsAd">
+        
+    </div>
+    <iframe id="ctl00_ContentRightColumn_RightColumn_Ad2_OpenXIframe" scrolling="No" frameborder="0" vspace="0" hspace="0" marginheight="0" marginwidth="0" width="0" height="0"></iframe>
+</div>
+</div>
+
+
+<script type="text/javascript">
+    var addthis_config = { "data_track_clickback": true, "image_include":"pinterestImage" };
+    var addthis_share = {
+        url: 'http://www.blogtalkradio.com/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013',
+        title: 'Lord ASHTAR SHERAN RADIO SHOW WEEKLY on SATURDAYS! 2013 12/13 by WeAreALLONeMovieXcom | Spirituality Podcasts',
+    	templates: {
+    	    twitter: 'Listening to Lord ASHTAR SHERAN RADIO SHOW WEEKLY on SATURD... by WeAreALLONeMovieXcom {{url}}'
+		}
+    };
+    (function () {
+        var addScriptToHead = function (url, async, onload) {
+            var head = document.getElementsByTagName("head")[0] || document.documentElement;
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            if (async) {
+                s.async = true;
+            }
+            if (typeof onload == 'function') {
+                // most browsers
+                s.onload = onload;
+                // IE 6, 7
+                s.onreadystatechange = function () {
+                    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+                        onload();
+                    }
+                };
+            }
+            s.src = url;
+            head.appendChild(s);
+            return s;
+        };
+
+        var asyncWidgetsLoad = function () {
+            addScriptToHead('http://s7.addthis.com/js/300/addthis_widget.js#pubid=blogtalkradio', true, function () {
+                function addthisReady(evt) {
+                    addthis.addEventListener('addthis.menu.share', MYBTR.UList.shareComplete);
+					addthis.layers({
+						'theme' : 'light',
+						'share' : {
+							'position' : 'left',
+							'offset': {'top':'160px'},
+							'numPreferredServices' : 5
+						}
+					});
+                }
+                addthis.addEventListener('addthis.ready', addthisReady);
+            });
+        };
+
+        if (window.addEventListener) {
+            window.addEventListener('load', asyncWidgetsLoad, false);
+        } else {
+            if (!Browser.ie7)
+                window.attachEvent('onload', asyncWidgetsLoad);
+        }
+    })();
+
+    function isMobile() {
+        return (RegExp("Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini","i").test(navigator.userAgent));
+    }
+    var adElements = [
+        // 'companion1',
+        'ctl00_Div728x90',
+        // 'ContentRightColumn_RightColumn_Ad1_OpenXAd',
+        'ContentRightColumn_RightColumn_Ad2_OpenXAd',
+        'ContentRightColumn_RightColumn_Ad3_OpenXAd',
+        'ctl00_ContentMain_Ad468x60',
+        'mobiletheory_overpass'
+    ]
+    if( isMobile() || window.innerWidth < 768 ) {
+        for(var i=0,m=adElements.length;i<m;i++) {
+            if(element = document.getElementById(adElements[i])) {
+                element.parentNode.removeChild(element);
+            }
+        }
+    }
+
+</script>
+
+  
+
+    
+
+<div id="modal-login" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modal-login-title" aria-hidden="true">
+    <div class="modal-header">
+        <h3 id="modal-login-title">Register or Sign In</h3>
+    </div>
+    <div class="modal-body modal-signup">
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="external-auth-error-message alert alert-error">
+                    <p>
+                        Sorry we couldn&#39;t complete your registration. Please try again.
+                    </p>
+                </div>
+                <div class="external-auth-facebook">
+                    <a class="btn btn-large btn-facebook" data-external-auth-button-parameters="{&quot;networkName&quot;:&quot;facebook&quot;,&quot;redirectTo&quot;:&quot;reload&quot;}" data-widget="external-auth-button" href="javascript:void(0);"><span data-btr-icon="T"></span>&nbsp;Facebook</a>
+                </div>
+                <div class="external-auth-twitter">
+                    <div class="external-auth-info">
+                        <p class="description">
+                            Please enter your email to finish creating your account.
+                        </p>
+                        <div class="control-group">
+                            <div class="control-label">
+                                <label for="input-email">Email</label>
+                            </div>
+                            <div class="controls">
+                                <input class="input-xlarge" name="email" placeholder="Email" type="email" />
+                                <div class="help-inline">
+                                    &nbsp;
+                                </div>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <div class="controls">
+                                <label class="checkbox"><input checked="checked" name="newsletter" type="checkbox" /> Receive a daily list of shows picked for you </label>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="btn btn-large btn-twitter" data-external-auth-button-parameters="{&quot;networkName&quot;:&quot;twitter&quot;,&quot;redirectTo&quot;:&quot;reload&quot;}" data-widget="external-auth-button" href="javascript:void(0);"><span data-btr-icon="U"></span>&nbsp;Twitter</a>
+                </div>
+
+                <hr />
+                <a href="https://secure.blogtalkradio.com/signup">Register</a> for a free BlogTalkRadio account.
+                Already have one? <a href="https://secure.blogtalkradio.com/login.aspx?ReturnUrl=/weareallonemovie/2014/12/14/lord-ashtar-sheran-radio-show-weekly-on-saturdays-2013&f=h">Sign In</a>
+            </div>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-close" data-dismiss="modal" aria-hidden="true">close window</button>
+    </div>
+</div>
+
+    <div class="embedmodal modal hide" id="embedModal">
+    <div class="modal-header">
+        <button type="button" class="close" onclick="$('#embedModal').hide();$('#playerEmbedSample').attr('src','');" aria-hidden="true">&times;</button>
+        <h3>Add This Player To Your Website or Social Network</h3>
+    </div>
+    <div class="modal-body">
+        <div class='row-fluid'>
+            <div class='span4'>
+                <h4>Publish To Social Networks</h4>
+                <div id='addthisToolbox' class='addthis_toolbox addthis_default_style addthis_32x32_style'>
+                    <a class='addthis_button_facebook'></a>
+                    <a class='addthis_button_twitter at300b' title='Tweet' href='#'></a>
+                    <a class='addthis_button_linkedin'></a>
+                    <a class='addthis_button_compact'></a>
+                </div>
+
+                <h4>Embed To Sites &amp; Blogs</h4>
+                <p>
+                    <textarea onclick='this.select();' id="PlayerCodeTextBox" name='PlayerCodeTextBox'></textarea>
+                    <label for="old-embed-toggle"><input type="checkbox" id="old-embed-toggle" name="old-embed-toggle"> old-style code for hosted blogs</label>
+                </p>
+                <p>
+                    <strong>Player Size</strong>
+                    <select name="select-embed-size" id="select-embed-size" class="input-medium">
+                    <option value="300x295">300 x 295</option>
+                    <option value="400x370" selected="selected">400 x 370</option>
+                    <option value="640x550">640 x 550</option>
+                </select></p>
+            </div>
+            <div class='span8'>
+                <h4>Preview</h4>
+                <iframe id="playerEmbedSample" width="400" height="370" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+				</div>
+			</div>
+		</div>
+
+		<div id="dhtmltooltip" onmouseout="MYBTR.TT.rssHide(); "></div>
+		
+
+
+
+
+<div id="footer" class="hideIfIsAid">
+	<div class="container">
+		<div class="row">
+			<div class="span8">
+				<div class="row-fluid">
+					<div class="span3 hideIfIsAid">
+						<h4>Product</h4>
+						<ul class="unstyled">
+							<li><a href="http://www.blogtalkradio.com/whatis" class="hideIfIsAid" title="Features & Tour">Feature Tour</a></li>
+							<li id="footerBecomeHost" class="hideIfIsAid hideIfUserIsAHost"><a href="https://secure.blogtalkradio.com/register.aspx?aid=BEHOF">Pricing</a></li>
+							<li id="footerGoPremium" class="hideIfIsAid hideIfNotAuthenticated hideIfUserIsNotAHost"><a href="http://hosts.blogtalkradio.com/go-premium/?aid=GoPremF" data-tracker-category="GoPremium" data-tracker-action="Link Click" data-tracker-label="Footer Upgrade">Premium Services</a></li>
+							<li><a href="http://www.blogtalkradio.com/page/transcription" >Transcription Services</a></li>
+						</ul>
+					</div>
+					<div class="span3">
+						<h4>Community</h4>
+						<ul class="unstyled">
+							<li><a href="http://blogtalkradio.desk.com">Help &amp; Support</a></li>
+							<li><a class="hideIfIsAid" href="http://www.blogtalkradio.com/page/revshareprogram" title="Internet Radio Sitemap | BlogTalkRadio">Revenue Sharing</a></li>
+							<li><a href="http://www.blogtalkradio.com/page/affiliate" title="Affiliate Program | BlogTalkRadio">Affiliate Program</a></li>
+							<li><a href="http://www.blogtalkradio.com/contactus.aspx">Contact Us</a></li>
+						</ul>
+					</div>
+					<div class="span3">
+						<h4>Company</h4>
+						<ul class="unstyled">
+							<li><a href="http://www.blogtalkradio.com/about.aspx" class="hideIfIsAid" title="Free Internet Radio - Social Broadcasting | BlogTalkRadio">About Us</a></li>
+							<li><a href="http://www.blogtalkradio.com/press.aspx" title="Web Radio and Podcast Press Releases | BlogTalkRadio">Press</a></li>
+							<li><a href="http://www.blogtalkradio.com/page/advertising" >Advertisers</a></li>
+							<li><a href="http://www.blogtalkradio.com/page/careers" class="hideIfIsAid" title="Careers and jobs"><strong>Careers: We're Hiring!</strong></a></li>
+							<li class="hideIfIsAid"><a href="http://blog.blogtalkradio.com" target="_blank">Our Blog</a></li>
+						</ul>
+					</div>
+					<div class="span3">
+						<h4>Terms &amp; Policy</h4>
+						<ul class="unstyled">
+							<li><a href="http://www.blogtalkradio.com/termsofuse.aspx" class="hideIfIsAid">Terms of Use</a></li>
+							<li><a href="http://www.blogtalkradio.com/termsofuse.aspx">Privacy Policy</a></li>
+							<li><a href="http://www.blogtalkradio.com/sitemap.aspx" class="hideIfIsAid" title="Internet Radio Sitemap | BlogTalkRadio">Sitemap</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="span4">
+                <h4>Radio Picked Just For You</h4>
+                <p>Receive a personalized list of podcasts based on your preferences.</p>
+                <div class="form-inline">
+				    <input type="text" name="email" placeholder="Enter Your Email" class="input-medium" id="email-subscribe-input" onchange="$('#email-subscribe-btn').attr('href',$('#email-subscribe-btn').data('href')+$('#email-subscribe-input').val())" />
+				    <a href="#" data-href="http://link.blogtalkradio.com/join/3a9/newsletter-subscribe?#email=" id="email-subscribe-btn" class="btn btn-danger">Subscribe</a>
+                </div>
+				<ul class="social-list">
+					<li><a href="http://www.facebook.com/blogtalkradio.official?ref=ts" target="_blank"><span data-btr-icon="T">Facebook</span></a></li>
+					<li><a href="http://twitter.com/blogtalkradio" target="_blank"><span data-btr-icon="U">Twitter</span></a></li>
+					<li><a href="https://plus.google.com/u/0/117841845288490541498" target="_blank"><span data-btr-icon="R">Google+</span></a></li>
+					<li><a href="itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=258377512" target="_blank"><span data-btr-icon=",">iTunes</span></a></li>
+				</ul>
+			</div>
+
+		</div>
+		<div class="bottom-content row">
+			<div class="span8">
+				&copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> BlogTalkRadio, Inc. All Rights Reserved.
+			</div>
+		</div>
+	</div>
+</div>
+
+
+		<div id="dhtmlRss" > </div>
+		
+	
+
+<script type="text/javascript">
+//<![CDATA[
+$(function () { if (window.UserAccount.isAid) { $('.aidSensitive').remove(); } });$(function () { if (!window.UserAccount.isAid) { $('.aidOnlySensitive').remove(); } });if (window.UserAccount.isAid) { $("#ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframe").remove(); $("#ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManAd").remove(); }window.premiumAdConfig = { hostPremium: '748764', hostNoPremium: '741214', listnerNoHost: '732069', listnerNoRegister: '732051'};
+                    window.ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframezoneID;
+                    if (User && User.isAuthenticated && (User.hostID > 0 || window.location.href.toLowerCase().indexOf('register.aspx') > -1))
+                        window.ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframezoneID = User.hasPremiumPackage ? window.premiumAdConfig.hostPremium : window.premiumAdConfig.hostNoPremium;
+                    else if (User && User.isAuthenticated)
+                        window.ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframezoneID = window.premiumAdConfig.listnerNoHost;
+                    else
+                        window.ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframezoneID = window.premiumAdConfig.LISTNER_NO_REGISTER;function OpenXAdctl00_Ad6_OpenXIframe(){
+var auid_298808 = (UserAccount.isAid ? '' : UserAccount.isMobile ? '544540' : '298808');auid_298808 = (auid_298808 == '' ? '298808' : auid_298808);var browDateTime = (new Date()).getTime();  var adiFrame = document.getElementById('ctl00_Ad6_OpenXIframe');  if (adiFrame) {  adiFrame.src='http://ox-d.blogtalkradio.com/w/1.0/afr?auid=' + auid_298808 + '&c.hostid=422937&c.stationid=113&c.category=Spirituality&c.aid='+ escape(window.UserAccount.aidContent)+'&c.qdsd='+escape(MYBTR.COOKIE.read('DG3'))+'&c.tpt=BZ'+escape(MYBTR.COOKIE.read('BZ'))+'|'+ escape(MYBTR.COOKIE.read('cto_btr'))+'&c.adm='+ escape(MYBTR.COOKIE.read('adm'))+'&cb='+browDateTime; adiFrame.height= UserAccount.isMobile ? 50:90;
+ adiFrame.width= UserAccount.isMobile ? 320:728;
+   }}
+if(typeof(window.require) === 'undefined') { $(window).load(OpenXAdctl00_Ad6_OpenXIframe) } else { var OpenXAdctl00_Ad6_OpenXIframeLoader = function(){
+                                if(window.__requireReady){
+                                    require(['jquery'], function($){
+                                        var loaderDelayed = function(){
+                                            $(document).off('modulesReady', loaderDelayed);
+                                            setTimeout(OpenXAdctl00_Ad6_OpenXIframe, 10);
+                                        }
+                                        if(window.__showElementsIfCompleted){
+                                            loaderDelayed();
+                                        }
+                                        else{
+                                            $(document).on('modulesReady', loaderDelayed);
+                                        }
+                                    });
+                                } else{
+                                    setTimeout(OpenXAdctl00_Ad6_OpenXIframeLoader, 100);
+                                }
+                            };
+                            OpenXAdctl00_Ad6_OpenXIframeLoader(); }
+//]]>
+</script>
+<script language="javascript" type="text/javascript">
+if (typeof window.ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframezoneID == 'undefined') { window.ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframezoneID = '732051'; }
+(function () {
+if (typeof window.ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframezoneID != 'undefined') {
+function async_loadctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframe() {
+addBanManZone ('http://ads.blogtalkradio.com/', window.ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframezoneID,'ctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframe','300','60','','1','','','','','%2fweareallonemovie%2f2014%2f12%2f14%2flord-ashtar-sheran-radio-show-weekly-on-saturdays-2013%7c');}
+
+                        }
+                        
+                        if(typeof(window.require) === 'undefined'){
+                            if (window.attachEvent)
+                                window.attachEvent('onload', async_loadctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframe);
+                            else
+                                window.addEventListener('load', async_loadctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframe, false);
+                        }
+                        else{
+                            var async_loadctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframeLoader = function(){
+                                if(window.__requireReady){
+                                    require(['jquery'], function($){
+                                        var loaderDelayed = function(){
+                                            $(document).off('modulesReady', loaderDelayed);
+                                            setTimeout(async_loadctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframe, 10);
+                                        }
+                                        if(window.__showElementsIfCompleted){
+                                            loaderDelayed();
+                                        }
+                                        else{
+                                            $(document).on('modulesReady', loaderDelayed);
+                                        }
+                                    });
+                                } else{
+                                    setTimeout(async_loadctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframeLoader, 100);
+                                }
+                            };
+                            async_loadctl00_ContentRightColumn_RightColumn_PremiumAd1_ucBanMan_BanManIframeLoader();
+                        }
+                })();
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+function ctl00_ContentRightColumn_RightColumn_Ad1_OpenXIframeLoader(){
+$.getScript('http://ox-d.blogtalkradio.com/w/1.0/jstag', function() {
+var OX_298809 = OX();
+var auid_298809 = (UserAccount.isAid ? '' : UserAccount.isMobile ? '' : '298809');auid_298809 = (auid_298809 == '' ? '298809' : auid_298809);
+OX_298809.addVariable('hostid', '422937');
+OX_298809.addVariable('stationid', '113');
+OX_298809.addVariable('category', 'Spirituality');
+OX_298809.addVariable('aid', escape(MYBTR.COOKIE.read('_aid')));
+OX_298809.addVariable('qdsd', escape(MYBTR.COOKIE.read('DG3')));
+OX_298809.addVariable('tpt', 'BZ'+escape(MYBTR.COOKIE.read('BZ'))+'|'+ escape(MYBTR.COOKIE.read('cto_btr')));
+OX_298809.addVariable('adm', escape(MYBTR.COOKIE.read('adm')));
+
+OX_298809.addAdUnit(auid_298809);
+OX_298809.setAdUnitSlotId(auid_298809, 'ctl00_ContentRightColumn_RightColumn_Ad1_divJsAd');
+OX_298809.load();
+	});
+}
+if(typeof(window.require) === 'undefined') { $(window).load(ctl00_ContentRightColumn_RightColumn_Ad1_OpenXIframeLoader) } else { var ctl00_ContentRightColumn_RightColumn_Ad1_OpenXIframeLoaderLoader = function(){
+                                if(window.__requireReady){
+                                    require(['jquery'], function($){
+                                        var loaderDelayed = function(){
+                                            $(document).off('modulesReady', loaderDelayed);
+                                            setTimeout(ctl00_ContentRightColumn_RightColumn_Ad1_OpenXIframeLoader, 10);
+                                        }
+                                        if(window.__showElementsIfCompleted){
+                                            loaderDelayed();
+                                        }
+                                        else{
+                                            $(document).on('modulesReady', loaderDelayed);
+                                        }
+                                    });
+                                } else{
+                                    setTimeout(ctl00_ContentRightColumn_RightColumn_Ad1_OpenXIframeLoaderLoader, 100);
+                                }
+                            };
+                            ctl00_ContentRightColumn_RightColumn_Ad1_OpenXIframeLoaderLoader(); }
+function OpenXAdctl00_ContentRightColumn_RightColumn_Ad3_OpenXIframe(){
+var auid_469073 = (UserAccount.isAid ? '' : UserAccount.isMobile ? '' : '469073');auid_469073 = (auid_469073 == '' ? '469073' : auid_469073);var browDateTime = (new Date()).getTime();  var adiFrame = document.getElementById('ctl00_ContentRightColumn_RightColumn_Ad3_OpenXIframe');  if (adiFrame) {  adiFrame.src='http://ox-d.blogtalkradio.com/w/1.0/afr?auid=' + auid_469073 + '&c.hostid=422937&c.stationid=113&c.category=Spirituality&c.aid='+ escape(window.UserAccount.aidContent)+'&c.qdsd='+escape(MYBTR.COOKIE.read('DG3'))+'&c.tpt=BZ'+escape(MYBTR.COOKIE.read('BZ'))+'|'+ escape(MYBTR.COOKIE.read('cto_btr'))+'&c.adm='+ escape(MYBTR.COOKIE.read('adm'))+'&cb='+browDateTime; adiFrame.height= UserAccount.isMobile ? 500:500;
+ adiFrame.width= UserAccount.isMobile ? 300:300;
+   }}
+if(typeof(window.require) === 'undefined') { $(window).load(OpenXAdctl00_ContentRightColumn_RightColumn_Ad3_OpenXIframe) } else { var OpenXAdctl00_ContentRightColumn_RightColumn_Ad3_OpenXIframeLoader = function(){
+                                if(window.__requireReady){
+                                    require(['jquery'], function($){
+                                        var loaderDelayed = function(){
+                                            $(document).off('modulesReady', loaderDelayed);
+                                            setTimeout(OpenXAdctl00_ContentRightColumn_RightColumn_Ad3_OpenXIframe, 10);
+                                        }
+                                        if(window.__showElementsIfCompleted){
+                                            loaderDelayed();
+                                        }
+                                        else{
+                                            $(document).on('modulesReady', loaderDelayed);
+                                        }
+                                    });
+                                } else{
+                                    setTimeout(OpenXAdctl00_ContentRightColumn_RightColumn_Ad3_OpenXIframeLoader, 100);
+                                }
+                            };
+                            OpenXAdctl00_ContentRightColumn_RightColumn_Ad3_OpenXIframeLoader(); }
+function OpenXAdctl00_ContentRightColumn_RightColumn_Ad2_OpenXIframe(){
+var auid_298810 = (UserAccount.isAid ? '' : UserAccount.isMobile ? '' : '298810');auid_298810 = (auid_298810 == '' ? '298810' : auid_298810);var browDateTime = (new Date()).getTime();  var adiFrame = document.getElementById('ctl00_ContentRightColumn_RightColumn_Ad2_OpenXIframe');  if (adiFrame) {  adiFrame.src='http://ox-d.blogtalkradio.com/w/1.0/afr?auid=' + auid_298810 + '&c.hostid=422937&c.stationid=113&c.category=Spirituality&c.aid='+ escape(window.UserAccount.aidContent)+'&c.qdsd='+escape(MYBTR.COOKIE.read('DG3'))+'&c.tpt=BZ'+escape(MYBTR.COOKIE.read('BZ'))+'|'+ escape(MYBTR.COOKIE.read('cto_btr'))+'&c.adm='+ escape(MYBTR.COOKIE.read('adm'))+'&cb='+browDateTime; adiFrame.height= UserAccount.isMobile ? 250:250;
+ adiFrame.width= UserAccount.isMobile ? 300:300;
+   }}
+if(typeof(window.require) === 'undefined') { $(window).load(OpenXAdctl00_ContentRightColumn_RightColumn_Ad2_OpenXIframe) } else { var OpenXAdctl00_ContentRightColumn_RightColumn_Ad2_OpenXIframeLoader = function(){
+                                if(window.__requireReady){
+                                    require(['jquery'], function($){
+                                        var loaderDelayed = function(){
+                                            $(document).off('modulesReady', loaderDelayed);
+                                            setTimeout(OpenXAdctl00_ContentRightColumn_RightColumn_Ad2_OpenXIframe, 10);
+                                        }
+                                        if(window.__showElementsIfCompleted){
+                                            loaderDelayed();
+                                        }
+                                        else{
+                                            $(document).on('modulesReady', loaderDelayed);
+                                        }
+                                    });
+                                } else{
+                                    setTimeout(OpenXAdctl00_ContentRightColumn_RightColumn_Ad2_OpenXIframeLoader, 100);
+                                }
+                            };
+                            OpenXAdctl00_ContentRightColumn_RightColumn_Ad2_OpenXIframeLoader(); }
+//]]>
+</script>
+</form>
+
+	<script type="text/javascript">window.__asyncTrackingFunctions = [];</script>
+<script type="text/javascript" language="javascript">
+var utag_data = {
+	load_ga:"0"
+}
+</script>
+<script type="text/javascript">
+
+   var gaCode = 'UA-1303968-1';
+   if (window.UserAccount.isAid) {
+      gaCode = 'UA-1303968-2';
+   }
+
+   var _gaq = _gaq || [];
+   _gaq.push(['_setAccount', gaCode]);
+   _gaq.push(['_setDomainName', 'blogtalkradio.com']);
+   _gaq.push(['_setCustomVar', 4, 'network', 'En Español', 3]);
+   _gaq.push(['_setCustomVar', 5, 'category', 'Spirituality', 3]);
+   _gaq.push(['_setCustomVar', 3, 'Episode-Time', 'archived', 3]);
+   if (document.cookie.indexOf('_aid=') > 1) {
+      _gaq.push(['_setCustomVar', 2, '_aid', window.UserAccount.readCookie('_aid'), 1]);
+   }
+   _gaq.push(['_trackPageview', '/UserUrl/weareallonemovie']);
+   _gaq.push(['_set', 'page', '/UserUrl/weareallonemovie']);
+   (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+   })();
+</script>
+<script type="text/javascript" language="javascript">
+(function() {
+    if(window.apeend_to_utag_data !== undefined) for (var prop in apeend_to_utag_data) utag_data[prop] = apeend_to_utag_data[prop];
+    function async_utagload(){
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://www.blogtalkradio.com/includefilesource/utag.loader-bBLatH7NQHzfNyuFXovDFg.js';
+        var x = document.getElementsByTagName('head')[0];
+        x.appendChild(s);
+    }
+    window.__asyncTrackingFunctions.push(async_utagload);
+    if (window.attachEvent)
+        window.attachEvent('onload', async_utagload);
+    else
+        window.addEventListener('load', async_utagload, false);
+})();
+</script>
+
+	
+	
+<script type="text/javascript">
+    (function ($, undefined) {
+        function doJail(selector) {
+            if (!$.fn.jail)
+                return;
+
+            var validImages = [];
+
+            $(selector).each(function () {
+                var img = $(this);
+                var dataHref = img.data("href");
+                if (typeof (dataHref) !== "undefined") {
+                    img.attr("data-src", dataHref).removeAttr("data-href");
+                }
+                
+                if (typeof(img.data("src")) !== "undefined") {
+                    validImages.push(img);
+                }
+
+            }).removeClass("lazyDocumentReady lazyWindowLoad deferredLoad");
+
+            $(validImages).jail();
+        }
+
+        $(document).ready(function () {
+            doJail("img.lazyDocumentReady, img.deferredLoad");
+        });
+
+        $(document).on("domUpdated", function() {
+            doJail("img.deferredLoad, img.lazyDocumentReady, img.lazyWindowLoad");
+        });
+
+        $(window).load(function () {
+            doJail("img.lazyWindowLoad, img.deferredLoad");
+        });
+    })(jQuery);
+</script>
+	
+
+<div id="messageBox" class="modal hide fade">
+    <div class="alert alert-block" style="margin-bottom: 0px">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <span class="label"></span> <span class="message"></span>
+    </div>
+</div>
+<div data-widget='payment-process-notification'></div>
+<div data-widget='new-host-call-to-action-bar'></div>
+
+<script type="text/javascript">
+    window.dontLoadNewJQuery = true;
+    
+    // This will fix the Rad controls Ajax Upload bar not dissapearing because
+    // it is specifying the content-length for the request on browsers that are
+    // not nescape. That request header should never be set according to standards 
+    // http://www.w3.org/TR/XMLHttpRequest/#the-setrequestheader()-method
+    if (typeof(window["AjaxNS"]) !== 'undefined') {
+        window["AjaxNS"].IsNetscape = function() {
+            return true;
+        };
+    }
+</script>
+<script type="text/javascript">(function(){window['globalConstants']={"appRootUrl":"http://www.blogtalkradio.com","userAdminRootUrl":"http://my.blogtalkradio.com","registrationUrl":"https://secure.blogtalkradio.com/register.aspx","signupUrlForListeners":"https://secure.blogtalkradio.com/signup","studioUrl":"http://sb.blogtalkradio.com/","gigyaApiKey":"2_Rjx2fUtr3F4O28iJQEddgBuGHz26TPRZt5YUQu1Q8xSq_dfQ3tQuJqnwDpj__99w","toolsRootUrl":"http://my.blogtalkradio.com/tools","secureUrl":"https://secure.blogtalkradio.com","enableBundling":true,"playerHost":"http://player.cinchcast.com","securePlayerHost":"https://player.cinchcast.com","playerPlatformId":"1","profilePlayerItemCount":"6","sailthruDomain":"horizon.blogtalkradio.com","defaultCookieDomain":".blogtalkradio.com","fbApplicationID":"72364733256","useCaptcha":true,"newHostCallToActionBarDismissalExpirationDays":30,"audioUploadMaxSize":188743680,"loggingApiKey":"","loggingEndpoint":"log/{severity}/BlogTalkRadio","episodeShortLinkRoot":"http://tobtr.com/","hasBtrAccountCookieName":"HasBTRAcct","sailthruCookieName":"sailthru_hid","loginUrl":"https://secure.blogtalkradio.com/login.aspx","apiRootUrl":"http://www.blogtalkradio.com/api","apiFullUrl":"http://www.blogtalkradio.com/api","createEpisodeUrl":"http://my.blogtalkradio.com/tools/#/new-episode","editEpisodeUrl":"http://my.blogtalkradio.com/tools/#/my-episodes/edit?episode={0}","editAudioEpisodeUrl":"http://my.blogtalkradio.com/tools/#/my-episodes/edit-audio?episode={0}","editEpisodeRecurrenceUrl":"http://my.blogtalkradio.com/tools/#/my-episodes/edit?recurrence={0}"};})();</script>
+<script type="text/javascript">
+    (function () {
+        var mainBundle = document.createElement('script');
+        // automatically hashed url
+        mainBundle.src = 'http://cdn1.btrstatic.com/scripts/dist/main.cache.9aee0656.js';
+        mainBundle.setAttribute('async', 'true');
+        var head = document.getElementsByTagName("head")[0] || document.documentElement;
+        head.appendChild(mainBundle);
+    })();
+</script>
+<script type="text/javascript">(function(){var loadPageScripts=function(){
+
+
+
+if (typeof window.console !='undefined') { console.log('page scripts loaded'); }
+};
+if (window.__requireReady) { loadPageScripts(); } else { window.__loadPageScripts = loadPageScripts; } })();</script>
+<script data-modules type="application/json">{"view":{"views/shared/header":"","views/login/popup":"","views/shared/footer":"","views/shared/webformsinclude":""},"behavior":{"reminder":"","follow":"","datetime":""}}</script>
+
+
+
+
+</body>
+</html>

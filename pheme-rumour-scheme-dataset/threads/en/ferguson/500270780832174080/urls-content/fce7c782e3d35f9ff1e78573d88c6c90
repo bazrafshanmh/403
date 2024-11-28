@@ -1,0 +1,263 @@
+HTTP/1.1 200 OK
+Date: Tue, 24 Mar 2015 03:07:04 GMT
+Server: Server
+x-amz-id-1: 0YH44G0JW3QD8QSXXJXW
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+cache-control: no-transform
+x-frame-options: SAMEORIGIN
+x-amz-id-2: B5qeWIH+5ck1wgjiqyfn2Q/5CZXpUVGvFmr8vOXjv7kTkcJiyq0Xr/oe3D6xFAbU
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Type: text/html; charset=ISO-8859-1
+Set-cookie: x-wl-uid=1+GeR380UmBUBVh56oJg/lvd3owSECLvKsenW4H1egwEkHpvfp6iMO1hT6Z4BwyvCZtuL++tFnzw=; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: session-id=181-9299527-6093135; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Transfer-Encoding: chunked
+
+
+
+
+  
+  
+
+
+  
+  
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript">var ue_t0=ue_t0||+new Date();</script>
+<script type="text/javascript">
+var ue_hob=+new Date();
+
+var ue_id='0YH44G0JW3QD8QSXXJXW',
+ue_csm = window,
+ue_err_chan = 'jserr-rw',
+ue = {};
+(function(a){var c=a.ue=a.ue||{},f=Date.now||function(){return+new Date};c.d=function(b){return f()-(b?0:a.ue_t0)};c.stub=function(b,d){var e=[];b[d]=function(){e.push([e.slice.call(arguments),c.d(),a.ue_id])};b[d].replay=function(b){for(var a;a=e.shift();)b(a[0],a[1],a[2])};b[d].isStub=1}})(ue_csm);
+
+ue.stub(ue,"log");
+
+(function(c,d){function f(e,b){if(!(a.ec>a.mxe)&&e){a.ec++;a.ter.push(e);b=b||{};var c=e.logLevel||b.logLevel;c&&c!=h||a.ecf++;b.pageURL=""+(d.location?d.location.href:"");b.logLevel=c;b.attribution=e.attribution||b.attribution;a.erl.push({ex:e,info:b})}}function g(a,b,d,f,g){c.ueLogError({m:a,f:b,l:d,c:""+f,err:g,fromOnError:1,args:arguments});return!1}var h="FATAL",a={ec:0,ecf:0,pec:0,ts:0,erl:[],ter:[],mxe:50,startTimer:function(){a.ts++;setInterval(function(){c.ue&&a.pec<a.ec&&c.uex("at");a.pec=
+a.ec},1E4)}};g.skipTrace=1;f.skipTrace=1;c.ueLogError=f;c.ue_err=a;d.onerror=g})(ue_csm,window);
+
+
+
+var ue_url='/gp/aw/d/B00MC41QGY/uedata/nvp/unsticky/181-9299527-6093135/DetailAW/ntpoffrw',
+ue_sid='181-9299527-6093135',
+ue_mid='ATVPDKIKX0DER',
+ue_sn='www.amazon.com',
+ue_furl='fls-na.amazon.com',
+ue_navtiming=1,
+ue_log_idx=0,
+ue_fcsn=1,
+ue_isrw=true,
+ue_fpf='//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:181-9299527-6093135:0YH44G0JW3QD8QSXXJXW$uedata=s:',
+ue_lnb=0,
+ue_lwl=0,
+ue_ran=0,
+ue_osfp=0,
+ue_novizfix=1,
+ue_qsl=0,
+ue_bli=0,
+ue_mce='click';
+if (!window.ue_csm) {var ue_csm = window;}
+function ue_viz(){(function(c,e,p){function k(a){if(c.ue.viz.length<q&&!l){var b=a.type;a=a.originalEvent;/^focus./.test(b)&&a&&(a.toElement||a.fromElement||a.relatedTarget)||(b=e[m]||("blur"==b||"focusout"==b?"hidden":"visible"),c.ue.viz.push(b+":"+(+new Date-c.ue.t0)),"visible"==b&&(ue.isl&&uex("at"),l=1))}}for(var l=0,a,f,g,m,n=["webkit","o","ms","moz",""],d=0,q=20,h=0;h<n.length&&!d;h++)if(a=n[h],f=(a?a+"H":"h")+"idden",d="boolean"==typeof e[f])g=a+"visibilitychange",m=1!=p.ue_novizfix?(a?a+"V":
+"v")+"isibilityState":a+"VisibilityState";k({});d&&e.addEventListener(g,k,0);c.ue&&d&&(c.ue.pageViz={event:g,propHid:f})})(ue_csm,document,window)};
+
+(function(a,f){function v(a){return a&&a.replace&&a.replace(/^\s+|\s+$/g,"")}function p(a){return"undefined"===typeof a}function t(d,c,b,k){k=k||+new Date;var f,m;if(c||p(b)){if(d)for(m in f=c?g("t",c)||g("t",c,{}):a.ue.t,f[d]=k,b)b.hasOwnProperty(m)&&g(m,c,b[m]);return k}}function g(d,c,b){var f=a.ue,g=c&&c!=f.id?f.sc[c]:f;g||(g=f.sc[c]={});"id"==d&&b&&(f.cfa2=1,a.ue_ran&&a.ue_cel&&a.ue_cel.reset(b));return g[d]=b||g[d]}function z(d,c,b,f,g){b="on"+b;var m=c[b];"function"===typeof m?d&&(a.ue.h[d]=
+m):m=function(){};c[b]=g?function(a){f(a);m(a)}:function(a){m(a);f(a)};c[b].isUeh=1}function A(d,c,b){function k(c,b){var e=[c],D=0,f={},m,k;b?(e.push("m=1"),f[b]=1):f=a.ue.sc;for(k in f)if(f.hasOwnProperty(k)){var h=g("wb",k),l=g("t",k)||{},q=g("t0",k)||a.ue.t0,n;if(b||2==h){h=h?D++:"";e.push("sc"+h+"="+k);for(n in l)3>=n.length&&!p(l[n])&&null!==l[n]&&e.push(n+h+"="+(l[n]-q));e.push("t"+h+"="+l[d]);if(g("ctb",k)||g("wb",k))m=1}}!w&&m&&e.push("ctb=1");return e.join("&")}function y(c,b,e,d){if(c){var g=
+new Image,k=!d||!a.ue.log||!(f.amznJQ||f.P)||f.amznJQ&&f.amznJQ.Ok,h=a.ue_err;1!=a.ue_osfp&&k&&(a.ue.iel.push(g),g.src=c);3!=a.ue_osfp&&(E?a.ue_fpf&&f.encodeURIComponent&&c&&(d=new Image,c=""+a.ue_fpf+f.encodeURIComponent(c)+":"+(+new Date-a.ue_t0),a.ue.iel.push(d),d.src=c):a.ue.log&&(g=f.chrome&&"ul"==b,a.ue.log(c,"uedata",a.ue_svi?{n:1,img:!d&&g?1:0}:{n:1}),a.ue.ielf.push(c)));h&&!h.ts&&h.startTimer();a.ue.b&&(h=a.ue.b,a.ue.b="",y(h,b,e,1))}}function m(c){if(!ue.collected){var b=c.timing,e=c.navigation,
+d=ue.t;b&&(d.na_=b.navigationStart,d.ul_=b.unloadEventStart,d._ul=b.unloadEventEnd,d.rd_=b.redirectStart,d._rd=b.redirectEnd,d.fe_=b.fetchStart,d.lk_=b.domainLookupStart,d._lk=b.domainLookupEnd,d.co_=b.connectStart,d._co=b.connectEnd,d.sc_=b.secureConnectionStart,d.rq_=b.requestStart,d.rs_=b.responseStart,d._rs=b.responseEnd,d.dl_=b.domLoading,d.di_=b.domInteractive,d.de_=b.domContentLoadedEventStart,d._de=b.domContentLoadedEventEnd,d._dc=b.domComplete,d.ld_=b.loadEventStart,d._ld=b.loadEventEnd,
+b=d.na_,c="function"!==typeof c.now||p(b)?0:new Date(b+c.now())-new Date,d.ntd=c+a.ue.t0);e&&(d.ty=e.type+a.ue.t0,d.rc=e.redirectCount+a.ue.t0);ue.collected=1}}function s(b){var c=n&&n.navigation?n.navigation.type:x,d=c&&2!=c,e=a.ue.bfini;a.ue.cfa2||(e&&1<e&&(b+="&bfform=1",d||(a.ue.isBFT=e-1)),2==c&&(b+="&bfnt=1",a.ue.isBFT=a.ue.isBFT||1),a.ue.ssw&&a.ue.isBFT&&(p(a.ue.isNRBF)&&(c=a.ue.ssw(a.ue.oid),c.e||p(c.val)||(a.ue.isNRBF=1<c.val?0:1)),p(a.ue.isNRBF)||(b+="&nrbf="+a.ue.isNRBF)),a.ue.isBFT&&!a.ue.isNRBF&&
+(b+="&bft="+a.ue.isBFT));return b}if(c||p(b)){for(var q in b)b.hasOwnProperty(q)&&g(q,c,b[q]);t("pc",c,b);q=g("id",c)||a.ue.id;var e=a.ue.url+"?"+d+"&v="+a.ue.v+"&id="+q,w=g("ctb",c)||g("wb",c),n=f.performance||f.webkitPerformance,h,l;w&&(e+="&ctb="+w);1<a.ueinit&&(e+="&ic="+a.ueinit);!a.ue._fi||"at"!=d||c&&c!=q||(e+=a.ue._fi());if(!("ld"!=d&&"ul"!=d||c&&c!=q)){if("ld"==d){f.onbeforeunload&&f.onbeforeunload.isUeh&&(f.onbeforeunload=null);if(f.chrome)for(l=0;l<ue.ulh.length;l++)B("beforeunload",ue.ulh[l]);
+(l=document.ue_backdetect)&&l.ue_back&&l.ue_back.value++;a._uess&&(h=a._uess());a.ue.isl=1}a.ue_navtiming&&n&&n.timing&&(g("ctb",q,"1"),1==a.ue_navtiming&&t("tc",x,x,n.timing.navigationStart));n&&m(n);a.ue.t.hob=a.ue_hob;a.ue.t.hoe=a.ue_hoe;a.ue.ifr&&(e+="&ifr=1")}t(d,c,b);b="ld"==d&&c&&g("wb",c);var u;b?g("wb",c,2):"ld"==d&&(r.lid=v(q));for(u in a.ue.sc)if(1==g("wb",u))break;if(b){if(a.ue.s)return;e=k(e,null)}else l=k(e,null),l!=e&&(l=s(l),a.ue.b=l),h&&(e+=h),e=k(e,c||a.ue.id);e=s(e);if(a.ue.b||
+b)for(u in a.ue.sc)2==g("wb",u)&&delete a.ue.sc[u];h=0;ue._rt&&(e+="&rt="+ue._rt());b||(a.ue.s=0,(h=a.ue_err)&&0<h.ec&&h.pec<h.ec&&(h.pec=h.ec,e+="&ec="+h.ec+"&ecf="+h.ecf),h=g("ctb",c),g("t",c,{}));e&&a.ue.tag&&0<a.ue.tag().length&&(e+="&csmtags="+a.ue.tag().join("|"),a.ue.tag=a.ue.tagC());e&&a.ue.viz&&0<a.ue.viz.length&&(e+="&viz="+a.ue.viz.join("|"),a.ue.viz=[]);e&&!p(a.ue_pty)&&(e+="&pty="+a.ue_pty+"&spty="+a.ue_spty+"&pti="+a.ue_pti);e&&a.ue.tabid&&(e+="&tid="+a.ue.tabid);e&&a.ue.aftb&&(e+="&aftb=1");
+!a.ue._ui||c&&c!=q||(e+=a.ue._ui());a.ue.a=e;y(e,d,h,b)}}function s(a,c,b){b=b||f;b.addEventListener?b.addEventListener(a,c,!1):b.attachEvent&&b.attachEvent("on"+a,c)}function B(a,c,b){b=b||f;b.removeEventListener?b.removeEventListener(a,c,!1):b.detachEvent&&b.detachEvent("on"+a,c)}function C(){function d(){a.onUl()}function c(a){return function(){b[a]||(b[a]=1,A(a))}}var b=a.ue.r,g,p;a.onLd=c("ld");a.onLdEnd=c("ld");a.onUl=c("ul");g={stop:c("os")};f.chrome?(s("beforeunload",d),ue.ulh.push(d)):g[F]=
+a.onUl;for(p in g)g.hasOwnProperty(p)&&z(0,f,p,g[p]);a.ue_viz&&ue_viz();s("load",a.onLd);t("ue")}a.ueinit=(a.ueinit||0)+1;var r={t0:f.aPageStart||a.ue_t0,id:a.ue_id,url:a.ue_url,rid:a.ue_id,a:"",b:"",h:{},r:{ld:0,oe:0,ul:0},s:1,t:{},sc:{},iel:[],ielf:[],fc_idx:{},viz:[],v:"0.311.0",d:a.ue&&a.ue.d,log:a.ue&&a.ue.log,stub:a.ue&&a.ue.stub,lr:a.ue&&a.ue.lr,ulh:[],cfa2:0},E=a.ue_fpf?1:0,F="beforeunload",x;r.oid=v(r.id);r.lid=v(r.id);a.ue=r;a.ue._t0=a.ue.t0;a.ue.tagC=function(){var a={};return function(c){c&&
+(a[c]=1);c=[];for(var b in a)a.hasOwnProperty(b)&&c.push(b);return c}};a.ue.tag=a.ue.tagC();a.ue.ifr=f.top!==f.self||f.frameElement?1:0;ue.attach=s;ue.detach=B;ue.reset=function(d,c){d&&(a.ue_cel&&a.ue_cel.reset(),a.ue.t0=+new Date,a.ue.rid=d,a.ue.id=d,a.ue.fc_idx={},a.ue.viz=[])};a.uei=C;a.ueh=z;a.ues=g;a.uet=t;a.uex=A;C()})(ue_csm,window);
+
+
+
+(function(a){a.ue.cv={};a.ue.cv.scopes={};a.ue.count=function(d,e,b){var c={},f=a.ue.cv;c.counter=d;c.value=e;c.t=a.ue.d();b&&b.scope&&(f=a.ue.cv.scopes[b.scope]=a.ue.cv.scopes[b.scope]||{},c.scope=b.scope);if(void 0===e)return f[d];f[d]=e;a.ue.log&&a.ue.log(c,"csmcount",{c:1})}})(ue_csm);
+
+var ue_hoe=+new Date();
+</script>
+
+<title>Level 5 Beverage Company Vitaminfizz Sparkling Water, Mango Orange, 15 Pound (Pack of 12):Amazon:Grocery & Gourmet Food</title>
+<link rel="canonical" href="http://www.amazon.com/Level-Beverage-Company-Vitaminfizz-Sparkling/dp/B00MC41QGY" />
+<meta content="Level 5 Beverage Company Vitaminfizz Sparkling Water, Mango Orange, 15 Pound (Pack of 12),Level 5 Beverage Company" name="keywords" /><meta content="Amazon Level 5 Beverage Company Vitaminfizz Sparkling Water, Mango Orange, 15 Pound (Pack of 12)" name="description" />
+<script type="text/javascript">
+(function(d,c){function f(a){b.push(a)}function e(a){if(a){var c=d.head||d.getElementsByTagName("head")[0]||d.documentElement,b=d.createElement("script");b.async="async";b.src=a;c.insertBefore(b,c.firstChild)}}function g(){ue.uels=e;for(var a=0;a<b.length;a++)e(b[a]);ue.deffered=1}var b=[];c.ue&&(ue.uels=f,c.ue.attach&&c.ue.attach("load",g))})(document,window);
+
+
+    if (window.ue && window.ue.uels) {
+    ue.uels("http://z-ecx.images-amazon.com/images/G/01/browser-scripts/csm-base/csm-base-min-3644799178._V1_.js");
+}
+ else if (window.amznJQ) {
+    amznJQ.addLogical('csm-base', ["http://z-ecx.images-amazon.com/images/G/01/browser-scripts/csm-base/csm-base-min-3644799178._V1_.js"]);
+    amznJQ.available('csm-base', function() {});
+}
+
+
+var ue_tbno = 0,
+ue_tble = 0,
+ue_sstb = 1,
+ue_ssle = 0,
+ue_tbpv = 0;
+
+(function(d,k){function e(d){var c;c="";var b=a.isBFT?"b":"s",e=""+a.oid,f=""+a.lid,g=e;e!=f&&20==f.length&&(b+="a",g+="-"+f);q&&a.tabid&&(c=a.tabid+"+");c+=b+"-"+g;(l||c!=h)&&100>c.length&&(h=c,document.cookie="csm-hit="+c+("|"+ +new Date)+r+"; path=/");m&&a.log&&a.log(""+(d?d.type:"interaction")+" "+c,"csm")}function n(){h=0;m&&a.log&&a.log("blur","csm")}function p(b){!0===k[a.pageViz.propHid]?n():!1===k[a.pageViz.propHid]&&e({type:"visible"})}var r="; expires="+(new Date(+new Date+6048E5)).toGMTString(),
+h,q=d.ue_sstb,l=d.ue_tbno,m=d.ue_tble,b=d.ue_tbpv,a=d.ue||{},f=b&&a.pageViz&&a.pageViz.event&&a.pageViz.propHid;a.attach&&(a.attach("click",e),a.attach("keyup",e),l||(f&&4!=b&&5!=b||(a.attach("focus",e),a.attach("blur",n)),f&&a.attach(a.pageViz.event,p),!f||3!=b&&5!=b||p({})));a.aftb=1})(ue_csm,document);
+
+(function(a){var b=a.alert;window.alert=function(){a.ueLogError&&a.ueLogError({message:"[CSM] Alert invocation detected with argument: "+arguments[0],logLevel:"WARN"});Function.prototype.apply.apply(b,[a,arguments||[]])}})(window);
+
+(function(d,r,k){function l(a){if(!b)if(b=e[a.type],"undefined"===typeof a.clientX?(f=a.pageX,g=a.pageY):(f=a.clientX,g=a.clientY),2!=b||h&&(h!=f||m!=g)){for(var d in e)e.hasOwnProperty(d)&&c.detach(d,l,k);c.isl&&r.setTimeout(function(){n("at",c.id)},0)}else h=f,m=g,b=0}function s(){var a="";!p&&b&&(p=1,a+="&ui="+b);return a}var c=d.ue,n=d.uex,p=0,b=0,h,m,f,g,e={click:1,mousemove:2,scroll:3,keydown:4};if(c&&n){for(var q in e)e.hasOwnProperty(q)&&c.attach(q,l,k);c._ui=s}})(ue_csm,window,document);
+
+</script>
+</head>
+<body><div style='display:none;visibility:hidden;'>
+    <img src='//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:181-9299527-6093135:0YH44G0JW3QD8QSXXJXW$uedata=s:%2Fgp%2Faw%2Fd%2FB00MC41QGY%2Fuedata%2Fnvp%2Funsticky%2F181-9299527-6093135%2FDetailAW%2Fntpoffrw%3Fstaticb%26id%3D0YH44G0JW3QD8QSXXJXW%26pty%3DDetailWebView%26spty%3Dglance%26pti%3DB00LOR524M:1000' />
+
+
+</div>
+
+<script type="text/javascript">if(typeof uet === 'function'){(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('pc');(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('vintage-device');(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('vintage-device:desktop');uet('bb');};</script>
+<script type="text/javascript">if(typeof uet === 'function'){(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('pc');(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('vintage-device');(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('vintage-device:desktop');uet('ns');};</script>
+<a name="top"></a>
+<center><img src="http://g-ecx.images-amazon.com/images/G/01/aa/amazon/logo_96_28._V192205795_.gif" width="96" alt="Amazon.com" height="28" border="0" /></center>
+<b id="product-title">Level 5 Beverage Company Vitaminfizz Sparkling Water, Mango Orange, 15 Pound (Pack of 12)</b>
+<br />
+<script type="text/javascript">if(typeof uet === 'function'){(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('pc');(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('vintage-device');(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('vintage-device:desktop');uet('ne');};</script>
+<script>var atfMarkers = 0;var cfReady=false,cfListeners=[];function onCF(f){cfReady?f():cfListeners.push(f)}</script>
+<center>
+<a href="/gp/aw/d/B00MC41QGY/ref=mw_dp_img/181-9299527-6093135?is=m&qid=1408077741&sr=8-4"><img src="http://ecx.images-amazon.com/images/I/71atZDIeEKL._SL110_.jpg" width="110" onload="atfMarkers++;if(atfMarkers == 2){if(typeof uet === 'function'){(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('pc');(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('vintage-device');(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('vintage-device:desktop');uet('af');};if(window.ue && ue.tag){(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('image');};if(document.readyState==='complete')uex('ld');;cfReady=true;if(typeof cfListeners != 'undefined'){var n=cfListeners.length;for(var i=0;i<n;i++){cfListeners[i]()}}}" id="detailImg" height="110" border="0" /></a>
+<br />
+<font size="-1">
+<a href="/gp/aw/d/B00MC41QGY/ref=mw_dp_img_2/181-9299527-6093135?in=2&qid=1408077741&sr=8-4">More images</a>
+</font>
+</center>
+<form method="post"
+id="addToCart4"
+action="/gp/aw/c/ref=mw_dp_buy_crt/181-9299527-6093135"
+class="a-nostyle button-form">
+<input type="hidden" name="a" value="B00MC41QGY" /><input type="hidden" name="o" value="add" /><input type="hidden" name="oid" value="JT22zSz9tq4lblbWxm9M%2FiA%2FsF6gRpGEO%2Fg%2BxAXqRqIZoTCRHfnHuis44hxYCfsuGTTPNwuGrGVezbbgTCKkSUZH%2BpkPxrQOjuHWAHLLzDg2vyLsIdWtRg7CSuIP1RrMTHsrL8Ua%2FAhrlejaAqEQJwGSDFp8hPRG" /><input type="hidden" name="qid" value="1408077741" /><input type="hidden" name="sr" value="1-4" /><input type="hidden" name="verificationSessionID" value="181-9299527-6093135" />
+<center>
+<input
+name="addToCart"
+class="cartButton"
+type="submit"
+value="Add to Shopping Cart"
+/>
+</center>
+</form>
+<a href="/gp/aw/d/B00MC41QGY/ref=mw_dp_var/181-9299527-6093135?qid=1408077741&sr=8-4&vid=NO">
+Select Flavor
+&nbsp;
+<br/>
+Mango Orange
+</a>
+<br />
+<form method="get" id="addToWishlist" class="a-nostyle button-form" action="/gp/aw/l.html/ref=mw_dp_buy_wl/181-9299527-6093135"><input type="hidden" name="appAction" value="add" /><input type="hidden" name="appActionToken" value="29e69a5ca634f41d5cb3030c67245d602ff9cacfdc5c969ea9489e154165d634" /><input type="hidden" name="csrfRnd" value="0.81449942098488" /><input type="hidden" name="csrfTs" value="1427166424" /><input type="hidden" name="a" value="B00MC41QGY" />
+<center><input type="submit" name="wishlistSubmit" class="wishButton" value="Add to Wish&nbsp;List" /></center>
+</form>
+<b>List Price:</b>&nbsp;<strike>$19.99</strike><br /><b>Price:</b>&nbsp;$16.99&nbsp;<br />$0.01 / Ounce<br /><b>You Save:</b>&nbsp;$3.00(15%)<br />
+<font size="-1" color="#009900">In Stock</font>
+<br />
+<a href="/gp/aw/help/id=sss/ref=aw_d_sss_grocery/181-9299527-6093135">FREE Shipping</a> on orders over $35.
+<br/>
+Sold by <a href="/gp/aw/sp.html/181-9299527-6093135?a=B00MC41QGY&s=A1NTD7V5T52SEY">Power Brands, LLC.</a> and Fulfilled by Amazon.<br />
+Gift-wrap available.<br />
+<font size="-1">
+&#160;Want it delivered by <b>Wednesday, Mar 25</b>? Order within 18hr 37min, and choose <b>One-Day</b> delivery at checkout.<br />
+</font>
+<script type="text/javascript">atfMarkers++;if(atfMarkers == 2){if(typeof uet === 'function'){(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('pc');(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('vintage-device');(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('vintage-device:desktop');uet('af');};if(window.ue && ue.tag){(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('generic-buy-box-marker');};if(document.readyState==='complete')uex('ld');;cfReady=true;if(typeof cfListeners != 'undefined'){var n=cfListeners.length;for(var i=0;i<n;i++){cfListeners[i]()}}}</script>
+<br />
+<a href="/gp/aw/social/swf/B00MC41QGY/o=ShareProduct/ref=cm_sw_aw_do_sp/181-9299527-6093135?qid=1408077741&qid=1408077741&sr=8-4&sr=8-4">Share</a>
+<br />
+<b>Average Customer Rating</b>:&nbsp;4.9&nbsp;/&nbsp;5.0<br />
+<a href="/gp/aw/cr/B00MC41QGY/ref=mw_dp_cr/181-9299527-6093135?qid=1408077741&sr=8-4">View Customer Reviews</a><br />
+<a href="/gp/aw/d/B00MC41QGY/ref=mw_dp_mpd/181-9299527-6093135?l=Product%20Details&pd=1&qid=1408077741&sr=8-4">Product Details</a><br />
+<hr width="100%" size="2" noshade="noshade" />
+<b>Frequently Bought Together</b>
+<br />
+Buy this with <a href="/gp/aw/d/B003OZX4ME/ref=mw_dp_buyxgety_y/181-9299527-6093135">Sparkling ICE Spring Water, Pink Grapefruit, 17-Ounce Bottles (Pack of 12)</a> today<br />Buy Together Today:&nbsp;$29.00
+<form method="post" action="/gp/aw/c.html/ref=mw_dp_buy_crt_both/181-9299527-6093135?asin.1=B00MC41QGY&asin.2=B003OZX4ME&bxgyab=1">
+<input name="bxgyab" type="hidden" value="1" /><input name="offeringID.1" type="hidden" value="JT22zSz9tq4lblbWxm9M%2FiA%2FsF6gRpGEO%2Fg%2BxAXqRqIZoTCRHfnHuis44hxYCfsuGTTPNwuGrGVezbbgTCKkSUZH%2BpkPxrQOjuHWAHLLzDg2vyLsIdWtRg7CSuIP1RrMTHsrL8Ua%2FAhrlejaAqEQJwGSDFp8hPRG" /><input name="offeringID.2" type="hidden" value="Kduus0eGq%2Bo81yu9sr36dN83DqCi7yrrRTOH%2BzN%2BurnnCPx%2FrSJvg2%2F7fI98cdz%2FxKRDRz4%2F5Zp8gpQmfMas7FgqVX8r1ubhg9%2FsY1vRx9s3dk%2F78v5r6w%3D%3D" /><input name="quantity.2" type="hidden" value="1" /><input name="asin.2" type="hidden" value="B003OZX4ME" /><input name="verificationSessionID" type="hidden" value="181-9299527-6093135" /><input name="quantity.1" type="hidden" value="1" /><input name="asin.1" type="hidden" value="B00MC41QGY" /><input name="o" type="hidden" value="add" />
+<center><input type="submit" name="buyXGetY" class="cartButton" value="Add both to Cart" /></center>
+</form>
+<hr width="100%" size="2" noshade="noshade" />
+<a name="mp"><b>Marketplace offers</b></a>
+<br />
+<a href="/gp/aw/ol/B00MC41QGY/ref=mw_dp_olp/181-9299527-6093135?o=New&op=1&qid=1408077741&sr=8-4">New</a> from $16.99
+<br/>
+<hr width="100%" size="2" noshade="noshade" />
+<a name="search_box"></a>
+<form action="/gp/aw/s/ref=is_box_grocery/181-9299527-6093135">
+<b>Search</b>
+<input name="k"
+maxlength="256"
+size="15" />
+<input type="submit"
+value="Go" />
+</form>
+<hr width="100%" size="2" noshade="noshade" />
+<a href="/gp/aw/c/181-9299527-6093135?ref_=aw_bottom_links_cart">Cart</a><br /><a href="https://www.amazon.com/gp/aw/ya/181-9299527-6093135?ref_=aw_bottom_links_ya">Your Account</a><br /><a href="https://www.amazon.com/gp/aw/vsd.html/181-9299527-6093135?ref_=aw_bottom_links_1click">1-Click Settings</a><br /><a href="/gp/aw/ls/181-9299527-6093135?ref_=aw_bottom_links_wl">Wish List & Registry</a><br /><a href="/gp/aw/ls/s/181-9299527-6093135?ref_=aw_bottom_links_find">Find a Wish List or Registry</a><br /><a href="https://www.amazon.com/gp/aw/so.html/181-9299527-6093135?action=sign-out&redirectTo=%2Fgp%2Faw%2Fsi.html%2F181-9299527-6093135%3FdestinationURL%3D%252Fgp%252Faw%252Fd%252FB00MC41QGY%26packedQuery%3Dqid%257C1408077741%257Cpi%257CAC_SX110_SY165_QL70%257Csr%257C8-4%257Ccache%257C8b73b808270640cd4ef7634735c59efb">Sign Out</a><br /><a href="/gp/aw/help/id=help/181-9299527-6093135?ref_=aw_bottom_links_help">Help</a><br /><a href="/gp/aw/181-9299527-6093135">Home</a><br /><a href="/gp/aw/help/181-9299527-6093135?apid=388323901&id=lt">Legal Terms</a><br />
+<script type="text/javascript">if(typeof uet === 'function'){(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('pc');(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('vintage-device');(function(t){var w = window;w.awTags = w.awTags || {};w.awTags[t] = w.awTags[t] || (ue.tag(t) && 1)})('vintage-device:desktop');uet('be');};</script>
+<script type='text/javascript'>
+    
+    window.ue_csm.cel_widgets = [
+         {  c: "celwidget"  } , {  id: "fallbacksessionShvl"  } , {  id: "rhf"  } 
+    ];
+
+
+
+</script>
+
+<div id='be' style='display:none;visibility:hidden;'><form name='ue_backdetect'><input name='ue_back' value='1' type='hidden'></form><script type="text/javascript">
+(function(a){var b=document.ue_backdetect;b&&b.ue_back&&a.ue&&(a.ue.bfini=b.ue_back.value);a.uet&&a.uet("be");a.onLdEnd&&(window.addEventListener?window.addEventListener("load",a.onLdEnd,!1):window.attachEvent&&window.attachEvent("onload",a.onLdEnd));a.ueh&&a.ueh(0,window,"load",a.onLd,1);a.ue&&a.ue.tag&&(a.ue_furl&&a.ue_furl.split?(b=a.ue_furl.split("."))&&b[0]&&a.ue.tag(b[0]):a.ue.tag("nofls"))})(ue_csm);
+
+
+var ue_pty='DetailAW', ue_spty='Glance', ue_pti='B00MC41QGY';
+
+</script>
+
+<a href='/gp/uedata/nvp/unsticky/181-9299527-6093135//ntpoffrw?tepes=1&amp;id=0YH44G0JW3QD8QSXXJXW'>v</a>
+<noscript>
+     <img src='/gp/uedata/nvp/unsticky/181-9299527-6093135//ntpoffrw?noscript&amp;id=0YH44G0JW3QD8QSXXJXW&amp;pty=DetailAW&amp;spty=Glance&amp;pti=B00MC41QGY' />
+     <img src='//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:181-9299527-6093135:0YH44G0JW3QD8QSXXJXW$uedata=s:%2Fgp%2Faw%2Fd%2FB00MC41QGY%2Fuedata%2Fnvp%2Funsticky%2F181-9299527-6093135%2FDetailAW%2Fntpoffrw%3Fnoscript%26id%3D0YH44G0JW3QD8QSXXJXW%26pty%3DDetailAW%26spty%3DGlance%26pti%3DB00MC41QGY:2000' />
+
+</noscript>
+</div>
+<script type='text/javascript'>
+(function(g,h){function d(a,d){var b={};if(!e||!f)try{var c=h.sessionStorage;c?a&&("undefined"!==typeof d?c.setItem(a,d):b.val=c.getItem(a)):f=1}catch(g){e=1}e&&(b.e=1);return b}var b=g.ue||{},a="",f,e,c,a=d("csmtid");f?a="NA":a.e?a="ET":(a=a.val,a||(a=b.oid||"NI",d("csmtid",a)),c=d(b.oid),c.e||(c.val=c.val||0,d(b.oid,c.val+1)),b.ssw=d);b.tabid=a})(ue_csm,window);
+
+
+</script>
+<script type='text/javascript'>
+(function(b,c){var a=c.images;a&&a.length&&b.ue.count("totalImages",a.length)})(ue_csm,document);
+
+</script>
+<script type='text/javascript'>
+(function(c,d){var b=c.ue,a=d.navigator;b&&b.tag&&a&&(a=a.connection||a.mozConnection||a.webkitConnection)&&a.type&&b.tag("netInfo:"+a.type)})(ue_csm,window);
+
+</script>
+</body>
+</html>

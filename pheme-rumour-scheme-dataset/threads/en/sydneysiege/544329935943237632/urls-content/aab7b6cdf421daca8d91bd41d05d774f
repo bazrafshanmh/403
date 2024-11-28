@@ -1,0 +1,954 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Cache-Control: max-age=3600, private
+X-Tx-Id: b3ae9d6a-4a45-4d79-b910-f767dc89e2d9
+Expires: Tue, 24 Mar 2015 02:28:58 GMT
+Access-Control-Allow-Origin: http://www.cnet.com
+Content-Encoding: gzip
+Content-Length: 22937
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Date: Tue, 24 Mar 2015 01:28:58 GMT
+Connection: keep-alive
+Set-Cookie: fly_geo={"countryCode": "gb"}; expires=Tue, 31-Mar-2015 01:28:58 GMT; path=/; domain=.cnet.com
+Set-Cookie: fly_default_edition=uk; expires=Tue, 31-Mar-2015 01:28:58 GMT; path=/; domain=.cnet.com
+Set-Cookie: fly_device=desktop; expires=Tue, 31-Mar-2015 01:28:58 GMT; path=/; domain=.cnet.com
+Set-Cookie: fly_zip=; expires=Tue, 31-Mar-2015 01:28:58 GMT; path=/; domain=.cnet.com
+
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head><!-- MacLeod loves you! --><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgQCVVdaGwAGU1VUAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><meta content="en_US" http-equiv="Content-Language"><title>Uber reaches 4x surge pricing as Sydney faces hostage lockdown - CNET</title><meta name="description" content="As a major hostage operation plays out in the centre of Sydney, Uber briefly reached record surge pricing for rides in the CBD, before changing tack and offering free rides for passengers trying to leave the city."><link rel="canonical" href="http://www.cnet.com/news/uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown/"><link rel="alternate" hreflang="x-default" href="http://www.cnet.com/news/uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown/"><link rel="alternate" hreflang="en-au" href="http://www.cnet.com/au/news/uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown/"><link rel="alternate" hreflang="en-gb" href="http://www.cnet.com/uk/news/uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown/"><link rel="alternate" hreflang="en-ie" href="http://www.cnet.com/uk/news/uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown/"><link rel="alternate" hreflang="en-us" href="http://www.cnet.com/news/uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown/"><link rel="search" type="application/opensearchdescription+xml" title="CNET Search" href="http://www.cnet.com/opensearch.xml"><meta property="og:site_name" content="CNET"><meta property="og:title" content="Uber reaches 4x surge pricing as Sydney faces hostage lockdown - CNET"><meta property="og:description" content="As a major hostage operation plays out in the centre of Sydney, Uber briefly reached record surge pricing for rides in the CBD, before changing tack and offering free rides for passengers trying to leave the city."><meta property="og:image" content="http://cnet2.cbsistatic.com/hub/i/r/2014/04/30/3012252f-d664-11e3-bddd-d4ae52e62bcc/thumbnail/670x503/feb524979d795770610e2ba933bb30b8/UberX_1.jpg"><meta property="og:type" content="Article"><meta property="og:url" content="http://www.cnet.com/news/uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown/"><meta property="fb:app_id" content="16995676698"><meta property="fb:admins" content="100001036810388"><meta property="article:publisher" content="https://www.facebook.com/cnet"><meta content="30261067" property="twitter:account_id"><meta content="summary" property="twitter:card"><meta content="http://www.cnet.com/news/uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown/" property="twitter:url"><meta content="Uber reaches 4x surge pricing as Sydney faces hostage lockdown" property="twitter:title"><meta content="As a major hostage operation plays out in the centre of Sydney, Uber briefly reached record surge pricing for rides in the CBD, before changing tack and offering free rides for passengers trying to leave the city." property="twitter:description"><meta content="http://cnet2.cbsistatic.com/hub/i/r/2014/04/30/3012252f-d664-11e3-bddd-d4ae52e62bcc/thumbnail/670x503/feb524979d795770610e2ba933bb30b8/UberX_1.jpg" property="twitter:image"><meta content="670" property="twitter:image:width"><meta content="503" property="twitter:image:height"><meta content="@CNET" property="twitter:site"><meta content="@reillystyley" property="twitter:creator"><meta content="I1kHyfzmmG1fEVjq8GBUgkfCHc6PNtxce1_VyUuJhws" name="google-site-verification"><meta content="wNWLoFvk5wsdZQ-u75uCNiaHNa7FLFmNtH2t7dZbXmQ" name="google-site-verification"><meta content="47524839a64b83c951afca9ef6c838e0" name="p:domain_verify"><meta content="Product reviews and prices, software downloads, and tech news - CNET" name="msapplication-tooltip"><meta content="http://www.cnet.com/" name="msapplication-starturl"><meta content="width=1024;height=768" name="msapplication-window"><meta content="#424244" name="msapplication-navbutton-color"><meta content="name=Home; action-uri=http://www.cnet.com/; icon-uri=http://www.cnet.com/favicon.ico" name="msapplication-task"><meta content="name=Downloads; action-uri=http://download.cnet.com/; icon-uri=http://download.cnet.com/favicon.ico" name="msapplication-task"><meta content="name=News; action-uri=http://www.cnet.com/news/; icon-uri=http://www.cnet.com/favicon.ico" name="msapplication-task"><meta content="name=Reviews; action-uri=http://www.cnet.com/reviews/; icon-uri=http://www.cnet.com/favicon.ico" name="msapplication-task"><meta content="name=Videos; action-uri=http://www.cnet.com/videos/; icon-uri=http://www.cnet.com/favicon.ico" name="msapplication-task"><meta content="name=Forums; action-uri=http://forums.cnet.com/; icon-uri=http://www.cnet.com/favicon.ico" name="msapplication-task"><meta name="tp:baseUrl" content="http://cnet2.cbsistatic.com/fly/1145-fly/bundles/cnetmpxpdk/pdk"><meta name="viewport" content="width=device-width"><meta name="fragment" content="!"><link rel="manifest" href="manifest.json"><link rel="stylesheet" href="http://cnet1.cbsistatic.com/fly/1145-fly/bundles/cnetcss/css/core/main.desktop.css"><link rel="stylesheet" href="http://cnet3.cbsistatic.com/fly/1145-fly/bundles/cnetcss/css/article/article.desktop.css"><!--[if IE 8]> <link rel="stylesheet" href="http://cnet4.cbsistatic.com/fly/1145-fly/bundles/cnetcss/css/core/ie/ie8.css" /> <![endif]--><!--[if IE 9]> <link rel="stylesheet" href="http://cnet3.cbsistatic.com/fly/1145-fly/bundles/cnetcss/css/core/ie/ie9.css" /> <![endif]--><script src="http://cnet4.cbsistatic.com/fly/1145-fly/bundles/cnetcore/js/boomr.js"></script><script type="text/javascript">
+    window.CnetPageVars = {
+        ads: {
+            enabled: true,
+            data: {"gpt":{"targeting":{"section":"news","pid":"0bbef35b-0b89-400f-8262-e9bb40cadda3","tag":["uber"],"edition":"us","device":"desktop","ptype":"article","cid":"uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown","env":"prod"},"adConfig":{"network":{"dev":8264,"prod":8264},"method":"async-inline","regions":[{"region":"uk","countries":["gb","ie","za","bh","kw","om","qa","sa","ae","iq","eg","ye","fr"]},{"region":"au","countries":["au","nz"]},{"region":"asia","countries":["sg","my","th","id","ph","hk","vn","in","tw"]}],"adUnits":{"intromercial":{"outOfPage":true,"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"skin":{"sizes":[[1600,1000]],"position":"top","eventCallbacks":{"slotRenderEnded":"adSkinCallback"}},"resourceCenterTop":{"sizes":[[371,301]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,250],[300,600],[300,1050]],"position":"top","eventCallbacks":{"slotRenderEnded":"mpuPlusTopCallback"}},"marqueeTop":{"sizes":[[300,60]],"position":"top"},"mpuTop":{"sizes":[[300,250]],"position":"top","eventCallbacks":{"slotRenderEnded":"mpuTopCallback"}},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"leaderPlusTop":{"sizes":[[970,66],[728,90],[970,250]],"position":"top","eventCallbacks":{"slotRenderEnded":"leaderboardTopPlusCallback"}},"leaderTop":{"sizes":[[970,66],[728,90]],"position":"top","eventCallbacks":{"slotRenderEnded":"leaderTopCallback"}},"buttonTop":{"sizes":[[88,31],[70,20],[155,40]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"omnibarTop":{"sizes":[[980,45]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"textLinkTop":{"sizes":[[401,11]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"dynamicTextLinkTop":{"sizes":[[1171,61]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mpuMiddle":{"sizes":[[300,250]],"position":"middle"},"mpuMiddle2":{"sizes":[[300,250]],"position":"middle2"},"mpu3":{"sizes":[[300,250]],"position":3},"leaderPlusMiddle":{"sizes":[[970,66],[728,90],[970,250]],"position":"middle"},"leaderPlusMantle":{"sizes":[[970,66],[728,90],[970,250]],"position":"mantle","eventCallbacks":{"slotRenderEnded":"leaderPlusMantleCallback"}},"leaderBottom":{"sizes":[[970,66],[728,90]],"position":"bottom"},"leaderPlusBottom":{"sizes":[[970,66],[728,90]],"position":"bottom"},"dynamicShowcaseTop":{"sizes":[[371,771]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"infoBoardTop":{"sizes":[[771,201],[620,90]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"infoButtonsTop":{"sizes":[[771,61]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"socialLogoBottom":{"sizes":[[88,31]],"position":"bottom","eventCallbacks":{"slotRenderEnded":"sharebarCallback"},"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"socialLogoTop":{"sizes":[[88,31]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"sponsoredFeedTop":{"sizes":[[571,121]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"inlineProductCarouselTop":{"sizes":[[621,221],[621,471]],"position":"top","eventCallbacks":{"slotRenderEnded":"inlineProductCarouselTopCallback"},"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"inpageVideoTop":{"sizes":[[641,321]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"windowTop":{"sizes":[[120,90]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"windowBottom":{"sizes":[[120,90]],"position":"bottom","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"sponsoredMatchTop":{"sizes":[[971,201]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"replaySquareTop":{"sizes":[[271,271]],"position":"top","eventCallbacks":{"slotRenderEnded":"replaySquareCallBack"},"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"replayWideTop":{"sizes":[[771,131],[11,11]],"position":"top","eventCallbacks":{"slotRenderEnded":"replayWideTopCallback"},"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"replayWideBottom":{"sizes":[[771,131],[11,11]],"position":"bottom","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"replayWideEditorspicks":{"sizes":[[771,131]],"position":"editorspicks","eventCallbacks":{"slotRenderEnded":"replayWideEditorspicksCallback"},"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"replayShowcaseTop":{"sizes":[[371,291]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"overgifTop":{"sizes":[[251,11]],"position":"top","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"showcaseTop":{"sizes":[[3,3]],"position":"top"},"videoThumbnailTop":{"sizes":[[171,231],[771,131],[11,11]],"position":"thumbnail","eventCallbacks":{"slotRenderEnded":"videoThumbnailTopCallback"},"collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true}},"mobile":{"adUnits":{"hpto":{"outOfPage":true},"mobileBannerTop":{"sizes":[[320,50],[6,1]],"position":"increment"},"mobileBannerMpuHptoOverlay":{"outOfPage":true},"mobileMpuBottom":{"sizes":[[300,250]],"position":"increment"},"mobileBanner":{"sizes":[[320,50]],"position":"increment"},"mobileReplaySquare":{"sizes":[[271,271]],"position":"increment"},"mobileReplayWide":{"sizes":[[771,131],[11,11]],"position":"increment"},"mobileReplayWidePlus":{"sizes":[[771,131],[320,50],[11,11]],"position":"increment"},"mobileBannerPlus":{"sizes":[[300,250],[320,50],[621,221]],"position":"increment"},"mobileMpu":{"sizes":[[300,250]],"position":"increment"},"mobileOvergif":{"sizes":[[251,11]],"position":"increment","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true},"mobileShowcase":{"sizes":[[3,3]],"position":"increment","collapseEmptyDiv":true,"collapseEmptyDivOnPageload":true}}},"tablet":{"adUnits":{"resourceCenterTop":{"sizes":[[300,300]],"position":"top"},"resourceCenterBottom":{"sizes":[[632,160]],"position":"bottom"},"mpuPlusTop":{"sizes":[[300,600],[300,250]]},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"mpuTop":{"sizes":[[300,250],[300,600]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"leaderTop":{"sizes":[[728,90],[970,66]],"position":"bottom"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250]],"position":"top"}}},"siteName":"cnet","collapseEmptyDiv":false,"setRefreshUnfilledSlots":true,"setClearUnfilledSlots":false,"disableInitialLoad":false,"disableInitialLoadCompanions":false,"enableSingleRequest":true,"enableAsyncRendering":true,"defaultRegion":"aw","deviceRegions":{"mobile":[{"region":"aw","countries":["all"]}],"desktop":[],"tablet":[]}},"containerId":"5510bdda0f822","slotVars":{"network":"8264","siteName":"cnet","collapseEmptyDiv":"","topics":"car-tech","platform":"desktop"},"adType":"gpt","adDivIds":["social-logo-bottom-5510bdda0f822","inpage-video-top-5510bdda0f822","info-board-top-5510bdda0f822","mpu-plus-top-5510bdda0f822","leader-bottom-5510bdda0f822","video-thumbnail-top-5510bdda0f822","omnibar-top-5510bdda0f822","text-link-top-5510bdda0f822","intromercial-5510bdda0f822","skin-5510bdda0f822","leader-top-5510bdda0f822","dynamic-text-link-top-5510bdda0f822"]},"cookieName":"cnet_ad","cookieServicePath":"http:\/\/www.cnet.com\/ad\/ad-cookie\/","session":4,"subSession":6}
+        },
+        assetsVersion: {
+            version: '1145-fly'
+        },
+        cmsEdit: {
+            contentId: '0bbef35b-0b89-400f-8262-e9bb40cadda3',
+            contentType: 'article'
+        },
+        device: 'desktop',
+        edition: {
+            code: 'us'
+        },
+        environment: 'prod',
+        tracking: {
+            enabled: true
+        },
+        pageType: 'article',
+        promotionals: {
+            flyoutPromo:{
+                url: '/flyout-promo/'
+            }
+        },
+        user: {
+            baseUrl: 'https://secure-fly-beta.cnet.com',
+            'urls': {
+                'login': "https://secure-fly-beta.cnet.com/user/login/",
+                'register': "https://secure-fly-beta.cnet.com/user/registration/",
+                'confirmRegistration': "http://www.cnet.com/user/instructions-confirm-registration/",
+                'forgotPassword': "https://secure-fly-beta.cnet.com/user/forgotten-password/",
+                'passwordSent': "http://www.cnet.com/user/password-sent/",
+                'createUsername': "http://www.cnet.com/user/create-username/",
+                'sendConfirmation': "http://www.cnet.com/user/send-confirmation/?registered=1",
+                'userData': "http://www.cnet.com/user/get-data/",
+                'flag': "http://www.cnet.com/user/flag/",
+                'socialAdditionalInformation': "http://www.cnet.com/user/social-additional-information/"
+            }
+        }
+    };
+
+
+    
+        
+
+    
+    
+    
+    var utag_data = {"isEnabled":true,"articleAuthorId":["a69b7e66-7917-4573-b81f-1849e1e01d9d"],"articleAuthorName":["claire reilly"],"articleId":"0bbef35b-0b89-400f-8262-e9bb40cadda3","articlePubDate":"2014-12-15 03:16:02","articleTitle":"uber reaches 4x surge pricing as sydney faces hostage lockdown","articleType":"magnet_article","collectionId":[],"collectionName":[],"deviceType":"desktop","isDev":"0","pageNum":"1","pageType":"article","siteEdition":"us","siteHier":["news","car-tech"],"siteSection":"news","siteType":"responsive web","topicId":["1bff3376-c387-11e2-8208-0291187b029a","1c5677fd-c387-11e2-8208-0291187b029a","1bff3376-c387-11e2-8208-0291187b029a"],"topicName":["car tech","mobile apps","car tech"],"dwAccount":"cbsicnetglobalsite","dwHost":"dw.cbsi.com","siteId":1,"reportSuiteId":"cbsicnetglobalsite","bkSiteId":3321,"limit":4,"collectionSlug":[],"tagSlugs":["uber"],"topicSlugs":["car-tech","mobile-apps","car-tech"],"siteName":"cnet","tealium":{"profile":"cnetglobalsite","env":"prod"},"soastaBucket":"us_desktop","soastaPageType":"article"};
+</script><!--[if lt IE 9]> <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]--></head><body class="not-logged-in
+    us
+        artView
+" data-cms-edit='{"url":"http:\/\/cms-beta.cnet.com\/content\/article\/0bbef35b-0b89-400f-8262-e9bb40cadda3"}'>
+                        
+    
+<header id="rbHeader" class="page-header"><div id="omnibar_top">
+                                    <div id="omnibar-top-5510bdda0f822" class="ad-omnibar-top" data-ad="omnibar-top">
+    <script>
+        window.console && console.log && console.log("ADS: queuing omnibar-top-5510bdda0f822 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("omnibar-top-5510bdda0f822");
+            </script></div>            </div>                                 <div id="secondary" class="">
+                <div id="headerTextAd">
+                                    <div id="text-link-top-5510bdda0f822" class="ad-text-link-top" data-ad="text-link-top">
+    <script>
+        window.console && console.log && console.log("ADS: queuing text-link-top-5510bdda0f822 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("text-link-top-5510bdda0f822");
+            </script></div>            </div>
+                                    
+<div id="socialHeader">
+    <span>Connect with us</span>
+           	
+            <div class="socialWrapper" data-component='["touchMenuHover","iframeHoverFix"]'>
+                
+                        <div class="networkWrapper">
+        <a target="_blank" href="http://www.facebook.com/CNET" class="social-menu-facebook">facebook</a>
+    </div>
+
+        
+                        <div class="networkWrapper">
+        <a target="_blank" href="https://twitter.com/intent/user?screen_name=CNET" class="social-menu-twitter">twitter</a>
+    </div>
+
+        
+            </div>
+
+</div>
+                            </div>
+            
+                        <div class="fixation" data-component="fixate" data-fixate-options='{"offset":{"top":0,"bottom":0},"guideTop":"#secondary"}'>
+                    <div id="primary">
+                                    <a id="rbLogo" href="/">CNET</a>
+                
+                                    <form method="get" action="/search/" class="col-3 headerSearchForm single">
+    <div class="searchBar">
+        <input type="text" placeholder="Search CNET" id="primarySearch" name="query" value="" autocomplete="off"><button type="submit" class="searchButton" value="Search"></button>
+    </div>
+</form>                
+                                    
+
+<nav id="primaryNav" section="brandnav" data-endpoint="/component/load/xhr/"><div class="menu double" id="reviewsMenu" data-component="touchMenuHover">
+        <a class="menuHead" data-trigger="menu" href="/reviews/">Reviews</a>
+                    <div class="menuWrapper">
+                <!--[if lt IE 9]>
+                <noscript><div class="navTag"></noscript>
+                <![endif]-->
+                <nav><div class="navWrapper" data-component="headerMenu" data-ajax="reviews">
+                        <ul class="topCategories"><li class="hed">Top Categories</li>
+                            <li><a href="/cnet100/">CNET 100</a></li> <!-- debate with seo over editions, see footer -->
+                            <li data-ajax="reviews-appliances"><a href="/topics/appliances/">Appliances</a></li>
+                            <li data-ajax="reviews-audio"><a href="/topics/audio/">Audio</a></li>
+                            <li data-ajax="reviews-cameras"><a href="/topics/cameras/">Cameras</a></li>
+                            <li data-ajax="reviews-car"><a href="/topics/car-tech/">Car Tech</a></li>
+                            <li data-ajax="reviews-desktops"><a href="/topics/desktops/">Desktops</a></li>
+                            <li data-ajax="reviews-headphones"><a href="/topics/headphones/">Headphones</a></li>
+                            <li data-ajax="reviews-laptops"><a href="/topics/laptops/">Laptops</a></li>
+                            <li data-ajax="reviews-networking"><a href="/topics/networking/">Networking</a></li>
+                            <li data-ajax="reviews-phones"><a href="/topics/phones/">Phones</a></li>
+                            <li data-ajax="reviews-printers"><a href="/topics/printers/">Printers</a></li>
+                            <li data-ajax="reviews-software"><a href="/topics/software/">Software</a></li>
+                            <li data-ajax="reviews-storage"><a href="/topics/storage/">Storage</a></li>
+                            <li data-ajax="reviews-tablets"><a href="/topics/tablets/">Tablets</a></li>
+                            <li data-ajax="reviews-tvs"><a href="/topics/tvs/">TVs</a></li>
+                            <li data-ajax="reviews-wearable"><a href="/topics/wearable-tech/">Wearable Tech</a></li>
+                                                            <li data-ajax="reviews-deals"><a href="/deals/">Deals</a></li>
+                                <li data-ajax="reviews-webhosting"><a href="/web-hosting/" data-vanity-rewritten="true">Web Hosting</a></li>
+                                                    </ul></div>
+                </nav><!--[if lt IE 9]>
+                <noscript></div></noscript>
+                <![endif]--></div>
+            </div>
+    <div class="menu double active" id="newsMenu" data-component="touchMenuHover">
+        <a class="menuHead" data-trigger="menu" href="/news/">News</a>
+        <div class="menuWrapper">
+            <!--[if lt IE 9]>
+            <noscript><div class="navTag"></noscript>
+            <![endif]-->
+            <nav><div class="navWrapper" data-component="headerMenu" data-ajax="news">
+                    <ul class="topCategories"><li class="hed">Top Categories</li>
+                        <li data-ajax="news-apple"><a href="/apple/" data-vanity-rewritten="true">Apple</a></li>
+                        <li data-ajax="news-computers"><a href="/topics/computers/" data-vanity-rewritten="true">Computers</a></li>
+                        <li data-ajax="news-crave"><a href="/crave/" data-vanity-rewritten="true">Crave</a></li>
+                                                    <li data-ajax="reviews-deals"><a href="/deals/">Deals</a></li>
+                                                <li data-ajax="news-google"><a href="/tags/google/">Google</a></li>
+                        <li data-ajax="news-internet"><a href="/topics/internet/" data-vanity-rewritten="true">Internet</a></li>
+                        <li data-ajax="news-microsoft"><a href="/tags/microsoft/">Microsoft</a></li>
+                        <li data-ajax="news-mobile"><a href="/topics/mobile/" data-vanity-rewritten="true">Mobile</a></li>
+                        <li data-ajax="news-photography"><a href="/topics/photography/" data-vanity-rewritten="true">Photography</a></li>
+                        <li data-ajax="news-security"><a href="/topics/security/" data-vanity-rewritten="true">Security</a></li>
+                        <li data-ajax="news-scitech"><a href="/topics/sci-tech/" data-vanity-rewritten="true">Sci-Tech</a></li>
+                        <li data-ajax="news-culture"><a href="/topics/tech-culture/" data-vanity-rewritten="true">Tech Culture</a></li>
+                        <li data-ajax="news-tech"><a href="/topics/tech-industry/" data-vanity-rewritten="true">Tech Industry</a></li>
+                        <li data-ajax="news-photos"><a href="/pictures/">Photo Galleries</a></li>
+                        <li data-ajax="video-news"><a href="/videos/cnet-news/" data-vanity-rewritten="true">Video</a></li>
+                    </ul></div>
+            </nav><!--[if lt IE 9]>
+            <noscript></div></noscript>
+            <![endif]--></div>
+    </div>
+    <div class="menu double" id="videoMenu" data-component="touchMenuHover">
+        <a class="menuHead" data-trigger="menu" href="/videos/">Video</a>
+        <div class="menuWrapper">
+        <!--[if lt IE 9]>
+        <noscript><div class="navTag"></noscript>
+        <![endif]-->
+        <nav><div class="navWrapper" data-component="headerMenu" data-ajax="videos">
+                <ul class="topCategories"><li class="hed">Top Categories</li>
+                    <li data-ajax="video-adventuresintech"><a href="/adventures-in-tech/" data-vanity-rewritten="true">Adventures in Tech</a></li>
+                    <li data-ajax="video-apple"><a href="/apple-byte/" data-vanity-rewritten="true">Apple Byte</a></li>
+                    <li data-ajax="video-cartech"><a href="/topics/car-tech/videos/" data-vanity-rewritten="true">Car Tech</a></li>
+                    <li data-ajax="video-cnetoncars"><a href="/cnet-on-cars/" data-vanity-rewritten="true">CNET On Cars</a></li>
+                    <li data-ajax="video-cnettop5"><a href="/cnet-top-5/" data-vanity-rewritten="true">CNET Top 5</a></li>
+                    <li data-ajax="video-cnetupdate"><a href="/cnet-update/" data-vanity-rewritten="true">CNET Update</a></li>
+                    <li data-ajax="video-googlicious"><a href="/googlicious/" data-vanity-rewritten="true">Googlicious</a></li>
+                    <li data-ajax="video-howto"><a href="/how-to/videos/" data-vanity-rewritten="true">How To</a></li>
+                    <li data-ajax="video-nextbigthing"><a href="/next-big-thing/" data-vanity-rewritten="true">Next Big Thing</a></li>
+                    <li data-ajax="video-news"><a href="/videos/cnet-news/" data-vanity-rewritten="true">News</a></li>
+                    <li data-ajax="video-phones"><a href="/topics/phones/videos/" data-vanity-rewritten="true">Phones</a></li>
+                    <li data-ajax="video-prizefight"><a href="/prizefight/" data-vanity-rewritten="true">Prizefight</a></li>
+                    <li data-ajax="video-tablets"><a href="/topics/tablets/videos/" data-vanity-rewritten="true">Tablets</a></li>
+                    <li data-ajax="video-404"><a href="/the-404/" data-vanity-rewritten="true">The 404</a></li>
+                    <li data-ajax="video-fix"><a href="/the-fix/" data-vanity-rewritten="true">The Fix</a></li>
+                    <li data-ajax="video-tomorrowdaily"><a href="/tomorrow-daily/" data-vanity-rewritten="true">Tomorrow Daily</a></li>
+                    <li data-ajax="video-xcar"><a href="/xcar/" data-vanity-rewritten="true">XCAR</a></li>
+                </ul></div>
+        </nav><!--[if lt IE 9]>
+        <noscript></div></noscript>
+        <![endif]--></div>
+    </div>
+    <div class="menu single" id="howtoMenu" data-component="touchMenuHover">
+        <a class="menuHead" data-trigger="menu" href="/how-to/">How To</a>
+        <div class="menuWrapper">
+            <!--[if lt IE 9]>
+            <noscript><div class="navTag"></noscript>
+            <![endif]-->
+            <nav><ul class="topCategories"><li class="hed">Top Categories</li>
+                    <li><a href="/topics/appliances/how-to/">Appliances</a></li>
+                    <li><a href="/topics/computers/how-to/">Computers</a></li>
+                    <li><a href="/topics/gaming/how-to/">Gaming</a></li>
+                    <li><a href="/topics/home-entertainment/how-to/">Home Entertainment</a></li>
+                    <li><a href="/topics/internet/how-to/">Internet</a></li>
+                    <li><a href="/topics/mobile-apps/how-to/">Mobile Apps</a></li>
+                    <li><a href="/topics/phones/how-to/">Phones</a></li>
+                    <li><a href="/topics/photography/how-to/">Photography</a></li>
+                    <li><a href="/topics/security/how-to/">Security</a></li>
+                    <li><a href="/topics/tablets/how-to/">Tablets</a></li>
+                    <li><a href="http://forums.cnet.com/" data-user-action="legacy">Forums</a></li>
+                    <li><a href="/internet-speed-test/" data-vanity-rewritten="true">Speed Test</a></li>
+                    <li><a href="/topics/wearable-tech/how-to/">Wearable Tech</a></li>
+                </ul></nav><!--[if lt IE 9]>
+            <noscript></div></noscript>
+            <![endif]--></div>
+    </div>
+    <div class="menu" id="download">
+        <a class="menuHead" href="http://www.download.com" data-user-action="legacy" data-component="trackDownload">Download</a>
+    </div>
+
+    
+    
+<div id="headerLogin" class="menu single" data-component="touchMenuHover">
+    <div class="menuHead" data-trigger="menu">
+        <span data-user-var="userName">Log In / Join</span>
+        <div class="user-avatar" data-user-var="avatar"></div>
+    </div>
+    <div class="menuWrapper">
+        <!--[if lt IE 9]>
+        <noscript><div class="navTag"></noscript>
+        <![endif]-->
+        <nav><ul class="topCategories logged-out"><li>
+                    <a data-user-show='{"action":"login","params":{"appId":376},"suppressReload":true}'>Log In to CNET</a>
+                </li>
+                <li class="social-login">
+                    <span class="sign-in-with">Sign In with</span>
+                                            <span class="social-site sa-facebook" data-user-social='{"socialSite":"facebook","action":"login","params":{"appId":376}}'>Facebook</span>
+                                            <span class="social-site sa-googleplus" data-user-social='{"socialSite":"googleplus","action":"login","params":{"appId":376}}'>Googleplus</span>
+                                            <span class="social-site sa-yahoo" data-user-social='{"socialSite":"yahoo","action":"login","params":{"appId":376}}'>Yahoo</span>
+                                    </li>
+                <li>
+                    <a data-user-show='{"action":"register","params":{"appId":376}}'>Join CNET</a>
+                </li>
+                <li><a href="/user/join-cnet/">Member Benefits</a></li>
+            </ul><ul class="topCategories logged-in"><li class="social-login">
+                    <span>
+                                            <span class="social-site sa-facebook" data-user-link="facebook">Facebook</span>
+                                            <span class="social-site sa-googleplus" data-user-link="googleplus">Googleplus</span>
+                                            <span class="social-site sa-yahoo" data-user-link="yahoo">Yahoo</span>
+                                        </span>
+                </li>
+                <li><a data-user-var="profileLink" data-template="/profiles/__username__/">My Profile</a></li>
+                <li><a href="/user/logout/" data-user-action="logout" data-user-suppress-refresh="true">Log Out</a></li>
+            </ul></nav><!--[if lt IE 9]>
+        <noscript></div></noscript>
+        <![endif]--></div>
+</div>
+
+    
+<div class="menu single" id="editionMenu" data-component="touchMenuHover">
+    <span class="menuHead" data-trigger="menu"><span id="selectedEdition">US</span> Edition</span>
+    <div class="menuWrapper">
+        <!--[if lt IE 9]>
+        <noscript><div class="navTag"></noscript>
+        <![endif]-->
+        <nav><ul class="topCategories" data-component="editionToggler"><li class="hed">Other editions</li>
+                                                    <li><a data-edition="uk" href="/uk/news/uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown/">United Kingdom</a></li>
+                                                    <li><a data-edition="au" href="/au/news/uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown/">Australia</a></li>
+                                <li><a target="_blank" href="http://www.cnetnews.com.cn/">China</a></li>
+                <li><a target="_blank" href="http://www.cnetfrance.fr/">France</a></li>
+                <li><a target="_blank" href="http://www.cnet.de/">Germany</a></li>
+                <li><a target="_blank" href="http://japan.cnet.com/">Japan</a></li>
+                <li><a target="_blank" href="http://www.cnet.co.kr/">Korea</a></li>
+                                    <li><a data-edition="es" href="/es/">CNET en Español</a></li>
+                            </ul></nav><!--[if lt IE 9]>
+        <noscript></div></noscript>
+        <![endif]--></div>
+</div>
+</nav></div>
+        </div>
+    </header><div id="intromercial-5510bdda0f822" class="ad-intromercial" data-ad="intromercial">
+    <script>
+        window.console && console.log && console.log("ADS: queuing intromercial-5510bdda0f822 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("intromercial-5510bdda0f822");
+            </script></div>            
+                            <div id="rbContent" class="                    ">
+                    <div data-toc-item="0bbef35b-0b89-400f-8262-e9bb40cadda3">
+                        
+                            <div id="rbSkin" data-article-num="1">
+            <span id="adSkinLeft"></span>
+            <span id="adSkinRight"></span>
+            
+                                    <div id="skin-5510bdda0f822" class="ad-skin" data-ad="skin">
+    <script>
+        window.console && console.log && console.log("ADS: queuing skin-5510bdda0f822 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("skin-5510bdda0f822");
+            </script></div>            
+                            
+                                        <div id="leader-top-5510bdda0f822" class="ad-leader-top" data-ad="leader-top">
+    <script>
+        window.console && console.log && console.log("ADS: queuing leader-top-5510bdda0f822 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("leader-top-5510bdda0f822");
+                    if(window.CnetPageVars && CnetPageVars.ads) {
+                CnetPageVars.ads.adCount = CnetPageVars.ads.adCount || {};
+                CnetPageVars.ads.adCount.leaderTop = 0;
+
+                CnetPageVars.ads.adScheduledCount = CnetPageVars.ads.adScheduledCount || {};
+                CnetPageVars.ads.adScheduledCount.leaderTop = 0;
+            }
+            </script></div>                                
+                            <div class="articleContent container">
+            
+                                    
+                                            <div class="row">
+    <div class="col-8">
+        <ul class="breadcrumb" section="bc"><li>
+                <a href="/">CNET</a>
+                <span class="divider"> </span>
+            </li>
+
+                                                                                        <li>
+                            <a href="/topics/car-tech/">Car Tech</a>
+                            <span class="divider"></span>
+                        </li>
+                                                                                        <li>Uber reaches 4x surge pricing as Sydney faces hostage lockdown</li>
+                    </ul></div>
+</div>
+                                                                    
+                <div class="container">
+    <div class="row">
+                    <div class="row">
+        <div class="col-12">
+                                            <div class="row">
+                                    <div class="col-8">
+                                                    
+                                                        
+                                                
+
+
+        
+    
+    
+    
+<article itemscope itemtype="http://schema.org/Article" id="article-body" section="articleBody"><meta itemprop="thumbnailUrl" content="http://cnet4.cbsistatic.com/hub/i/r/2014/04/30/3012252f-d664-11e3-bddd-d4ae52e62bcc/thumbnail/770x433/e59d7e893a8a4af247483d7216dbf64e/UberX_1.jpg"><meta itemprop="keywords" content="Car Tech, Mobile Apps, Uber"><meta itemprop="url" content="http://www.cnet.com/news/uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown/"><div class="articleHead">
+    <h1 itemprop="headline">Uber reaches 4x surge pricing as Sydney faces hostage lockdown</h1>
+    <p class="article-dek" itemprop="description">As a major hostage operation plays out in the centre of Sydney, Uber briefly reached record surge pricing for rides in the CBD, before changing tack and offering free rides for passengers trying to leave the city.</p>
+
+    
+    <div id="article-info" class="row article-byline" section="author">
+        <ul><li itemscope itemtype="http://schema.org/Person">by
+                                                                                        <a itemprop="name" rel="author" class="author" href="http://www.cnet.com/profiles/claire.reilly/">
+                                Claire Reilly
+                            </a>
+                                            
+                                            <span class="asset-twitter">
+                            <a target="_blank" href="https://twitter.com/intent/user?screen_name=reillystyley" class="twitter-follow-link">
+                                <div class="twitter">
+                                    <div class="icon icon-twitter-red"></div>
+                                </div>
+                            </a>
+                                                            <a target="_blank" href="https://twitter.com/intent/user?screen_name=reillystyley" class="twitter-follow-link">@reillystyley</a>
+                                                    </span>
+                    
+                                                                    </li>
+
+                                                        <li><time itemprop="datePublished" class="2014-12-15 03:16:00">December 14, 2014 7:16 PM PST</time></li>
+            
+                                </ul></div>
+
+
+            
+
+    
+    
+<ul class="sharebar inline-view" data-component="sharebar" data-sharebar-options='{"title":"Uber reaches 4x surge pricing as Sydney faces hostage lockdown","description":"As a major hostage operation plays out in the centre of Sydney, Uber briefly reached record surge pricing for rides in the CBD, before changing tack and offering free rides for passengers trying to leave the city.","url":"http:\/\/www.cnet.com\/news\/uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown\/","data":{"media":"http:\/\/cnet4.cbsistatic.com\/hub\/i\/r\/2014\/04\/30\/3012252f-d664-11e3-bddd-d4ae52e62bcc\/thumbnail\/170x128\/f03f5dd175b2f7809bf7cc2924a70a52\/UberX_1.jpg"}}'><li class="comment-count" data-livefyre-count="0bbef35b-0b89-400f-8262-e9bb40cadda3">
+            <a href="#comments">
+                <div class="social-button-small comments">
+    <div class="icon icon-small-comments">comments</div>
+</div>
+
+                                    <span class="livefyre-commentcount count" data-lf-site-id="311569" data-lf-article-id="0bbef35b-0b89-400f-8262-e9bb40cadda3" data-lf-format="numberOnly">0</span>
+                            </a>
+        </li>
+            
+            <li class="share-button">
+            <a data-popup="facebook" data-counts="">
+                <div class="social-button-small facebook">
+    <div class="icon icon-small-facebook">facebook</div>
+</div>
+
+                <span class="count"></span>
+            </a>
+        </li>
+    
+            <li class="share-button">
+            <a data-popup="twitter" data-counts="">
+                <div class="social-button-small twitter">
+    <div class="icon icon-small-twitter">twitter</div>
+</div>
+
+                <span class="count"></span>
+            </a>
+        </li>
+    
+                             <li class="share-button">
+                <a data-popup="linkedin" data-counts="">
+                    <div class="social-button-small linkedin">
+    <div class="icon icon-small-linkedin">linkedin</div>
+</div>
+
+                    <span class="count"></span>
+                </a>
+            </li>
+            
+            <li class="share-button">
+            <a data-popup="googlePlus">
+                <div class="social-button-small googleplus">
+    <div class="icon icon-small-googleplus">googleplus</div>
+</div>
+
+            </a>
+        </li>
+    
+    <li class="share-button moreButton" data-component="touchMenuHover">
+        <div class="social-button-small more">
+    <div class="icon icon-small-more">more</div>
+</div>
+
+        <span>more</span>
+        <span class="plus">+</span>
+        <div class="hoverWrap">
+            <ul><li class="share-button">
+                    <a data-link="email">
+                        <div class="social-button-small email">
+    <div class="icon icon-small-email">email</div>
+</div>
+
+                    </a>
+                </li>
+                <li class="share-button">
+                    <a data-popup="tumblr">
+                        <div class="social-button-small tumblr">
+    <div class="icon icon-small-tumblr">tumblr</div>
+</div>
+
+                    </a>
+                </li>
+                                <li class="share-button">
+                    <a data-popup="stumbleupon">
+                        <div class="social-button-small stumble">
+    <div class="icon icon-small-stumble">stumble</div>
+</div>
+
+                    </a>
+                </li>
+                <li class="share-button">
+                    <a data-popup="reddit">
+                        <div class="social-button-small reddit">
+    <div class="icon icon-small-reddit">reddit</div>
+</div>
+
+                    </a>
+                </li>
+                                                    <li class="share-button">
+                        <a data-popup="pinterest">
+                            <div class="social-button-small pinterest">
+    <div class="icon icon-small-pinterest">pinterest</div>
+</div>
+
+                        </a>
+                    </li>
+                                <li class="share-button">
+                    <a data-popup="digg">
+                        <div class="social-button-small digg">
+    <div class="icon icon-small-digg">digg</div>
+</div>
+
+                    </a>
+                </li>
+            </ul></div>
+    </li>
+
+            <li id="sponsor_ad" class="sponsor">
+            
+                                    <div id="social-logo-bottom-5510bdda0f822" class="ad-social-logo-bottom" data-ad="social-logo-bottom">
+    <script>
+        window.console && console.log && console.log("ADS: queuing social-logo-bottom-5510bdda0f822 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("social-logo-bottom-5510bdda0f822");
+            </script></div>                    </li>
+    </ul></div>    
+    <div class="article-main-body row" itemprop="articleBody" data-use-autolinker="true" data-component="lazyloadImages">
+                
+                            
+        
+<p> 	<figure class="image pull-right image-medium" section="shortcodeImage"><span class="imageContainer"><img src="http://cnet2.cbsistatic.com/hub/i/r/2014/04/30/3012252f-d664-11e3-bddd-d4ae52e62bcc/resize/370xauto/b865896d79bb76f0f88dd541e39b83d7/UberX_1.jpg" class="" alt="" itemprop="image" height="auto" width="370"></span><figcaption><span class="credit">
+                                            Uber
+                                        </span></figcaption></figure></p><p> 	<strong>Update: </strong><em>After widespread concern on social media today, Uber Sydney has announced rides would be free for passengers leaving the CBD at this time.</em></p><p> 	<strong>Update: </strong><em>Uber is also in the process of refunding customers who were charged for using the service during this period. A spokesperson said "We are in the process of refunding rides. If you have been charged during these hours leaving the CBD please email <a href="mailto:supportsydney@uber.com">supportsydney@uber.com</a>. Please note that surge pricing only remains in place to encourage more drivers to come online and pick up passengers from the area."</em></p><p> 	Uber fares peaked at four times the usual rate in the centre of Sydney today, as the city's CBD faces a lockdown amidst a developing hostage situation.</p><p> 	The centre of Sydney, around the busy Martin Place business district, has been  	<a href="http://www.abc.net.au/news/2014-12-15/hostages-sydney-cafe-martin-place-police-operation/5967232" target="_blank" data-component="externalLink">evacuated and buildings placed in lockdown</a> as members of the public have been held hostage in the central-Sydney Lindt cafe, located next to Martin Place train station. The situation is currently unfolding with police and emergency services on the scene and the closure of surrounding streets and Martin Place station.</p><p> 	Uber instigated surge pricing across the Sydney CBD, marking the upped prices with a lightning bolt icon, with fares quoted at "2.6x the normal rate" from a number of pick-up points in the city.</p>
+                                    <div id="inpage-video-top-5510bdda0f822" class="ad-inpage-video-top" data-ad="inpage-video-top">
+    <script>
+        window.console && console.log && console.log("ADS: queuing inpage-video-top-5510bdda0f822 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("inpage-video-top-5510bdda0f822");
+            </script></div>            <p> 	"Demand is off the charts! Rates have increased to get more Ubers on the road," a message on the app read.</p><p> 	<figure class="image pull-none image-full-width" section="shortcodeImage"><span class="imageContainer"><img src="" class="lazy " alt="sydney-uber-surgemashable.jpg" height="578" width="770" data-original="    http://cnet3.cbsistatic.com/hub/i/r/2014/12/15/6194c0b4-d569-4c76-b478-3957c3e82612/resize/770x578/a3de7f14b27277ff16eba272ecd6f9dc/sydney-uber-surgemashable.jpg"><noscript><img src="http://cnet3.cbsistatic.com/hub/i/r/2014/12/15/6194c0b4-d569-4c76-b478-3957c3e82612/resize/770x578/a3de7f14b27277ff16eba272ecd6f9dc/sydney-uber-surgemashable.jpg" class="" alt="sydney-uber-surgemashable.jpg" itemprop="image" height="578" width="770"></noscript></span><figcaption><span class="caption">Sydneysiders are facing surge pricing to use Uber services.</span><span class="credit"><a href="http://mashable.com/2014/12/14/uber-sydney-surge-pricing/#:eyJzIjoidCIsImkiOiJfZzdtdzIzYXp5Njd2OWZiYiJ9" target="_blank">Mashable</a></span></figcaption></figure></p><p> 	The company later advised its customers that passengers trying to leave the CBD would be able to get free rides using Uber.</p><p> 	</p><blockquote class="twitter-tweet" lang="en"><p>Uber Sydney trips from CBD will be free for riders. Higher rates are still in place to encourage drivers to get into the CBD.</p>— Uber Sydney (@Uber_Sydney) <a href="https://twitter.com/Uber_Sydney/status/544329935943237632">December 15, 2014</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><p> 	During the lunchtime period (at 1:30 p.m. AEDT) the app was quoting a number of base fares, which varied from the minimum fare that the service said it would charge. The base fare for Uber X was quoted as AU$6.50, with a minimum fare of AU$26, while the base fare for Uber Black was quoted at AU$26 with a minimum total fare of AU$65.</p><p> 	<a href="http://mashable.com/2014/12/14/uber-sydney-surge-pricing/#:eyJzIjoidCIsImkiOiJfZzdtdzIzYXp5Njd2OWZiYiJ9" target="_blank" data-component="externalLink">Mashable reported</a> that customers were seeing quoted fares as high as 4 times the regular price, with a minimum fare of AU$100 and a set price of AU$9.59 per kilometre.</p><p> 	The company advised it was increasing pricing to cope with higher demand and that it is bringing more drivers into the city to meet this demand.</p><p> 	Uber Sydney released the following statement on Twitter.</p><p> 	</p><blockquote class="twitter-tweet" lang="en"><p>We are all concerned with events in CBD. Fares have increased to encourage more drivers to come online &amp; pick up passengers in the area.</p>— Uber Sydney (@Uber_Sydney) <a href="https://twitter.com/Uber_Sydney/status/544319760809222144">December 15, 2014</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><p> 	These comments were reiterated in an official statement from the company.</p><p> 	"We are all concerned with the events happening in Sydney," the statement read. "Fares automatically increase when demand exceeds available supply, to encourage more drivers to come online or leave other suburbs to come pick up passengers in areas of high demand. We are keeping partners advised about road closures."</p><p> 	Public transport has been significantly affected by the siege, with buses altering their routes and trains bypassing Martin Place Station. The  	<a href="http://www.transportnsw.info/en/transport-status/index.page?#train-status-updates-item-tab" target="_blank" data-component="externalLink">state transport service has confirmed</a> that a large number of regular services have been affected.</p><p> 	While the company introduces surge pricing during moments of peak demand, the company has also  	<a href="http://blog.uber.com/UberARC" target="_blank" data-component="externalLink">introduced capped pricing in the US</a>, with a national policy that "pricing algorithms will be capped during disasters and relevant states of emergency".</p><p> 	The policy states that, "for each market, the state of emergency price will be set after excluding the 3 highest-priced, non-emergency days of the preceding 2 months".</p><p> 	According to Uber CEO Travis Kalanick, the policy "intends to strike the careful balance between the goal of transportation availability with community expectations of affordability during disasters".</p><p> 	<strong>Updated at 2:22 p.m. AEDT: </strong><em>To include information about free rides for Uber passengers travelling from the Sydney CBD.<br><br></em><strong>Updated at 2:32 p.m. AEDT: </strong><em>To include information about refunds for Uber passengers.</em></p>
+
+        
+        
+
+    </div>
+
+                <footer><div class="row collections-topics-and-tags" section="tag">
+    <dl><dt>
+            <b>Tags: </b>
+        </dt>
+
+        
+                    <dd>
+                <a href="/topics/car-tech/">Car Tech</a>
+            </dd>
+                    <dd>
+                <a href="/topics/mobile-apps/">Mobile Apps</a>
+            </dd>
+        
+                    <dd>
+                <a href="/tags/uber/">Uber</a>
+            </dd>
+        
+    </dl></div>
+            
+
+                
+    
+                    <div data-component="bestFitVideoPromo" data-best-fit-video-promo-options='{"defaultAsset":{"id":"news-video-promo"},"primaryAsset":{"id":""},"abTest":false}'>
+        </div>
+    
+                            
+                        <div class="row about-author" itemscope itemtype="http://schema.org/Person" section="author">
+                <div class="col-8">
+                                                                                        <h6><span>About the author</span></h6>
+                    
+                                            <div class="col-1 profilePic">
+                                                            <a itemprop="name" rel="author" href="/profiles/claire.reilly/">
+                                                
+                                <figure class=" img"><img src="http://cnet3.cbsistatic.com/hub/i/r/2014/05/07/d929d24e-5d18-4341-a6cb-63ccfcc63b38/thumbnail/70x70/06269d8be34c5cb85b1ab2133c1f3d84/clairereilly.jpg" class="" alt="Claire Reilly mugshot" height="70" width="70"></figure></a>
+                                                    </div>
+                    
+                    <div class="col-7 author-info">
+                        <div class="row author-details">
+                            <span class="author-name">
+                                                                    <a itemprop="name" rel="author" class="authors" href="/profiles/claire.reilly/">Claire Reilly</a>
+                                                            </span>
+
+                                                            <span class="author-social">
+                                    <ul class="author-social"><li><a target="_blank" href="https://twitter.com/intent/user?screen_name=reillystyley" id="twitter-circle">
+                                            <div class="social-button-small twitter">
+    <div class="icon icon-small-twitter">twitter</div>
+</div>
+</a></li>
+                                        
+                                        
+                                                                            </ul></span>
+                            
+                                                            <div class="row author-bio">
+                                    <p class="shortBio">
+                                        Claire Reilly is CNET's news writer based in Sydney, Australia. When she's not breaking stories, she's a part-time Simpsons guru, hair metal enthusiast and blue cheese aficionado.
+                                                                                    <a rel="author" href="/profiles/claire.reilly/">
+                                                See full bio
+                                            </a>
+                                                                            </p>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+                        
+            
+                            <div class="yad-magnet yad-uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown" data-component="yahooAdSearch" data-yahoo-ad-search-options='{"yahooId":"6260d330-5e03-3d07-8454-5329587c1b5f","yahooSelector":".yad-uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown","ftag":"YHRbd38a98"}'></div>
+                    </footer></article><!-- Ad: Removed: ad_name "inline_product_carousel_top" was removed --><div id="info-board-top-5510bdda0f822" class="ad-info-board-top" data-ad="info-board-top">
+    <script>
+        window.console && console.log && console.log("ADS: queuing info-board-top-5510bdda0f822 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("info-board-top-5510bdda0f822");
+            </script></div>                                                                                            
+                                                        
+                                                        <div class="collapsible" data-component="toggle" data-toggle-options='{"openOnInit":true}'>
+            
+<!-- General comments -->
+<div id="livefyreContainer-0bbef35b-0b89-400f-8262-e9bb40cadda3" class="livefyreContainer">
+    <a name="comments" class="livefyreJumpTarget"> </a>
+    <h3><span>Discuss Uber reaches 4x surge pricing as Sydney faces hostage lockdown</span></h3>
+
+    
+            <div id="livefyreConversation-0bbef35b-0b89-400f-8262-e9bb40cadda3" class="livefyreConversation" data-component="livefyreConversation" data-livefyre-conversation-options='{"globalConfig":{"network":"cnet.fyre.co"},"commentStreamConfigs":{"initialNumVisible":3,"maxVisible":3,"siteId":311569,"articleId":"0bbef35b-0b89-400f-8262-e9bb40cadda3","el":"livefyreConversation-0bbef35b-0b89-400f-8262-e9bb40cadda3","checksum":"5697209123557d363b2df06546514f87","collectionMeta":"eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IlViZXIgcmVhY2hlcyA0eCBzdXJnZSBwcmljaW5nIGFzIFN5ZG5leSBmYWNlcyBob3N0YWdlIGxvY2tkb3duIiwidXJsIjoiaHR0cDpcL1wvd3d3LmNuZXQuY29tXC9uZXdzXC91YmVyLXJlYWNoZXMtNHgtc3VyZ2UtcHJpY2luZy1hcy1zeWRuZXktZmFjZXMtaG9zdGFnZS1sb2NrZG93blwvIiwiY2hlY2tzdW0iOiI1Njk3MjA5MTIzNTU3ZDM2M2IyZGYwNjU0NjUxNGY4NyIsImFydGljbGVJZCI6IjBiYmVmMzViLTBiODktNDAwZi04MjYyLWU5YmI0MGNhZGRhMyJ9.-5KFs_WtwFWfb4CGDyXEZTMKxvKTzY7SioLP5tFU0QY"},"profileURL":"\/profiles\/%7Busername%7D\/"}'></div>
+    
+    <div class="livefyreFooter">
+                <p class="livefyrePowered">Conversation powered by Livefyre</p>
+    </div>
+</div>
+
+            <div class="toggleComments" data-item="trigger">
+                <span class="showComments">Show Comments</span>
+                <span class="hideComments">Hide Comments</span>
+            </div>
+        </div>
+    
+<div class="fixate-bottom-anchor"></div>
+                                                                    </div>
+            <div class="col-4">
+                                                    
+                                                        
+                                            
+    
+<div class="tocfixate" data-component="fixate" data-fixate-options='{"offset":{"top":90,"bottom":0,"topPlus":90},"guideTopPlus":"[data-toc-item=\u00270bbef35b-0b89-400f-8262-e9bb40cadda3\u0027] .breadcrumb","guideLeft":"[data-toc-item=\u00270bbef35b-0b89-400f-8262-e9bb40cadda3\u0027] .container .col-12 &gt; .row &gt; .col-8","guideBottom":"[data-toc-item=\u00270bbef35b-0b89-400f-8262-e9bb40cadda3\u0027] .fixate-bottom-anchor"}'>
+        <div class="tocWrapper" data-toc="wrapper">
+        <div class="toc" data-toc="container" data-component="toc">
+
+                                                                                                
+                                
+                                                                                                            <h5><span>This</span>
+                                                                                                Week's
+                                                                                                Must
+                                                                                                Reads</h5>
+                                                            
+                                                    <div class="item current" data-toc="item" section="TOC.1">
+                        <div class="progressContainer"></div>
+                        <a class="title" data-goto="0bbef35b-0b89-400f-8262-e9bb40cadda3" data-url="/news/uber-reaches-4x-surge-pricing-as-sydney-faces-hostage-lockdown/">
+
+                            <div class="col-1">
+                                <div class="progress">1</div>
+                            </div>
+
+                            <div class="col-3">
+                                <div class="hed">Uber reaches 4x surge pricing as Sydney faces hostage lockdown</div>
+
+                                                                                                    <span class="topic">Car Tech</span>
+                                                            </div>
+                        </a>
+                    </div>
+
+                                                                            <div class="item" data-toc="item" section="TOC.2">
+                        <div class="progressContainer"></div>
+                        <a class="title" data-goto="283f4251-a24f-4e12-baed-910ebfa98423" data-url="/news/for-sofia-vergaras-modern-family-a-modern-home/">
+
+                            <div class="col-1">
+                                <div class="progress">2</div>
+                            </div>
+
+                            <div class="col-3">
+                                <div class="hed">For Sofia Vergara's modern family, a modern home</div>
+
+                                                                                                    <span class="topic">Home Entertainment</span>
+                                                            </div>
+                        </a>
+                    </div>
+
+                                                                            <div class="item" data-toc="item" section="TOC.3">
+                        <div class="progressContainer"></div>
+                        <a class="title" data-goto="e339a66b-e25a-4628-a6b6-bd65511777fa" data-url="/news/thoughts-from-a-curious-mind-with-brian-grazer/">
+
+                            <div class="col-1">
+                                <div class="progress">3</div>
+                            </div>
+
+                            <div class="col-3">
+                                <div class="hed">Thoughts from a curious mind</div>
+
+                                                                                                    <span class="topic">Tech Culture</span>
+                                                            </div>
+                        </a>
+                    </div>
+
+                                                                            <div class="item" data-toc="item" section="TOC.4">
+                        <div class="progressContainer"></div>
+                        <a class="title" data-goto="7789fa8c-f286-4643-addd-26c86dbc28b2" data-url="/how-to/what-to-consider-before-canceling-cable-cutting-cord/">
+
+                            <div class="col-1">
+                                <div class="progress">4</div>
+                            </div>
+
+                            <div class="col-3">
+                                <div class="hed">7 things to consider before canceling cable</div>
+
+                                                                                                    <span class="topic">Home Entertainment</span>
+                                                            </div>
+                        </a>
+                    </div>
+
+                                                                            <div class="item last" data-toc="item" section="TOC.5">
+                        <div class="progressContainer"></div>
+                        <a class="title" data-goto="3ac1da46-e39c-4e49-97c6-4f3a9b659846" data-url="/news/t-mobile-will-buy-your-att-or-verizon-smartphone-whats-the-catch/">
+
+                            <div class="col-1">
+                                <div class="progress">5</div>
+                            </div>
+
+                            <div class="col-3">
+                                <div class="hed">T-Mobile will buy your AT&amp;T or Verizon smartphone. What's the catch?</div>
+
+                                                                                                    <span class="topic">Mobile</span>
+                                                            </div>
+                        </a>
+                    </div>
+
+                                                                            </div>
+    </div>
+
+    
+                                        <div id="mpu-plus-top-5510bdda0f822" class="ad-mpu-plus-top" data-ad="mpu-plus-top">
+    <script>
+        window.console && console.log && console.log("ADS: queuing mpu-plus-top-5510bdda0f822 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("mpu-plus-top-5510bdda0f822");
+                    if(window.CnetPageVars && CnetPageVars.ads) {
+                CnetPageVars.ads.adCount = CnetPageVars.ads.adCount || {};
+                CnetPageVars.ads.adCount.mpuTop = 0;
+
+                CnetPageVars.ads.adScheduledCount = CnetPageVars.ads.adScheduledCount || {};
+                CnetPageVars.ads.adScheduledCount.mpuTop = 0;
+            }
+            </script></div>            </div>
+                                                                    </div>
+                                </div>
+                        </div>
+            </div>
+                <div class="row">
+        <div class="col-12">
+                                                    
+                                                        
+                                            
+                                    <div id="leader-bottom-5510bdda0f822" class="ad-leader-bottom" data-ad="leader-bottom">
+    <script>
+        window.console && console.log && console.log("ADS: queuing leader-bottom-5510bdda0f822 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("leader-bottom-5510bdda0f822");
+            </script></div>                                                                                            
+                                                        
+                                            
+<!--[if lt IE 9]> <noscript> <div class="sectionTag fullWidthSixAssets"> </noscript> <![endif]-->
+<section class="fullWidthSixAssets" section="fullWidthSixAssets" data-component="lazyloadImages"><div class="col-12 items">
+        <h5><span>Latest Galleries from CNET</span></h5>
+
+        
+                    
+            <div class="col-2">
+                                
+                <a href="/pictures/2015-mercedes-benz-c350e-plug-in-hybrid-pictures/" data-component="imageGalleryModal" class="item imageLinkWrapper" target="_blank">
+                    <div class="image">
+                                                            
+                                <figure class=" img"><img src="" class="lazy " alt="" height="128" width="170" data-original="    http://cnet3.cbsistatic.com/hub/i/r/2015/03/20/1dfb7ff4-3e98-49c2-9201-6d0bf0039141/thumbnail/170x128/98110f0613c27a698dd38c69064cf56d/mercedes-benzc350e-85.jpg"><noscript><img src="http://cnet3.cbsistatic.com/hub/i/r/2015/03/20/1dfb7ff4-3e98-49c2-9201-6d0bf0039141/thumbnail/170x128/98110f0613c27a698dd38c69064cf56d/mercedes-benzc350e-85.jpg" class="" alt="" height="128" width="170"></noscript></figure><div class="dek">2016 Mercedes-Benz C350e plug-in hybrid (pictures) </div>
+                    </div>
+                </a>
+            </div>
+
+            
+                    
+            <div class="col-2">
+                                
+                <a href="/pictures/up-close-with-the-luxury-titanium-breitling-b55-connected-watch-pictures/" data-component="imageGalleryModal" class="item imageLinkWrapper" target="_blank">
+                    <div class="image">
+                                                            
+                                <figure class=" img"><img src="" class="lazy " alt="" height="128" width="170" data-original="    http://cnet3.cbsistatic.com/hub/i/r/2015/03/23/0d0fca20-a335-4c1c-ae60-d8df10ecc061/thumbnail/170x128/b9c98db97ef99fc5678a13016a4eaf0c/breitling-b55-connected-basel.jpg"><noscript><img src="http://cnet3.cbsistatic.com/hub/i/r/2015/03/23/0d0fca20-a335-4c1c-ae60-d8df10ecc061/thumbnail/170x128/b9c98db97ef99fc5678a13016a4eaf0c/breitling-b55-connected-basel.jpg" class="" alt="" height="128" width="170"></noscript></figure><div class="dek">Up close with the luxury, titanium Breitling B55 Connected watch (pictures) </div>
+                    </div>
+                </a>
+            </div>
+
+            
+                    
+            <div class="col-2">
+                                
+                <a href="/pictures/the-ostentatious-oddities-of-the-baselworld-luxury-watch-fair-pictures/" data-component="imageGalleryModal" class="item imageLinkWrapper" target="_blank">
+                    <div class="image">
+                                                            
+                                <figure class=" img"><img src="" class="lazy " alt="" height="128" width="170" data-original="    http://cnet1.cbsistatic.com/hub/i/r/2015/03/23/fb1fc0c7-0241-4ba5-8611-82d9978168b6/thumbnail/170x128/348616afe91df1364ed4efed05245c72/baselworld-behind-scenes-weird.jpg"><noscript><img src="http://cnet1.cbsistatic.com/hub/i/r/2015/03/23/fb1fc0c7-0241-4ba5-8611-82d9978168b6/thumbnail/170x128/348616afe91df1364ed4efed05245c72/baselworld-behind-scenes-weird.jpg" class="" alt="" height="128" width="170"></noscript></figure><div class="dek">The ostentatious oddities of the Baselworld luxury watch fair (pictures) </div>
+                    </div>
+                </a>
+            </div>
+
+            
+                    
+            <div class="col-2">
+                                
+                <a href="/pictures/the-audiophiliacs-top-10-best-sounding-bookshelf-speakers-pictures/" data-component="imageGalleryModal" class="item imageLinkWrapper" target="_blank">
+                    <div class="image">
+                                                            
+                                <figure class=" img"><img src="" class="lazy " alt="" height="128" width="170" data-original="    http://cnet2.cbsistatic.com/hub/i/r/2015/03/19/4e7275e3-e87f-4fd7-9604-ebad4265a6dc/thumbnail/170x128/8bf2492b2b04bedd41dea1977a4631e0/685-black-ashoff.jpg"><noscript><img src="http://cnet2.cbsistatic.com/hub/i/r/2015/03/19/4e7275e3-e87f-4fd7-9604-ebad4265a6dc/thumbnail/170x128/8bf2492b2b04bedd41dea1977a4631e0/685-black-ashoff.jpg" class="" alt="" height="128" width="170"></noscript></figure><div class="dek">The Audiophiliac's top 10 best-sounding bookshelf speakers (pictures) </div>
+                    </div>
+                </a>
+            </div>
+
+            
+                    
+            <div class="col-2">
+                                
+                <a href="/pictures/chores-we-wish-robots-could-conquer/" data-component="imageGalleryModal" class="item imageLinkWrapper" target="_blank">
+                    <div class="image">
+                                                            
+                                <figure class=" img"><img src="" class="lazy " alt="" height="128" width="170" data-original="    http://cnet3.cbsistatic.com/hub/i/r/2014/09/04/44ccc93a-bccc-46f0-8a7b-46f062fec86b/thumbnail/170x128/35958b40347bf3b2eb51125a50c3678a/dyson-360-eye-10.jpg"><noscript><img src="http://cnet3.cbsistatic.com/hub/i/r/2014/09/04/44ccc93a-bccc-46f0-8a7b-46f062fec86b/thumbnail/170x128/35958b40347bf3b2eb51125a50c3678a/dyson-360-eye-10.jpg" class="" alt="" height="128" width="170"></noscript></figure><div class="dek">12 chores we wish robots could conquer (pictures) </div>
+                    </div>
+                </a>
+            </div>
+
+            
+                    
+            <div class="col-2">
+                                                    
+                                    <div id="video-thumbnail-top-5510bdda0f822" class="ad-video-thumbnail-top" data-ad="video-thumbnail-top">
+    <script>
+        window.console && console.log && console.log("ADS: queuing video-thumbnail-top-5510bdda0f822 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("video-thumbnail-top-5510bdda0f822");
+            </script></div>                            
+                <a href="/pictures/tablets-on-tap-for-spring-2015/" data-component="imageGalleryModal" class="item imageLinkWrapper altContent" target="_blank">
+                    <div class="image">
+                                                            
+                                <figure class=" img"><img src="" class="lazy " alt="" height="128" width="170" data-original="    http://cnet1.cbsistatic.com/hub/i/r/2015/03/02/8ec6aa99-bc29-42cb-8c02-1232e7d50957/thumbnail/170x128/2d35dea58e963c07c0db15832784c510/jolla-tablet-mwc-2015-4.jpg"><noscript><img src="http://cnet1.cbsistatic.com/hub/i/r/2015/03/02/8ec6aa99-bc29-42cb-8c02-1232e7d50957/thumbnail/170x128/2d35dea58e963c07c0db15832784c510/jolla-tablet-mwc-2015-4.jpg" class="" alt="" height="128" width="170"></noscript></figure><div class="dek">Tablets on tap for Spring 2015 </div>
+                    </div>
+                </a>
+            </div>
+
+            
+            </div>
+</section><!--[if lt IE 9]> <noscript></div></noscript> <![endif]--></div>
+            </div>
+        </div>
+</div>
+
+
+
+                            </div>
+            
+                            </div>
+            </div>
+
+            </div>
+
+            
+                            <div id="breaking-news" data-component="breakingNews"></div>
+            
+                                                    
+<footer id="rbFooter"><div id="footerCopyright" class="col-12">
+        <span class="copyright">© CBS Interactive Inc.  /  All Rights Reserved.</span>
+        <div id="legal">
+            <a href="http://legalterms.cbsinteractive.com/privacy" rel="nofollow">Privacy Policy</a>
+            <a href="http://legalterms.cbsinteractive.com/adchoice" rel="nofollow">Ad Choice</a>
+            <a href="http://legalterms.cbsinteractive.com/terms-of-use" rel="nofollow">Terms of Use</a>
+            <a href="http://legalterms.cbsinteractive.com/eula" rel="nofollow">Mobile User Agreement</a>
+        </div>
+    </div>
+
+    <div class="container">
+        
+                                    <div id="dynamic-text-link-top-5510bdda0f822" class="ad-dynamic-text-link-top" data-ad="dynamic-text-link-top">
+    <script>
+        window.console && console.log && console.log("ADS: queuing dynamic-text-link-top-5510bdda0f822 for display");
+        var cbsiGptDivIds = cbsiGptDivIds || [];
+        cbsiGptDivIds.push("dynamic-text-link-top-5510bdda0f822");
+            </script></div>                </div>
+
+    <nav id="footerMap" class="container"><ul class="col-2 first"><li><a href="/">cnet</a></li>
+        </ul><ul class="col-2"><li class="section">Reviews</li>
+            <li><a href="/reviews/">All Reviews</a></li>
+            <li><a href="/topics/audio/">Audio</a></li>
+            <li><a href="/topics/cameras/">Cameras</a></li>
+            <li><a href="/topics/car-tech/">Car Tech</a></li>
+            <li><a href="/topics/desktops/">Desktops</a></li>
+            <li><a href="/topics/laptops/">Laptops</a></li>
+            <li><a href="/topics/phones/">Phones</a></li>
+            <li><a href="/topics/tablets/">Tablets</a></li>
+            <li><a href="/topics/tvs/">TVs</a></li>
+        </ul><ul class="col-2"><li class="section">News</li>
+            <li><a href="/news/">All News</a></li>
+            <li><a href="/apple/" data-vanity-rewritten="true">Apple</a></li>
+            <li><a href="/crave/" data-vanity-rewritten="true">Crave</a></li>
+            <li><a href="/topics/internet/" data-vanity-rewritten="true">Internet</a></li>
+            <li><a href="/tags/microsoft/">Microsoft</a></li>
+            <li><a href="/topics/mobile/" data-vanity-rewritten="true">Mobile</a></li>
+            <li><a href="/topics/sci-tech/" data-vanity-rewritten="true">Sci-Tech</a></li>
+            <li><a href="/topics/security/" data-vanity-rewritten="true">Security</a></li>
+            <li><a href="/topics/tech-industry/" data-vanity-rewritten="true">Tech Industry</a></li>
+        </ul><ul class="col-2"><li class="section">Video</li>
+            <li><a href="/videos/">All Video</a></li>
+            <li><a href="/apple-byte/" data-vanity-rewritten="true">Apple Byte</a></li>
+            <li><a href="/cnet-on-cars/" data-vanity-rewritten="true">CNET On Cars</a></li>
+            <li><a href="/cnet-top-5/" data-vanity-rewritten="true">CNET Top 5</a></li>
+            <li><a href="/cnet-update/" data-vanity-rewritten="true">CNET Update</a></li>
+            <li><a href="/next-big-thing/" data-vanity-rewritten="true">Next Big Thing</a></li>
+            <li><a href="/the-404/" data-vanity-rewritten="true">The 404</a></li>
+            <li><a href="/the-fix/" data-vanity-rewritten="true">The Fix</a></li>
+            <li><a href="/xcar/" data-vanity-rewritten="true">XCAR</a></li>
+        </ul><ul class="col-2" data-component="mobileFooterLink"><li class="section">More</li>
+            <li><a href="http://www.cbsinteractive.com/">About CBS Interactive</a></li>
+            <li><a href="/about/" data-vanity-rewritten="true">About CNET</a></li>
+            <li><a href="/cnet100/">CNET 100</a></li>
+                            <li><a href="/deals/">CNET Deals</a></li>
+                        <li><a href="http://forums.cnet.com/">CNET Forums</a></li>
+            <li><a href="http://subscribe.cnet.com/magazine/subscribe/">CNET Magazine</a></li>
+            <li><a href="/news/mobile/" data-vanity-rewritten="true">CNET Mobile</a></li>
+            <li><a href="https://cbsi.secure.force.com/CBSi/knowledgehome?referer=cnet.com">Help Center</a></li>
+            <li><a href="http://reprints.ygsgroup.com/m/cnet/">Permissions</a></li>
+        </ul><ul class="col-2 last"><li class="section">Follow CNET via...</li>
+            <li><a href="http://www.facebook.com/cnet" class="social-core-facebook">Facebook</a></li>
+            <li><a href="http://twitter.com/cnet" class="social-core-twitter">Twitter</a></li>
+            <li><a href="https://plus.google.com/u/0/105198124856956810263/posts" class="social-core-google">Google+</a></li>
+            <li><a href="http://www.youtube.com/user/CNETTV" class="social-core-youtube">YouTube</a></li>
+            <li><a href="http://www.linkedin.com/today/news.cnet.com" class="social-core-linkedin">LinkedIn</a></li>
+            <li><a href="http://cnet.tumblr.com/" class="social-core-tumblr">Tumblr</a></li>
+            <li><a href="http://pinterest.com/cnet" class="social-core-pinterest">Pinterest</a></li>
+            <li><a href="/user/join-cnet/" class="social-core-newsletters">Newsletters</a></li>
+            <li><a href="/rss/" class="social-core-rss" data-vanity-rewritten="true">RSS</a></li>
+        </ul></nav></footer><!--Visual Revenue Reader Response Tracking Script (v6) --><script type="text/javascript">
+    function vr_init() {
+        $('.load-more').trigger('click');
+    }
+
+    var _vrq = _vrq || [];
+    _vrq.push(['id', 514]);
+    _vrq.push(['automate', false]);
+    _vrq.push(['track', function(){}]);
+    (function(d, a){
+    var s = d.createElement(a),
+    x = d.getElementsByTagName(a)[0];
+    s.async = true;
+    s.src = 'http://a.visualrevenue.com/vrs.js';
+    x.parentNode.insertBefore(s, x);
+    })(document, 'script');
+</script><!-- End of VR RR Tracking Script - All rights reserved --><div data-component="yahooBeacon" data-yahoo-beacon-options='{"yahooId":"3dea089e-a865-35a2-aee5-6271e85057cf","yahooClass":"YAD-3dea089e-a865-35a2-aee5-6271e85057cf"}'></div>
+
+<script type="text/javascript" src="http://cnet1.cbsistatic.com/fly/1145-fly/bundles/cnetjs/js/libs/require-2.1.2.js"></script><script type="text/javascript">
+    require.config({"baseUrl":"\/1145-fly\/bundles\/cnetjs\/js-build","config":{"version":{"fly\/components\/accordion":"1.0","fly\/components\/alert":"1.0","fly\/components\/base":"1.0","fly\/components\/carousel":"1.0","fly\/components\/dropdown":"1.0","fly\/components\/fixate":"1.0","fly\/components\/form-validate":"1.0","fly\/components\/image-gallery":"1.0","fly\/components\/iframe-messenger":"1.0","fly\/components\/livefyre-commentcount":"1.0","fly\/components\/livefyre-conversation":"1.0","fly\/components\/load-more":"1.0","fly\/components\/load-more-scroll":"1.0","fly\/components\/loading":"1.0","fly\/components\/modal":"1.0","fly\/components\/modal-iframe":"1.0","fly\/components\/poll":"1.0","fly\/components\/social-button":"1.0","fly\/components\/social-counts":"1.0","fly\/components\/social-links":"1.0","fly\/components\/tabs":"1.0","fly\/components\/tooltip":"1.0","fly\/components\/video":"1.0","fly\/libs\/easy-xdm":"2.4.19.3","fly\/libs\/jquery.cookie":"1.2","fly\/libs\/jquery.mobile":"1.3.0","fly\/libs\/jquery.throttle-debounce":"1.1","fly\/libs\/jquery.widget":"1.9.2","fly\/libs\/urs":"1.0","fly\/managers\/ad":"1.0","fly\/managers\/components":"1.0","fly\/managers\/cookie":"1.0","fly\/managers\/debug":"1.0","fly\/managers\/geo":"1.0","fly\/managers\/gpt":"4.0","fly\/managers\/history":"1.0","fly\/managers\/madison":"1.0","fly\/managers\/social-authentication":"1.0","fly\/managers\/user":"1.0","fly\/utils\/data-prefix":"1.0","fly\/utils\/data-selector":"1.0","fly\/utils\/function-natives":"1.0","fly\/utils\/guid":"1.0","fly\/utils\/jquery-mobile-init":"1.0","fly\/utils\/log":"1.0","fly\/utils\/object-helper":"1.0","fly\/utils\/string-helper":"1.0","fly\/utils\/string-vars":"1.0","fly\/utils\/url-helper":"1.0","libs\/bugsnag":"1.0","libs\/jshashtable":"2.1","libs\/jsonp":"2.4.0","libs\/modernizr.custom":"2.6.2","libs\/jquery\/addthisevent":"1.5.8","libs\/jquery\/appear":"0.3.3","libs\/jquery\/dotdotdot":"1.6.1","libs\/jquery\/flexslider":"2.1","libs\/jquery\/lazyload":"1.9.3","libs\/jquery\/mobile":"1.4.0a1","libs\/jquery\/numberformatter":"1.2.3","libs\/jquery\/placeholder":"0.2.4","libs\/jquery\/scrollbar":"0.2.4.custom","libs\/jquery\/tablesorter":"2.0.5","libs\/jquery\/ui\/jquery.ui.core":"1.9.2","libs\/jquery\/ui\/jquery.ui.draggable":"1.9.2","libs\/jquery\/ui\/jquery.ui.mouse":"1.9.2","libs\/jquery\/ui\/jquery.ui.position":"1.9.2","libs\/jquery\/ui\/jquery.ui.slider":"1.9.2","libs\/jquery\/ui\/jquery.ui.touch-punch":"0.2.2"}},"shim":{"version!fly\/libs\/jquery.mobile":["version!fly\/utils\/jquery-mobile-init"],"version!libs\/jquery\/appear":["jquery"],"version!libs\/jquery\/dotdotdot":["jquery"],"version!libs\/jquery\/flexslider":["jquery"],"version!libs\/jquery\/lazyload":["jquery"],"version!libs\/jquery\/numberformatter":["jquery","version!libs\/jshashtable"],"version!libs\/jquery\/placeholder":["jquery"],"version!libs\/jquery\/scrollbar":["jquery"],"version!libs\/jquery\/tablesorter":["jquery"],"version!libs\/jquery\/ui\/jquery.ui.core":["jquery"],"version!libs\/jquery\/ui\/jquery.ui.draggable":["jquery","version!libs\/jquery\/ui\/jquery.ui.core","version!fly\/libs\/jquery.widget","version!libs\/jquery\/ui\/jquery.ui.mouse"],"version!libs\/jquery\/ui\/jquery.ui.mouse":["jquery","version!libs\/jquery\/ui\/jquery.ui.core","version!fly\/libs\/jquery.widget"],"version!libs\/jquery\/ui\/jquery.ui.position":["jquery","version!libs\/jquery\/ui\/jquery.ui.core","version!fly\/libs\/jquery.widget"],"version!libs\/jquery\/ui\/jquery.ui.slider":["jquery","version!libs\/jquery\/ui\/jquery.ui.core","version!fly\/libs\/jquery.widget","version!libs\/jquery\/ui\/jquery.ui.mouse","version!libs\/jquery\/ui\/jquery.ui.touch-punch"],"version!libs\/jquery\/ui\/jquery.ui.touch-punch":["jquery","version!libs\/jquery\/ui\/jquery.ui.core","version!fly\/libs\/jquery.widget","version!libs\/jquery\/ui\/jquery.ui.mouse"],"version!libs\/jsonp":["jquery"],"tealium":["jquery"]},"map":{"*":{"anonc":"\/\/dw.cbsi.com\/anonc.js","google-csa":"\/\/www.google.com\/adsense\/search\/async-ads.js","gpt":"\/\/www.googletagservices.com\/tag\/js\/gpt.js","linked-in":"\/\/platform.linkedin.com\/in.js","livefyre":"\/\/zor.livefyre.com\/wjs\/v3.0\/javascripts\/livefyre.js","livefyre-commentcount":"\/\/zor.livefyre.com\/wjs\/v1.0\/javascripts\/CommentCount.js","mpx":"http:\/\/cnet3.cbsistatic.com\/fly\/bundles\/cnetmpxpdk\/pdk\/tpPdk_5_5_7.js","nrelate":"http:\/\/static2.nrcdn.com\/common_js\/0.52.0\/nr_loader.min.js","pinterest":"\/\/assets.pinterest.com\/js\/pinit.js","recaptcha":"http:\/\/www.google.com\/recaptcha\/api\/js\/recaptcha_ajax.js","sharethrough":"\/\/native.sharethrough.com\/assets\/tag.js","tealium":"\/\/tags.tiqcdn.com\/utag\/cbsi\/cnetglobalsite\/prod\/utag.js","twitter":"\/\/platform.twitter.com\/widgets.js","urs":"http:\/\/cn.cbsimg.net\/cnwk.1d\/Aud\/javascript\/urs.js","yahooAds":"https:\/\/s.yimg.com\/uq\/syndication\/yad.js","yahooMultiAds":"https:\/\/s.yimg.com\/uv\/dm\/scripts\/syndication.js"}}});
+                                        require(['http://cnet4.cbsistatic.com/fly/1145-fly/bundles/cnetjs/js-build/main.common.js']);
+                        </script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"252d33b7c9","applicationID":"3674670","transactionName":"Y1xRYUdUX0ICUUxaDloWclZBXF5fTFNKRwhXVVZqRlxfVg9XFkYS","queueTime":0,"applicationTime":503,"ttGuid":"","agentToken":"","atts":"TxtGFw9OTB1BUxoJGklE","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script></body></html>

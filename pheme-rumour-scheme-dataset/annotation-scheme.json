@@ -1,0 +1,9 @@
+# Tweet Threads
+{"threadid":"int","type":["rumour","non-rumour"],"category":"string","rumour-type":["misinformation","disinformation","speculation","controversy"],"url":"string"}
+
+# Source Tweets
+{"tweetid":"int","threadid":"int","support":["supporting","denying","underspecified"],"certainty":["certain","somewhat-certain","uncertain","underspecified"],"evidentiality":["witnessed","url-given","source-quoted","picture-attached","unverifiable-source-quoted","reasoning","no-evidence"]}
+
+# Replying Tweets
+{"tweetid":"int","threadid":"int","responsetype-vs-source":["agreed","disagreed","appeal-for-more-information","comment"],"responsetype-vs-previous":["agreed","disagreed","appeal-for-more-information","comment"],"certainty":["certain","somewhat-certain","uncertain","underspecified"],"evidentiality":["witnessed","url-given","source-quoted","picture-attached","unverifiable-source-quoted","reasoning","no-evidence"]}
+

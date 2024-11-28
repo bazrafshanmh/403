@@ -1,0 +1,44 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 24 Mar 2015 01:05:12 GMT
+Location: https://au.news.yahoo.com/video/watch/25773418/attack-may-be-apart-of-larger-plot/?cmp=twitter
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Cache-Control: private
+
+HTTP/1.1 404 Not Found
+Date: Tue, 24 Mar 2015 01:05:14 GMT
+Set-Cookie: B=b7tobspah1e2a&b=3&s=s0; expires=Fri, 24-Mar-2017 01:05:14 GMT; path=/; domain=.yahoo.com
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Set-Cookie: tz=d=pMUnBFsHfn.FF4SDk0HHqxEXN9Q1QWE5Th_RnOUC5BFvO3ZKGgj0_3kc3qZKFC9dyfbL41yOPg--&v=1; expires=Fri, 24-Apr-2015 02:05:14 GMT; path=/; domain=au.news.yahoo.com
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Cache-Control: private
+
+<html>
+    <head>
+        <title>404 - Not Found</title>
+        <meta http-equiv="refresh" content="2;url=https://au.search.yahoo.com/404handler?src=newsau&fr=404_news_au&ref=http%3A%2F%2Fau.news.yahoo.com%2Fvideo%2Fwatch%2F25773418%2Fattack-may-be-apart-of-larger-plot%2F%3Fcmp%3Dtwitter&url=http%3A%2F%2Fau.news.yahoo.com%2Fvideo%2Fwatch%2F25773418%2Fattack-may-be-apart-of-larger-plot%2F%3Fcmp%3Dtwitter" />
+    </head>
+    <body>
+        Oooops! Sorry we couldn't find the requested page...now searching for your results!<br>
+        If your browser doesn't automatically redirect you, please <a href="https://au.search.yahoo.com/404handler?src=newsau&fr=404_news_au&ref=http%3A%2F%2Fau.news.yahoo.com%2Fvideo%2Fwatch%2F25773418%2Fattack-may-be-apart-of-larger-plot%2F%3Fcmp%3Dtwitter&url=http%3A%2F%2Fau.news.yahoo.com%2Fvideo%2Fwatch%2F25773418%2Fattack-may-be-apart-of-larger-plot%2F%3Fcmp%3Dtwitter">click here.</a>
+
+        <!-- Yahoo! Web Analytics - All rights reserved -->
+        <script type="text/javascript" src="https://s.yimg.com/mi/ywa.js" </script>
+        <script type="text/javascript">
+            var YWATracker = YWA.getTracker("1000579267015");
+            YWATracker.setDocumentName("newsau");
+            YWATracker.setDocumentGroup("404 Error Page");
+            YWATracker.submit();
+        </script>
+        <noscript>
+            <div><img src="//a.analytics.yahoo.com/p.pl?a=1000579267015&js=no" width="1" height="1" alt="" /></div>
+        </noscript>
+        <!-- End of Yahoo! Web Analytics Code -->
+    </body>
+</html>
+<!-- pres41.news.aue.yahoo.com uncompressed/chunked Tue Mar 24 12:05:14 EST 2015 -->

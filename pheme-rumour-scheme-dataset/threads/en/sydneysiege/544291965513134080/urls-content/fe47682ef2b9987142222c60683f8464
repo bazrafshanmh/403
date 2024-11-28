@@ -1,0 +1,513 @@
+HTTP/1.1 200 OK
+Server: Apache
+X-Content-Type-Options: nosniff
+X-Analytics: page_id=2288777;ns=0
+Content-language: en
+Content-Encoding: gzip
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding,Cookie
+X-Powered-By: HHVM/3.3.1
+Last-Modified: Mon, 23 Mar 2015 22:20:10 GMT
+Content-Type: text/html; charset=UTF-8
+X-Varnish: 2930484431 2930340309, 1044869558 1038689471, 1183036522 1182052365
+Via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+Content-Length: 20278
+Accept-Ranges: bytes
+Date: Tue, 24 Mar 2015 01:10:55 GMT
+Age: 10243
+Connection: keep-alive
+X-Cache: cp1054 hit (4), amssq41 hit (38), amssq41 frontend hit (2)
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Set-Cookie: GeoIP=GB:Warwick:52.2833:-1.5833:v4; Path=/; Domain=.wikipedia.org
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Dunning–Kruger effect - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf21" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Dunning%E2%80%93Kruger_effect" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.flaggedRevs.basic%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.rtlcite%2Cwikihiero%2CwikimediaBadges%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dunning–Kruger_effect","wgTitle":"Dunning–Kruger effect","wgCurRevisionId":653135215,"wgRevisionId":653135215,"wgArticleId":2288777,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia pending changes protected pages (level 1)","Use dmy dates from July 2013","All articles with unsourced statements","Articles with unsourced statements from February 2015","Social science methodology","Social psychology","Cognition","Cognitive biases","1999 introductions","Incompetence"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dunning–Kruger_effect","wgRelevantArticleId":2288777,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr"},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":653135215,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q639444"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Dunning–Kruger_effect skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Dunning–Kruger effect</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><div id="mw-fr-revisiontag" class="flaggedrevs_short plainlinks noprint"><div class="flaggedrevs_short_basic"><img class="flaggedrevs-icon" src="//bits.wikimedia.org/static-1.25wmf21/extensions/FlaggedRevs/frontend/modules/img/doc-magnify.png" alt="Changes must be reviewed before being displayed on this page." title="Changes must be reviewed before being displayed on this page." /><img id="mw-fr-revisiontoggle" class="fr-toggle-arrow" src="//bits.wikimedia.org/static-1.25wmf21/extensions/FlaggedRevs/frontend/modules/img/arrow-down.png" style="display:none;" alt="show/hide details" /></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">This is the <a href="/wiki/Wikipedia:Pending_changes" title="Wikipedia:Pending changes">latest accepted revision</a>, <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Log&amp;type=review&amp;page=Dunning%E2%80%93Kruger_effect">reviewed</a> on <i>23 March 2015</i>.</div>
+</div>
+</div>
+</div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="metadata topicon nopopups" id="protected-icon" style="display:none;right:85px"><a href="/wiki/Wikipedia:Protection_policy#pc1" title="All edits by unregistered and new users are subject to review"><img alt="Page protected with pending changes level 1" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Padlock-silver-light.svg/20px-Padlock-silver-light.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Padlock-silver-light.svg/30px-Padlock-silver-light.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Padlock-silver-light.svg/40px-Padlock-silver-light.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th class="navbox-title" style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Psychology" title="Psychology">Psychology</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;padding-bottom:0;"><a href="/wiki/File:Psi2.svg" class="image" title="The Greek letter 'psi', a symbol for psychology"><img alt="The Greek letter 'psi', a symbol for psychology" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/40px-Psi2.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/60px-Psi2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/80px-Psi2.svg.png 2x" data-file-width="100" data-file-height="100" /></a></td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;padding-bottom:0.35em;">
+<ul>
+<li><a href="/wiki/Outline_of_psychology" title="Outline of psychology">Outline</a></li>
+<li><a href="/wiki/History_of_psychology" title="History of psychology">History</a></li>
+<li><a href="/wiki/Subfields_of_psychology" title="Subfields of psychology">Subfields</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em"><a href="/wiki/Basic_science_(psychology)" title="Basic science (psychology)">Basic types</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.15em 0.5em 0.6em;">
+<ul>
+<li><a href="/wiki/Abnormal_psychology" title="Abnormal psychology">Abnormal</a></li>
+<li><a href="/wiki/Behavioral_neuroscience" title="Behavioral neuroscience">Biological</a></li>
+<li><a href="/wiki/Cognitive_psychology" title="Cognitive psychology">Cognitive</a></li>
+<li><a href="/wiki/Comparative_psychology" title="Comparative psychology">Comparative</a></li>
+<li><a href="/wiki/Cross-cultural_psychology" title="Cross-cultural psychology">Cross-cultural</a></li>
+<li><a href="/wiki/Cultural_psychology" title="Cultural psychology">Cultural</a></li>
+<li><a href="/wiki/Differential_psychology" title="Differential psychology">Differential</a></li>
+<li><a href="/wiki/Developmental_psychology" title="Developmental psychology">Developmental</a></li>
+<li><a href="/wiki/Evolutionary_psychology" title="Evolutionary psychology">Evolutionary</a></li>
+<li><a href="/wiki/Experimental_psychology" title="Experimental psychology">Experimental</a></li>
+<li><a href="/wiki/Mathematical_psychology" title="Mathematical psychology">Mathematical</a></li>
+<li><a href="/wiki/Neuropsychology" title="Neuropsychology">Neuropsychology</a></li>
+<li><a href="/wiki/Personality_psychology" title="Personality psychology">Personality</a></li>
+<li><a href="/wiki/Positive_psychology" title="Positive psychology">Positive</a></li>
+<li><a href="/wiki/Quantitative_psychology" title="Quantitative psychology">Quantitative</a></li>
+<li><a href="/wiki/Social_psychology" title="Social psychology">Social</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em"><a href="/wiki/Applied_psychology" title="Applied psychology">Applied psychology</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.15em 0.5em 0.6em;">
+<ul>
+<li><a href="/wiki/Applied_behavior_analysis" title="Applied behavior analysis">Applied behavior analysis</a></li>
+<li><a href="/wiki/Clinical_psychology" title="Clinical psychology">Clinical</a></li>
+<li><a href="/wiki/Community_psychology" title="Community psychology">Community</a></li>
+<li><a href="/wiki/Consumer_psychology" title="Consumer psychology" class="mw-redirect">Consumer</a></li>
+<li><a href="/wiki/Counseling_psychology" title="Counseling psychology">Counseling</a></li>
+<li><a href="/wiki/Educational_psychology" title="Educational psychology">Educational</a></li>
+<li><a href="/wiki/Environmental_psychology" title="Environmental psychology">Environmental</a></li>
+<li><a href="/wiki/Human_factors_and_ergonomics" title="Human factors and ergonomics">Ergonomics</a></li>
+<li><a href="/wiki/Forensic_psychology" title="Forensic psychology">Forensic</a></li>
+<li><a href="/wiki/Health_psychology" title="Health psychology">Health</a></li>
+<li><a href="/wiki/Humanistic_psychology" title="Humanistic psychology">Humanistic</a></li>
+<li><a href="/wiki/Industrial_and_organizational_psychology" title="Industrial and organizational psychology">Industrial and organizational</a></li>
+<li><a href="/wiki/Ontological_hermeneutics" title="Ontological hermeneutics">Interpretive</a></li>
+<li><a href="/wiki/Legal_psychology" title="Legal psychology">Legal</a></li>
+<li><a href="/wiki/Medical_psychology" title="Medical psychology">Medical</a></li>
+<li><a href="/wiki/Military_psychology" title="Military psychology">Military</a></li>
+<li><a href="/wiki/Music_psychology" title="Music psychology">Music</a></li>
+<li><a href="/wiki/Occupational_health_psychology" title="Occupational health psychology">Occupational health</a></li>
+<li><a href="/wiki/Political_psychology" title="Political psychology">Political</a></li>
+<li><a href="/wiki/Psychology_of_religion" title="Psychology of religion">Religion</a></li>
+<li><a href="/wiki/School_psychology" title="School psychology">School</a></li>
+<li><a href="/wiki/Sport_psychology" title="Sport psychology">Sport</a></li>
+<li><a href="/wiki/Traffic_psychology" title="Traffic psychology">Traffic</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em"><a href="/wiki/Category:Psychology_lists" title="Category:Psychology lists">Lists</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.15em 0.5em 0.6em;">
+<ul>
+<li><a href="/wiki/List_of_psychology_disciplines" title="List of psychology disciplines">Disciplines</a></li>
+<li><a href="/wiki/List_of_psychology_organizations" title="List of psychology organizations">Organizations</a></li>
+<li><a href="/wiki/List_of_psychologists" title="List of psychologists">Psychologists</a></li>
+<li><a href="/wiki/List_of_psychotherapies" title="List of psychotherapies">Psychotherapies</a></li>
+<li><a href="/wiki/List_of_important_publications_in_psychology" title="List of important publications in psychology">Publications</a></li>
+<li><a href="/wiki/List_of_psychological_research_methods" title="List of psychological research methods">Research methods</a></li>
+<li><a href="/wiki/List_of_psychological_schools" title="List of psychological schools">Theories</a></li>
+<li><a href="/wiki/Timeline_of_psychology" title="Timeline of psychology">Timeline</a></li>
+<li><a href="/wiki/Index_of_psychology_articles" title="Index of psychology articles">Topics</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:1px solid #aaa;border-bottom:1px solid #aaa;">
+<ul>
+<li><span class="metadata"><a href="/wiki/File:Psi2.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/16px-Psi2.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/24px-Psi2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/32px-Psi2.svg.png 2x" data-file-width="100" data-file-height="100" /></a></span> <a href="/wiki/Portal:Psychology" title="Portal:Psychology">Psychology portal</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Psychology_sidebar" title="Template:Psychology sidebar"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Psychology_sidebar" title="Template talk:Psychology sidebar"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Psychology_sidebar&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>Dunning–Kruger effect</b> is a <a href="/wiki/Cognitive_bias" title="Cognitive bias">cognitive bias</a> wherein unskilled individuals suffer from <a href="/wiki/Illusory_superiority" title="Illusory superiority">illusory superiority</a>, mistakenly assessing their ability to be much higher than is accurate. This bias is attributed to a <a href="/wiki/Metacognition" title="Metacognition">metacognitive</a> inability of the unskilled to recognize their ineptitude. Conversely, highly skilled individuals tend to underestimate their relative competence, erroneously assuming that tasks which are easy for them are also easy for others.<sup id="cite_ref-Kruger_1-0" class="reference"><a href="#cite_note-Kruger-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>As David Dunning and Justin Kruger of <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a> conclude: "The miscalibration of the incompetent stems from an error about the self, whereas the miscalibration of the highly competent stems from an error about others."<sup id="cite_ref-Kruger_1-1" class="reference"><a href="#cite_note-Kruger-1"><span>[</span>1<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Proposal"><span class="tocnumber">1</span> <span class="toctext">Proposal</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Supporting_studies"><span class="tocnumber">2</span> <span class="toctext">Supporting studies</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Awards"><span class="tocnumber">3</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Historical_antecedents"><span class="tocnumber">4</span> <span class="toctext">Historical antecedents</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Proposal">Proposal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;action=edit&amp;section=1" title="Edit section: Proposal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The phenomenon was first tested in a series of experiments published in 1999 by David Dunning and Justin Kruger of the Department of Psychology, Cornell University.<sup id="cite_ref-Kruger_1-2" class="reference"><a href="#cite_note-Kruger-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-psymq_2-0" class="reference"><a href="#cite_note-psymq-2"><span>[</span>2<span>]</span></a></sup> The study was inspired by the case of McArthur Wheeler, a man who robbed two banks after covering his face with <a href="/wiki/Lemon" title="Lemon">lemon</a> juice in the mistaken belief that, because lemon juice is usable as <a href="/wiki/Invisible_ink" title="Invisible ink">invisible ink</a>, it would prevent his face from being recorded on <a href="/wiki/Closed-circuit_television" title="Closed-circuit television">surveillance cameras</a>.<sup id="cite_ref-post2010_3-0" class="reference"><a href="#cite_note-post2010-3"><span>[</span>3<span>]</span></a></sup> They noted that earlier studies suggested that ignorance of standards of performance lies behind a great deal of incorrect self-assessments of competence. This pattern was seen in studies of skills as diverse as <a href="/wiki/Reading_comprehension" title="Reading comprehension">reading comprehension</a>, operating a motor vehicle, and playing chess or tennis.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2015)">citation needed</span></a></i>]</sup></p>
+<p>Dunning and Kruger proposed that, for a given skill, incompetent people will:<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<ul>
+<li>fail to recognize their own lack of skill</li>
+<li>fail to recognize genuine skill in others</li>
+<li>fail to recognize the extremity of their inadequacy</li>
+<li>recognize and acknowledge their own previous lack of skill, <i>if</i> they are exposed to training for that skill</li>
+</ul>
+<p>Dunning has since drawn an analogy – "the <a href="/wiki/Anosognosia" title="Anosognosia">anosognosia</a> of everyday life" <sup id="cite_ref-morris_5-0" class="reference"><a href="#cite_note-morris-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-selfinsight_6-0" class="reference"><a href="#cite_note-selfinsight-6"><span>[</span>6<span>]</span></a></sup> – with a condition in which a person who suffers a <a href="/wiki/Physical_disability" title="Physical disability">physical disability</a> because of <a href="/wiki/Brain_injury" title="Brain injury">brain injury</a> seems unaware of or denies the existence of the disability, even for dramatic impairments such as <a href="/wiki/Blindness" title="Blindness">blindness</a> or <a href="/wiki/Paralysis" title="Paralysis">paralysis</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2015)">citation needed</span></a></i>]</sup></p>
+<blockquote class="templatequote">
+<p>If you’re incompetent, you can’t know you’re incompetent. […] the skills you need to produce a right answer are exactly the skills you need to recognize what a right answer is.</p>
+<div class="templatequotecite">—David Dunning<sup id="cite_ref-morris_5-1" class="reference"><a href="#cite_note-morris-5"><span>[</span>5<span>]</span></a></sup></div>
+</blockquote>
+<h2><span class="mw-headline" id="Supporting_studies">Supporting studies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;action=edit&amp;section=2" title="Edit section: Supporting studies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dunning and Kruger set out to test these hypotheses on Cornell undergraduates in <a href="/wiki/Psychology" title="Psychology">psychology</a> courses. In a series of studies, they examined the subjects' self-assessment of <a href="/wiki/Logical_reasoning" title="Logical reasoning">logical reasoning</a> skills, <a href="/wiki/Grammar" title="Grammar">grammatical</a> skills, and <a href="/wiki/Humor" title="Humor" class="mw-redirect">humor</a>. After being shown their test scores, the subjects were again asked to estimate their own rank: the competent group accurately estimated their rank, while the incompetent group overestimated theirs. As Dunning and Kruger noted:</p>
+<blockquote>
+<p>Across four studies, the authors found that participants scoring in the bottom quartile on tests of humor, grammar, and logic grossly overestimated their test performance and ability. Although test scores put them in the 12th percentile, they estimated themselves to be in the 62nd.<sup id="cite_ref-Kruger_1-3" class="reference"><a href="#cite_note-Kruger-1"><span>[</span>1<span>]</span></a></sup></p>
+</blockquote>
+<p>Meanwhile, people with true ability tended to underestimate their relative competence. Roughly, participants who found tasks to be easy erroneously assumed, to some extent, that the tasks must also be easy for others.<sup id="cite_ref-Kruger_1-4" class="reference"><a href="#cite_note-Kruger-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>A follow-up study, reported in the same paper, suggests that grossly incompetent students improved their ability to estimate their rank after minimal tutoring in the skills they had previously lacked, regardless of the negligible improvement in actual skills.<sup id="cite_ref-Kruger_1-5" class="reference"><a href="#cite_note-Kruger-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>In 2003, Dunning and Joyce Ehrlinger, also of Cornell University, published a study that detailed a shift in people's views of themselves when influenced by external cues. Participants in the study, Cornell University undergraduates, were given tests of their knowledge of geography, some of the tests intended to affect their self-views positively, some negatively. They were then asked to rate their performance, and those given the positive tests reported significantly better performance than those given the negative.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Daniel Ames and Lara Kammrath extended this work to sensitivity to others and the subjects' perception of how sensitive they were.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>Research conducted by Burson et al. (2006) set out to test one of the core hypotheses put forth by Kruger and Muller in their paper "Unskilled, unaware, or both? The better-than-average heuristic and statistical regression predict errors in estimates of own performance", "that people at all performance levels are equally poor at estimating their relative performance".<sup id="cite_ref-Burson2006_9-0" class="reference"><a href="#cite_note-Burson2006-9"><span>[</span>9<span>]</span></a></sup> To test this hypothesis, the authors investigated three different studies, which all manipulated the "perceived difficulty of the tasks and hence participants’ beliefs about their relative standing".<sup id="cite_ref-Burson2006_9-1" class="reference"><a href="#cite_note-Burson2006-9"><span>[</span>9<span>]</span></a></sup> The authors found that when researchers presented subjects with moderately difficult tasks, the best and the worst performers actually varied little in their ability to accurately predict their performance. Additionally, they found that with more difficult tasks, the best performers were less accurate in predicting their performance than the worst performers. The authors concluded that these findings suggest that "judges at all skill levels are subject to similar degrees of error".<sup id="cite_ref-Burson2006_9-2" class="reference"><a href="#cite_note-Burson2006-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>Ehrlinger et al. (2008) made an attempt to test alternative explanations but came to qualitatively similar conclusions to the original work. The paper concludes that the root cause is that, in contrast to high performers, "poor performers do not learn from feedback suggesting a need to improve".<sup id="cite_ref-unskilledunaware_10-0" class="reference"><a href="#cite_note-unskilledunaware-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Studies on the Dunning–Kruger effect tend to focus on American test subjects. A study on some <a href="/wiki/East_Asia" title="East Asia">East Asian</a> subjects suggested that something like the opposite of the Dunning–Kruger effect may operate on self-assessment and motivation to improve. East Asians tend to underestimate their abilities and see underachievement as a chance to improve themselves and get along with others.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;action=edit&amp;section=3" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dunning and Kruger were awarded the 2000 satirical <a href="/wiki/Ig_Nobel_Prize" title="Ig Nobel Prize">Ig Nobel Prize</a> in Psychology "for their modest report, 'Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments'".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Historical_antecedents">Historical antecedents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;action=edit&amp;section=4" title="Edit section: Historical antecedents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although the Dunning–Kruger effect was formulated in 1999, Dunning and Kruger have noted similar observations by <a href="/wiki/Philosopher" title="Philosopher">philosophers</a> and scientists, including <a href="/wiki/Confucius" title="Confucius">Confucius</a> ("Real knowledge is to know the extent of one's ignorance"),<sup id="cite_ref-psymq_2-1" class="reference"><a href="#cite_note-psymq-2"><span>[</span>2<span>]</span></a></sup> <a href="/wiki/Socrates" title="Socrates">Socrates</a> ("<a href="/wiki/I_know_that_I_know_nothing" title="I know that I know nothing">I know that I know nothing</a>"), <a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a> ("One of the painful things about our time is that those who feel certainty are stupid, and those with any imagination and understanding are filled with doubt and indecision"),<sup id="cite_ref-unskilledunaware_10-1" class="reference"><a href="#cite_note-unskilledunaware-10"><span>[</span>10<span>]</span></a></sup> and <a href="/wiki/Charles_Darwin" title="Charles Darwin">Charles Darwin</a>, whom they quoted in their original paper ("Ignorance more frequently begets confidence than does knowledge").<sup id="cite_ref-Kruger_1-6" class="reference"><a href="#cite_note-Kruger-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Geraint Fuller, commenting on the paper, noted that <a href="/wiki/William_Shakespeare" title="William Shakespeare">Shakespeare</a> expressed a similar sentiment in <i><a href="/wiki/As_You_Like_It" title="As You Like It">As You Like It</a></i> ("The Foole doth thinke he is wise, but the wiseman knowes himselfe to be a Foole" (V.i)).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px">
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:Psi2.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/28px-Psi2.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/42px-Psi2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Psi2.svg/56px-Psi2.svg.png 2x" data-file-width="100" data-file-height="100" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Psychology" title="Portal:Psychology">Psychology portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/Curse_of_knowledge" title="Curse of knowledge">Curse of knowledge</a></li>
+<li><a href="/wiki/Four_stages_of_competence" title="Four stages of competence">Four stages of competence</a></li>
+<li><a href="/wiki/Hanlon%27s_razor" title="Hanlon's razor">Hanlon's razor</a></li>
+<li><a href="/wiki/Impostor_syndrome" title="Impostor syndrome">Impostor syndrome</a></li>
+<li><a href="/wiki/Not_even_wrong" title="Not even wrong">Not even wrong</a></li>
+<li><a href="/wiki/Overconfidence_effect" title="Overconfidence effect">Overconfidence effect</a></li>
+<li><a href="/wiki/Self-efficacy" title="Self-efficacy">Self-efficacy</a></li>
+<li><a href="/wiki/Self-serving_bias" title="Self-serving bias">Self-serving bias</a></li>
+<li><a href="/wiki/Superiority_complex" title="Superiority complex">Superiority complex</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Kruger-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kruger_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kruger_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Kruger_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Kruger_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Kruger_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Kruger_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Kruger_1-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Kruger, Justin; Dunning, David (1999). "Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments". <i><a href="/wiki/Journal_of_Personality_and_Social_Psychology" title="Journal of Personality and Social Psychology">Journal of Personality and Social Psychology</a></i> <b>77</b> (6): 1121–34. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1037%2F0022-3514.77.6.1121">10.1037/0022-3514.77.6.1121</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10626367">10626367</a>. <a href="/wiki/CiteSeer#CiteSeerX" title="CiteSeer">CiteSeerX</a>: <span class="url"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.64.2655">10<wbr />.1<wbr />.1<wbr />.64<wbr />.2655</a></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.atitle=Unskilled+and+Unaware+of+It%3A+How+Difficulties+in+Recognizing+One%27s+Own+Incompetence+Lead+to+Inflated+Self-Assessments&amp;rft.au=Dunning%2C+David&amp;rft.aufirst=Justin&amp;rft.au=Kruger%2C+Justin&amp;rft.aulast=Kruger&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1037%2F0022-3514.77.6.1121&amp;rft_id=info%3Apmid%2F10626367&amp;rft.issue=6&amp;rft.jtitle=Journal+of+Personality+and+Social+Psychology&amp;rft.pages=1121-34&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=77" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-psymq-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-psymq_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-psymq_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Dunning, David; Johnson, Kerri; Ehrlinger, Joyce; Kruger, Justin (2003). <a rel="nofollow" class="external text" href="http://psy.mq.edu.au/vision/~peterw/corella/237/incompetence.pdf">"Why people fail to recognize their own incompetence"</a> (PDF). <i><a href="/wiki/Current_Directions_in_Psychological_Science" title="Current Directions in Psychological Science">Current Directions in Psychological Science</a></i> <b>12</b> (3): 83–87. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2F1467-8721.01235">10.1111/1467-8721.01235</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.atitle=Why+people+fail+to+recognize+their+own+incompetence&amp;rft.au=Dunning%2C+David&amp;rft.au=Ehrlinger%2C+Joyce&amp;rft.aufirst=David&amp;rft.au=Johnson%2C+Kerri&amp;rft.au=Kruger%2C+Justin&amp;rft.aulast=Dunning&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpsy.mq.edu.au%2Fvision%2F~peterw%2Fcorella%2F237%2Fincompetence.pdf&amp;rft_id=info%3Adoi%2F10.1111%2F1467-8721.01235&amp;rft.issue=3&amp;rft.jtitle=Current+Directions+in+Psychological+Science&amp;rft.pages=83-87&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-post2010-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-post2010_3-0">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://nypost.com/2010/05/23/why-losers-have-delusions-of-grandeur/">"Why Losers Have Delusions of Grandeur"</a>. <i><a href="/wiki/New_York_Post" title="New York Post">New York Post</a></i>. 23 May 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">19 March</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.atitle=Why+Losers+Have+Delusions+of+Grandeur&amp;rft.date=23+May+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnypost.com%2F2010%2F05%2F23%2Fwhy-losers-have-delusions-of-grandeur%2F&amp;rft.jtitle=New+York+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web">Lee, Chris (2012-05-25). <a rel="nofollow" class="external text" href="http://arstechnica.com/science/2012/05/revisiting-why-incompetents-think-theyre-awesome/3/">"Revisiting why incompetents think they’re awesome"</a>. <a href="/wiki/Arstechnica.com" title="Arstechnica.com" class="mw-redirect">Arstechnica.com</a>. p.&#160;3<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-11</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.aufirst=Chris&amp;rft.aulast=Lee&amp;rft.au=Lee%2C+Chris&amp;rft.btitle=Revisiting+why+incompetents+think+they%E2%80%99re+awesome&amp;rft.date=2012-05-25&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Farstechnica.com%2Fscience%2F2012%2F05%2Frevisiting-why-incompetents-think-theyre-awesome%2F3%2F&amp;rft.pages=3&amp;rft.pub=Arstechnica.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-morris-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-morris_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-morris_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a href="/wiki/Errol_Morris" title="Errol Morris">Morris, Errol</a> (20 June 2010). <a rel="nofollow" class="external text" href="http://opinionator.blogs.nytimes.com/2010/06/20/the-anosognosics-dilemma-1/">"The Anosognosic's Dilemma: Something's Wrong but You'll Never Know What It Is (Part 1)"</a>. <i><a href="/wiki/New_York_Times" title="New York Times" class="mw-redirect">New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 March</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.atitle=The+Anosognosic%27s+Dilemma%3A+Something%27s+Wrong+but+You%27ll+Never+Know+What+It+Is+%28Part+1%29&amp;rft.aufirst=Errol&amp;rft.aulast=Morris&amp;rft.au=Morris%2C+Errol&amp;rft.date=20+June+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fopinionator.blogs.nytimes.com%2F2010%2F06%2F20%2Fthe-anosognosics-dilemma-1%2F&amp;rft.jtitle=New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-selfinsight-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-selfinsight_6-0">^</a></b></span> <span class="reference-text"><span class="citation book">Dunning, David (2005). <i>Self-Insight: Roadblocks and Detours on the Path to Knowing Thyself (Essays in Social Psychology)</i>. Psychology Press. pp.&#160;14–15. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-84169-074-0" title="Special:BookSources/1-84169-074-0">1-84169-074-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.au=Dunning%2C+David&amp;rft.aufirst=David&amp;rft.aulast=Dunning&amp;rft.btitle=Self-Insight%3A+Roadblocks+and+Detours+on+the+Path+to+Knowing+Thyself+%28Essays+in+Social+Psychology%29&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=1-84169-074-0&amp;rft.pages=14-15&amp;rft.pub=Psychology+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation journal">Ehrlinger, Joyce; Dunning, David (January 2003). "How Chronic Self-Views Influence (and Potentially Mislead) Estimates of Performance". <i><a href="/wiki/Journal_of_Personality_and_Social_Psychology" title="Journal of Personality and Social Psychology">Journal of Personality and Social Psychology</a></i> (<a href="/wiki/American_Psychological_Association" title="American Psychological Association">American Psychological Association</a>) <b>84</b> (1): 5–17. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1037%2F0022-3514.84.1.5">10.1037/0022-3514.84.1.5</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12518967">12518967</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.atitle=How+Chronic+Self-Views+Influence+%28and+Potentially+Mislead%29+Estimates+of+Performance&amp;rft.au=Dunning%2C+David&amp;rft.au=Ehrlinger%2C+Joyce&amp;rft.aufirst=Joyce&amp;rft.aulast=Ehrlinger&amp;rft.date=January+2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1037%2F0022-3514.84.1.5&amp;rft_id=info%3Apmid%2F12518967&amp;rft.issue=1&amp;rft.jtitle=Journal+of+Personality+and+Social+Psychology&amp;rft.pages=5-17&amp;rft.pub=American+Psychological+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=84" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation journal">Ames, Daniel R.; Kammrath, Lara K. (September 2004). <a rel="nofollow" class="external text" href="http://www.columbia.edu/~da358/publications/ames_kammrath_mindreading.pdf">"Mind-Reading and Metacognition: Narcissism, not Actual Competence, Predicts Self-Estimated Ability"</a> (PDF). <i><a href="/w/index.php?title=Journal_of_Nonverbal_Behavior&amp;action=edit&amp;redlink=1" class="new" title="Journal of Nonverbal Behavior (page does not exist)">Journal of Nonverbal Behavior</a></i> <b>28</b> (3): 187–209. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1023%2FB%3AJONB.0000039649.20015.0e">10.1023/B:JONB.0000039649.20015.0e</a><span class="reference-accessdate">. Retrieved <span class="nowrap">21 July</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.atitle=Mind-Reading+and+Metacognition%3A+Narcissism%2C+not+Actual+Competence%2C+Predicts+Self-Estimated+Ability&amp;rft.au=Ames%2C+Daniel+R.&amp;rft.aufirst=Daniel+R.&amp;rft.au=Kammrath%2C+Lara+K.&amp;rft.aulast=Ames&amp;rft.date=September+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.columbia.edu%2F~da358%2Fpublications%2Fames_kammrath_mindreading.pdf&amp;rft_id=info%3Adoi%2F10.1023%2FB%3AJONB.0000039649.20015.0e&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Nonverbal+Behavior&amp;rft.pages=187-209&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=28" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Burson2006-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Burson2006_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Burson2006_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Burson2006_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Burson, K.; Larrick, R.; Klayman, J. (2006). <a rel="nofollow" class="external text" href="http://141.213.232.243/bitstream/handle/2027.42/39168/956.pdf?sequence=1">"Skilled or unskilled, but still unaware of it: how perceptions of difficulty drive miscalibration in relative comparisons"</a>. <i><a href="/wiki/Journal_of_Personality_and_Social_Psychology" title="Journal of Personality and Social Psychology">Journal of Personality and Social Psychology</a></i> <b>90</b> (1): 5. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1037%2F0022-3514.90.1.60">10.1037/0022-3514.90.1.60</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16448310">16448310</a>. <a href="/wiki/Handle_System" title="Handle System">hdl</a>:<a rel="nofollow" class="external text" href="http://hdl.handle.net/2027.42%2F39168">2027.42/39168</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.atitle=Skilled+or+unskilled%2C+but+still+unaware+of+it%3A+how+perceptions+of+difficulty+drive+miscalibration+in+relative+comparisons&amp;rft.au=Burson%2C+K.&amp;rft.aufirst=K.&amp;rft.au=Klayman%2C+J.&amp;rft.au=Larrick%2C+R.&amp;rft.aulast=Burson&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2F141.213.232.243%2Fbitstream%2Fhandle%2F2027.42%2F39168%2F956.pdf%3Fsequence%3D1&amp;rft_id=info%3Adoi%2F10.1037%2F0022-3514.90.1.60&amp;rft_id=info%3Apmid%2F16448310&amp;rft.issue=1&amp;rft.jtitle=Journal+of+Personality+and+Social+Psychology&amp;rft.pages=5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=90" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-unskilledunaware-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-unskilledunaware_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-unskilledunaware_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Ehrlinger, Joyce; Johnson, Kerri; Banner, Matthew; Dunning, David; Kruger, Justin (2008). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2702783">"Why the unskilled are unaware: Further explorations of (absent) self-insight among the incompetent"</a> (PDF). <i><a href="/w/index.php?title=Organizational_Behavior_and_Human_Decision_Processes&amp;action=edit&amp;redlink=1" class="new" title="Organizational Behavior and Human Decision Processes (page does not exist)">Organizational Behavior and Human Decision Processes</a></i> <b>105</b> (1): 98–121. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.obhdp.2007.05.002">10.1016/j.obhdp.2007.05.002</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2702783">2702783</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19568317">19568317</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.atitle=Why+the+unskilled+are+unaware%3A+Further+explorations+of+%28absent%29+self-insight+among+the+incompetent&amp;rft.au=Banner%2C+Matthew&amp;rft.au=Dunning%2C+David&amp;rft.au=Ehrlinger%2C+Joyce&amp;rft.aufirst=Joyce&amp;rft.au=Johnson%2C+Kerri&amp;rft.au=Kruger%2C+Justin&amp;rft.aulast=Ehrlinger&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2702783&amp;rft_id=info%3Adoi%2F10.1016%2Fj.obhdp.2007.05.002&amp;rft_id=info%3Apmc%2F2702783&amp;rft_id=info%3Apmid%2F19568317&amp;rft.issue=1&amp;rft.jtitle=Organizational+Behavior+and+Human+Decision+Processes&amp;rft.pages=98-121&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=105" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation journal">DeAngelis, Tori (Feb 2003). <a rel="nofollow" class="external text" href="http://www.apa.org/monitor/feb03/overestimate.aspx">"Why we overestimate our competence"</a>. <i><a href="/wiki/Monitor_on_Psychology" title="Monitor on Psychology" class="mw-redirect">Monitor on Psychology</a></i> (American Psychological Association) <b>34</b> (2): 60<span class="reference-accessdate">. Retrieved <span class="nowrap">7 March</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.atitle=Why+we+overestimate+our+competence&amp;rft.au=DeAngelis%2C+Tori&amp;rft.aufirst=Tori&amp;rft.aulast=DeAngelis&amp;rft.date=Feb+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.apa.org%2Fmonitor%2Ffeb03%2Foverestimate.aspx&amp;rft.issue=2&amp;rft.jtitle=Monitor+on+Psychology&amp;rft.pages=60&amp;rft.pub=American+Psychological+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=34" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://improbable.com/ig/ig-pastwinners.html#ig2000">"Ig Nobel Past Winners"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 March</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.btitle=Ig+Nobel+Past+Winners&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fimprobable.com%2Fig%2Fig-pastwinners.html%23ig2000&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation journal">Fuller, Geraint (2011). <a rel="nofollow" class="external text" href="http://pn.bmj.com/content/11/6/365.short">"Ignorant of ignorance?"</a>. <i><a href="/wiki/Practical_Neurology" title="Practical Neurology" class="mw-redirect">Practical Neurology</a></i> <b>11</b> (6): 365. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fpractneurol-2011-000117">10.1136/practneurol-2011-000117</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22100949">22100949</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.atitle=Ignorant+of+ignorance%3F&amp;rft.aufirst=Geraint&amp;rft.au=Fuller%2C+Geraint&amp;rft.aulast=Fuller&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpn.bmj.com%2Fcontent%2F11%2F6%2F365.short&amp;rft_id=info%3Adoi%2F10.1136%2Fpractneurol-2011-000117&amp;rft_id=info%3Apmid%2F22100949&amp;rft.issue=6&amp;rft.jtitle=Practical+Neurology&amp;rft.pages=365&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation journal">Dunning, David (27 October 2014). <a rel="nofollow" class="external text" href="http://www.psmag.com/navigation/health-and-behavior/confident-idiots-92793/">"We Are All Confident Idiots"</a>. <i>Pacific Standard</i> (Miller-McCune Center for Research, Media, and Public Policy)<span class="reference-accessdate">. Retrieved <span class="nowrap">28 October</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADunning%E2%80%93Kruger+effect&amp;rft.atitle=We+Are+All+Confident+Idiots&amp;rft.au=Dunning%2C+David&amp;rft.aufirst=David&amp;rft.aulast=Dunning&amp;rft.date=27+October+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.psmag.com%2Fnavigation%2Fhealth-and-behavior%2Fconfident-idiots-92793%2F&amp;rft.jtitle=Pacific+Standard&amp;rft.pub=Miller-McCune+Center+for+Research%2C+Media%2C+and+Public+Policy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> A popular commentary by David Dunning, with links to other articles, about the research program on how human beings evaluate their own knowledge and competence.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1239
+CPU time usage: 0.235 seconds
+Real time usage: 0.300 seconds
+Preprocessor visited node count: 1443/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43882/2097152 bytes
+Template argument size: 1654/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 6/500
+Lua time usage: 0.077/10.000 seconds
+Lua memory usage: 3.83 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  221.764      1 - -total
+ 43.07%   95.519      1 - Template:Reflist
+ 24.12%   53.485      9 - Template:Cite_journal
+ 16.71%   37.057      1 - Template:Pp-pc1
+ 14.26%   31.630      2 - Template:Fact
+ 11.77%   26.106      2 - Template:Fix
+ 10.31%   22.856      4 - Template:Category_handler
+  7.25%   16.083      1 - Template:Psychology_sidebar
+  6.45%   14.294      1 - Template:Use_dmy_dates
+  4.61%   10.222      1 - Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:stable-pcache:idhash:2288777-0!*!0!!en!4!* and timestamp 20150323222012 and revision id 653135215
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Dunning–Kruger_effect&amp;oldid=653135215">http://en.wikipedia.org/w/index.php?title=Dunning–Kruger_effect&amp;oldid=653135215</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Social_science_methodology" title="Category:Social science methodology">Social science methodology</a></li><li><a href="/wiki/Category:Social_psychology" title="Category:Social psychology">Social psychology</a></li><li><a href="/wiki/Category:Cognition" title="Category:Cognition">Cognition</a></li><li><a href="/wiki/Category:Cognitive_biases" title="Category:Cognitive biases">Cognitive biases</a></li><li><a href="/wiki/Category:1999_introductions" title="Category:1999 introductions">1999 introductions</a></li><li><a href="/wiki/Category:Incompetence" title="Category:Incompetence">Incompetence</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_pending_changes_protected_pages_(level_1)" title="Category:Wikipedia pending changes protected pages (level 1)">Wikipedia pending changes protected pages (level 1)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2013" title="Category:Use dmy dates from July 2013">Use dmy dates from July 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2015" title="Category:Articles with unsourced statements from February 2015">Articles with unsourced statements from February 2015</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dunning%E2%80%93Kruger+effect&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dunning%E2%80%93Kruger+effect" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Dunning%E2%80%93Kruger_effect"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Dunning%E2%80%93Kruger_effect"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Dunning%E2%80%93Kruger_effect" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dunning%E2%80%93Kruger_effect" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dunning%E2%80%93Kruger_effect" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;oldid=653135215" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q639444" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dunning%E2%80%93Kruger_effect&amp;id=653135215" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dunning%E2%80%93Kruger+effect">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Dunning%E2%80%93Kruger+effect&amp;oldid=653135215&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-af"><a href="//af.wikipedia.org/wiki/Dunning-Kruger-effek" title="Dunning-Kruger-effek – Afrikaans" lang="af" hreflang="af">Afrikaans</a></li>
+													<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1_%D8%AF%D8%A7%D9%86%D9%8A%D9%86%D8%BA-%D9%83%D8%B1%D9%88%D8%AC%D8%B1" title="تأثير دانينغ-كروجر – Arabic" lang="ar" hreflang="ar">العربية</a></li>
+													<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%95%D1%84%D0%B5%D0%BA%D1%82_%D0%BD%D0%B0_%D0%94%D1%8A%D0%BD%D0%B8%D0%BD%D0%B3-%D0%9A%D1%80%D1%8E%D0%B3%D0%B5%D1%80" title="Ефект на Дънинг-Крюгер – Bulgarian" lang="bg" hreflang="bg">Български</a></li>
+													<li class="interlanguage-link interwiki-br"><a href="//br.wikipedia.org/wiki/Efed_Dunning-Kruger" title="Efed Dunning-Kruger – Breton" lang="br" hreflang="br">Brezhoneg</a></li>
+													<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Efecte_Dunning-Kruger" title="Efecte Dunning-Kruger – Catalan" lang="ca" hreflang="ca">Català</a></li>
+													<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Dunning-Kruger%C5%AFv_efekt" title="Dunning-Krugerův efekt – Czech" lang="cs" hreflang="cs">Čeština</a></li>
+													<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Dunning-Kruger-effekten" title="Dunning-Kruger-effekten – Danish" lang="da" hreflang="da">Dansk</a></li>
+													<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Dunning-Kruger-Effekt" title="Dunning-Kruger-Effekt – German" lang="de" hreflang="de">Deutsch</a></li>
+													<li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Dunningi-Krugeri_efekt" title="Dunningi-Krugeri efekt – Estonian" lang="et" hreflang="et">Eesti</a></li>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Efecto_Dunning-Kruger" title="Efecto Dunning-Kruger – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D8%AB%D8%B1_%D8%AF%D8%A7%D9%86%DB%8C%D9%86%DA%AF-%DA%A9%D8%B1%D9%88%DA%AF%D8%B1" title="اثر دانینگ-کروگر – Persian" lang="fa" hreflang="fa">فارسی</a></li>
+													<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Effet_Dunning-Kruger" title="Effet Dunning-Kruger – French" lang="fr" hreflang="fr">Français</a></li>
+													<li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%8D%94%EB%8B%9D_%ED%81%AC%EB%A3%A8%EA%B1%B0_%ED%9A%A8%EA%B3%BC" title="더닝 크루거 효과 – Korean" lang="ko" hreflang="ko">한국어</a></li>
+													<li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Dunning-Kruger_efekt" title="Dunning-Kruger efekt – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li>
+													<li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Efek_Dunning%E2%80%93Kruger" title="Efek Dunning–Kruger – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+													<li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Effetto_Dunning-Kruger" title="Effetto Dunning-Kruger – Italian" lang="it" hreflang="it">Italiano</a></li>
+													<li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%90%D7%A4%D7%A7%D7%98_%D7%93%D7%90%D7%A0%D7%99%D7%A0%D7%92-%D7%A7%D7%A8%D7%95%D7%92%D7%A8" title="אפקט דאנינג-קרוגר – Hebrew" lang="he" hreflang="he">עברית</a></li>
+													<li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%93%E1%83%90%E1%83%9C%E1%83%98%E1%83%9C%E1%83%92-%E1%83%99%E1%83%A0%E1%83%A3%E1%83%92%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1_%E1%83%94%E1%83%A4%E1%83%94%E1%83%A5%E1%83%A2%E1%83%98" title="დანინგ-კრუგერის ეფექტი – Georgian" lang="ka" hreflang="ka">ქართული</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Dunning%E2%80%93Kruger_hat%C3%A1s" title="Dunning–Kruger hatás – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Dunning-krugereffect" title="Dunning-krugereffect – Dutch" lang="nl" hreflang="nl">Nederlands</a></li>
+													<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%83%B3%E3%82%B0%EF%BC%9D%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%AC%E3%83%BC%E5%8A%B9%E6%9E%9C" title="ダニング＝クルーガー効果 – Japanese" lang="ja" hreflang="ja">日本語</a></li>
+													<li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Dunning-Kruger-effekten" title="Dunning-Kruger-effekten – Norwegian (bokmål)" lang="no" hreflang="no">Norsk bokmål</a></li>
+													<li class="interlanguage-link interwiki-uz"><a href="//uz.wikipedia.org/wiki/Dunning%E2%80%93Kruger_samarasi" title="Dunning–Kruger samarasi – Uzbek" lang="uz" hreflang="uz">Oʻzbekcha/ўзбекча</a></li>
+													<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Efekt_Krugera-Dunninga" title="Efekt Krugera-Dunninga – Polish" lang="pl" hreflang="pl">Polski</a></li>
+													<li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Efeito_Dunning-Kruger" title="Efeito Dunning-Kruger – Portuguese" lang="pt" hreflang="pt">Português</a></li>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Efectul_Dunning-Kruger" title="Efectul Dunning-Kruger – Romanian" lang="ro" hreflang="ro">Română</a></li>
+													<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82_%D0%94%D0%B0%D0%BD%D0%BD%D0%B8%D0%BD%D0%B3%D0%B0_%E2%80%94_%D0%9A%D1%80%D1%8E%D0%B3%D0%B5%D1%80%D0%B0" title="Эффект Даннинга — Крюгера – Russian" lang="ru" hreflang="ru">Русский</a></li>
+													<li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect" title="Dunning–Kruger effect – Simple English" lang="simple" hreflang="simple">Simple English</a></li>
+													<li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Dunningov-Krugerov_efekt" title="Dunningov-Krugerov efekt – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li>
+													<li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Dunning-Krugerjev_u%C4%8Dinek" title="Dunning-Krugerjev učinek – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li>
+													<li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/Daning-Krugerov_efekat" title="Daning-Krugerov efekat – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li>
+													<li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Dunning%E2%80%93Kruger-efekti" title="Dunning–Kruger-efekti – Finnish" lang="fi" hreflang="fi">Suomi</a></li>
+													<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Dunning%E2%80%93Kruger-effekten" title="Dunning–Kruger-effekten – Swedish" lang="sv" hreflang="sv">Svenska</a></li>
+													<li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Dunning-Kruger_etkisi" title="Dunning-Kruger etkisi – Turkish" lang="tr" hreflang="tr">Türkçe</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%95%D1%84%D0%B5%D0%BA%D1%82_%D0%94%D0%B0%D0%BD%D0%BD%D1%96%D0%BD%D0%B3%D0%B0-%D0%9A%D1%80%D1%8E%D2%91%D0%B5%D1%80%D0%B0" title="Ефект Даннінга-Крюґера – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%BE%BE%E5%85%8B%E6%95%88%E5%BA%94" title="达克效应 – Chinese" lang="zh" hreflang="zh">中文</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q639444#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 March 2015, at 09:51.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dunning%E2%80%93Kruger_effect&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf21/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.wikiEditor.init","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.flaggedRevs.advanced"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":459,"wgHostname":"mw1239"});
+}</script>
+	</body>
+</html>
